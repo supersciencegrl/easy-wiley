@@ -10,14 +10,14 @@ ET.register_namespace('prism', 'http://prismstandard.org/namespaces/basic/2.0/')
 ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
 ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
 
-def getxml():        
+def getxml():    
 	url = 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'
 	headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
-                   'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-                   'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-                   'Accept-Encoding': 'none',
-                   'Accept-Language': 'en-US,en;q=0.8',
-                   'Connection': 'keep-alive'}
+           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+           'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+           'Accept-Encoding': 'none',
+           'Accept-Language': 'en-US,en;q=0.8',
+           'Connection': 'keep-alive'}
 
 	response = requests.get(url, headers = headers)
 	if response.status_code == 200:
@@ -34,43 +34,46 @@ def getxmlfromfile():
 	return root
 
 def updaterss():
-        root = getxml()
+    root = getxml()
 
-        # Read in old articles
-        with open('acie_old.csv', 'rt') as fin:
-                reader = csv.reader(fin)
-                old_articles = list(reader)
+    # Read in old articles
+    with open('acie_old.csv', 'rt') as fin:
+        reader = csv.reader(fin)
+        old_articles = list(reader)
 
-        # Read in RSS articles and remove newer duplicates
-        rss_articles = old_articles
-        for paper in root[2:][::-1]:
-                for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
-                        doi = doi.text
-                for date in paper.findall('{http://purl.org/dc/elements/1.1/}date'):
-                        date = date.text
+    # Read in RSS articles and remove newer duplicates
+    rss_articles = old_articles
+    for paper in root[2:][::-1]:
+        for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
+            doi = doi.text
+        if paper.findall('{http://purl.org/dc/elements/1.1/}date'):
+            for date in paper.findall('{http://purl.org/dc/elements/1.1/}date'):
+                date = date.text
+        else:
+            date = 'none'
 
-                if [doi, date] not in rss_articles:
-                        if doi in [i[0] for i in rss_articles]:
-                                root.remove(paper)
-                                #print(paper.findall('{http://purl.org/dc/elements/1.1/}title')[0].text)
-                        else:
-                                rss_articles.append([doi, date])
+        if [doi, date] not in rss_articles:
+            if doi in [i[0] for i in rss_articles]:
+                root.remove(paper)
+                #print(paper.findall('{http://purl.org/dc/elements/1.1/}title')[0].text)
+            else:
+                rss_articles.append([doi, date])
 
-        # Create new RSS feed
-        with open('ACIE.xml', 'wb') as fout:
-                fout.write(ET.tostring(root))
+    # Create new RSS feed
+    with open('ACIE.xml', 'wb') as fout:
+        fout.write(ET.tostring(root))
 
-        # Update old article list
-        with open('acie_old.csv', 'wt', newline = '') as fout:
-                writer = csv.writer(fout, quoting = csv.QUOTE_ALL)
-                for a in rss_articles:
-                        b = fout.write((',').join(a) + '\n')
+    # Update old article list
+    with open('acie_old.csv', 'wt', newline = '') as fout:
+        writer = csv.writer(fout, quoting = csv.QUOTE_ALL)
+        for a in rss_articles:
+            b = fout.write((',').join(a) + '\n')
 
 def ghpush(cdate):
-        print(subprocess.check_output('git init'))
-        print(subprocess.check_output('git add .'))
-        subprocess.run('git commit -m "%s"' % cdate)
-        subprocess.run('git push origin master')
+    print(subprocess.check_output('git init'))
+    print(subprocess.check_output('git add .'))
+    subprocess.run('git commit -m "%s"' % cdate)
+    subprocess.run('git push origin master')
 
 ##{http://purl.org/rss/1.0/}title {}
 ##{http://purl.org/dc/elements/1.1/}description {}
