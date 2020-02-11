@@ -42,7 +42,7 @@ def updaterss():
         old_articles = list(reader)
 
     # Read in RSS articles and remove newer duplicates
-    rss_articles = old_articles
+    rss_articles = old_articles[:]
     for paper in root[2:][::-1]:
         for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
             doi = doi.text
