@@ -35,6 +35,7 @@ def getxmlfromfile():
 
 def updaterss():
     root = getxml()
+    journal = 'Angewandte Chemie International Edition'
 
     # Read in old articles
     with open('acie_old.csv', 'rt') as fin:
@@ -60,9 +61,11 @@ def updaterss():
                 rss_articles.append([doi, date])
 
     if root[0][0].tag.endswith('title'):
-        root[0][0].text = 'Angewandte Chemie International Edition (no repeats)'
-    if root[0][6].text == 'Angewandte Chemie International Edition':
-        root[0][6].text = root[0][6].text + ' (no repeats)'
+        root[0][0].text = f'{journal} (no repeats)'
+    if root[0][3].tag.endswith('title'):
+        root[0][3].text = f'{journal} (no repeats)'
+    if root[0][6].text == f'{journal}':
+        root[0][6].text = f'{journal} (no repeats)'
 
     # Create new RSS feed
     with open('ACIE.xml', 'wb') as fout:
