@@ -10,8 +10,11 @@ ET.register_namespace('prism', 'http://prismstandard.org/namespaces/basic/2.0/')
 ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
 ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
 
-def getxml():    
-	url = 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'
+journallist = [{'journal': 'Angewandte Chemie International Edition', 'shortname': 'ACIE', 'url': 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'},
+               {'journal': 'Advanced Synthesis & Catalysis', 'shortname': 'AdvSynthCatal', 'url': 'https://onlinelibrary.wiley.com/feed/16154169/most-recent'}
+               ]
+
+def getxml(url):    
 	headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
@@ -33,9 +36,8 @@ def getxmlfromfile():
 
 	return root
 
-def updaterss():
-    root = getxml()
-    journal = 'Angewandte Chemie International Edition'
+def updaterss(journal, shortname, url):
+    root = getxml(url)
 
     # Read in old articles
     with open('acie_old.csv', 'rt') as fin:
@@ -60,6 +62,7 @@ def updaterss():
             else:
                 rss_articles.append([doi, date])
 
+    # Change feed title
     if root[0][0].tag.endswith('title'):
         root[0][0].text = f'{journal} (no repeats)'
     if root[0][3].tag.endswith('title'):
@@ -68,14 +71,21 @@ def updaterss():
         root[0][6].text = f'{journal} (no repeats)'
 
     # Create new RSS feed
-    with open('ACIE.xml', 'wb') as fout:
+    with open(f'{shortname}.xml', 'wb') as fout:
         fout.write(ET.tostring(root))
 
     # Update old article list
-    with open('acie_old.csv', 'wt', newline = '') as fout:
+    with open(f'{shortname}_old.csv'.lower(), 'wt', newline = '') as fout:
         writer = csv.writer(fout, quoting = csv.QUOTE_ALL)
         for a in rss_articles:
             b = fout.write((',').join(a) + '\n')
+
+def updatejournals():
+    for j in journallist:
+        journal = j['journal']
+        shortname = j['shortname']
+        url = j['url']
+        updaterss(journal, shortname, url)
 
 def ghpush(cdate):
     print(subprocess.check_output('git init'))

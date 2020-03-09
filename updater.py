@@ -1,12 +1,12 @@
 from datetime import date
 
-from getxml import updaterss, ghpush
+from getxml import updatejournals, ghpush
 
 cdate = date.today()
 commitmsg = cdate.strftime('%Y-%b-%d')
 
 def getxml():
-    updaterss()
+    updatejournals()
     cdate = date.today()
     commitmsg = cdate.strftime('%Y-%b-%d')
     ghpush(commitmsg)
