@@ -10,9 +10,10 @@ ET.register_namespace('prism', 'http://prismstandard.org/namespaces/basic/2.0/')
 ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
 ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
 
-journallist = [{'journal': 'Angewandte Chemie International Edition', 'shortname': 'ACIE', 'url': 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'},
-               {'journal': 'Advanced Synthesis & Catalysis', 'shortname': 'AdvSynthCatal', 'url': 'https://onlinelibrary.wiley.com/feed/16154169/most-recent'}
-               ]
+journallist = [{'journal': 'Advanced Synthesis & Catalysis', 'shortname': 'AdvSynthCatal', 'url': 'https://onlinelibrary.wiley.com/feed/16154169/most-recent'},
+                {'journal': 'Angewandte Chemie International Edition', 'shortname': 'ACIE', 'url': 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'},
+                {'journal': 'Chemistry — A European Journal', 'shortname': 'ChemEurJ', 'url': 'https://onlinelibrary.wiley.com/feed/15213765/most-recent'}
+                ]
 
 def getxml(url):    
 	headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
@@ -58,7 +59,7 @@ def updaterss(journal, shortname, url):
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:
                 root.remove(paper)
-                #print(paper.findall('{http://purl.org/dc/elements/1.1/}title')[0].text)
+                rss_articles[[i[0] for i in rss_articles].index(doi)].append(date)
             else:
                 rss_articles.append([doi, date])
 
