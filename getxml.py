@@ -59,6 +59,8 @@ def updaterss():
             else:
                 rss_articles.append([doi, date])
 
+    if root[0][0].tag.endswith('title'):
+        root[0][0].text == 'Angewandte Chemie International Edition (no repeats)'
     if root[0][6].text == 'Angewandte Chemie International Edition':
         root[0][6].text = root[0][6].text + ' (no repeats)'
 
