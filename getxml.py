@@ -59,6 +59,9 @@ def updaterss():
             else:
                 rss_articles.append([doi, date])
 
+    if root[0][6].text == 'Angewandte Chemie International Edition':
+        root[0][6].text = root[0][6].text + ' (no repeats)'
+
     # Create new RSS feed
     with open('ACIE.xml', 'wb') as fout:
         fout.write(ET.tostring(root))
