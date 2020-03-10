@@ -38,7 +38,7 @@ def getxmlfromfile():
 
 	return root
 
-def updaterss(journal, shortname, url):
+def updaterss(journal, shortname, url, cdate):
     root = getxml(url)
 
     # Read in old articles
@@ -60,7 +60,9 @@ def updaterss(journal, shortname, url):
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:
                 root.remove(paper)
-                rss_articles[[i[0] for i in rss_articles].index(doi)].append(date)
+                if date == 'none':
+                    date = cdate
+                    rss_articles[[i[0] for i in rss_articles].index(doi)].append(date)
             else:
                 rss_articles.append([doi, date])
 
@@ -82,17 +84,17 @@ def updaterss(journal, shortname, url):
         for a in rss_articles:
             b = fout.write((',').join(a) + '\n')
 
-def updatejournals():
+def updatejournals(cdate):
     for j in journallist:
         journal = j['journal']
         shortname = j['shortname']
         url = j['url']
-        updaterss(journal, shortname, url)
+        updaterss(journal, shortname, url, cdate)
 
-def ghpush(cdate):
+def ghpush(commitmsg):
     print(subprocess.check_output('git init'))
     print(subprocess.check_output('git add .'))
-    subprocess.run('git commit -m "%s"' % cdate)
+    subprocess.run('git commit -m "%s"' % commitmsg)
     subprocess.run('git push origin master')
 
 ##{http://purl.org/rss/1.0/}title {}

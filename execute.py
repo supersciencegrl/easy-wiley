@@ -1,10 +1,13 @@
 #import os
+from datetime import date
 
-from updater import getxml
+from updater import updatexml
+
+cdate = date.today().strftime('%Y-%b-%d')
 
 #try:
 #    os.chdir('C:\\Users\\Nessa\\Documents\\GitHub\\easy-wiley')
 #except FileNotFoundError:
 #    os.chdir('C:\\Users\\CARSOL02\\Documents\\GitHub\\easy-wiley\\easy-wiley')
 
-getxml()
+updatexml(cdate)
