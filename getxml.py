@@ -60,6 +60,7 @@ def updaterss(journal, shortname, url, cdate):
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:
                 root.remove(paper)
+                # Add date to journal_old.csv
                 if date == 'none':
                     date = cdate
                     listposition = [i[0] for i in rss_articles].index(doi)
