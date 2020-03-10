@@ -1,5 +1,6 @@
+# coding: utf-8
+
 import xml.etree.ElementTree as ET
-import os
 import requests
 import subprocess
 import csv
