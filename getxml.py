@@ -12,7 +12,7 @@ ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
 ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
 
 journallist = [{'journal': 'Advanced Synthesis & Catalysis', 'shortname': 'AdvSynthCatal', 'url': 'https://onlinelibrary.wiley.com/feed/16154169/most-recent'},
-                {'journal': 'Angewandte Chemie International Edition', 'shortname': 'ACIE', 'url': 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'},
+                {'journal': 'Angewandte Chemie International Edition', 'shortname': 'acie', 'url': 'https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss'},
                 {'journal': 'Chemistry — A European Journal', 'shortname': 'ChemEurJ', 'url': 'https://onlinelibrary.wiley.com/feed/15213765/most-recent'}
                 ]
 
