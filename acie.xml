@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003726?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003177?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002627?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000426?af=R" />
@@ -174,7 +175,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004317?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004122?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002274?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000154?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002020?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003811?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002446?af=R" />
@@ -188,6 +188,35 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202003726?af=R">
+      <title>A chemoenzymatic approach to the synthesis of glycopeptide antibiotic analogues</title>
+      <dc:description>The glycopeptide antibiotics (GPAs) are important antibiotics that are highly challenging to synthesise due to their unique and heavily crosslinked structure. Given this, the synthetic production and diversification of this key compound class remains impractical. Furthermore, the possibility of biosynthetic reengineering of GPAs is not yet feasible as the selectivity of the biosynthetic crosslinking enzymes for altered substrates is largely unknown. Here, we show that the combination of peptide synthesis with enzymatic cyclisation enables the formation of novel examples of GPAs and provides an indication of the utility of these crucial enzymes. By accessing the biosynthetic process  in vitro  , we identify peptide modifications that are enzymatically tolerated and can also reveal the mechanistic basis for substrate intolerance where present. Using this approach, we next specifically activate modified residues within GPAs for functionalisation at previously inaccessible positions, offering the possibility of late&#8208;stage chemical functionalisation after GPA cyclisation is complete.</dc:description>
+      <dc:creator>
+Max  J. Cryle, 
+Julien Tailhades, 
+Yongwei Zhao, 
+Candace Ho, 
+Anja Greule, 
+Iftekhar Ahmed, 
+Melanie Schoppet, 
+Ketav Kulkarni, 
+Rob  J. A. Goode, 
+Ralf  B. Schittenhelm, 
+James  J. De Voss
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003726?af=R</link>
+      <content:encoded>&lt;p&gt;The glycopeptide antibiotics (GPAs) are important antibiotics that are highly challenging to synthesise due to their unique and heavily crosslinked structure. Given this, the synthetic production and diversification of this key compound class remains impractical. Furthermore, the possibility of biosynthetic reengineering of GPAs is not yet feasible as the selectivity of the biosynthetic crosslinking enzymes for altered substrates is largely unknown. Here, we show that the combination of peptide synthesis with enzymatic cyclisation enables the formation of novel examples of GPAs and provides an indication of the utility of these crucial enzymes. By accessing the biosynthetic process  in vitro  , we identify peptide modifications that are enzymatically tolerated and can also reveal the mechanistic basis for substrate intolerance where present. Using this approach, we next specifically activate modified residues within GPAs for functionalisation at previously inaccessible positions, offering the possibility of late&#8208;stage chemical functionalisation after GPA cyclisation is complete.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A chemoenzymatic approach to the synthesis of glycopeptide antibiotic analogues</dc:title>
+      <dc:identifier>doi:10.1002/anie.202003726</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-15T07:04:55-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202003726</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003726?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202003177?af=R">
       <title>Building an Air Stable and Lithium Deposition Regulable Garnet Interface from Moderate&#8208;Temperature Conversion Chemistry</title>
       <dc:description>Garnet&#8208;type electrolytes suffer from unstable chemistry against air exposure, which generates contaminants on electrolyte surface and accounts for poor interfacial contact with Li metal. Thermal treatment of the garnet at &gt; 700  o  C could remove the surface contaminates, yet it regenerates the contaminants in air, and aggravate the Li dendrite issue as more electron&#8208;conducting defective sites are exposed. In a departure from the removal approach, here we report a new surface chemistry that converts the contaminants into a fluorinated interface at moderate temperature &lt;180  o  C. The modified interface shows a high electron tunnelling barrier and a low energy barrier for Li  +  surface diffusion, so that it enables dendrite&#8208;proof Li plating/stripping at a high critical current density of 1.4 mA cm  &#8722;2  . Moreover, the modified interface exhibits high chemical and electrochemical stability against air exposure, which prevents regeneration of contaminants and keeps high critical current density of 1.1 mA cm  &#8722;2  . The new chemistry presents a practical solution for realization of high&#8208;energy solid&#8208;state Li metal batteries.</dc:description>
@@ -3220,28 +3249,6 @@ Genqiang Zhang
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202002274</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002274?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202000154?af=R">
-      <title>Unexpected Correlation Between Boron Chain Condensation and HER Activity in Highly Active Vanadium Borides: Enabling Predictions</title>
-      <dc:description>Transition metal borides (TMBs) have recently attracted attention as excellent hydrogen evolution (HER) electrocatalysts in bulk crystalline materials. Here, we show for the first time that VB and V  3  B  4  have high electrocatalytic HER activity. Furthermore, we show that the HER activity (in 0.5 M H  2  SO  4  ) increases with increasing boron chain condensation in vanadium borides: Using a &#8208;23 mV overpotential decrement derived from &#8208;0.296 mV (for VB at &#8209;10 mA/cm  2  current density) and &#8208;0.273 mV (for V  3  B  4  ) we accurately predict the overpotential of VB  2  (&#8208;0.204 mV) as well&#160; as that of unstudied V  2  B  3  (&#8208;0.250 mV) and hypothetical &#8220;V  5  B  8  &#8221; (&#8208;0.227 mV). We then derived an exponential equation that predicts the overpotentials of known and hypothetical V  x  B  y  phases containing at least a boron chain. These results provide a direct correlation between crystal structure and HER activity, thus paving the way for the design of even better electrocatalytic materials through structure&#8208;activity relationships.</dc:description>
-      <dc:creator>
-Eunsoo Lee, 
-Hyounmyung Park, 
-Hyunkeun Joo, 
-Boniface  Tsinde Polequin Fokwa
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000154?af=R</link>
-      <content:encoded>&lt;p&gt;Transition metal borides (TMBs) have recently attracted attention as excellent hydrogen evolution (HER) electrocatalysts in bulk crystalline materials. Here, we show for the first time that VB and V  3  B  4  have high electrocatalytic HER activity. Furthermore, we show that the HER activity (in 0.5 M H  2  SO  4  ) increases with increasing boron chain condensation in vanadium borides: Using a &#8208;23 mV overpotential decrement derived from &#8208;0.296 mV (for VB at &#8209;10 mA/cm  2  current density) and &#8208;0.273 mV (for V  3  B  4  ) we accurately predict the overpotential of VB  2  (&#8208;0.204 mV) as well&#160; as that of unstudied V  2  B  3  (&#8208;0.250 mV) and hypothetical &#8220;V  5  B  8  &#8221; (&#8208;0.227 mV). We then derived an exponential equation that predicts the overpotentials of known and hypothetical V  x  B  y  phases containing at least a boron chain. These results provide a direct correlation between crystal structure and HER activity, thus paving the way for the design of even better electrocatalytic materials through structure&#8208;activity relationships.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Unexpected Correlation Between Boron Chain Condensation and HER Activity in Highly Active Vanadium Borides: Enabling Predictions</dc:title>
-      <dc:identifier>doi:10.1002/anie.202000154</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-04-08T06:55:26-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202000154</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000154?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
