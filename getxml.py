@@ -42,7 +42,7 @@ def updaterss(journal, shortname, url, cdate):
     root = getxml(url)
 
     # Read in old articles
-    with open(f'{shortname}_old.csv', 'rt') as fin:
+    with open(f'{shortname.lower()}_old.csv', 'rt') as fin:
         reader = csv.reader(fin)
         old_articles = list(reader)
 
@@ -82,7 +82,7 @@ def updaterss(journal, shortname, url, cdate):
         fout.write(ET.tostring(root))
 
     # Update old article list
-    with open(f'{shortname}_old.csv'.lower(), 'wt', newline = '') as fout:
+    with open(f'{shortname.lower()}_old.csv'.lower(), 'wt', newline = '') as fout:
         writer = csv.writer(fout, quoting = csv.QUOTE_ALL)
         for a in rss_articles:
             b = fout.write((',').join(a) + '\n')
