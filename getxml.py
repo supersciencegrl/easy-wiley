@@ -42,7 +42,7 @@ def updaterss(journal, shortname, url, cdate):
     root = getxml(url)
 
     # Read in old articles
-    with open('{shortname}_old.csv', 'rt') as fin:
+    with open(f'{shortname}_old.csv', 'rt') as fin:
         reader = csv.reader(fin)
         old_articles = list(reader)
 
