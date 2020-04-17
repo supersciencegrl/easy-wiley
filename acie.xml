@@ -1,4 +1,4 @@
-<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <channel rdf:about="https://onlinelibrary.wiley.com/journal/15213773?af=R">
       <title>Angewandte Chemie International Edition (no repeats)</title>
       <description>Table of Contents for Angewandte Chemie International Edition. List of articles from both the latest and EarlyView issues.</description>
@@ -9,6 +9,29 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002935?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003799?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002713?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916103?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002765?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004002?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002132?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003219?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004059?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005341?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000936?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003651?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003685?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001966?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004048?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002208?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002740?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002288?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002391?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001561?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002118?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001067?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002527?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002641?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003895?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002642?af=R" />
@@ -103,22 +126,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002669?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004671?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003527?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003839?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003687?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002106?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003654?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002751?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003829?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003523?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915708?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915824?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001055?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201914703?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003053?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002580?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004796?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003351?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003131?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916088?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916272?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201913804?af=R" />
@@ -170,16 +180,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201914473?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915931?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201813952?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916395?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004679?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003550?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002291?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002651?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002020?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003811?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002446?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002484?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001809?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -188,4 +188,381 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202002765?af=R">
+      <title>Palladium&#8208;Catalyzed Asymmetric [4+2] Cycloaddition of 2&#8208;Methylidenetrimethylene Carbonate with Alkenes: Access to Chiral Tetrahydropyran&#8208;Fused Spirocyclic Scaffolds</title>
+      <dc:description>A palladium&#8208;catalyzed asymmetric [4+2] cycloaddition of 2&#8208;methylidenetrimethylene carbonate with the pharmacologically interesting pyrazolones, indandiones, barbituric acids has been successfully developed, affording chiral tetrahydropyran&#8208;fused spirocyclic scaffolds. The target compounds were generated in good to excellent yields and with high enantioselectivities (up to 99% ee). Furthermore, this cycloaddition reaction could be efficiently scaled&#8208;up and several synthetic transformations were accomplished for the construction of other useful chiral spiropyrazolone and spiroindandione derivatives.</dc:description>
+      <dc:creator>
+Hongchao Guo, 
+Biming Mao, 
+Honglei Liu, 
+Zhengyang Yan, 
+Yi Xu, 
+Jiaqing Xu, 
+Wei Wang, 
+Yongjun Wu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002765?af=R</link>
+      <content:encoded>&lt;p&gt;A palladium&#8208;catalyzed asymmetric [4+2] cycloaddition of 2&#8208;methylidenetrimethylene carbonate with the pharmacologically interesting pyrazolones, indandiones, barbituric acids has been successfully developed, affording chiral tetrahydropyran&#8208;fused spirocyclic scaffolds. The target compounds were generated in good to excellent yields and with high enantioselectivities (up to 99% ee). Furthermore, this cycloaddition reaction could be efficiently scaled&#8208;up and several synthetic transformations were accomplished for the construction of other useful chiral spiropyrazolone and spiroindandione derivatives.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Palladium&#8208;Catalyzed Asymmetric [4+2] Cycloaddition of 2&#8208;Methylidenetrimethylene Carbonate with Alkenes: Access to Chiral Tetrahydropyran&#8208;Fused Spirocyclic Scaffolds</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002765</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T09:03:43-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002765</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002765?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202004002?af=R">
+      <title>Hydrogen&#8208;Bonding Catalyzed Ring&#8208;Closing C&#8208;O/C&#8208;O Metathesis of Aliphatic Ethers over Ionic Liquid under Metal&#8208;Free Conditions</title>
+      <dc:description>O&#8208;heterocycles have wide applications, and their efficient and green synthesis is very interesting. Herein, we report hydrogen&#8208;bonding catalyzed ring&#8208;closing metathesis of aliphatic ethers to O&#8208;heterocycles over ionic liquid (IL) catalyst under metal&#8208; and solvent&#8208;free conditions. The IL 1&#8208;butylsulfonate&#8208;3&#8208;methylimidazolium trifluoromethanesulfonate ([SO3H&#8208;BMIm][OTf]) is discovered to show outstanding performance, better than the reported catalysts. Interface effect plays an important role in mediating the reaction rate due to the immiscibility between the products and the IL catalyst, and the products can be spontaneously separated. NMR analysis and DFT calculation suggest that a pair of cation and anion of [SO3H&#8208;BMIm][OTf] could form three strong H&#8208;bonds with an ether molecule, which catalyze the ether transformation via a cyclic oxonium intermediate. A series of O&#8208;heterocycles including tetrahydrofurans, tetrahydropyrans, morpholines and dioxane can be obtained from their corresponding ethers in excellent yields (e.g., &gt;99%). This work opens an efficient and metal&#8208;free way to produce O&#8208;heterocycles from aliphatic ethers.</dc:description>
+      <dc:creator>
+Huan Wang, 
+Yanfei Zhao, 
+Fengtao Zhang, 
+Yunyan Wu, 
+Ruipeng Li, 
+Junfeng Xiang, 
+Zhenpeng Wang, 
+Buxing Han, 
+Zhimin Liu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004002?af=R</link>
+      <content:encoded>&lt;p&gt;O&#8208;heterocycles have wide applications, and their efficient and green synthesis is very interesting. Herein, we report hydrogen&#8208;bonding catalyzed ring&#8208;closing metathesis of aliphatic ethers to O&#8208;heterocycles over ionic liquid (IL) catalyst under metal&#8208; and solvent&#8208;free conditions. The IL 1&#8208;butylsulfonate&#8208;3&#8208;methylimidazolium trifluoromethanesulfonate ([SO3H&#8208;BMIm][OTf]) is discovered to show outstanding performance, better than the reported catalysts. Interface effect plays an important role in mediating the reaction rate due to the immiscibility between the products and the IL catalyst, and the products can be spontaneously separated. NMR analysis and DFT calculation suggest that a pair of cation and anion of [SO3H&#8208;BMIm][OTf] could form three strong H&#8208;bonds with an ether molecule, which catalyze the ether transformation via a cyclic oxonium intermediate. A series of O&#8208;heterocycles including tetrahydrofurans, tetrahydropyrans, morpholines and dioxane can be obtained from their corresponding ethers in excellent yields (e.g., &amp;gt;99%). This work opens an efficient and metal&#8208;free way to produce O&#8208;heterocycles from aliphatic ethers.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Hydrogen&#8208;Bonding Catalyzed Ring&#8208;Closing C&#8208;O/C&#8208;O Metathesis of Aliphatic Ethers over Ionic Liquid under Metal&#8208;Free Conditions</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004002</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T08:38:45-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004002</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004002?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002132?af=R">
+      <title>Engineering Active Sites of Polyaniline for AlCl2+ Storage in Aluminum Battery</title>
+      <dc:description>The reversible capacity of AlCl  4  &#8209;  intercalation/de&#8208;intercalation in conventional cathodes of aluminum&#8208;ion batteries (AIBs) is often difficult to be improved due to the large size of AlCl  4  &#8209;  anions. Therefore, it is highly desired to realize the intercalation/de&#8208;intercalation of other Al&#8208;based ions with smaller size. Here, we fabricated polyaniline/single&#8208;walled carbon nanotubes (PANI/SWCNTs) composite films and further protonated the PANI nanorods in them. The protonation endows PANI with more active sites and enhanced conductivity. More importantly, hyper self&#8208;protonated PANI (PANI(H  +  )) exhibits the reversible AlCl  2  +  intercalation/de&#8208;intercalation during discharge/charge process. As a result, the Al/PANI(H  +  ) battery displays a twice higher discharge capacity in comparison with the original composite films. Furthermore, PANI(H  +  )@SWCNT electrodes also display stable cycling life with only 0.003% capacity decay per cycle over 8000 cycles. In addition, owing to the excellent mechanical properties, PANI(H  +  )@SWCNT composite films can act as the electrodes of flexible AIBs. As a proof of concept, the flexible cable&#8208;type AIBs were assembled based on them and remained stable electrochemical performance at bending states. This work will pave the way for the applications of conducting polymers in AIBs and broadens the horizons of AIBs in flexible energy storage devices.</dc:description>
+      <dc:creator>
+Shuai Wang, 
+Shuo Huang, 
+Minjie Yao, 
+Yan Zhang, 
+Zhiqiang Niu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002132?af=R</link>
+      <content:encoded>&lt;p&gt;The reversible capacity of AlCl  4  &#8209;  intercalation/de&#8208;intercalation in conventional cathodes of aluminum&#8208;ion batteries (AIBs) is often difficult to be improved due to the large size of AlCl  4  &#8209;  anions. Therefore, it is highly desired to realize the intercalation/de&#8208;intercalation of other Al&#8208;based ions with smaller size. Here, we fabricated polyaniline/single&#8208;walled carbon nanotubes (PANI/SWCNTs) composite films and further protonated the PANI nanorods in them. The protonation endows PANI with more active sites and enhanced conductivity. More importantly, hyper self&#8208;protonated PANI (PANI(H  +  )) exhibits the reversible AlCl  2  +  intercalation/de&#8208;intercalation during discharge/charge process. As a result, the Al/PANI(H  +  ) battery displays a twice higher discharge capacity in comparison with the original composite films. Furthermore, PANI(H  +  )@SWCNT electrodes also display stable cycling life with only 0.003% capacity decay per cycle over 8000 cycles. In addition, owing to the excellent mechanical properties, PANI(H  +  )@SWCNT composite films can act as the electrodes of flexible AIBs. As a proof of concept, the flexible cable&#8208;type AIBs were assembled based on them and remained stable electrochemical performance at bending states. This work will pave the way for the applications of conducting polymers in AIBs and broadens the horizons of AIBs in flexible energy storage devices.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Engineering Active Sites of Polyaniline for AlCl2+ Storage in Aluminum Battery</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002132</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T08:38:15-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002132</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002132?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202003219?af=R">
+      <title>Diversity Oriented Clicking (DOC): Divergent Synthesis of SuFExable Pharmacophores From 2&#8208;Substituted&#8208;Alkynyl&#8208;1&#8208;Sulfonyl Fluoride (SASF) Hubs</title>
+      <dc:description>Diversity Oriented Clicking (DOC) is a unified click&#8208;approach for the modular synthesis of lead&#8208;like structures through application of the wide family of click transformations. DOC evolved from the concept of achieving  &#8220;diversity with ease&#8221;  by combining classic C&#8208;C &#960;&#8208;bond click chemistry with recent developments in connective SuFEx&#8208;technologies. We showcase 2&#8208;  S  ubstituted&#8208;  A  lkynyl&#8208;1&#8208;  S  ulfonyl  F  luorides (SASFs) as a new class of connective hub in concert with a diverse selection of click&#8208;cycloaddition processes. Through the stereoselective DOC of SASFs with a range of dipoles and dienes, we report a diverse click&#8208;library of 173 unique functional molecules in minimal synthetic steps. The SuFExable library comprises 10 discrete heterocyclic core structures derived from 1,3&#8208; and 1,5&#8208;dipoles; while reaction with dienes yields several 3&#8208;dimensional Diels&#8208;Alder adducts. Growing the library to 278 discrete compounds through late&#8208;stage modification is made possible through SuFEx click derivatization of the pendant sulfonyl fluoride group in 96 well&#8208;plates &#8212; demonstrating the versatility of the DOC approach for the rapid synthesis of diverse functional structures. Screening for function against MRSA (USA300) revealed a number of lead hits with improved activity over methicillin.</dc:description>
+      <dc:creator>
+Christopher  J Smedley, 
+Gencheng Li, 
+Andrew  S Barrow, 
+Timothy  L Gialelis, 
+Marie-Claire Giel, 
+Alessandra Ottonello, 
+Yunfei Cheng, 
+Seiya Kitamura, 
+Dennis  W Wolan, 
+K. Barry Sharpless, 
+John  Edward Moses
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003219?af=R</link>
+      <content:encoded>&lt;p&gt;Diversity Oriented Clicking (DOC) is a unified click&#8208;approach for the modular synthesis of lead&#8208;like structures through application of the wide family of click transformations. DOC evolved from the concept of achieving  &#8220;diversity with ease&#8221;  by combining classic C&#8208;C &#960;&#8208;bond click chemistry with recent developments in connective SuFEx&#8208;technologies. We showcase 2&#8208;  S  ubstituted&#8208;  A  lkynyl&#8208;1&#8208;  S  ulfonyl  F  luorides (SASFs) as a new class of connective hub in concert with a diverse selection of click&#8208;cycloaddition processes. Through the stereoselective DOC of SASFs with a range of dipoles and dienes, we report a diverse click&#8208;library of 173 unique functional molecules in minimal synthetic steps. The SuFExable library comprises 10 discrete heterocyclic core structures derived from 1,3&#8208; and 1,5&#8208;dipoles; while reaction with dienes yields several 3&#8208;dimensional Diels&#8208;Alder adducts. Growing the library to 278 discrete compounds through late&#8208;stage modification is made possible through SuFEx click derivatization of the pendant sulfonyl fluoride group in 96 well&#8208;plates &#8212; demonstrating the versatility of the DOC approach for the rapid synthesis of diverse functional structures. Screening for function against MRSA (USA300) revealed a number of lead hits with improved activity over methicillin.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Diversity Oriented Clicking (DOC): Divergent Synthesis of SuFExable Pharmacophores From 2&#8208;Substituted&#8208;Alkynyl&#8208;1&#8208;Sulfonyl Fluoride (SASF) Hubs</dc:title>
+      <dc:identifier>doi:10.1002/anie.202003219</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T07:12:19-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202003219</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003219?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202004059?af=R">
+      <title>A2SnS5: S tructural  I ncommensurate  M odulation  E xhibiting  S trong  S econd&#8208;Harmonic  G eneration and  H igh  L aser  I nduced  D amage  Threshold (A = Ba, Sr)</title>
+      <dc:description>Structural modulations have been recently found to cause some unusual physical properties, such as superconductivity or charge density wave, however, the thus&#8208;induced nonlinear optical property is rare. We report for the first time two unprecedented incommensurately modulated nonlinear optical sulfides exhibiting phase matching behaviors, A 2  SnS 5  (A = Ba, Sr) with (3+1)D superspace groups  P  2 1  2 1  2(00 &#947;  )00 s  or P  2 1  ( &#945;  0 &#947;  )0, featuring different modulations of the [Sn 2  S 7  ] &#8734;  belts. Remarkably, Ba 2  SnS 5  exhibits an excellent second harmonic generation (SHG) of 1.1 &#215; benchmark AgGaS 2  at 1570 nm and a very large laser induced damage threshold (LIDT) of 8 &#215; AgGaS 2  . The theoretical studies uncover the structural modulations increase about 44 or 25% the distortions of the Sn/S building units and enhance significantly the SHG compared with &#945;  &#8208;Ba 2  SnSe 5  without modulation. Besides, despite of having smaller E g  , A 2  SnS 5  exhibit higher LIDTs owing to their smaller thermal expansion anisotropies (Ba 2  SnS 5  (1.51) &lt; Sr 2  SnS 5  (2.08) &lt; AgGaS 2  (2.97)).</dc:description>
+      <dc:creator>
+Ling Chen, 
+Rui-An Li, 
+Zhengyang Zhou, 
+Yu-Kun Lian, 
+Fei Jia, 
+Xingxing Jiang, 
+Ming-Cong Tang, 
+Li-Ming Wu, 
+Junliang Sun
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004059?af=R</link>
+      <content:encoded>&lt;p&gt;Structural modulations have been recently found to cause some unusual physical properties, such as superconductivity or charge density wave, however, the thus&#8208;induced nonlinear optical property is rare. We report for the first time two unprecedented incommensurately modulated nonlinear optical sulfides exhibiting phase matching behaviors, A 2  SnS 5  (A = Ba, Sr) with (3+1)D superspace groups  P  2 1  2 1  2(00 &#947;  )00 s  or P  2 1  ( &#945;  0 &#947;  )0, featuring different modulations of the [Sn 2  S 7  ] &#8734;  belts. Remarkably, Ba 2  SnS 5  exhibits an excellent second harmonic generation (SHG) of 1.1 &#215; benchmark AgGaS 2  at 1570 nm and a very large laser induced damage threshold (LIDT) of 8 &#215; AgGaS 2  . The theoretical studies uncover the structural modulations increase about 44 or 25% the distortions of the Sn/S building units and enhance significantly the SHG compared with &#945;  &#8208;Ba 2  SnSe 5  without modulation. Besides, despite of having smaller E g  , A 2  SnS 5  exhibit higher LIDTs owing to their smaller thermal expansion anisotropies (Ba 2  SnS 5  (1.51) &amp;lt; Sr 2  SnS 5  (2.08) &amp;lt; AgGaS 2  (2.97)).&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A2SnS5: S tructural  I ncommensurate  M odulation  E xhibiting  S trong  S econd&#8208;Harmonic  G eneration and  H igh  L aser  I nduced  D amage  Threshold (A = Ba, Sr)</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004059</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T07:09:53-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004059</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004059?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202005341?af=R">
+      <title>Asymmetric Synthesis of Silicon&#8208;Stereogenic Silanes by Copper&#8208;Catalyzed Desymmetrizing Protoboration of Vinylsilanes</title>
+      <dc:description>The catalytic asymmetric creation of silicon&#8208;stereocenter silanes is a long&#8208;sought but far less developed topic, and only a handful of examples have been reported. Moreover, the construction of (more than) two stereocenters&#8208;containing chiral silanes is a more arduous task and remains unexploited.  We herein  report an unprecedented copper&#8208;catalyzed desymmetrizing protoboration of divinyl substituted silanes with bis(pinacolato)diboron (B  2  pin  2  ). This method allows facile preparation of an array of enantiomerically enriched boronate&#8208;substituted organosilanes bearing contiguous silicon&#8208; and carbon&#8208;stereocenters with exclusive regioselectivity and generally excellent diastereo&#8208; and enantioselectivity.</dc:description>
+      <dc:creator>
+Ge Zhang, 
+Yanfei Li, 
+Ying Wang, 
+Qian Zhang, 
+Tao Xiong, 
+Qian Zhang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005341?af=R</link>
+      <content:encoded>&lt;p&gt;The catalytic asymmetric creation of silicon&#8208;stereocenter silanes is a long&#8208;sought but far less developed topic, and only a handful of examples have been reported. Moreover, the construction of (more than) two stereocenters&#8208;containing chiral silanes is a more arduous task and remains unexploited.  We herein  report an unprecedented copper&#8208;catalyzed desymmetrizing protoboration of divinyl substituted silanes with bis(pinacolato)diboron (B  2  pin  2  ). This method allows facile preparation of an array of enantiomerically enriched boronate&#8208;substituted organosilanes bearing contiguous silicon&#8208; and carbon&#8208;stereocenters with exclusive regioselectivity and generally excellent diastereo&#8208; and enantioselectivity.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Asymmetric Synthesis of Silicon&#8208;Stereogenic Silanes by Copper&#8208;Catalyzed Desymmetrizing Protoboration of Vinylsilanes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005341</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T09:06:15-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005341</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005341?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202000936?af=R">
+      <title>Optimal N&#8208;doped carbon defect configuration in 2D turbostratic carbon nanomesh for advanced oxygen reduction electrocatalysis</title>
+      <dc:description>Charge redistribution strategy driven by heteroatom doping or defect engineering has been developed as an efficient method to endow inert carbon with significant oxygen reduction reaction (ORR) activity. The synergetic effect between the two strategies is thus expected to be more effective for manipulating the charge distribution of carbon materials for exceptional ORR performance. Herein we reported a novel molecular design strategy to achieve 2D porous turbostratic carbon nanomesh with abundant N&#8208;doped carbon defects (NDC). The molecular&#8208;level integration of aromatic rings as carbon source and urea units as N source and sacrificial template into the novel precursor of polyurea (PU) promises the formation of abundant carbon edge defects and N doping sites. A special active site of carbon edge defect doped with graphitic valley N was revealed to be responsible for the exceptional ORR performance of NDC material.</dc:description>
+      <dc:creator>
+Qingxue Lai, 
+Jing Zheng, 
+Zeming Tang, 
+Da Bi, 
+Jingxiang Zhao, 
+Yanyu Liang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000936?af=R</link>
+      <content:encoded>&lt;p&gt;Charge redistribution strategy driven by heteroatom doping or defect engineering has been developed as an efficient method to endow inert carbon with significant oxygen reduction reaction (ORR) activity. The synergetic effect between the two strategies is thus expected to be more effective for manipulating the charge distribution of carbon materials for exceptional ORR performance. Herein we reported a novel molecular design strategy to achieve 2D porous turbostratic carbon nanomesh with abundant N&#8208;doped carbon defects (NDC). The molecular&#8208;level integration of aromatic rings as carbon source and urea units as N source and sacrificial template into the novel precursor of polyurea (PU) promises the formation of abundant carbon edge defects and N doping sites. A special active site of carbon edge defect doped with graphitic valley N was revealed to be responsible for the exceptional ORR performance of NDC material.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Optimal N&#8208;doped carbon defect configuration in 2D turbostratic carbon nanomesh for advanced oxygen reduction electrocatalysis</dc:title>
+      <dc:identifier>doi:10.1002/anie.202000936</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T09:05:22-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202000936</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000936?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202003651?af=R">
+      <title>Chemoselective hydrogenation of nitroaromatics at the nanoscale Fe(III)&#8208;OH&#8208;Pt interface</title>
+      <dc:description>Catalytic hydrogenation of nitroaromatics is deemed as an environment&#8208;benign strategy to produce industrially important aniline intermediates. Herein, we report that the Pt nanocrystals with Fe(OH) x  deposition, Fe(OH) x  /Pt, enable the selective hydrogenation of nitro group into amino group without hydrogenating other functional groups on aromatic ring. The unique catalytic behavior is identified to be associated with the Fe(III)&#8208;OH&#8208;Pt interfaces. While H 2  activation occurs on exposed Pt atoms to ensure the high activity, the high selectivity towards the production of substituted aniline is originated from the Fe(III)&#8208;OH&#8208;Pt interfaces. In situ  IR, XPS and isotope effect studies reveal that the Fe 3+  /Fe 2+  redox couple facilitates the hydrodeoxygenation of the &#8208;NO 2  group during hydrogenation catalysis. Benefited from rich Fe(III)&#8208;OH&#8208;Pt interfaces, the Fe(OH) x  /Pt catalysts exhibit high catalytic performance towards a broad range of substituted nitroarenes.</dc:description>
+      <dc:creator>
+Yu Wang, 
+Ruixuan Qin, 
+Yongke Wang, 
+Juan Ren, 
+Wenting Zhou, 
+Laiyang Li, 
+Jiang Ming, 
+Wuyong Zhang, 
+Gang Fu, 
+Nanfeng Zheng
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003651?af=R</link>
+      <content:encoded>&lt;p&gt;Catalytic hydrogenation of nitroaromatics is deemed as an environment&#8208;benign strategy to produce industrially important aniline intermediates. Herein, we report that the Pt nanocrystals with Fe(OH) x  deposition, Fe(OH) x  /Pt, enable the selective hydrogenation of nitro group into amino group without hydrogenating other functional groups on aromatic ring. The unique catalytic behavior is identified to be associated with the Fe(III)&#8208;OH&#8208;Pt interfaces. While H 2  activation occurs on exposed Pt atoms to ensure the high activity, the high selectivity towards the production of substituted aniline is originated from the Fe(III)&#8208;OH&#8208;Pt interfaces. In situ  IR, XPS and isotope effect studies reveal that the Fe 3+  /Fe 2+  redox couple facilitates the hydrodeoxygenation of the &#8208;NO 2  group during hydrogenation catalysis. Benefited from rich Fe(III)&#8208;OH&#8208;Pt interfaces, the Fe(OH) x  /Pt catalysts exhibit high catalytic performance towards a broad range of substituted nitroarenes.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Chemoselective hydrogenation of nitroaromatics at the nanoscale Fe(III)&#8208;OH&#8208;Pt interface</dc:title>
+      <dc:identifier>doi:10.1002/anie.202003651</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T08:36:34-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202003651</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003651?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202003685?af=R">
+      <title>Unprecedented kinetic inertness for a Mn2+&#8208;bispidine chelate: a novel structural entry for Mn2+&#8208;based imaging agents</title>
+      <dc:description>The search for more biocompatible alternatives to Gd  3+  &#8208;based MRI agents, and the interest in  52  Mn for PET imaging call for ligands that form inert Mn  2+  chelates. Given the labile nature of Mn  2+  , high inertness is challenging to achieve. The strongly preorganized structure of the 2,4&#8208;pyridyl&#8208;disubstituted bispidol ligand L  1  endows its Mn  2+  complex with exceptional kinetic inertness. Indeed, MnL  1  did not show any dissociation for 140 days in the presence of 50 eq. of Zn  2+  (37&#176;C, pH 6), while recently reported potential MRI agents MnPyC3A and MnPC2A&#8208;EA have dissociation half&#8208;lives of 0.285 h and 54.4 h under similar conditions. In addition, the relaxivity of MnL  1  (4.28 mM  &#8208;1  s  &#8208;1  at 25&#176;C, 20 MHz) is remarkable for a monohydrated, small Mn  2+  chelate.  In vivo  MRI experiments in mice and determination of the tissue Mn content evidence rapid renal clearance of MnL  1  . Additionally, L  1  could be radiolabeled with  52  Mn and the complex revealed good stability in biological media.</dc:description>
+      <dc:creator>
+Eva Toth, 
+Daouda Ndiaye, 
+Maryame Sy, 
+Agn&#232;s Pallier, 
+Sandra M&#234;me, 
+Isidro de Silva, 
+Sara Lacerda, 
+Aline  M. Nonat, 
+Lo&#239;c  J. Charbonni&#232;re
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003685?af=R</link>
+      <content:encoded>&lt;p&gt;The search for more biocompatible alternatives to Gd  3+  &#8208;based MRI agents, and the interest in  52  Mn for PET imaging call for ligands that form inert Mn  2+  chelates. Given the labile nature of Mn  2+  , high inertness is challenging to achieve. The strongly preorganized structure of the 2,4&#8208;pyridyl&#8208;disubstituted bispidol ligand L  1  endows its Mn  2+  complex with exceptional kinetic inertness. Indeed, MnL  1  did not show any dissociation for 140 days in the presence of 50 eq. of Zn  2+  (37&#176;C, pH 6), while recently reported potential MRI agents MnPyC3A and MnPC2A&#8208;EA have dissociation half&#8208;lives of 0.285 h and 54.4 h under similar conditions. In addition, the relaxivity of MnL  1  (4.28 mM  &#8208;1  s  &#8208;1  at 25&#176;C, 20 MHz) is remarkable for a monohydrated, small Mn  2+  chelate.  In vivo  MRI experiments in mice and determination of the tissue Mn content evidence rapid renal clearance of MnL  1  . Additionally, L  1  could be radiolabeled with  52  Mn and the complex revealed good stability in biological media.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Unprecedented kinetic inertness for a Mn2+&#8208;bispidine chelate: a novel structural entry for Mn2+&#8208;based imaging agents</dc:title>
+      <dc:identifier>doi:10.1002/anie.202003685</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T08:34:21-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202003685</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003685?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202001966?af=R">
+      <title>Understanding High&#8208;Rate K+&#8208;Solvent Co&#8208;Intercalation in Natural Graphite for Potassium&#8208;Ion Batteries</title>
+      <dc:description>Graphite shows great potential as anode material for rechargeable metal&#8208;ion batteries due to its high abundance and low cost, although the electrochemical performance of graphite anode materials for rechargeable potassium&#8208;ion batteries needs to be further improved. Herein, we reported natural graphite with superior rate performance and cycling stability obtained through a unique K  +  &#8208;solvent co&#8208;intercalation mechanism in 1 M KCF  3  SO  3  dissolved in diethylene glycol dimethyl ether as electrolyte. The co&#8208;intercalation mechanism was demonstrated by  ex situ  Fourier transform infrared spectroscopy and  in situ  X&#8208;ray diffraction. The evolution of stage number of natural graphite during the charge/discharge process was revealed. The structure of the [K&#8208;solvent]  +  complexes intercalated in graphite and the conditions for reversible K  +  &#8208;solvent co&#8208;intercalation into graphite are first proposed based on the experimental results and first&#8208;principles calculations. Moreover, the fast kinetics of the natural graphite was clarified by cyclic voltammetry and the galvanostatic intermittent titration technique. Its comprehensively investigated K  +  &#8208;solvent co&#8208;intercalation mechanism and the conditions for K  +  &#8208;solvent co&#8208;intercalation provide important insights into the design of natural graphite anode materials for high&#8208;performance rechargeable potassium&#8208;ion batteries.</dc:description>
+      <dc:creator>
+Lin Li, 
+Luojia Liu, 
+Zhe Hu, 
+Yong Lu, 
+Qiannan Liu, 
+Song Jin, 
+Qiu Zhang, 
+Shuo Zhao, 
+Shulei Chou
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001966?af=R</link>
+      <content:encoded>&lt;p&gt;Graphite shows great potential as anode material for rechargeable metal&#8208;ion batteries due to its high abundance and low cost, although the electrochemical performance of graphite anode materials for rechargeable potassium&#8208;ion batteries needs to be further improved. Herein, we reported natural graphite with superior rate performance and cycling stability obtained through a unique K  +  &#8208;solvent co&#8208;intercalation mechanism in 1 M KCF  3  SO  3  dissolved in diethylene glycol dimethyl ether as electrolyte. The co&#8208;intercalation mechanism was demonstrated by  ex situ  Fourier transform infrared spectroscopy and  in situ  X&#8208;ray diffraction. The evolution of stage number of natural graphite during the charge/discharge process was revealed. The structure of the [K&#8208;solvent]  +  complexes intercalated in graphite and the conditions for reversible K  +  &#8208;solvent co&#8208;intercalation into graphite are first proposed based on the experimental results and first&#8208;principles calculations. Moreover, the fast kinetics of the natural graphite was clarified by cyclic voltammetry and the galvanostatic intermittent titration technique. Its comprehensively investigated K  +  &#8208;solvent co&#8208;intercalation mechanism and the conditions for K  +  &#8208;solvent co&#8208;intercalation provide important insights into the design of natural graphite anode materials for high&#8208;performance rechargeable potassium&#8208;ion batteries.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Understanding High&#8208;Rate K+&#8208;Solvent Co&#8208;Intercalation in Natural Graphite for Potassium&#8208;Ion Batteries</dc:title>
+      <dc:identifier>doi:10.1002/anie.202001966</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T07:06:35-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202001966</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001966?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202004048?af=R">
+      <title>Sandwich&#8208;like catalyst&#8208;carbon&#8208;catalyst trilayer structure as compact 2D host for highly stable lithium&#8208;sulfur batteries</title>
+      <dc:description>Rational cathode design and compositing are expected to promote the compact Li&#8208;S batteries with the minimization of unloaded and non&#8208;polar volume spaces, which often take a high fraction in loose host framework with the prevailing point contacts between discrete catalyst nanodomains and conductive substrate. Herein, we propose a construction of sandwich structured host full of continuous 2D catalysis&#8208;conduction interfaces. This MoN&#8208;C&#8208;MoN trilayer architecture causes the strong conformal adsorption of S/Li2Sx and their high&#8208;efficiency conversion on the two&#8208;sided nitride polar surfaces, which are supplied with high&#8208;flux electron transfer from the buried carbon interlayer. The 3D self&#8208;assembly of these 2D sandwich structures further reinforces the interconnection of conductive and catalytic networks. The maximized exposure of adsorptive/catalytic planes endows the MoN&#8208;C@S electrode with excellent cycling stability (capacity degradation rate as small as 0.033% per cycle at 1 C over 1000 cycles) and high rate performance (515 mAh/g at 4.0 C) even under high S loading (75.7 wt%) and low host surface area (97 m2/g). The high conductivity of this trilayer texture does not compromise the capacity retention (604 mAh/g after 500 cycles) after increasing the S content to 3.4 mg/cm2. Such a job&#8208;synergistic mode between catalytic and conductive functions guarantees the homogeneous deposition of S/Li2Sx, and avoids their thick and devitalized accumulation (electrode passivation) even after high&#8208;rate and long&#8208;term cycling. Our chelation&#8208;ammonification method provides a facile solution to the dispersion of metal&#8208;cations and following attenuation of their nitride products during phase separation between C and MoN nuclei. The resultant plane&#8208;to&#8208;plane contact between MoN and C laminates addresses a novel preparation method of 2D nitrides.</dc:description>
+      <dc:creator>
+Rongrong Li, 
+Hongjie Peng, 
+Qingping Wu, 
+Xuejun Zhou, 
+Jiang He, 
+Hangjia Shen, 
+Minghui Yang, 
+Chilin Li
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004048?af=R</link>
+      <content:encoded>&lt;p&gt;Rational cathode design and compositing are expected to promote the compact Li&#8208;S batteries with the minimization of unloaded and non&#8208;polar volume spaces, which often take a high fraction in loose host framework with the prevailing point contacts between discrete catalyst nanodomains and conductive substrate. Herein, we propose a construction of sandwich structured host full of continuous 2D catalysis&#8208;conduction interfaces. This MoN&#8208;C&#8208;MoN trilayer architecture causes the strong conformal adsorption of S/Li2Sx and their high&#8208;efficiency conversion on the two&#8208;sided nitride polar surfaces, which are supplied with high&#8208;flux electron transfer from the buried carbon interlayer. The 3D self&#8208;assembly of these 2D sandwich structures further reinforces the interconnection of conductive and catalytic networks. The maximized exposure of adsorptive/catalytic planes endows the MoN&#8208;C@S electrode with excellent cycling stability (capacity degradation rate as small as 0.033% per cycle at 1 C over 1000 cycles) and high rate performance (515 mAh/g at 4.0 C) even under high S loading (75.7 wt%) and low host surface area (97 m2/g). The high conductivity of this trilayer texture does not compromise the capacity retention (604 mAh/g after 500 cycles) after increasing the S content to 3.4 mg/cm2. Such a job&#8208;synergistic mode between catalytic and conductive functions guarantees the homogeneous deposition of S/Li2Sx, and avoids their thick and devitalized accumulation (electrode passivation) even after high&#8208;rate and long&#8208;term cycling. Our chelation&#8208;ammonification method provides a facile solution to the dispersion of metal&#8208;cations and following attenuation of their nitride products during phase separation between C and MoN nuclei. The resultant plane&#8208;to&#8208;plane contact between MoN and C laminates addresses a novel preparation method of 2D nitrides.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Sandwich&#8208;like catalyst&#8208;carbon&#8208;catalyst trilayer structure as compact 2D host for highly stable lithium&#8208;sulfur batteries</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004048</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T07:04:20-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004048</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004048?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002208?af=R">
+      <title>Rh(III)&#8208;Catalyzed Atroposelective Synthesis of Biaryls via C&#8208;H Activation and Intermolecular Coupling with Sterically Hindered Alkynes</title>
+      <dc:description>Chiral biaryls make important synthetic building blocks and privileged ligands for asymmetric catalysis. Reported herein is atroposelective synthesis of biaryl NH isoquinolones via Rh(III)&#8208;catalyzed C&#8208;H activation of benzamides and intermolecular [4+2] annulation with a broad scope of 2&#8208;substituted 1&#8208;alkynylnaphthalenes as well as sterically hindered symmetric diarylacetylenes. The axial chirality is constructed based on dynamic kinetic transformation of the alkyne in redox&#8208;neutral annulation with benzamides, with alkyne insertion being stereo&#8208;determining. The reaction also accommodates both benzamides and heteroaryl carboxamides and proceeds in excellent regioselectivity (if applicable) and enantioselectivities (average 91.6% ee). An enantiomerically and diastereomerically pure rhodacyclic complex has been prepared and offers insight into enantiomeric control of the coupling system, and the steric interactions between the amide directing group and the alkyne substrate serve to dictate both the regio&#8208; and enantioselectivity.</dc:description>
+      <dc:creator>
+Fen Wang, 
+Zisong Qi, 
+Yuxia Zhao, 
+Shuailei Zhai, 
+Guangfan Zheng, 
+Ruijie Mi, 
+Zhiyan Huang, 
+Xiaolin Zhu, 
+Xiaoming He, 
+Xingwei Li
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002208?af=R</link>
+      <content:encoded>&lt;p&gt;Chiral biaryls make important synthetic building blocks and privileged ligands for asymmetric catalysis. Reported herein is atroposelective synthesis of biaryl NH isoquinolones via Rh(III)&#8208;catalyzed C&#8208;H activation of benzamides and intermolecular [4+2] annulation with a broad scope of 2&#8208;substituted 1&#8208;alkynylnaphthalenes as well as sterically hindered symmetric diarylacetylenes. The axial chirality is constructed based on dynamic kinetic transformation of the alkyne in redox&#8208;neutral annulation with benzamides, with alkyne insertion being stereo&#8208;determining. The reaction also accommodates both benzamides and heteroaryl carboxamides and proceeds in excellent regioselectivity (if applicable) and enantioselectivities (average 91.6% ee). An enantiomerically and diastereomerically pure rhodacyclic complex has been prepared and offers insight into enantiomeric control of the coupling system, and the steric interactions between the amide directing group and the alkyne substrate serve to dictate both the regio&#8208; and enantioselectivity.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Rh(III)&#8208;Catalyzed Atroposelective Synthesis of Biaryls via C&#8208;H Activation and Intermolecular Coupling with Sterically Hindered Alkynes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002208</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T06:05:18-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002208</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002208?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002740?af=R">
+      <title>DNA nanostructures as a tool for targeted antimicrobial delivery</title>
+      <dc:description>We report the use of DNA origami nanostructures, functionalized with aptamers, as a vehicle for delivering the antibacterial peptide lysozyme in a specific and efficient manner. We test the system against Gram positive (  Bacillus subtilis  ) and Gram negative (  Escherichia coli  ) targets. We use direct stochastic optical reconstruction microscopy (  d  STORM) and atomic force microscopy (AFM) to characterize the DNA origami nanostructures and structured illumination microscopy (SIM) to assess the binding of the origami to the bacteria. We show that treatment with lysozymefunctionalized origami slows bacterial growth more effectively than treatment with free lysozyme. Our study introduces DNA origami as a tool in the fight against antibiotic resistance, and our results demonstrate the specificity and efficiency of the nanostructure as a drug delivery vehicle.</dc:description>
+      <dc:creator>
+Ioanna Mela, 
+Pedro  P. Vallejo-Ramirez, 
+Stanislaw Makarchuk, 
+Graham Christie, 
+David Bailey, 
+Robert Henderson, 
+Hiroshi Sugiyama, 
+Masayuki Endo, 
+Clemens Kaminski
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002740?af=R</link>
+      <content:encoded>&lt;p&gt;We report the use of DNA origami nanostructures, functionalized with aptamers, as a vehicle for delivering the antibacterial peptide lysozyme in a specific and efficient manner. We test the system against Gram positive (  Bacillus subtilis  ) and Gram negative (  Escherichia coli  ) targets. We use direct stochastic optical reconstruction microscopy (  d  STORM) and atomic force microscopy (AFM) to characterize the DNA origami nanostructures and structured illumination microscopy (SIM) to assess the binding of the origami to the bacteria. We show that treatment with lysozymefunctionalized origami slows bacterial growth more effectively than treatment with free lysozyme. Our study introduces DNA origami as a tool in the fight against antibiotic resistance, and our results demonstrate the specificity and efficiency of the nanostructure as a drug delivery vehicle.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>DNA nanostructures as a tool for targeted antimicrobial delivery</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002740</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T04:04:36-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002740</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002740?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002118?af=R">
+      <title>Taxane Meets Propellane: First Chemical Synthesis of Highly Complex Diterpene Canataxpropellane</title>
+      <dc:description>
+The features of two iconic chemical classes are united in the structure of the highly complex diterpene canataxpropellane and set a daunting challenge that has been met by the Gaich group. Their daring strategy and its benefit to the field of terpene chemistry is presented and discussed in this Highlight.
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Franziska Reu&#223;, 
+Philipp Heretsch
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002118?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/38239d1a-57a8-48a1-ad3d-96d25af42b44/anie202002118-toc-0001-m.png"
+     alt="Taxane Meets Propellane: First Chemical Synthesis of Highly Complex Diterpene Canataxpropellane"/&gt;
+&lt;p&gt;&lt;b&gt;The features of two iconic chemical classes&lt;/b&gt; are united in the structure of the highly complex diterpene canataxpropellane and set a daunting challenge that has been met by the Gaich group. Their daring strategy and its benefit to the field of terpene chemistry is presented and discussed in this Highlight.
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Angewandte Chemie International Edition, EarlyView. </description>
+      <dc:title>Taxane Meets Propellane: First Chemical Synthesis of Highly Complex Diterpene Canataxpropellane</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002118</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-16T01:10:22-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002118</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002118?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Highlight</prism:section>
+   </item>
    </rdf:RDF>
