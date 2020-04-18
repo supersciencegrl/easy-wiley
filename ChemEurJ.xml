@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001362?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001753?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001072?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000844?af=R" />
@@ -151,7 +152,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000340?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000707?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001668?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000624?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000422?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000383?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000325?af=R" />
@@ -171,6 +171,26 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202001362?af=R">
+      <title>Propargylidyne and Pentadiynylidyne Poly&#8208;functionalised Polycyclic Aromatic Hydrocarbons</title>
+      <dc:description>The Pd  0  /Au  I  mediated [C  1  + C  2  ] cross&#8208;coupling reactions of [W(&#8801;CBr)(CO)  2  (Tp*)] (Tp* = hydrotris(dimethylpyrazolyl)borate) and trimethylsilylethynyl&#8208;substituted arenes afford&#160;new polycyclic aromatic hydrocarbon propargylidynes [W(&#8801;CC&#8801;CR)(CO)  2  (Tp*)] (R = 9&#8208;anthracenyl, 1&#8208;pyrenyl). The strategy extends to the first bis(propargylidyne) and bis(pentadiynylidyne) complexes bridged by phenyl or anthracenyl spacers, and to a tetrakis(propargylidyne) connected through a pyrene core.</dc:description>
+      <dc:creator>
+Anthony  Francis Hill, 
+Benjamin  J Frogley
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001362?af=R</link>
+      <content:encoded>&lt;p&gt;The Pd  0  /Au  I  mediated [C  1  + C  2  ] cross&#8208;coupling reactions of [W(&#8801;CBr)(CO)  2  (Tp*)] (Tp* = hydrotris(dimethylpyrazolyl)borate) and trimethylsilylethynyl&#8208;substituted arenes afford&#160;new polycyclic aromatic hydrocarbon propargylidynes [W(&#8801;CC&#8801;CR)(CO)  2  (Tp*)] (R = 9&#8208;anthracenyl, 1&#8208;pyrenyl). The strategy extends to the first bis(propargylidyne) and bis(pentadiynylidyne) complexes bridged by phenyl or anthracenyl spacers, and to a tetrakis(propargylidyne) connected through a pyrene core.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Propargylidyne and Pentadiynylidyne Poly&#8208;functionalised Polycyclic Aromatic Hydrocarbons</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001362</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-04-17T07:12:09-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001362</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001362?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202001753?af=R">
       <title>Solubility&#8208;Driven Isolation of a Metastable Nonagold Cluster with Body&#8208;Centered Cubic Structure</title>
       <dc:description>The conventional synthetic methodology of atomically precise gold nanoclusters using reduction in solutions offers only thermodynamically most stable nanoclusters. We report herein a solubility&#8208;driven isolation strategy to access the synthesis of a metastable gold cluster. The cluster, with the composition of &#160;&#160;&#160;&#160;&#160;&#160;&#160;[Au 9 (PPh 3 ) 8 ] + ( 1 ), displays an unusual, nearly perfect body&#8208;centered&#8208;cubic (bcc) structure. As revealed by ESI&#8208;MS and UV/Vis measurement, the cluster is metastable in solution and converts to the well&#8208;known [Au 11 (PPh 3 ) 8 Cl 2 ] + ( 2 ) within just 90 min. DFT calculations revealed that while both 1 and 2 are eight&#8208;electron superatoms, there is a driving force to convert 1 to 2 as shown by the increased cohesion and larger HOMO&#8208;LUMO energy gap of 2 . The isolation and crystallization of the metastable gold cluster were achieved in a biphasic reaction system in which reduction of gold precursors and crystallization of 1 took place concurrently. This synthetic protocol represents a successful strategy for investigations of other metastable species in metal nanocluster chemistry.</dc:description>
@@ -4030,29 +4050,6 @@ Annie Powell
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001668?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202000624?af=R">
-      <title>Synthesis of Symmetrical and Nonsymmetrical Polyenes by Iterative and Bidirectional Palladium&#8208;Catalyzed Cross&#8208;Coupling Reactions</title>
-      <dc:description>Bifunctional unsaturated reagents designed to undergo palladium&#8208;catalyzed cross&#8208;coupling reactions with complementary polyenyl connective fragments are highly useful for the undoubtedly challenging synthesis of polyenes. The current toolkit of building blocks for the bidirectional formation of Csp  2  &#8208;Csp  2  single bonds of polyenes includes homo&#8208;bisfunctionalized reagents with equal or unequal reactivity (due to steric and/or electronic factors), and heterobisfunctionalized counterparts containing either two different nucleophiles, two electrophiles or one of these functionalities and a latent nucleophile that can be unmasked when desired. The combination of these bifunctional linchpin reagents using tactics that modulate the reactivity of each terminus in order to achieve the required connection have streamlined the synthesis of polyenes of great complexity using (iterative) cross&#8208;coupling methods for Csp  2  &#8208;Csp  2  bond formation. Reaction conditions for the Pd&#8208;catalyzed cross&#8208;coupling reactions are mild and functional group&#8208;tolerant, and therefore these protocols allow to construct the polyene structures using shorter unsaturated reactants with the desired geometries, since in general the products preserve the stereochemical information of the connected cross&#8208;coupling partners.</dc:description>
-      <dc:creator>
-Angel  R. de Lera, 
-Aurea Rivas, 
-Andrea Areal, 
-Paula Mora, 
-Rosana Alvarez
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000624?af=R</link>
-      <content:encoded>&lt;p&gt;Bifunctional unsaturated reagents designed to undergo palladium&#8208;catalyzed cross&#8208;coupling reactions with complementary polyenyl connective fragments are highly useful for the undoubtedly challenging synthesis of polyenes. The current toolkit of building blocks for the bidirectional formation of Csp  2  &#8208;Csp  2  single bonds of polyenes includes homo&#8208;bisfunctionalized reagents with equal or unequal reactivity (due to steric and/or electronic factors), and heterobisfunctionalized counterparts containing either two different nucleophiles, two electrophiles or one of these functionalities and a latent nucleophile that can be unmasked when desired. The combination of these bifunctional linchpin reagents using tactics that modulate the reactivity of each terminus in order to achieve the required connection have streamlined the synthesis of polyenes of great complexity using (iterative) cross&#8208;coupling methods for Csp  2  &#8208;Csp  2  bond formation. Reaction conditions for the Pd&#8208;catalyzed cross&#8208;coupling reactions are mild and functional group&#8208;tolerant, and therefore these protocols allow to construct the polyene structures using shorter unsaturated reactants with the desired geometries, since in general the products preserve the stereochemical information of the connected cross&#8208;coupling partners.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Synthesis of Symmetrical and Nonsymmetrical Polyenes by Iterative and Bidirectional Palladium&#8208;Catalyzed Cross&#8208;Coupling Reactions</dc:title>
-      <dc:identifier>doi:10.1002/chem.202000624</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-04-08T06:49:53-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202000624</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000624?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/chem.202000422?af=R">
       <title>Thermal Decomposition of Ternary Sodium Graphite Intercalation Compounds</title>
