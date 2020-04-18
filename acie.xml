@@ -9,6 +9,11 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003823?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002710?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001842?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002219?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000290?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004464?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003390?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004320?af=R" />
@@ -124,11 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003595?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004638?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003563?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004966?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004326?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000743?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002977?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000601?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916088?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916272?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201913804?af=R" />
@@ -188,6 +188,127 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202003823?af=R">
+      <title>Information Coding in Reconfigurable DNA Origami Domino Array</title>
+      <dc:description>DNA nanostructures with programmable nanoscale patterns has been achieved in the past decades, and molecular information coding (MIC) on those designed nanostructures has gained increasing attention for information security. However, exerting steganography and cryptography synchronously on DNA nanostructures still remains a challenge to guarantee more security approach for MIC. Here, we demonstrated MIC in a reconfigurable DNA origami domino array (DODA), which can reconfigure intrinsic patterns but keep the DODA outline the same for steganography. When a set of keys (DNA strands) are added, the cryptographic data (e.g. Numbers &#8220;0 &#8208; 9&#8221;) can be translated into visible patterns within DODA. More complex cryptography with ASCII nanocodes definition within programmable 6&#215;6 lattice is demonstrated to ensure the versatility of MIC in the DODA. Furthermore, a further  anti&#8208;counterfeiting approach based on conformational transformation mediated toehold strand displacement reaction is designed to protect MIC from decoding and falsification, presenting a unique high&#8208;security level approach for information processing.</dc:description>
+      <dc:creator>
+Sisi Fan, 
+Dongfang Wang, 
+Jin Cheng, 
+Yan Liu, 
+Tao Luo, 
+Daxiang Cui, 
+Yonggang Ke, 
+Jie Song
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003823?af=R</link>
+      <content:encoded>&lt;p&gt;DNA nanostructures with programmable nanoscale patterns has been achieved in the past decades, and molecular information coding (MIC) on those designed nanostructures has gained increasing attention for information security. However, exerting steganography and cryptography synchronously on DNA nanostructures still remains a challenge to guarantee more security approach for MIC. Here, we demonstrated MIC in a reconfigurable DNA origami domino array (DODA), which can reconfigure intrinsic patterns but keep the DODA outline the same for steganography. When a set of keys (DNA strands) are added, the cryptographic data (e.g. Numbers &#8220;0 &#8208; 9&#8221;) can be translated into visible patterns within DODA. More complex cryptography with ASCII nanocodes definition within programmable 6&#215;6 lattice is demonstrated to ensure the versatility of MIC in the DODA. Furthermore, a further  anti&#8208;counterfeiting approach based on conformational transformation mediated toehold strand displacement reaction is designed to protect MIC from decoding and falsification, presenting a unique high&#8208;security level approach for information processing.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Information Coding in Reconfigurable DNA Origami Domino Array</dc:title>
+      <dc:identifier>doi:10.1002/anie.202003823</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-18T12:10:25-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202003823</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003823?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002710?af=R">
+      <title>Carbon&#8211;Carbon Bond Formation via Catalytically Generated Aminocarbene Complexes: Rhodium&#8208;Catalyzed Hydroaminative Cyclization of Enynes with Secondary Amines</title>
+      <dc:description>We report here a hydroaminative cyclization of enynes using phosphine&#8208;quinolinolato rhodium catalysts. The hydroamina&#8208;tive cyclization of 2&#8208;vinylphenylacetylene derivatives with secondary amines gave 2&#8208;aminoindenes in good yields. The reaction is considered to proceed via carbon&#8208;carbon bond formation on a catalytically generated aminocarbene ligand.</dc:description>
+      <dc:creator>
+Shotaro Takano, 
+Ryosuke Shiomi, 
+Yoshihiko Morimoto, 
+Takuya Kochi, 
+Fumitoshi Kakiuchi
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002710?af=R</link>
+      <content:encoded>&lt;p&gt;We report here a hydroaminative cyclization of enynes using phosphine&#8208;quinolinolato rhodium catalysts. The hydroamina&#8208;tive cyclization of 2&#8208;vinylphenylacetylene derivatives with secondary amines gave 2&#8208;aminoindenes in good yields. The reaction is considered to proceed via carbon&#8208;carbon bond formation on a catalytically generated aminocarbene ligand.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Carbon&#8211;Carbon Bond Formation via Catalytically Generated Aminocarbene Complexes: Rhodium&#8208;Catalyzed Hydroaminative Cyclization of Enynes with Secondary Amines</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002710</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-17T11:40:37-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002710</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002710?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202001842?af=R">
+      <title>Crystalline Diradical Dianions of Pyrene&#8208;Fused Azaacenes</title>
+      <dc:description>Although diradicals and azaacenes have been greatly attractive in fundamental chemistry and functional materials, the isolable diradical dianions of azaacenes are still unknown. Here we describe the first isolation of azaacene diradical dianion salts [(18&#8208;c&#8208;6)K(THF)  2  ]  +  [(18&#8208;c&#8208;6)K]  +  &#8226;  1  2&#8211;&#8226;&#8226;  and [(18&#8208;c&#8208;6)K(THF)]  2+  &#8226;  2  2&#8211;&#8226;&#8226;  by reduction of the neutral pyrene&#8208;fused azaacene derivatives  1  and  2  with excess potassium graphite in THF in the presence of 18&#8208;crown&#8208;6. Their electronic structures were investigated by various experiments, in conjunction with theoretical calculations. It was found that they are open&#8208;shell singlets in the ground state and their triplet states are thermally readily accessible due to the small singlet&#8208;triplet energy gap. This work provides two first examples of crystalline diradical dianions of azaacenes with considerable diradical character.</dc:description>
+      <dc:creator>
+Xinping Wang, 
+Chao Chen, 
+Huapeng Ruan, 
+Zhongtao Feng, 
+Yong Fang, 
+Yue Zhao, 
+Yuanting Su, 
+Tan Gengwen, 
+Shuxuan Tang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001842?af=R</link>
+      <content:encoded>&lt;p&gt;Although diradicals and azaacenes have been greatly attractive in fundamental chemistry and functional materials, the isolable diradical dianions of azaacenes are still unknown. Here we describe the first isolation of azaacene diradical dianion salts [(18&#8208;c&#8208;6)K(THF)  2  ]  +  [(18&#8208;c&#8208;6)K]  +  &#8226;  1  2&#8211;&#8226;&#8226;  and [(18&#8208;c&#8208;6)K(THF)]  2+  &#8226;  2  2&#8211;&#8226;&#8226;  by reduction of the neutral pyrene&#8208;fused azaacene derivatives  1  and  2  with excess potassium graphite in THF in the presence of 18&#8208;crown&#8208;6. Their electronic structures were investigated by various experiments, in conjunction with theoretical calculations. It was found that they are open&#8208;shell singlets in the ground state and their triplet states are thermally readily accessible due to the small singlet&#8208;triplet energy gap. This work provides two first examples of crystalline diradical dianions of azaacenes with considerable diradical character.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Crystalline Diradical Dianions of Pyrene&#8208;Fused Azaacenes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202001842</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-17T11:39:50-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202001842</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001842?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002219?af=R">
+      <title>Stereoselective Palladium&#8208;Catalyzed C&#8208;F Bond&#160;Alkynylation of Tetrasubstituted gem&#8208;Difluoroalkenes</title>
+      <dc:description>A stereoselective Pd(PPh 3 ) 4 &#8208;catalyzed C&#8208;F bond alkynylation of tetrasubstituted&#160; gem &#8208;difluoroalkenes with terminal alkynes has been developed. The method gives access to a great variety of conjugated monofluoroenynes bearing a tetrasubstituted alkene moiety with well&#8208;defined stereochemistry. Chelation&#8208;assisted oxidative addition of Pd to the C&#8208;F bond is proposed to account for the high level of stereocontrol. X&#8208;ray structure of a key monofluorovinyl Pd(II) intermediate has been obtained for the first time as evidence for the proposed mechanism.</dc:description>
+      <dc:creator>
+Gavin Chit Tsui, 
+Qiao Ma, 
+Yanhui Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002219?af=R</link>
+      <content:encoded>&lt;p&gt;A stereoselective Pd(PPh 3 ) 4 &#8208;catalyzed C&#8208;F bond alkynylation of tetrasubstituted&#160; gem &#8208;difluoroalkenes with terminal alkynes has been developed. The method gives access to a great variety of conjugated monofluoroenynes bearing a tetrasubstituted alkene moiety with well&#8208;defined stereochemistry. Chelation&#8208;assisted oxidative addition of Pd to the C&#8208;F bond is proposed to account for the high level of stereocontrol. X&#8208;ray structure of a key monofluorovinyl Pd(II) intermediate has been obtained for the first time as evidence for the proposed mechanism.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Stereoselective Palladium&#8208;Catalyzed C&#8208;F Bond&#160;Alkynylation of Tetrasubstituted gem&#8208;Difluoroalkenes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002219</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-17T09:10:30-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002219</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002219?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202000290?af=R">
+      <title>The First Chiral Thermochromic Ferroelastic with Seven Physical Channel Switches</title>
+      <dc:description>Switchable materials play an invaluable role in signal processing and encryption of smart devices. The development of multifunctional materials that exhibit switching characteristics in multiple physical channels has attracted widespread attention. Here, two chiral thermochromic ferroelastic crystals (  S  &#8208;CTA)  2  CuCl  4  and (  R  &#8208;CTA)  2  CuCl  4  (CTA = 3&#8208;Chloro&#8208;2&#8208;hydroxypropyltrimethylammonium) have been prepared with switchable properties in dielectricity, conductivity, second harmonic generation (SHG), piezoelectricity, ferroelasticity, chiral and thermochromic properties. Compared with traditional phase transition materials with switching feature, thermochromism brings additional spectral encryption possibilities for future information processing. To the best of our knowlege, this is the first case of chiral thermochromic ferroelastic that exhibit switching properties in seven physical channels. This work is expected to promote further exploration of multifunctional molecular switchable materials.</dc:description>
+      <dc:creator>
+Si-Qi Lu, 
+Zhi-Xu Zhang, 
+Hao Cheng, 
+Peng-Fei Li, 
+Wei-Qiang Liao, 
+Ren-Gen Xiong
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000290?af=R</link>
+      <content:encoded>&lt;p&gt;Switchable materials play an invaluable role in signal processing and encryption of smart devices. The development of multifunctional materials that exhibit switching characteristics in multiple physical channels has attracted widespread attention. Here, two chiral thermochromic ferroelastic crystals (  S  &#8208;CTA)  2  CuCl  4  and (  R  &#8208;CTA)  2  CuCl  4  (CTA = 3&#8208;Chloro&#8208;2&#8208;hydroxypropyltrimethylammonium) have been prepared with switchable properties in dielectricity, conductivity, second harmonic generation (SHG), piezoelectricity, ferroelasticity, chiral and thermochromic properties. Compared with traditional phase transition materials with switching feature, thermochromism brings additional spectral encryption possibilities for future information processing. To the best of our knowlege, this is the first case of chiral thermochromic ferroelastic that exhibit switching properties in seven physical channels. This work is expected to promote further exploration of multifunctional molecular switchable materials.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>The First Chiral Thermochromic Ferroelastic with Seven Physical Channel Switches</dc:title>
+      <dc:identifier>doi:10.1002/anie.202000290</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-04-17T08:43:19-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202000290</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000290?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202004464?af=R">
       <title>Concise Synthesis of (+)&#8208;[13C4]&#8208;Anatoxin&#8208;a by a Dynamic Kinetic Resolution of a Cyclic Iminium Ion</title>
       <dc:description>An asymmetric total synthesis of [  13  C  4  ]&#8208;anatoxin&#8208;a ([  13  C  4  ]&#8208;  1  ) has been developed from commercially available ethyl [  13  C  4  ]&#8208;acetoacetate ([  13  C  4  ]&#8208;  15  ). The unique requirements associated with isotope incorporation inspired a new, robust, and highly scalable route, providing access to 0.110 g of this internal standard for use in the detection and precise quantification of anatoxin&#8208;a in freshwater. A highlight of the synthesis is a method that leverages a cyclic iminium ion racemization to achieve dynamic kinetic resolution in an enantioselective Morita&#8208;Baylis&#8208;Hillman (MBH) cyclization.</dc:description>
