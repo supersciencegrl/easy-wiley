@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201905440?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908127?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000730?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000294?af=R" />
@@ -178,7 +179,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000270?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000046?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907865?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000716?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -187,6 +187,50 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.201905440?af=R">
+      <title>Electrochemical Methods for Lithium Recovery: A Comprehensive and Critical Review</title>
+      <dc:description>
+Due to the ubiquitous presence of Li&#8208;ion batteries, the future availability of Li is under debate. Li utilization will depend on an increase in production. However, the main Li&#8208;extraction method requires years. The most attracting alternative, electrochemical Li recovery, is analyzed, with the employed methodology, materials, and reactors being scrutinized from a critical perspective.
+
+
+
+
+
+
+
+
+Abstract
+Due to the ubiquitous presence of lithium&#8208;ion batteries in portable applications, and their implementation in the transportation and large&#8208;scale energy sectors, the future cost and availability of lithium is currently under debate. Lithium demand is expected to grow in the near future, up to 900 ktons per year in 2025. Lithium utilization would depend on a strong increase in production. However, the currently most extended lithium extraction method, the lime&#8208;soda evaporation process, requires a period of time in the range of 1&#8211;2 years and depends on weather conditions. The actual global production of lithium by this technology will soon be far exceeded by market demand. Alternative production methods have recently attracted great attention. Among them, electrochemical lithium recovery, based on electrochemical ion&#8208;pumping technology, offers higher capacity production, it does not require the use of chemicals for the regeneration of the materials, reduces the consumption of water and the production of chemical wastes, and allows the production rate to be controlled, attending to the market demand. Here, this technology is analyzed with a special focus on the methodology, materials employed, and reactor designs. The state&#8208;of&#8208;the&#8208;art is reevaluated from a critical perspective and the viability of the different proposed methodologies analyzed.
+</dc:description>
+      <dc:creator>
+Alberto Battistel, 
+Maria Sofia Palagonia, 
+Doriano Brogioli, 
+Fabio La Mantia, 
+Rafael Tr&#243;coli
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201905440?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c2c4bf65-6732-4079-9ae5-e716da5f304f/adma201905440-gra-0001-m.png"
+     alt="Electrochemical Methods for Lithium Recovery: A Comprehensive and Critical Review"/&gt;
+&lt;p&gt;Due to the ubiquitous presence of Li&#8208;ion batteries, the future availability of Li is under debate. Li utilization will depend on an increase in production. However, the main Li&#8208;extraction method requires years. The most attracting alternative, electrochemical Li recovery, is analyzed, with the employed methodology, materials, and reactors being scrutinized from a critical perspective.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Due to the ubiquitous presence of lithium&#8208;ion batteries in portable applications, and their implementation in the transportation and large&#8208;scale energy sectors, the future cost and availability of lithium is currently under debate. Lithium demand is expected to grow in the near future, up to 900 ktons per year in 2025. Lithium utilization would depend on a strong increase in production. However, the currently most extended lithium extraction method, the lime&#8208;soda evaporation process, requires a period of time in the range of 1&#8211;2 years and depends on weather conditions. The actual global production of lithium by this technology will soon be far exceeded by market demand. Alternative production methods have recently attracted great attention. Among them, electrochemical lithium recovery, based on electrochemical ion&#8208;pumping technology, offers higher capacity production, it does not require the use of chemicals for the regeneration of the materials, reduces the consumption of water and the production of chemical wastes, and allows the production rate to be controlled, attending to the market demand. Here, this technology is analyzed with a special focus on the methodology, materials employed, and reactor designs. The state&#8208;of&#8208;the&#8208;art is reevaluated from a critical perspective and the viability of the different proposed methodologies analyzed.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Electrochemical Methods for Lithium Recovery: A Comprehensive and Critical Review</dc:title>
+      <dc:identifier>doi:10.1002/adma.201905440</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-04-19T11:37:43-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.201905440</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201905440?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.201908127?af=R">
       <title>A Rechargeable Zn&#8211;Air Battery with High Energy Efficiency and Long Life Enabled by a Highly Water&#8208;Retentive Gel Electrolyte with Reaction Modifier</title>
       <dc:description>
@@ -2645,49 +2689,6 @@ Chain Tsuan Liu
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000385?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000657?af=R">
-      <title>Functional Materials from Nanocellulose: Utilizing Structure&#8211;Property Relationships in Bottom&#8208;Up Fabrication</title>
-      <dc:description>
-As a natural and renewable building block for bottom&#8208;up fabrication, nanocellulose has gained considerable interest for the assembly of sophisticated materials with advanced functionality. The organization of nanocellulose into aligned, porous, and fibrous materials is highlighted, focusing on the inherent material properties enabling the formation of such structures, along with discussing key advancements and critical challenges within the field.
-
-
-
-
-
-
-
-
-Abstract
-It is inherently challenging to recapitulate the precise hierarchical architectures found throughout nature (such as in wood, antler, bone, and silk) using synthetic bottom&#8208;up fabrication strategies. However, as a renewable and naturally sourced nanoscale building block, nanocellulose&#8212;both cellulose nanocrystals and cellulose nanofibrils&#8212;has gained significant research interest within this area. Altogether, the intrinsic shape anisotropy, surface charge/chemistry, and mechanical/rheological properties are some of the critical material properties leading to advanced structure&#8208;based functionality within nanocellulose&#8208;based bottom&#8208;up fabricated materials. Herein, the organization of nanocellulose into biomimetic&#8208;aligned, porous, and fibrous materials through a variety of fabrication techniques is presented. Moreover, sophisticated material structuring arising from both the alignment of nanocellulose and via specific process&#8208;induced methods is covered. In particular, design rules based on the underlying fundamental properties of nanocellulose are established and discussed as related to their influence on material assembly and resulting structure/function. Finally, key advancements and critical challenges within the field are highlighted, paving the way for the fabrication of truly advanced materials from nanocellulose.
-</dc:description>
-      <dc:creator>
-Kevin De France, 
-Zhihui Zeng, 
-Tingting Wu, 
-Gustav Nystr&#246;m
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000657?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/90b90220-7a0b-4d45-b3cf-20506a64adc8/adma202000657-gra-0001-m.png"
-     alt="Functional Materials from Nanocellulose: Utilizing Structure&#8211;Property Relationships in Bottom&#8208;Up Fabrication"/&gt;
-&lt;p&gt;As a natural and renewable building block for bottom&#8208;up fabrication, nanocellulose has gained considerable interest for the assembly of sophisticated materials with advanced functionality. The organization of nanocellulose into aligned, porous, and fibrous materials is highlighted, focusing on the inherent material properties enabling the formation of such structures, along with discussing key advancements and critical challenges within the field.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;It is inherently challenging to recapitulate the precise hierarchical architectures found throughout nature (such as in wood, antler, bone, and silk) using synthetic bottom&#8208;up fabrication strategies. However, as a renewable and naturally sourced nanoscale building block, nanocellulose&#8212;both cellulose nanocrystals and cellulose nanofibrils&#8212;has gained significant research interest within this area. Altogether, the intrinsic shape anisotropy, surface charge/chemistry, and mechanical/rheological properties are some of the critical material properties leading to advanced structure&#8208;based functionality within nanocellulose&#8208;based bottom&#8208;up fabricated materials. Herein, the organization of nanocellulose into biomimetic&#8208;aligned, porous, and fibrous materials through a variety of fabrication techniques is presented. Moreover, sophisticated material structuring arising from both the alignment of nanocellulose and via specific process&#8208;induced methods is covered. In particular, design rules based on the underlying fundamental properties of nanocellulose are established and discussed as related to their influence on material assembly and resulting structure/function. Finally, key advancements and critical challenges within the field are highlighted, paving the way for the fabrication of truly advanced materials from nanocellulose.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Functional Materials from Nanocellulose: Utilizing Structure&#8211;Property Relationships in Bottom&#8208;Up Fabrication</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000657</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-04-08T04:51:24-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000657</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000657?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Progress Report</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adma.201907565?af=R">
       <title>Emergence of Nontrivial Low&#8208;Energy Dirac Fermions in Antiferromagnetic EuCd2As2</title>
@@ -8060,50 +8061,5 @@ Yousung Jung
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907865?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000716?af=R">
-      <title>Turning Trash into Treasure: Additive Free MXene Sediment Inks for Screen&#8208;Printed Micro&#8208;Supercapacitors</title>
-      <dc:description>
-Screen&#8208;printing MXene sediment inks for high&#8208;resolution electronics is demonstrated. The delaminated nanosheets among the layered particles function as efficient conductive binders, maintaining the mechanical integrity and the metallic conductive network. The printed micro&#8208;supercapacitors display impressive areal capacitance (158 mF cm&#8722;2) coupled with excellent energy density. This &#8220;turning trash into treasure&#8221; strategy ensures sustainable, scalable printing of smart electronics at low cost.
-
-
-
-
-
-
-
-
-Abstract
-Printed functional conductive inks have triggered scalable production of smart electronics such as energy&#8208;storage devices, antennas, wearable electronics, etc. Of particular interest are highly conductive&#8208;additive&#8208;free inks devoid of costly postdeposition treatments to eliminate sacrificial components. Due to the high filler concentration required, formulation of such waste&#8208;free inks has proven quite challenging. Here, additive&#8208;free, 2D titanium carbide MXene aqueous inks with appropriate rheological properties for scalable screen printing are demonstrated. Importantly, the inks consist essentially of the sediments of unetched precursor and multilayered MXene, which are usually discarded after delamination. Screen&#8208;printed structures are presented on paper with high resolution and spatial uniformity, including micro&#8208;supercapacitors, conductive tracks, integrated circuit paths, and others. It is revealed that the delaminated nanosheets among the layered particles function as efficient conductive binders, maintaining the mechanical integrity and thus the metallic conductive network. The areal capacitance (158 mF cm&#8722;2) and energy density (1.64 &#181;Wh cm&#8722;2) of the printed micro&#8208;supercapacitors are much superior to other devices based on MXene or graphene. The ink formulation strategy of &#8220;turning trash into treasure&#8221; for screen printing highlights the potential of waste&#8208;free MXene sediment printing for scalable and sustainable production of next&#8208;generation wearable smart electronics.
-</dc:description>
-      <dc:creator>
-Sina Abdolhosseinzadeh, 
-Ren&#233; Schneider, 
-Anand Verma, 
-Jakob Heier, 
-Frank N&#252;esch, 
-Chuanfang (John) Zhang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000716?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1b04d4b2-6b06-47dd-be9a-9a4bfa4e15a1/adma202000716-gra-0001-m.png"
-     alt="Turning Trash into Treasure: Additive Free MXene Sediment Inks for Screen&#8208;Printed Micro&#8208;Supercapacitors"/&gt;
-&lt;p&gt;Screen&#8208;printing MXene sediment inks for high&#8208;resolution electronics is demonstrated. The delaminated nanosheets among the layered particles function as efficient conductive binders, maintaining the mechanical integrity and the metallic conductive network. The printed micro&#8208;supercapacitors display impressive areal capacitance (158 mF cm&lt;sup&gt;&#8722;2&lt;/sup&gt;) coupled with excellent energy density. This &#8220;turning trash into treasure&#8221; strategy ensures sustainable, scalable printing of smart electronics at low cost.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Printed functional conductive inks have triggered scalable production of smart electronics such as energy&#8208;storage devices, antennas, wearable electronics, etc. Of particular interest are highly conductive&#8208;additive&#8208;free inks devoid of costly postdeposition treatments to eliminate sacrificial components. Due to the high filler concentration required, formulation of such waste&#8208;free inks has proven quite challenging. Here, additive&#8208;free, 2D titanium carbide MXene aqueous inks with appropriate rheological properties for scalable screen printing are demonstrated. Importantly, the inks consist essentially of the sediments of unetched precursor and multilayered MXene, which are usually discarded after delamination. Screen&#8208;printed structures are presented on paper with high resolution and spatial uniformity, including micro&#8208;supercapacitors, conductive tracks, integrated circuit paths, and others. It is revealed that the delaminated nanosheets among the layered particles function as efficient conductive binders, maintaining the mechanical integrity and thus the metallic conductive network. The areal capacitance (158 mF cm&lt;sup&gt;&#8722;2&lt;/sup&gt;) and energy density (1.64 &#181;Wh cm&lt;sup&gt;&#8722;2&lt;/sup&gt;) of the printed micro&#8208;supercapacitors are much superior to other devices based on MXene or graphene. The ink formulation strategy of &#8220;turning trash into treasure&#8221; for screen printing highlights the potential of waste&#8208;free MXene sediment printing for scalable and sustainable production of next&#8208;generation wearable smart electronics.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Turning Trash into Treasure: Additive Free MXene Sediment Inks for Screen&#8208;Printed Micro&#8208;Supercapacitors</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000716</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-03-20T07:32:40-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000716</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000716?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
