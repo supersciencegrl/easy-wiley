@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Synthesis &amp; Catalysis (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000221?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000120?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000189?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000243?af=R" />
@@ -101,7 +102,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000215?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000066?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000210?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000221?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.201901599?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000015?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000045?af=R" />
@@ -109,7 +109,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000164?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000147?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000058?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.201901497?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.201901591?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000281?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.201901552?af=R" />
@@ -2967,29 +2966,6 @@ H&#233;l&#232;ne Pellissier
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000221?af=R">
-      <title>DABCO&#8208;promoted diaryl thioether formation by metal&#8208;catalyzed coupling of sodium sulfinates and aryl iodides</title>
-      <dc:description>A scalable catalytic synthesis method using commodity chemicals for constructing diaryl thioethers directly from sodium arylsulfinates and iodoarenes is reported in this study. In the presence of CuO or other copper salts such as Cu(OAc)2 as well as palladium catalysts, DABCO demonstrated to be essential to promote this transformation. Various iodoarenes and aryl sulfinates were examined and demonstrated the viability of this method. The mechanistic study showed that radical reactions occurred, while DABCO N&#8208;oxide radical can be observed by mass spectrometry. A plausible catalytic mechanism involving DABCO is also discussed, suggesting synergistic reduction of sulfinate by Cu(II) and DABCO is the key step of this coupling reaction.</dc:description>
-      <dc:creator>
-Yanpeng Liu, 
-Long Yin Lam, 
-Jiqing Ye, 
-Nicolas Blanchard, 
-Cong Ma
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000221?af=R</link>
-      <content:encoded>&lt;p&gt;A scalable catalytic synthesis method using commodity chemicals for constructing diaryl thioethers directly from sodium arylsulfinates and iodoarenes is reported in this study. In the presence of CuO or other copper salts such as Cu(OAc)2 as well as palladium catalysts, DABCO demonstrated to be essential to promote this transformation. Various iodoarenes and aryl sulfinates were examined and demonstrated the viability of this method. The mechanistic study showed that radical reactions occurred, while DABCO N&#8208;oxide radical can be observed by mass spectrometry. A plausible catalytic mechanism involving DABCO is also discussed, suggesting synergistic reduction of sulfinate by Cu(II) and DABCO is the key step of this coupling reaction.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>DABCO&#8208;promoted diaryl thioether formation by metal&#8208;catalyzed coupling of sodium sulfinates and aryl iodides</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000221</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-03-24T08:14:13-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000221</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000221?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adsc.201901599?af=R">
       <title>Synthesis of Pyrido[2,3&#8208;b]indole Derivatives via Rhodium&#8208;Catalyzed Cyclization of Indoles and 1&#8208;Sulfonyl&#8208;1,2,3&#8208;triazoles</title>
       <dc:description>
@@ -3336,56 +3312,6 @@ J&#246;rg Pietruszka
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000058?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.201901497?af=R">
-      <title>Asymmetric Synthesis of N&#8208;Fused 1,3&#8208;Oxazolidines via Pd&#8208;Catalyzed Decarboxylative (3+2) Cycloaddition</title>
-      <dc:description>
-
-
-
-
-
-
-
-
-Abstract
-Efficient synthesis of optically active N&#8208;fused 1,3&#8208;oxazolidines containing quaternary and tertiary stereocenters was achieved via Pd&#8208;catalyzed asymmetric (3+2) cycloadditions of sulfamate&#8208;derived cyclic imines and vinylethylene carbonates. Using a chiral phosphoramidite ligand, the cycloadditions proceeded effectively providing sulfamidate&#8208;fused 1,3&#8208;oxazolidines in high yields (up to 96%) with stereoselectivities (up to 25:1&#8197;dr; &gt;99% ee). Additionally, the scale&#8208;up reaction and further transformations of the product were also achieved demonstrating the synthetic utility toward the construction of useful heterocycles such as chiral oxazoline bearing a quaternary stereocenter.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Jong&#8208;Un Park, 
-Hye&#8208;In Ahn, 
-Ho&#8208;Jun Cho, 
-Zi Xuan, 
-Ju Hyun Kim
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.201901497?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e4fd9202-1442-49e9-8770-d7cc1b8b716c/adsc201901497-toc-0001-m.png"
-     alt="Asymmetric Synthesis of N&#8208;Fused 1,3&#8208;Oxazolidines via Pd&#8208;Catalyzed Decarboxylative (3+2) Cycloaddition"/&gt;
-&lt;p&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Efficient synthesis of optically active N&#8208;fused 1,3&#8208;oxazolidines containing quaternary and tertiary stereocenters was achieved via Pd&#8208;catalyzed asymmetric (3+2) cycloadditions of sulfamate&#8208;derived cyclic imines and vinylethylene carbonates. Using a chiral phosphoramidite ligand, the cycloadditions proceeded effectively providing sulfamidate&#8208;fused 1,3&#8208;oxazolidines in high yields (up to 96%) with stereoselectivities (up to 25:1&#8197;dr; &amp;gt;99% ee). Additionally, the scale&#8208;up reaction and further transformations of the product were also achieved demonstrating the synthetic utility toward the construction of useful heterocycles such as chiral oxazoline bearing a quaternary stereocenter.&lt;/p&gt;&lt;p&gt;
-
-&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, EarlyView. </description>
-      <dc:title>Asymmetric Synthesis of N&#8208;Fused 1,3&#8208;Oxazolidines via Pd&#8208;Catalyzed Decarboxylative (3+2) Cycloaddition</dc:title>
-      <dc:identifier>doi:10.1002/adsc.201901497</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-03-23T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.201901497</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.201901497?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adsc.201901591?af=R">
       <title>Still&#8208;Gennari olefination and its applications in organic synthesis</title>
