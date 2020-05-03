@@ -9,6 +9,9 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004256?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000959?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005091?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003041?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004991?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004314?af=R" />
@@ -126,9 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003886?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004293?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002180?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005749?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005366?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003399?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915772?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915656?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000185?af=R" />
@@ -193,6 +193,84 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202004256?af=R">
+      <title>Tailoring Component Interaction for Air&#8208;Processed Efficient and Stable All&#8208;Inorganic Perovskite Photovoltaic</title>
+      <dc:description>All&#8208;inorganic lead halide perovskites with potential stability improvement is promising candidate for optoelectronic applications. However, fundamental questions remain over the component interaction in the perovskite precursor solution due to the limitation of the most commonly used solvents of N,N&#8208;dimethylformamide (DMF) and dimethyl sulfoxide (DMSO). Here, we report a simple and very effective interaction tailoring strategy for all&#8208;inorganic CsPbI3&#8208;xBrx perovskites by involving ionic liquid solvent methylammonium acetate (MAAc). We found that C=O has strong interaction with lead (Pb2+) and the N&#8208;H&#8230;I hydrogen bonds formation are observed. The interaction enables the stable perovskite precursor solution and allows the high&#8208;quality production of pinhole&#8208;free, large grain size, and flat all&#8208;inorganic perovskite films by retarding the crystallization. With a one&#8208;step, without the necessity for antisolvent treatment, air&#8208;processing approach regardless of humidity, the corresponding photovoltaic cell exhibits a high efficiency of 17.10% along with long operation stability over 1500 h under continuous light illumination.</dc:description>
+      <dc:creator>
+Xiaojuan Wang, 
+Xueqin Ran, 
+Xiaotao Liu, 
+Hao Gu, 
+Shouwei Zuo, 
+Wei Hui, 
+Hui Lu, 
+Bo Sun, 
+Xingyu Gao, 
+Jing Zhang, 
+Yingdong Xia, 
+Yonghua Chen, 
+Wei Huang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004256?af=R</link>
+      <content:encoded>&lt;p&gt;All&#8208;inorganic lead halide perovskites with potential stability improvement is promising candidate for optoelectronic applications. However, fundamental questions remain over the component interaction in the perovskite precursor solution due to the limitation of the most commonly used solvents of N,N&#8208;dimethylformamide (DMF) and dimethyl sulfoxide (DMSO). Here, we report a simple and very effective interaction tailoring strategy for all&#8208;inorganic CsPbI3&#8208;xBrx perovskites by involving ionic liquid solvent methylammonium acetate (MAAc). We found that C=O has strong interaction with lead (Pb2+) and the N&#8208;H&#8230;I hydrogen bonds formation are observed. The interaction enables the stable perovskite precursor solution and allows the high&#8208;quality production of pinhole&#8208;free, large grain size, and flat all&#8208;inorganic perovskite films by retarding the crystallization. With a one&#8208;step, without the necessity for antisolvent treatment, air&#8208;processing approach regardless of humidity, the corresponding photovoltaic cell exhibits a high efficiency of 17.10% along with long operation stability over 1500 h under continuous light illumination.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Tailoring Component Interaction for Air&#8208;Processed Efficient and Stable All&#8208;Inorganic Perovskite Photovoltaic</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004256</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-02T06:14:11-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004256</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004256?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202000959?af=R">
+      <title>Predicting Regioselectivity in Radical C&#8722;H Functionalization of Heterocycles through Machine Learning</title>
+      <dc:description>Radical C&#8722;H bond functionalization provides a versatile approach for elaborating heterocyclic compounds. The synthetic design of this transformation relies heavily on the knowledge of regioselectivity, while a quantified and efficient regioselectivity prediction approach is still elusive. Herein we report the feasibility of using machine learning model to predict the transition state barrier from the computed properties of isolated reactants. This enables rapid and reliable regioselectivity prediction for the radical C&#8722;H bond functionalization of heterocycles. The Random Forest model with physical organic features achieved a 94.2% site accuracy and an 89.9% selectivity accuracy in the out&#8208;of&#8208;sample test set. The prediction performance was further validated by comparing the machine learning results with additional substituents, heteroarene scaffolds and experimental observations. This work revealed that the combination of mechanism&#8208;based computational statistics and machine learning model can serve as a useful strategy for selectivity prediction of organic transformations.</dc:description>
+      <dc:creator>
+Xin Li, 
+Shuo-Qing Zhang, 
+Li-Cheng Xu, 
+Xin Hong
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000959?af=R</link>
+      <content:encoded>&lt;p&gt;Radical C&#8722;H bond functionalization provides a versatile approach for elaborating heterocyclic compounds. The synthetic design of this transformation relies heavily on the knowledge of regioselectivity, while a quantified and efficient regioselectivity prediction approach is still elusive. Herein we report the feasibility of using machine learning model to predict the transition state barrier from the computed properties of isolated reactants. This enables rapid and reliable regioselectivity prediction for the radical C&#8722;H bond functionalization of heterocycles. The Random Forest model with physical organic features achieved a 94.2% site accuracy and an 89.9% selectivity accuracy in the out&#8208;of&#8208;sample test set. The prediction performance was further validated by comparing the machine learning results with additional substituents, heteroarene scaffolds and experimental observations. This work revealed that the combination of mechanism&#8208;based computational statistics and machine learning model can serve as a useful strategy for selectivity prediction of organic transformations.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Predicting Regioselectivity in Radical C&#8722;H Functionalization of Heterocycles through Machine Learning</dc:title>
+      <dc:identifier>doi:10.1002/anie.202000959</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-02T03:44:18-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202000959</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000959?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202005091?af=R">
+      <title>Structure and Unprecedented Reactivity of&#160;a Mononuclear&#160;Nonheme Cobalt(III)&#8208;Iodosylbenzene Complex</title>
+      <dc:description>A mononuclear nonheme cobalt(III)&#8208;iodosylbenzene complex, [Co(III)(TQA)(OH)(OIPh)]2+&#160;(1), is synthesized and characterized structurally and spectroscopically. While 1 is a sluggish oxidant in oxidation reactions, it becomes a competent oxidant in oxygen atom transfer reactions, such as olefin epoxidation, in the presence of a small amount of proton. More interestingly, 1 shows a nucleophilic reactivity in aldehyde deformylation reaction, demonstrating that 1 possesses an amphoteric reactivity. Another interesting observation is that 1 can be used as an oxygen atom donor in the generation of high&#8208;valent metal&#8208;oxo complexes. To the best of our knowledge, the present study reports the first crystal structure of a Co(III)&#8208;iodosylbenzene complex and the unprecedented reactivities of metal&#8208;iodosylarene complexes, such as the nucleophilic reactivity in the deformylation of aldehydes and the use of a metal&#8208;iodosylbenzene complex as an oxygen atom donor in the synthesis of a metal&#8208;oxo complex.</dc:description>
+      <dc:creator>
+Jindou Yang, 
+Mi Sook Seo, 
+Kyung Ha Kim, 
+Yong-Min Lee, 
+Shunichi Fukuzumi, 
+Jason Shearer, 
+Wonwoo Nam
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005091?af=R</link>
+      <content:encoded>&lt;p&gt;A mononuclear nonheme cobalt(III)&#8208;iodosylbenzene complex, [Co(III)(TQA)(OH)(OIPh)]2+&#160;(1), is synthesized and characterized structurally and spectroscopically. While 1 is a sluggish oxidant in oxidation reactions, it becomes a competent oxidant in oxygen atom transfer reactions, such as olefin epoxidation, in the presence of a small amount of proton. More interestingly, 1 shows a nucleophilic reactivity in aldehyde deformylation reaction, demonstrating that 1 possesses an amphoteric reactivity. Another interesting observation is that 1 can be used as an oxygen atom donor in the generation of high&#8208;valent metal&#8208;oxo complexes. To the best of our knowledge, the present study reports the first crystal structure of a Co(III)&#8208;iodosylbenzene complex and the unprecedented reactivities of metal&#8208;iodosylarene complexes, such as the nucleophilic reactivity in the deformylation of aldehydes and the use of a metal&#8208;iodosylbenzene complex as an oxygen atom donor in the synthesis of a metal&#8208;oxo complex.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Structure and Unprecedented Reactivity of&#160;a Mononuclear&#160;Nonheme Cobalt(III)&#8208;Iodosylbenzene Complex</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005091</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-02T02:13:36-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005091</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005091?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202003041?af=R">
       <title>Stress&#8208;induced Domain Wall Motion in a Ferroelastic Mn3+ Spin Crossover Complex</title>
       <dc:description>Domain wall motion is detected for the first time during the transition to a ferroelastic and spin&#8208;state ordered phase of a spin crossover complex. Single crystal X&#8208;ray diffraction and resonant ultrasonic spectroscopy (RUS) revealed two distinct symmetry&#8208;breaking phase transitions in the mononuclear Mn  3+  compound [Mn(3,5&#8208;diBr&#8208;sal  2  (323))]BPh  4  , 1. The first at 250 K, involves the space group change  Cc  &#8594;  Pc  and is thermodynamically continuous, while the second,  Pc  &#8594;  P1  at 85 K, is discontinuous and related to spin crossover and spin&#8208;state ordering. Stress&#8208;induced domain wall mobility was detected as softening of the phonon modes at the  Pc  &#8594;  P1  transition.</dc:description>
@@ -2490,74 +2568,6 @@ Francesco Ricci
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002180?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005749?af=R">
-      <title>Photoredox Controlled &#946;&#8208;Regioselective Radical Hydroboration of Activated Alkenes with NHC&#8208;Boranes</title>
-      <dc:description>In this communication, we report an unprecedented &#946;&#8208;regioselective radical inverse hydroboration (compared with ionic hydroboration) of &#945;, &#946;&#8208;unsaturated amides with NHC&#8208;BH3 enabled by the photoredox catalysis. The density functional theory (DFT) calculations show that the unique photoredox cycle is a key factor to control the &#946;&#8208;regioselective radical hydroboration, which makes the energy barrier is lower than other pathways. This protocol provides a general and convenient route to construct a wide range of structurally diverse &#946;&#8208;borylated amides in synthetically useful yields under mild conditions.</dc:description>
-      <dc:creator>
-Jin Xie
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005749?af=R</link>
-      <content:encoded>&lt;p&gt;In this communication, we report an unprecedented &#946;&#8208;regioselective radical inverse hydroboration (compared with ionic hydroboration) of &#945;, &#946;&#8208;unsaturated amides with NHC&#8208;BH3 enabled by the photoredox catalysis. The density functional theory (DFT) calculations show that the unique photoredox cycle is a key factor to control the &#946;&#8208;regioselective radical hydroboration, which makes the energy barrier is lower than other pathways. This protocol provides a general and convenient route to construct a wide range of structurally diverse &#946;&#8208;borylated amides in synthetically useful yields under mild conditions.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Photoredox Controlled &#946;&#8208;Regioselective Radical Hydroboration of Activated Alkenes with NHC&#8208;Boranes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005749</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-04-27T07:34:58-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005749</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005749?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005366?af=R">
-      <title>One&#8208;Step Ring Opening Metathesis Block&#8208;Like Copolymers and their Compositional Analysis by a Novel Retardation Technique</title>
-      <dc:description>Using a one&#8208;step synthetic route for block copolymers avoids the repeated addition of monomers to the polymerization mixture, which can easily lead to contamination and, therefore, to the unwanted termination of chain growth. For this purpose, monomers (M1 &#8208; M5) with different steric hindrances and different propagation rates are explored. Copolymerization of M1 (propagating rapidly) with M2 (propagating slowly), M1 with M3 (propagating extremely slowly) and M4 (propagating rapidly) with M5 (propagating slowly) yielded diblock&#8208;like copolymers using Grubbs&#8217; first (G1) or third generation catalyst (G3). The monomer consumption was followed by 1H NMR spectroscopy, which revealed vastly different reactivity ratios for M1 and M2. In the case of M1 and M3, we observed the highest difference in reactivity ratios (r1=324 and r2=0.003) ever reported for a copolymerization method. A triblock&#8208;like copolymer was also synthesized using G3 by first allowing the consumption of the mixture of M1 and M2 and then adding M1 again. In addition, in order to measure the fast reaction rates of the G3 catalyst with M1, we report a novel retardation technique based on an unusual reversible G3 Fischer&#8208;carbene to G3 benzylidene/alkylidene transformation.</dc:description>
-      <dc:creator>
-Mohammad Yasir, 
-Peng Liu, 
-Jens Markwart, 
-Oksana Suraeva, 
-Frederik Wurm, 
-Jansie Smart, 
-Marco Lattuada, 
-Andreas  F.M. Kilbinger
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005366?af=R</link>
-      <content:encoded>&lt;p&gt;Using a one&#8208;step synthetic route for block copolymers avoids the repeated addition of monomers to the polymerization mixture, which can easily lead to contamination and, therefore, to the unwanted termination of chain growth. For this purpose, monomers (M1 &#8208; M5) with different steric hindrances and different propagation rates are explored. Copolymerization of M1 (propagating rapidly) with M2 (propagating slowly), M1 with M3 (propagating extremely slowly) and M4 (propagating rapidly) with M5 (propagating slowly) yielded diblock&#8208;like copolymers using Grubbs&#8217; first (G1) or third generation catalyst (G3). The monomer consumption was followed by 1H NMR spectroscopy, which revealed vastly different reactivity ratios for M1 and M2. In the case of M1 and M3, we observed the highest difference in reactivity ratios (r1=324 and r2=0.003) ever reported for a copolymerization method. A triblock&#8208;like copolymer was also synthesized using G3 by first allowing the consumption of the mixture of M1 and M2 and then adding M1 again. In addition, in order to measure the fast reaction rates of the G3 catalyst with M1, we report a novel retardation technique based on an unusual reversible G3 Fischer&#8208;carbene to G3 benzylidene/alkylidene transformation.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>One&#8208;Step Ring Opening Metathesis Block&#8208;Like Copolymers and their Compositional Analysis by a Novel Retardation Technique</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005366</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-04-27T06:59:14-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005366</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005366?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202003399?af=R">
-      <title>Magnetic anisotropy in divalent lanthanide compounds</title>
-      <dc:description>Complexes of trivalent lanthanides are well known to possess strong magnetic anisotropy which enables them to be efficient single&#8208;molecule magnets. We report here high&#8208;level ab initio calculations for [LnO], Ln=Tb, Dy, Ho, which show that divalent lanthanides can exhibit equally strong magnetic anisotropy and magnetization blocking barriers. In particular, detailed calculations predict for a [DyO] complex deposited on the h&#8208;BN surface a multilevel magnetization blocking barrier exceeding 3000 K, bringing the expected performance of single&#8208;molecule magnets to a qualitatively new level compared to the current state&#8208;of&#8208;the art complexes.</dc:description>
-      <dc:creator>
-Liviu Chibotaru, 
-Liviu Ungur, 
-Naoya Iwahara, 
-Weibing Zhang, 
-Almas Muhtadi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003399?af=R</link>
-      <content:encoded>&lt;p&gt;Complexes of trivalent lanthanides are well known to possess strong magnetic anisotropy which enables them to be efficient single&#8208;molecule magnets. We report here high&#8208;level ab initio calculations for [LnO], Ln=Tb, Dy, Ho, which show that divalent lanthanides can exhibit equally strong magnetic anisotropy and magnetization blocking barriers. In particular, detailed calculations predict for a [DyO] complex deposited on the h&#8208;BN surface a multilevel magnetization blocking barrier exceeding 3000 K, bringing the expected performance of single&#8208;molecule magnets to a qualitatively new level compared to the current state&#8208;of&#8208;the art complexes.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Magnetic anisotropy in divalent lanthanide compounds</dc:title>
-      <dc:identifier>doi:10.1002/anie.202003399</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-04-27T04:07:23-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202003399</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003399?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202081911?af=R">
       <title>Graphical Abstract: Angew. Chem. Int. Ed. 19/2020</title>
