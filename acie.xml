@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004965?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002463?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004267?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005212?af=R" />
@@ -128,7 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004691?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004090?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004083?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004333?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915772?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915656?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000185?af=R" />
@@ -193,6 +193,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202004965?af=R">
+      <title>Base&#8208;Assisted Imidization: A Synthetic Method for the Introduction of Bulky Imide Substituents to Control Packing and Optical Properties of Naphthalene and Perylene Imides</title>
+      <dc:description>We report the direct imidization of naphthalene and perylene dicarboxylic anhydrides/esters with bulky ortho,ortho&#8208;diaryl&#8208; and ortho,ortho&#8208;dialkynylaniline derivatives. This imidization method uses n&#8208;butyllithium as a strong base to increase the reactivity of bulky amine derivatives, proceeds under mild reaction conditions, requires only stoichiometric amounts of reactants and gives straightforward access to new sterically crowded rylene dicarboximides. Mechanistic investigations suggest an isoimide as intermediary product, which was converted to corresponding imide upon addition of aqueous base. Single crystal X&#8208;ray diffraction analyses reveal dimeric packing motifs for monoimides, while two&#8208;side shielded bisimides crystallize in isolated molecules without close &#960;&#8208;&#960;&#8208;interactions. Spectroscopic investigations disclose the influence of the bulky substituents on the optical properties in the solid&#8208;state.</dc:description>
+      <dc:creator>
+Magnus Mahl, 
+Kazutaka Shoyama, 
+Ana-Maria Krause, 
+David Schmidt, 
+Frank W&#252;rthner
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004965?af=R</link>
+      <content:encoded>&lt;p&gt;We report the direct imidization of naphthalene and perylene dicarboxylic anhydrides/esters with bulky ortho,ortho&#8208;diaryl&#8208; and ortho,ortho&#8208;dialkynylaniline derivatives. This imidization method uses n&#8208;butyllithium as a strong base to increase the reactivity of bulky amine derivatives, proceeds under mild reaction conditions, requires only stoichiometric amounts of reactants and gives straightforward access to new sterically crowded rylene dicarboximides. Mechanistic investigations suggest an isoimide as intermediary product, which was converted to corresponding imide upon addition of aqueous base. Single crystal X&#8208;ray diffraction analyses reveal dimeric packing motifs for monoimides, while two&#8208;side shielded bisimides crystallize in isolated molecules without close &#960;&#8208;&#960;&#8208;interactions. Spectroscopic investigations disclose the influence of the bulky substituents on the optical properties in the solid&#8208;state.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Base&#8208;Assisted Imidization: A Synthetic Method for the Introduction of Bulky Imide Substituents to Control Packing and Optical Properties of Naphthalene and Perylene Imides</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004965</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-04T02:19:08-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004965</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004965?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202002463?af=R">
       <title>Comprehensive and High&#8208;Throughput Exploration of Chemical Space Using Broadband 19F NMR&#8208;Based Screening</title>
       <dc:description>Fragment&#8208;based lead discovery has become a fundamental approach to identify ligands that efficiently interact with disease&#8208;relevant targets. Among the numerous screening techniques, fluorine&#8208;detected NMR has gained popularity owing to its high sensitivity, robustness, and ease of use. To effectively explore chemical space, a universal NMR experiment, a rationally designed fragment library, and a sample composition optimized for a maximal number of compounds and minimal measurement time are required. Here, we introduce a comprehensive method that enabled the efficient assembly of a high&#8208;quality and diverse library containing nearly 4000 fragments and screening for target&#8208;specific binders within days. At the core of the approach is a novel broadband relaxation&#8208;edited NMR experiment that covers the entire chemical shift range of drug&#8208;like 19F motifs in a single measurement. Our approach facilitates the identification of diverse binders and the fast ligandability assessment of new targets.</dc:description>
@@ -2556,39 +2579,6 @@ Ying Diao
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004083?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202004333?af=R">
-      <title>Robust DNA&#8208;bridged memristor for textile chip</title>
-      <dc:description>Electronic textiles that are thin, lightweight, flexible and breathable have been widely explored with a variety of functionalities including power supplying, displaying and sensing, which may revolutionize many fields such as communication, health care and artificial intelligence. To date, unfortunately, computing is the missing puzzle to close their functional loop. Memristor is compatible with the interwoven structure and fabricating process in textile due to its two&#8208;terminal and crossbar configuration. However, it remains challenging to realize textile memristors due to the difficulties in designing advanced memristive materials and achieving high&#8208;quality active layers on fiber electrodes. Here we report a robust textile memristor based on an electrophoretic&#8208;deposited active layer of d   eoxyribonucleic acid (DNA) on fiber electrodes. The unique architecture and  orientation of DNA molecules  with the incorporation of Ag nanoparticles offer the best&#8208;in&#8208;class performances, e.g., both  ultra&#8208;  low  operation voltage of ~0.3 V and power consumption of ~100 pW and  high switching speed  of 20 ns. Fundamental logic calculations such as implication and NAND are demonstrated as functions of textile chips,  and it has been thus  integrated with power&#8208;supplying and displaying modules to make  a proof&#8208;of&#8208;concept fabric computer  . This work provides a promising route towards wearable computers and artificial neural networks for effective brain&#8208;machine interfaces.</dc:description>
-      <dc:creator>
-Xiaojie Xu, 
-Xufeng Zhou, 
-Tianyu Wang, 
-Xiang Shi, 
-Ya Liu, 
-Yong Zuo, 
-Limin Xu, 
-Mengying Wang, 
-Xiaofeng Hu, 
-Xinju Yang, 
-Jiaxin Chen, 
-Xiubo Yang, 
-Lin Chen, 
-Peining Chen, 
-Huisheng Peng
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004333?af=R</link>
-      <content:encoded>&lt;p&gt;Electronic textiles that are thin, lightweight, flexible and breathable have been widely explored with a variety of functionalities including power supplying, displaying and sensing, which may revolutionize many fields such as communication, health care and artificial intelligence. To date, unfortunately, computing is the missing puzzle to close their functional loop. Memristor is compatible with the interwoven structure and fabricating process in textile due to its two&#8208;terminal and crossbar configuration. However, it remains challenging to realize textile memristors due to the difficulties in designing advanced memristive materials and achieving high&#8208;quality active layers on fiber electrodes. Here we report a robust textile memristor based on an electrophoretic&#8208;deposited active layer of d   eoxyribonucleic acid (DNA) on fiber electrodes. The unique architecture and  orientation of DNA molecules  with the incorporation of Ag nanoparticles offer the best&#8208;in&#8208;class performances, e.g., both  ultra&#8208;  low  operation voltage of ~0.3 V and power consumption of ~100 pW and  high switching speed  of 20 ns. Fundamental logic calculations such as implication and NAND are demonstrated as functions of textile chips,  and it has been thus  integrated with power&#8208;supplying and displaying modules to make  a proof&#8208;of&#8208;concept fabric computer  . This work provides a promising route towards wearable computers and artificial neural networks for effective brain&#8208;machine interfaces.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Robust DNA&#8208;bridged memristor for textile chip</dc:title>
-      <dc:identifier>doi:10.1002/anie.202004333</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-04-27T09:04:51-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202004333</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004333?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202081911?af=R">
       <title>Graphical Abstract: Angew. Chem. Int. Ed. 19/2020</title>
