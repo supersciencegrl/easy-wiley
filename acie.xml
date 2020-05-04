@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004364?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003326?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001436?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003807?af=R" />
@@ -187,7 +188,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004463?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004239?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004691?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004090?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -196,6 +196,34 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202004364?af=R">
+      <title>Biosynthesis of biscognienyne B involving an unprecedented cytochrome P450&#8208;dependent alkynylation</title>
+      <dc:description>Alkyne is a biologically significant moiety found in many natural products and a versatile functional group widely used in modern chemistry. Recent studies have revealed the biosynthesis of acetylenic bonds in fatty acids and amino acids. However, the molecular basis for the alkynyl moiety in acetylenic prenyl chains occurring in a number of meroterpenoids remains obscure. Here, we identify the biosynthetic gene cluster and characterize the biosynthetic pathway of an acetylenic meroterpenoid biscognienyne B based on heterologous expression, feeding experiments and&#160;in vitro&#160;assay. We discover that the alkyne moiety is constructed by an unprecedented cytochrome P450 enzyme BisI, which shows promiscuous activity towards C5 and C15 prenyl chains. This finding provides an opportunity for discovery of new compounds featured with acetylenic prenyl chains through genome mining, and expands the enzyme inventory for&#160;de novo&#160;biosynthesis of alkyne.</dc:description>
+      <dc:creator>
+Ikuro Abe, 
+Jian-Ming Lv, 
+Yao-Hui Gao, 
+Huan Zhao, 
+Takayoshi Awakawa, 
+Ling Liu, 
+Guo-Dong Chen, 
+Xin-Sheng Yao, 
+Dan Hu, 
+Hao Gao
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004364?af=R</link>
+      <content:encoded>&lt;p&gt;Alkyne is a biologically significant moiety found in many natural products and a versatile functional group widely used in modern chemistry. Recent studies have revealed the biosynthesis of acetylenic bonds in fatty acids and amino acids. However, the molecular basis for the alkynyl moiety in acetylenic prenyl chains occurring in a number of meroterpenoids remains obscure. Here, we identify the biosynthetic gene cluster and characterize the biosynthetic pathway of an acetylenic meroterpenoid biscognienyne B based on heterologous expression, feeding experiments and&#160;in vitro&#160;assay. We discover that the alkyne moiety is constructed by an unprecedented cytochrome P450 enzyme BisI, which shows promiscuous activity towards C5 and C15 prenyl chains. This finding provides an opportunity for discovery of new compounds featured with acetylenic prenyl chains through genome mining, and expands the enzyme inventory for&#160;de novo&#160;biosynthesis of alkyne.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Biosynthesis of biscognienyne B involving an unprecedented cytochrome P450&#8208;dependent alkynylation</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004364</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-04T04:54:55-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004364</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004364?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202004778?af=R">
       <title>Fluctuating Storage of the Active Phase in a Mn&#8208;Na2WO4/SiO2 Catalyst for the Oxidative Coupling of Methane</title>
       <dc:description>Structural dynamics of a Mn&#8208;Na  2  WO  4  /SiO  2  catalyst were detected directly under reaction conditions during the oxidative coupling of methane via in situ XRD and operando Raman spectroscopy. A new concept of fluctuating storage and release of an active phase in heterogeneous catalysis is proposed that involves the transient generation of active sodium oxide species via a reversible reaction of Na  2  WO  4  with Mn  7  SiO  12  . The process is enabled by phase transitions and melting at the high reaction temperatures that are typically applied.</dc:description>
@@ -2791,4 +2819,4 @@ Jeroen  Sidney Dickschat
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   </rdf:RDF>
+</rdf:RDF>
