@@ -9,6 +9,8 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000990?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000635?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001855?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002158?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001296?af=R" />
@@ -156,8 +158,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000584?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001290?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000856?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001361?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001471?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -166,6 +166,55 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202000990?af=R">
+      <title>Regulation of ambient light&#8211;induced photocyclization pathway (Norrish&#8208;Yang vs. 6&#960;) by substituent choice</title>
+      <dc:description>A series of donor/acceptor chromophores 1d&#8211;3d containing two types of photoresponsive motifs, namely an electron&#8208;deficient BF2&#8208;chelated ketone fused with an electron&#8208;rich thiophene have been synthesized and their photochromic performance are investigated. The results reveal that simple variation of R substituents on the diaryl moiety allows one to control the intramolecular photocyclization mechanism with high photochemical selectivity, e.g., under ambient light, methyl&#8208;substituted 1d and 2d undergo 6&#960; photocyclization, whereas ethyl&#8208;substituted 3d exclusively undergoes Norrish&#8208;Yang photocyclization. Single&#8208;crystal X&#8208;ray analysis of Norrish&#8208;Yang cyclization products reveals the formation of four pairs of conformational enantiomers differing in the dihedral angle between benzothiophene and the BF2 core. The UV&#8208;vis absorption spectra of 1d&#8211;3d cover a broad visible light region (380&#8211;572 nm), while theoretical calculations reveal that absorption in this region is dominated by the charge transfer (CT) transition from the thiophene&#8208;centered HOMO to the LUMO of the electron&#8208;deficient &#960;&#8208;conjugated BF2&#8208;chelated unit. The spatial separation of the HOMO and LUMO of these dyes promotes&#160;triplet state generation and self&#8208;photosensitizes intramolecular photocyclization in the visible light region. Three&#8208;dimensional time&#8208;resolved and steady&#8208;state emission spectra of 3d show that the Norrish&#8208;Yang photocyclization takes place within milliseconds with excellent conversion efficiency (96%).</dc:description>
+      <dc:creator>
+Hui Liu, 
+Hu Gao, 
+Sisi Wang, 
+Shengxin Yao, 
+Fan Wu, 
+Yue Zhao, 
+Kin Shing Chan, 
+Zhen Shen
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000990?af=R</link>
+      <content:encoded>&lt;p&gt;A series of donor/acceptor chromophores 1d&#8211;3d containing two types of photoresponsive motifs, namely an electron&#8208;deficient BF2&#8208;chelated ketone fused with an electron&#8208;rich thiophene have been synthesized and their photochromic performance are investigated. The results reveal that simple variation of R substituents on the diaryl moiety allows one to control the intramolecular photocyclization mechanism with high photochemical selectivity, e.g., under ambient light, methyl&#8208;substituted 1d and 2d undergo 6&#960; photocyclization, whereas ethyl&#8208;substituted 3d exclusively undergoes Norrish&#8208;Yang photocyclization. Single&#8208;crystal X&#8208;ray analysis of Norrish&#8208;Yang cyclization products reveals the formation of four pairs of conformational enantiomers differing in the dihedral angle between benzothiophene and the BF2 core. The UV&#8208;vis absorption spectra of 1d&#8211;3d cover a broad visible light region (380&#8211;572 nm), while theoretical calculations reveal that absorption in this region is dominated by the charge transfer (CT) transition from the thiophene&#8208;centered HOMO to the LUMO of the electron&#8208;deficient &#960;&#8208;conjugated BF2&#8208;chelated unit. The spatial separation of the HOMO and LUMO of these dyes promotes&#160;triplet state generation and self&#8208;photosensitizes intramolecular photocyclization in the visible light region. Three&#8208;dimensional time&#8208;resolved and steady&#8208;state emission spectra of 3d show that the Norrish&#8208;Yang photocyclization takes place within milliseconds with excellent conversion efficiency (96%).&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Regulation of ambient light&#8211;induced photocyclization pathway (Norrish&#8208;Yang vs. 6&#960;) by substituent choice</dc:title>
+      <dc:identifier>doi:10.1002/chem.202000990</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-05-05T07:24:41-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202000990</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000990?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202000635?af=R">
+      <title>In Search of Fulminate Analogues: LnM&#8801;CP=NR</title>
+      <dc:description>The &#8216;CPNR&#8217; ligand may be viewed as being isolobal with fulminate, CNO, however attempts to prepare a complex of such a ligand resulted instead in a range of novel imino and aminophosphinocarbyne complexes. Sequential treatment of [Mo(&#8801;CBr)(CO)  2  (Tp*)] (Tp* = hydrotris(dimethylpyrazolyl)borate) with  n  BuLi and ClP=NMes* (Mes* = C  6  H  2  t  Bu  3  &#8208;2,4,6) afforded mixtures of the complexes [Mo(&#8801;CP  n  BuNHMes*)(CO)  2  (Tp*)] and traces of the bimetallic products [Mo  2  {&#956;  2  &#8208;C  2  P  2  O(NHMes)  2  }(CO)  2  (Tp*)  2  ] and [Mo  2  (&#956;  2  &#8208;C  2  PNHMes)(CO)  2  (Tp*)  2  ]. The reaction of [W&#8801;CBr)(CO)  2  (Tp*)] with  n  BuLi and ClP=NMes* afforded predominately the mononuclear carbyne [W{&#8801;CP(=NMes*)  n  Bu  2  })(CO)  2  (Tp*)] and traces of the binuclear complex [W  2  (&#956;&#8208;C  2  PNHMes)(CO)  4  (Tp*)  2  ] which is also obtained when  t  BuLi is used. Although not isolable, the intended complexes [M(&#8801;CPNMes*)(CO)  2  (Tp*)] could be generated in situ and spectroscopically characterized via the gold&#8208;mediated reactions of the stannyl carbynes [M(&#8801;CSn  n  Bu  3  )(CO)  2  (Tp*)] and ClP=NMes*. The preceding observations are mechanistically interpreted with reference to a computational interrogation of the model complex [Mo(&#8801;CP=NCH  3  )(CO)  2  (Tp*)], the LUMO of which has considerable phosphorus character.</dc:description>
+      <dc:creator>
+Anthony  Francis Hill, 
+Benjamin  J. Frogley, 
+Rong Shang, 
+Manab Sharma, 
+Anthony  C. Willis
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000635?af=R</link>
+      <content:encoded>&lt;p&gt;The &#8216;CPNR&#8217; ligand may be viewed as being isolobal with fulminate, CNO, however attempts to prepare a complex of such a ligand resulted instead in a range of novel imino and aminophosphinocarbyne complexes. Sequential treatment of [Mo(&#8801;CBr)(CO)  2  (Tp*)] (Tp* = hydrotris(dimethylpyrazolyl)borate) with  n  BuLi and ClP=NMes* (Mes* = C  6  H  2  t  Bu  3  &#8208;2,4,6) afforded mixtures of the complexes [Mo(&#8801;CP  n  BuNHMes*)(CO)  2  (Tp*)] and traces of the bimetallic products [Mo  2  {&#956;  2  &#8208;C  2  P  2  O(NHMes)  2  }(CO)  2  (Tp*)  2  ] and [Mo  2  (&#956;  2  &#8208;C  2  PNHMes)(CO)  2  (Tp*)  2  ]. The reaction of [W&#8801;CBr)(CO)  2  (Tp*)] with  n  BuLi and ClP=NMes* afforded predominately the mononuclear carbyne [W{&#8801;CP(=NMes*)  n  Bu  2  })(CO)  2  (Tp*)] and traces of the binuclear complex [W  2  (&#956;&#8208;C  2  PNHMes)(CO)  4  (Tp*)  2  ] which is also obtained when  t  BuLi is used. Although not isolable, the intended complexes [M(&#8801;CPNMes*)(CO)  2  (Tp*)] could be generated in situ and spectroscopically characterized via the gold&#8208;mediated reactions of the stannyl carbynes [M(&#8801;CSn  n  Bu  3  )(CO)  2  (Tp*)] and ClP=NMes*. The preceding observations are mechanistically interpreted with reference to a computational interrogation of the model complex [Mo(&#8801;CP=NCH  3  )(CO)  2  (Tp*)], the LUMO of which has considerable phosphorus character.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>In Search of Fulminate Analogues: LnM&#8801;CP=NR</dc:title>
+      <dc:identifier>doi:10.1002/chem.202000635</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-05-05T07:04:26-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202000635</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000635?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202001855?af=R">
       <title>How the lanthanide ions affect the addition&#8208;elimination step of methanol dehydrogenases</title>
       <dc:description>The widespread XoxF, a recently discovered methanol dehydrogenase enzyme used by methylotrophic bacteria to oxidize methanol for carbon and energy, requires lanthanide ions for its activity. This enzyme represents an essential component of methanol utilization by both methanol&#8208; and methane&#8208;utilizing bacteria. The present investigation looks on the electronic, energetical and geometrical behavior of the methanol dehydrogenase from  Methylacidiphilum fumariolicum  SolV strictly dependent on early lanthanide metals with +3 oxidation states by examining enzyme&#8208;substrate complexes of all the lanthanides and focusing the attention on the catalytic reaction mechanism of two methanol dehydrogenases having as cofactor europium and ytterbium belonging to the in mid&#8208; and later&#8208; series of the lanthanides, in comparison with the methanol dehydrogenase containing the cerium, one early lanthanide. Our outcomes evidence the influence of the lanthanide contraction effect in all the elementary steps of the catalytic reaction mechanism. This indication may reveal useful to develop new catalytic machineries of enzymes for new&#8208;to&#8208;nature transformations.</dc:description>
@@ -768,7 +817,7 @@ Harald Hillebrecht,
 Hubert Huppertz
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905449?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b51ce057-59c3-4f36-8b60-a9a94b106391/chem201905449-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b51ce057-59c3-4f36-8b60-a9a94b106391/chem201905449-toc-0001-m.png"
      alt="Borosulfates&#8212;Synthesis and Structural Chemistry of Silicate Analogue Compounds"/&gt;
 &lt;p&gt;&lt;b&gt;Borosulfates&lt;/b&gt; are structurally similar to silicates. Their anionic subunits consist of alternating (SO&lt;sub&gt;4&lt;/sub&gt;) and (BO&lt;sub&gt;4&lt;/sub&gt;) tetrahedra forming oligomers, single and multiple chains, layers and extended 3D network structures. The review deals with detailed reports on the different synthesis strategies, the crystal chemistry of borosulfates in comparison to silicates, and their hitherto identified properties.
 
@@ -3343,47 +3392,5 @@ Al Postigo
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000856?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001361?af=R">
-      <title>Unique Role of Heterole&#8208;fused Structures in Aromaticity and Physicochemical Properties in 7,8&#8208;Dehydropurpurins</title>
-      <dc:description>Porphyrins with a fused five&#8208;membered ring such as 7,8&#8208;dehydropurpurins have appeared as an emerging class of unique porphyrinoids. Their altered absorption spectra, relatively short lifetimes of excited states, and small HOMO&#8208;LUMO gaps arise from the harmony of antiaromatic 20&#960;&#8208;circuit and aromatic 18&#960;&#8208;circuit. In this regard, the electronic properties of 7,8&#8208;dehydropurpurins are expected to be controlled by modulating the contribution of antiaromatic &#960;&#8208;circuit to the whole aromaticity. Here we report the comparison of pyrrole&#8208; and phosphole&#8208;fused 7,8&#8208;dehydropurpurins in terms of their aromaticity and physicochemical properties. The spectroscopic investigation revealed the larger contribution of antiaromatic 24&#960;&#8208;circuit in pyrrole&#8208;fused 7,8&#8208;dehyrdopurpurins than phosphole&#8208;fused 7,8&#8208;dehydropurpurins. The DFT calculations also supported the feasibility of tuning the aromaticity of 7,8&#8208;dehydropurpurins by heterole&#8208;fused structures. Thus, the introduction of heterole&#8208;fused structures into porphyrinoids is a universal strategy to get new insight into aromaticity and their intrinsic properties in cyclic &#960;&#8208;conjugated molecules.</dc:description>
-      <dc:creator>
-Tomohiro Higashino, 
-Issei Nishimura, 
-Hiroshi Imahori
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001361?af=R</link>
-      <content:encoded>&lt;p&gt;Porphyrins with a fused five&#8208;membered ring such as 7,8&#8208;dehydropurpurins have appeared as an emerging class of unique porphyrinoids. Their altered absorption spectra, relatively short lifetimes of excited states, and small HOMO&#8208;LUMO gaps arise from the harmony of antiaromatic 20&#960;&#8208;circuit and aromatic 18&#960;&#8208;circuit. In this regard, the electronic properties of 7,8&#8208;dehydropurpurins are expected to be controlled by modulating the contribution of antiaromatic &#960;&#8208;circuit to the whole aromaticity. Here we report the comparison of pyrrole&#8208; and phosphole&#8208;fused 7,8&#8208;dehydropurpurins in terms of their aromaticity and physicochemical properties. The spectroscopic investigation revealed the larger contribution of antiaromatic 24&#960;&#8208;circuit in pyrrole&#8208;fused 7,8&#8208;dehyrdopurpurins than phosphole&#8208;fused 7,8&#8208;dehydropurpurins. The DFT calculations also supported the feasibility of tuning the aromaticity of 7,8&#8208;dehydropurpurins by heterole&#8208;fused structures. Thus, the introduction of heterole&#8208;fused structures into porphyrinoids is a universal strategy to get new insight into aromaticity and their intrinsic properties in cyclic &#960;&#8208;conjugated molecules.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Unique Role of Heterole&#8208;fused Structures in Aromaticity and Physicochemical Properties in 7,8&#8208;Dehydropurpurins</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001361</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-04-27T04:06:59-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001361</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001361?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001471?af=R">
-      <title>A Hexabenzocoronene&#8208;Based Helical Nanographene</title>
-      <dc:description>A synthetic route towards a novel hexabenzocoronene&#8208; based helical nanographene motif was developed. A hexaphenylbenzene precursor was therefore designed, which cannot undergo, due to steric restrictions, a complete planarization reaction. This precursor was transformed under oxidative cyclo&#8208;dehydrogenation conditions to a &#960;&#8208;extended [5]helicene, which was fully characterized including X&#8208;ray diffraction analysis.</dc:description>
-      <dc:creator>
-Norbert Jux, 
-Max  M. Martin, 
-Frank Hampel
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001471?af=R</link>
-      <content:encoded>&lt;p&gt;A synthetic route towards a novel hexabenzocoronene&#8208; based helical nanographene motif was developed. A hexaphenylbenzene precursor was therefore designed, which cannot undergo, due to steric restrictions, a complete planarization reaction. This precursor was transformed under oxidative cyclo&#8208;dehydrogenation conditions to a &#960;&#8208;extended [5]helicene, which was fully characterized including X&#8208;ray diffraction analysis.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>A Hexabenzocoronene&#8208;Based Helical Nanographene</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001471</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-04-27T01:29:41-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001471</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001471?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
