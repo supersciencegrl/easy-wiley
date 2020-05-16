@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002072?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000732?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001307?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001755?af=R" />
@@ -142,7 +143,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000128?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000508?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201906478?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908178?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -151,6 +151,48 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002072?af=R">
+      <title>The Electron&#8211;Phonon Interaction of Low&#8208;Dimensional and Multi&#8208;Dimensional Materials from He Atom Scattering</title>
+      <dc:description>
+He atom scattering is used to determine the electron&#8211;phonon coupling constant &#955; at the surface of several materials that can be regarded as having different dimensionalities. These include quasi&#8208;1D Bi(114), 2D layered chalcogenides, and the quasicrystal d&#8208;AlNiCo(00001). The analysis gives the number of layers that contribute, and values of &#955; obtained compare reasonably to known bulk measurements.
+
+
+
+
+
+
+
+
+Abstract
+Atom scattering is becoming recognized as a sensitive probe of the electron&#8211;phonon interaction parameter &#955; at metal and metal&#8208;overlayer surfaces. Here, the theory is developed, linking &#955; to the thermal attenuation of atom scattering spectra (in particular, the Debye&#8211;Waller factor), to conducting materials of different dimensions, from quasi&#8208;1D systems such as W(110):H(1 &#215; 1) and Bi(114), to quasi&#8208;2D layered chalcogenides, and high&#8208;dimensional surfaces such as quasicrystalline 2ML&#8208;Ba(0001)/Cu(001) and d&#8208;AlNiCo(00001). Values of &#955; obtained using He atoms compare favorably with known values for the bulk materials. The corresponding analysis indicates in addition, the number of layers contributing to the electron&#8211;phonon interaction, which is measured in an atom surface collision.
+</dc:description>
+      <dc:creator>
+Giorgio Benedek, 
+Joseph R. Manson, 
+Salvador Miret&#8208;Art&#233;s
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002072?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/823b694e-7ec1-44c2-a024-a80ebe5e844f/adma202002072-gra-0001-m.png"
+     alt="The Electron&#8211;Phonon Interaction of Low&#8208;Dimensional and Multi&#8208;Dimensional Materials from He Atom Scattering"/&gt;
+&lt;p&gt;He atom scattering is used to determine the electron&#8211;phonon coupling constant &#955; at the surface of several materials that can be regarded as having different dimensionalities. These include quasi&#8208;1D Bi(114), 2D layered chalcogenides, and the quasicrystal d&#8208;AlNiCo(00001). The analysis gives the number of layers that contribute, and values of &#955; obtained compare reasonably to known bulk measurements.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Atom scattering is becoming recognized as a sensitive probe of the electron&#8211;phonon interaction parameter &#955; at metal and metal&#8208;overlayer surfaces. Here, the theory is developed, linking &#955; to the thermal attenuation of atom scattering spectra (in particular, the Debye&#8211;Waller factor), to conducting materials of different dimensions, from quasi&#8208;1D systems such as W(110):H(1 &#215; 1) and Bi(114), to quasi&#8208;2D layered chalcogenides, and high&#8208;dimensional surfaces such as quasicrystalline 2ML&#8208;Ba(0001)/Cu(001) and d&#8208;AlNiCo(00001). Values of &#955; obtained using He atoms compare favorably with known values for the bulk materials. The corresponding analysis indicates in addition, the number of layers contributing to the electron&#8211;phonon interaction, which is measured in an atom surface collision.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>The Electron&#8211;Phonon Interaction of Low&#8208;Dimensional and Multi&#8208;Dimensional Materials from He Atom Scattering</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002072</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-15T03:26:10-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002072</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002072?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202000732?af=R">
       <title>Direct Pyrolysis of Supermolecules: An Ultrahigh Edge&#8208;Nitrogen Doping Strategy of Carbon Anodes for Potassium&#8208;Ion Batteries</title>
       <dc:description>
@@ -5539,50 +5581,6 @@ Kevin M. McPeak
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.201906478</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201906478?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201908178?af=R">
-      <title>Living Bioelectrochemical Composites</title>
-      <dc:description>
-Combining Shewanella oneidensis MR&#8208;1 with the self&#8208;doped conjugated polyelectrolyte CPE&#8208;K leads to conductive networks that allow transfer of extracellular electron equivalents to an external gold electrode. It is shown that three&#8208;dimensional living biocomposites incorporating electrogenic bacteria and conductive gels efficiently harvest biocurrent, providing a strategy to reduce barriers to charge extraction and injection in bioelectrochemical devices.
-
-
-
-
-
-
-
-
-Abstract
-Composites, in which two or more material elements are combined to provide properties unattainable by single components, have a historical record dating to ancient times. Few include a living microbial community as a key design element. A logical basis for enabling bioelectronic composites stems from the phenomenon that certain microorganisms transfer electrons to external surfaces, such as an electrode. A bioelectronic composite that allows cells to be addressed beyond the confines of an electrode surface can impact bioelectrochemical technologies, including microbial fuel cells for power production and bioelectrosynthesis platforms where microbes produce desired chemicals. It is shown that the conjugated polyelectrolyte CPE&#8208;K functions as a conductive matrix to electronically connect a three&#8208;dimensional network of Shewanella oneidensis MR&#8208;1 to a gold electrode, thereby increasing biocurrent &#8776;150&#8208;fold over control biofilms. These biocomposites spontaneously assemble from solution into an intricate arrangement of cells within a conductive polymer matrix. While increased biocurrent is due to more cells in communication with the electrode, the current extracted per cell is also enhanced, indicating efficient long&#8208;range electron transport. Further, the biocomposites show almost an order&#8208;of&#8208;magnitude lower charge transfer resistance than CPE&#8208;K alone, supporting the idea that the electroactive bacteria and the conjugated polyelectrolyte work synergistically toward an effective bioelectronic composite.
-</dc:description>
-      <dc:creator>
-Samantha R. McCuskey, 
-Yude Su, 
-Dirk Leifert, 
-Alex S. Moreland, 
-Guillermo C. Bazan
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908178?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/d6fcbf64-a551-4683-83ff-a19eb5359fd0/adma201908178-gra-0001-m.png"
-     alt="Living Bioelectrochemical Composites"/&gt;
-&lt;p&gt;Combining &lt;i&gt;Shewanella oneidensis&lt;/i&gt; MR&#8208;1 with the self&#8208;doped conjugated polyelectrolyte CPE&#8208;K leads to conductive networks that allow transfer of extracellular electron equivalents to an external gold electrode. It is shown that three&#8208;dimensional living biocomposites incorporating electrogenic bacteria and conductive gels efficiently harvest biocurrent, providing a strategy to reduce barriers to charge extraction and injection in bioelectrochemical devices.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Composites, in which two or more material elements are combined to provide properties unattainable by single components, have a historical record dating to ancient times. Few include a living microbial community as a key design element. A logical basis for enabling bioelectronic composites stems from the phenomenon that certain microorganisms transfer electrons to external surfaces, such as an electrode. A bioelectronic composite that allows cells to be addressed beyond the confines of an electrode surface can impact bioelectrochemical technologies, including microbial fuel cells for power production and bioelectrosynthesis platforms where microbes produce desired chemicals. It is shown that the conjugated polyelectrolyte CPE&#8208;K functions as a conductive matrix to electronically connect a three&#8208;dimensional network of &lt;i&gt;Shewanella oneidensis&lt;/i&gt; MR&#8208;1 to a gold electrode, thereby increasing biocurrent &#8776;150&#8208;fold over control biofilms. These biocomposites spontaneously assemble from solution into an intricate arrangement of cells within a conductive polymer matrix. While increased biocurrent is due to more cells in communication with the electrode, the current extracted per cell is also enhanced, indicating efficient long&#8208;range electron transport. Further, the biocomposites show almost an order&#8208;of&#8208;magnitude lower charge transfer resistance than CPE&#8208;K alone, supporting the idea that the electroactive bacteria and the conjugated polyelectrolyte work synergistically toward an effective bioelectronic composite.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Living Bioelectrochemical Composites</dc:title>
-      <dc:identifier>doi:10.1002/adma.201908178</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-04-29T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201908178</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908178?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
