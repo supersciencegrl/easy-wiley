@@ -9,6 +9,12 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000366?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201903855?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907983?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000272?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001113?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908083?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002024?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201905653?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000215?af=R" />
@@ -51,13 +57,13 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001979?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001534?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908521?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001675?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001107?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001582?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907645?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908126?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000091?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000600?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001675?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002072?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000732?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001307?af=R" />
@@ -123,8 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001130?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001436?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000006?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000474?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000036?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001629?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070140?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070139?af=R" />
@@ -171,10 +175,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201904094?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201904717?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201903891?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908201?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000302?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000186?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908291?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -183,6 +183,296 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202000366?af=R">
+      <title>Bioinspired Soft Microrobots with Precise Magneto&#8208;Collective Control for Microvascular Thrombolysis</title>
+      <dc:description>
+A biomimetic magnetic microrobot inspired by the highly organized magnetosomes in magnetotactic bacteria shows speedy motion capacity and accurate positioning in a low&#8208;Reynolds&#8208;number biofluid. The microrobot enables delivery and release of drug molecules via a magneto&#8208;collective manner for microvascular thrombolysis, making ultra&#8208;minimal invasive surgery and drug delivery promising.
+
+
+
+
+
+
+
+
+Abstract
+New&#8208;era soft microrobots for biomedical applications need to mimic the essential structures and collective functions of creatures from nature. Biocompatible interfaces, intelligent functionalities, and precise locomotion control in a collective manner are the key parameters to design soft microrobots for the complex bio&#8208;environment. In this work, a biomimetic magnetic microrobot (BMM) inspired by magnetotactic bacteria (MTB) with speedy motion response and accurate positioning is developed for targeted thrombolysis. Similar to the magnetosome structure in MTB, the BMM is composed of aligned iron oxide nanoparticle (MNP) chains embedded in a non&#8208;swelling microgel shell. Linear chains in BMMs are achieved due to the interparticle dipolar interactions of MNPs under a static magnetic field. Simulation results show that, the degree and speed of assembly is proportional to the field strength. The BMM achieves the maximum speed of 161.7 &#181;m s&#8722;1 and accurate positioning control under a rotating magnetic field with less than 4% deviation. Importantly, the locomotion analyses of BMMs demonstrate the frequency&#8208;dependent synchronization under 8 Hz and asynchronization at higher frequencies due to the increased drag torque. The BMMs can deliver and release thrombolytic drugs via magneto&#8208;collective control, which is promising for ultra&#8208;minimal invasive thrombolysis.
+</dc:description>
+      <dc:creator>
+Meihua Xie, 
+Wei Zhang, 
+Chengying Fan, 
+Chu Wu, 
+Qishuai Feng, 
+Jiaojiao Wu, 
+Yingze Li, 
+Rui Gao, 
+Zhenguang Li, 
+Qigang Wang, 
+Yu Cheng, 
+Bin He
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000366?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/15236cb7-f32a-4f6c-961e-ccac664efe12/adma202000366-gra-0001-m.png"
+     alt="Bioinspired Soft Microrobots with Precise Magneto&#8208;Collective Control for Microvascular Thrombolysis"/&gt;
+&lt;p&gt;A biomimetic magnetic microrobot inspired by the highly organized magnetosomes in magnetotactic bacteria shows speedy motion capacity and accurate positioning in a low&#8208;Reynolds&#8208;number biofluid. The microrobot enables delivery and release of drug molecules via a magneto&#8208;collective manner for microvascular thrombolysis, making ultra&#8208;minimal invasive surgery and drug delivery promising.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;New&#8208;era soft microrobots for biomedical applications need to mimic the essential structures and collective functions of creatures from nature. Biocompatible interfaces, intelligent functionalities, and precise locomotion control in a collective manner are the key parameters to design soft microrobots for the complex bio&#8208;environment. In this work, a biomimetic magnetic microrobot (BMM) inspired by magnetotactic bacteria (MTB) with speedy motion response and accurate positioning is developed for targeted thrombolysis. Similar to the magnetosome structure in MTB, the BMM is composed of aligned iron oxide nanoparticle (MNP) chains embedded in a non&#8208;swelling microgel shell. Linear chains in BMMs are achieved due to the interparticle dipolar interactions of MNPs under a static magnetic field. Simulation results show that, the degree and speed of assembly is proportional to the field strength. The BMM achieves the maximum speed of 161.7 &#181;m s&lt;sup&gt;&#8722;1&lt;/sup&gt; and accurate positioning control under a rotating magnetic field with less than 4% deviation. Importantly, the locomotion analyses of BMMs demonstrate the frequency&#8208;dependent synchronization under 8 Hz and asynchronization at higher frequencies due to the increased drag torque. The BMMs can deliver and release thrombolytic drugs via magneto&#8208;collective control, which is promising for ultra&#8208;minimal invasive thrombolysis.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Bioinspired Soft Microrobots with Precise Magneto&#8208;Collective Control for Microvascular Thrombolysis</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000366</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-20T01:13:24-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000366</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000366?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.201903855?af=R">
+      <title>Recent Advances on High&#8208;Entropy Alloys for 3D Printing</title>
+      <dc:description>
+3D printing of high&#8208;entropy alloys (HEAs) has great potential for manufacturing geometrically complex and/or customized HEA products with desirable performances, inspiring their increased appearance in industrial applications. A comprehensive review of the recent advances on the 3D printing of HEAs is provided, with regard to the aspects of their powder development, printing processes, microstructures, mechanical properties, functionalities, and potential applications.
+
+
+
+
+
+
+
+
+Abstract
+Boosted by the success of high&#8208;entropy alloys (HEAs) manufactured by conventional processes in various applications, the development of HEAs for 3D printing has been advancing rapidly in recent years. 3D printing of HEAs gives rise to a great potential for manufacturing geometrically complex HEA products with desirable performances, thereby inspiring their increased appearance in industrial applications. Herein, a comprehensive review of the recent achievements of 3D printing of HEAs is provided, in the aspects of their powder development, printing processes, microstructures, properties, and potential applications. It begins with the introduction of the fundamentals of 3D printing and HEAs, as well as the unique properties of 3D&#8208;printed HEA products. The processes for the development of HEA powders, including atomization and mechanical alloying, and the powder properties, are then presented. Thereafter, typical processes for printing HEA products from powders, namely, directed energy deposition, selective laser melting, and electron beam melting, are discussed with regard to the phases, crystal features, mechanical properties, functionalities, and potential applications of these products (particularly in the aerospace, energy, molding, and tooling industries). Finally, perspectives are outlined to provide guidance for future research.
+</dc:description>
+      <dc:creator>
+Changjun Han, 
+Qihong Fang, 
+Yusheng Shi, 
+Shu Beng Tor, 
+Chee Kai Chua, 
+Kun Zhou
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201903855?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/aff19972-415d-4f3b-b16f-23e9b3c0d39d/adma201903855-gra-0001-m.png"
+     alt="Recent Advances on High&#8208;Entropy Alloys for 3D Printing"/&gt;
+&lt;p&gt;3D printing of high&#8208;entropy alloys (HEAs) has great potential for manufacturing geometrically complex and/or customized HEA products with desirable performances, inspiring their increased appearance in industrial applications. A comprehensive review of the recent advances on the 3D printing of HEAs is provided, with regard to the aspects of their powder development, printing processes, microstructures, mechanical properties, functionalities, and potential applications.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Boosted by the success of high&#8208;entropy alloys (HEAs) manufactured by conventional processes in various applications, the development of HEAs for 3D printing has been advancing rapidly in recent years. 3D printing of HEAs gives rise to a great potential for manufacturing geometrically complex HEA products with desirable performances, thereby inspiring their increased appearance in industrial applications. Herein, a comprehensive review of the recent achievements of 3D printing of HEAs is provided, in the aspects of their powder development, printing processes, microstructures, properties, and potential applications. It begins with the introduction of the fundamentals of 3D printing and HEAs, as well as the unique properties of 3D&#8208;printed HEA products. The processes for the development of HEA powders, including atomization and mechanical alloying, and the powder properties, are then presented. Thereafter, typical processes for printing HEA products from powders, namely, directed energy deposition, selective laser melting, and electron beam melting, are discussed with regard to the phases, crystal features, mechanical properties, functionalities, and potential applications of these products (particularly in the aerospace, energy, molding, and tooling industries). Finally, perspectives are outlined to provide guidance for future research.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Recent Advances on High&#8208;Entropy Alloys for 3D Printing</dc:title>
+      <dc:identifier>doi:10.1002/adma.201903855</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-20T01:08:52-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.201903855</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201903855?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.201907983?af=R">
+      <title>Spin&#8208;Selective Full&#8208;Dimensional Manipulation of Optical Waves with Chiral Mirror</title>
+      <dc:description>
+A new design principle of chiral mirrors is proposed to realize full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirrors, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth.
+
+
+
+
+
+
+
+
+Abstract
+Realizing arbitrary manipulation of optical waves, which still remains a challenge, plays a key role in the implementation of optical devices with on&#8208;demand functionalities. However, it is hard to independently manipulate multiple dimensions of optical waves because the optical dimensions are basically associated with each other when adjusting the optical response of the devices. Here, the concise design principle of a chiral mirror is utilized to realize the full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirror, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth. This approach provides a simple solution for the realization of spin&#8208;selective full&#8208;dimensional manipulation of optical waves and shows ample application possibilities in the areas of optical encryption, imaging, and detection.
+</dc:description>
+      <dc:creator>
+Zhancheng Li, 
+Wenwei Liu, 
+Hua Cheng, 
+Duk&#8208;Yong Choi, 
+Shuqi Chen, 
+Jianguo Tian
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907983?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/27b9a1e5-392c-4c2f-b75e-e46d02d23aa2/adma201907983-gra-0001-m.png"
+     alt="Spin&#8208;Selective Full&#8208;Dimensional Manipulation of Optical Waves with Chiral Mirror"/&gt;
+&lt;p&gt;A new design principle of chiral mirrors is proposed to realize full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirrors, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Realizing arbitrary manipulation of optical waves, which still remains a challenge, plays a key role in the implementation of optical devices with on&#8208;demand functionalities. However, it is hard to independently manipulate multiple dimensions of optical waves because the optical dimensions are basically associated with each other when adjusting the optical response of the devices. Here, the concise design principle of a chiral mirror is utilized to realize the full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirror, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth. This approach provides a simple solution for the realization of spin&#8208;selective full&#8208;dimensional manipulation of optical waves and shows ample application possibilities in the areas of optical encryption, imaging, and detection.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Spin&#8208;Selective Full&#8208;Dimensional Manipulation of Optical Waves with Chiral Mirror</dc:title>
+      <dc:identifier>doi:10.1002/adma.201907983</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-20T01:05:01-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.201907983</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907983?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202000272?af=R">
+      <title>A Bottom&#8208;Up Strategy for the Synthesis of Highly Siliceous Faujasite&#8208;Type Zeolite</title>
+      <dc:description>
+High&#8208;silica zeolite Y with tunable SiO2/Al2O3 ratio up to 15.6 is synthesized through a cooperative strategy that involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity. The obtained materials show greatly improved (hydro)thermal stability, high concentration of strong acid sites, and superior catalytic cracking performance.
+
+
+
+
+
+
+
+
+Abstract
+High&#8208;silica zeolite Y is a desired catalytic material for oil refining and the petrochemical industry. However, its direct synthesis remains a symbolic challenge in the field of zeolite synthesis, with a limited improvement of the framework SiO2/Al2O3 ratio (SAR) from &#8776;5 to 9 over the past 60 years. Here, the synthesis of highly siliceous zeolite Y with tunable SAR up to 15.6 through a cooperative strategy is reported, which involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity (named NOA&#8208;co strategy). A series of quaternary alkylammonium ions is discovered as effective OSDAs based on the NOA&#8208;co strategy, and the relevant crystallization mechanism is elucidated. Moreover, the high&#8208;silica products are demonstrated to have greatly improved (hydro)thermal stability, high concentration of strong acid sites, and uniform acid distribution, which lead to superior catalytic performance in the cracking of bulky hydrocarbons. It is anticipated that this synthetic strategy will benefit the synthesis and development of zeolitic catalysts in a wide range of reaction processes.
+</dc:description>
+      <dc:creator>
+Dali Zhu, 
+Linying Wang, 
+Dong Fan, 
+Nana Yan, 
+Shengjun Huang, 
+Shutao Xu, 
+Peng Guo, 
+Miao Yang, 
+Jianming Zhang, 
+Peng Tian, 
+Zhongmin Liu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000272?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f09c8a84-9d11-46fc-adc2-2564af917ece/adma202000272-gra-0001-m.png"
+     alt="A Bottom&#8208;Up Strategy for the Synthesis of Highly Siliceous Faujasite&#8208;Type Zeolite"/&gt;
+&lt;p&gt;High&#8208;silica zeolite Y with tunable SiO&lt;sub&gt;2&lt;/sub&gt;/Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; ratio up to 15.6 is synthesized through a cooperative strategy that involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity. The obtained materials show greatly improved (hydro)thermal stability, high concentration of strong acid sites, and superior catalytic cracking performance.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;High&#8208;silica zeolite Y is a desired catalytic material for oil refining and the petrochemical industry. However, its direct synthesis remains a symbolic challenge in the field of zeolite synthesis, with a limited improvement of the framework SiO&lt;sub&gt;2&lt;/sub&gt;/Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; ratio (SAR) from &#8776;5 to 9 over the past 60 years. Here, the synthesis of highly siliceous zeolite Y with tunable SAR up to 15.6 through a cooperative strategy is reported, which involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity (named NOA&#8208;co strategy). A series of quaternary alkylammonium ions is discovered as effective OSDAs based on the NOA&#8208;co strategy, and the relevant crystallization mechanism is elucidated. Moreover, the high&#8208;silica products are demonstrated to have greatly improved (hydro)thermal stability, high concentration of strong acid sites, and uniform acid distribution, which lead to superior catalytic performance in the cracking of bulky hydrocarbons. It is anticipated that this synthetic strategy will benefit the synthesis and development of zeolitic catalysts in a wide range of reaction processes.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>A Bottom&#8208;Up Strategy for the Synthesis of Highly Siliceous Faujasite&#8208;Type Zeolite</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000272</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-20T01:04:47-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000272</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000272?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001113?af=R">
+      <title>Tuning the Kinetics of Zinc&#8208;Ion Insertion/Extraction in V2O5 by In Situ Polyaniline Intercalation Enables Improved Aqueous Zinc&#8208;Ion Storage Performance</title>
+      <dc:description>
+An in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn2+ (de)intercalation kinetics in V2O5. PANI not only expands the diffusion channels for facilitating Zn2+ diffusion but also maintains the structural stability as interlayer pillars. Especially, its unique &#960;&#8208;conjugated structure, serving as electron&#8208;reservoir, simultaneously shields the electrostatic interactions between Zn2+ and V2O5 host.
+
+
+
+
+
+
+
+
+Abstract
+Rechargeable zinc&#8208;ion batteries (ZIBs) are emerging as a promising alternative for Li&#8208;ion batteries. However, the developed cathodes suffer from sluggish Zn2+ diffusion kinetics, leading to poor rate capability and inadequate cycle life. Herein, an in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn2+ (de)intercalation kinetics in V2O5. In this way, a remarkably enlarged interlayer distance (13.90 &#197;) can be constructed alternatively between the V&#63743;O layers, offering expediting channels for facile Zn2+ diffusion. Importantly, the electrostatic interactions between the Zn2+ and the host O2&#8722;, which is another key factor in hindering the Zn2+ diffusion kinetics, can be effectively blocked by the unique &#960;&#8208;conjugated structure of PANI. As a result, the PANI&#8208;intercalated V2O5 exhibits a stable and highly reversible electrochemical reaction during repetitive Zn2+ insertion and extraction, as demonstrated by in situ synchrotron X&#8208;ray diffraction and Raman studies. Further first&#8208;principles calculations clearly reveal a remarkably lowered binding energy between Zn2+ and host O2&#8722;, which explains the favorable kinetics in PANI&#8208;intercalated V2O5. Benefitting from the above, the overall electrochemical performance of PANI&#8208;intercalated V2O5 electrode is remarkable improved, exhibiting excellent high rate capability of 197.1 mAh g&#8722;1 at current density of 20 A g&#8722;1 with capacity retention of 97.6% over 2000 cycles.
+</dc:description>
+      <dc:creator>
+Sucheng Liu, 
+He Zhu, 
+Binghao Zhang, 
+Gen Li, 
+Hekang Zhu, 
+Yang Ren, 
+Hongbo Geng, 
+Yang Yang, 
+Qi Liu, 
+Cheng Chao Li
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001113?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/acc9caa1-1f27-40d9-a53f-28531cf166f4/adma202001113-gra-0001-m.png"
+     alt="Tuning the Kinetics of Zinc&#8208;Ion Insertion/Extraction in V2O5 by In Situ Polyaniline Intercalation Enables Improved Aqueous Zinc&#8208;Ion Storage Performance"/&gt;
+&lt;p&gt;An in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn&lt;sup&gt;2+&lt;/sup&gt; (de)intercalation kinetics in V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;. PANI not only expands the diffusion channels for facilitating Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion but also maintains the structural stability as interlayer pillars. Especially, its unique &#960;&#8208;conjugated structure, serving as electron&#8208;reservoir, simultaneously shields the electrostatic interactions between Zn&lt;sup&gt;2+&lt;/sup&gt; and V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; host.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Rechargeable zinc&#8208;ion batteries (ZIBs) are emerging as a promising alternative for Li&#8208;ion batteries. However, the developed cathodes suffer from sluggish Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion kinetics, leading to poor rate capability and inadequate cycle life. Herein, an in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn&lt;sup&gt;2+&lt;/sup&gt; (de)intercalation kinetics in V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;. In this way, a remarkably enlarged interlayer distance (13.90 &#197;) can be constructed alternatively between the V&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;O layers, offering expediting channels for facile Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion. Importantly, the electrostatic interactions between the Zn&lt;sup&gt;2+&lt;/sup&gt; and the host O&lt;sup&gt;2&#8722;&lt;/sup&gt;, which is another key factor in hindering the Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion kinetics, can be effectively blocked by the unique &#960;&#8208;conjugated structure of PANI. As a result, the PANI&#8208;intercalated V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; exhibits a stable and highly reversible electrochemical reaction during repetitive Zn&lt;sup&gt;2+&lt;/sup&gt; insertion and extraction, as demonstrated by in situ synchrotron X&#8208;ray diffraction and Raman studies. Further first&#8208;principles calculations clearly reveal a remarkably lowered binding energy between Zn&lt;sup&gt;2+&lt;/sup&gt; and host O&lt;sup&gt;2&#8722;&lt;/sup&gt;, which explains the favorable kinetics in PANI&#8208;intercalated V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;. Benefitting from the above, the overall electrochemical performance of PANI&#8208;intercalated V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; electrode is remarkable improved, exhibiting excellent high rate capability of 197.1 mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; at current density of 20 A g&lt;sup&gt;&#8722;1&lt;/sup&gt; with capacity retention of 97.6% over 2000 cycles.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Tuning the Kinetics of Zinc&#8208;Ion Insertion/Extraction in V2O5 by In Situ Polyaniline Intercalation Enables Improved Aqueous Zinc&#8208;Ion Storage Performance</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001113</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-20T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001113</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001113?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.201908083?af=R">
+      <title>Ferroelectric Sr3Sn2O7:Nd3+: A New Multipiezo Material with Ultrasensitive and Sustainable Near&#8208;Infrared Piezoluminescence</title>
+      <dc:description>
+Ultrasensitive and sustainable near&#8208;infrared emitting piezoluminescence is successfully realized from noncentrosymmetric and ferroelectric&#8208;phase Sr3Sn2O7 doped with rare earth Nd3+ ions. The breakthrough provides new research opportunities to study multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures (on&#8208;site, in vivo, etc.).
+
+
+
+
+
+
+
+
+Abstract
+Ultrasensitive and sustainable near&#8208;infrared (NIR)&#8208;emitting piezoluminescence is observed from noncentrosymmetric and ferroelectric&#8208;phase Sr3Sn2O7 doped with rare earth Nd3+ ions. Sr3Sn2O7:Nd3+ (SSN) with polar A21am structure is demonstrated to emit piezoluminescence of wavelength of 800&#8211;1500 nm at microstrain levels, which is enhanced by the ferroelectrically polarized charges in the multipiezo material. These discoveries provide new research opportunities to study luminescence properties of multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures including artificial bone and other implanted structures (in vivo, in situ, etc).
+</dc:description>
+      <dc:creator>
+Dong Tu, 
+Chao&#8208;Nan Xu, 
+Sunao Kamimura, 
+Yoichi Horibe, 
+Hirotaka Oshiro, 
+Lu Zhang, 
+Yoshiharu Ishii, 
+Koji Hyodo, 
+Gerard Marriott, 
+Naohiro Ueno, 
+Xu&#8208;Guang Zheng
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908083?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8cda156e-6f7a-4373-a2e7-5f429e5e256b/adma201908083-gra-0001-m.png"
+     alt="Ferroelectric Sr3Sn2O7:Nd3+: A New Multipiezo Material with Ultrasensitive and Sustainable Near&#8208;Infrared Piezoluminescence"/&gt;
+&lt;p&gt;Ultrasensitive and sustainable near&#8208;infrared emitting piezoluminescence is successfully realized from noncentrosymmetric and ferroelectric&#8208;phase Sr&lt;sub&gt;3&lt;/sub&gt;Sn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; doped with rare earth Nd&lt;sup&gt;3+&lt;/sup&gt; ions. The breakthrough provides new research opportunities to study multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures (on&#8208;site, in vivo, etc.).
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ultrasensitive and sustainable near&#8208;infrared (NIR)&#8208;emitting piezoluminescence is observed from noncentrosymmetric and ferroelectric&#8208;phase Sr&lt;sub&gt;3&lt;/sub&gt;Sn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; doped with rare earth Nd&lt;sup&gt;3+&lt;/sup&gt; ions. Sr&lt;sub&gt;3&lt;/sub&gt;Sn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt;:Nd&lt;sup&gt;3+&lt;/sup&gt; (SSN) with polar &lt;i&gt;A2&lt;sub&gt;1&lt;/sub&gt;am &lt;/i&gt; structure is demonstrated to emit piezoluminescence of wavelength of 800&#8211;1500 nm at microstrain levels, which is enhanced by the ferroelectrically polarized charges in the multipiezo material. These discoveries provide new research opportunities to study luminescence properties of multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures including artificial bone and other implanted structures (in vivo, in situ, etc).&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Ferroelectric Sr3Sn2O7:Nd3+: A New Multipiezo Material with Ultrasensitive and Sustainable Near&#8208;Infrared Piezoluminescence</dc:title>
+      <dc:identifier>doi:10.1002/adma.201908083</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-20T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.201908083</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908083?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002024?af=R">
       <title>Continuous &#8220;Snowing&#8221; Thermotherapeutic Graphene</title>
       <dc:description>
@@ -1754,7 +2044,7 @@ Robert F. Shepherd
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The rheological parameters required to print viscoelastic nanoparticle suspensions toward tough elastomers via Digital Light Synthesis (DLS) (an inverted projection stereolithography system) are reported. With a model material of functionalized silica nanoparticles suspended in a poly(dimethylsiloxane) matrix, the rheological&#8208;parameters&#8208;guided DLS can print structures seven times tougher than those formed from the neat polymers. The large yield stress and high viscosity associated with these high concentration nanoparticle suspensions, however, may prevent pressure&#8208;driven flow, a mechanism essential to stereolithography&#8208;based printing. Thus, to better predict and evaluate the printability of high concentration nanoparticle suspensions, the boundary of rheological properties compatible with DLS is defined using a non&#8208;dimensional Peclet number (&lt;i&gt;Pe&lt;/i&gt;). Based on the proposed analysis of rheological parameters, the border of printability at standard temperature and pressure (STP) is established by resin with a silica nanoparticle mass fraction (&#981;&lt;sub&gt;silica&lt;/sub&gt;) of 0.15. Above this concentration, nanoparticle suspensions have &lt;i&gt;Pe&lt;/i&gt; &amp;gt; 1 and are not printable. Beyond STP, the printability can be further extended to &#981;&lt;sub&gt;silica&lt;/sub&gt; = 0.20 via a heating module with lower shear rate to reduce the &lt;i&gt;Pe&lt;/i&gt; &amp;lt; 1. The printed rubber possesses even higher toughness (&lt;i&gt;&#915; &#8776;&lt;/i&gt; 155 kJ m&lt;sup&gt;&#8722;3&lt;/sup&gt;), which is 40% higher over that of &#981;&lt;sub&gt;silica&lt;/sub&gt; = 0.15.&lt;/p&gt;
+&lt;p&gt;The rheological parameters required to print viscoelastic nanoparticle suspensions toward tough elastomers via Digital Light Synthesis (DLS) (an inverted projection stereolithography system) are reported. With a model material of functionalized silica nanoparticles suspended in a poly(dimethylsiloxane) matrix, the rheological&#8208;parameters&#8208;guided DLS can print structures seven times tougher than those formed from the neat polymers. The large yield stress and high viscosity associated with these high concentration nanoparticle suspensions, however, may prevent pressure&#8208;driven flow, a mechanism essential to stereolithography&#8208;based printing. Thus, to better predict and evaluate the printability of high concentration nanoparticle suspensions, the boundary of rheological properties compatible with DLS is defined using a non&#8208;dimensional Peclet number (&lt;i&gt;Pe &lt;/i&gt;). Based on the proposed analysis of rheological parameters, the border of printability at standard temperature and pressure (STP) is established by resin with a silica nanoparticle mass fraction (&#981;&lt;sub&gt;silica&lt;/sub&gt;) of 0.15. Above this concentration, nanoparticle suspensions have &lt;i&gt;Pe &lt;/i&gt; &amp;gt; 1 and are not printable. Beyond STP, the printability can be further extended to &#981;&lt;sub&gt;silica&lt;/sub&gt; = 0.20 via a heating module with lower shear rate to reduce the &lt;i&gt;Pe &lt;/i&gt; &amp;lt; 1. The printed rubber possesses even higher toughness (&lt;i&gt;&#915; &#8776; &lt;/i&gt; 155 kJ m&lt;sup&gt;&#8722;3&lt;/sup&gt;), which is 40% higher over that of &#981;&lt;sub&gt;silica&lt;/sub&gt; = 0.15.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
       <dc:title>3D Printing of Viscoelastic Suspensions via Digital Light Synthesis for Tough Nanoparticle&#8211;Elastomer Composites</dc:title>
@@ -1903,50 +2193,6 @@ Xi&#8208;Wen Du
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.201908521</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908521?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001675?af=R">
-      <title>3D Printing of Micrometer&#8208;Sized Transparent Ceramics with On&#8208;Demand Optical&#8208;Gain Properties</title>
-      <dc:description>
-Yttrium aluminum garnet (YAG) is a transparent polycrystalline material, which is wildly used as a lasing medium when doped with rare&#8208;earth metal. A new approach for 3D printing micrometer&#8208;size, transparent YAG structures is presented, by using solutions without any particles and two&#8208;photon polymerization printing. By doping the structures with Nd, the structures can emit light at 1064 nm, making them suitable for microlasers and optical circuits.
-
-
-
-
-
-
-
-
-Abstract
-Transparent ceramics are usually polycrystalline materials, which are wildly used in many optical applications, such as lasers. As of today, the fabrication of transparent ceramic structures is still limited to conventional fabrication methods, which do not enable the formation of complex structures. A new approach for 3D printing of micrometer&#8208;size, transparent ceramic structures is presented. By using a solution of metal salts that can undergo a sol&#8211;gel process and photopolymerization by two&#8208;photon printing, micrometer&#8208;sized yttrium aluminum garnet (YAG) structures doped with neodymium (Nd) are fabricated. The resulting structures are not only transparent in the visible spectrum but can also emit light at 1064 nm due to the doping with Nd. By using solution&#8208;based precursors, without any particles, the sintering can be performed under air at ambient pressure and at a relatively low temperature, compared to conventional processes for YAG. The crystalline structure is imaged at atomic resolution by ultrahigh&#8208;resolution scanning transmission electron microscopy (STEM), indicating that the doped Nd atoms are located at the yttrium positions. Such miniaturized structures can be used for diverse applications, e.g., optical components in high&#8208;intensity laser systems, which require heat resistance, or as light sources in optical circuits.
-</dc:description>
-      <dc:creator>
-Ido Cooperstein, 
-S. R. K. Chaitanya Indukuri, 
-Alisa Bouketov, 
-Uriel Levy, 
-Shlomo Magdassi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001675?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/aa3a88dd-5291-4551-a6cb-ec8e57606efd/adma202001675-gra-0001-m.png"
-     alt="3D Printing of Micrometer&#8208;Sized Transparent Ceramics with On&#8208;Demand Optical&#8208;Gain Properties"/&gt;
-&lt;p&gt;Yttrium aluminum garnet (YAG) is a transparent polycrystalline material, which is wildly used as a lasing medium when doped with rare&#8208;earth metal. A new approach for 3D printing micrometer&#8208;size, transparent YAG structures is presented, by using solutions without any particles and two&#8208;photon polymerization printing. By doping the structures with Nd, the structures can emit light at 1064 nm, making them suitable for microlasers and optical circuits.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Transparent ceramics are usually polycrystalline materials, which are wildly used in many optical applications, such as lasers. As of today, the fabrication of transparent ceramic structures is still limited to conventional fabrication methods, which do not enable the formation of complex structures. A new approach for 3D printing of micrometer&#8208;size, transparent ceramic structures is presented. By using a solution of metal salts that can undergo a sol&#8211;gel process and photopolymerization by two&#8208;photon printing, micrometer&#8208;sized yttrium aluminum garnet (YAG) structures doped with neodymium (Nd) are fabricated. The resulting structures are not only transparent in the visible spectrum but can also emit light at 1064 nm due to the doping with Nd. By using solution&#8208;based precursors, without any particles, the sintering can be performed under air at ambient pressure and at a relatively low temperature, compared to conventional processes for YAG. The crystalline structure is imaged at atomic resolution by ultrahigh&#8208;resolution scanning transmission electron microscopy (STEM), indicating that the doped Nd atoms are located at the yttrium positions. Such miniaturized structures can be used for diverse applications, e.g., optical components in high&#8208;intensity laser systems, which require heat resistance, or as light sources in optical circuits.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>3D Printing of Micrometer&#8208;Sized Transparent Ceramics with On&#8208;Demand Optical&#8208;Gain Properties</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001675</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-17T10:26:14-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001675</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001675?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2615,7 +2861,7 @@ Lianzhou Wang
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/3af195ae-54c4-4048-8eaf-8bfd735b21c5/adma202001385-gra-0001-m.png"
      alt="In Situ Formation of Oxygen Vacancies Achieving Near&#8208;Complete Charge Separation in Planar BiVO4 Photoanodes"/&gt;
 &lt;p&gt;A new sulfur oxidation process is developed to synthesize planar BiVO&lt;sub&gt;4&lt;/sub&gt; thin films with in situ formed oxygen vacancies in the whole film, achieving a record charge separation efficiency of 98.2%. By depositing an efficient NiFeO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
 &lt;/i&gt; oxygen evolution cocatalyst, a high and stable photocurrent density of 5.54 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; for photoelectrochemical water splitting is achieved.
 
 
@@ -2623,7 +2869,7 @@ Lianzhou Wang
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Despite a suitable bandgap of bismuth vanadate (BiVO&lt;sub&gt;4&lt;/sub&gt;) for visible light absorption, most of the photogenerated holes in BiVO&lt;sub&gt;4&lt;/sub&gt; photoanodes are vanished before reaching the surfaces for oxygen evolution reaction due to the poor charge separation efficiency in the bulk. Herein, a new sulfur oxidation strategy is developed to prepare planar BiVO&lt;sub&gt;4&lt;/sub&gt; photoanodes with in situ formed oxygen vacancies, which increases the majority charge carrier density and photovoltage, leading to a record charge separation efficiency of 98.2% among the reported BiVO&lt;sub&gt;4&lt;/sub&gt; photoanodes. Upon loading NiFeO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
 &lt;/i&gt; as an oxygen evolution cocatalyst, a stable photocurrent density of 5.54 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; is achieved at 1.23 V versus the reversible hydrogen electrode (RHE) under AM 1.5 G illumination. Remarkably, a dual&#8208;photoanode configuration further enhances the photocurrent density up to 6.24 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;, achieving an excellent applied bias photon&#8208;to&#8208;current efficiency of 2.76%. This work demonstrates a simple thermal treatment approach to generate oxygen vacancies for the design of efficient planar photoanodes for solar hydrogen production.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
@@ -2719,7 +2965,7 @@ Changning Niu
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Engineering semiconductor devices requires an understanding of charge carrier mobility. Typically, mobilities are estimated using Hall effect and electrical resistivity meausrements, which are are routinely performed at room temperature and below, in materials with mobilities greater than 1 cm&lt;sup&gt;2&lt;/sup&gt; V&lt;sup&gt;&#8208;1&lt;/sup&gt; s&lt;sup&gt;&#8208;1&lt;/sup&gt;. With the availability of combined Seebeck coefficient and electrical resistivity measurement systems, it is now easy to measure the weighted mobility (electron mobility weighted by the density of electronic states). A simple method to calculate the weighted mobility from Seebeck coefficient and electrical resistivity measurements is introduced, which gives good results at room temperature and above, and for mobilities as low as 10&lt;sup&gt;&#8722;3&lt;/sup&gt; cm&lt;sup&gt;2&lt;/sup&gt; V&lt;sup&gt;&#8208;1&lt;/sup&gt; s&lt;sup&gt;&#8208;1&lt;/sup&gt;,
-&#956;w=331cm2Vs(m&#937;&#8201;cm&#961;)&#8201;&#8201;(T300&#8201;K)&#8722;3/2[ exp[ |S|kB/e&#8722;2]1+exp[&#8722;5(|S|kB/e&#8722;1) ]+3&#960;2|S|kB/e1+exp[5(|S|kB/e&#8722;1) ] ]Here, &#956;&lt;sub&gt;w&lt;/sub&gt; is the weighted mobility, &#961; is the electrical resistivity measured in m&#937; cm, &lt;i&gt;T&lt;/i&gt; is the absolute temperature in K, &lt;i&gt;S&lt;/i&gt; is the Seebeck coefficient, and &lt;i&gt;k&lt;/i&gt;
+&#956;w=331cm2Vs(m&#937;&#8201;cm&#961;)&#8201;&#8201;(T300&#8201;K)&#8722;3/2[ exp[ |S|kB/e&#8722;2]1+exp[&#8722;5(|S|kB/e&#8722;1) ]+3&#960;2|S|kB/e1+exp[5(|S|kB/e&#8722;1) ] ]Here, &#956;&lt;sub&gt;w&lt;/sub&gt; is the weighted mobility, &#961; is the electrical resistivity measured in m&#937; cm, &lt;i&gt;T &lt;/i&gt; is the absolute temperature in K, &lt;i&gt;S &lt;/i&gt; is the Seebeck coefficient, and &lt;i&gt;k &lt;/i&gt;
 &lt;sub&gt;B&lt;/sub&gt;/e = 86.3 &#181;V K&lt;sup&gt;&#8211;1&lt;/sup&gt;. Weighted mobility analysis can elucidate the electronic structure and scattering mechanisms in materials and is particularly helpful in understanding and optimizing thermoelectric systems.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
@@ -2820,7 +3066,7 @@ Jie Xiong
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The ultrabroadband spectrum detection from ultraviolet (UV) to long&#8208;wavelength infrared (LWIR) is promising for diversified optoelectronic applications of imaging, sensing, and communication. However, the current LWIR&#8208;detecting devices suffer from low photoresponsivity, high cost, and cryogenic environment. Herein, a high&#8208;performance ultrabroadband photodetector is demonstrated with detecting range from UV to LWIR based on air&#8208;stable nonlayered ultrathin Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanosheets synthesized via a space&#8208;confined chemical vapor deposition (CVD) method. Ultrahigh photoresponsivity (&lt;i&gt;R&lt;/i&gt;) of 561.2 A W&lt;sup&gt;&#8722;1&lt;/sup&gt;, external quantum efficiency (EQE) of 6.6 &#215; 10&lt;sup&gt;3&lt;/sup&gt;%, and detectivity (&lt;i&gt;D&lt;/i&gt;*) of 7.42 &#215; 10&lt;sup&gt;8&lt;/sup&gt; Jones are achieved at the wavelength of 10.6 &#181;m. The multimechanism synergistic effect of photoconductive effect and bolometric effect demonstrates the high sensitivity for light with any light intensities. The outstanding device performance and complementary mixing photoresponse mechanisms open up new potential applications of nonlayered 2D materials for future infrared optoelectronic devices.&lt;/p&gt;
+&lt;p&gt;The ultrabroadband spectrum detection from ultraviolet (UV) to long&#8208;wavelength infrared (LWIR) is promising for diversified optoelectronic applications of imaging, sensing, and communication. However, the current LWIR&#8208;detecting devices suffer from low photoresponsivity, high cost, and cryogenic environment. Herein, a high&#8208;performance ultrabroadband photodetector is demonstrated with detecting range from UV to LWIR based on air&#8208;stable nonlayered ultrathin Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanosheets synthesized via a space&#8208;confined chemical vapor deposition (CVD) method. Ultrahigh photoresponsivity (&lt;i&gt;R &lt;/i&gt;) of 561.2 A W&lt;sup&gt;&#8722;1&lt;/sup&gt;, external quantum efficiency (EQE) of 6.6 &#215; 10&lt;sup&gt;3&lt;/sup&gt;%, and detectivity (&lt;i&gt;D &lt;/i&gt;*) of 7.42 &#215; 10&lt;sup&gt;8&lt;/sup&gt; Jones are achieved at the wavelength of 10.6 &#181;m. The multimechanism synergistic effect of photoconductive effect and bolometric effect demonstrates the high sensitivity for light with any light intensities. The outstanding device performance and complementary mixing photoresponse mechanisms open up new potential applications of nonlayered 2D materials for future infrared optoelectronic devices.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
       <dc:title>Ultrabroadband Photodetectors up to 10.6 &#181;m Based on 2D Fe3O4 Nanosheets</dc:title>
@@ -4003,15 +4249,15 @@ Masashi Kawasaki
       <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908315?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9735ab89-28ed-406e-8ce4-1bacac9f5503/adma201908315-gra-0001-m.png"
      alt="Anisotropic Quantum Transport through a Single Spin Channel in the Magnetic Semiconductor EuTiO3"/&gt;
-&lt;p&gt;Shubnikov&#8211;de Haas oscillations in the ferromagnetic state of EuTiO&lt;sub&gt;3&lt;/sub&gt; are realized. It is shown that the oscillations originate genuinely from Ti 3&lt;i&gt;d&lt;/i&gt;&#8208;&lt;i&gt;t&lt;/i&gt;
-&lt;sub&gt;2g&lt;/sub&gt; states, which are fully spin&#8208;polarized due to their energetical proximity to the in&#8208;gap Eu 4&lt;i&gt;f&lt;/i&gt; bands. These findings suggest that EuTiO&lt;sub&gt;3&lt;/sub&gt; film is an ideal magnetic semiconductor, offering a fertile field to explore quantum phenomena.
+&lt;p&gt;Shubnikov&#8211;de Haas oscillations in the ferromagnetic state of EuTiO&lt;sub&gt;3&lt;/sub&gt; are realized. It is shown that the oscillations originate genuinely from Ti 3&lt;i&gt;d &lt;/i&gt;&#8208;&lt;i&gt;t &lt;/i&gt;
+&lt;sub&gt;2g&lt;/sub&gt; states, which are fully spin&#8208;polarized due to their energetical proximity to the in&#8208;gap Eu 4&lt;i&gt;f &lt;/i&gt; bands. These findings suggest that EuTiO&lt;sub&gt;3&lt;/sub&gt; film is an ideal magnetic semiconductor, offering a fertile field to explore quantum phenomena.
 
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Magnetic semiconductors are a vital component in the understanding of quantum transport phenomena. To explore such delicate, yet fundamentally important, effects, it is crucial to maintain a high carrier mobility in the presence of magnetic moments. In practice, however, magnetization often diminishes the carrier mobility. Here, it is shown that EuTiO&lt;sub&gt;3&lt;/sub&gt; is a rare example of a magnetic semiconductor that can be desirably grown using the molecular beam epitaxy to possess a high carrier mobility exceeding 3000 cm&lt;sup&gt;2&lt;/sup&gt; V&lt;sup&gt;&#8722;1&lt;/sup&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt; at 2 K, while intrinsically hosting a large magnetization value, 7 &#956;&lt;sub&gt;B&lt;/sub&gt; per formula unit. This is demonstrated by measuring the Shubnikov&#8211;de Haas (SdH) oscillations in the ferromagnetic state of EuTiO&lt;sub&gt;3&lt;/sub&gt; films with various carrier densities. Using first&#8208;principles calculations, it is shown that the observed SdH oscillations originate genuinely from Ti 3&lt;i&gt;d&lt;/i&gt;&#8208;&lt;i&gt;t&lt;/i&gt;
-&lt;sub&gt;2g&lt;/sub&gt; states which are fully spin&#8208;polarized due to their energetical proximity to the in&#8208;gap Eu 4&lt;i&gt;f&lt;/i&gt; bands. Such an exchange coupling is further shown to have a profound effect on the effective mass and fermiology of the Ti 3&lt;i&gt;d&lt;/i&gt;&#8208;&lt;i&gt;t&lt;/i&gt;
+&lt;p&gt;Magnetic semiconductors are a vital component in the understanding of quantum transport phenomena. To explore such delicate, yet fundamentally important, effects, it is crucial to maintain a high carrier mobility in the presence of magnetic moments. In practice, however, magnetization often diminishes the carrier mobility. Here, it is shown that EuTiO&lt;sub&gt;3&lt;/sub&gt; is a rare example of a magnetic semiconductor that can be desirably grown using the molecular beam epitaxy to possess a high carrier mobility exceeding 3000 cm&lt;sup&gt;2&lt;/sup&gt; V&lt;sup&gt;&#8722;1&lt;/sup&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt; at 2 K, while intrinsically hosting a large magnetization value, 7 &#956;&lt;sub&gt;B&lt;/sub&gt; per formula unit. This is demonstrated by measuring the Shubnikov&#8211;de Haas (SdH) oscillations in the ferromagnetic state of EuTiO&lt;sub&gt;3&lt;/sub&gt; films with various carrier densities. Using first&#8208;principles calculations, it is shown that the observed SdH oscillations originate genuinely from Ti 3&lt;i&gt;d &lt;/i&gt;&#8208;&lt;i&gt;t &lt;/i&gt;
+&lt;sub&gt;2g&lt;/sub&gt; states which are fully spin&#8208;polarized due to their energetical proximity to the in&#8208;gap Eu 4&lt;i&gt;f &lt;/i&gt; bands. Such an exchange coupling is further shown to have a profound effect on the effective mass and fermiology of the Ti 3&lt;i&gt;d &lt;/i&gt;&#8208;&lt;i&gt;t &lt;/i&gt;
 &lt;sub&gt;2g&lt;/sub&gt; electrons, manifested by a directional anisotropy in the SdH oscillations. These findings suggest that EuTiO&lt;sub&gt;3&lt;/sub&gt; film is an ideal magnetic semiconductor, offering a fertile field to explore quantum phenomena suitable for spintronic applications.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
@@ -4061,7 +4307,7 @@ Liming Ding
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/d67820f7-941a-46e7-8fbc-b258e9cf7981/adma201907257-gra-0001-m.png"
      alt="An Electrically Modulated Single&#8208;Color/Dual&#8208;Color Imaging Photodetector"/&gt;
 &lt;p&gt;A tunable dual&#8208;color imaging photodetector with a fast response speed (&#8776;10&lt;sup&gt;2&lt;/sup&gt; ns) is developed by constructing a type&#8208;I p&#8211;n heterojunction of CH&lt;sub&gt;3&lt;/sub&gt;NH&lt;sub&gt;3&lt;/sub&gt;PbBr&lt;sub&gt;3&lt;/sub&gt;/CO&lt;i&gt;
-   &lt;sub&gt;i&lt;/sub&gt;
+   &lt;sub&gt;i&lt;/sub&gt; 
 &lt;/i&gt;8DFIC. Dual&#8208;color imaging can be switched to single&#8208;color imaging by applying a small bias voltage.
 
 
@@ -4069,7 +4315,7 @@ Liming Ding
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;An electrically modulated single&#8208;/dual&#8208;color imaging photodetector with fast response speed is developed based on a small molecule (CO&lt;i&gt;
-   &lt;sub&gt;i&lt;/sub&gt;
+   &lt;sub&gt;i&lt;/sub&gt; 
 &lt;/i&gt;8DFIC)/perovskite (CH&lt;sub&gt;3&lt;/sub&gt;NH&lt;sub&gt;3&lt;/sub&gt;PbBr&lt;sub&gt;3&lt;/sub&gt;) hybrid film. Owing to the type&#8208;I heterojunction, the device can facilely transform dual&#8208;color images to single&#8208;color images by applying a small bias voltage. The photodetector exhibits two distinct cut&#8208;off wavelengths at &#8776;544 nm (visible region) and &#8776;920 nm (near&#8208;infrared region), respectively, without any power supply. Its two peak responsivities are 0.16 A W&lt;sup&gt;&#8722;1&lt;/sup&gt; at &#8776;525 nm and 0.041 A W&lt;sup&gt;&#8722;1&lt;/sup&gt; at &#8776;860 nm with a fast response speed (&#8776;10&lt;sup&gt;2&lt;/sup&gt; ns). Under 0.6 V bias, the photodetector can operate in a single&#8208;color mode with a peak responsivity of 0.09 A W&lt;sup&gt;&#8722;1&lt;/sup&gt; at &#8776;475 nm, showing a fast response speed (&#8776;10&lt;sup&gt;2&lt;/sup&gt; ns). A physical model based on band energy theory is developed to illustrate the origin of the tunable single&#8208;/dual&#8208;color photodetection. This work will stimulate new approaches for developing solution&#8208;processed multifunctional photodetectors for imaging photodetection in complex circumstances.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
@@ -4113,8 +4359,8 @@ Pengfei Duan
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Circularly polarized luminescent materials with high dissymmetry factor (&lt;i&gt;g&lt;/i&gt;
-&lt;sub&gt;lum&lt;/sub&gt;) have been attracting increasing attention due to their distinctive photonic properties. In this work, by incorporating upconversion nanoparticles (UCNPs) and CsPbBr&lt;sub&gt;3&lt;/sub&gt; perovskite nanocrystals (PKNCs) into a chiral nematic liquid crystal (N*LC), enhanced upconverted circularly polarized luminescence (UC&#8208;CPL) based on a radiative energy transfer (RET) process from UCNPs to CsPbBr&lt;sub&gt;3&lt;/sub&gt; PKNCs is successfully implemented. By locating the emission peak of CsPbBr&lt;sub&gt;3&lt;/sub&gt; PKNCs at the center of the photonic bandgap of N*LC, the maximum &lt;i&gt;g&lt;/i&gt;
+&lt;p&gt;Circularly polarized luminescent materials with high dissymmetry factor (&lt;i&gt;g &lt;/i&gt;
+&lt;sub&gt;lum&lt;/sub&gt;) have been attracting increasing attention due to their distinctive photonic properties. In this work, by incorporating upconversion nanoparticles (UCNPs) and CsPbBr&lt;sub&gt;3&lt;/sub&gt; perovskite nanocrystals (PKNCs) into a chiral nematic liquid crystal (N*LC), enhanced upconverted circularly polarized luminescence (UC&#8208;CPL) based on a radiative energy transfer (RET) process from UCNPs to CsPbBr&lt;sub&gt;3&lt;/sub&gt; PKNCs is successfully implemented. By locating the emission peak of CsPbBr&lt;sub&gt;3&lt;/sub&gt; PKNCs at the center of the photonic bandgap of N*LC, the maximum &lt;i&gt;g &lt;/i&gt;
 &lt;sub&gt;lum&lt;/sub&gt; value of UC&#8208;CPL can be amplified to an extremely large value of 1.1. Meanwhile, upconverted emission of UCNPs can be significantly enhanced due to the band edge enhancement effect of the N*LC, subsequently enhancing the emission of the CsPbBr&lt;sub&gt;3&lt;/sub&gt; PKNCs through the RET process. In addition, an applied electric field can switch the upconverted emission of the UCNPs, as well as the RET process, enabling an electric&#8208;field&#8208;controlled UC&#8208;CPL switch.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
@@ -4257,7 +4503,7 @@ Xian&#8208;Zheng Zhang
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Nanotheranostic agents (NTAs) that integrate diagnostic capabilities and therapeutic functions have great potential for personalized medicine, yet poor tumor specificity severely restricts further clinical applications of NTAs. Here, a pro&#8208;NTA (precursor of nanotheranostic agent) activation strategy is reported for in situ NTA synthesis at tumor tissues to enhance the specificity of tumor therapy. This pro&#8208;NTA, also called PBAM, is composed of an MIL&#8208;100 (Fe)&#8208;coated Prussian blue (PB) analogue (K&lt;sub&gt;2&lt;/sub&gt;Mn[Fe(CN)&lt;sub&gt;6&lt;/sub&gt;]) with negligible absorption in the near&#8208;infrared region and spatial confinement of Mn&lt;sup&gt;2+&lt;/sup&gt; ions. In a mildly acidic tumor microenvironment (TME), PBAM can be specifically activated to synthesize the photothermal agent PB nanoparticles, with release of free Mn&lt;sup&gt;2+&lt;/sup&gt; ions due to the internal fast ion exchange, resulting in the &#8220;ON&#8221; state of both &lt;i&gt;T&lt;/i&gt;
+&lt;p&gt;Nanotheranostic agents (NTAs) that integrate diagnostic capabilities and therapeutic functions have great potential for personalized medicine, yet poor tumor specificity severely restricts further clinical applications of NTAs. Here, a pro&#8208;NTA (precursor of nanotheranostic agent) activation strategy is reported for in situ NTA synthesis at tumor tissues to enhance the specificity of tumor therapy. This pro&#8208;NTA, also called PBAM, is composed of an MIL&#8208;100 (Fe)&#8208;coated Prussian blue (PB) analogue (K&lt;sub&gt;2&lt;/sub&gt;Mn[Fe(CN)&lt;sub&gt;6&lt;/sub&gt;]) with negligible absorption in the near&#8208;infrared region and spatial confinement of Mn&lt;sup&gt;2+&lt;/sup&gt; ions. In a mildly acidic tumor microenvironment (TME), PBAM can be specifically activated to synthesize the photothermal agent PB nanoparticles, with release of free Mn&lt;sup&gt;2+&lt;/sup&gt; ions due to the internal fast ion exchange, resulting in the &#8220;ON&#8221; state of both &lt;i&gt;T &lt;/i&gt;
 &lt;sub&gt;1&lt;/sub&gt;&#8208;weighted magnetic resonance imaging and photoacoustic signals. In addition, the combined Mn&lt;sup&gt;2+&lt;/sup&gt;&#8208;mediated chemodynamic therapy in the TME and PB&#8208;mediated photothermal therapy guarantee a more efficient therapeutic performance compared to monotherapy. In vivo data further show that the pro&#8208;NTA activation strategy could selectively brighten solid tumors and detect invisible lymph node metastases with high specificity.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
@@ -4462,52 +4708,6 @@ Pulickel M. Ajayan
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202000006</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000006?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000474?af=R">
-      <title>Phosphonate Metal&#8211;Organic Frameworks: A Novel Family of Semiconductors</title>
-      <dc:description>
-The first semiconducting metal&#8211;organic framework (known as TUB75) derived from arylphosphonic acids and a depiction of its antiferromagnetic 1D inorganic building unit composed of a zigzag chain of corner&#8208;sharing copper dimers.
-
-
-
-
-
-
-
-
-Abstract
-Herein, the first semiconducting and magnetic phosphonate metal&#8211;organic framework (MOF), TUB75, is reported, which contains a 1D inorganic building unit composed of a zigzag chain of corner&#8208;sharing copper dimers. The solid&#8208;state UV&#8211;vis spectrum of TUB75 reveals the existence of a narrow bandgap of 1.4 eV, which agrees well with the density functional theory (DFT)&#8208;calculated bandgap of 1.77 eV. Single&#8208;crystal conductivity measurements for different orientations of the individual crystals yield a range of conductances from 10&#8722;3 to 103 S m&#8722;1 at room temperature, pointing to the directional nature of the electrical conductivity in TUB75. Magnetization measurements show that TUB75 is composed of antiferromagnetically coupled copper dimer chains. Due to their rich structural chemistry and exceptionally high thermal/chemical stabilities, phosphonate MOFs like TUB75 may open new vistas in engineerable electrodes for supercapacitors.
-</dc:description>
-      <dc:creator>
-Konrad Siemensmeyer, 
-Craig A. Peeples, 
-Patrik Tholen, 
-Franz&#8208;Josef Schmitt, 
-B&#252;nyemin &#199;o&#351;ut, 
-Gabriel Hanna, 
-G&#252;ndo&#287; Y&#252;cesan
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000474?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/d40e7449-68cd-4fa7-95b8-0ee845dd62ce/adma202000474-gra-0001-m.png"
-     alt="Phosphonate Metal&#8211;Organic Frameworks: A Novel Family of Semiconductors"/&gt;
-&lt;p&gt;The first semiconducting metal&#8211;organic framework (known as TUB75) derived from arylphosphonic acids and a depiction of its antiferromagnetic 1D inorganic building unit composed of a zigzag chain of corner&#8208;sharing copper dimers.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Herein, the first semiconducting and magnetic phosphonate metal&#8211;organic framework (MOF), TUB75, is reported, which contains a 1D inorganic building unit composed of a zigzag chain of corner&#8208;sharing copper dimers. The solid&#8208;state UV&#8211;vis spectrum of TUB75 reveals the existence of a narrow bandgap of 1.4 eV, which agrees well with the density functional theory (DFT)&#8208;calculated bandgap of 1.77 eV. Single&#8208;crystal conductivity measurements for different orientations of the individual crystals yield a range of conductances from 10&lt;sup&gt;&#8722;3&lt;/sup&gt; to 10&lt;sup&gt;3&lt;/sup&gt; S m&lt;sup&gt;&#8722;1&lt;/sup&gt; at room temperature, pointing to the directional nature of the electrical conductivity in TUB75. Magnetization measurements show that TUB75 is composed of antiferromagnetically coupled copper dimer chains. Due to their rich structural chemistry and exceptionally high thermal/chemical stabilities, phosphonate MOFs like TUB75 may open new vistas in engineerable electrodes for supercapacitors.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Phosphonate Metal&#8211;Organic Frameworks: A Novel Family of Semiconductors</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000474</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-06T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000474</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000474?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -5195,7 +5395,7 @@ Geoffrey M. Spinks
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Helical constructs are ubiquitous in nature at all size domains, from molecular to macroscopic. The helical topology confers unique mechanical functions that activate certain phenomena, such as twining vines and vital cellular functions like the folding and packing of DNA into chromosomes. The understanding of active mechanical processes in plants, certain musculature in animals, and some biochemical processes in cells provides insight into the versatility of the helix. Most of these natural systems consist of helically oriented filaments embedded in a compliant matrix. In some cases, the matrix can change volume and in others the filaments can contract and the matrix is passive. In both cases, the helically arranged fibers determine the overall shape change with a great variety of responses involving length contraction/elongation, twisting, bending, and coiling. Synthetic actuator materials and systems that employ helical topologies have been described recently and demonstrate many fascinating and complex shape changes. However, significant new opportunities exist to mimic some of the most remarkable actions in nature, including the &lt;i&gt;Vorticella's&lt;/i&gt; coiling stalk and DNA's supercoils, in the quest for superior artificial muscles.&lt;/p&gt;
+&lt;p&gt;Helical constructs are ubiquitous in nature at all size domains, from molecular to macroscopic. The helical topology confers unique mechanical functions that activate certain phenomena, such as twining vines and vital cellular functions like the folding and packing of DNA into chromosomes. The understanding of active mechanical processes in plants, certain musculature in animals, and some biochemical processes in cells provides insight into the versatility of the helix. Most of these natural systems consist of helically oriented filaments embedded in a compliant matrix. In some cases, the matrix can change volume and in others the filaments can contract and the matrix is passive. In both cases, the helically arranged fibers determine the overall shape change with a great variety of responses involving length contraction/elongation, twisting, bending, and coiling. Synthetic actuator materials and systems that employ helical topologies have been described recently and demonstrate many fascinating and complex shape changes. However, significant new opportunities exist to mimic some of the most remarkable actions in nature, including the &lt;i&gt;Vorticella's &lt;/i&gt; coiling stalk and DNA's supercoils, in the quest for superior artificial muscles.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, Volume 32, Issue 18, May 7, 2020. </description>
       <dc:title>Advanced Actuator Materials Powered by Biomimetic Helical Fiber Topologies</dc:title>
@@ -5585,7 +5785,7 @@ Vicki J. Keast
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;There has been an ongoing quest to optimize the materials used to build plasmonic devices: first the elements were investigated, then alloys and intermetallic compounds, later semiconductors were considered, and, most recently, there has been interest in using more exotic materials such as topological insulators and conducting oxides. The quality of the plasmon resonances in these materials is closely correlated with their structure and properties. In general gold and silver are the most commonly specified materials for these applications but they do have weaknesses. Here, it is shown how, in specific circumstances, the selection of certain other materials might be more useful. Candidate alternatives include Ti&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
 &lt;/i&gt;N, VO&lt;sub&gt;2&lt;/sub&gt;, Al, Cu, Al&#8208;doped ZnO, and Cu&#8211;Al alloys. The relative merits of these choices and the many pitfalls and subtle problems that arise are discussed, and a frank perspective on the field is provided.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, Volume 32, Issue 18, May 7, 2020. </description>
@@ -5684,7 +5884,7 @@ Paul E. Shaw
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Organophosphorus (OP)&#8208;based nerve agents are extremely toxic and potent acetylcholinesterase inhibitors and recent attacks involving nerve agents highlight the need for fast detection and intervention. Fluorescence&#8208;based detection, where the sensing material undergoes a chemical reaction with the agent causing a measurable change in the luminescence, is one method for sensing and identifying nerve agents. Most studies use the simulants diethylchlorophosphate and di&#8208;&lt;i&gt;iso&lt;/i&gt;&#8208;propylfluorophosphate to evaluate the performance of sensors due to their reduced toxicity relative to OP nerve agents. While detection of nerve agent simulants in solution is relatively widely reported, there are fewer reports on vapor detection using solid&#8208;state sensors. Herein, progress in organic semiconductor sensing materials developed for solid&#8208;state detection of OP&#8208;based nerve agent vapors is reviewed. The effect of acid impurities arising from the hydrolysis of simulants and nerve agents on the efficacy and selectivity of the reported sensing materials is also discussed. Indeed, in some cases it is unclear whether it is the simulant that is detected or the acid hydrolysis products. Finally, it is highlighted that while analyte diffusion into the sensing film is critical in the design of fast, responsive sensing systems, it is an area that is currently not well studied.&lt;/p&gt;
+&lt;p&gt;Organophosphorus (OP)&#8208;based nerve agents are extremely toxic and potent acetylcholinesterase inhibitors and recent attacks involving nerve agents highlight the need for fast detection and intervention. Fluorescence&#8208;based detection, where the sensing material undergoes a chemical reaction with the agent causing a measurable change in the luminescence, is one method for sensing and identifying nerve agents. Most studies use the simulants diethylchlorophosphate and di&#8208;&lt;i&gt;iso &lt;/i&gt;&#8208;propylfluorophosphate to evaluate the performance of sensors due to their reduced toxicity relative to OP nerve agents. While detection of nerve agent simulants in solution is relatively widely reported, there are fewer reports on vapor detection using solid&#8208;state sensors. Herein, progress in organic semiconductor sensing materials developed for solid&#8208;state detection of OP&#8208;based nerve agent vapors is reviewed. The effect of acid impurities arising from the hydrolysis of simulants and nerve agents on the efficacy and selectivity of the reported sensing materials is also discussed. Indeed, in some cases it is unclear whether it is the simulant that is detected or the acid hydrolysis products. Finally, it is highlighted that while analyte diffusion into the sensing film is critical in the design of fast, responsive sensing systems, it is an area that is currently not well studied.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, Volume 32, Issue 18, May 7, 2020. </description>
       <dc:title>Challenges in Fluorescence Detection of Chemical Warfare Agent Vapors Using Solid&#8208;State Films</dc:title>
@@ -6630,213 +6830,5 @@ Guoxiu Wang
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201903891?af=R</prism:url>
       <prism:copyright />
       <prism:section>Progress Report</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201908201?af=R">
-      <title>3D Printed Mechanically Robust Graphene/CNT Electrodes for Highly Efficient Overall Water Splitting</title>
-      <dc:description>
-Bioinspired electrodes of 3D printed graphene reinforced by 1D carbon nanotubes (3DP GC), which demonstrate outstanding flexural strength and hierarchical porous structure, are produced via an extrusion&#8208;based 3D printing strategy. The 3DP GC electrodes developed in this work have great potential for a variety of energy conversion and storage, environmental, and electronic applications where high flexural strength and hierarchical porous structure are in pressing demand.
-
-
-
-
-
-
-
-
-Abstract
-3D printing of graphene electrodes with high mechanical strength has been a growing interest in the development of advanced energy, environment, and electronic systems, yet is extremely challenging. Herein, a 3D printed bioinspired electrode of graphene reinforced with 1D carbon nanotubes (CNTs) (3DP GC) with both high flexural strength and hierarchical porous structure is reported via a 3D printing strategy. Mechanics modeling reveals the critical role of the 1D CNTs in the enhanced flexural strength by increasing the friction and adhesion between the 2D graphene nanosheets. The 3DP GC electrodes hold distinct advantages: i) an intrinsically high flexural strength that enables their large&#8208;scale applications; and ii) a hierarchical porous structure that offers large surface area and interconnected channels, endowing fast mass and/or charge and ions transport rate, which is thus beneficial for acting as an ideal catalyst carrier. The 3DP GC electrode integrated with a NiFeP nanosheets array exhibits a voltage of 1.58 V at 30 mA cm&#8722;2 as bifunctional electrode for water splitting, which is much better than most of the reported Ni&#8208;, Co&#8208;, and Fe&#8208;based bifunctional electrocatalysts. Importantly, this study paves the way for the practical applications of 3D printed graphene electrodes in many energy conversion/storage, environmental, and electronic systems where high flexural strength is preferred.
-</dc:description>
-      <dc:creator>
-Meiwen Peng, 
-Danli Shi, 
-Yinghui Sun, 
-Jian Cheng, 
-Bo Zhao, 
-Yiming Xie, 
-Junchang Zhang, 
-Wei Guo, 
-Zheng Jia, 
-Zhiqiang Liang, 
-Lin Jiang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908201?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/d06e1d9f-c467-4458-a0a8-56e61fe463a9/adma201908201-gra-0001-m.png"
-     alt="3D Printed Mechanically Robust Graphene/CNT Electrodes for Highly Efficient Overall Water Splitting"/&gt;
-&lt;p&gt;Bioinspired electrodes of 3D printed graphene reinforced by 1D carbon nanotubes (3DP GC), which demonstrate outstanding flexural strength and hierarchical porous structure, are produced via an extrusion&#8208;based 3D printing strategy. The 3DP GC electrodes developed in this work have great potential for a variety of energy conversion and storage, environmental, and electronic applications where high flexural strength and hierarchical porous structure are in pressing demand.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;3D printing of graphene electrodes with high mechanical strength has been a growing interest in the development of advanced energy, environment, and electronic systems, yet is extremely challenging. Herein, a 3D printed bioinspired electrode of graphene reinforced with 1D carbon nanotubes (CNTs) (3DP GC) with both high flexural strength and hierarchical porous structure is reported via a 3D printing strategy. Mechanics modeling reveals the critical role of the 1D CNTs in the enhanced flexural strength by increasing the friction and adhesion between the 2D graphene nanosheets. The 3DP GC electrodes hold distinct advantages: i) an intrinsically high flexural strength that enables their large&#8208;scale applications; and ii) a hierarchical porous structure that offers large surface area and interconnected channels, endowing fast mass and/or charge and ions transport rate, which is thus beneficial for acting as an ideal catalyst carrier. The 3DP GC electrode integrated with a NiFeP nanosheets array exhibits a voltage of 1.58 V at 30 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; as bifunctional electrode for water splitting, which is much better than most of the reported Ni&#8208;, Co&#8208;, and Fe&#8208;based bifunctional electrocatalysts. Importantly, this study paves the way for the practical applications of 3D printed graphene electrodes in many energy conversion/storage, environmental, and electronic systems where high flexural strength is preferred.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>3D Printed Mechanically Robust Graphene/CNT Electrodes for Highly Efficient Overall Water Splitting</dc:title>
-      <dc:identifier>doi:10.1002/adma.201908201</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-04T01:11:44-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201908201</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908201?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000302?af=R">
-      <title>A Rational Reconfiguration of Electrolyte for High&#8208;Energy and Long&#8208;Life Lithium&#8211;Chalcogen Batteries</title>
-      <dc:description>
-The rational reconfiguration of an electrolyte enabled by an in situ interfacial polymerization strategy is demonstrated. This strategy endows Li&#8211;S and Li&#8211;Se batteries with high capacity, stable cycling, and excellent rate performances simultaneously, and may become a new pathway toward the large&#8208;scale and cost&#8208;effective applications of future Li metal batteries.
-
-
-
-
-
-
-
-
-Abstract
-Lithium&#8211;chalcogen batteries are an appealing choice for high&#8208;energy&#8208;storage technology. However, the traditional battery that employs liquid electrolytes suffers irreversible loss and shuttle of the soluble intermediates. New batteries that adopt Li+&#8208;conductive polymer electrolytes to mitigate the shuttle problem are hindered by incomplete discharge of sulfur/selenium. To address the trade&#8208;off between energy and cycle life, a new electrolyte is proposed that reconciles the merits of liquid and polymer electrolytes while resolving each of their inferiorities. An in situ interfacial polymerization strategy is developed to create a liquid/polymer hybrid electrolyte between a LiPF6&#8208;coated separator and the cathode. A polymer&#8208;gel electrolyte in situ formed on the separator shows high Li+ transfer number to serve as a chemical barrier against the shuttle effect. Between the gel electrolyte and the cathode surface is a thin gradient solidification layer that enables transformation from gel to liquid so that the liquid electrolyte is maintained inside the cathode for rapid Li+ transport and high utilization of active materials. By addressing the dilemma between the shuttle chemistry and incomplete discharge of S/Se, the new electrolyte configuration demonstrates its feasibility to trigger higher capacity retention of the cathodes. As a result, Li&#8211;S and Li&#8211;Se cells with high energy and long cycle lives are realized, showing promise for practical use.
-</dc:description>
-      <dc:creator>
-Wen&#8208;Peng Wang, 
-Juan Zhang, 
-Ya&#8208;Xia Yin, 
-Hui Duan, 
-Jia Chou, 
-Sheng&#8208;Yi Li, 
-Min Yan, 
-Sen Xin, 
-Yu&#8208;Guo Guo
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000302?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9f863d15-2e0c-4be3-ac8b-6903095d2468/adma202000302-gra-0001-m.png"
-     alt="A Rational Reconfiguration of Electrolyte for High&#8208;Energy and Long&#8208;Life Lithium&#8211;Chalcogen Batteries"/&gt;
-&lt;p&gt;The rational reconfiguration of an electrolyte enabled by an in situ interfacial polymerization strategy is demonstrated. This strategy endows Li&#8211;S and Li&#8211;Se batteries with high capacity, stable cycling, and excellent rate performances simultaneously, and may become a new pathway toward the large&#8208;scale and cost&#8208;effective applications of future Li metal batteries.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Lithium&#8211;chalcogen batteries are an appealing choice for high&#8208;energy&#8208;storage technology. However, the traditional battery that employs liquid electrolytes suffers irreversible loss and shuttle of the soluble intermediates. New batteries that adopt Li&lt;sup&gt;+&lt;/sup&gt;&#8208;conductive polymer electrolytes to mitigate the shuttle problem are hindered by incomplete discharge of sulfur/selenium. To address the trade&#8208;off between energy and cycle life, a new electrolyte is proposed that reconciles the merits of liquid and polymer electrolytes while resolving each of their inferiorities. An in situ interfacial polymerization strategy is developed to create a liquid/polymer hybrid electrolyte between a LiPF&lt;sub&gt;6&lt;/sub&gt;&#8208;coated separator and the cathode. A polymer&#8208;gel electrolyte in situ formed on the separator shows high Li&lt;sup&gt;+&lt;/sup&gt; transfer number to serve as a chemical barrier against the shuttle effect. Between the gel electrolyte and the cathode surface is a thin gradient solidification layer that enables transformation from gel to liquid so that the liquid electrolyte is maintained inside the cathode for rapid Li&lt;sup&gt;+&lt;/sup&gt; transport and high utilization of active materials. By addressing the dilemma between the shuttle chemistry and incomplete discharge of S/Se, the new electrolyte configuration demonstrates its feasibility to trigger higher capacity retention of the cathodes. As a result, Li&#8211;S and Li&#8211;Se cells with high energy and long cycle lives are realized, showing promise for practical use.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>A Rational Reconfiguration of Electrolyte for High&#8208;Energy and Long&#8208;Life Lithium&#8211;Chalcogen Batteries</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000302</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-04T01:11:26-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000302</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000302?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000186?af=R">
-      <title>High Phase Stability in CsPbI3 Enabled by Pb&#8211;I Octahedra Anchors for Efficient Inorganic Perovskite Photovoltaics</title>
-      <dc:description>
-CsPbI3 inorganic perovskite exhibits some special unique properties including crystal structure distortion and quantum confinement effect, yet the poor phase stability severely hinders its application. The nature of the photoactive CsPbI3 phase transition from the perspective of PbI6 octahedral rotation is revealed and a facile method to simultaneously stabilize the photo&#8208;active phase and reduce the defect density of CsPbI3 is developed.
-
-
-
-
-
-
-
-
-Abstract
-CsPbI3 inorganic perovskite has exhibited some special properties particularly crystal structure distortion and quantum confinement effect, yet the poor phase stability of CsPbI3 severely hinders its applications. Herein, the nature of the photoactive CsPbI3 phase transition from the perspective of PbI6 octahedra is revealed. A facile method is also developed to stabilize the photoactive phase and to reduce the defect density of CsPbI3. CsPbI3 is decorated with multifunctional 4&#8208;aminobenzoic acid (ABA), and steric neostigmine bromide (NGBr) is subsequently used to further mediate the thin films' surface (NGBr&#8208;CsPbI3(ABA)). The ABA or NG cation adsorbed onto the grain boundaries/surface of CsPbI3 anchors the PbI6 octahedra via increasing the energy barriers of octahedral rotation, which maintains the continuous array of corner&#8208;sharing PbI6 octahedra and kinetically stabilizes the photoactive phase CsPbI3. Moreover, the added ABA and NGBr not only interact with shallow&#8208; or deep&#8208;level defects in CsPbI3 to significantly reduce defect density, but also lead to improved energy&#8208;level alignment at the interfaces between the CsPbI3 and the charge transport layers. Finally, the champion NGBr&#8208;CsPbI3(ABA)&#8208;based inorganic perovskite solar cell delivers 18.27% efficiency with excellent stability. Overall, this work demonstrates a promising concept to achieve highly phase&#8208;stabilized inorganic perovskite with suppressed defect density for promoting its optoelectronic applications.
-</dc:description>
-      <dc:creator>
-Yong Wang, 
-Gaoyuan Chen, 
-Dan Ouyang, 
-Xinjun He, 
-Can Li, 
-Ruiman Ma, 
-Wan&#8208;Jian Yin, 
-Wallace C. H. Choy
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000186?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/870ae37e-34b8-4c63-a56b-2ab9cc2c5306/adma202000186-gra-0001-m.png"
-     alt="High Phase Stability in CsPbI3 Enabled by Pb&#8211;I Octahedra Anchors for Efficient Inorganic Perovskite Photovoltaics"/&gt;
-&lt;p&gt;CsPbI&lt;sub&gt;3&lt;/sub&gt; inorganic perovskite exhibits some special unique properties including crystal structure distortion and quantum confinement effect, yet the poor phase stability severely hinders its application. The nature of the photoactive CsPbI&lt;sub&gt;3&lt;/sub&gt; phase transition from the perspective of PbI&lt;sub&gt;6&lt;/sub&gt; octahedral rotation is revealed and a facile method to simultaneously stabilize the photo&#8208;active phase and reduce the defect density of CsPbI&lt;sub&gt;3&lt;/sub&gt; is developed.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;CsPbI&lt;sub&gt;3&lt;/sub&gt; inorganic perovskite has exhibited some special properties particularly crystal structure distortion and quantum confinement effect, yet the poor phase stability of CsPbI&lt;sub&gt;3&lt;/sub&gt; severely hinders its applications. Herein, the nature of the photoactive CsPbI&lt;sub&gt;3&lt;/sub&gt; phase transition from the perspective of PbI&lt;sub&gt;6&lt;/sub&gt; octahedra is revealed. A facile method is also developed to stabilize the photoactive phase and to reduce the defect density of CsPbI&lt;sub&gt;3&lt;/sub&gt;. CsPbI&lt;sub&gt;3&lt;/sub&gt; is decorated with multifunctional 4&#8208;aminobenzoic acid (ABA), and steric neostigmine bromide (NGBr) is subsequently used to further mediate the thin films' surface (NGBr&#8208;CsPbI&lt;sub&gt;3&lt;/sub&gt;(ABA)). The ABA or NG cation adsorbed onto the grain boundaries/surface of CsPbI&lt;sub&gt;3&lt;/sub&gt; anchors the PbI&lt;sub&gt;6&lt;/sub&gt; octahedra via increasing the energy barriers of octahedral rotation, which maintains the continuous array of corner&#8208;sharing PbI&lt;sub&gt;6&lt;/sub&gt; octahedra and kinetically stabilizes the photoactive phase CsPbI&lt;sub&gt;3&lt;/sub&gt;. Moreover, the added ABA and NGBr not only interact with shallow&#8208; or deep&#8208;level defects in CsPbI&lt;sub&gt;3&lt;/sub&gt; to significantly reduce defect density, but also lead to improved energy&#8208;level alignment at the interfaces between the CsPbI&lt;sub&gt;3&lt;/sub&gt; and the charge transport layers. Finally, the champion NGBr&#8208;CsPbI&lt;sub&gt;3&lt;/sub&gt;(ABA)&#8208;based inorganic perovskite solar cell delivers 18.27% efficiency with excellent stability. Overall, this work demonstrates a promising concept to achieve highly phase&#8208;stabilized inorganic perovskite with suppressed defect density for promoting its optoelectronic applications.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>High Phase Stability in CsPbI3 Enabled by Pb&#8211;I Octahedra Anchors for Efficient Inorganic Perovskite Photovoltaics</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000186</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-04T01:10:46-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000186</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000186?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201908291?af=R">
-      <title>Multifunctional Bio&#8208;Nanocomposite Coatings for Perishable Fruits</title>
-      <dc:description>
-A conformal bio&#8208;nanocomposite coating based on cellulose nanocrystals and poly(albumen) is developed that increases the shelf&#8208;life of fresh produce by retarding ripening, dehydration, and microbial attack. The coating is edible, easily washable, and made from readily available inexpensive materials, which makes it a promising solution to combat food wastage.
-
-
-
-
-
-
-
-
-Abstract
-Hunger and chronic undernourishment impact over 800 million people, which translates to &#8776;10.7% of the world's population. While countries are increasingly making efforts to reduce poverty and hunger by pursuing sustainable energy and agricultural practices, a third of the food produced around the globe still is wasted and never consumed. Reducing food shortages is vital in this effort and is often addressed by the development of genetically modified produce or chemical additives and inedible coatings, which create additional health and environmental concerns. Herein, a multifunctional bio&#8208;nanocomposite comprised largely of egg&#8208;derived polymers and cellulose nanomaterials as a conformal coating onto fresh produce that slows down food decay by retarding ripening, dehydration, and microbial invasion is reported. The coating is edible, washable, and made from readily available inexpensive or waste materials, which makes it a promising economic alternative to commercially available fruit coatings and a solution to combat food wastage that is rampant in the world.
-</dc:description>
-      <dc:creator>
-Seohui Jung, 
-Yufei Cui, 
-Morgan Barnes, 
-Chinmay Satam, 
-Shenxiang Zhang, 
-Reaz A. Chowdhury, 
-Aparna Adumbumkulath, 
-Onur Sahin, 
-Corwin Miller, 
-Seyed M. Sajadi, 
-Lucas M. Sassi, 
-Yue Ji, 
-Matthew R. Bennett, 
-Miao Yu, 
-Jefferson Friguglietti, 
-Fatima A. Merchant, 
-Rafael Verduzco, 
-Soumyabrata Roy, 
-Robert Vajtai, 
-J. Carson Meredith, 
-Jeffrey P. Youngblood, 
-Nikhil Koratkar, 
-Muhammad M. Rahman, 
-Pulickel M. Ajayan
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908291?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/49b8fe0a-5009-41a6-97c5-39533153e28f/adma201908291-gra-0001-m.png"
-     alt="Multifunctional Bio&#8208;Nanocomposite Coatings for Perishable Fruits"/&gt;
-&lt;p&gt;A conformal bio&#8208;nanocomposite coating based on cellulose nanocrystals and poly(albumen) is developed that increases the shelf&#8208;life of fresh produce by retarding ripening, dehydration, and microbial attack. The coating is edible, easily washable, and made from readily available inexpensive materials, which makes it a promising solution to combat food wastage.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Hunger and chronic undernourishment impact over 800 million people, which translates to &#8776;10.7% of the world's population. While countries are increasingly making efforts to reduce poverty and hunger by pursuing sustainable energy and agricultural practices, a third of the food produced around the globe still is wasted and never consumed. Reducing food shortages is vital in this effort and is often addressed by the development of genetically modified produce or chemical additives and inedible coatings, which create additional health and environmental concerns. Herein, a multifunctional bio&#8208;nanocomposite comprised largely of egg&#8208;derived polymers and cellulose nanomaterials as a conformal coating onto fresh produce that slows down food decay by retarding ripening, dehydration, and microbial invasion is reported. The coating is edible, washable, and made from readily available inexpensive or waste materials, which makes it a promising economic alternative to commercially available fruit coatings and a solution to combat food wastage that is rampant in the world.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Multifunctional Bio&#8208;Nanocomposite Coatings for Perishable Fruits</dc:title>
-      <dc:identifier>doi:10.1002/adma.201908291</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-04T01:09:33-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201908291</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908291?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
