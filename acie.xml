@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005274?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003538?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005925?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005070?af=R" />
@@ -192,7 +193,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916171?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201916053?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001015?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004853?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915374?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915063?af=R" />
          </rdf:Seq>
@@ -203,6 +203,31 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202005274?af=R">
+      <title>A Stable and Conductive Metallophthalocyanine Framework for Electrocatalytic Carbon Dioxide Reduction in Water</title>
+      <dc:description>Transformation of carbon dioxide to high value&#8208;added chemicals becomes a significant challenge for clean energy study. Here we developed a stable and conductive covalent organic framework for electrocatalytic carbon dioxide reduction to carbon monoxide in aqueous solution. The cobalt(II) phthalocyanine catalysts are topologically connected via robust phenazine linkage into two&#8208;dimensional tetragonal framework that is stable under boiling water, acid, or base conditions. The 2D lattice enables full &#960; conjugation along&#160;  x  &#160;and&#160;  y  &#160;directions well as &#960; conduction along the&#160;  z  &#160;axis across the &#960; columns. With these structural features, the electrocatalytic framework exhibits a farad a ic efficiency of 96%, an exceptional turnover number up to 320,000 and a long&#8208;term turnover frequency of 11,412 hour  &#8722;1  , which is 32&#8208;fold increment compared to molecular catalyst. The combination of&#160; catalytic&#160; activity, selectivity, efficiency, and durability is desirable for clean energy production.</dc:description>
+      <dc:creator>
+Donglin Jiang, 
+Ning Huang, 
+Ka Hung Lee, 
+Stephan Irle, 
+Qiuhong Jiang, 
+Yan Yue, 
+Xiaoyi Xu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005274?af=R</link>
+      <content:encoded>&lt;p&gt;Transformation of carbon dioxide to high value&#8208;added chemicals becomes a significant challenge for clean energy study. Here we developed a stable and conductive covalent organic framework for electrocatalytic carbon dioxide reduction to carbon monoxide in aqueous solution. The cobalt(II) phthalocyanine catalysts are topologically connected via robust phenazine linkage into two&#8208;dimensional tetragonal framework that is stable under boiling water, acid, or base conditions. The 2D lattice enables full &#960; conjugation along&#160;  x  &#160;and&#160;  y  &#160;directions well as &#960; conduction along the&#160;  z  &#160;axis across the &#960; columns. With these structural features, the electrocatalytic framework exhibits a farad a ic efficiency of 96%, an exceptional turnover number up to 320,000 and a long&#8208;term turnover frequency of 11,412 hour  &#8722;1  , which is 32&#8208;fold increment compared to molecular catalyst. The combination of&#160; catalytic&#160; activity, selectivity, efficiency, and durability is desirable for clean energy production.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Stable and Conductive Metallophthalocyanine Framework for Electrocatalytic Carbon Dioxide Reduction in Water</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005274</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-20T10:44:35-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005274</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005274?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202003538?af=R">
       <title>Toward M&#246;bius and Tubular Cyclopolyarene Nanorings via Arylbutadiyne Macrocycles</title>
       <dc:description>By harnessing a highly efficient metal&#8208;catalysed tandem cycloaddition reaction as the key benzannulation step, a series of cyclopolyarene nanorings of varied sizes are obtained from poly(arylene&#8208;butadiynylene) macrocyclic precursors, which can be synthesized relatively conveniently. Interestingly, due to the nonparallel bond connectivity of the repeat unit, unique M&#246;bius topology is manifested by the cyclopolyarene nanorings composed of an odd number of repeat units, whereas cylindrical tubular structures with radial conjugation are formed with those consisting of an even number of repeat units.</dc:description>
@@ -2238,32 +2263,5 @@ Xun Wang
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201910741?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202004853?af=R">
-      <title>Synergistic Dual&#8208;Additives Electrolyte enables Practical Lithium Metal Batteries</title>
-      <dc:description>Rechargeable Li metal anode coupling with high&#8208;voltage cathodes is a promising tendency for high&#8208;energy&#8208;density batteries exceeding 300 Wh kg&#8208;1. However, achieving long lifespan under realistic conditions remains a &#8220;Gordian knot&#8221; for practical&#8208;used cells because of the low Li reversibility and electrolyte exhaustion. Here, we report an advancing dual&#8208;additives electrolyte containing unique solvation structure of tris(pentafluorophenyl)borane additives and lithium nitrate (LiNO3) in carbonate&#8208;based electrolyte, which can generate the outer&#8208;Li2O robust solid electrolyte interface and F&#8208;,B&#8208;containing conformal cathode electrolyte interphase. The resulting stable ion transport kinetics enables excellent cycling of Li/LiNi0.8Mn0.1Co0.1O2 for 140 cycles with 80% capacity retention under highly challenging conditions (~295.1 Wh kg&#8208;1 at cell&#8208;level). The electrolyte also exhibits high cycling stability for 4.6&#8201;V LiCoO2 (160 cycles with 89.8% capacity retention) and 4.95V LiNi0.5Mn1.5O4 cathode.</dc:description>
-      <dc:creator>
-Siyuan Li, 
-Weidong Zhang, 
-Qian Wu, 
-Lei Fan, 
-Xinyang Wang, 
-Xiao Wang, 
-Zeyu Shen, 
-Yi He, 
-Yingying Lu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004853?af=R</link>
-      <content:encoded>&lt;p&gt;Rechargeable Li metal anode coupling with high&#8208;voltage cathodes is a promising tendency for high&#8208;energy&#8208;density batteries exceeding 300 Wh kg&#8208;1. However, achieving long lifespan under realistic conditions remains a &#8220;Gordian knot&#8221; for practical&#8208;used cells because of the low Li reversibility and electrolyte exhaustion. Here, we report an advancing dual&#8208;additives electrolyte containing unique solvation structure of tris(pentafluorophenyl)borane additives and lithium nitrate (LiNO3) in carbonate&#8208;based electrolyte, which can generate the outer&#8208;Li2O robust solid electrolyte interface and F&#8208;,B&#8208;containing conformal cathode electrolyte interphase. The resulting stable ion transport kinetics enables excellent cycling of Li/LiNi0.8Mn0.1Co0.1O2 for 140 cycles with 80% capacity retention under highly challenging conditions (~295.1 Wh kg&#8208;1 at cell&#8208;level). The electrolyte also exhibits high cycling stability for 4.6&#8201;V LiCoO2 (160 cycles with 89.8% capacity retention) and 4.95V LiNi0.5Mn1.5O4 cathode.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Synergistic Dual&#8208;Additives Electrolyte enables Practical Lithium Metal Batteries</dc:title>
-      <dc:identifier>doi:10.1002/anie.202004853</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-05-15T01:57:32-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202004853</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004853?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    </rdf:RDF>
