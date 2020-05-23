@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005143?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006145?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004992?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004763?af=R" />
@@ -128,7 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002687?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201911609?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000940?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003732?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201915993?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000838?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201908573?af=R" />
@@ -203,6 +203,30 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202005143?af=R">
+      <title>A Blinking Mesoporous TiO2&#8208;x Composed of Nanosized Anatase with Unusually Long&#8208;Lived Trapped Charge Carriers</title>
+      <dc:description>A novel mesoporous TiO2&#8208;x material that is comprised of small, crystalline, vacancy&#8208;rich anatase nanoparticles that show unique optical, thermal and electronic properties is synthesized using polymer&#8208;derived mesoporous carbon (PDMC) as a template. The PDMC pores serve as physical barriers during the condensation and pyrolysis of a titania precursor, preventing the titania nanoparticles from growing beyond 10 nm in size. Unlike most titania nanomaterials, the particles remain in anatase phase and undergo no transition to rutile phase, and also become catalytically&#8208;active reduced TiO2&#8208;x, during pyrolysis. When exposed to a slow electron beam, the nanoparticles exhibit an unprecedented charge/discharge behavior, continuously lighting up and fading away for an average period of ca. 15 s, for an extended period of time. The nanoparticles also show a 50 nm&#8208;red&#8208;shift in their UV&#8208;vis absorption and long&#8208;lived charge carriers (electrons and holes) at room temperature in the dark, even long after UV irradiation. The potential of the new anatase nanoparticles as photocatalysts is demonstrated using CO2 reduction, in which they show a good activity.</dc:description>
+      <dc:creator>
+Tewodros (Teddy) Asefa, 
+Tao Zhang, 
+Jingxiang Low, 
+Jiaguo Yu, 
+Alexei  M. Tyryshkin, 
+Eli&#353;ka Mikmekov&#225;
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005143?af=R</link>
+      <content:encoded>&lt;p&gt;A novel mesoporous TiO2&#8208;x material that is comprised of small, crystalline, vacancy&#8208;rich anatase nanoparticles that show unique optical, thermal and electronic properties is synthesized using polymer&#8208;derived mesoporous carbon (PDMC) as a template. The PDMC pores serve as physical barriers during the condensation and pyrolysis of a titania precursor, preventing the titania nanoparticles from growing beyond 10 nm in size. Unlike most titania nanomaterials, the particles remain in anatase phase and undergo no transition to rutile phase, and also become catalytically&#8208;active reduced TiO2&#8208;x, during pyrolysis. When exposed to a slow electron beam, the nanoparticles exhibit an unprecedented charge/discharge behavior, continuously lighting up and fading away for an average period of ca. 15 s, for an extended period of time. The nanoparticles also show a 50 nm&#8208;red&#8208;shift in their UV&#8208;vis absorption and long&#8208;lived charge carriers (electrons and holes) at room temperature in the dark, even long after UV irradiation. The potential of the new anatase nanoparticles as photocatalysts is demonstrated using CO2 reduction, in which they show a good activity.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Blinking Mesoporous TiO2&#8208;x Composed of Nanosized Anatase with Unusually Long&#8208;Lived Trapped Charge Carriers</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005143</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-22T10:26:06-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005143</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005143?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202006145?af=R">
       <title>Adaptive flexible sialylated nanogels as highly potent influenza A virus inhibitors</title>
       <dc:description>Flexible multivalent 3&#8208;D nanosystems which can deform and adapt onto the virus surface via specific ligand&#8208;receptor multivalent interactions can efficiently block the virus adhesion onto the cell. We here report on the synthesis of a 250 nm sized flexible sialylated nanogel which adapts onto the influenza A virus (IAV) surface via multivalent binding of its sialic acid (SA) residues with hemagglutinin spike proteins on the virus surface. We could demonstrate that the high flexibility of SA residues in the flexible nanogel improves IAV inhibition by 400 times as compared to a rigid sialylated nanogel in the hemagglutination inhibition assay. The flexible sialylated nanogel efficiently inhibits the Influenza A/X31 (H3N2) infection with IC50  values in low picomolar concentrations and also blocks the virus entry into MDCK&#8208;II cells.</dc:description>
@@ -1643,38 +1667,6 @@ Xiwang Zhang
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911609?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202003732?af=R">
-      <title>PI by NMR: Probing CH&#8208;&#960; Interactions in Protein&#8208;Ligand Complexes by NMR</title>
-      <dc:description>While CH&#8208;&#960;&#8208;interactions with target proteins are crucial determinants for the affinity of arguably every drug molecule, no method exists to directly measure the strength of individual CH&#8208;&#960; interactions in drug&#8208;protein complexes. Here we present a fast and reliable methodology called PI (&#960; interactions) by NMR, which can differentiate the strength of protein&#8208;ligand CH&#8208;&#960; interactions in solution. By combining selective amino&#8208;acid side&#8208;chain labeling with  1  H&#8208;  13  C NMR, we are able to identify specific protein protons of side&#8208;chains engaged in CH&#8208;&#960; interactions with aromatic ring&#8208;systems of a ligand, based solely on  1  H chemical shift values of the interacting protein aromatic ring protons. The information encoded in the chemical shifts induced by such interactions serves as a proxy for the strength of each individual CH&#8208;&#960; interaction. PI by NMR changes the paradigm by which chemists can optimize the potency of drug candidates: direct determination of individual &#960;&#8208;interactions rather than averaged measures of all interactions.</dc:description>
-      <dc:creator>
-Gerald Platzer, 
-Moriz Mayer, 
-Andreas Beier, 
-Sven Br&#252;schweiler, 
-Julian  E. Fuchs, 
-Harald Engelhardt, 
-Leonhard Geist, 
-Gerd Bader, 
-Julia Sch&#246;rghuber, 
-Roman Lichtenecker, 
-Bernhard Wolkersdorfer, 
-Dirk Kessler, 
-Darryl  B. McConnell, 
-Robert Konrat
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003732?af=R</link>
-      <content:encoded>&lt;p&gt;While CH&#8208;&#960;&#8208;interactions with target proteins are crucial determinants for the affinity of arguably every drug molecule, no method exists to directly measure the strength of individual CH&#8208;&#960; interactions in drug&#8208;protein complexes. Here we present a fast and reliable methodology called PI (&#960; interactions) by NMR, which can differentiate the strength of protein&#8208;ligand CH&#8208;&#960; interactions in solution. By combining selective amino&#8208;acid side&#8208;chain labeling with  1  H&#8208;  13  C NMR, we are able to identify specific protein protons of side&#8208;chains engaged in CH&#8208;&#960; interactions with aromatic ring&#8208;systems of a ligand, based solely on  1  H chemical shift values of the interacting protein aromatic ring protons. The information encoded in the chemical shifts induced by such interactions serves as a proxy for the strength of each individual CH&#8208;&#960; interaction. PI by NMR changes the paradigm by which chemists can optimize the potency of drug candidates: direct determination of individual &#960;&#8208;interactions rather than averaged measures of all interactions.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>PI by NMR: Probing CH&#8208;&#960; Interactions in Protein&#8208;Ligand Complexes by NMR</dc:title>
-      <dc:identifier>doi:10.1002/anie.202003732</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-05-18T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202003732</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003732?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.201915993?af=R">
       <title>Oppositely Charged Ti3C2Tx MXene Membranes with 2D Nanofluidic Channels for Osmotic Energy Harvesting</title>
