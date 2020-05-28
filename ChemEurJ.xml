@@ -9,6 +9,13 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001662?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002581?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002048?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000763?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002330?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000809?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.201905447?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001729?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001766?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001695?af=R" />
@@ -102,13 +109,13 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001703?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001893?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001623?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001572?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001112?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000091?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002204?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002478?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001295?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001723?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001572?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.201905511?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001126?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000026?af=R" />
@@ -121,7 +128,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002469?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001951?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001671?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001818?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001594?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002065?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001237?af=R" />
@@ -131,11 +137,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001792?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000474?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002164?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001818?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002088?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002330?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002331?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001841?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002308?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001115?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000739?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000075?af=R" />
@@ -157,10 +161,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000933?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000867?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000337?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000436?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001324?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000195?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.201905217?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -169,6 +169,82 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202001662?af=R">
+      <title>FeIII and FeII Phosphasalen Complexes: Synthesis, Characterization, and Catalytic Application for 2&#8208;Naphtol Oxidative Coupling</title>
+      <dc:description>We report on the synthesis and characterization of three iron(III) phosphasalen complexes,  [Fe  III  (Psalen)(X)]  differing in the nature of the counter&#8208;anion/exogenous ligand (X  &#8208;  = Cl  &#8208;  , NO  3  &#8208;  , OTf  &#8208;  ), as well as the neutral iron(II) analogue,  [Fe  II  (Psalen)]  . Phosphasalen (Psalen) differs from salen by the presence of iminophosphorane (P=N) functions in place of the imines. All the complexes were characterized by single&#8208;crystal X&#8208;ray diffraction, UV&#8208;vis, EPR, and cyclic voltammetry. The [Fe  II  (Psalen)] complex was shown to remain tetracoordinated even in coordinating solvent but exhibits surprisingly a magnetic moment in line with a Fe  II  high spin ground state. For the Fe  III  complexes, the higher lability of triflate anion compared to nitrate was demonstrated. As they exhibit lower reduction potentials compared to their salen analogues, these complexes were tested for the coupling of 2&#8208;naphtol using O  2  from air as oxidant. In order to shed light on this reaction, the interaction between 2&#8208;napthol and the Fe  III  (Psalen) complexes was studied by cyclic voltammetry as well as UV&#8208;vis spectrosocopy.</dc:description>
+      <dc:creator>
+Emmanuel Oheix, 
+Christian Herrero, 
+Jules Moutet, 
+Jean-No&#235;l Rebilly, 
+Marie Cordier, 
+R&#233;gis Guillot, 
+Sophie Bourcier, 
+Fr&#233;d&#233;ric Banse, 
+Katell S&#233;n&#233;chal-David, 
+Audrey Auffrant
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001662?af=R</link>
+      <content:encoded>&lt;p&gt;We report on the synthesis and characterization of three iron(III) phosphasalen complexes,  [Fe  III  (Psalen)(X)]  differing in the nature of the counter&#8208;anion/exogenous ligand (X  &#8208;  = Cl  &#8208;  , NO  3  &#8208;  , OTf  &#8208;  ), as well as the neutral iron(II) analogue,  [Fe  II  (Psalen)]  . Phosphasalen (Psalen) differs from salen by the presence of iminophosphorane (P=N) functions in place of the imines. All the complexes were characterized by single&#8208;crystal X&#8208;ray diffraction, UV&#8208;vis, EPR, and cyclic voltammetry. The [Fe  II  (Psalen)] complex was shown to remain tetracoordinated even in coordinating solvent but exhibits surprisingly a magnetic moment in line with a Fe  II  high spin ground state. For the Fe  III  complexes, the higher lability of triflate anion compared to nitrate was demonstrated. As they exhibit lower reduction potentials compared to their salen analogues, these complexes were tested for the coupling of 2&#8208;naphtol using O  2  from air as oxidant. In order to shed light on this reaction, the interaction between 2&#8208;napthol and the Fe  III  (Psalen) complexes was studied by cyclic voltammetry as well as UV&#8208;vis spectrosocopy.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>FeIII and FeII Phosphasalen Complexes: Synthesis, Characterization, and Catalytic Application for 2&#8208;Naphtol Oxidative Coupling</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001662</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-05-28T07:04:59-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001662</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001662?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002581?af=R">
+      <title>Photochemical Approach to the Cyclohepta[b]indole Scaffold by Annulative Two&#8208;Carbon Ring&#8208;Expansion</title>
+      <dc:description>We report on the implementation of the concept of a photochemically elicited two&#8208;carbon homologation of a &#960; &#8208;donor &#8211;&#960; &#8208;acceptor substituted chromophore by triple bond insertion. Implementing a phenyl connector between the slide&#8208;in module and the chromophore enabled the synthesis of cylohepta[ b ]indole&#8208;type building blocks by a metal&#8208;free annulative one&#8208;pot two&#8208;carbon ring expansion of the five&#8208;membered chromophore. Post&#8208;irradiative structural elaboration provided founding members of the indolo[2,3&#8208; d ]tropone family of compounds. Control experiments in combination with computational chemistry on this multi&#8208;bond reorganization process founded the basis for a mechanistic hypothesis.</dc:description>
+      <dc:creator>
+Martin Hiersemann, 
+David Tymann, 
+Dina  Christina Tymann, 
+Lars Benedix, 
+Ljuba Iovkova, 
+Roman Pallach, 
+Sebastian Henke
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002581?af=R</link>
+      <content:encoded>&lt;p&gt;We report on the implementation of the concept of a photochemically elicited two&#8208;carbon homologation of a &#960; &#8208;donor &#8211;&#960; &#8208;acceptor substituted chromophore by triple bond insertion. Implementing a phenyl connector between the slide&#8208;in module and the chromophore enabled the synthesis of cylohepta[ b ]indole&#8208;type building blocks by a metal&#8208;free annulative one&#8208;pot two&#8208;carbon ring expansion of the five&#8208;membered chromophore. Post&#8208;irradiative structural elaboration provided founding members of the indolo[2,3&#8208; d ]tropone family of compounds. Control experiments in combination with computational chemistry on this multi&#8208;bond reorganization process founded the basis for a mechanistic hypothesis.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Photochemical Approach to the Cyclohepta[b]indole Scaffold by Annulative Two&#8208;Carbon Ring&#8208;Expansion</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002581</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-05-28T06:06:03-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002581</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002581?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002048?af=R">
+      <title>Selective Release of Doxorubicin from Cucurbit[8]uril Stabilized Gold Supra&#8208;pyramid&#160;Host at pH of Small Intestine</title>
+      <dc:description>Gold supra&#8208;pyramid structures were obtained by the addition of acidic solution of cucurbit[8]uril (CB[8]) to an aqueous solution of citrate stabilized gold nanoparticles (AuNP). The reaction resulted in the precipitation of supra&#8208;pyramid from the solution just after 1 min of shaking. Microscopic images confirmed formation of supra&#8208;pyramid. The stepwise structural transformation towards supra&#8208;pyramid was examined with variable concentration of CB[8] to AuNP solution. Anionic counter parts of these acids (Br&#8211;, NO3&#8211;, SO42&#8211;&#160;and Cl&#8211;) controlled the size of the synthesized supra&#8208;pyramids. These supra&#8208;pyramid hosts showed uptake of three anticancer drugs: oral drugs etoposide, prednisolone and intravenous drug doxorubicin. Releases of drugs from these hosts were emulated at acidic stomach pH, basic small intestinal pH and in presence of human serum albumin (HSA). The specific release of doxorubicin was confirmed at small intestinal pH 7.4. Poor release of drugs in presence of CB[8] specific guest 1&#8208;adamantanamine confirmed the role of supra&#8208;pyramid as exclusive host. The release of doxorubicin from supra&#8208;pyramid at pH 7.4 was confirmed by fluorescence microscopic imaging with prostate cancer DU&#8208;145 cell line.</dc:description>
+      <dc:creator>
+Meenaxi Saini, 
+Souvik Ghosh, 
+Viney Kumar, 
+Partha Roy, 
+Kalyan  K. Sadhu
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002048?af=R</link>
+      <content:encoded>&lt;p&gt;Gold supra&#8208;pyramid structures were obtained by the addition of acidic solution of cucurbit[8]uril (CB[8]) to an aqueous solution of citrate stabilized gold nanoparticles (AuNP). The reaction resulted in the precipitation of supra&#8208;pyramid from the solution just after 1 min of shaking. Microscopic images confirmed formation of supra&#8208;pyramid. The stepwise structural transformation towards supra&#8208;pyramid was examined with variable concentration of CB[8] to AuNP solution. Anionic counter parts of these acids (Br&#8211;, NO3&#8211;, SO42&#8211;&#160;and Cl&#8211;) controlled the size of the synthesized supra&#8208;pyramids. These supra&#8208;pyramid hosts showed uptake of three anticancer drugs: oral drugs etoposide, prednisolone and intravenous drug doxorubicin. Releases of drugs from these hosts were emulated at acidic stomach pH, basic small intestinal pH and in presence of human serum albumin (HSA). The specific release of doxorubicin was confirmed at small intestinal pH 7.4. Poor release of drugs in presence of CB[8] specific guest 1&#8208;adamantanamine confirmed the role of supra&#8208;pyramid as exclusive host. The release of doxorubicin from supra&#8208;pyramid at pH 7.4 was confirmed by fluorescence microscopic imaging with prostate cancer DU&#8208;145 cell line.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Selective Release of Doxorubicin from Cucurbit[8]uril Stabilized Gold Supra&#8208;pyramid&#160;Host at pH of Small Intestine</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002048</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-05-28T04:04:40-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002048</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002048?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202001729?af=R">
       <title>Highly Elastic Slide&#8208;Ring Hydrogel with Good Recovery as Stretchable Supercapacitor</title>
       <dc:description>As a new material with excellent mechanical properties and good stability, slide&#8208;ring gels have attracted more and more attention and research. However, it cannot be widely used due to its relatively complicated synthesis. Herein, we use 6&#8211;acrylamidomethylether&#8208;modified &#945;&#8208;cyclodextrin (&#945;CDAAmMe) and PEG 20000 diacrylate (PEG 20000 DA) to construct a polypseudorotaxane. Then, the polypseudorotaxane reacts with acrylamide via a photo&#8208;initiated polymerization in&#8208;situ to conveniently obtain a slide&#8208;ring hydrogel with good elastic property and high recovery property. That is, the hydrogel can be easily stretched to 22.5 times of its original length but recovered rapidly and almost reversibly. These results enable the application of hydrogel to make an intrinsically stretchable and compressible supercapacitor after doping ions and the adhesion of commercially available carbon nanotube (CNT) paper as electrodes, giving the ionic conductivity as 17.0 mS/cm (comparable to that of the commercial PVA/H3PO4 electrolyte) and the capacitance as 0.87 uF/cm2 (at the scan speed of 100 mV/s), and its capacitance can be further enhanced under the stretching.</dc:description>
@@ -1648,30 +1724,6 @@ Pedro  M. P. Gois
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001572?af=R">
-      <title>The dimeric form of 1,3&#8208;diaminoisoquinoline derivative rescued the mis&#8208;splicing of Atp2a1 and Clcn1 genes in myotonic dystrophy type 1 mouse model</title>
-      <dc:description>Expanded CUG repeat RNA in the dystrophia myotonia protein kinase (DMPK) gene causes myotonic dystrophy type 1 (DM1) and sequesters RNA processing proteins, such as the splicing factor muscleblind&#8208;like 1 protein (MBNL1). Sequestration of splicing factors results in the mis&#8208;splicing of some pre&#8208;mRNAs. Small molecules that rescue the mis&#8208;splicing in the DM1 cells have drawn attention as potential drugs to treat DM1. Herein we report a new molecule JM642 consisted of two 1,3&#8208;diaminoisoquinoline chromophores having an auxiliary aromatic unit at the C5 position. JM642 alternates the splicing pattern of the pre&#8208;mRNA of the Ldb3 gene in the DM1 cell model and Clcn1 and Atp2a1 genes in the DM1 mouse model. In vitro binding analysis by surface plasmon resonance (SPR) assay to the r(CUG) repeat and disruption of ribonuclear foci in the DM1 cell model suggested the binding of JM642 to the expanded r(CUG) repeat in vivo, eventually rescue the mis&#8208;splicing.</dc:description>
-      <dc:creator>
-Kazuhiko Nakatani, 
-Jun Matsumoto, 
-Masayuki Nakamori, 
-Tatsumasa Okamoto, 
-Asako Murata, 
-Chikara Dohno
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001572?af=R</link>
-      <content:encoded>&lt;p&gt;Expanded CUG repeat RNA in the dystrophia myotonia protein kinase (DMPK) gene causes myotonic dystrophy type 1 (DM1) and sequesters RNA processing proteins, such as the splicing factor muscleblind&#8208;like 1 protein (MBNL1). Sequestration of splicing factors results in the mis&#8208;splicing of some pre&#8208;mRNAs. Small molecules that rescue the mis&#8208;splicing in the DM1 cells have drawn attention as potential drugs to treat DM1. Herein we report a new molecule JM642 consisted of two 1,3&#8208;diaminoisoquinoline chromophores having an auxiliary aromatic unit at the C5 position. JM642 alternates the splicing pattern of the pre&#8208;mRNA of the Ldb3 gene in the DM1 cell model and Clcn1 and Atp2a1 genes in the DM1 mouse model. In vitro binding analysis by surface plasmon resonance (SPR) assay to the r(CUG) repeat and disruption of ribonuclear foci in the DM1 cell model suggested the binding of JM642 to the expanded r(CUG) repeat in vivo, eventually rescue the mis&#8208;splicing.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>The dimeric form of 1,3&#8208;diaminoisoquinoline derivative rescued the mis&#8208;splicing of Atp2a1 and Clcn1 genes in myotonic dystrophy type 1 mouse model</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001572</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-05-25T04:27:24-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001572</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001572?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002204?af=R">
       <title>Ir(III)&#8208;Catalyzed Selective ortho&#8208;Monoiodination of Benzoic Acids with Unbiased C&#8208;H Bonds</title>
       <dc:description>An iridium&#8208;catalyzed selective ortho&#8208; monoiodination of benzoic acids with two equivalent C &#8208; H bonds is presented. A wide range of electron&#8208;rich and electron&#8208;poor substrates undergo the reaction under mild conditions, with no requirement for an inert atmosphere or heating. Importantly, the C &#8208; H iodination occurs selectively ortho to the carboxylic acid moiety in substrates bearing competing coordinating directing groups. Mechanistic investigations revealed a substrate&#8208;dependent reversible C&#8211;H activation/ protodemetalation step and a substrate&#8208;dependent turnover&#8208;limiting step .</dc:description>
@@ -1968,29 +2020,6 @@ Kingo Uchida
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001818?af=R">
-      <title>Enhancing tris(pyrazolyl)borate&#8208;based models of cysteine/cysteamine dioxygenases via the sterics &#8211; increased reactivities, full product characterization and hints to initial superoxide formation</title>
-      <dc:description>The design of biomimetic model complexes for the cysteine dioxygenase (CDO) and cysteamine dioxygenase (ADO) are reported, where the 3&#8208;His coordination of the iron ion is simulated by three pyrazole donors of a trispyrazolyl borate ligand (Tp) and protected cysteine and cysteamine represent substrate ligands. It is found that the replacement of phenyl groups &#8208; attached at the 3&#8208;positions of the pyrazole units in a previous model &#8208; by mesityl residues has massive consequences, as the latter arrange to a more spacious reaction pocket. Thus, the reaction with O  2  proceeds much faster and afterwards the first structural characterization of an iron(II)  h  2  &#8208;  O  ,  O  &#8208;sulfinate product became possible. If one of the three Tp&#8208;mesityl groups is placed in the 5&#8208;position, an even larger reaction pocket results, which leads to yet faster rates and accumulation of a reaction intermediate at low temperatures, as shown by UV&#8208;Vis and M&#246;ssbauer spectroscopy. After comparison with the results of investigations on the cobalt analogues this intermediate is tentatively assigned to an iron(III) superoxide species.</dc:description>
-      <dc:creator>
-Christian Limberg, 
-Lars M&#252;ller, 
-Santina Hoof, 
-Matthias Keck, 
-Christian Herwig
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001818?af=R</link>
-      <content:encoded>&lt;p&gt;The design of biomimetic model complexes for the cysteine dioxygenase (CDO) and cysteamine dioxygenase (ADO) are reported, where the 3&#8208;His coordination of the iron ion is simulated by three pyrazole donors of a trispyrazolyl borate ligand (Tp) and protected cysteine and cysteamine represent substrate ligands. It is found that the replacement of phenyl groups &#8208; attached at the 3&#8208;positions of the pyrazole units in a previous model &#8208; by mesityl residues has massive consequences, as the latter arrange to a more spacious reaction pocket. Thus, the reaction with O  2  proceeds much faster and afterwards the first structural characterization of an iron(II)  h  2  &#8208;  O  ,  O  &#8208;sulfinate product became possible. If one of the three Tp&#8208;mesityl groups is placed in the 5&#8208;position, an even larger reaction pocket results, which leads to yet faster rates and accumulation of a reaction intermediate at low temperatures, as shown by UV&#8208;Vis and M&#246;ssbauer spectroscopy. After comparison with the results of investigations on the cobalt analogues this intermediate is tentatively assigned to an iron(III) superoxide species.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Enhancing tris(pyrazolyl)borate&#8208;based models of cysteine/cysteamine dioxygenases via the sterics &#8211; increased reactivities, full product characterization and hints to initial superoxide formation</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001818</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-05-20T04:44:11-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001818</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001818?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202001594?af=R">
       <title>Br&#248;nsted Acid&#8208;Catalyzed General Petasis Allylation and Isoprenylation of Unactivated Ketones</title>
       <dc:description>Br&#248;nsted acid&#8208;catalyzed general Petasis allylation and isoprenylation of unactivated ketones have been developed using  o  &#8208;hydroxyaniline and the corresponding pinacolyl boronic esters.&#160; This robust methodology has provided access to a broad variety of quaternary homoallylic amines and dienylamines in high yields, proved applicable to a gram&#8208;scale synthesis, and allowed the formation of a potentially bioactive quaternary homoallylic aminodiol.</dc:description>
@@ -2060,7 +2089,7 @@ Noor U. Din Reshi,
 Ashoka G. Samuelson
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000142?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/0afdaa5f-09dd-4379-a3da-47f7bb0872d6/chem202000142-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0afdaa5f-09dd-4379-a3da-47f7bb0872d6/chem202000142-toc-0001-m.png"
      alt="N&#8208;Heterocyclic Carbene (NHC)&#8208;Stabilized Ru0 Nanoparticles: In Situ Generation of an Efficient Transfer Hydrogenation Catalyst"/&gt;
 &lt;p&gt;&lt;b&gt;N&#8208;Heterocyclic carbene &lt;/b&gt; (NHC)&#8208;stabilized Ru&lt;sup&gt;0&lt;/sup&gt; nanoparticles (NPs) were generated in situ from tethered and untethered ruthenium half&#8208;sandwich complexes. These catalytically active Ru&lt;sup&gt;0&lt;/sup&gt; NPs were explored for transfer hydrogenation of aromatic ketones in 2&#8208;propanol. The transfer hydrogenation catalyzed by these NPs possess a high turnover number. The catalytic efficiency was significantly reduced if these NPs were exposed to air or allowed to aggregate and precipitate by cooling the reaction mixtures.
 
@@ -2105,7 +2134,7 @@ Aline M. Nonat,
 Graeme J. Stasiuk
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905776?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ea4a43f4-d1c5-4538-b163-8a06e814c2a8/chem201905776-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ea4a43f4-d1c5-4538-b163-8a06e814c2a8/chem201905776-toc-0001-m.png"
      alt="Evaluation of a Bispidine&#8208;Based Chelator for Gallium&#8208;68 and of the Porphyrin Conjugate as PET/PDT Theranostic Agent"/&gt;
 &lt;p&gt;&lt;b&gt;Go, go Gallium &lt;/b&gt;! In this study, a bispidine ligand has been applied to the complexation of gallium(III) and radiolabelled with gallium&#8208;68 for the first time. The resulting complex is stable in serum for over two hours, showing a ligand system perfectly matched to the imaging window of PET. To show the versatility of ligand the bifunctional chelator was conjugated to porphyrin, producing a PET/PDT&#8208;theranostic. This killed &amp;gt;90&#8201;% of HT&#8208;29 cells upon light irradiation at 100&#8197;&#956;&lt;span class="smallCaps"&gt;m &lt;/span&gt;.
 
@@ -2201,30 +2230,6 @@ Elizabeth New
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002330?af=R">
-      <title>Co Single&#8208;Atom Catalysts Boost Chemiluminescence</title>
-      <dc:description>Co single&#8208;atom catalysts (SACs) with good aqueous solubility and abundant labelling functional groups were prepared in Co/Fe bimetallic metal&#8208;organic frameworks by a facile solvothermal method without high&#8208;temperature calcination. Different from traditional chemiluminescence (CL) catalysts, Co SACs accelerated decomposition of H2O2  to produce a large amount of singlet oxygen (1O2) rather than superoxide (&#8226;O2&#8211;) and hydroxyl radical (OH&#8226;). They were found to dramatically enhance the CL emission of luminol&#8208;H2O2  reaction for 1349 times, and therefore employed as very sensitive signal probes for conducting CL immunoassay of cardiac troponin I. The detection limit of the target analyte was as low as 3.3 pg/mL. It is the first time to validate employment of SACs for boosting CL reaction. The Co SACs can also be employed to trace other biorecognition events with high sensitivity.</dc:description>
-      <dc:creator>
-Hui Ouyang, 
-Lvxia Zhang, 
-Shan Jiang, 
-Wenwen Wang, 
-Chengzhou Zhu, 
-Zhifeng Fu
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002330?af=R</link>
-      <content:encoded>&lt;p&gt;Co single&#8208;atom catalysts (SACs) with good aqueous solubility and abundant labelling functional groups were prepared in Co/Fe bimetallic metal&#8208;organic frameworks by a facile solvothermal method without high&#8208;temperature calcination. Different from traditional chemiluminescence (CL) catalysts, Co SACs accelerated decomposition of H2O2  to produce a large amount of singlet oxygen (1O2) rather than superoxide (&#8226;O2&#8211;) and hydroxyl radical (OH&#8226;). They were found to dramatically enhance the CL emission of luminol&#8208;H2O2  reaction for 1349 times, and therefore employed as very sensitive signal probes for conducting CL immunoassay of cardiac troponin I. The detection limit of the target analyte was as low as 3.3 pg/mL. It is the first time to validate employment of SACs for boosting CL reaction. The Co SACs can also be employed to trace other biorecognition events with high sensitivity.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Co Single&#8208;Atom Catalysts Boost Chemiluminescence</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002330</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-05-19T12:30:41-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002330</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002330?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002331?af=R">
       <title>An Ultra&#8208;microporous Metal Organic Framework with Exceptional Xe Capacity</title>
       <dc:description>Molecular confinement plays a significant effect on trapped gas and solvent molecules. A fundamental understanding of gas adsorption within the porous confinement provides information necessary to design a material with improved selectivity. In this regard, metal organic frameworks (MOFs) adsorbents are ideal candidate materials to study confinement effects for weakly interacting gas molecules such as noble gases. Among the noble gases, Xenon (Xe) has practical applications in the medical, automotive and aerospace industries. In this communication, we report an ultra&#8208;microporous nickel&#8208;isonicotinate MOF with exceptional Xe uptake and selectivity compared to all benchmark MOF and porous organic cage materials. The selectivity arises because of the near perfect fit of the atomic Xe inside the porous confinement. Notably, at low partial pressure, the Ni&#8208;MOF interacts very strongly with Xe compared to the closely related Krypton gas (Kr) and more polarizable CO 2 . Further 129 Xe NMR suggests a broad isotropic chemical shift due to the reduced motion as a result of confinement.</dc:description>
@@ -2251,65 +2256,6 @@ Rahul Maity
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202002331</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002331?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001841?af=R">
-      <title>Reactive compression molding post&#8208;inverse vulcanization: A method to assemble, recycle, and repurpose sulfur polymers and composites</title>
-      <dc:description>Inverse vulcanization provides dynamic and responsive materials made from elemental sulfur and unsaturated cross&#8208;linkers. These polymers have been used in a variety of applications such as energy storage, infrared optics, repairable materials, environmental remediation, and precision fertilizers. In spite of these advances, there is a need for methods to recycle and reprocess these polymers. In this study, polymers prepared by inverse vulcanization are shown to undergo reactive compression molding. In this process, the reactive interfaces of sulfur polymers are brought into contact by mechanical compression. Upon heating these molds at relatively low temperatures (~100 &#186;C), chemical bonding occurs at the polymer interfaces by S&#8208;S metathesis. This method of processing is distinct from previous studies on inverse vulcanization because the polymers examined in this study do not form a liquid phase when heated. Neither compression nor heating alone was sufficient to mold these polymers into new architectures, so this is a new concept in the manipulation of sulfur polymers. Additionally, high&#8208;level ab initio calculations revealed that the weakest S&#8208;S bond in organic polysulfides decreases linearly in strength from a sulfur rank of 2 to 4, but then remains constant at about ~100 kJ mol  &#8208;1  for higher sulfur rank. This is critical information in engineering these polymers for S&#8208;S metathesis. Guided by this insight, polymer repair, recycling, and repurposing into new composites was demonstrated.</dc:description>
-      <dc:creator>
-Nicholas Lundquist, 
-Alfrets Tikoalu, 
-Max Worthington, 
-Ryan Shapter, 
-Samuel Tonkin, 
-Filip Stojcevski, 
-Maximilian Mann, 
-Christopher Gibson, 
-Jason Gascooke, 
-Amir Karton, 
-Luke Henderson, 
-Louisa Esdaile, 
-Justin Chalker
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001841?af=R</link>
-      <content:encoded>&lt;p&gt;Inverse vulcanization provides dynamic and responsive materials made from elemental sulfur and unsaturated cross&#8208;linkers. These polymers have been used in a variety of applications such as energy storage, infrared optics, repairable materials, environmental remediation, and precision fertilizers. In spite of these advances, there is a need for methods to recycle and reprocess these polymers. In this study, polymers prepared by inverse vulcanization are shown to undergo reactive compression molding. In this process, the reactive interfaces of sulfur polymers are brought into contact by mechanical compression. Upon heating these molds at relatively low temperatures (~100 &#186;C), chemical bonding occurs at the polymer interfaces by S&#8208;S metathesis. This method of processing is distinct from previous studies on inverse vulcanization because the polymers examined in this study do not form a liquid phase when heated. Neither compression nor heating alone was sufficient to mold these polymers into new architectures, so this is a new concept in the manipulation of sulfur polymers. Additionally, high&#8208;level ab initio calculations revealed that the weakest S&#8208;S bond in organic polysulfides decreases linearly in strength from a sulfur rank of 2 to 4, but then remains constant at about ~100 kJ mol  &#8208;1  for higher sulfur rank. This is critical information in engineering these polymers for S&#8208;S metathesis. Guided by this insight, polymer repair, recycling, and repurposing into new composites was demonstrated.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Reactive compression molding post&#8208;inverse vulcanization: A method to assemble, recycle, and repurpose sulfur polymers and composites</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001841</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-05-19T12:30:15-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001841</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001841?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002308?af=R">
-      <title>N&#8208;Heterocyclic Carbenes Reduce and Functionalize Copper Oxide Surfaces in One Pot</title>
-      <dc:description>Benzimidazolium hydrogen carbonate salts have been shown to act as N&#8208;heterocyclic carbene precursors which can remove oxide from copper oxide surfaces and functionalize the resulting metallic surfaces in a single step. Both the surfaces and the etching products are fully characterized by spectroscopic methods. Analysis of surfaces before and after NHC treatment by X&#8208;ray photoelectron spectroscopy demonstrates the complete removal of copper(II) oxide. Using 13 C&#8208;labelling, we determine that the products of this transformation include a cyclic urea, a ring&#8208;opened formamide and a bis&#8208;carbene copper(I) complex. These results illustrate the potential of NHCs to functionalize a much broader class of metals, including those prone to oxide treatment, greatly facilitating the preparation of NHC&#8208;based films on metals other than gold.</dc:description>
-      <dc:creator>
-Alex Veinot, 
-Abrar Al-rashed, 
-J. Daniel Padmos, 
-Ishwar Singh, 
-Dianne  S. Lee, 
-Mina  R. Narouz, 
-Paul  A. Lummis, 
-Christopher  J. Baddeley, 
-Cathleen  Marie Crudden, 
-J. Hugh Horton
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002308?af=R</link>
-      <content:encoded>&lt;p&gt;Benzimidazolium hydrogen carbonate salts have been shown to act as N&#8208;heterocyclic carbene precursors which can remove oxide from copper oxide surfaces and functionalize the resulting metallic surfaces in a single step. Both the surfaces and the etching products are fully characterized by spectroscopic methods. Analysis of surfaces before and after NHC treatment by X&#8208;ray photoelectron spectroscopy demonstrates the complete removal of copper(II) oxide. Using 13 C&#8208;labelling, we determine that the products of this transformation include a cyclic urea, a ring&#8208;opened formamide and a bis&#8208;carbene copper(I) complex. These results illustrate the potential of NHCs to functionalize a much broader class of metals, including those prone to oxide treatment, greatly facilitating the preparation of NHC&#8208;based films on metals other than gold.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>N&#8208;Heterocyclic Carbenes Reduce and Functionalize Copper Oxide Surfaces in One Pot</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002308</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-05-19T12:30:14-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002308</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002308?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2340,7 +2286,7 @@ Attila Jancs&#243;,
 Lars Hemmingsen
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000132?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/69cdf2c7-ef59-44fa-846b-95de52b268fd/chem202000132-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/69cdf2c7-ef59-44fa-846b-95de52b268fd/chem202000132-toc-0001-m.png"
      alt="Flexibility of the CueR Metal Site Probed by Instantaneous Change of Element and Oxidation State from AgI to CdII"/&gt;
 &lt;p&gt;&lt;b&gt;Relax &lt;/b&gt;: Ag&lt;sup&gt;I&lt;/sup&gt; activates the transcriptional regulatory protein CueR, while Cd&lt;sup&gt;II&lt;/sup&gt; does not activate CueR. In this work the fact that &lt;sup&gt;111&lt;/sup&gt;Ag decays to &lt;sup&gt;111&lt;/sup&gt;Cd is exploited, to elucidate the subsequent relaxation at the metal site from transcriptional activator to repressor by PAC spectroscopy. Considerable metal site flexibility is observed, and it is hypothesized that this is relevant to the function of CueR.
 
@@ -2382,7 +2328,7 @@ Amrutha Prabodh,
 Frank Biedermann
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905633?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/752c3bcc-09a6-4f13-9c5f-0c7faee3af61/chem201905633-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/752c3bcc-09a6-4f13-9c5f-0c7faee3af61/chem201905633-toc-0001-m.png"
      alt="Kinetics and Mechanism of Cation&#8208;Induced Guest Release from Cucurbit[7]uril"/&gt;
 &lt;p&gt;&lt;b&gt;Contrasting mechanisms &lt;/b&gt;: Stopped&#8208;flow studies on the release of two organic guests from cucurbit[7]uril (CB7) in aqueous solutions of inorganic salts revealed two contrasting mechanisms. Whereas metal cations M&lt;sup&gt;
    &lt;i&gt;n &lt;/i&gt;+&lt;/sup&gt; promote the release of berberine (B&lt;sup&gt;+&lt;/sup&gt;) from CB7 in a multistep process, the expulsion of dicationic dye 2,7&#8208;dimethyldiazapyrenium has a simpler mechanism.
@@ -2428,7 +2374,7 @@ Ther&#233;se Klingstedt,
 K. Peter R. Nilsson
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905612?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/81a975e6-d16d-4839-9c15-98310c4af556/chem201905612-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/81a975e6-d16d-4839-9c15-98310c4af556/chem201905612-toc-0001-m.png"
      alt="Synthesis and Characterization of Thiophene&#8208;based Donor&#8211;Acceptor&#8211;Donor Heptameric Ligands for Spectral Assignment of Polymorphic Amyloid&#8208;&#946; Deposits"/&gt;
 &lt;p&gt;&lt;b&gt;Head or tail &lt;/b&gt;: Distinct periodicity of anionic charges along the conjugated backbone is an important chemical determinant for achieving thiophene&#8208;based donor&#8211;acceptor&#8211;donor heptameric ligands for spectral assignment of different amyloid&#8208;&#946; deposits. Having the acetate side chains of the central trimeric thiophene&#8208;BTD&#8208;thiophene unit tail&#8208;to&#8208;tail instead of head&#8208;to&#8208;head greatly reduced the ability of the ligand to distinguish A&#946; morphotypes.
 
@@ -2470,7 +2416,7 @@ Hoi Ri Moon,
 Min Kim
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202000933?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f406545a-48ed-476d-8a16-f3b96caef37d/chem202000933-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/f406545a-48ed-476d-8a16-f3b96caef37d/chem202000933-toc-0001-m.png"
      alt="Surface&#8208;Deactivated Core&#8211;Shell Metal&#8211;Organic Framework by Simple Ligand Exchange for Enhanced Size Discrimination in Aerobic Oxidation of Alcohols"/&gt;
 &lt;p&gt;&lt;b&gt;Site control &lt;/b&gt;: Removing catalytic sites near the surface of the MOF crystal allowed for enhanced size discrimination of the reactants thus improving selectivity.
 
@@ -2490,44 +2436,4 @@ Min Kim
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.201905217?af=R">
-      <title>Overview of Synthetic Methods to Prepare Plasmonic Transition&#8208;Metal Nitride Nanoparticles</title>
-      <dc:description>
-Standout stability: The search for plasmonic materials that are low&#8208;cost, chemically and thermally stable, and exhibit low optical losses has attracted significant attention. Among new materials, plasmonic transition&#8208;metal nitride nanostructures are promising non&#8208;noble&#8208;metal alternatives. Herein, new synthetic techniques for the preparation of these materials are summarized.
-
-
-
-
-
-
-
-Abstract
-The search for new plasmonic materials that are low&#8208;cost, chemically and thermally stable, and exhibit low optical losses has garnered significant attention among researchers. Recently, metal nitrides have emerged as promising alternatives to conventional, noble&#8208;metal&#8208;based plasmonic materials, such as silver and gold. Many of the initial studies on metal nitrides have focused on computational prediction of the plasmonic properties of these materials. In recent years, several synthetic methods have been developed to enable empirical analysis. This review highlights synthetic techniques for the preparation of plasmonic metal nitride nanoparticles, which are predominantly free&#8208;standing, by using solid&#8208;state and solid&#8211;gas phase reactions, nonthermal and arc plasma methods, and laser ablation. The physical properties of the nanoparticles, such as shape, size, crystallinity, and optical response, obtained with such synthetic methods are also summarized.
-</dc:description>
-      <dc:creator>
-Reem A. Karaballi, 
-Yashar E. Monfared, 
-Mita Dasog
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905217?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a4e1a5c6-aafa-444c-99e7-c25ab4dc741c/chem201905217-toc-0001-m.png"
-     alt="Overview of Synthetic Methods to Prepare Plasmonic Transition&#8208;Metal Nitride Nanoparticles"/&gt;
-&lt;p&gt;&lt;b&gt;Standout stability &lt;/b&gt;: The search for plasmonic materials that are low&#8208;cost, chemically and thermally stable, and exhibit low optical losses has attracted significant attention. Among new materials, plasmonic transition&#8208;metal nitride nanostructures are promising non&#8208;noble&#8208;metal alternatives. Herein, new synthetic techniques for the preparation of these materials are summarized.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The search for new plasmonic materials that are low&#8208;cost, chemically and thermally stable, and exhibit low optical losses has garnered significant attention among researchers. Recently, metal nitrides have emerged as promising alternatives to conventional, noble&#8208;metal&#8208;based plasmonic materials, such as silver and gold. Many of the initial studies on metal nitrides have focused on computational prediction of the plasmonic properties of these materials. In recent years, several synthetic methods have been developed to enable empirical analysis. This review highlights synthetic techniques for the preparation of plasmonic metal nitride nanoparticles, which are predominantly free&#8208;standing, by using solid&#8208;state and solid&#8211;gas phase reactions, nonthermal and arc plasma methods, and laser ablation. The physical properties of the nanoparticles, such as shape, size, crystallinity, and optical response, obtained with such synthetic methods are also summarized.&lt;/p&gt;
-</content:encoded>
-      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
-      <dc:title>Overview of Synthetic Methods to Prepare Plasmonic Transition&#8208;Metal Nitride Nanoparticles</dc:title>
-      <dc:identifier>doi:10.1002/chem.201905217</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-05-14T01:59:54-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.201905217</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.201905217?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
