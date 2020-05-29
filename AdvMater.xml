@@ -9,8 +9,12 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000995?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000288?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001418?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001943?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001693?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000995?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000952?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002495?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000607?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001874?af=R" />
@@ -125,9 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001385?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000752?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001537?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001265?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002237?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907227?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908314?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907376?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201906889?af=R" />
@@ -156,7 +157,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907879?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000046?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908104?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001740?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001629?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070140?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070139?af=R" />
@@ -211,10 +211,10 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/adma.202000995?af=R">
-      <title>Blading Phase&#8208;Pure Formamidinium&#8208;Alloyed Perovskites for High&#8208;Efficiency Solar Cells with Low Photovoltage Deficit and Improved Stability</title>
+   <item rdf:about="/doi/abs/10.1002/adma.202000288?af=R">
+      <title>Cathode Architectures for Rechargeable Ion Batteries: Progress and Perspectives</title>
       <dc:description>
-A multifunctional conjugated benzene ammonium halide is introduced to enhance phase purity, reduce trap&#8208;state density, and suppress nonradiative charge recombination. Blade&#8208;coated solar cells based on stabilized formamidinium&#8208;dominant perovskite compositions deliver an impressive efficiency of 22.0% and an improved operational stability.
+High areal energy and power are mutually exclusive in thin&#8208;film electrodes but can be simultaneously acquired through designing 3D electrode architectures. The state&#8208;of&#8208;the&#8208;art progress of cathode architectures in various rechargeable ion battery technologies is summarized, focusing on different production strategies, areal loading, and mechanical understanding, and future research directions and prospects in this exciting field are discussed.
 
 
 
@@ -224,34 +224,129 @@ A multifunctional conjugated benzene ammonium halide is introduced to enhance ph
 
 
 Abstract
-Currently, blade&#8208;coated perovskite solar cells (PSCs) with high power conversion efficiencies (PCEs), that is, greater than 20%, normally employ methylammonium lead tri&#8208;iodide with a sub&#8208;optimal bandgap. Alloyed perovskites with formamidinium (FA) cation have narrower bandgap and thus enhance device photocurrent. However, FA&#8208;alloyed perovskites show low phase stability and high moisture sensitivity. Here, it is reported that incorporating 0.83 molar percent organic halide salts (OHs) into perovskite inks enables phase&#8208;pure, highly crystalline FA&#8208;alloyed perovskites with extraordinary optoelectronic properties. The OH molecules modulate the crystal growth, enhance the phase stability, passivate ionic defects at the surface and/or grain boundaries, and enhance the moisture stability of the perovskite film. A high efficiency of 22.0% under 1 sun illumination for blade&#8208;coated PSCs is demonstrated with an open&#8208;circuit voltage of 1.18 V, corresponding to a very small voltage deficit of 0.33 V, and significantly improved operational stability with 96% of the initial efficiency retained under one sun illumination for 500 h.
+To satisfy the rising demand for energy, battery electrodes with higher loading, to simultaneously increase areal energy and power, are necessary. Nevertheless, in conventional thin&#8208;film electrodes, there is mutual exclusion between energy (capacity) and power. Increasing the thickness of electrodes alone is not feasible since this will lead to reductions in ion&#8208;diffusion efficiency, as well as electrode flexibility. To address this difficulty, 3D electrode architectures, especially cathode architectures, are proposed to pave a new path for the design and optimization of battery devices. Recent research suggests that 3D cathode architectures may optimize the configuration and engineering processes of battery technologies. Herein, the state&#8208;of&#8208;the&#8208;art progress of cathode architectures in various rechargeable&#8208;ion&#8208;battery technologies is summarized. Emphasis is placed on the different architecture strategies, areal loading, and mechanical understanding of 3D electrodes. Upcoming research directions are further outlined for future development in this field.
 </dc:description>
       <dc:creator>
-Wu&#8208;Qiang Wu, 
-Peter N. Rudd, 
-Qi Wang, 
-Zhibin Yang, 
-Jinsong Huang
+Jiangfeng Ni, 
+Liang Li
 </dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000995?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/593bb8bb-53dd-4a19-aba6-d45e81de2e78/adma202000995-gra-0001-m.png"
-     alt="Blading Phase&#8208;Pure Formamidinium&#8208;Alloyed Perovskites for High&#8208;Efficiency Solar Cells with Low Photovoltage Deficit and Improved Stability"/&gt;
-&lt;p&gt;A multifunctional conjugated benzene ammonium halide is introduced to enhance phase purity, reduce trap&#8208;state density, and suppress nonradiative charge recombination. Blade&#8208;coated solar cells based on stabilized formamidinium&#8208;dominant perovskite compositions deliver an impressive efficiency of 22.0% and an improved operational stability.
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000288?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/887a84a2-20c2-4f96-ad25-86da98e2c16d/adma202000288-gra-0001-m.png"
+     alt="Cathode Architectures for Rechargeable Ion Batteries: Progress and Perspectives"/&gt;
+&lt;p&gt;High areal energy and power are mutually exclusive in thin&#8208;film electrodes but can be simultaneously acquired through designing 3D electrode architectures. The state&#8208;of&#8208;the&#8208;art progress of cathode architectures in various rechargeable ion battery technologies is summarized, focusing on different production strategies, areal loading, and mechanical understanding, and future research directions and prospects in this exciting field are discussed.
 
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Currently, blade&#8208;coated perovskite solar cells (PSCs) with high power conversion efficiencies (PCEs), that is, greater than 20%, normally employ methylammonium lead tri&#8208;iodide with a sub&#8208;optimal bandgap. Alloyed perovskites with formamidinium (FA) cation have narrower bandgap and thus enhance device photocurrent. However, FA&#8208;alloyed perovskites show low phase stability and high moisture sensitivity. Here, it is reported that incorporating 0.83 molar percent organic halide salts (OHs) into perovskite inks enables phase&#8208;pure, highly crystalline FA&#8208;alloyed perovskites with extraordinary optoelectronic properties. The OH molecules modulate the crystal growth, enhance the phase stability, passivate ionic defects at the surface and/or grain boundaries, and enhance the moisture stability of the perovskite film. A high efficiency of 22.0% under 1 sun illumination for blade&#8208;coated PSCs is demonstrated with an open&#8208;circuit voltage of 1.18 V, corresponding to a very small voltage deficit of 0.33 V, and significantly improved operational stability with 96% of the initial efficiency retained under one sun illumination for 500 h.&lt;/p&gt;
+&lt;p&gt;To satisfy the rising demand for energy, battery electrodes with higher loading, to simultaneously increase areal energy and power, are necessary. Nevertheless, in conventional thin&#8208;film electrodes, there is mutual exclusion between energy (capacity) and power. Increasing the thickness of electrodes alone is not feasible since this will lead to reductions in ion&#8208;diffusion efficiency, as well as electrode flexibility. To address this difficulty, 3D electrode architectures, especially cathode architectures, are proposed to pave a new path for the design and optimization of battery devices. Recent research suggests that 3D cathode architectures may optimize the configuration and engineering processes of battery technologies. Herein, the state&#8208;of&#8208;the&#8208;art progress of cathode architectures in various rechargeable&#8208;ion&#8208;battery technologies is summarized. Emphasis is placed on the different architecture strategies, areal loading, and mechanical understanding of 3D electrodes. Upcoming research directions are further outlined for future development in this field.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Blading Phase&#8208;Pure Formamidinium&#8208;Alloyed Perovskites for High&#8208;Efficiency Solar Cells with Low Photovoltage Deficit and Improved Stability</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000995</dc:identifier>
+      <dc:title>Cathode Architectures for Rechargeable Ion Batteries: Progress and Perspectives</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000288</dc:identifier>
       <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-28T10:41:23-07:00</dc:date>
+      <dc:date>2020-05-29T12:48:52-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000995</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000995?af=R</prism:url>
+      <prism:doi>10.1002/adma.202000288</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000288?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research News</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001418?af=R">
+      <title>Spatiotemporal Dielectric Metasurfaces for Unidirectional Propagation and Reconfigurable Steering of Terahertz Beams</title>
+      <dc:description>
+A spatiotemporal dielectric metasurface for unidirectional beam steering of terahertz radiation is experimentally demonstrated at an ultrafast timescale. Backscattering is eliminated under Kerker's condition, enabling highly directional terahertz beams. The optically tunable silicon&#8208;based spatiotemporal metasurface holds promise for designing low&#8208;loss, reconfigurable terahertz meta&#8208;antennas for sixth&#8208;generation wireless communication, ultrafast beam&#8208;forming, and data processing.
+
+
+
+
+
+
+
+
+Abstract
+Next&#8208;generation devices for low&#8208;latency and seamless communication are envisioned to revolutionize information processing, which would directly impact human lives, technologies, and societies. The ever&#8208;increasing demand for wireless data traffic can be fulfilled by the terahertz band, which has received tremendous attention as the final frontier of the radio spectrum. However, attenuation due to atmospheric humidity and free&#8208;space path loss significantly limits terahertz signal propagation. High&#8208;gain antennas with directional radiation and reconfigurable beam steering are indispensable for loss compensation and terahertz signal processing, which are associated with spatial and temporal dimensions, respectively. Here, experimental demonstration of a spatiotemporal dielectric metasurface for unidirectional propagation and ultrafast spatial beam steering of terahertz waves is shown. The spatial dimension of the metasurface provides a solution to eliminate backscattering of collimated unidirectional propagation of the terahertz wave with steerable directionality. Temporal modulation of the spatial optical properties enables ultrafast reconfigurable beam steering. Silicon&#8208;based spatiotemporal devices amalgamate the rich physics of metasurfaces and technologies that are promising for overcoming the bottlenecks of future terahertz communication, such as high&#8208;speed and secure wireless data transmission, beamforming and ultrafast data processing.
+</dc:description>
+      <dc:creator>
+Longqing Cong, 
+Ranjan Singh
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001418?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4430a967-4788-4b07-b68b-64c28843d8cf/adma202001418-gra-0001-m.png"
+     alt="Spatiotemporal Dielectric Metasurfaces for Unidirectional Propagation and Reconfigurable Steering of Terahertz Beams"/&gt;
+&lt;p&gt;A spatiotemporal dielectric metasurface for unidirectional beam steering of terahertz radiation is experimentally demonstrated at an ultrafast timescale. Backscattering is eliminated under Kerker's condition, enabling highly directional terahertz beams. The optically tunable silicon&#8208;based spatiotemporal metasurface holds promise for designing low&#8208;loss, reconfigurable terahertz meta&#8208;antennas for sixth&#8208;generation wireless communication, ultrafast beam&#8208;forming, and data processing.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Next&#8208;generation devices for low&#8208;latency and seamless communication are envisioned to revolutionize information processing, which would directly impact human lives, technologies, and societies. The ever&#8208;increasing demand for wireless data traffic can be fulfilled by the terahertz band, which has received tremendous attention as the final frontier of the radio spectrum. However, attenuation due to atmospheric humidity and free&#8208;space path loss significantly limits terahertz signal propagation. High&#8208;gain antennas with directional radiation and reconfigurable beam steering are indispensable for loss compensation and terahertz signal processing, which are associated with spatial and temporal dimensions, respectively. Here, experimental demonstration of a spatiotemporal dielectric metasurface for unidirectional propagation and ultrafast spatial beam steering of terahertz waves is shown. The spatial dimension of the metasurface provides a solution to eliminate backscattering of collimated unidirectional propagation of the terahertz wave with steerable directionality. Temporal modulation of the spatial optical properties enables ultrafast reconfigurable beam steering. Silicon&#8208;based spatiotemporal devices amalgamate the rich physics of metasurfaces and technologies that are promising for overcoming the bottlenecks of future terahertz communication, such as high&#8208;speed and secure wireless data transmission, beamforming and ultrafast data processing.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Spatiotemporal Dielectric Metasurfaces for Unidirectional Propagation and Reconfigurable Steering of Terahertz Beams</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001418</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-28T10:45:05-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001418</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001418?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001943?af=R">
+      <title>Ultralow Voltage Manipulation of Ferromagnetism</title>
+      <dc:description>
+Spintronic elements based on spin transfer torque have emerged with potential for on&#8208;chip memory, but they suffer from large energy dissipation. Magneto&#8208;electric switching of a magnetoresistive element operating at or below 200 mV with a pathway to reduce a switching energy density to &#8776;10 &#181;J cm&#8208;2 is shown. This work provides a template to achieve attojoule&#8208;class nonvolatile memories.
+
+
+
+
+
+
+
+
+Abstract
+Spintronic elements based on spin transfer torque have emerged with potential for on&#8208;chip memory, but they suffer from large energy dissipation due to the large current densities required. In contrast, an electric&#8208;field&#8208;driven magneto&#8208;electric storage element can operate with capacitive displacement charge and potentially reach 1&#8211;10 &#181;J cm&#8722;2 switching operation. Here, magneto&#8208;electric switching of a magnetoresistive element is shown, operating at or below 200 mV, with a pathway to get down to 100 mV. A combination of phase detuning is utilized via isovalent La substitution and thickness scaling in multiferroic BiFeO3 to scale the switching energy density to &#8776;10 &#181;J cm&#8722;2. This work provides a template to achieve attojoule&#8208;class nonvolatile memories.
+</dc:description>
+      <dc:creator>
+Bhagwati Prasad, 
+Yen&#8208;Lin Huang, 
+Rajesh V. Chopdekar, 
+Zuhuang Chen, 
+James Steffes, 
+Sujit Das, 
+Qian Li, 
+Mengmeng Yang, 
+Chia&#8208;Ching Lin, 
+Tanay Gosavi, 
+Dmitri E. Nikonov, 
+Zi Qiang Qiu, 
+Lane W. Martin, 
+Bryan D Huey, 
+Ian Young, 
+Jorge &#205;&#241;iguez, 
+Sasikanth Manipatruni, 
+Ramamoorthy Ramesh
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001943?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/913e8dc0-6bd5-4076-833a-94df8ee8df42/adma202001943-gra-0001-m.png"
+     alt="Ultralow Voltage Manipulation of Ferromagnetism"/&gt;
+&lt;p&gt;Spintronic elements based on spin transfer torque have emerged with potential for on&#8208;chip memory, but they suffer from large energy dissipation. Magneto&#8208;electric switching of a magnetoresistive element operating at or below 200 mV with a pathway to reduce a switching energy density to &#8776;10 &#181;J cm&lt;sup&gt;&#8208;2&lt;/sup&gt; is shown. This work provides a template to achieve attojoule&#8208;class nonvolatile memories.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Spintronic elements based on spin transfer torque have emerged with potential for on&#8208;chip memory, but they suffer from large energy dissipation due to the large current densities required. In contrast, an electric&#8208;field&#8208;driven magneto&#8208;electric storage element can operate with capacitive displacement charge and potentially reach 1&#8211;10 &#181;J cm&lt;sup&gt;&#8722;2&lt;/sup&gt; switching operation. Here, magneto&#8208;electric switching of a magnetoresistive element is shown, operating at or below 200 mV, with a pathway to get down to 100 mV. A combination of phase detuning is utilized via isovalent La substitution and thickness scaling in multiferroic BiFeO&lt;sub&gt;3&lt;/sub&gt; to scale the switching energy density to &#8776;10 &#181;J cm&lt;sup&gt;&#8722;2&lt;/sup&gt;. This work provides a template to achieve attojoule&#8208;class nonvolatile memories.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Ultralow Voltage Manipulation of Ferromagnetism</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001943</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-28T10:43:59-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001943</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001943?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -304,6 +399,57 @@ Pengju Pan
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202001693</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001693?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202000952?af=R">
+      <title>A Lithium Metal Anode Surviving Battery Cycling Above 200 &#176;C</title>
+      <dc:description>
+A Li5B4/Li composite is explored as a stable anode for rechargeable high&#8208;temperature Li metal batteries. Benefiting from the effect of capillary and physical confinement of the porous lithiophilic Li5B4 framework for liquid metallic Li, the Li5B4/Li composite maintains its initial structure and shows stable electrochemical cycling at 200 &#176;C with a regular cell configuration.
+
+
+
+
+
+
+
+
+Abstract
+Lithium (Li) metal electrode cannot endure elevated temperature (e.g., &gt;200 &#176;C) with the regular battery configuration due to its low melting point (180.5 &#176;C) and high reactivity, which restricts its application in high&#8208;temperature Li metal batteries for energy storage and causes safety concerns for regular ambient&#8208;temperature Li metal batteries. Herein, this work reports a Li5B4/Li composite featuring a 3D Li5B4 fibrillar framework filled with metallic Li, which maintains its initial structure at 325 &#176;C in Ar atmosphere without leakage of the liquid Li. The capillary force caused by the porous structure of the Li4B5 fibrillar framework, together with its lithiophilic surface, restricts the leakage of liquid metallic Li and enables good thermal tolerance of the Li5B4/Li composite. Thus, it can be facilely operated for rechargeable high&#8208;temperature Li metal batteries. Li5B4/Li electrodes are coupled with a garnet&#8208;type ceramic electrolyte (Li6.5La3Zr0.5Ta1.5O12) to fabricate symmetric cells, which exhibit stable Li stripping/plating behaviors with low overpotential of &#8776;6 mV at 200 &#176;C using a regular sandwich&#8208;type cell configuration. This work affords new insights into realizing a stable Li metal anode for high&#8208;temperature Li metal batteries with a simple battery configuration and high safety, which is different from traditional molten&#8208;salt Li metal batteries using a pristine metallic Li anode.
+</dc:description>
+      <dc:creator>
+Lin Fu, 
+Mintao Wan, 
+Bao Zhang, 
+Yifei Yuan, 
+Yang Jin, 
+Wenyu Wang, 
+Xiancheng Wang, 
+Yuanjian Li, 
+Li Wang, 
+Jianjun Jiang, 
+Jun Lu, 
+Yongming Sun
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000952?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e8a79634-52ab-4622-a538-a7d7f49f9834/adma202000952-gra-0001-m.png"
+     alt="A Lithium Metal Anode Surviving Battery Cycling Above 200 &#176;C"/&gt;
+&lt;p&gt;A Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt;/Li composite is explored as a stable anode for rechargeable high&#8208;temperature Li metal batteries. Benefiting from the effect of capillary and physical confinement of the porous lithiophilic Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt; framework for liquid metallic Li, the Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt;/Li composite maintains its initial structure and shows stable electrochemical cycling at 200 &#176;C with a regular cell configuration.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Lithium (Li) metal electrode cannot endure elevated temperature (e.g., &amp;gt;200 &#176;C) with the regular battery configuration due to its low melting point (180.5 &#176;C) and high reactivity, which restricts its application in high&#8208;temperature Li metal batteries for energy storage and causes safety concerns for regular ambient&#8208;temperature Li metal batteries. Herein, this work reports a Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt;/Li composite featuring a 3D Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt; fibrillar framework filled with metallic Li, which maintains its initial structure at 325 &#176;C in Ar atmosphere without leakage of the liquid Li. The capillary force caused by the porous structure of the Li&lt;sub&gt;4&lt;/sub&gt;B&lt;sub&gt;5&lt;/sub&gt; fibrillar framework, together with its lithiophilic surface, restricts the leakage of liquid metallic Li and enables good thermal tolerance of the Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt;/Li composite. Thus, it can be facilely operated for rechargeable high&#8208;temperature Li metal batteries. Li&lt;sub&gt;5&lt;/sub&gt;B&lt;sub&gt;4&lt;/sub&gt;/Li electrodes are coupled with a garnet&#8208;type ceramic electrolyte (Li&lt;sub&gt;6.5&lt;/sub&gt;La&lt;sub&gt;3&lt;/sub&gt;Zr&lt;sub&gt;0.5&lt;/sub&gt;Ta&lt;sub&gt;1.5&lt;/sub&gt;O&lt;sub&gt;12&lt;/sub&gt;) to fabricate symmetric cells, which exhibit stable Li stripping/plating behaviors with low overpotential of &#8776;6 mV at 200 &#176;C using a regular sandwich&#8208;type cell configuration. This work affords new insights into realizing a stable Li metal anode for high&#8208;temperature Li metal batteries with a simple battery configuration and high safety, which is different from traditional molten&#8208;salt Li metal batteries using a pristine metallic Li anode.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>A Lithium Metal Anode Surviving Battery Cycling Above 200 &#176;C</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000952</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-05-28T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000952</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000952?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -4428,158 +4574,6 @@ Changning Niu
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001265?af=R">
-      <title>A Self&#8208;Cleaning Heterostructured Membrane for Efficient Oil&#8208;in&#8208;Water Emulsion Separation with Stable Flux</title>
-      <dc:description>
-A visible&#8208;light&#8208;driven self&#8208;cleaning 2D heterojunction membrane for stable oil&#8208;in&#8208;water emulsion separation with stable flux is introduced. The 2D heterostructure membranes are successfully fabricated via a self&#8208;assembly method. The prepared membranes have a high permeation flux for stable oil&#8208;in&#8208;water emulsion separation and they exhibit a high&#8208;flux, stable flow rate after multiple cycles, and excellent self&#8208;cleaning properties for stable oil&#8208;in&#8208;water emulsions.
-
-
-
-
-
-
-
-
-Abstract
-Lack of clean water is a major global challenge. Membrane separation technology is an ideal choice for the treatment of industrial, domestic sewage owing to its low energy consumption and cost. However, membranes are highly susceptible to contamination, particularly during wastewater treatment, which has limited their practical applications in this field. Similarly, the flux of the membrane decreases with prolonged use due to its reduced interlayer spacing. Preparation of membranes with anticontamination properties and stable flux is the key to addressing this problem. In this study, a 2D heterostructure membrane with visible&#8208;light&#8208;driven self&#8208;cleaning performance is prepared via a self&#8208;assembly process. Notably, the addition of palygorskite increases the interlayer spacing of the graphene and heterojunction structures, which increases the flux of the membrane and avoids a decrease of the interlayer spacing of the membrane under pressure. The presence of a heterojunction with visible light catalytic properties effectively avoids membrane fouling and avoids a sharp decrease of the permeation flux. Importantly, the prepared 2D membrane has excellent separation performance for oil&#8211;water emulsions with both high flux and efficiency. These features suggest great potential for the prepared 2D membrane in wastewater treatment applications.
-</dc:description>
-      <dc:creator>
-Yahui Cai, 
-Dongyun Chen, 
-Najun Li, 
-Qingfeng Xu, 
-Hua Li, 
-Jinghui He, 
-Jianmei Lu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001265?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9967a5de-9593-4348-a63b-37c05b9f7694/adma202001265-gra-0001-m.png"
-     alt="A Self&#8208;Cleaning Heterostructured Membrane for Efficient Oil&#8208;in&#8208;Water Emulsion Separation with Stable Flux"/&gt;
-&lt;p&gt;A visible&#8208;light&#8208;driven self&#8208;cleaning 2D heterojunction membrane for stable oil&#8208;in&#8208;water emulsion separation with stable flux is introduced. The 2D heterostructure membranes are successfully fabricated via a self&#8208;assembly method. The prepared membranes have a high permeation flux for stable oil&#8208;in&#8208;water emulsion separation and they exhibit a high&#8208;flux, stable flow rate after multiple cycles, and excellent self&#8208;cleaning properties for stable oil&#8208;in&#8208;water emulsions.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Lack of clean water is a major global challenge. Membrane separation technology is an ideal choice for the treatment of industrial, domestic sewage owing to its low energy consumption and cost. However, membranes are highly susceptible to contamination, particularly during wastewater treatment, which has limited their practical applications in this field. Similarly, the flux of the membrane decreases with prolonged use due to its reduced interlayer spacing. Preparation of membranes with anticontamination properties and stable flux is the key to addressing this problem. In this study, a 2D heterostructure membrane with visible&#8208;light&#8208;driven self&#8208;cleaning performance is prepared via a self&#8208;assembly process. Notably, the addition of palygorskite increases the interlayer spacing of the graphene and heterojunction structures, which increases the flux of the membrane and avoids a decrease of the interlayer spacing of the membrane under pressure. The presence of a heterojunction with visible light catalytic properties effectively avoids membrane fouling and avoids a sharp decrease of the permeation flux. Importantly, the prepared 2D membrane has excellent separation performance for oil&#8211;water emulsions with both high flux and efficiency. These features suggest great potential for the prepared 2D membrane in wastewater treatment applications.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>A Self&#8208;Cleaning Heterostructured Membrane for Efficient Oil&#8208;in&#8208;Water Emulsion Separation with Stable Flux</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001265</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-13T11:22:01-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001265</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001265?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002237?af=R">
-      <title>Ultrabroadband Photodetectors up to 10.6 &#181;m Based on 2D Fe3O4 Nanosheets</title>
-      <dc:description>
-Novel nonlayered 2D Fe3O4 nanosheets with cubic inverse&#8208;spinel structure perform an ultrabroadband photoresponse from ultraviolet to long&#8208;wavelength infrared (LWIR) range. The distinguished LWIR detection performance with ultrahigh photoresponsivity of 561.2 A W&#8722;1, external quantum efficiency of 6.6 &#215; 103%, and detectivity of 7.42 &#215; 108 Jones can be attributed to synergistic effect of photoconductive effect and bolometric effect.
-
-
-
-
-
-
-
-
-Abstract
-The ultrabroadband spectrum detection from ultraviolet (UV) to long&#8208;wavelength infrared (LWIR) is promising for diversified optoelectronic applications of imaging, sensing, and communication. However, the current LWIR&#8208;detecting devices suffer from low photoresponsivity, high cost, and cryogenic environment. Herein, a high&#8208;performance ultrabroadband photodetector is demonstrated with detecting range from UV to LWIR based on air&#8208;stable nonlayered ultrathin Fe3O4 nanosheets synthesized via a space&#8208;confined chemical vapor deposition (CVD) method. Ultrahigh photoresponsivity (R) of 561.2 A W&#8722;1, external quantum efficiency (EQE) of 6.6 &#215; 103%, and detectivity (D*) of 7.42 &#215; 108 Jones are achieved at the wavelength of 10.6 &#181;m. The multimechanism synergistic effect of photoconductive effect and bolometric effect demonstrates the high sensitivity for light with any light intensities. The outstanding device performance and complementary mixing photoresponse mechanisms open up new potential applications of nonlayered 2D materials for future infrared optoelectronic devices.
-</dc:description>
-      <dc:creator>
-Chujun Yin, 
-Chuanhui Gong, 
-Junwei Chu, 
-Xudong Wang, 
-Chaoyi Yan, 
-Shifeng Qian, 
-Yang Wang, 
-Gaofeng Rao, 
-Hongbo Wang, 
-Yuqing Liu, 
-Xianfu Wang, 
-Jianlu Wang, 
-Weida Hu, 
-Chaobo Li, 
-Jie Xiong
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002237?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/90ec583d-7f9d-4e12-9cda-a6d0ee10fb7c/adma202002237-gra-0001-m.png"
-     alt="Ultrabroadband Photodetectors up to 10.6 &#181;m Based on 2D Fe3O4 Nanosheets"/&gt;
-&lt;p&gt;Novel nonlayered 2D Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanosheets with cubic inverse&#8208;spinel structure perform an ultrabroadband photoresponse from ultraviolet to long&#8208;wavelength infrared (LWIR) range. The distinguished LWIR detection performance with ultrahigh photoresponsivity of 561.2 A W&lt;sup&gt;&#8722;1&lt;/sup&gt;, external quantum efficiency of 6.6 &#215; 10&lt;sup&gt;3&lt;/sup&gt;%, and detectivity of 7.42 &#215; 10&lt;sup&gt;8&lt;/sup&gt; Jones can be attributed to synergistic effect of photoconductive effect and bolometric effect.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The ultrabroadband spectrum detection from ultraviolet (UV) to long&#8208;wavelength infrared (LWIR) is promising for diversified optoelectronic applications of imaging, sensing, and communication. However, the current LWIR&#8208;detecting devices suffer from low photoresponsivity, high cost, and cryogenic environment. Herein, a high&#8208;performance ultrabroadband photodetector is demonstrated with detecting range from UV to LWIR based on air&#8208;stable nonlayered ultrathin Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanosheets synthesized via a space&#8208;confined chemical vapor deposition (CVD) method. Ultrahigh photoresponsivity (&lt;i&gt;R &lt;/i&gt;) of 561.2 A W&lt;sup&gt;&#8722;1&lt;/sup&gt;, external quantum efficiency (EQE) of 6.6 &#215; 10&lt;sup&gt;3&lt;/sup&gt;%, and detectivity (&lt;i&gt;D &lt;/i&gt;*) of 7.42 &#215; 10&lt;sup&gt;8&lt;/sup&gt; Jones are achieved at the wavelength of 10.6 &#181;m. The multimechanism synergistic effect of photoconductive effect and bolometric effect demonstrates the high sensitivity for light with any light intensities. The outstanding device performance and complementary mixing photoresponse mechanisms open up new potential applications of nonlayered 2D materials for future infrared optoelectronic devices.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Ultrabroadband Photodetectors up to 10.6 &#181;m Based on 2D Fe3O4 Nanosheets</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002237</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-13T11:22:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002237</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002237?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201907227?af=R">
-      <title>Negatively Charged Nanosheets Significantly Enhance the Energy&#8208;Storage Capability of Polymer&#8208;Based Nanocomposites</title>
-      <dc:description>
-A general strategy is developed to enhance energy storage of nanocomposites. Through inserting negatively charged Ca2Nb3O10 nanosheets into a polymer matrix, a reversed local electric field is generated and further blocks the breakdown path. A record&#8208;high energy storage of 36.2 J cm&#8722;3 is achieved in poly(vinylidene fluoride). The strategy is also utilized in polystyrene&#8208;based nanocomposites and is verified by phase&#8208;field simulations.
-
-
-
-
-
-
-
-
-Abstract
-Polymer&#8208;based dielectric materials play a key role in advanced electronic devices and electric power systems. Although extensive research has been devoted to improve their energy&#8208;storage performances, it is a great challenge to increase the breakdown strength of polymer nanocomposites in terms of achieving high energy density and good reliability under high voltages. Here, a general strategy is proposed to significantly improve their breakdown strength and energy storage by adding negatively charged Ca2Nb3O10 nanosheets. A dramatically enhanced breakdown strength (792 MV m&#8722;1) and the highest energy density (36.2 J cm&#8722;3) among all flexible polymer&#8208;based dielectrics are observed in poly(vinylidene fluoride)&#8208;based nanocomposite capacitors. The strategy generalizability is verified by the similar substantial enhancements of breakdown strength and energy density in polystyrene&#8208;based nanocomposites. Phase&#8208;field simulations demonstrate that the further enhanced breakdown strength is ascribed to the local electric field, produced by the negatively charged Ca2Nb3O10 nanosheets sandwiched with the positively charged polyethyleneimine, which suppresses the secondary impact&#8208;ionized electrons and blocks the breakdown path in nanocomposites. The results demonstrate a new horizon of high&#8208;energy&#8208;density flexible capacitors.
-</dc:description>
-      <dc:creator>
-Zhiwei Bao, 
-Chuangming Hou, 
-Zhonghui Shen, 
-Haoyang Sun, 
-Genqiang Zhang, 
-Zhen Luo, 
-Zhizhan Dai, 
-Chengming Wang, 
-Xiaowei Chen, 
-Liangbin Li, 
-Yuewei Yin, 
-Yang Shen, 
-Xiaoguang Li
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907227?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/83cf1af3-bcdd-4f09-93b8-39000efd6e98/adma201907227-gra-0001-m.png"
-     alt="Negatively Charged Nanosheets Significantly Enhance the Energy&#8208;Storage Capability of Polymer&#8208;Based Nanocomposites"/&gt;
-&lt;p&gt;A general strategy is developed to enhance energy storage of nanocomposites. Through inserting negatively charged Ca&lt;sub&gt;2&lt;/sub&gt;Nb&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;10&lt;/sub&gt; nanosheets into a polymer matrix, a reversed local electric field is generated and further blocks the breakdown path. A record&#8208;high energy storage of 36.2 J cm&lt;sup&gt;&#8722;3&lt;/sup&gt; is achieved in poly(vinylidene fluoride). The strategy is also utilized in polystyrene&#8208;based nanocomposites and is verified by phase&#8208;field simulations.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Polymer&#8208;based dielectric materials play a key role in advanced electronic devices and electric power systems. Although extensive research has been devoted to improve their energy&#8208;storage performances, it is a great challenge to increase the breakdown strength of polymer nanocomposites in terms of achieving high energy density and good reliability under high voltages. Here, a general strategy is proposed to significantly improve their breakdown strength and energy storage by adding negatively charged Ca&lt;sub&gt;2&lt;/sub&gt;Nb&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;10&lt;/sub&gt; nanosheets. A dramatically enhanced breakdown strength (792 MV m&lt;sup&gt;&#8722;1&lt;/sup&gt;) and the highest energy density (36.2 J cm&lt;sup&gt;&#8722;3&lt;/sup&gt;) among all flexible polymer&#8208;based dielectrics are observed in poly(vinylidene fluoride)&#8208;based nanocomposite capacitors. The strategy generalizability is verified by the similar substantial enhancements of breakdown strength and energy density in polystyrene&#8208;based nanocomposites. Phase&#8208;field simulations demonstrate that the further enhanced breakdown strength is ascribed to the local electric field, produced by the negatively charged Ca&lt;sub&gt;2&lt;/sub&gt;Nb&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;10&lt;/sub&gt; nanosheets sandwiched with the positively charged polyethyleneimine, which suppresses the secondary impact&#8208;ionized electrons and blocks the breakdown path in nanocomposites. The results demonstrate a new horizon of high&#8208;energy&#8208;density flexible capacitors.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Negatively Charged Nanosheets Significantly Enhance the Energy&#8208;Storage Capability of Polymer&#8208;Based Nanocomposites</dc:title>
-      <dc:identifier>doi:10.1002/adma.201907227</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-13T09:37:10-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201907227</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907227?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adma.201906238?af=R">
       <title>Two&#8208;Dimensional Palladium Diselenide with Strong In&#8208;Plane Optical Anisotropy and High Mobility Grown by Chemical Vapor Deposition</title>
       <dc:description>
@@ -5037,55 +5031,6 @@ Ralf Moos
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908104?af=R</prism:url>
       <prism:copyright />
       <prism:section>Progress Report</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001740?af=R">
-      <title>Colossal Granular Lithium Deposits Enabled by the Grain&#8208;Coarsening Effect for High&#8208;Efficiency Lithium Metal Full Batteries</title>
-      <dc:description>
-A grain&#8208;coarsening behavior of lithium deposits with oriented columnar morphology can be realized in a solubilizer&#8208;mediated carbonate electrolyte. Nanowave&#8208;structured solid electrolyte interphases derived from the Sn2+&#8211;NO3&#8211; coordination&#8208;solvation structure promote a significant improvement in the lifespan (200 cycles) of Li/NMC811 full batteries (45 &#181;m thin Li anode and 16.7 mg cm&#8722;2 NMC811 cathode).
-
-
-
-
-
-
-
-
-Abstract
-The low Coulombic efficiency of the lithium metal anode is recognized as the real bottleneck to practical high&#8208;efficiency lithium metal batteries with limited Li excess. The grain size and microstructure of deposited lithium strongly influences the lithium plating/stripping efficiency. Here, a solubilizer&#8208;mediated carbonate electrolyte that can realize grain coarsening of lithium deposits (&gt;20 &#181;m in width) with oriented columnar morphology, which is in sharp contrast with conventional nanoscale dendrite&#8208;like lithium deposits in carbonate electrolytes, is reported. It exhibits improved Li Coulombic efficiency to 98.14% at a high capacity of 3 mAh cm&#8722;2 over 150 cycles, because the colossal lithium deposition with minimal tortuosity can maintain the bulk Li with continuous electron conducting pathway during the stripping process, thus enabling efficient Li utilization. Li/NMC811 full batteries, composed of thin Li anode (45 &#181;m) and a high&#8208;capacity NMC811 cathode (16.7 mg cm&#8722;2), can achieve at least 12 times longer lifespan (200 cycles).
-</dc:description>
-      <dc:creator>
-Weidong Zhang, 
-Qiang Wu, 
-Jinxin Huang, 
-Lei Fan, 
-Zeyu Shen, 
-Yi He, 
-Qi Feng, 
-Guannan Zhu, 
-Yingying Lu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001740?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/cbc28d1c-24d2-425d-bce3-9747739d1cfe/adma202001740-gra-0001-m.png"
-     alt="Colossal Granular Lithium Deposits Enabled by the Grain&#8208;Coarsening Effect for High&#8208;Efficiency Lithium Metal Full Batteries"/&gt;
-&lt;p&gt;A grain&#8208;coarsening behavior of lithium deposits with oriented columnar morphology can be realized in a solubilizer&#8208;mediated carbonate electrolyte. Nanowave&#8208;structured solid electrolyte interphases derived from the Sn&lt;sup&gt;2+&lt;/sup&gt;&#8211;NO&lt;sub&gt;3&lt;/sub&gt;
-&lt;sup&gt;&#8211;&lt;/sup&gt; coordination&#8208;solvation structure promote a significant improvement in the lifespan (200 cycles) of Li/NMC811 full batteries (45 &#181;m thin Li anode and 16.7 mg cm&lt;sup&gt;&#8722;2&lt;/sup&gt; NMC811 cathode).
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The low Coulombic efficiency of the lithium metal anode is recognized as the real bottleneck to practical high&#8208;efficiency lithium metal batteries with limited Li excess. The grain size and microstructure of deposited lithium strongly influences the lithium plating/stripping efficiency. Here, a solubilizer&#8208;mediated carbonate electrolyte that can realize grain coarsening of lithium deposits (&amp;gt;20 &#181;m in width) with oriented columnar morphology, which is in sharp contrast with conventional nanoscale dendrite&#8208;like lithium deposits in carbonate electrolytes, is reported. It exhibits improved Li Coulombic efficiency to 98.14% at a high capacity of 3 mAh cm&lt;sup&gt;&#8722;2&lt;/sup&gt; over 150 cycles, because the colossal lithium deposition with minimal tortuosity can maintain the bulk Li with continuous electron conducting pathway during the stripping process, thus enabling efficient Li utilization. Li/NMC811 full batteries, composed of thin Li anode (45 &#181;m) and a high&#8208;capacity NMC811 cathode (16.7 mg cm&lt;sup&gt;&#8722;2&lt;/sup&gt;), can achieve at least 12 times longer lifespan (200 cycles).&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Colossal Granular Lithium Deposits Enabled by the Grain&#8208;Coarsening Effect for High&#8208;Efficiency Lithium Metal Full Batteries</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001740</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-11T01:37:35-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001740</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001740?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adma.202001629?af=R">
       <title>Materials Science in Australia</title>
