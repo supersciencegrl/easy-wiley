@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004211?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005337?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004812?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002375?af=R" />
@@ -204,7 +205,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006391?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006393?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004318?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005445?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -213,6 +213,30 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202004211?af=R">
+      <title>Peak Force Infrared &#8208; Kelvin Probe Force Microscopy</title>
+      <dc:description>Correlative scanning probe microscopy of chemical identity, surface potential, and mechanical properties provides insight into structure&#8208;functional relationships of nanomaterials. However, simultaneous measurement with comparable and high resolution is a challenge. Here, we seamlessly integrate nanoscale photothermal infrared imaging with Coulomb force detection to form Peak Force Infrared &#8211; Kelvin Probe Force Microscopy (PFIR&#8208;KPFM), which enables simultaneous nano&#8208;mapping of infrared absorption, surface potential, and mechanical properties with ~10 nm spatial resolution in a single&#8208;pass scan. MAPbBr  3  perovskite crystals of different degradation pathways are studied  in situ  . Nanoscale charge accumulations are observed in MAPbBr  3  near the boundary to PbBr  2  . PFIR&#8208;KPFM also reveals correlations between residual charges and secondary conformation in amyloid fibrils. PFIR&#8208;KPFM is applicable to other heterogeneous materials at the nanoscale for correlative multimodal characterizations.</dc:description>
+      <dc:creator>
+Devon  S. Jakob, 
+Haomin Wang, 
+Guanghong Zeng, 
+Daniel  E. Otzen, 
+Yong Yan, 
+Xiaoji Xu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004211?af=R</link>
+      <content:encoded>&lt;p&gt;Correlative scanning probe microscopy of chemical identity, surface potential, and mechanical properties provides insight into structure&#8208;functional relationships of nanomaterials. However, simultaneous measurement with comparable and high resolution is a challenge. Here, we seamlessly integrate nanoscale photothermal infrared imaging with Coulomb force detection to form Peak Force Infrared &#8211; Kelvin Probe Force Microscopy (PFIR&#8208;KPFM), which enables simultaneous nano&#8208;mapping of infrared absorption, surface potential, and mechanical properties with ~10 nm spatial resolution in a single&#8208;pass scan. MAPbBr  3  perovskite crystals of different degradation pathways are studied  in situ  . Nanoscale charge accumulations are observed in MAPbBr  3  near the boundary to PbBr  2  . PFIR&#8208;KPFM also reveals correlations between residual charges and secondary conformation in amyloid fibrils. PFIR&#8208;KPFM is applicable to other heterogeneous materials at the nanoscale for correlative multimodal characterizations.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Peak Force Infrared &#8208; Kelvin Probe Force Microscopy</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004211</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-05-28T01:44:21-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004211</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004211?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202005337?af=R">
       <title>Size&#8208;Mediated Recurring Spinel Sub&#8208;nanodomains in Li and Mn&#8208;rich Layered Cathode Materials</title>
       <dc:description>Li and Mn&#8208;rich layered oxide (LMR&#8208;NMC) is one of the most promising cathode materials for Li&#8208;ion batteries with high theoretical energy density. Its practical application is, however, hampered by the capacity and voltage fade after long cycling. Herein, a finite difference method for near&#8208;edge structure (FDMNES) code was combined with in&#8208;situ X&#8208;ray absorption spectroscopy (XAS) and transmission electron microscopy/electron energy loss spectroscopy (TEM/EELS) to investigate the evolution of transition metals (TMs) in the fresh and heavily cycled electrode. Theoretical modeling reveals a recurring partially reversible LiMn  2  O  4  &#8208;like sub&#8208;nanodomain formation/dissolution process during each charge/discharge, which accumulates gradually and accounts for the Mn phase transition. From modeling of spectra and maps of the valence state over large regions of cathodes, it was found that the phase change is size&#8208;dependent. After pro&#8208;longed cycling, the TMs displayed different levels of inactivity.</dc:description>
@@ -1782,37 +1806,6 @@ Junrong Zheng
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202004318</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004318?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005445?af=R">
-      <title>Al2Pt for Oxygen Evolution in Water Splitting: a Strategy for Creating Multi&#8208;functionality in Electrocatalysis</title>
-      <dc:description>The production of hydrogen via water electrolysis is feasible only if effective and stable catalysts for the oxygen evolution reaction (OER) are available. Intermetallic compounds with the well&#8208;defined crystal and electronic structures as well as particular chemical bonding features are suggested here to act as precursors for new composite materials with attractive catalytic properties. Al 2  Pt combines a characteristic inorganic crystal structure (anti&#8208;fluorite type) and a strongly polar chemical bonding with the advantage of elemental platinum in terms of stability against dissolution under OER conditions. We describe here the unforeseen performance of a surface nanocomposite architecture resulting from the self&#8208;organized transformation of the bulk intermetallic precursor Al 2  Pt in OER.</dc:description>
-      <dc:creator>
-Iryna Antonyshyn, 
-Ana Maria Barrios Jimenez, 
-Olga Sichevych, 
-Ulrich Burkhardt, 
-Igor Veremchuk, 
-Marcus Schmidt, 
-Alim Ormeci, 
-Ioannis Spanos, 
-Andrey Tarasov, 
-Detre Teschner, 
-Gerardo Algara-Siller, 
-Robert Schl&#246;gl, 
-Yuri Grin
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005445?af=R</link>
-      <content:encoded>&lt;p&gt;The production of hydrogen via water electrolysis is feasible only if effective and stable catalysts for the oxygen evolution reaction (OER) are available. Intermetallic compounds with the well&#8208;defined crystal and electronic structures as well as particular chemical bonding features are suggested here to act as precursors for new composite materials with attractive catalytic properties. Al 2  Pt combines a characteristic inorganic crystal structure (anti&#8208;fluorite type) and a strongly polar chemical bonding with the advantage of elemental platinum in terms of stability against dissolution under OER conditions. We describe here the unforeseen performance of a surface nanocomposite architecture resulting from the self&#8208;organized transformation of the bulk intermetallic precursor Al 2  Pt in OER.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Al2Pt for Oxygen Evolution in Water Splitting: a Strategy for Creating Multi&#8208;functionality in Electrocatalysis</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005445</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-05-22T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005445</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005445?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
