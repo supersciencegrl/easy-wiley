@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005381?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004668?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005151?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000474?af=R" />
@@ -128,7 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006322?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004789?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006383?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005589?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001363?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001742?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001439?af=R" />
@@ -213,6 +213,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202005381?af=R">
+      <title>Optimized immobilization strategy for dirhodium (II) carboxylate catalysts for C&#8211;H functionalization and their implementation in a packed bed flow reactor</title>
+      <dc:description>Herein we demonstrate a sustainable, scalable packed bed flow reactor capable of achieving highly regio&#8208; and stereoselective C&#8211;H functionalization reactions using a newly developed Rh  2  (  S  &#8208;2&#8208;Cl&#8208;5&#8208;CF  3  TPCP)  4  catalyst. To optimize the immobilized dirhodium catalyst employed in the flow reactor, we systematically study both (i) the effects of ligand immobilization position, demonstrating the critical factor that the catalyst&#8208;support attachment location can have on the catalyst performance, and (ii) silica support mesopore length, demonstrating that decreasing diffusional limitations leads to increased accessibility of the active site and higher catalyst turnover frequency. We employ the immobilized dirhodium catalyst in a simple packed bed flow reactor achieving comparable yields and levels of enantioselectivity to the homogeneous catalyst employed in batch and maintain this performance over ten catalyst recycles.</dc:description>
+      <dc:creator>
+Taylor  A Hatridge, 
+Wenbin Liu, 
+Chun-Jae Yoo, 
+Huw  M L Davies, 
+Christopher  W Jones
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005381?af=R</link>
+      <content:encoded>&lt;p&gt;Herein we demonstrate a sustainable, scalable packed bed flow reactor capable of achieving highly regio&#8208; and stereoselective C&#8211;H functionalization reactions using a newly developed Rh  2  (  S  &#8208;2&#8208;Cl&#8208;5&#8208;CF  3  TPCP)  4  catalyst. To optimize the immobilized dirhodium catalyst employed in the flow reactor, we systematically study both (i) the effects of ligand immobilization position, demonstrating the critical factor that the catalyst&#8208;support attachment location can have on the catalyst performance, and (ii) silica support mesopore length, demonstrating that decreasing diffusional limitations leads to increased accessibility of the active site and higher catalyst turnover frequency. We employ the immobilized dirhodium catalyst in a simple packed bed flow reactor achieving comparable yields and levels of enantioselectivity to the homogeneous catalyst employed in batch and maintain this performance over ten catalyst recycles.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Optimized immobilization strategy for dirhodium (II) carboxylate catalysts for C&#8211;H functionalization and their implementation in a packed bed flow reactor</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005381</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-01T06:54:57-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005381</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005381?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202004668?af=R">
       <title>Size and Halide Dependent Auger Recombination in Lead Halide Perovskite Nanocrystals</title>
       <dc:description>Lead halide perovskite nanocrystals (NCs) hold strong promise for a variety of light harvesting, emitting and detecting applications, all of which, however, could be complicated by multicarrier Auger recombination. Therefore, a complete documentation of the size and composition dependent Auger recombination rates of these NCs is highly desirable, as it can guide the system design in many applications. Here we report the synthesis and Auger measurements of monodisperse APbX  3  (A= Cs and FA; X = Cl, Br, and I) NCs in an extensive size range (~3&#8208;9 nm). The biexciton Auger lifetime of all the NCs scales linearly with the NC volume. The scaling coefficient is virtually independent of the cation but rather depends sensitively on the anion, which is 0.035, 0.085 and 0.142 ps per nm  3  for Cl, Br, and I, respectively. All of these are much faster than that in standard CdSe and PbSe NCs (~1 ps per nm  3  ).</dc:description>
@@ -1659,32 +1682,5 @@ Zhaobin Han
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006383?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005589?af=R">
-      <title>Gem&#8208;diols&#8208;type intermediate of Ketone Activation on Sn&#8208;&#946; Zeolite as Studied by Solid&#8208;state NMR Spectroscopy</title>
-      <dc:description>Lewis acid zeolites have found an increasing application in the field of biomass conversion, in which the selective transformation of carbonyl&#8208;containing molecule is of particular importance due to its relevance in organic synthesis. Mechanistic insight into the activation of carbonyl group on Lewis acid sites is challenging and critical for the understanding of the catalytic process, which requires the identification of reaction intermediates. Here we report the  observation of  a stable  surface  gem  &#8208;diols&#8208;type  species in the activation of acetone on Sn&#8208;&#946; zeolite.  13  C,  119  Sn and  13  C&#8208;  119  Sn double&#8208;resonance NMR spectroscopies demonstrate that only the open Sn site ((SiO)  3  Sn&#8208;OH) on Sn&#8208;&#946; is responsible for the formation of the surface species.  13  C MAS NMR experiments together with  density functional theory  calculations suggest that the  gem  &#8208;diols&#8208;type species exhibits high reactivity and can serve as an active intermediate in the Meerwein&#8211;Ponndorf&#8211;Verley&#8208;Oppenauer (MPVO) reaction of acetone with cyclohexanol. The  gem  &#8208;diols&#8208;type species offers an energy&#8208;preferable pathway for the direct carbon&#8208;to&#8208;carbon hydrogen transfer between ketone and alcohol. The results provide new insights into the transformation of carbonyl&#8208;containing molecules catalyzed by Lewis acid zeolites.</dc:description>
-      <dc:creator>
-Guodong Qi, 
-Yueying Chu, 
-Qiang Wang, 
-Xingxing Wang, 
-Yi Li, 
-Julien Tr&#233;bosc, 
-Olivier Lafon, 
-Jun Xu, 
-Feng Deng
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005589?af=R</link>
-      <content:encoded>&lt;p&gt;Lewis acid zeolites have found an increasing application in the field of biomass conversion, in which the selective transformation of carbonyl&#8208;containing molecule is of particular importance due to its relevance in organic synthesis. Mechanistic insight into the activation of carbonyl group on Lewis acid sites is challenging and critical for the understanding of the catalytic process, which requires the identification of reaction intermediates. Here we report the  observation of  a stable  surface  gem  &#8208;diols&#8208;type  species in the activation of acetone on Sn&#8208;&#946; zeolite.  13  C,  119  Sn and  13  C&#8208;  119  Sn double&#8208;resonance NMR spectroscopies demonstrate that only the open Sn site ((SiO)  3  Sn&#8208;OH) on Sn&#8208;&#946; is responsible for the formation of the surface species.  13  C MAS NMR experiments together with  density functional theory  calculations suggest that the  gem  &#8208;diols&#8208;type species exhibits high reactivity and can serve as an active intermediate in the Meerwein&#8211;Ponndorf&#8211;Verley&#8208;Oppenauer (MPVO) reaction of acetone with cyclohexanol. The  gem  &#8208;diols&#8208;type species offers an energy&#8208;preferable pathway for the direct carbon&#8208;to&#8208;carbon hydrogen transfer between ketone and alcohol. The results provide new insights into the transformation of carbonyl&#8208;containing molecules catalyzed by Lewis acid zeolites.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Gem&#8208;diols&#8208;type intermediate of Ketone Activation on Sn&#8208;&#946; Zeolite as Studied by Solid&#8208;state NMR Spectroscopy</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005589</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-05-25T08:29:46-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005589</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005589?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    </rdf:RDF>
