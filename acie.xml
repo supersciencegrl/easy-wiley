@@ -9,8 +9,13 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005270?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004587?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006421?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005120?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005490?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006016?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007247?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007549?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003972?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003271?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005058?af=R" />
@@ -89,6 +94,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005584?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004328?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002271?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007549?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005313?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002866?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005685?af=R" />
@@ -163,7 +169,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006530?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005538?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003982?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006814?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005627?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005724?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006289?af=R" />
@@ -184,11 +189,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005111?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006463?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005884?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005208?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006164?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005381?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004668?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005151?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -197,6 +197,159 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202005270?af=R">
+      <title>Maximization of Spatial Charge Density: An Approach to Ultrahigh Energy Density of Capacitive Charge Storage</title>
+      <dc:description>Capacitive energy storage possesses the advantages of high power density, long lifespan, and good security, but is severely restricted by its low energy density. Inspired by the charge storage mechanism of batteries, we develop a spatial charge density (SCD) maximization strategy to compensate this shortage by densely and neatly packing the ionic charges in capacitive materials. Accordingly, a record high SCD of ~550 C cm&#8722;3  was achieved by balancing the valance and size of charge&#8208;carrier ions and matching the ion sizes with the pore structure of electrode materials, which is nearly five times higher than those of conventional ones (~120 C cm&#8722;3  ). The maximization of SCD was confirmed by Monte Carlo calculations, molecular dynamics simulations, and in situ electrochemical Raman spectroscopy. As a result, a full&#8208;cell supercapacitor was constructed and it delivers an ultrahigh energy density of 165 W h L&#8722;1  at the power density of 150 W L&#8722;1  , and retains 120 W h L&#8722;1  even at 36 kW L&#8722;1  , opening a pathway towards high energy density capacitive energy storages.</dc:description>
+      <dc:creator>
+Hongyun Ma, 
+Hongwu Chen, 
+Mingmao Wu, 
+Fengyao Chi, 
+Feng Liu, 
+Jiaxin Bai, 
+Huhu Cheng, 
+Chun Li, 
+Liangti Qu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005270?af=R</link>
+      <content:encoded>&lt;p&gt;Capacitive energy storage possesses the advantages of high power density, long lifespan, and good security, but is severely restricted by its low energy density. Inspired by the charge storage mechanism of batteries, we develop a spatial charge density (SCD) maximization strategy to compensate this shortage by densely and neatly packing the ionic charges in capacitive materials. Accordingly, a record high SCD of ~550 C cm&#8722;3  was achieved by balancing the valance and size of charge&#8208;carrier ions and matching the ion sizes with the pore structure of electrode materials, which is nearly five times higher than those of conventional ones (~120 C cm&#8722;3  ). The maximization of SCD was confirmed by Monte Carlo calculations, molecular dynamics simulations, and in situ electrochemical Raman spectroscopy. As a result, a full&#8208;cell supercapacitor was constructed and it delivers an ultrahigh energy density of 165 W h L&#8722;1  at the power density of 150 W L&#8722;1  , and retains 120 W h L&#8722;1  even at 36 kW L&#8722;1  , opening a pathway towards high energy density capacitive energy storages.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Maximization of Spatial Charge Density: An Approach to Ultrahigh Energy Density of Capacitive Charge Storage</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005270</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-07T07:05:04-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005270</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005270?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202004587?af=R">
+      <title>Mixed Anionic and Cationic Redox Chemistry in a Tetrathiomolybdate Amorphous Coordination Framework</title>
+      <dc:description>We report the electrochemistry of a hitherto unexplored Na2MoS4  phase as conversion electrode material for Na&#8208; and Li&#8208;cation reversible storage. The material adopts an amorphous coordination polymer structure, with mixed Mo and S valences. Ex&#8208;situ XPS and in&#8208;situ XRD analysis reveal a complex interplay between Mo and S redox, while excluding the formation of free sulfur, lithium sulfide or other crystalline phases. Na2MoS4  behaves as a mixed ionic&#8208;electronic conductor, with electronic conductivity of 6.1 &#215; 10  &#8208;4  S cm  &#8208;1  , that allowed the use of this material without any conductive carbon in an electrochemical cell. A reversible capacity of 500 mAh g  &#8208;1  is attained corresponding to 5&#8208;electron redox exchange, with the end&#8208;member reaching from Na&lt;1MoS4  to Na&gt;5MoS4  . This study not only emphasizes on the excellent charge storage performances of Na2MoS4  for Li or Na batteries, but also enriches the emerging library and knowledge of sulfide phases with mixed anionic and cationic redox.</dc:description>
+      <dc:creator>
+Qi Zhu, 
+Jiande Wang, 
+Xuelian Liu, 
+Neil Ebejer, 
+Darsi Rambabu, 
+Alexandru Vlad
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004587?af=R</link>
+      <content:encoded>&lt;p&gt;We report the electrochemistry of a hitherto unexplored Na2MoS4  phase as conversion electrode material for Na&#8208; and Li&#8208;cation reversible storage. The material adopts an amorphous coordination polymer structure, with mixed Mo and S valences. Ex&#8208;situ XPS and in&#8208;situ XRD analysis reveal a complex interplay between Mo and S redox, while excluding the formation of free sulfur, lithium sulfide or other crystalline phases. Na2MoS4  behaves as a mixed ionic&#8208;electronic conductor, with electronic conductivity of 6.1 &#215; 10  &#8208;4  S cm  &#8208;1  , that allowed the use of this material without any conductive carbon in an electrochemical cell. A reversible capacity of 500 mAh g  &#8208;1  is attained corresponding to 5&#8208;electron redox exchange, with the end&#8208;member reaching from Na&amp;lt;1MoS4  to Na&amp;gt;5MoS4  . This study not only emphasizes on the excellent charge storage performances of Na2MoS4  for Li or Na batteries, but also enriches the emerging library and knowledge of sulfide phases with mixed anionic and cationic redox.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Mixed Anionic and Cationic Redox Chemistry in a Tetrathiomolybdate Amorphous Coordination Framework</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004587</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-07T06:20:03-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004587</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004587?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202006421?af=R">
+      <title>Core@Satellite Janus Nanomotors with pH&#8208;Responsive Multi&#8208;Phoretic Propulsion</title>
+      <dc:description>We report core@satellite Janus mesoporous silica&#8211;Pt@Au (JMPA) nanomotors that are capable of pH&#8208;responsive multi&#8208;phoretic propulsion. The JMPA nanomotors first undergo self&#8208;diffusiophoretic propulsion in 3.0% H2O2 due to the isolated status between Au nanoparticles (AuNPs) and PtNPs layer. Then the weak acidity of H2O2 can trigger the disassembly and reassembly of AuNPs, resulting in the Janus distribution of large AuNPs aggregates. Such reconstruction of JMPA leads to the contact between PtNPs and AuNPs aggregates, thus tailoring the propulsion mechanism to self&#8208;electrophoresis. The asymmetric and aggregated AuNPs also enable the generation of thermal gradient under laser irradiation, which propels the JMPA nanomotors by self&#8208;thermophoresis. Such multi&#8208;phoretic propulsion offers considerable promise for developing advanced nanomachines with a stimuli&#8208;responsive switch of propulsion modes in biomedical applications.</dc:description>
+      <dc:creator>
+Yi Xing, 
+Mengyun Zhou, 
+Songsong Tang, 
+Yang Fu, 
+Xin Du, 
+Tailin Xu, 
+Lei Su, 
+Yongqiang Wen, 
+Xueji Zhang, 
+Tianyi Ma
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006421?af=R</link>
+      <content:encoded>&lt;p&gt;We report core@satellite Janus mesoporous silica&#8211;Pt@Au (JMPA) nanomotors that are capable of pH&#8208;responsive multi&#8208;phoretic propulsion. The JMPA nanomotors first undergo self&#8208;diffusiophoretic propulsion in 3.0% H2O2 due to the isolated status between Au nanoparticles (AuNPs) and PtNPs layer. Then the weak acidity of H2O2 can trigger the disassembly and reassembly of AuNPs, resulting in the Janus distribution of large AuNPs aggregates. Such reconstruction of JMPA leads to the contact between PtNPs and AuNPs aggregates, thus tailoring the propulsion mechanism to self&#8208;electrophoresis. The asymmetric and aggregated AuNPs also enable the generation of thermal gradient under laser irradiation, which propels the JMPA nanomotors by self&#8208;thermophoresis. Such multi&#8208;phoretic propulsion offers considerable promise for developing advanced nanomachines with a stimuli&#8208;responsive switch of propulsion modes in biomedical applications.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Core@Satellite Janus Nanomotors with pH&#8208;Responsive Multi&#8208;Phoretic Propulsion</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006421</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-07T06:19:51-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202006421</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006421?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202005120?af=R">
+      <title>Hydrochromic CsPbBr3 Nanocrystals for Anti&#8208;Counterfeiting</title>
+      <dc:description>Hydrochromic materials that can reversibly change color upon water treatment have attracted much attention due to their potential applications in diverse fields. Here, for the first time, we report that space&#8208;confined CsPbBr  3  &#160;nanocrystals (NCs) are hydrochromic. When CsPbBr  3  &#160;NCs are loaded into a porous matrix, reversible transition between luminescent CsPbBr  3  &#160;and non&#8208;luminescent CsPb  2  Br  5  &#160;can be achieved upon the exposure/removal of water. The potential applications of hydrochromic CsPbBr  3  &#160;NCs in anti&#8208;counterfeiting are demonstrated by using CsPbBr  3  &#160;NCs@mesoporous silica nanospheres (around 100 nm) as the starting material. Due to the small particle size and negatively charged surface, the as&#8208;prepared particles can be laser&#8208;jet printed with high precision and high speed. We demonstrate the excellent stability over repeated transformation cycles without color fade. This new discovery may not only deepen the understanding of CsPbX  3  , but also open a new way to design CsPbX  3  &#160;materials for new applications.</dc:description>
+      <dc:creator>
+Xiaoya Yu, 
+Linzhong Wu, 
+Di Yang, 
+Muhan Cao, 
+Xing Fan, 
+Haiping Lin, 
+Qixuan Zhong, 
+Yong Xu, 
+Qiao Zhang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005120?af=R</link>
+      <content:encoded>&lt;p&gt;Hydrochromic materials that can reversibly change color upon water treatment have attracted much attention due to their potential applications in diverse fields. Here, for the first time, we report that space&#8208;confined CsPbBr  3  &#160;nanocrystals (NCs) are hydrochromic. When CsPbBr  3  &#160;NCs are loaded into a porous matrix, reversible transition between luminescent CsPbBr  3  &#160;and non&#8208;luminescent CsPb  2  Br  5  &#160;can be achieved upon the exposure/removal of water. The potential applications of hydrochromic CsPbBr  3  &#160;NCs in anti&#8208;counterfeiting are demonstrated by using CsPbBr  3  &#160;NCs@mesoporous silica nanospheres (around 100 nm) as the starting material. Due to the small particle size and negatively charged surface, the as&#8208;prepared particles can be laser&#8208;jet printed with high precision and high speed. We demonstrate the excellent stability over repeated transformation cycles without color fade. This new discovery may not only deepen the understanding of CsPbX  3  , but also open a new way to design CsPbX  3  &#160;materials for new applications.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Hydrochromic CsPbBr3 Nanocrystals for Anti&#8208;Counterfeiting</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005120</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-07T06:10:28-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005120</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005120?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202005490?af=R">
+      <title>Cellular Synthesis and Crystal Structure of a Designed Protein Heterocatenane</title>
+      <dc:description>Herein, we report the biosynthesis of protein heterocatenanes via a programmed sequence of multiple post&#8208;translational processing events including intramolecular chain entanglement, in situ backbone cleavage, and spontaneous cyclization. The approach is general, autonomous, and can obviate the need of any additional enzymes. The catenane topology was convincingly proven via combined techniques of SDS&#8208;PAGE, LC&#8208;MS, SEC, controlled proteolytic digestion, and protein crystallography. The crystal structure clearly shows two mechanically interlocked protein rings with intact folded domains. It opens new avenues to the nascent field of protein topology engineering.</dc:description>
+      <dc:creator>
+Yajie Liu, 
+Zelin Duan, 
+Jing Fang, 
+Fan Zhang, 
+Junyu Xiao, 
+Wenbin Zhang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005490?af=R</link>
+      <content:encoded>&lt;p&gt;Herein, we report the biosynthesis of protein heterocatenanes via a programmed sequence of multiple post&#8208;translational processing events including intramolecular chain entanglement, in situ backbone cleavage, and spontaneous cyclization. The approach is general, autonomous, and can obviate the need of any additional enzymes. The catenane topology was convincingly proven via combined techniques of SDS&#8208;PAGE, LC&#8208;MS, SEC, controlled proteolytic digestion, and protein crystallography. The crystal structure clearly shows two mechanically interlocked protein rings with intact folded domains. It opens new avenues to the nascent field of protein topology engineering.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Cellular Synthesis and Crystal Structure of a Designed Protein Heterocatenane</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005490</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-07T06:00:28-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005490</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005490?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202006016?af=R">
+      <title>Catalytic AsymmetricElectrochemical&#945;&#8208;Arylation of Cyclic &#946;&#8208;Ketocarbonyls with Anodic Benzyne Intermediates</title>
+      <dc:description>Asymmetric catalysis with benzyne remains elusive due to the highly fleeting and non&#8208;polar nature of benzyne intermediates. We reported herein an electrochemical approach for the oxidative generation of benzynes and cyclohexyne and its successful merging with chiral primary aminocatalysis, formulating the first catalytic asymmetric enamine&#8208;benzyne (cyclohexyne) coupling reaction. Cobalt acetate was identified to stabilize the in&#8208;situ generated arynes and facilitate its coupling with enamine. This catalytic enamine&#8208;benzyne protocol provides a concise method for the construction of diverse &#945;&#8208;aryl or cyclohexenyl quaternary carbon stereogenic centers with good stereoselectivities.</dc:description>
+      <dc:creator>
+Longji Li, 
+Yao Li, 
+N Fu, 
+L Zhang, 
+Sanzhong Luo
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006016?af=R</link>
+      <content:encoded>&lt;p&gt;Asymmetric catalysis with benzyne remains elusive due to the highly fleeting and non&#8208;polar nature of benzyne intermediates. We reported herein an electrochemical approach for the oxidative generation of benzynes and cyclohexyne and its successful merging with chiral primary aminocatalysis, formulating the first catalytic asymmetric enamine&#8208;benzyne (cyclohexyne) coupling reaction. Cobalt acetate was identified to stabilize the in&#8208;situ generated arynes and facilitate its coupling with enamine. This catalytic enamine&#8208;benzyne protocol provides a concise method for the construction of diverse &#945;&#8208;aryl or cyclohexenyl quaternary carbon stereogenic centers with good stereoselectivities.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Catalytic AsymmetricElectrochemical&#945;&#8208;Arylation of Cyclic &#946;&#8208;Ketocarbonyls with Anodic Benzyne Intermediates</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006016</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-07T05:58:51-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202006016</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006016?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007247?af=R">
       <title>Total Syntheses of (&#8211;)&#8208;Conidiogenone B, (&#8211;)&#8208;Conidiogenone and (&#8211;)&#8208;Conidiogenol</title>
       <dc:description>Cyclopianes are novel diterpenes featuring a highly strained 6/5/5/5 tetracyclic core embedded with 6&#8208;8 consecutive stereocenters. The concise total syntheses of (&#8211;)&#8208;conidiogenone B, (&#8211;)&#8208;conidiogenone and (&#8211;)&#8208;conidiogenol have been accomplished in 14&#8208;17 steps. The present work features a HAT&#8208;mediated cyclization of alkene&#8208;nitrile to access the  cis  &#8208;biquinane, a Nicholas/Pauson&#8208;Khand reaction to construct the linear triquinane, and a Danheiser annulation to afford the congested angular triquinane skeleton.Cyclopianes are novel diterpenes featuring a highly strained 6/5/5/5 tetracyclic core embedded with 6&#8208;8 consecutive stereocenters. The concise total syntheses of (&#8211;)&#8208;conidiogenone B, (&#8211;)&#8208;conidiogenone and (&#8211;)&#8208;conidiogenol have been accomplished in 14&#8208;17 steps. The present work features a HAT&#8208;mediated cyclization of alkene&#8208;nitrile to access the  cis  &#8208;biquinane, a Nicholas/Pauson&#8208;Khand reaction to construct the linear triquinane, and a Danheiser annulation to afford the congested angular triquinane skeleton.</dc:description>
@@ -216,33 +369,6 @@ Shaobin Su
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007247</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007247?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007549?af=R">
-      <title>Visible light cascade photooxygenation of tetrahydrocarbazoles and cyclohepta[b]indoles: access to rare C,N&#8208;diacyliminium ions</title>
-      <dc:description>Tetrahydrocarbazoles and perhydrocyclohepta[b]indoles undergo a catalytic cascade singlet oxygenation in alkaline medium, which leads to chiral tricyclic perhydropyrido&#8208; and perhydro&#8208;azepino[1,2&#8208;a]indoles in a single operation. These photooxygenation products are new synthetic equivalents of uncommon C,N&#8208;diacyliminium ions and can be functionalized with the aid of phosphoric acid organocatalysis.</dc:description>
-      <dc:creator>
-Mario Frahm, 
-Thorsten von Drathen, 
-Lisa Marie Gronbach, 
-Alice Voss, 
-Felix Lorenz, 
-Jonas Bresien, 
-Alexander Villinger, 
-Frank Hoffmann, 
-Malte Brasholz
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007549?af=R</link>
-      <content:encoded>&lt;p&gt;Tetrahydrocarbazoles and perhydrocyclohepta[b]indoles undergo a catalytic cascade singlet oxygenation in alkaline medium, which leads to chiral tricyclic perhydropyrido&#8208; and perhydro&#8208;azepino[1,2&#8208;a]indoles in a single operation. These photooxygenation products are new synthetic equivalents of uncommon C,N&#8208;diacyliminium ions and can be functionalized with the aid of phosphoric acid organocatalysis.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Visible light cascade photooxygenation of tetrahydrocarbazoles and cyclohepta[b]indoles: access to rare C,N&#8208;diacyliminium ions</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007549</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-05T07:39:36-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007549</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007549?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -3043,36 +3169,6 @@ Keiji Maruoka
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202006814?af=R">
-      <title>Glycoconjugated Metallohelices have Improved Nuclear Delivery and Suppress Tumour Growth In Vivo</title>
-      <dc:description>Monosaccharides are added to the hydrophilic face of a self&#8208;assembled asymmetric Fe(II) metallohelix, using CuAAC chemistry. The sixteen resulting architectures are water&#8208;stable and optically pure, and exhibit improved antiproliferative selectivity against colon cancer cells (HCT116 p53  +/+  ) with respect to the non&#8208;cancerous ARPE&#8208;19 cell line. While the most selective compound is a glucose&#8208;appended enantiomer, its cellular entry is not mainly glucose transporter&#8208;mediated. Glucose conjugation nevertheless increases nuclear delivery ca 2.5&#8208;fold, and a non&#8208;destructive interaction with DNA is indicated. Addition of the glucose units affects the binding orientation of the metallohelix to naked DNA, but does not substantially alter the overall affinity. In a mouse model, the glucose conjugated compound was far better tolerated, and tumour growth delays for the parent compound (2.6 d) were improved to 4.3 d; performance as good as cisplatin but with the advantage of no weight loss in the subjects.</dc:description>
-      <dc:creator>
-Peter Scott, 
-Hualong Song, 
-Simon  J. Allison, 
-Viktor Brabec, 
-Hannah  E. Bridgewater, 
-Jana Kasparkova, 
-Hana Kostrhunova, 
-Vojtech Novohradsky, 
-Roger  M. Phillips, 
-Jitka Pracharova, 
-Nicola  J. Rogers, 
-Samantha  L. Shepherd
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006814?af=R</link>
-      <content:encoded>&lt;p&gt;Monosaccharides are added to the hydrophilic face of a self&#8208;assembled asymmetric Fe(II) metallohelix, using CuAAC chemistry. The sixteen resulting architectures are water&#8208;stable and optically pure, and exhibit improved antiproliferative selectivity against colon cancer cells (HCT116 p53  +/+  ) with respect to the non&#8208;cancerous ARPE&#8208;19 cell line. While the most selective compound is a glucose&#8208;appended enantiomer, its cellular entry is not mainly glucose transporter&#8208;mediated. Glucose conjugation nevertheless increases nuclear delivery ca 2.5&#8208;fold, and a non&#8208;destructive interaction with DNA is indicated. Addition of the glucose units affects the binding orientation of the metallohelix to naked DNA, but does not substantially alter the overall affinity. In a mouse model, the glucose conjugated compound was far better tolerated, and tumour growth delays for the parent compound (2.6 d) were improved to 4.3 d; performance as good as cisplatin but with the advantage of no weight loss in the subjects.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Glycoconjugated Metallohelices have Improved Nuclear Delivery and Suppress Tumour Growth In Vivo</dc:title>
-      <dc:identifier>doi:10.1002/anie.202006814</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-02T07:16:53-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202006814</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006814?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202005627?af=R">
       <title>Cation&#8208;Controlled Assembly of Polyoxotungstate&#8208;Based Coordination Networks</title>
       <dc:description>We use the Preyssler polyoxoanion, [NaP5W30O110  ]14&#8722;  ({P5W30}), as a platform for evaluating the role of non&#8208;bridging cations in the formation of transition&#8208;metal&#8208;bridged polyoxometalate coordination frameworks. Specifically, we show that the assembly architecture of Co2+&#8208;bridged&#160; frameworks is dependent on the identity and amount of alkali or alkaline earth cations present during crystallization. The inclusion of Li+  , Na+  , K+  , Mg2+  or Ca2+  in the framework synthesis is used to selectively synthesize five different Co  2+&#8208;bridged {P5W30} structures. We evaluate the role of the competition between K+  and Co2+  for binding to {P5W30} in dictating framework assembly. The role of ion&#8208;pairing on framework assembly structure and available void volume is discussed. Overall, these results provide insight into factors governing the ability to achieve controlled assembly of POM&#8208;based coordination networks.</dc:description>
@@ -3555,69 +3651,4 @@ Matthias Wagner
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005381?af=R">
-      <title>Optimized immobilization strategy for dirhodium (II) carboxylate catalysts for C&#8211;H functionalization and their implementation in a packed bed flow reactor</title>
-      <dc:description>Herein we demonstrate a sustainable, scalable packed bed flow reactor capable of achieving highly regio&#8208; and stereoselective C&#8211;H functionalization reactions using a newly developed Rh  2  (  S  &#8208;2&#8208;Cl&#8208;5&#8208;CF  3  TPCP)  4  catalyst. To optimize the immobilized dirhodium catalyst employed in the flow reactor, we systematically study both (i) the effects of ligand immobilization position, demonstrating the critical factor that the catalyst&#8208;support attachment location can have on the catalyst performance, and (ii) silica support mesopore length, demonstrating that decreasing diffusional limitations leads to increased accessibility of the active site and higher catalyst turnover frequency. We employ the immobilized dirhodium catalyst in a simple packed bed flow reactor achieving comparable yields and levels of enantioselectivity to the homogeneous catalyst employed in batch and maintain this performance over ten catalyst recycles.</dc:description>
-      <dc:creator>
-Taylor  A Hatridge, 
-Wenbin Liu, 
-Chun-Jae Yoo, 
-Huw  M L Davies, 
-Christopher  W Jones
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005381?af=R</link>
-      <content:encoded>&lt;p&gt;Herein we demonstrate a sustainable, scalable packed bed flow reactor capable of achieving highly regio&#8208; and stereoselective C&#8211;H functionalization reactions using a newly developed Rh  2  (  S  &#8208;2&#8208;Cl&#8208;5&#8208;CF  3  TPCP)  4  catalyst. To optimize the immobilized dirhodium catalyst employed in the flow reactor, we systematically study both (i) the effects of ligand immobilization position, demonstrating the critical factor that the catalyst&#8208;support attachment location can have on the catalyst performance, and (ii) silica support mesopore length, demonstrating that decreasing diffusional limitations leads to increased accessibility of the active site and higher catalyst turnover frequency. We employ the immobilized dirhodium catalyst in a simple packed bed flow reactor achieving comparable yields and levels of enantioselectivity to the homogeneous catalyst employed in batch and maintain this performance over ten catalyst recycles.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Optimized immobilization strategy for dirhodium (II) carboxylate catalysts for C&#8211;H functionalization and their implementation in a packed bed flow reactor</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005381</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-01T06:54:57-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005381</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005381?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202004668?af=R">
-      <title>Size and Halide Dependent Auger Recombination in Lead Halide Perovskite Nanocrystals</title>
-      <dc:description>Lead halide perovskite nanocrystals (NCs) hold strong promise for a variety of light harvesting, emitting and detecting applications, all of which, however, could be complicated by multicarrier Auger recombination. Therefore, a complete documentation of the size and composition dependent Auger recombination rates of these NCs is highly desirable, as it can guide the system design in many applications. Here we report the synthesis and Auger measurements of monodisperse APbX  3  (A= Cs and FA; X = Cl, Br, and I) NCs in an extensive size range (~3&#8208;9 nm). The biexciton Auger lifetime of all the NCs scales linearly with the NC volume. The scaling coefficient is virtually independent of the cation but rather depends sensitively on the anion, which is 0.035, 0.085 and 0.142 ps per nm  3  for Cl, Br, and I, respectively. All of these are much faster than that in standard CdSe and PbSe NCs (~1 ps per nm  3  ).</dc:description>
-      <dc:creator>
-Yulu Li, 
-Kaifeng Wu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004668?af=R</link>
-      <content:encoded>&lt;p&gt;Lead halide perovskite nanocrystals (NCs) hold strong promise for a variety of light harvesting, emitting and detecting applications, all of which, however, could be complicated by multicarrier Auger recombination. Therefore, a complete documentation of the size and composition dependent Auger recombination rates of these NCs is highly desirable, as it can guide the system design in many applications. Here we report the synthesis and Auger measurements of monodisperse APbX  3  (A= Cs and FA; X = Cl, Br, and I) NCs in an extensive size range (~3&#8208;9 nm). The biexciton Auger lifetime of all the NCs scales linearly with the NC volume. The scaling coefficient is virtually independent of the cation but rather depends sensitively on the anion, which is 0.035, 0.085 and 0.142 ps per nm  3  for Cl, Br, and I, respectively. All of these are much faster than that in standard CdSe and PbSe NCs (~1 ps per nm  3  ).&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Size and Halide Dependent Auger Recombination in Lead Halide Perovskite Nanocrystals</dc:title>
-      <dc:identifier>doi:10.1002/anie.202004668</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-05-31T10:32:22-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202004668</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004668?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005151?af=R">
-      <title>Enantioselective Syntheses of Strychnos and Chelidonium Alkaloids via Regio&#8208; and Stereocontrolled Cooperative Catalysis.</title>
-      <dc:description>Herein we describe enantioselective syntheses of  strychnos  and  chelidonium  alkaloids. In the first case, indole acetic acid esters were established as excellent partner nucleophiles for enantioselective cooperative isothiourea/Pd catalyzed a &#8208;alkylation. This provides products containing indole&#8208;bearing stereocenters in high yield and with excellent levels of enantioinduction in a manner that is notably independent of the  N  &#8208;substituent. This led to concise syntheses of (&#8211;)&#8208;akuammicine and (&#8211;)&#8208;strychnine . In the second case, the poor performance of  ortho  &#8208;substituted cinnamyl electrophiles in the enantioselective cooperative isothiourea/Ir catalyzed a &#8208;alkylation was overcome by appropriate substituent choice, leading to enantioselective syntheses of (+)&#8208;chelidonine, (+)&#8208;norchelidonine and (+)&#8208;chelamine.</dc:description>
-      <dc:creator>
-Thomas  Neil Snaddon, 
-Luke Hutchings-Goetz, 
-Chao Yang, 
-James Fyfe
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005151?af=R</link>
-      <content:encoded>&lt;p&gt;Herein we describe enantioselective syntheses of  strychnos  and  chelidonium  alkaloids. In the first case, indole acetic acid esters were established as excellent partner nucleophiles for enantioselective cooperative isothiourea/Pd catalyzed a &#8208;alkylation. This provides products containing indole&#8208;bearing stereocenters in high yield and with excellent levels of enantioinduction in a manner that is notably independent of the  N  &#8208;substituent. This led to concise syntheses of (&#8211;)&#8208;akuammicine and (&#8211;)&#8208;strychnine . In the second case, the poor performance of  ortho  &#8208;substituted cinnamyl electrophiles in the enantioselective cooperative isothiourea/Ir catalyzed a &#8208;alkylation was overcome by appropriate substituent choice, leading to enantioselective syntheses of (+)&#8208;chelidonine, (+)&#8208;norchelidonine and (+)&#8208;chelamine.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Enantioselective Syntheses of Strychnos and Chelidonium Alkaloids via Regio&#8208; and Stereocontrolled Cooperative Catalysis.</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005151</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-05-31T08:24:19-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005151</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005151?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
