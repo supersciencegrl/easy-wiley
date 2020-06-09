@@ -41,6 +41,7 @@ def getxmlfromfile():
 
 def updaterss(journal, shortname, url, cdate):
     root = getxml(url)
+    rootlengthinit = len(root)
 
     # Read in old articles
     with open(f'{shortname.lower()}_old.csv', 'rt') as fin:
@@ -49,7 +50,7 @@ def updaterss(journal, shortname, url, cdate):
 
     # Read in RSS articles and remove newer duplicates
     rss_articles = old_articles[:]
-    for paper in root[2:][::-1]:
+    for n, paper in enumerate(root[2:][::-1]):
         for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
             doi = doi.text
         if paper.findall('{http://purl.org/dc/elements/1.1/}date'):
@@ -57,6 +58,13 @@ def updaterss(journal, shortname, url, cdate):
                 date = date.text
         else:
             date = 'none'
+
+        # Deal with Wiley changing the links every 5 minutes
+        paperposn = rootlengthinit - n - 1
+        if paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}url'):
+                newurl = root[paperposn][3].text.replace('www.', '')
+                root[paperposn][3].text = newurl
+                root[paperposn][12].text = newurl
 
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:

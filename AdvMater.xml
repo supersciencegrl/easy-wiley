@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000797?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001998?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000218?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001200?af=R" />
@@ -102,7 +103,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907983?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000272?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001113?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908083?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -111,6 +111,51 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202000797?af=R">
+      <title>Liquid&#8208;Crystal&#8208;Elastomer&#8208;Based Dissipative Structures by Digital Light Processing 3D Printing</title>
+      <dc:description>
+Bespoke liquid crystal elastomer lattice structures (LCE) are 3D printed using Digital Light Processing from a custom thiol&#8208;acrylate photocurable resin. The mechanical dissipation of these structures is explored and compared to a commercially available elastomer resin, TangoBlack. The LCE structures have greater reported rate&#8208;dependence and dissipation properties. This can lead to the advent of better dissipative devices.
+
+
+
+
+
+
+
+
+Abstract
+Digital Light Processing (DLP) 3D printing enables the creation of hierarchical complex structures with specific micro&#8208; and macroscopic architectures that are impossible to achieve through traditional manufacturing methods. Here, this hierarchy is extended to the mesoscopic length scale for optimized devices that dissipate mechanical energy. A photocurable, thus DLP&#8208;printable main&#8208;chain liquid crystal elastomer (LCE) resin is reported and used to print a variety of complex, high&#8208;resolution energy&#8208;dissipative devices. Using compressive mechanical testing, the stress&#8211;strain responses of 3D&#8208;printed LCE lattice structures are shown to have 12 times greater rate&#8208;dependence and up to 27 times greater strain&#8211;energy dissipation compared to those printed from a commercially available photocurable elastomer resin. The reported behaviors of these structures provide further insight into the much&#8208;overlooked energy&#8208;dissipation properties of LCEs and can inspire the development of high&#8208;energy&#8208;absorbing device applications.
+</dc:description>
+      <dc:creator>
+Nicholas A. Traugutt, 
+Devesh Mistry, 
+Chaoqian Luo, 
+Kai Yu, 
+Qi Ge, 
+Christopher M. Yakacki
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000797?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ac0117ee-fd1f-41aa-9fcc-437aee331f47/adma202000797-gra-0001-m.png"
+     alt="Liquid&#8208;Crystal&#8208;Elastomer&#8208;Based Dissipative Structures by Digital Light Processing 3D Printing"/&gt;
+&lt;p&gt;Bespoke liquid crystal elastomer lattice structures (LCE) are 3D printed using Digital Light Processing from a custom thiol&#8208;acrylate photocurable resin. The mechanical dissipation of these structures is explored and compared to a commercially available elastomer resin, TangoBlack. The LCE structures have greater reported rate&#8208;dependence and dissipation properties. This can lead to the advent of better dissipative devices.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Digital Light Processing (DLP) 3D printing enables the creation of hierarchical complex structures with specific micro&#8208; and macroscopic architectures that are impossible to achieve through traditional manufacturing methods. Here, this hierarchy is extended to the mesoscopic length scale for optimized devices that dissipate mechanical energy. A photocurable, thus DLP&#8208;printable main&#8208;chain liquid crystal elastomer (LCE) resin is reported and used to print a variety of complex, high&#8208;resolution energy&#8208;dissipative devices. Using compressive mechanical testing, the stress&#8211;strain responses of 3D&#8208;printed LCE lattice structures are shown to have 12 times greater rate&#8208;dependence and up to 27 times greater strain&#8211;energy dissipation compared to those printed from a commercially available photocurable elastomer resin. The reported behaviors of these structures provide further insight into the much&#8208;overlooked energy&#8208;dissipation properties of LCEs and can inspire the development of high&#8208;energy&#8208;absorbing device applications.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Liquid&#8208;Crystal&#8208;Elastomer&#8208;Based Dissipative Structures by Digital Light Processing 3D Printing</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000797</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-08T01:00:03-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000797</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000797?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202001998?af=R">
       <title>Perovskite Single&#8208;Crystal Microwire&#8208;Array Photodetectors with Performance Stability beyond 1 Year</title>
       <dc:description>
@@ -824,7 +869,7 @@ Pablo Alonso&#8208;Gonz&#225;lez
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070170?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070170</prism:doi>
@@ -845,7 +890,7 @@ Pablo Alonso&#8208;Gonz&#225;lez
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070169?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070169</prism:doi>
@@ -893,7 +938,7 @@ Ingo Pinnau
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070171?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070171</prism:doi>
@@ -939,7 +984,7 @@ Cheng Zhong
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070172?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070172</prism:doi>
@@ -985,7 +1030,7 @@ Nicolas Vogel
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070173?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070173</prism:doi>
@@ -1034,7 +1079,7 @@ Won Jong Kim
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070167?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070167</prism:doi>
@@ -1081,7 +1126,7 @@ Darrell G. Schlom
       <dc:date>2020-06-02T08:42:19-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:volume>32</prism:volume>
-      <prism:number>22</prism:number>
+      <prism:number>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070168?af=R</prism:number>
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070168</prism:doi>
@@ -3192,56 +3237,6 @@ Cheng Chao Li
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202001113</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001113?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201908083?af=R">
-      <title>Ferroelectric Sr3Sn2O7:Nd3+: A New Multipiezo Material with Ultrasensitive and Sustainable Near&#8208;Infrared Piezoluminescence</title>
-      <dc:description>
-Ultrasensitive and sustainable near&#8208;infrared emitting piezoluminescence is successfully realized from noncentrosymmetric and ferroelectric&#8208;phase Sr3Sn2O7 doped with rare earth Nd3+ ions. The breakthrough provides new research opportunities to study multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures (on&#8208;site, in vivo, etc.).
-
-
-
-
-
-
-
-
-Abstract
-Ultrasensitive and sustainable near&#8208;infrared (NIR)&#8208;emitting piezoluminescence is observed from noncentrosymmetric and ferroelectric&#8208;phase Sr3Sn2O7 doped with rare earth Nd3+ ions. Sr3Sn2O7:Nd3+ (SSN) with polar A21am structure is demonstrated to emit piezoluminescence of wavelength of 800&#8211;1500 nm at microstrain levels, which is enhanced by the ferroelectrically polarized charges in the multipiezo material. These discoveries provide new research opportunities to study luminescence properties of multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures including artificial bone and other implanted structures (in vivo, in situ, etc).
-</dc:description>
-      <dc:creator>
-Dong Tu, 
-Chao&#8208;Nan Xu, 
-Sunao Kamimura, 
-Yoichi Horibe, 
-Hirotaka Oshiro, 
-Lu Zhang, 
-Yoshiharu Ishii, 
-Koji Hyodo, 
-Gerard Marriott, 
-Naohiro Ueno, 
-Xu&#8208;Guang Zheng
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908083?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8cda156e-6f7a-4373-a2e7-5f429e5e256b/adma201908083-gra-0001-m.png"
-     alt="Ferroelectric Sr3Sn2O7:Nd3+: A New Multipiezo Material with Ultrasensitive and Sustainable Near&#8208;Infrared Piezoluminescence"/&gt;
-&lt;p&gt;Ultrasensitive and sustainable near&#8208;infrared emitting piezoluminescence is successfully realized from noncentrosymmetric and ferroelectric&#8208;phase Sr&lt;sub&gt;3&lt;/sub&gt;Sn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; doped with rare earth Nd&lt;sup&gt;3+&lt;/sup&gt; ions. The breakthrough provides new research opportunities to study multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures (on&#8208;site, in vivo, etc.).
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Ultrasensitive and sustainable near&#8208;infrared (NIR)&#8208;emitting piezoluminescence is observed from noncentrosymmetric and ferroelectric&#8208;phase Sr&lt;sub&gt;3&lt;/sub&gt;Sn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; doped with rare earth Nd&lt;sup&gt;3+&lt;/sup&gt; ions. Sr&lt;sub&gt;3&lt;/sub&gt;Sn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt;:Nd&lt;sup&gt;3+&lt;/sup&gt; (SSN) with polar &lt;i&gt;A2&lt;sub&gt;1&lt;/sub&gt;am &lt;/i&gt; structure is demonstrated to emit piezoluminescence of wavelength of 800&#8211;1500 nm at microstrain levels, which is enhanced by the ferroelectrically polarized charges in the multipiezo material. These discoveries provide new research opportunities to study luminescence properties of multipiezo and piezo&#8208;photonic materials, and to explore their potential as novel ultrasensitive probes for deep&#8208;imaging of stress distributions in diverse materials and structures including artificial bone and other implanted structures (in vivo, in situ, etc).&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Ferroelectric Sr3Sn2O7:Nd3+: A New Multipiezo Material with Ultrasensitive and Sustainable Near&#8208;Infrared Piezoluminescence</dc:title>
-      <dc:identifier>doi:10.1002/adma.201908083</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-20T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201908083</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201908083?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
