@@ -9,7 +9,12 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000216?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002361?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000556?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001999?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000797?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001997?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001998?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000218?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001200?af=R" />
@@ -98,11 +103,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001906?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907041?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002163?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000366?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201903855?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907983?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000272?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001113?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -111,10 +111,10 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/adma.202000797?af=R">
-      <title>Liquid&#8208;Crystal&#8208;Elastomer&#8208;Based Dissipative Structures by Digital Light Processing 3D Printing</title>
+   <item rdf:about="/doi/abs/10.1002/adma.202000216?af=R">
+      <title>Ferroelectric Exchange Bias Affects Interfacial Electronic States</title>
       <dc:description>
-Bespoke liquid crystal elastomer lattice structures (LCE) are 3D printed using Digital Light Processing from a custom thiol&#8208;acrylate photocurable resin. The mechanical dissipation of these structures is explored and compared to a commercially available elastomer resin, TangoBlack. The LCE structures have greater reported rate&#8208;dependence and dissipation properties. This can lead to the advent of better dissipative devices.
+A 2D superconductor is formed at the interface between a ferroelectric insulator and a polar oxide. Transport properties at low temperatures are anomalous and hysteretic as a function of external electrostatic gating. Imaging of the spatial distribution of the current flow is combined to show that an intrinsic electrostatic bias (analogous to the magnetic exchange bias) explains the observations.
 
 
 
@@ -124,35 +124,230 @@ Bespoke liquid crystal elastomer lattice structures (LCE) are 3D printed using D
 
 
 Abstract
-Digital Light Processing (DLP) 3D printing enables the creation of hierarchical complex structures with specific micro&#8208; and macroscopic architectures that are impossible to achieve through traditional manufacturing methods. Here, this hierarchy is extended to the mesoscopic length scale for optimized devices that dissipate mechanical energy. A photocurable, thus DLP&#8208;printable main&#8208;chain liquid crystal elastomer (LCE) resin is reported and used to print a variety of complex, high&#8208;resolution energy&#8208;dissipative devices. Using compressive mechanical testing, the stress&#8211;strain responses of 3D&#8208;printed LCE lattice structures are shown to have 12 times greater rate&#8208;dependence and up to 27 times greater strain&#8211;energy dissipation compared to those printed from a commercially available photocurable elastomer resin. The reported behaviors of these structures provide further insight into the much&#8208;overlooked energy&#8208;dissipation properties of LCEs and can inspire the development of high&#8208;energy&#8208;absorbing device applications.
+In polar oxide interfaces phenomena such as superconductivity, magnetism, 1D conductivity, and quantum Hall states can emerge at the polar discontinuity. Combining controllable ferroelectricity at such interfaces can affect the superconducting properties and sheds light on the mutual effects between the polar oxide and the ferroelectric oxide. Here, the interface between the polar oxide LaAlO3 and the ferroelectric Ca&#8208;doped SrTiO3 is studied by means of electrical transport combined with local imaging of the current flow with the use of scanning a superconducting quantum interference device (SQUID). Anomalous behavior of the interface resistivity is observed at low temperatures. The scanning SQUID maps of the current flow suggest that this behavior originates from an intrinsic bias induced by the polar LaAlO3 layer. Such intrinsic bias combined with ferroelectricity can constrain the possible structural domain tiling near the interface. The use of this intrinsic bias is recommended as a method of controlling and tuning the initial state of ferroelectric materials by the design of the polar structure. The hysteretic dependence of the normal and the superconducting state properties on gate voltage can be utilized in multifaceted controllable memory devices.
 </dc:description>
       <dc:creator>
-Nicholas A. Traugutt, 
-Devesh Mistry, 
-Chaoqian Luo, 
-Kai Yu, 
-Qi Ge, 
-Christopher M. Yakacki
+Gal Tuvia, 
+Yiftach Frenkel, 
+Prasanna K. Rout, 
+Itai Silber, 
+Beena Kalisky, 
+Yoram Dagan
 </dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000797?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ac0117ee-fd1f-41aa-9fcc-437aee331f47/adma202000797-gra-0001-m.png"
-     alt="Liquid&#8208;Crystal&#8208;Elastomer&#8208;Based Dissipative Structures by Digital Light Processing 3D Printing"/&gt;
-&lt;p&gt;Bespoke liquid crystal elastomer lattice structures (LCE) are 3D printed using Digital Light Processing from a custom thiol&#8208;acrylate photocurable resin. The mechanical dissipation of these structures is explored and compared to a commercially available elastomer resin, TangoBlack. The LCE structures have greater reported rate&#8208;dependence and dissipation properties. This can lead to the advent of better dissipative devices.
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000216?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ee6662df-05b1-449a-bde3-7844832ee07e/adma202000216-gra-0001-m.png"
+     alt="Ferroelectric Exchange Bias Affects Interfacial Electronic States"/&gt;
+&lt;p&gt;A 2D superconductor is formed at the interface between a ferroelectric insulator and a polar oxide. Transport properties at low temperatures are anomalous and hysteretic as a function of external electrostatic gating. Imaging of the spatial distribution of the current flow is combined to show that an intrinsic electrostatic bias (analogous to the magnetic exchange bias) explains the observations.
 
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Digital Light Processing (DLP) 3D printing enables the creation of hierarchical complex structures with specific micro&#8208; and macroscopic architectures that are impossible to achieve through traditional manufacturing methods. Here, this hierarchy is extended to the mesoscopic length scale for optimized devices that dissipate mechanical energy. A photocurable, thus DLP&#8208;printable main&#8208;chain liquid crystal elastomer (LCE) resin is reported and used to print a variety of complex, high&#8208;resolution energy&#8208;dissipative devices. Using compressive mechanical testing, the stress&#8211;strain responses of 3D&#8208;printed LCE lattice structures are shown to have 12 times greater rate&#8208;dependence and up to 27 times greater strain&#8211;energy dissipation compared to those printed from a commercially available photocurable elastomer resin. The reported behaviors of these structures provide further insight into the much&#8208;overlooked energy&#8208;dissipation properties of LCEs and can inspire the development of high&#8208;energy&#8208;absorbing device applications.&lt;/p&gt;
+&lt;p&gt;In polar oxide interfaces phenomena such as superconductivity, magnetism, 1D conductivity, and quantum Hall states can emerge at the polar discontinuity. Combining controllable ferroelectricity at such interfaces can affect the superconducting properties and sheds light on the mutual effects between the polar oxide and the ferroelectric oxide. Here, the interface between the polar oxide LaAlO&lt;sub&gt;3&lt;/sub&gt; and the ferroelectric Ca&#8208;doped SrTiO&lt;sub&gt;3&lt;/sub&gt; is studied by means of electrical transport combined with local imaging of the current flow with the use of scanning a superconducting quantum interference device (SQUID). Anomalous behavior of the interface resistivity is observed at low temperatures. The scanning SQUID maps of the current flow suggest that this behavior originates from an intrinsic bias induced by the polar LaAlO&lt;sub&gt;3&lt;/sub&gt; layer. Such intrinsic bias combined with ferroelectricity can constrain the possible structural domain tiling near the interface. The use of this intrinsic bias is recommended as a method of controlling and tuning the initial state of ferroelectric materials by the design of the polar structure. The hysteretic dependence of the normal and the superconducting state properties on gate voltage can be utilized in multifaceted controllable memory devices.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Liquid&#8208;Crystal&#8208;Elastomer&#8208;Based Dissipative Structures by Digital Light Processing 3D Printing</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000797</dc:identifier>
+      <dc:title>Ferroelectric Exchange Bias Affects Interfacial Electronic States</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000216</dc:identifier>
       <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-08T01:00:03-07:00</dc:date>
+      <dc:date>2020-06-08T08:01:04-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000797</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000797?af=R</prism:url>
+      <prism:doi>10.1002/adma.202000216</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000216?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202002361?af=R">
+      <title>Spider&#8208;Web&#8208;Inspired PM0.3 Filters Based on Self&#8208;Sustained Electrostatic Nanostructured Networks</title>
+      <dc:description>
+A spider&#8208;web&#8208;inspired network generator (SWING)&#8208;based air filter constructed from 2D electrostatic nanostructured networks is created by a unique electrospraying&#8211;netting technique. Due to the self&#8208;sustained electrostatic adhesion driven by aeolian vibration and Steiner&#8208;tree&#8208;structured pores (size 200&#8211;300 nm) consisting of nanowires (diameter 12 nm), the SWING filters achieve &gt;99.995% PM0.3 removal, &lt;0.09% atmosphere pressure, &gt;82% transmittance, and remarkable bioprotective activity.
+
+
+
+
+
+
+
+
+Abstract
+Particulate matter (PM) pollution has become a serious public health issue, especially with outbreaks of emerging infectious diseases. However, most present filters are bulky, opaque, and show low&#8208;efficiency PM0.3/pathogen interception and inevitable trade&#8208;off between PM removal and air permeability. Here, a unique electrospraying&#8211;netting technique is used to create spider&#8208;web&#8208;inspired network generator (SWING) air filters. Manipulation of the dynamic of the Taylor cone and phase separation of its ejected droplets enable the generation of 2D self&#8208;charging nanostructured networks on a large scale. The resultant SWING filters show exceptional long&#8208;range electrostatic property driven by aeolian vibration, enabling self&#8208;sustained PM adhesion. Combined with their Steiner&#8208;tree&#8208;structured pores (size 200&#8211;300 nm) consisting of nanowires (diameter 12 nm), the SWING filters exhibit high efficiency (&gt;99.995% PM0.3 removal), low air resistance (&lt;0.09% atmosphere pressure), high transparency (&gt;82%), and remarkable bioprotective activity for biohazard pathogens. This work may shed light on designing new fibrous materials for environmental and energy applications.
+</dc:description>
+      <dc:creator>
+Shichao Zhang, 
+Hui Liu, 
+Ning Tang, 
+Sheng Zhou, 
+Jianyong Yu, 
+Bin Ding
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002361?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/568cc639-4260-4907-8cf8-37f55554e3c1/adma202002361-gra-0001-m.png"
+     alt="Spider&#8208;Web&#8208;Inspired PM0.3 Filters Based on Self&#8208;Sustained Electrostatic Nanostructured Networks"/&gt;
+&lt;p&gt;A spider&#8208;web&#8208;inspired network generator (SWING)&#8208;based air filter constructed from 2D electrostatic nanostructured networks is created by a unique electrospraying&#8211;netting technique. Due to the self&#8208;sustained electrostatic adhesion driven by aeolian vibration and Steiner&#8208;tree&#8208;structured pores (size 200&#8211;300 nm) consisting of nanowires (diameter 12 nm), the SWING filters achieve &amp;gt;99.995% PM&lt;sub&gt;0.3&lt;/sub&gt; removal, &amp;lt;0.09% atmosphere pressure, &amp;gt;82% transmittance, and remarkable bioprotective activity.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Particulate matter (PM) pollution has become a serious public health issue, especially with outbreaks of emerging infectious diseases. However, most present filters are bulky, opaque, and show low&#8208;efficiency PM&lt;sub&gt;0.3&lt;/sub&gt;/pathogen interception and inevitable trade&#8208;off between PM removal and air permeability. Here, a unique electrospraying&#8211;netting technique is used to create spider&#8208;web&#8208;inspired network generator (SWING) air filters. Manipulation of the dynamic of the Taylor cone and phase separation of its ejected droplets enable the generation of 2D self&#8208;charging nanostructured networks on a large scale. The resultant SWING filters show exceptional long&#8208;range electrostatic property driven by aeolian vibration, enabling self&#8208;sustained PM adhesion. Combined with their Steiner&#8208;tree&#8208;structured pores (size 200&#8211;300 nm) consisting of nanowires (diameter 12 nm), the SWING filters exhibit high efficiency (&amp;gt;99.995% PM&lt;sub&gt;0.3&lt;/sub&gt; removal), low air resistance (&amp;lt;0.09% atmosphere pressure), high transparency (&amp;gt;82%), and remarkable bioprotective activity for biohazard pathogens. This work may shed light on designing new fibrous materials for environmental and energy applications.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Spider&#8208;Web&#8208;Inspired PM0.3 Filters Based on Self&#8208;Sustained Electrostatic Nanostructured Networks</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002361</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-08T07:48:31-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002361</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002361?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202000556?af=R">
+      <title>Evolution of 3D Printing Methods and Materials for Electrochemical Energy Storage</title>
+      <dc:description>
+The material and method requirements in 3D&#8208;printable batteries and supercapacitors are discussed, and the requirements for the future of the field are outlined by providing a guide to 3D&#8208;printable electroactive materials and printing method choice best suited for alternative&#8208;form&#8208;factor energy&#8208;storage devices.
+
+
+
+
+
+
+
+
+Abstract
+Additive manufacturing has revolutionized the building of materials, and 3D&#8208;printing has become a useful tool for complex electrode assembly for batteries and supercapacitors. The field initially grew from extrusion&#8208;based methods and quickly evolved to photopolymerization printing, while supercapacitor technologies less sensitive to solvents more often involved material jetting processes. The need to develop higher&#8208;resolution multimaterial printers is borne out in the performance data of recent 3D printed electrochemical energy storage devices. Underpinning every part of a 3D&#8208;printable battery are the printing method and the feed material. These influence material purity, printing fidelity, accuracy, complexity, and the ability to form conductive, ceramic, or solvent&#8208;stable materials. The future of 3D&#8208;printable batteries and electrochemical energy storage devices is reliant on materials and printing methods that are co&#8208;operatively informed by device design. Herein, the material and method requirements in 3D&#8208;printable batteries and supercapacitors are addressed and requirements for the future of the field are outlined by linking existing performance limitations to requirements for printable energy&#8208;storage materials, casings, and direct printing of electrodes and electrolytes. A guide to materials and printing method choice best suited for alternative&#8208;form&#8208;factor energy&#8208;storage devices to be designed and integrated into the devices they power is thus provided.
+</dc:description>
+      <dc:creator>
+Vladimir Egorov, 
+Umair Gulzar, 
+Yan Zhang, 
+Siobh&#225;n Breen, 
+Colm O'Dwyer
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000556?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a722ff0a-0484-405b-a204-f397da5f3347/adma202000556-gra-0001-m.png"
+     alt="Evolution of 3D Printing Methods and Materials for Electrochemical Energy Storage"/&gt;
+&lt;p&gt;The material and method requirements in 3D&#8208;printable batteries and supercapacitors are discussed, and the requirements for the future of the field are outlined by providing a guide to 3D&#8208;printable electroactive materials and printing method choice best suited for alternative&#8208;form&#8208;factor energy&#8208;storage devices.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Additive manufacturing has revolutionized the building of materials, and 3D&#8208;printing has become a useful tool for complex electrode assembly for batteries and supercapacitors. The field initially grew from extrusion&#8208;based methods and quickly evolved to photopolymerization printing, while supercapacitor technologies less sensitive to solvents more often involved material jetting processes. The need to develop higher&#8208;resolution multimaterial printers is borne out in the performance data of recent 3D printed electrochemical energy storage devices. Underpinning every part of a 3D&#8208;printable battery are the printing method and the feed material. These influence material purity, printing fidelity, accuracy, complexity, and the ability to form conductive, ceramic, or solvent&#8208;stable materials. The future of 3D&#8208;printable batteries and electrochemical energy storage devices is reliant on materials and printing methods that are co&#8208;operatively informed by device design. Herein, the material and method requirements in 3D&#8208;printable batteries and supercapacitors are addressed and requirements for the future of the field are outlined by linking existing performance limitations to requirements for printable energy&#8208;storage materials, casings, and direct printing of electrodes and electrolytes. A guide to materials and printing method choice best suited for alternative&#8208;form&#8208;factor energy&#8208;storage devices to be designed and integrated into the devices they power is thus provided.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Evolution of 3D Printing Methods and Materials for Electrochemical Energy Storage</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000556</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-08T07:47:27-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000556</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000556?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001999?af=R">
+      <title>Wettability&#8208;Guided Screen Printing of Perovskite Microlaser Arrays for Current&#8208;Driven Displays</title>
+      <dc:description>
+Large&#8208;scale multicolor perovskite microlaser arrays with controllable physical dimensions and spatial locations are rapidly constructed with a universal and robust strategy, which is subsequently utilized to develop high&#8208;performance display panels. The results provide new opportunities to explore the concepts and device architectures of flat&#8208;panel laser display technology.
+
+
+
+
+
+
+
+
+Abstract
+Halide perovskites have shown tremendous potential for next&#8208;generation flat&#8208;panel laser displays due to their remarkable optoelectronic properties and outstanding material processability; however, the lack of a general approach for the fast growth of perovskite laser arrays capable of electrical operations impedes actualization of their display applications. Herein, a universal and robust wettability&#8208;guided screen&#8208;printing technique is reported for the rapid growth of large&#8208;scale multicolor perovskite microdisk laser arrays, which can serve as laser display panels and further be used to realize current&#8208;driven displays. The perovskite microlasers are precisely defined with controlled physical dimensions and spatial locations by such a printing strategy, and each perovskite microlaser serves as a pixel of a display panel. Moreover, the screen&#8208;printing procedure is highly compatible with light&#8208;emitting diode (LED) device architectures, which is favorable for the mass production of micro&#8208;LED arrays. On this basis, a prototype of a current&#8208;driven display is demonstrated with desired functionalities. The outstanding performance and feasible fabrication of screen&#8208;printed perovskite microlaser arrays embedded in LEDs provide deep insights into the concepts and device architectures of electrically driven laser display technology.
+</dc:description>
+      <dc:creator>
+Kang Wang, 
+Yuxiang Du, 
+Jie Liang, 
+Jinyang Zhao, 
+Fa Feng Xu, 
+Xiaolong Liu, 
+Chuang Zhang, 
+Yongli Yan, 
+Yong Sheng Zhao
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001999?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9e393b8a-5d7c-4b5a-bd62-aec2a0333f97/adma202001999-gra-0001-m.png"
+     alt="Wettability&#8208;Guided Screen Printing of Perovskite Microlaser Arrays for Current&#8208;Driven Displays"/&gt;
+&lt;p&gt;Large&#8208;scale multicolor perovskite microlaser arrays with controllable physical dimensions and spatial locations are rapidly constructed with a universal and robust strategy, which is subsequently utilized to develop high&#8208;performance display panels. The results provide new opportunities to explore the concepts and device architectures of flat&#8208;panel laser display technology.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Halide perovskites have shown tremendous potential for next&#8208;generation flat&#8208;panel laser displays due to their remarkable optoelectronic properties and outstanding material processability; however, the lack of a general approach for the fast growth of perovskite laser arrays capable of electrical operations impedes actualization of their display applications. Herein, a universal and robust wettability&#8208;guided screen&#8208;printing technique is reported for the rapid growth of large&#8208;scale multicolor perovskite microdisk laser arrays, which can serve as laser display panels and further be used to realize current&#8208;driven displays. The perovskite microlasers are precisely defined with controlled physical dimensions and spatial locations by such a printing strategy, and each perovskite microlaser serves as a pixel of a display panel. Moreover, the screen&#8208;printing procedure is highly compatible with light&#8208;emitting diode (LED) device architectures, which is favorable for the mass production of micro&#8208;LED arrays. On this basis, a prototype of a current&#8208;driven display is demonstrated with desired functionalities. The outstanding performance and feasible fabrication of screen&#8208;printed perovskite microlaser arrays embedded in LEDs provide deep insights into the concepts and device architectures of electrically driven laser display technology.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Wettability&#8208;Guided Screen Printing of Perovskite Microlaser Arrays for Current&#8208;Driven Displays</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001999</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-08T07:04:25-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001999</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001999?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001997?af=R">
+      <title>Liquid&#8208;Metal&#8208;Templated Synthesis of 2D Graphitic Materials at Room Temperature</title>
+      <dc:description>
+A liquid metal establishes an ultrasmooth liquid&#8211;liquid interface that catalyses the dissociation of organic precursors into interfacial graphitic carbon films. The electrochemical synthesis of these 2D graphitic films is accomplished at room temperature (with only a small energy input, an onset voltage of 0.45 V) and they self&#8208;exfoliate from the nonpolar surface of the liquid metal by applying higher voltages.
+
+
+
+
+
+
+
+
+Abstract
+Room&#8208;temperature synthesis of 2D graphitic materials (2D&#8208;GMs) remains an elusive aim, especially with electrochemical means. Here, it is shown that liquid metals render this possible as they offer catalytic activity and an ultrasmooth templating interface that promotes Frank&#8211;van der Merwe regime growth, while allowing facile exfoliation due to the absence of interfacial forces as a nonpolar liquid. The 2D&#8208;GMs are formed at low onset potential and can be in situ doped depending on the choice of organic precursors and the electrochemical set&#8208;up. The materials are tuned to exhibit porous or pinhole&#8208;free morphologies and are engineered for their degree of oxidation and number of layers. The proposed liquid&#8208;metal&#8208;based room&#8208;temperature electrochemical route can be expanded to many other 2D materials.
+</dc:description>
+      <dc:creator>
+Mohannad Mayyas, 
+Hongzhe Li, 
+Priyank Kumar, 
+Mohammad B. Ghasemian, 
+Jiong Yang, 
+Yifang Wang, 
+Douglas J. Lawes, 
+Jialuo Han, 
+Maricruz G. Saborio, 
+Jianbo Tang, 
+Rouhollah Jalili, 
+Sun Hwa Lee, 
+Won Kyung Seong, 
+Salvy P. Russo, 
+Dorna Esrafilzadeh, 
+Torben Daeneke, 
+Richard B. Kaner, 
+Rodney S. Ruoff, 
+Kourosh Kalantar&#8208;Zadeh
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001997?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/95261a84-6ce7-4b70-844d-342f058dc7a8/adma202001997-gra-0001-m.png"
+     alt="Liquid&#8208;Metal&#8208;Templated Synthesis of 2D Graphitic Materials at Room Temperature"/&gt;
+&lt;p&gt;A liquid metal establishes an ultrasmooth liquid&#8211;liquid interface that catalyses the dissociation of organic precursors into interfacial graphitic carbon films. The electrochemical synthesis of these 2D graphitic films is accomplished at room temperature (with only a small energy input, an onset voltage of 0.45 V) and they self&#8208;exfoliate from the nonpolar surface of the liquid metal by applying higher voltages.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Room&#8208;temperature synthesis of 2D graphitic materials (2D&#8208;GMs) remains an elusive aim, especially with electrochemical means. Here, it is shown that liquid metals render this possible as they offer catalytic activity and an ultrasmooth templating interface that promotes Frank&#8211;van der Merwe regime growth, while allowing facile exfoliation due to the absence of interfacial forces as a nonpolar liquid. The 2D&#8208;GMs are formed at low onset potential and can be in situ doped depending on the choice of organic precursors and the electrochemical set&#8208;up. The materials are tuned to exhibit porous or pinhole&#8208;free morphologies and are engineered for their degree of oxidation and number of layers. The proposed liquid&#8208;metal&#8208;based room&#8208;temperature electrochemical route can be expanded to many other 2D materials.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Liquid&#8208;Metal&#8208;Templated Synthesis of 2D Graphitic Materials at Room Temperature</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001997</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-08T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001997</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001997?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2997,246 +3192,6 @@ Judy Z. Wu
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202002163</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002163?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000366?af=R">
-      <title>Bioinspired Soft Microrobots with Precise Magneto&#8208;Collective Control for Microvascular Thrombolysis</title>
-      <dc:description>
-A biomimetic magnetic microrobot inspired by the highly organized magnetosomes in magnetotactic bacteria shows speedy motion capacity and accurate positioning in a low&#8208;Reynolds&#8208;number biofluid. The microrobot enables delivery and release of drug molecules via a magneto&#8208;collective manner for microvascular thrombolysis, making ultra&#8208;minimal invasive surgery and drug delivery promising.
-
-
-
-
-
-
-
-
-Abstract
-New&#8208;era soft microrobots for biomedical applications need to mimic the essential structures and collective functions of creatures from nature. Biocompatible interfaces, intelligent functionalities, and precise locomotion control in a collective manner are the key parameters to design soft microrobots for the complex bio&#8208;environment. In this work, a biomimetic magnetic microrobot (BMM) inspired by magnetotactic bacteria (MTB) with speedy motion response and accurate positioning is developed for targeted thrombolysis. Similar to the magnetosome structure in MTB, the BMM is composed of aligned iron oxide nanoparticle (MNP) chains embedded in a non&#8208;swelling microgel shell. Linear chains in BMMs are achieved due to the interparticle dipolar interactions of MNPs under a static magnetic field. Simulation results show that, the degree and speed of assembly is proportional to the field strength. The BMM achieves the maximum speed of 161.7 &#181;m s&#8722;1 and accurate positioning control under a rotating magnetic field with less than 4% deviation. Importantly, the locomotion analyses of BMMs demonstrate the frequency&#8208;dependent synchronization under 8 Hz and asynchronization at higher frequencies due to the increased drag torque. The BMMs can deliver and release thrombolytic drugs via magneto&#8208;collective control, which is promising for ultra&#8208;minimal invasive thrombolysis.
-</dc:description>
-      <dc:creator>
-Meihua Xie, 
-Wei Zhang, 
-Chengying Fan, 
-Chu Wu, 
-Qishuai Feng, 
-Jiaojiao Wu, 
-Yingze Li, 
-Rui Gao, 
-Zhenguang Li, 
-Qigang Wang, 
-Yu Cheng, 
-Bin He
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000366?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/15236cb7-f32a-4f6c-961e-ccac664efe12/adma202000366-gra-0001-m.png"
-     alt="Bioinspired Soft Microrobots with Precise Magneto&#8208;Collective Control for Microvascular Thrombolysis"/&gt;
-&lt;p&gt;A biomimetic magnetic microrobot inspired by the highly organized magnetosomes in magnetotactic bacteria shows speedy motion capacity and accurate positioning in a low&#8208;Reynolds&#8208;number biofluid. The microrobot enables delivery and release of drug molecules via a magneto&#8208;collective manner for microvascular thrombolysis, making ultra&#8208;minimal invasive surgery and drug delivery promising.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;New&#8208;era soft microrobots for biomedical applications need to mimic the essential structures and collective functions of creatures from nature. Biocompatible interfaces, intelligent functionalities, and precise locomotion control in a collective manner are the key parameters to design soft microrobots for the complex bio&#8208;environment. In this work, a biomimetic magnetic microrobot (BMM) inspired by magnetotactic bacteria (MTB) with speedy motion response and accurate positioning is developed for targeted thrombolysis. Similar to the magnetosome structure in MTB, the BMM is composed of aligned iron oxide nanoparticle (MNP) chains embedded in a non&#8208;swelling microgel shell. Linear chains in BMMs are achieved due to the interparticle dipolar interactions of MNPs under a static magnetic field. Simulation results show that, the degree and speed of assembly is proportional to the field strength. The BMM achieves the maximum speed of 161.7 &#181;m s&lt;sup&gt;&#8722;1&lt;/sup&gt; and accurate positioning control under a rotating magnetic field with less than 4% deviation. Importantly, the locomotion analyses of BMMs demonstrate the frequency&#8208;dependent synchronization under 8 Hz and asynchronization at higher frequencies due to the increased drag torque. The BMMs can deliver and release thrombolytic drugs via magneto&#8208;collective control, which is promising for ultra&#8208;minimal invasive thrombolysis.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Bioinspired Soft Microrobots with Precise Magneto&#8208;Collective Control for Microvascular Thrombolysis</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000366</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-20T01:13:24-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000366</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000366?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201903855?af=R">
-      <title>Recent Advances on High&#8208;Entropy Alloys for 3D Printing</title>
-      <dc:description>
-3D printing of high&#8208;entropy alloys (HEAs) has great potential for manufacturing geometrically complex and/or customized HEA products with desirable performances, inspiring their increased appearance in industrial applications. A comprehensive review of the recent advances on the 3D printing of HEAs is provided, with regard to the aspects of their powder development, printing processes, microstructures, mechanical properties, functionalities, and potential applications.
-
-
-
-
-
-
-
-
-Abstract
-Boosted by the success of high&#8208;entropy alloys (HEAs) manufactured by conventional processes in various applications, the development of HEAs for 3D printing has been advancing rapidly in recent years. 3D printing of HEAs gives rise to a great potential for manufacturing geometrically complex HEA products with desirable performances, thereby inspiring their increased appearance in industrial applications. Herein, a comprehensive review of the recent achievements of 3D printing of HEAs is provided, in the aspects of their powder development, printing processes, microstructures, properties, and potential applications. It begins with the introduction of the fundamentals of 3D printing and HEAs, as well as the unique properties of 3D&#8208;printed HEA products. The processes for the development of HEA powders, including atomization and mechanical alloying, and the powder properties, are then presented. Thereafter, typical processes for printing HEA products from powders, namely, directed energy deposition, selective laser melting, and electron beam melting, are discussed with regard to the phases, crystal features, mechanical properties, functionalities, and potential applications of these products (particularly in the aerospace, energy, molding, and tooling industries). Finally, perspectives are outlined to provide guidance for future research.
-</dc:description>
-      <dc:creator>
-Changjun Han, 
-Qihong Fang, 
-Yusheng Shi, 
-Shu Beng Tor, 
-Chee Kai Chua, 
-Kun Zhou
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201903855?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/aff19972-415d-4f3b-b16f-23e9b3c0d39d/adma201903855-gra-0001-m.png"
-     alt="Recent Advances on High&#8208;Entropy Alloys for 3D Printing"/&gt;
-&lt;p&gt;3D printing of high&#8208;entropy alloys (HEAs) has great potential for manufacturing geometrically complex and/or customized HEA products with desirable performances, inspiring their increased appearance in industrial applications. A comprehensive review of the recent advances on the 3D printing of HEAs is provided, with regard to the aspects of their powder development, printing processes, microstructures, mechanical properties, functionalities, and potential applications.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Boosted by the success of high&#8208;entropy alloys (HEAs) manufactured by conventional processes in various applications, the development of HEAs for 3D printing has been advancing rapidly in recent years. 3D printing of HEAs gives rise to a great potential for manufacturing geometrically complex HEA products with desirable performances, thereby inspiring their increased appearance in industrial applications. Herein, a comprehensive review of the recent achievements of 3D printing of HEAs is provided, in the aspects of their powder development, printing processes, microstructures, properties, and potential applications. It begins with the introduction of the fundamentals of 3D printing and HEAs, as well as the unique properties of 3D&#8208;printed HEA products. The processes for the development of HEA powders, including atomization and mechanical alloying, and the powder properties, are then presented. Thereafter, typical processes for printing HEA products from powders, namely, directed energy deposition, selective laser melting, and electron beam melting, are discussed with regard to the phases, crystal features, mechanical properties, functionalities, and potential applications of these products (particularly in the aerospace, energy, molding, and tooling industries). Finally, perspectives are outlined to provide guidance for future research.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Recent Advances on High&#8208;Entropy Alloys for 3D Printing</dc:title>
-      <dc:identifier>doi:10.1002/adma.201903855</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-20T01:08:52-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201903855</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201903855?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201907983?af=R">
-      <title>Spin&#8208;Selective Full&#8208;Dimensional Manipulation of Optical Waves with Chiral Mirror</title>
-      <dc:description>
-A new design principle of chiral mirrors is proposed to realize full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirrors, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth.
-
-
-
-
-
-
-
-
-Abstract
-Realizing arbitrary manipulation of optical waves, which still remains a challenge, plays a key role in the implementation of optical devices with on&#8208;demand functionalities. However, it is hard to independently manipulate multiple dimensions of optical waves because the optical dimensions are basically associated with each other when adjusting the optical response of the devices. Here, the concise design principle of a chiral mirror is utilized to realize the full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirror, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth. This approach provides a simple solution for the realization of spin&#8208;selective full&#8208;dimensional manipulation of optical waves and shows ample application possibilities in the areas of optical encryption, imaging, and detection.
-</dc:description>
-      <dc:creator>
-Zhancheng Li, 
-Wenwei Liu, 
-Hua Cheng, 
-Duk&#8208;Yong Choi, 
-Shuqi Chen, 
-Jianguo Tian
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907983?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/27b9a1e5-392c-4c2f-b75e-e46d02d23aa2/adma201907983-gra-0001-m.png"
-     alt="Spin&#8208;Selective Full&#8208;Dimensional Manipulation of Optical Waves with Chiral Mirror"/&gt;
-&lt;p&gt;A new design principle of chiral mirrors is proposed to realize full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirrors, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Realizing arbitrary manipulation of optical waves, which still remains a challenge, plays a key role in the implementation of optical devices with on&#8208;demand functionalities. However, it is hard to independently manipulate multiple dimensions of optical waves because the optical dimensions are basically associated with each other when adjusting the optical response of the devices. Here, the concise design principle of a chiral mirror is utilized to realize the full&#8208;dimensional independent manipulation of circular&#8208;polarized waves. By simply changing three structural variables of the chiral mirror, the proposed design principle can arbitrarily and independently empower the spin&#8208;selective manipulation of amplitude, phase, and operation wavelength of circular&#8208;polarized waves with a large modulation depth. This approach provides a simple solution for the realization of spin&#8208;selective full&#8208;dimensional manipulation of optical waves and shows ample application possibilities in the areas of optical encryption, imaging, and detection.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Spin&#8208;Selective Full&#8208;Dimensional Manipulation of Optical Waves with Chiral Mirror</dc:title>
-      <dc:identifier>doi:10.1002/adma.201907983</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-20T01:05:01-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201907983</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907983?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000272?af=R">
-      <title>A Bottom&#8208;Up Strategy for the Synthesis of Highly Siliceous Faujasite&#8208;Type Zeolite</title>
-      <dc:description>
-High&#8208;silica zeolite Y with tunable SiO2/Al2O3 ratio up to 15.6 is synthesized through a cooperative strategy that involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity. The obtained materials show greatly improved (hydro)thermal stability, high concentration of strong acid sites, and superior catalytic cracking performance.
-
-
-
-
-
-
-
-
-Abstract
-High&#8208;silica zeolite Y is a desired catalytic material for oil refining and the petrochemical industry. However, its direct synthesis remains a symbolic challenge in the field of zeolite synthesis, with a limited improvement of the framework SiO2/Al2O3 ratio (SAR) from &#8776;5 to 9 over the past 60 years. Here, the synthesis of highly siliceous zeolite Y with tunable SAR up to 15.6 through a cooperative strategy is reported, which involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity (named NOA&#8208;co strategy). A series of quaternary alkylammonium ions is discovered as effective OSDAs based on the NOA&#8208;co strategy, and the relevant crystallization mechanism is elucidated. Moreover, the high&#8208;silica products are demonstrated to have greatly improved (hydro)thermal stability, high concentration of strong acid sites, and uniform acid distribution, which lead to superior catalytic performance in the cracking of bulky hydrocarbons. It is anticipated that this synthetic strategy will benefit the synthesis and development of zeolitic catalysts in a wide range of reaction processes.
-</dc:description>
-      <dc:creator>
-Dali Zhu, 
-Linying Wang, 
-Dong Fan, 
-Nana Yan, 
-Shengjun Huang, 
-Shutao Xu, 
-Peng Guo, 
-Miao Yang, 
-Jianming Zhang, 
-Peng Tian, 
-Zhongmin Liu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000272?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f09c8a84-9d11-46fc-adc2-2564af917ece/adma202000272-gra-0001-m.png"
-     alt="A Bottom&#8208;Up Strategy for the Synthesis of Highly Siliceous Faujasite&#8208;Type Zeolite"/&gt;
-&lt;p&gt;High&#8208;silica zeolite Y with tunable SiO&lt;sub&gt;2&lt;/sub&gt;/Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; ratio up to 15.6 is synthesized through a cooperative strategy that involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity. The obtained materials show greatly improved (hydro)thermal stability, high concentration of strong acid sites, and superior catalytic cracking performance.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;High&#8208;silica zeolite Y is a desired catalytic material for oil refining and the petrochemical industry. However, its direct synthesis remains a symbolic challenge in the field of zeolite synthesis, with a limited improvement of the framework SiO&lt;sub&gt;2&lt;/sub&gt;/Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; ratio (SAR) from &#8776;5 to 9 over the past 60 years. Here, the synthesis of highly siliceous zeolite Y with tunable SAR up to 15.6 through a cooperative strategy is reported, which involves the use of FAU nuclei, a bulky organic structure&#8208;directing agent (OSDA), and a gel system with low alkalinity (named NOA&#8208;co strategy). A series of quaternary alkylammonium ions is discovered as effective OSDAs based on the NOA&#8208;co strategy, and the relevant crystallization mechanism is elucidated. Moreover, the high&#8208;silica products are demonstrated to have greatly improved (hydro)thermal stability, high concentration of strong acid sites, and uniform acid distribution, which lead to superior catalytic performance in the cracking of bulky hydrocarbons. It is anticipated that this synthetic strategy will benefit the synthesis and development of zeolitic catalysts in a wide range of reaction processes.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>A Bottom&#8208;Up Strategy for the Synthesis of Highly Siliceous Faujasite&#8208;Type Zeolite</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000272</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-20T01:04:47-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000272</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000272?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001113?af=R">
-      <title>Tuning the Kinetics of Zinc&#8208;Ion Insertion/Extraction in V2O5 by In Situ Polyaniline Intercalation Enables Improved Aqueous Zinc&#8208;Ion Storage Performance</title>
-      <dc:description>
-An in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn2+ (de)intercalation kinetics in V2O5. PANI not only expands the diffusion channels for facilitating Zn2+ diffusion but also maintains the structural stability as interlayer pillars. Especially, its unique &#960;&#8208;conjugated structure, serving as electron&#8208;reservoir, simultaneously shields the electrostatic interactions between Zn2+ and V2O5 host.
-
-
-
-
-
-
-
-
-Abstract
-Rechargeable zinc&#8208;ion batteries (ZIBs) are emerging as a promising alternative for Li&#8208;ion batteries. However, the developed cathodes suffer from sluggish Zn2+ diffusion kinetics, leading to poor rate capability and inadequate cycle life. Herein, an in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn2+ (de)intercalation kinetics in V2O5. In this way, a remarkably enlarged interlayer distance (13.90 &#197;) can be constructed alternatively between the V&#63743;O layers, offering expediting channels for facile Zn2+ diffusion. Importantly, the electrostatic interactions between the Zn2+ and the host O2&#8722;, which is another key factor in hindering the Zn2+ diffusion kinetics, can be effectively blocked by the unique &#960;&#8208;conjugated structure of PANI. As a result, the PANI&#8208;intercalated V2O5 exhibits a stable and highly reversible electrochemical reaction during repetitive Zn2+ insertion and extraction, as demonstrated by in situ synchrotron X&#8208;ray diffraction and Raman studies. Further first&#8208;principles calculations clearly reveal a remarkably lowered binding energy between Zn2+ and host O2&#8722;, which explains the favorable kinetics in PANI&#8208;intercalated V2O5. Benefitting from the above, the overall electrochemical performance of PANI&#8208;intercalated V2O5 electrode is remarkable improved, exhibiting excellent high rate capability of 197.1 mAh g&#8722;1 at current density of 20 A g&#8722;1 with capacity retention of 97.6% over 2000 cycles.
-</dc:description>
-      <dc:creator>
-Sucheng Liu, 
-He Zhu, 
-Binghao Zhang, 
-Gen Li, 
-Hekang Zhu, 
-Yang Ren, 
-Hongbo Geng, 
-Yang Yang, 
-Qi Liu, 
-Cheng Chao Li
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001113?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/acc9caa1-1f27-40d9-a53f-28531cf166f4/adma202001113-gra-0001-m.png"
-     alt="Tuning the Kinetics of Zinc&#8208;Ion Insertion/Extraction in V2O5 by In Situ Polyaniline Intercalation Enables Improved Aqueous Zinc&#8208;Ion Storage Performance"/&gt;
-&lt;p&gt;An in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn&lt;sup&gt;2+&lt;/sup&gt; (de)intercalation kinetics in V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;. PANI not only expands the diffusion channels for facilitating Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion but also maintains the structural stability as interlayer pillars. Especially, its unique &#960;&#8208;conjugated structure, serving as electron&#8208;reservoir, simultaneously shields the electrostatic interactions between Zn&lt;sup&gt;2+&lt;/sup&gt; and V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; host.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Rechargeable zinc&#8208;ion batteries (ZIBs) are emerging as a promising alternative for Li&#8208;ion batteries. However, the developed cathodes suffer from sluggish Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion kinetics, leading to poor rate capability and inadequate cycle life. Herein, an in situ polyaniline (PANI) intercalation strategy is developed to facilitate the Zn&lt;sup&gt;2+&lt;/sup&gt; (de)intercalation kinetics in V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;. In this way, a remarkably enlarged interlayer distance (13.90 &#197;) can be constructed alternatively between the V&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;O layers, offering expediting channels for facile Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion. Importantly, the electrostatic interactions between the Zn&lt;sup&gt;2+&lt;/sup&gt; and the host O&lt;sup&gt;2&#8722;&lt;/sup&gt;, which is another key factor in hindering the Zn&lt;sup&gt;2+&lt;/sup&gt; diffusion kinetics, can be effectively blocked by the unique &#960;&#8208;conjugated structure of PANI. As a result, the PANI&#8208;intercalated V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; exhibits a stable and highly reversible electrochemical reaction during repetitive Zn&lt;sup&gt;2+&lt;/sup&gt; insertion and extraction, as demonstrated by in situ synchrotron X&#8208;ray diffraction and Raman studies. Further first&#8208;principles calculations clearly reveal a remarkably lowered binding energy between Zn&lt;sup&gt;2+&lt;/sup&gt; and host O&lt;sup&gt;2&#8722;&lt;/sup&gt;, which explains the favorable kinetics in PANI&#8208;intercalated V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;. Benefitting from the above, the overall electrochemical performance of PANI&#8208;intercalated V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; electrode is remarkable improved, exhibiting excellent high rate capability of 197.1 mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; at current density of 20 A g&lt;sup&gt;&#8722;1&lt;/sup&gt; with capacity retention of 97.6% over 2000 cycles.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Tuning the Kinetics of Zinc&#8208;Ion Insertion/Extraction in V2O5 by In Situ Polyaniline Intercalation Enables Improved Aqueous Zinc&#8208;Ion Storage Performance</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001113</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-05-20T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001113</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001113?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
