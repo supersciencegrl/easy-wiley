@@ -63,8 +63,10 @@ def updaterss(journal, shortname, url, cdate):
         paperposn = rootlengthinit - n - 1
         if paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}url'):
                 newurl = root[paperposn][3].text.replace('www.', '')
-                root[paperposn][3].text = newurl
-                root[paperposn][12].text = newurl
+                if root[paperposn][3].tag.endswith('link'):
+                        root[paperposn][3].text = newurl
+                if root[paperposn][12].tag.endswith('url'):
+                        root[paperposn][12].text = newurl
 
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:
