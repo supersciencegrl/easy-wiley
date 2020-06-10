@@ -59,15 +59,6 @@ def updaterss(journal, shortname, url, cdate):
         else:
             date = 'none'
 
-        # Deal with Wiley changing the links every 5 minutes
-        paperposn = rootlengthinit - n - 1
-        if paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}url'):
-                newurl = root[paperposn][3].text.replace('www.', '')
-                if root[paperposn][3].tag.endswith('link'):
-                        root[paperposn][3].text = newurl
-                if root[paperposn][12].tag.endswith('url'):
-                        root[paperposn][12].text = newurl
-
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:
                 root.remove(paper)
@@ -90,7 +81,7 @@ def updaterss(journal, shortname, url, cdate):
 
     # Create new RSS feed
     with open(f'{shortname}.xml', 'wb') as fout:
-        fout.write(ET.tostring(root))
+        fout.write(ET.tostring(root).replace(b'www.', b'')) # Deals with Wiley constantly changing links
 
     # Update old article list
     with open(f'{shortname.lower()}_old.csv'.lower(), 'wt', newline = '') as fout:
