@@ -1,8 +1,8 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <channel rdf:about="https://www.onlinelibrary.wiley.com/journal/15214095?af=R">
+   <channel rdf:about="https://onlinelibrary.wiley.com/journal/15214095?af=R">
       <title>Advanced Materials (no repeats)</title>
       <description>Table of Contents for Advanced Materials. List of articles from both the latest and EarlyView issues.</description>
-      <link>https://www.onlinelibrary.wiley.com/journal/15214095?af=R</link>
+      <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
       <dc:title>Advanced Materials (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <dc:language>en-US</dc:language>
@@ -34,9 +34,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002584?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001300?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001172?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000855?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002387?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908176?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000855?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907477?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000747?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000004?af=R" />
@@ -106,10 +106,10 @@
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://www.onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg">
+   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg">
       <title>Advanced Materials</title>
-      <url>https://www.onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
-      <link>https://www.onlinelibrary.wiley.com/journal/15214095?af=R</link>
+      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
+      <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
    <item rdf:about="/doi/abs/10.1002/adma.202002120?af=R">
       <title>External Quantum Efficiency Exceeding 24% with CIEy Value of 0.08 using a Novel Carbene&#8208;Based Iridium Complex in Deep&#8208;Blue Phosphorescent Organic Light&#8208;Emitting Diodes</title>
@@ -1239,61 +1239,6 @@ Fan Zhang
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000855?af=R">
-      <title>Canonic&#8208;Like HER Activity of Cr1&#8211;xMoxB2 Solid Solution: Overpowering Pt/C at High Current Density</title>
-      <dc:description>
-An unusual canonic&#8208;like behavior of the c lattice parameter in the AlB2&#8208;type solid solution Cr1&#8211;xMoxB2 is found to directly correlate to its hydrogen evolution reaction activity in 0.5 m H2SO4 solution. The best catalyst, Cr0.4Mo0.6B2, outperforms Pt/C at high current density. Density functional theory calculations demonstrate that the (110) mixed metal/B layer promotes hydrogen evolution more efficiently for x = 0.6, supporting the experimental results.
-
-
-
-
-
-
-
-
-Abstract
-Abundant transition metal borides are emerging as substitute electrochemical hydrogen evolution reaction (HER) catalysts for noble metals. Herein, an unusual canonic&#8208;like behavior of the c lattice parameter in the AlB2&#8208;type solid solution Cr1&#8211;xMoxB2 (x = 0, 0.25, 0.4, 0.5, 0.6, 0.75, 1) and its direct correlation to the HER activity in 0.5 M H2SO4 solution are reported. The activity increases with increasing x, reaching its maximum at x = 0.6 before decreasing again. At high current densities, Cr0.4Mo0.6B2 outperforms Pt/C, as it needs 180 mV less overpotential to drive an 800 mA cm&#8722;2 current density. Cr0.4Mo0.6B2 has excellent long&#8208;term stability and durability showing no significant activity loss after 5000 cycles and 25 h of operation in acid. First&#8208;principles calculations have correctly reproduced the nonlinear dependence of the c lattice parameter and have shown that the mixed metal/B layers, such as (110), promote hydrogen evolution more efficiently for x = 0.6, supporting the experimental results.
-</dc:description>
-      <dc:creator>
-Hyounmyung Park, 
-Eunsoo Lee, 
-Ming Lei, 
-Hyunkeun Joo, 
-Sinisa Coh, 
-Boniface P. T. Fokwa
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000855?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b5aa6510-1856-4a88-ad2d-66387abfc3b3/adma202000855-gra-0001-m.png"
-     alt="Canonic&#8208;Like HER Activity of Cr1&#8211;xMoxB2 Solid Solution: Overpowering Pt/C at High Current Density"/&gt;
-&lt;p&gt;An unusual canonic&#8208;like behavior of the &lt;i&gt;c &lt;/i&gt; lattice parameter in the AlB&lt;sub&gt;2&lt;/sub&gt;&#8208;type solid solution Cr&lt;sub&gt;1&#8211;&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Mo&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;B&lt;sub&gt;2&lt;/sub&gt; is found to directly correlate to its hydrogen evolution reaction activity in 0.5 &lt;span class="smallCaps"&gt;m &lt;/span&gt; H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; solution. The best catalyst, Cr&lt;sub&gt;0.4&lt;/sub&gt;Mo&lt;sub&gt;0.6&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;, outperforms Pt/C at high current density. Density functional theory calculations demonstrate that the (110) mixed metal/B layer promotes hydrogen evolution more efficiently for &lt;i&gt;x &lt;/i&gt; = 0.6, supporting the experimental results.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Abundant transition metal borides are emerging as substitute electrochemical hydrogen evolution reaction (HER) catalysts for noble metals. Herein, an unusual canonic&#8208;like behavior of the &lt;i&gt;c &lt;/i&gt; lattice parameter in the AlB&lt;sub&gt;2&lt;/sub&gt;&#8208;type solid solution Cr&lt;sub&gt;1&#8211;&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Mo&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;B&lt;sub&gt;2&lt;/sub&gt; (&lt;i&gt;x &lt;/i&gt; = 0, 0.25, 0.4, 0.5, 0.6, 0.75, 1) and its direct correlation to the HER activity in 0.5 M H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; solution are reported. The activity increases with increasing &lt;i&gt;x &lt;/i&gt;, reaching its maximum at &lt;i&gt;x &lt;/i&gt; = 0.6 before decreasing again. At high current densities, Cr&lt;sub&gt;0.4&lt;/sub&gt;Mo&lt;sub&gt;0.6&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt; outperforms Pt/C, as it needs 180 mV less overpotential to drive an 800 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; current density. Cr&lt;sub&gt;0.4&lt;/sub&gt;Mo&lt;sub&gt;0.6&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt; has excellent long&#8208;term stability and durability showing no significant activity loss after 5000 cycles and 25 h of operation in acid. First&#8208;principles calculations have correctly reproduced the nonlinear dependence of the &lt;i&gt;c &lt;/i&gt; lattice parameter and have shown that the mixed metal/B layers, such as (110), promote hydrogen evolution more efficiently for &lt;i&gt;x &lt;/i&gt; = 0.6, supporting the experimental results.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Canonic&#8208;Like HER Activity of Cr1&#8211;xMoxB2 Solid Solution: Overpowering Pt/C at High Current Density</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000855</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-03T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000855</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000855?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002387?af=R">
       <title>Low&#8208;Loss Organic Hyperbolic Materials in the Visible Spectral Range: A Joint Experimental and First&#8208;Principles Study</title>
       <dc:description>
@@ -1393,6 +1338,61 @@ Pablo Alonso&#8208;Gonz&#225;lez
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202000855?af=R">
+      <title>Canonic&#8208;Like HER Activity of Cr1&#8211;xMoxB2 Solid Solution: Overpowering Pt/C at High Current Density</title>
+      <dc:description>
+An unusual canonic&#8208;like behavior of the c lattice parameter in the AlB2&#8208;type solid solution Cr1&#8211;xMoxB2 is found to directly correlate to its hydrogen evolution reaction activity in 0.5 m H2SO4 solution. The best catalyst, Cr0.4Mo0.6B2, outperforms Pt/C at high current density. Density functional theory calculations demonstrate that the (110) mixed metal/B layer promotes hydrogen evolution more efficiently for x = 0.6, supporting the experimental results.
+
+
+
+
+
+
+
+
+Abstract
+Abundant transition metal borides are emerging as substitute electrochemical hydrogen evolution reaction (HER) catalysts for noble metals. Herein, an unusual canonic&#8208;like behavior of the c lattice parameter in the AlB2&#8208;type solid solution Cr1&#8211;xMoxB2 (x = 0, 0.25, 0.4, 0.5, 0.6, 0.75, 1) and its direct correlation to the HER activity in 0.5 M H2SO4 solution are reported. The activity increases with increasing x, reaching its maximum at x = 0.6 before decreasing again. At high current densities, Cr0.4Mo0.6B2 outperforms Pt/C, as it needs 180 mV less overpotential to drive an 800 mA cm&#8722;2 current density. Cr0.4Mo0.6B2 has excellent long&#8208;term stability and durability showing no significant activity loss after 5000 cycles and 25 h of operation in acid. First&#8208;principles calculations have correctly reproduced the nonlinear dependence of the c lattice parameter and have shown that the mixed metal/B layers, such as (110), promote hydrogen evolution more efficiently for x = 0.6, supporting the experimental results.
+</dc:description>
+      <dc:creator>
+Hyounmyung Park, 
+Eunsoo Lee, 
+Ming Lei, 
+Hyunkeun Joo, 
+Sinisa Coh, 
+Boniface P. T. Fokwa
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000855?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4b916e3e-77ad-466c-a949-1b4d0bd8206a/adma202000855-gra-0001-m.png"
+     alt="Canonic&#8208;Like HER Activity of Cr1&#8211;xMoxB2 Solid Solution: Overpowering Pt/C at High Current Density"/&gt;
+&lt;p&gt;An unusual canonic&#8208;like behavior of the &lt;i&gt;c &lt;/i&gt; lattice parameter in the AlB&lt;sub&gt;2&lt;/sub&gt;&#8208;type solid solution Cr&lt;sub&gt;1&#8211;&lt;/sub&gt;
+&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;Mo&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;B&lt;sub&gt;2&lt;/sub&gt; is found to directly correlate to its hydrogen evolution reaction activity in 0.5 &lt;span class="smallCaps"&gt;m &lt;/span&gt; H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; solution. The best catalyst, Cr&lt;sub&gt;0.4&lt;/sub&gt;Mo&lt;sub&gt;0.6&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt;, outperforms Pt/C at high current density. Density functional theory calculations demonstrate that the (110) mixed metal/B layer promotes hydrogen evolution more efficiently for &lt;i&gt;x &lt;/i&gt; = 0.6, supporting the experimental results.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Abundant transition metal borides are emerging as substitute electrochemical hydrogen evolution reaction (HER) catalysts for noble metals. Herein, an unusual canonic&#8208;like behavior of the &lt;i&gt;c &lt;/i&gt; lattice parameter in the AlB&lt;sub&gt;2&lt;/sub&gt;&#8208;type solid solution Cr&lt;sub&gt;1&#8211;&lt;/sub&gt;
+&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;Mo&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;B&lt;sub&gt;2&lt;/sub&gt; (&lt;i&gt;x &lt;/i&gt; = 0, 0.25, 0.4, 0.5, 0.6, 0.75, 1) and its direct correlation to the HER activity in 0.5 M H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; solution are reported. The activity increases with increasing &lt;i&gt;x &lt;/i&gt;, reaching its maximum at &lt;i&gt;x &lt;/i&gt; = 0.6 before decreasing again. At high current densities, Cr&lt;sub&gt;0.4&lt;/sub&gt;Mo&lt;sub&gt;0.6&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt; outperforms Pt/C, as it needs 180 mV less overpotential to drive an 800 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; current density. Cr&lt;sub&gt;0.4&lt;/sub&gt;Mo&lt;sub&gt;0.6&lt;/sub&gt;B&lt;sub&gt;2&lt;/sub&gt; has excellent long&#8208;term stability and durability showing no significant activity loss after 5000 cycles and 25 h of operation in acid. First&#8208;principles calculations have correctly reproduced the nonlinear dependence of the &lt;i&gt;c &lt;/i&gt; lattice parameter and have shown that the mixed metal/B layers, such as (110), promote hydrogen evolution more efficiently for &lt;i&gt;x &lt;/i&gt; = 0.6, supporting the experimental results.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Canonic&#8208;Like HER Activity of Cr1&#8211;xMoxB2 Solid Solution: Overpowering Pt/C at High Current Density</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000855</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-03T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000855</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000855?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070170?af=R">
       <title>Masthead: (Adv. Mater. 22/2020)</title>
       <dc:description />
@@ -1410,7 +1410,7 @@ Pablo Alonso&#8208;Gonz&#225;lez
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070170</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070170?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070170?af=R</prism:url>
       <prism:copyright />
       <prism:section>Masthead</prism:section>
    </item>
@@ -1431,7 +1431,7 @@ Pablo Alonso&#8208;Gonz&#225;lez
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070169</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070169?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070169?af=R</prism:url>
       <prism:copyright />
       <prism:section>Contents</prism:section>
    </item>
@@ -1479,7 +1479,7 @@ Ingo Pinnau
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070171</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070171?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070171?af=R</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -1525,7 +1525,7 @@ Cheng Zhong
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070172</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070172?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070172?af=R</prism:url>
       <prism:copyright />
       <prism:section>Inside Back Cover</prism:section>
    </item>
@@ -1571,7 +1571,7 @@ Nicolas Vogel
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070173</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070173?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070173?af=R</prism:url>
       <prism:copyright />
       <prism:section>Back Cover</prism:section>
    </item>
@@ -1620,7 +1620,7 @@ Won Jong Kim
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070167</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070167?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070167?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1667,7 +1667,7 @@ Darrell G. Schlom
       <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/adma.202070168</prism:doi>
-      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070168?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070168?af=R</prism:url>
       <prism:copyright />
       <prism:section>Inside Front Cover</prism:section>
    </item>
