@@ -1,14 +1,15 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-   <channel rdf:about="https://onlinelibrary.wiley.com/journal/15213773?af=R">
+   <channel rdf:about="https://www.onlinelibrary.wiley.com/journal/15213773?af=R">
       <title>Angewandte Chemie International Edition (no repeats)</title>
       <description>Table of Contents for Angewandte Chemie International Edition. List of articles from both the latest and EarlyView issues.</description>
-      <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
+      <link>https://www.onlinelibrary.wiley.com/journal/15213773?af=R</link>
       <dc:title>Angewandte Chemie International Edition (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005472?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006604?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006757?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005181?af=R" />
@@ -188,15 +189,51 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005436?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005114?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006048?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006546?af=R" />
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg">
+   <image rdf:about="https://www.onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg">
       <title>Angewandte Chemie International Edition</title>
-      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
-      <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
+      <url>https://www.onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
+      <link>https://www.onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202005472?af=R">
+      <title>An interface bridged organic&#8208;inorganic&#160;layer suppressing dendrite&#160;and side reactions&#160;for ultra&#8208;long&#160;life&#160;aqueous&#160;Zn metal anodes</title>
+      <dc:description>Aqueous zinc&#160;(Zn)&#160;batteries (AZBs) are widely considered as a promising candidate for next&#8208;generation energy storage owing to its excellent safety feature. However, the application of Zn anode is hindered by severe dendrite formation and side reactions. Herein an&#160;interfacial bridged organic&#8208;inorganic hybrid&#160;protection layer&#160;(Nafion&#8208;Zn&#8208;X)&#160;is developed&#160;by complexing inorganic&#160;Zn&#8208;X zeolite nanoparticles with&#160;Nafion, which shifts&#160;ion transport from channel transport in Nafion to hopping mechanism in organic&#8208;inorganic interface. This unique organic&#8208;inorganic&#160;structure&#160;is found to effectively suppress dendrite growth and side reactions of Zn anode. Consequently, Zn@Nafion&#8208;Zn&#8208;X&#160;composite&#160;anode delivers&#160;high coulombic efficiency (~97%), deep Zn plating/stripping (10 mAh cm  &#8208;2  ) and long cycle life (over 10000 cycles). By tackling the intrinsic chemical/electrochemical issues, the proposed strategy provides a versatile remedy for the limited cycle life of Zn anode.</dc:description>
+      <dc:creator>
+Yanhui Cui, 
+Qinghe Zhao, 
+Xiaojun Wu, 
+Xin Chen, 
+Yuetao Wang, 
+Runzhi Qin, 
+Shouxiang Ding, 
+Yongli Song, 
+Junwei Wu, 
+Kai Yang, 
+Zijian Wang, 
+Zongwei Mei, 
+Zhibo Song, 
+Hong Wu, 
+Zhongyi Jiang, 
+Guoyu Qian, 
+Luyi Yang, 
+Feng Pan, 
+Jinlong Yang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005472?af=R</link>
+      <content:encoded>&lt;p&gt;Aqueous zinc&#160;(Zn)&#160;batteries (AZBs) are widely considered as a promising candidate for next&#8208;generation energy storage owing to its excellent safety feature. However, the application of Zn anode is hindered by severe dendrite formation and side reactions. Herein an&#160;interfacial bridged organic&#8208;inorganic hybrid&#160;protection layer&#160;(Nafion&#8208;Zn&#8208;X)&#160;is developed&#160;by complexing inorganic&#160;Zn&#8208;X zeolite nanoparticles with&#160;Nafion, which shifts&#160;ion transport from channel transport in Nafion to hopping mechanism in organic&#8208;inorganic interface. This unique organic&#8208;inorganic&#160;structure&#160;is found to effectively suppress dendrite growth and side reactions of Zn anode. Consequently, Zn@Nafion&#8208;Zn&#8208;X&#160;composite&#160;anode delivers&#160;high coulombic efficiency (~97%), deep Zn plating/stripping (10 mAh cm  &#8208;2  ) and long cycle life (over 10000 cycles). By tackling the intrinsic chemical/electrochemical issues, the proposed strategy provides a versatile remedy for the limited cycle life of Zn anode.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>An interface bridged organic&#8208;inorganic&#160;layer suppressing dendrite&#160;and side reactions&#160;for ultra&#8208;long&#160;life&#160;aqueous&#160;Zn metal anodes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005472</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-10T01:45:59-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005472</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005472?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202006604?af=R">
       <title>Self&#8208;Healing Supramolecular Materials Constructed by Copolymerization via Molecular Recognition of Cavitand&#8208;based Coordination Capsules</title>
       <dc:description>The repeating guest units of poly&#8208;(  R  )&#8208;  2  &#160;were selectively encapsulated by the self&#8208;assembled capsule poly&#8208;  1  possessing the eight polymer side chains to form the supramolecular graft polymer (poly&#8208;  1  )  n  &#8226;poly&#8208;(  R  )&#8208;  2  . The encapsulation of the guest units was confirmed by&#160;  1  H NMR spectroscopy and DOSY technique. The hydrodynamic radius of the graft polymer structure was greatly increased upon the complexation of poly&#8208;  1  . The supramolecular graft polymer (poly&#8208;  1  )  n  &#8226;poly&#8208;(  R  )&#8208;  2  &#160;was stably formed in the 1:1 host&#8208;guest ratio, which increased the glass transition temperature more than 10 &#176;C compared to that of poly&#8208;  1  . AFM visualized that (poly&#8208;  1  )  n  &#8226;poly&#8208;(  R  )&#8208;  2  &#160;formed the networked structure on mica. The (poly&#8208;  1  )  n  &#8226;poly&#8208;(  R  )&#8208;  2  gelled in 1,1,2,2&#8208;tetrachloroethane, which fabricated the distinct viscoelastic materials that demonstrated the self&#8208;healing behaviors in tensile test.</dc:description>
@@ -981,7 +1018,7 @@ Hubert Schmidbaur,
 Helgard G. Raubenheimer
 </dc:creator>
       <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916255?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/bca6f76d-8077-404b-aa3f-430850c2c9f6/anie201916255-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://www.onlinelibrary.wiley.com/cms/asset/bca6f76d-8077-404b-aa3f-430850c2c9f6/anie201916255-toc-0001-m.png"
      alt="Excimer and Exciplex Formation in Gold(I) Complexes Preconditioned by Aurophilic Interactions"/&gt;
 &lt;p&gt;&lt;b&gt;Bond formation through excitation &lt;/b&gt;: Linear, two&#8208;coordinate gold(I) complexes are known to aggregate side&#8208;on through aurophilic interactions. The resulting weak Au&#8211;Au contacts are strengthened upon UV irradiation as evidenced by a shortening of the intermetallic distance and the vibrational and electronic absorption and emission characteristics of the resulting excimers. The changes in the redox potentials make [Au&lt;sup&gt;I&lt;/sup&gt;&#8722;Au&lt;sup&gt;I&lt;/sup&gt;]* excimers useful intermediates in photoredox catalysis.
 
@@ -1022,7 +1059,7 @@ Natalie S. Eyke,
 Klavs F. Jensen
 </dc:creator>
       <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201909987?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ea4d6e88-3538-468b-b2ef-34eed6b33faf/anie201909987-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://www.onlinelibrary.wiley.com/cms/asset/ea4d6e88-3538-468b-b2ef-34eed6b33faf/anie201909987-toc-0001-m.png"
      alt="Autonomous Discovery in the Chemical Sciences Part&#8197;I: Progress"/&gt;
 &lt;p&gt;&lt;b&gt;The contribution of computer assistance &lt;/b&gt; and automation to various aspects of discovery in the chemical sciences is discussed in this two&#8208;part Review. This first part describes how discoveries of physical matter, processes, and models are unified as search problems; what to consider when assessing the extent of autonomy in a discovery; and many examples of discoveries in synthetic chemistry, drug discovery, inorganic chemistry, and materials science.
 
@@ -1287,7 +1324,7 @@ Xian&#8208;Zheng Zhang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201912594</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912594?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912594?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1335,7 +1372,7 @@ Xiaolin Xie
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201915053</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915053?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915053?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1392,7 +1429,7 @@ Dan Zhao
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201915199</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915199?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915199?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1440,7 +1477,7 @@ Leyong Wang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201912654</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912654?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912654?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1489,7 +1526,7 @@ Ben Zhong Tang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201914437</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201914437?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201914437?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1543,7 +1580,7 @@ Shuang&#8208;Quan Zang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201908909</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908909?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908909?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1590,7 +1627,7 @@ Yun Yan
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201911845</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911845?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201911845?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1637,7 +1674,7 @@ Huan Cong
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201913340</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913340?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913340?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1692,7 +1729,7 @@ Liping Cao
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201912730</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912730?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912730?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1747,7 +1784,7 @@ Xiaogang Liu
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201916357</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916357?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916357?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1796,7 +1833,7 @@ Ying&#8208;Feng Han
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201912322</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912322?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912322?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1843,7 +1880,7 @@ Shuizhu Wu
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201913149</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913149?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913149?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1864,7 +1901,7 @@ Shuizhu Wu
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202082511</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202082511?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.202082511?af=R</prism:url>
       <prism:copyright />
       <prism:section>Graphical Abstract</prism:section>
    </item>
@@ -1909,7 +1946,7 @@ Ben Zhong Tang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202082561</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202082561?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.202082561?af=R</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -1953,7 +1990,7 @@ Deqing Zhang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202082562</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202082562?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.202082562?af=R</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -2001,7 +2038,7 @@ Hong Bi
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201913800</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913800?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913800?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2053,7 +2090,7 @@ Zhen Li
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201916057</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916057?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916057?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2101,7 +2138,7 @@ Jianping Xie
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201916675</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916675?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916675?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2148,7 +2185,7 @@ Dan Ding
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201916430</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916430?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201916430?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2198,7 +2235,7 @@ Yulan Chen
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201914900</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201914900?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201914900?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2241,7 +2278,7 @@ Dmitrii F. Perepichka
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201913393</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913393?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913393?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2291,7 +2328,7 @@ Yanli Zhao
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201912102</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912102?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912102?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2341,7 +2378,7 @@ Xiaoling Zhang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201915783</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915783?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915783?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2393,7 +2430,7 @@ Xiao&#8208;Qi Yu
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201909498</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201909498?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201909498?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2444,7 +2481,7 @@ Juewen Liu
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201913445</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913445?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201913445?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2492,7 +2529,7 @@ Andrey L. Rogach
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201915511</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915511?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915511?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2543,7 +2580,7 @@ Xuzhou Yan
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202000078</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000078?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000078?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2592,7 +2629,7 @@ Hongmin Chen
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201908712</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908712?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908712?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2639,7 +2676,7 @@ Jingsong You
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201915397</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915397?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201915397?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2689,7 +2726,7 @@ Ben Zhong Tang
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201907678</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201907678?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201907678?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2736,7 +2773,7 @@ Kay Severin
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201908755</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908755?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908755?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2787,7 +2824,7 @@ Jingcheng Hao
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201912201</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912201?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201912201?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2832,7 +2869,7 @@ He Tian
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201914513</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201914513?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.201914513?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2867,7 +2904,7 @@ He Tian
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202000664</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000664?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000664?af=R</prism:url>
       <prism:copyright />
       <prism:section>Author Profile</prism:section>
    </item>
@@ -2902,7 +2939,7 @@ He Tian
       <prism:coverDate>2020-06-15T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-06-15T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202000737</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000737?af=R</prism:url>
+      <prism:url>https://www.onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000737?af=R</prism:url>
       <prism:copyright />
       <prism:section>Author Profile</prism:section>
    </item>
@@ -3272,32 +3309,5 @@ Wei Liu
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006048?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202006546?af=R">
-      <title>S&#8208;modified oxygen vacancies in iron&#8208;cobalt oxide nanosheets: Enabling extremely high activity of oxygen evolution reaction for achieving industrial water splitting benchmark</title>
-      <dc:description>Water electrolysis is a promising strategy for high&#8208;purity hydrogen production but restrained by the high electricity cost. Developing an oxygen evolution reaction (OER) electrocatalyst with excellent activity and low price is indispensable for reducing water electrolysis cost. The modulation of electronic structure of catalysts can be an efficient strategy to boost their activities. Herein, the oxygen vacancies of defective iron&#8208;cobalt oxide (FeCoO  x  &#8208;Vo) nanosheets are modified by the homogeneously distributed sulfur (S) atoms. S atoms can not only effectively stabilize oxygen vacancies (Vo), but also form the Co&#8208;S coordination with Co active site in the Vo, which can modulate the electronic structure of the active site, enabling FeCoO  x  &#8208;Vo&#8208;S to exhibit much superior OER activity. Remarkably, FeCoO  x  &#8208;Vo&#8208;S exhibits a mass activity of 2440.0 A g  &#8208;1  at the voltage of 1.5 V vs. RHE in 1.0 M KOH, which is 25.4 times higher than that of RuO  2  (96.0 A g  &#8208;1  ). Meanwhile, its Tafel slope can as low as 21.0 mV dec  &#8208;1  , indicative of its excellent charge transfer rate. When FeCoO  x  &#8208;Vo&#8208;S (anode catalyst) is paired with the defective CoP  3  /Ni  2  P (cathode catalyst) for overall water splitting, the current densities can be achieved as high as 249.0 mA cm  &#8208;2  and 406.0 mA cm  &#8208;2  at the cell voltage of 2.0 V and 2.3 V, respectively, which meet well the requirement of industrial water splitting.</dc:description>
-      <dc:creator>
-Xiangdong Yao, 
-Linzhou Zhuang, 
-Yi Jia, 
-Hongli Liu, 
-Zhiheng Li, 
-Longzhou Zhang, 
-Xin Wang, 
-Dongjiang Yang, 
-Zhonghua Zhu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006546?af=R</link>
-      <content:encoded>&lt;p&gt;Water electrolysis is a promising strategy for high&#8208;purity hydrogen production but restrained by the high electricity cost. Developing an oxygen evolution reaction (OER) electrocatalyst with excellent activity and low price is indispensable for reducing water electrolysis cost. The modulation of electronic structure of catalysts can be an efficient strategy to boost their activities. Herein, the oxygen vacancies of defective iron&#8208;cobalt oxide (FeCoO  x  &#8208;Vo) nanosheets are modified by the homogeneously distributed sulfur (S) atoms. S atoms can not only effectively stabilize oxygen vacancies (Vo), but also form the Co&#8208;S coordination with Co active site in the Vo, which can modulate the electronic structure of the active site, enabling FeCoO  x  &#8208;Vo&#8208;S to exhibit much superior OER activity. Remarkably, FeCoO  x  &#8208;Vo&#8208;S exhibits a mass activity of 2440.0 A g  &#8208;1  at the voltage of 1.5 V vs. RHE in 1.0 M KOH, which is 25.4 times higher than that of RuO  2  (96.0 A g  &#8208;1  ). Meanwhile, its Tafel slope can as low as 21.0 mV dec  &#8208;1  , indicative of its excellent charge transfer rate. When FeCoO  x  &#8208;Vo&#8208;S (anode catalyst) is paired with the defective CoP  3  /Ni  2  P (cathode catalyst) for overall water splitting, the current densities can be achieved as high as 249.0 mA cm  &#8208;2  and 406.0 mA cm  &#8208;2  at the cell voltage of 2.0 V and 2.3 V, respectively, which meet well the requirement of industrial water splitting.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>S&#8208;modified oxygen vacancies in iron&#8208;cobalt oxide nanosheets: Enabling extremely high activity of oxygen evolution reaction for achieving industrial water splitting benchmark</dc:title>
-      <dc:identifier>doi:10.1002/anie.202006546</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-03T08:31:22-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202006546</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006546?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
 </rdf:RDF>
