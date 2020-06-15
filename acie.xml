@@ -9,16 +9,22 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003236?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003748?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005946?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006303?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005837?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006671?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003801?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004105?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006280?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007680?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006570?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003748?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003236?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006724?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005505?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006089?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006847?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006569?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005374?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007210?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006783?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005720?af=R" />
@@ -27,6 +33,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005357?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006212?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003804?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005374?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005950?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005294?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005257?af=R" />
@@ -96,24 +103,17 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003058?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006350?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003949?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005882?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005558?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005372?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001518?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007226?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007406?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003064?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005361?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005844?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002783?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005776?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003500?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005050?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003820?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005118?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003927?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005063?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007813?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002702?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003129?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006124?af=R" />
@@ -197,56 +197,176 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/anie.202003236?af=R">
-      <title>Dynamics of ligand binding to a rigid glycosidase</title>
-      <dc:description>The single&#8208;domain GH11 glycosidase from&#160;  Bacillus circulans  &#160;(BCX) is involved in the degradation of hemicellulose, one of the most abundant renewable biomaterials in nature. We demonstrate that BCX in solution undergoes minimal structural changes during turnover. NMR spectroscopy results show that the rigid protein matrix provides a frame for fast substrate binding in multiple conformations, accompanied by slow conversion, attributed to an enzyme induced substrate distortion. A model is proposed in which the rigid enzyme takes advantage of substrate flexibility to induce a conformation that facilitates the acyl formation step of the hydrolysis reaction.</dc:description>
+   <item rdf:about="/doi/abs/10.1002/anie.202005946?af=R">
+      <title>Cooperativity of Catechols and Amines in High Performance Dry/Wet Adhesives</title>
+      <dc:description>The outstanding adhesive performance of mussel byssal threads has been a beacon of inspiration for materials scientists over the past few decades. Historically, presence of a significant amount of the unique catecholic amino acid dihydroxyphenylalanine (Dopa) has been considered to play a key role in strong dry and wet adhesive properties of the byssal interfacial proteins. In recent years, molecular and microscopic level studies using short peptides or small molecule analogs have investigated the roles of other amino acids in mussel adhesion. In particular, these studies have highlighted the cohesive role of cation&#8208;&#960; interactions as well as the adhesive synergy between Dopa and flanking lysine residues. Inspired to design advanced synthetic adhesives that exploit amino&#8208;catechol synergy, we synthesized polymeric pressure sensitive adhesives (PSAs) by copolymerizing traditional PSA monomers, butyl acrylate and acrylic acid, with mussel&#8208;inspired lysine&#8208; and aromatic&#8208;rich monomers. Of particular interest was to compare the consequences of decoupling amino and catechol moieties from each other (i.e. incorporated as separate monomers) versus a monomer architecture in which the catechol and amine were coupled together in a fixed orientation in the monomer side chain. Comprehensive multi&#8208;scale adhesion assays were used to probe performance at the molecular, microscopic and macroscopic levels through a combination of AFM&#8208;assisted force spectroscopy, peel and static shear adhesion. We showed that coupling of catechols and amines together within the same monomer side chain produced optimal cooperative effects in improving macroscopic adhesion performance. The findings in this study improve our understanding of underlying principles of mussel adhesion and provide a solid framework for rational design of high&#8208;performance bioinspired adhesives.</dc:description>
       <dc:creator>
-Marcellus Ubbink, 
-Fredj Ben Bdira, 
-Chris  A. Waudby, 
-Alexander  N. Volkov, 
-Sybrin  P. Schr&#246;der, 
-Eiso AB, 
-Jeroen  D. C. Cod&#233;e, 
-Hermen  S. Overkleeft, 
-Hans  M. F. G. Aerts, 
-Hugo van Ingen
+Brylee  David B. Tiu, 
+Peyman Delparastan, 
+Max  R Ney, 
+Matthias Gerst, 
+Phillip Messersmith
 </dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003236?af=R</link>
-      <content:encoded>&lt;p&gt;The single&#8208;domain GH11 glycosidase from&#160;  Bacillus circulans  &#160;(BCX) is involved in the degradation of hemicellulose, one of the most abundant renewable biomaterials in nature. We demonstrate that BCX in solution undergoes minimal structural changes during turnover. NMR spectroscopy results show that the rigid protein matrix provides a frame for fast substrate binding in multiple conformations, accompanied by slow conversion, attributed to an enzyme induced substrate distortion. A model is proposed in which the rigid enzyme takes advantage of substrate flexibility to induce a conformation that facilitates the acyl formation step of the hydrolysis reaction.&lt;/p&gt;</content:encoded>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005946?af=R</link>
+      <content:encoded>&lt;p&gt;The outstanding adhesive performance of mussel byssal threads has been a beacon of inspiration for materials scientists over the past few decades. Historically, presence of a significant amount of the unique catecholic amino acid dihydroxyphenylalanine (Dopa) has been considered to play a key role in strong dry and wet adhesive properties of the byssal interfacial proteins. In recent years, molecular and microscopic level studies using short peptides or small molecule analogs have investigated the roles of other amino acids in mussel adhesion. In particular, these studies have highlighted the cohesive role of cation&#8208;&#960; interactions as well as the adhesive synergy between Dopa and flanking lysine residues. Inspired to design advanced synthetic adhesives that exploit amino&#8208;catechol synergy, we synthesized polymeric pressure sensitive adhesives (PSAs) by copolymerizing traditional PSA monomers, butyl acrylate and acrylic acid, with mussel&#8208;inspired lysine&#8208; and aromatic&#8208;rich monomers. Of particular interest was to compare the consequences of decoupling amino and catechol moieties from each other (i.e. incorporated as separate monomers) versus a monomer architecture in which the catechol and amine were coupled together in a fixed orientation in the monomer side chain. Comprehensive multi&#8208;scale adhesion assays were used to probe performance at the molecular, microscopic and macroscopic levels through a combination of AFM&#8208;assisted force spectroscopy, peel and static shear adhesion. We showed that coupling of catechols and amines together within the same monomer side chain produced optimal cooperative effects in improving macroscopic adhesion performance. The findings in this study improve our understanding of underlying principles of mussel adhesion and provide a solid framework for rational design of high&#8208;performance bioinspired adhesives.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Dynamics of ligand binding to a rigid glycosidase</dc:title>
-      <dc:identifier>doi:10.1002/anie.202003236</dc:identifier>
+      <dc:title>Cooperativity of Catechols and Amines in High Performance Dry/Wet Adhesives</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005946</dc:identifier>
       <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-13T08:23:12-07:00</dc:date>
+      <dc:date>2020-06-15T12:25:32-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202003236</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003236?af=R</prism:url>
+      <prism:doi>10.1002/anie.202005946</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005946?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202003748?af=R">
-      <title>Photoactivated Polymersome Nanomotors: Traversing Biological Barriers</title>
-      <dc:description>Synthetic nanomotors are appealing delivery vehicles for the dynamic transport of functional cargo. Although there are literature examples of such systems, their effective translation toward biological applications is limited due to the use of non&#8208;degradable components. Furthermore, the limitation of size has been an impediment to application due to the importance of achieving nanoscale (ca. 100 nm) dimensions, as opposed to microscale examples that are far more prevalent in the literature. Here, we present a hybrid nanomotor that can be activated by near&#8208;infrared (NIR)&#8208;irradiation for the triggered delivery of internal cargo and facilitated transport of external agents to the cell. Utilizing biodegradable poly(ethylene glycol)&#8208;poly(D,L&#8208;lactide) (PEG&#8208;PDLLA) block copolymers, with the two blocks connected via a pH sensitive imine bond, we generate nanoscopic polymersomes that are subsequently modified with a hemispherical gold nanocoat. As a consequence of the Janus morphology, such hybrid polymersomes are capable of undergoing photothermal motility in response to thermal gradients generated by plasmonic absorbance of NIR irradiation, with velocities ranging from 1.9 &#177; 0.25 &#956;m s &#8208;1  to 6.2 &#177; 1.10 &#956;m s &#8208;1  in response to modulating laser power. These biodegradable photothermally&#8208;driven polymersome nanomotors (PNMs) are capable of traversing cellular membranes, allowing the intracellular delivery of molecular and macromolecular cargo, and as such hold great potential for biomedical applications.</dc:description>
+   <item rdf:about="/doi/abs/10.1002/anie.202006303?af=R">
+      <title>The Stabilization Effect of CO2 Chemistries in Li&#8208;O2/CO2 Batteries</title>
+      <dc:description>The lithium (Li)&#8208;air battery possesses ultrahigh theoretical specific energy, however, even in pure oxygen (O  2  ), the vulnerability of conventional organic electrolytes and carbon cathodes towards reaction intermediates, especially O  2  &#8208;  , and corrosive oxidation and crack/pulverization of Li metal anode lead to poor cycling stability of the Li&#8208;air battery. Even worse, the water and/or CO  2  in air are reported to bring more serious parasitic reactions and security issues. Therefore, most significant improvements are achieved in pure O  2  , and thus the making &#8220;onboard&#8221; pure oxygen supply system is inevitable for practical Li&#8208;air battery, which not only reduces the energy density of the overall system, but also makes the system complex and expensive to produce and maintain. Therefore, realizing the ultimate goal of applying such systems in open&#8208;air environment is a demanding requirement. Here, contrary to previous assertions, we found that CO  2  could improve the stability of both anode and electrolyte, and a high&#8208;performance rechargeable Li&#8208;O  2  /CO  2  battery is then developed. The introduced CO  2  can not only facilitate the  in situ  formation of a passivated protective Li  2  CO  3  film on Li anode, but also restrain side reactions involving electrolyte and cathode by capturing O  2  &#8208;  . Moreover, the Pd/CNT catalyst in cathode can extend the battery lifespan by effectively tuning the product morphology and catalyzing the decomposition of Li&#173;  2  CO  3  . By simultaneously addressing the bottleneck problems of poor rechargeability, instability of carbon cathode, liquid electrolyte and Li anode, the designed Li&#8208;O  2  /CO  2  battery achieves a full discharge capacity of 6,628 mAh g  &#8208;1  and a long life of 715 cycles, which is even better than those of pure Li&#8208;O  2  batteries. We believe the findings here present an important step towards Li&#8208;air batteries from Li&#8208;O  2  batteries as well as other metal&#8208;air systems.</dc:description>
       <dc:creator>
-Jingxin Shao, 
-Shoupeng Cao, 
-David Williams, 
-Loai Abdelmohsen, 
-Jan van Hest
+Xinbo Zhang
 </dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003748?af=R</link>
-      <content:encoded>&lt;p&gt;Synthetic nanomotors are appealing delivery vehicles for the dynamic transport of functional cargo. Although there are literature examples of such systems, their effective translation toward biological applications is limited due to the use of non&#8208;degradable components. Furthermore, the limitation of size has been an impediment to application due to the importance of achieving nanoscale (ca. 100 nm) dimensions, as opposed to microscale examples that are far more prevalent in the literature. Here, we present a hybrid nanomotor that can be activated by near&#8208;infrared (NIR)&#8208;irradiation for the triggered delivery of internal cargo and facilitated transport of external agents to the cell. Utilizing biodegradable poly(ethylene glycol)&#8208;poly(D,L&#8208;lactide) (PEG&#8208;PDLLA) block copolymers, with the two blocks connected via a pH sensitive imine bond, we generate nanoscopic polymersomes that are subsequently modified with a hemispherical gold nanocoat. As a consequence of the Janus morphology, such hybrid polymersomes are capable of undergoing photothermal motility in response to thermal gradients generated by plasmonic absorbance of NIR irradiation, with velocities ranging from 1.9 &#177; 0.25 &#956;m s &#8208;1  to 6.2 &#177; 1.10 &#956;m s &#8208;1  in response to modulating laser power. These biodegradable photothermally&#8208;driven polymersome nanomotors (PNMs) are capable of traversing cellular membranes, allowing the intracellular delivery of molecular and macromolecular cargo, and as such hold great potential for biomedical applications.&lt;/p&gt;</content:encoded>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006303?af=R</link>
+      <content:encoded>&lt;p&gt;The lithium (Li)&#8208;air battery possesses ultrahigh theoretical specific energy, however, even in pure oxygen (O  2  ), the vulnerability of conventional organic electrolytes and carbon cathodes towards reaction intermediates, especially O  2  &#8208;  , and corrosive oxidation and crack/pulverization of Li metal anode lead to poor cycling stability of the Li&#8208;air battery. Even worse, the water and/or CO  2  in air are reported to bring more serious parasitic reactions and security issues. Therefore, most significant improvements are achieved in pure O  2  , and thus the making &#8220;onboard&#8221; pure oxygen supply system is inevitable for practical Li&#8208;air battery, which not only reduces the energy density of the overall system, but also makes the system complex and expensive to produce and maintain. Therefore, realizing the ultimate goal of applying such systems in open&#8208;air environment is a demanding requirement. Here, contrary to previous assertions, we found that CO  2  could improve the stability of both anode and electrolyte, and a high&#8208;performance rechargeable Li&#8208;O  2  /CO  2  battery is then developed. The introduced CO  2  can not only facilitate the  in situ  formation of a passivated protective Li  2  CO  3  film on Li anode, but also restrain side reactions involving electrolyte and cathode by capturing O  2  &#8208;  . Moreover, the Pd/CNT catalyst in cathode can extend the battery lifespan by effectively tuning the product morphology and catalyzing the decomposition of Li&#173;  2  CO  3  . By simultaneously addressing the bottleneck problems of poor rechargeability, instability of carbon cathode, liquid electrolyte and Li anode, the designed Li&#8208;O  2  /CO  2  battery achieves a full discharge capacity of 6,628 mAh g  &#8208;1  and a long life of 715 cycles, which is even better than those of pure Li&#8208;O  2  batteries. We believe the findings here present an important step towards Li&#8208;air batteries from Li&#8208;O  2  batteries as well as other metal&#8208;air systems.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Photoactivated Polymersome Nanomotors: Traversing Biological Barriers</dc:title>
-      <dc:identifier>doi:10.1002/anie.202003748</dc:identifier>
+      <dc:title>The Stabilization Effect of CO2 Chemistries in Li&#8208;O2/CO2 Batteries</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006303</dc:identifier>
       <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-13T03:19:05-07:00</dc:date>
+      <dc:date>2020-06-14T11:26:11-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202003748</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003748?af=R</prism:url>
+      <prism:doi>10.1002/anie.202006303</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006303?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202005837?af=R">
+      <title>N&#8208;Annulated Perylene Bisimides to Bias the Differentiation of Metastable Supramolecular Assemblies into J&#8208; and H&#8208;Aggregates</title>
+      <dc:description>We report the unique self&#8208;assembling features of&#160;  N  &#8208;annulated perylene bisimides (PBIs)&#160;  1  &#160;and&#160;  2  . The stability of the aggregates of diester&#160;  1  , in which no H&#8208;bonding interactions are operative, corroborates the significance of long&#8208;range van&#8208;der&#8208;Waals and dipole&#8208;dipole electrostatic interactions in the construction of stable supramolecular assemblies. The incorporation of amide functional groups to the&#160;  N  &#8208;annulated PBI in&#160;  2  &#160;results in a stimulating pathway differentiation to achieve up to three J&#8208;type aggregates and a fourth H&#8208;type aggregate depending on the experimental conditions. The results presented demonstrate unprecedented levels of control over synthetic supramolecular self&#8208;assembly and the rich differentiation that&#160;  N  &#8208;annulated PBIs exhibit, opening the door to new, complex, functional supramolecular materials.</dc:description>
+      <dc:creator>
+Elisa E. Greciano, 
+Joaqu&#237;n Calbo, 
+Enrique Ort&#237;, 
+Luis Sanchez
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005837?af=R</link>
+      <content:encoded>&lt;p&gt;We report the unique self&#8208;assembling features of&#160;  N  &#8208;annulated perylene bisimides (PBIs)&#160;  1  &#160;and&#160;  2  . The stability of the aggregates of diester&#160;  1  , in which no H&#8208;bonding interactions are operative, corroborates the significance of long&#8208;range van&#8208;der&#8208;Waals and dipole&#8208;dipole electrostatic interactions in the construction of stable supramolecular assemblies. The incorporation of amide functional groups to the&#160;  N  &#8208;annulated PBI in&#160;  2  &#160;results in a stimulating pathway differentiation to achieve up to three J&#8208;type aggregates and a fourth H&#8208;type aggregate depending on the experimental conditions. The results presented demonstrate unprecedented levels of control over synthetic supramolecular self&#8208;assembly and the rich differentiation that&#160;  N  &#8208;annulated PBIs exhibit, opening the door to new, complex, functional supramolecular materials.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>N&#8208;Annulated Perylene Bisimides to Bias the Differentiation of Metastable Supramolecular Assemblies into J&#8208; and H&#8208;Aggregates</dc:title>
+      <dc:identifier>doi:10.1002/anie.202005837</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-14T11:25:05-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202005837</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005837?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202006671?af=R">
+      <title>Rational&#160;Design of the Metal&#8208;Free KBe2BO3F2 (KBBF) Family Member C(NH2)3SO3F with Superior Ultraviolet Optical Nonlinearity</title>
+      <dc:description>The first fluorosulfonic ultraviolet (UV) nonlinear optical (NLO) material, C(NH  2  )  3  SO  3  F, is rationally designed by taking the KBe  2  BO  3  F  2  (KBBF) as the parent compound. C(NH  2  )  3  SO  3  F features the similar topological layer with KBBF by replacing (BO  3  )  3&#8208;  with C(NH  2  )  3  +  triangles and the substitution of BeO  3  F with SO  3  F  &#8208;  tetrahedral. Therefore, C(NH  2  )  3  SO  3  F is a metal&#8208;free UV NLO crystal. Benefiting from the coplanar configuration of the C(NH  2  )  3  +  cationic groups, it possesses large SHG response of 5&#215;KDP and moderate birefringence of 0.133@1064 nm. Besides, it has a short UV cutoff edge of 200 nm. The calculated results reveal the shortest SHG phase &#8208; matching wavelength can reach 200 nm. These &#64257;ndings point out exploring metal&#8208;free compounds as nontoxic and lowcost UV NLO materials will be a new research area.</dc:description>
+      <dc:creator>
+Min Luo, 
+Donghong Lin, 
+Chensheng Lin, 
+Ning Ye
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006671?af=R</link>
+      <content:encoded>&lt;p&gt;The first fluorosulfonic ultraviolet (UV) nonlinear optical (NLO) material, C(NH  2  )  3  SO  3  F, is rationally designed by taking the KBe  2  BO  3  F  2  (KBBF) as the parent compound. C(NH  2  )  3  SO  3  F features the similar topological layer with KBBF by replacing (BO  3  )  3&#8208;  with C(NH  2  )  3  +  triangles and the substitution of BeO  3  F with SO  3  F  &#8208;  tetrahedral. Therefore, C(NH  2  )  3  SO  3  F is a metal&#8208;free UV NLO crystal. Benefiting from the coplanar configuration of the C(NH  2  )  3  +  cationic groups, it possesses large SHG response of 5&#215;KDP and moderate birefringence of 0.133@1064 nm. Besides, it has a short UV cutoff edge of 200 nm. The calculated results reveal the shortest SHG phase &#8208; matching wavelength can reach 200 nm. These &#64257;ndings point out exploring metal&#8208;free compounds as nontoxic and lowcost UV NLO materials will be a new research area.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Rational&#160;Design of the Metal&#8208;Free KBe2BO3F2 (KBBF) Family Member C(NH2)3SO3F with Superior Ultraviolet Optical Nonlinearity</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006671</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-14T07:53:09-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202006671</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006671?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202003801?af=R">
+      <title>Dual Role of Silver Moieties Coupled with Ordered Mesoporous Cobalt Oxide towards Electrocatalytic Oxygen Evolution Reaction</title>
+      <dc:description>Herein, we show that performance of mesostructured cobalt oxide electrocatalyst for oxygen evolution reaction (OER) can be significantly enhanced with coupling of silver species. Various analysis techniques including pair distribution function and Rietveld, X&#8208;ray absorption spectroscopy at synchrotron as well as advanced electron microscopy revealed that silver exists as metallic Ag particles and well&#8208;dispersed Ag2O nanoclusters within mesostructure. The benefits of this synergy are twofold for OER: highly conductive metallic Ag improves the charge transfer ability of the electrocatalyst while ultra&#8208;small Ag2O clusters provide the centers that can uptake Fe impurities from KOH electrolyte and boost the catalytic efficiency of Co&#8208;Ag oxides. The current density of mesostructured Co3O4 at 1.7 VRHE is increased from 102 to 211 mA/cm2 with incorporation of silver spices. This work presents the dual role of silver moieties and demonstrates a simple method to increase the OER activity of Co3O4.</dc:description>
+      <dc:creator>
+Mingquan Yu, 
+Gun-hee Moon, 
+Rebeca  G. Castillo, 
+Serena DeBeer, 
+Claudia Weidenthaler, 
+Harun T&#252;ys&#252;z
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003801?af=R</link>
+      <content:encoded>&lt;p&gt;Herein, we show that performance of mesostructured cobalt oxide electrocatalyst for oxygen evolution reaction (OER) can be significantly enhanced with coupling of silver species. Various analysis techniques including pair distribution function and Rietveld, X&#8208;ray absorption spectroscopy at synchrotron as well as advanced electron microscopy revealed that silver exists as metallic Ag particles and well&#8208;dispersed Ag2O nanoclusters within mesostructure. The benefits of this synergy are twofold for OER: highly conductive metallic Ag improves the charge transfer ability of the electrocatalyst while ultra&#8208;small Ag2O clusters provide the centers that can uptake Fe impurities from KOH electrolyte and boost the catalytic efficiency of Co&#8208;Ag oxides. The current density of mesostructured Co3O4 at 1.7 VRHE is increased from 102 to 211 mA/cm2 with incorporation of silver spices. This work presents the dual role of silver moieties and demonstrates a simple method to increase the OER activity of Co3O4.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Dual Role of Silver Moieties Coupled with Ordered Mesoporous Cobalt Oxide towards Electrocatalytic Oxygen Evolution Reaction</dc:title>
+      <dc:identifier>doi:10.1002/anie.202003801</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-14T06:56:52-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202003801</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003801?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202004105?af=R">
+      <title>Chemical proteomic profiling of protein 4'&#8208;phosphopantetheinylation in mammalian cells</title>
+      <dc:description>Protein  4  ' &#8208; phosphopantetheinylation is an essential post&#8208;translational modification (PTM) in prokaryotes and eukaryotes. So far, only five protein substrates of this specific PTM have been discovered in mammalian cells. These proteins are known to perform important functions including fatty acid biosynthesis and folate metabolism, as well as &#946; &#8208;alanine activation. In order to explore existing and new substrates of  4 ' &#8208; phosphopantetheinylation  in mammalian proteomes, we designed and synthesized a series of new pantetheine analogue probes enabling effective metabolic labelling of  4 ' &#8208; phosphopantetheinylated proteins in HepG2 cells  . In combination with a quantitative chemical proteomic platform, we enriched and identified all the currently known  4 ' &#8208; phosphopantetheinylated  proteins with high confidence, and unambiguously determined their exact sites of modification. More encouragingly, we discovered, via targeted proteomics , a potential 4 ' &#8208; phosphopantetheinylated site in the protein of mitochondrial dehydrogenase/reductase SDR family member 2 (DHRS2).</dc:description>
+      <dc:creator>
+Nan Chen, 
+Yuan Liu, 
+Yuanpei Li, 
+Chu Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004105?af=R</link>
+      <content:encoded>&lt;p&gt;Protein  4  ' &#8208; phosphopantetheinylation is an essential post&#8208;translational modification (PTM) in prokaryotes and eukaryotes. So far, only five protein substrates of this specific PTM have been discovered in mammalian cells. These proteins are known to perform important functions including fatty acid biosynthesis and folate metabolism, as well as &#946; &#8208;alanine activation. In order to explore existing and new substrates of  4 ' &#8208; phosphopantetheinylation  in mammalian proteomes, we designed and synthesized a series of new pantetheine analogue probes enabling effective metabolic labelling of  4 ' &#8208; phosphopantetheinylated proteins in HepG2 cells  . In combination with a quantitative chemical proteomic platform, we enriched and identified all the currently known  4 ' &#8208; phosphopantetheinylated  proteins with high confidence, and unambiguously determined their exact sites of modification. More encouragingly, we discovered, via targeted proteomics , a potential 4 ' &#8208; phosphopantetheinylated site in the protein of mitochondrial dehydrogenase/reductase SDR family member 2 (DHRS2).&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Chemical proteomic profiling of protein 4'&#8208;phosphopantetheinylation in mammalian cells</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004105</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-14T06:56:13-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004105</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004105?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202006280?af=R">
+      <title>TEAD&#8208;YAP interaction inhibitors and MDM2 binders from DNA&#8208;encoded indole&#8208;focused Ugi&#8208;peptidomimetics</title>
+      <dc:description>DNA&#8208;encoded combinatorial synthesis provides efficient and dense coverage of chemical space around privileged molecular structures. The indole side chain of tryptophan plays a prominent role in key, or &#8220;hot spot&#8221; regions of protein&#8208;protein interactions. A DNA&#8208;encoded combinatorial peptoid library was designed based on the Ugi four&#8208;component reaction employing tryptophan&#8208;mimetic indole side chains to probe target protein surface. Several peptoids were synthesized on a chemically stable hexathymidine adapter oligonucleotide &#8220;hexT&#8221;, encoded by DNA sequences and substituted by azide&#8208;alkyne cycloaddition to yield a library of 8,112 molecules. Selection experiments on the tumor&#8208;relevant proteins MDM2 and TEAD4 yielded MDM2 binders and a novel class of TEAD&#8208;YAP interaction inhibitors that perturbed expression of a gene under the control of these Hippo pathway effectors.</dc:description>
+      <dc:creator>
+Verena  B. K. Kunig, 
+Marco Potowski, 
+Mohammad Akbarzadeh, 
+Mateja Klika &#352;kopi&#263;, 
+Denise Dos Santos Smith, 
+Lukas Arendt, 
+Ina Dormuth, 
+H&#233;l&#232;ne Adihou, 
+Bla&#382; Andlovic, 
+Hacer Karatas, 
+Shabnam Shaabani, 
+Tryfon Zarganes-Tzitzikas, 
+Constantinos  G. Neochoritis, 
+Ran Zhang, 
+Matthew Groves, 
+St&#233;phanie  M. Gu&#233;ret, 
+Christian Ottmann, 
+J&#246;rg Rahnenf&#252;hrer, 
+Roland Fried, 
+Alexander D&#246;mling, 
+Andreas Brunschweiger
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006280?af=R</link>
+      <content:encoded>&lt;p&gt;DNA&#8208;encoded combinatorial synthesis provides efficient and dense coverage of chemical space around privileged molecular structures. The indole side chain of tryptophan plays a prominent role in key, or &#8220;hot spot&#8221; regions of protein&#8208;protein interactions. A DNA&#8208;encoded combinatorial peptoid library was designed based on the Ugi four&#8208;component reaction employing tryptophan&#8208;mimetic indole side chains to probe target protein surface. Several peptoids were synthesized on a chemically stable hexathymidine adapter oligonucleotide &#8220;hexT&#8221;, encoded by DNA sequences and substituted by azide&#8208;alkyne cycloaddition to yield a library of 8,112 molecules. Selection experiments on the tumor&#8208;relevant proteins MDM2 and TEAD4 yielded MDM2 binders and a novel class of TEAD&#8208;YAP interaction inhibitors that perturbed expression of a gene under the control of these Hippo pathway effectors.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>TEAD&#8208;YAP interaction inhibitors and MDM2 binders from DNA&#8208;encoded indole&#8208;focused Ugi&#8208;peptidomimetics</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006280</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-06-14T06:55:41-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202006280</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006280?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007680?af=R">
       <title>Acceptor&#8208;doping accelerated charge separation in Cu2O photocathode for photoelectrochemical water splitting: a theoretical and experimental study</title>
@@ -428,28 +548,6 @@ Ying-Feng Han
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006569</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006569?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005374?af=R">
-      <title>The Carbonyl&#8901;&#8901;&#8901;Tellurazole Chalcogen Bond as Molecular Recognition Unit &#8211; From Model Studies to Supramolecular Organic Framework</title>
-      <dc:description>In the last years, chalcogen bonding, the noncovalent interaction involving chalcogen centers, has emerged as interesting alternative to the ubiquitous hydrogen bonding in many research areas. Here, we could show by means of high&#8208;level quantum chemical calculations, that the carbonyl&#8208;&#8208;&#8208;tellurazole chalcogen bond is at least as strong as conventional hydrogen bonds. Using the carbonyl&#8208;&#8208;&#8208;tellurazole binding motif, we were able to design complex supramolecular networks in solid phase starting from tellurazole&#8208;substituted cyclic peptides. X&#8208;ray analyses reveal that the rigid structure of the cyclic peptides is caused by hydrogen bonds, whereas the supramolecular network is held together by chalcogen bonding. The type of the supramolecular network depends on peptide used; both linear wires and a honeycomb&#8208;like supramolecular organic framework (SOF) were observed. The unique structure of the SOF shows two channels filled with different types of solvent mixtures being either locked or freely movable.</dc:description>
-      <dc:creator>
-Saber Mehrparvar, 
-Christoph W&#246;lper, 
-Rolf Gleiter, 
-Gebhard Haberhauer
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005374?af=R</link>
-      <content:encoded>&lt;p&gt;In the last years, chalcogen bonding, the noncovalent interaction involving chalcogen centers, has emerged as interesting alternative to the ubiquitous hydrogen bonding in many research areas. Here, we could show by means of high&#8208;level quantum chemical calculations, that the carbonyl&#8208;&#8208;&#8208;tellurazole chalcogen bond is at least as strong as conventional hydrogen bonds. Using the carbonyl&#8208;&#8208;&#8208;tellurazole binding motif, we were able to design complex supramolecular networks in solid phase starting from tellurazole&#8208;substituted cyclic peptides. X&#8208;ray analyses reveal that the rigid structure of the cyclic peptides is caused by hydrogen bonds, whereas the supramolecular network is held together by chalcogen bonding. The type of the supramolecular network depends on peptide used; both linear wires and a honeycomb&#8208;like supramolecular organic framework (SOF) were observed. The unique structure of the SOF shows two channels filled with different types of solvent mixtures being either locked or freely movable.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>The Carbonyl&#8901;&#8901;&#8901;Tellurazole Chalcogen Bond as Molecular Recognition Unit &#8211; From Model Studies to Supramolecular Organic Framework</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005374</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-12T06:50:36-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005374</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005374?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1522,177 +1620,6 @@ Yuanjian Zhang
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003949?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005882?af=R">
-      <title>Pd&#8208;Senphos Catalyzed trans&#8208;Selective Cyanoboration of 1,3&#8208;Enynes</title>
-      <dc:description>The first trans&#8208;selective cyanoboration reaction of an alkyne, specifically a 1,3&#8208;enyne, is described. The reported palladium&#8208;catalyzed cyanoboration of 1,3&#8208;enynes is site&#8208;, regio&#8208;, and diastereoselective, and is uniquely enabled by the 1,4&#8208;azaborine&#8208;based Senphos ligand structure. Tetra&#8208;substituted alkenyl nitriles are obtained providing useful boron&#8208;dienenitrile building blocks that can be further functionalized. The utility of our method has been demonstrated with the synthesis of Satigrel, an anti&#8208;platelet aggregating agent</dc:description>
-      <dc:creator>
-Yuanzhe Zhang, 
-Bo Li, 
-Shih-Yuan Liu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005882?af=R</link>
-      <content:encoded>&lt;p&gt;The first trans&#8208;selective cyanoboration reaction of an alkyne, specifically a 1,3&#8208;enyne, is described. The reported palladium&#8208;catalyzed cyanoboration of 1,3&#8208;enynes is site&#8208;, regio&#8208;, and diastereoselective, and is uniquely enabled by the 1,4&#8208;azaborine&#8208;based Senphos ligand structure. Tetra&#8208;substituted alkenyl nitriles are obtained providing useful boron&#8208;dienenitrile building blocks that can be further functionalized. The utility of our method has been demonstrated with the synthesis of Satigrel, an anti&#8208;platelet aggregating agent&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Pd&#8208;Senphos Catalyzed trans&#8208;Selective Cyanoboration of 1,3&#8208;Enynes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005882</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T12:43:27-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005882</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005882?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007226?af=R">
-      <title>Late&#8208;Stage Peptide Macrocyclization via Palladium&#8208;Catalyzed Site&#8208;selective C&#8208;H Olefination of Tryptophan</title>
-      <dc:description>Transition metal catalyzed C&#8208;H activation have shown potential in the functionalization of peptides with expanded structural diversity. Herein, we report the development of late&#8208;stage peptide macrocyclization methods via palladium&#8208;catalyzed site&#8208;selective C(sp  2  )&#8208;H olefination of tryptophan residues at C&#8208;2 and C&#8208;4 positions. This strategy utilizes peptide backbone as endogenous directing groups and provide access to peptide macrocycles with unique Trp&#8208;alkene crosslinks.</dc:description>
-      <dc:creator>
-Zengbing Bai, 
-Chuangxu Cai, 
-Wangjian Sheng, 
-Yuxiang Ren, 
-Huan Wang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007226?af=R</link>
-      <content:encoded>&lt;p&gt;Transition metal catalyzed C&#8208;H activation have shown potential in the functionalization of peptides with expanded structural diversity. Herein, we report the development of late&#8208;stage peptide macrocyclization methods via palladium&#8208;catalyzed site&#8208;selective C(sp  2  )&#8208;H olefination of tryptophan residues at C&#8208;2 and C&#8208;4 positions. This strategy utilizes peptide backbone as endogenous directing groups and provide access to peptide macrocycles with unique Trp&#8208;alkene crosslinks.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Late&#8208;Stage Peptide Macrocyclization via Palladium&#8208;Catalyzed Site&#8208;selective C&#8208;H Olefination of Tryptophan</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007226</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T10:27:57-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007226</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007226?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007406?af=R">
-      <title>Induced&#8208;Fitting and Polarization of Bromine Molecule in an Electrophilic Inorganic Molecular Cavity and Its Bromination Reactivity</title>
-      <dc:description>Dodecavanadate, [V  12  O  32  ]  4&#8722;  (  V12  ), possesses a 4.4 &#197; cavity entrance, and the cavity shows unique electrophilicity. Due to the high polarizability, Br  2  was inserted into  V12  , inducing the inversion of one of the VO  5  square pyramids to form [V  12  O  32  (Br  2  )]  4&#8722;  (  V12(Br2)  ). The inserted Br  2  molecule was polarized and showed a peak at 185 cm  &#8722;1  in the IR spectrum. The reaction of  V12(Br2)  and toluene yielded bromination of toluene at the ring, showing the electrophilicity of the inserted Br  2  molecule. Compound  V12(Br2)  also reacted with propane,  n  &#8208;butane, and  n  &#8208;pentane to give brominated alkanes. Bromination with  V12(Br2)  showed high selectivity for 3&#8208;bromopentane (64%) among the monobromopentane products and preferred  threo  isomer among 2&#8208;,3&#8208;dibromobutane and 2,3&#8208;dibromopenane. The unique inorganic cavity traps Br  2  leading the polarization of the diatomic molecule. Due to its new reaction field, the trapped Br  2  shows selective functionalization of alkanes.</dc:description>
-      <dc:creator>
-Yuji Kikukawa, 
-Kensuke Seto, 
-Daiki Watanabe, 
-Hiromasa Kitajima, 
-Misaki Katayama, 
-Shohei Yamashita, 
-Yasuhiro Inada, 
-Yoshihito Hayashi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007406?af=R</link>
-      <content:encoded>&lt;p&gt;Dodecavanadate, [V  12  O  32  ]  4&#8722;  (  V12  ), possesses a 4.4 &#197; cavity entrance, and the cavity shows unique electrophilicity. Due to the high polarizability, Br  2  was inserted into  V12  , inducing the inversion of one of the VO  5  square pyramids to form [V  12  O  32  (Br  2  )]  4&#8722;  (  V12(Br2)  ). The inserted Br  2  molecule was polarized and showed a peak at 185 cm  &#8722;1  in the IR spectrum. The reaction of  V12(Br2)  and toluene yielded bromination of toluene at the ring, showing the electrophilicity of the inserted Br  2  molecule. Compound  V12(Br2)  also reacted with propane,  n  &#8208;butane, and  n  &#8208;pentane to give brominated alkanes. Bromination with  V12(Br2)  showed high selectivity for 3&#8208;bromopentane (64%) among the monobromopentane products and preferred  threo  isomer among 2&#8208;,3&#8208;dibromobutane and 2,3&#8208;dibromopenane. The unique inorganic cavity traps Br  2  leading the polarization of the diatomic molecule. Due to its new reaction field, the trapped Br  2  shows selective functionalization of alkanes.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Induced&#8208;Fitting and Polarization of Bromine Molecule in an Electrophilic Inorganic Molecular Cavity and Its Bromination Reactivity</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007406</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T10:27:30-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007406</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007406?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005776?af=R">
-      <title>Synthesis and Post&#8208;Synthesis Transformation of Germanosilicate Zeolites</title>
-      <dc:description>Zeolites are one of the most important heterogeneous catalysts, with a high number of large&#8208;scale industrial applications. While the synthesis of new zeolites remain rather limited, introduction of germanium has substantially increased our ability to not only direct the synthesis of zeolites but also to convert them into new materials post&#8208;synthetically. The smaller Ge&#8208;O&#8208;Ge angles (vs. Si&#8208;O&#8208;Si) and lability of Ge&#8208;O bonds in aqueous solutions account for this behaviour. This minireview discusses critical aspects of germanosilicate synthesis and their post&#8208;synthesis transformations to porous materials.</dc:description>
-      <dc:creator>
-Jiri Cejka, 
-Maksym Opanasenko, 
-Mariya Shamzhy, 
-Yunzheng Wang, 
-Wenfu Yan, 
-Petr Nachtigall
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005776?af=R</link>
-      <content:encoded>&lt;p&gt;Zeolites are one of the most important heterogeneous catalysts, with a high number of large&#8208;scale industrial applications. While the synthesis of new zeolites remain rather limited, introduction of germanium has substantially increased our ability to not only direct the synthesis of zeolites but also to convert them into new materials post&#8208;synthetically. The smaller Ge&#8208;O&#8208;Ge angles (vs. Si&#8208;O&#8208;Si) and lability of Ge&#8208;O bonds in aqueous solutions account for this behaviour. This minireview discusses critical aspects of germanosilicate synthesis and their post&#8208;synthesis transformations to porous materials.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Synthesis and Post&#8208;Synthesis Transformation of Germanosilicate Zeolites</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005776</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T07:45:39-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005776</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005776?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202003500?af=R">
-      <title>Mutant&#8208;Selective Allosteric EGFR Degraders are Effective Against a Broad Range of Drug&#8208;Resistant Mutations</title>
-      <dc:description>Targeting epidermal growth factor receptor (EGFR) through an allosteric mechanism provides a potential therapeutic strategy to overcome drug&#8208;resistant EGFR mutations that emerge within the ATP binding site. Here, we develop an allosteric EGFR degrader, DDC&#8208;01&#8208;163, which can selectively inhibit the proliferation of L858R/T790 (L/T) mutant Ba/F3 cells while leaving wildtype EGFR Ba/F3 cells unaffected. DDC&#8208;01&#8208;163 is also effective against osimertinib&#8208;resistant cells with L/T/C797S and L/T/L718Q EGFR mutations. When combined with an ATP&#8208;site EGFR inhibitor, osimertinib, the anti&#8208;proliferative activity of DDC&#8208;01&#8208;163 against L858R/T790M EGFR&#8208;Ba/F3 cells is enhanced. Collectively, DDC&#8208;01&#8208;163 is a promising allosteric EGFR degrader with selective activity against various clinically relevant EGFR mutants as a single agent and when combined with an ATP&#8208;site inhibitor. Our data suggests that targeted protein degradation is a promising drug development approach for mutant EGFR.</dc:description>
-      <dc:creator>
-Jaebong Jang, 
-Ciric To, 
-Dries  J. H. De Clercq, 
-Eunyoung Park, 
-Charles  M. Ponthier, 
-Bo Hee Shin, 
-Mierzhati Mushajiang, 
-Rados&#322;aw  P. Nowak, 
-Eric  S. Fischer, 
-Michael  J. Eck, 
-Pasi  A. J&#228;nne, 
-Nathanael  Schiander Gray
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003500?af=R</link>
-      <content:encoded>&lt;p&gt;Targeting epidermal growth factor receptor (EGFR) through an allosteric mechanism provides a potential therapeutic strategy to overcome drug&#8208;resistant EGFR mutations that emerge within the ATP binding site. Here, we develop an allosteric EGFR degrader, DDC&#8208;01&#8208;163, which can selectively inhibit the proliferation of L858R/T790 (L/T) mutant Ba/F3 cells while leaving wildtype EGFR Ba/F3 cells unaffected. DDC&#8208;01&#8208;163 is also effective against osimertinib&#8208;resistant cells with L/T/C797S and L/T/L718Q EGFR mutations. When combined with an ATP&#8208;site EGFR inhibitor, osimertinib, the anti&#8208;proliferative activity of DDC&#8208;01&#8208;163 against L858R/T790M EGFR&#8208;Ba/F3 cells is enhanced. Collectively, DDC&#8208;01&#8208;163 is a promising allosteric EGFR degrader with selective activity against various clinically relevant EGFR mutants as a single agent and when combined with an ATP&#8208;site inhibitor. Our data suggests that targeted protein degradation is a promising drug development approach for mutant EGFR.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Mutant&#8208;Selective Allosteric EGFR Degraders are Effective Against a Broad Range of Drug&#8208;Resistant Mutations</dc:title>
-      <dc:identifier>doi:10.1002/anie.202003500</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T07:40:33-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202003500</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003500?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005050?af=R">
-      <title>Synthesis of Acylboron Compounds</title>
-      <dc:description>Acylboron compounds are emerging as versatile functional groups with applications in multiple research fields. Their synthesis, however, is still challenging and requires innovative methods. This Minireview provides an overview on the obstacles of acylboron synthesis and highlights notable advances within the last three years on new strategies to overcome the challenges posed by the formation of acyl &#8211; boron bonds.</dc:description>
-      <dc:creator>
-Dino Wu, 
-Jumpei Taguchi, 
-Matthias Tanriver, 
-Jeffrey  W. Bode
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005050?af=R</link>
-      <content:encoded>&lt;p&gt;Acylboron compounds are emerging as versatile functional groups with applications in multiple research fields. Their synthesis, however, is still challenging and requires innovative methods. This Minireview provides an overview on the obstacles of acylboron synthesis and highlights notable advances within the last three years on new strategies to overcome the challenges posed by the formation of acyl &#8211; boron bonds.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Synthesis of Acylboron Compounds</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005050</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T06:39:08-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005050</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005050?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007813?af=R">
-      <title>The Mechanism of the Magnetodielectric Response in a Molecule&#8208;Based Trinuclear Iron Cluster Material</title>
-      <dc:description>Magnetodielectric response mechanisms are critical for the rational design and synthesis of molecule&#8208;based magnetodielectric materials. Herein, the magnetodielectric response was investigated in the molecule&#8208;based material [Fe  3  O(CH  3  COO)  6  (py)  3  ](py) (  1  ). Its magnetodielectric coefficient (MD) is &#8208;2.8% for phase transition III and &#8208;4.1% for phase transition I. Study of the mechanism of the magnetodielectric response in  1  reveals that its magnetodielectric response at phase transition I is induced by the charge&#8208;frustration of the trinuclear iron cluster, while that at phase transition III is attributed to the spin&#8208;frustration of the trinuclear iron cluster, providing a new route for the design of magnetodielectric materials.</dc:description>
-      <dc:creator>
-Dong Li, 
-Xuan Wang, 
-Hai-Xia Zhao, 
-Yan-Ping Ren, 
-Gui-Lin Zhuang, 
-La-Sheng Long, 
-Lan-Sun Zheng
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007813?af=R</link>
-      <content:encoded>&lt;p&gt;Magnetodielectric response mechanisms are critical for the rational design and synthesis of molecule&#8208;based magnetodielectric materials. Herein, the magnetodielectric response was investigated in the molecule&#8208;based material [Fe  3  O(CH  3  COO)  6  (py)  3  ](py) (  1  ). Its magnetodielectric coefficient (MD) is &#8208;2.8% for phase transition III and &#8208;4.1% for phase transition I. Study of the mechanism of the magnetodielectric response in  1  reveals that its magnetodielectric response at phase transition I is induced by the charge&#8208;frustration of the trinuclear iron cluster, while that at phase transition III is attributed to the spin&#8208;frustration of the trinuclear iron cluster, providing a new route for the design of magnetodielectric materials.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>The Mechanism of the Magnetodielectric Response in a Molecule&#8208;Based Trinuclear Iron Cluster Material</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007813</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-08T06:29:16-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007813</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007813?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.201916255?af=R">
       <title>Excimer and Exciplex Formation in Gold(I) Complexes Preconditioned by Aurophilic Interactions</title>
