@@ -9,6 +9,9 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002044?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001890?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001466?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002129?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907880?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002610?af=R" />
@@ -101,9 +104,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001292?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002333?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001642?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001054?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000189?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907927?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907966?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001777?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000474?af=R" />
@@ -137,19 +137,15 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070186?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908445?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908293?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201905440?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000906?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908027?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907396?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907035?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001082?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201906478?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000236?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000302?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907864?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907936?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001815?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070180?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000063?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000377?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908201?af=R" />
@@ -158,17 +154,21 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000345?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000919?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908411?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001093?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070174?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070175?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070176?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070177?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070178?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070179?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000791?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000364?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000128?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000508?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001082?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001093?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070177?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070176?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070180?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070174?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070175?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070178?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070179?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201905440?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907035?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908007?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907477?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000747?af=R" />
@@ -212,6 +212,150 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002044?af=R">
+      <title>3D Two&#8208;Photon Microprinting of Nanoporous Architectures</title>
+      <dc:description>
+Combining self&#8208;assembly on the nanoscale and two&#8208;photon 3D laser printing on the micrometer scale, complex nanoporous 3D architectures are achieved. The underlying photoresist relies on polymerization&#8208;induced phase separation between a polymer and a nonpolymerizable phase. Control of the porosity by the printing parameters is demonstrated by sample characterization based on ultramicrotomy, scanning electron microscopy, and optical transmission.
+
+
+
+
+
+
+
+
+Abstract
+A photoresist system for 3D two&#8208;photon microprinting is presented, which enables the printing of inherently nanoporous structures with mean pore sizes around 50&#8197;nm by means of self&#8208;organization on the nanoscale. A phase separation between polymerizable and chemically inert photoresist components leads to the formation of 3D co&#8208;continuous structures. Subsequent washing&#8208;out of the unpolymerized phase reveals the porous polymer structures. To characterize the volume properties of the printed structures, scanning electron microscopy images are recorded from ultramicrotome sections. In addition, the light&#8208;scattering properties of the 3D&#8208;printed material are analyzed. By adjusting the printing parameters, the porosity can be controlled during 3D printing. As an application example, a functioning miniaturized Ulbricht light&#8208;collection sphere is 3D printed and tested.
+</dc:description>
+      <dc:creator>
+Frederik Mayer, 
+Daniel Ryklin, 
+Irene Wacker, 
+Ronald Curticean, 
+Martin &#268;alkovsk&#253;, 
+Andreas Niemeyer, 
+Zheqin Dong, 
+Pavel A. Levkin, 
+Dagmar Gerthsen, 
+Rasmus R. Schr&#246;der, 
+Martin Wegener
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002044?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/37dd2359-d1ce-4ad0-a2dc-be0569a823ed/adma202002044-gra-0001-m.png"
+     alt="3D Two&#8208;Photon Microprinting of Nanoporous Architectures"/&gt;
+&lt;p&gt;Combining self&#8208;assembly on the nanoscale and two&#8208;photon 3D laser printing on the micrometer scale, complex nanoporous 3D architectures are achieved. The underlying photoresist relies on polymerization&#8208;induced phase separation between a polymer and a nonpolymerizable phase. Control of the porosity by the printing parameters is demonstrated by sample characterization based on ultramicrotomy, scanning electron microscopy, and optical transmission.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A photoresist system for 3D two&#8208;photon microprinting is presented, which enables the printing of inherently nanoporous structures with mean pore sizes around 50&#8197;nm by means of self&#8208;organization on the nanoscale. A phase separation between polymerizable and chemically inert photoresist components leads to the formation of 3D co&#8208;continuous structures. Subsequent washing&#8208;out of the unpolymerized phase reveals the porous polymer structures. To characterize the volume properties of the printed structures, scanning electron microscopy images are recorded from ultramicrotome sections. In addition, the light&#8208;scattering properties of the 3D&#8208;printed material are analyzed. By adjusting the printing parameters, the porosity can be controlled during 3D printing. As an application example, a functioning miniaturized Ulbricht light&#8208;collection sphere is 3D printed and tested.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>3D Two&#8208;Photon Microprinting of Nanoporous Architectures</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002044</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-30T11:02:03-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002044</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002044?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001890?af=R">
+      <title>Polarized Light&#8208;Emitting Diodes Based on Anisotropic Excitons in Few&#8208;Layer ReS2</title>
+      <dc:description>
+Linearly polarized light&#8208;emitting diodes are demonstrated using few&#8208;layer ReS2, a 2D semiconductor with reduced in&#8208;plane symmetry. Two excitonic electroluminescence peaks exhibiting high degrees of linear polarization of &#8776;80% are observed in near&#8208;infrared frequencies. Hot hole injection through a hBN tunneling layer is shown to be key to the activation of hot exciton emission.
+
+
+
+
+
+
+
+
+Abstract
+An on&#8208;chip polarized light source is desirable in signal processing, optical communication, and display applications. Layered semiconductors with reduced in&#8208;plane symmetry have inherent anisotropic excitons that are attractive candidates as polarized dipole emitters. Herein, the demonstration of polarized light&#8208;emitting diode based on anisotropic excitons in few&#8208;layer ReS2, a 2D semiconductor with excitonic transition energy of 1.5&#8211;1.6 eV, is reported. The light&#8208;emitting device is based on minority carrier (hole) injection into n&#8208;type ReS2 through a hexagonal boron nitride (hBN) tunnel barrier in a metal&#8211;insulator&#8211;semiconductor (MIS) van der Waals heterostack. Two distinct emission peaks from excitons are observed at near&#8208;infrared wavelength regime from few&#8208;layer ReS2. The emissions exhibit a degree of polarization of 80% reflecting the nearly 1D nature of excitons in ReS2.
+</dc:description>
+      <dc:creator>
+Junyong Wang, 
+Yong Justin Zhou, 
+Du Xiang, 
+Shiuan Jun Ng, 
+Kenji Watanabe, 
+Takashi Taniguchi, 
+Goki Eda
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001890?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9795a947-2d23-4031-a6e3-3c7adb51b064/adma202001890-gra-0001-m.png"
+     alt="Polarized Light&#8208;Emitting Diodes Based on Anisotropic Excitons in Few&#8208;Layer ReS2"/&gt;
+&lt;p&gt;Linearly polarized light&#8208;emitting diodes are demonstrated using few&#8208;layer ReS&lt;sub&gt;2&lt;/sub&gt;, a 2D semiconductor with reduced in&#8208;plane symmetry. Two excitonic electroluminescence peaks exhibiting high degrees of linear polarization of &#8776;80% are observed in near&#8208;infrared frequencies. Hot hole injection through a hBN tunneling layer is shown to be key to the activation of hot exciton emission.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;An on&#8208;chip polarized light source is desirable in signal processing, optical communication, and display applications. Layered semiconductors with reduced in&#8208;plane symmetry have inherent anisotropic excitons that are attractive candidates as polarized dipole emitters. Herein, the demonstration of polarized light&#8208;emitting diode based on anisotropic excitons in few&#8208;layer ReS&lt;sub&gt;2&lt;/sub&gt;, a 2D semiconductor with excitonic transition energy of 1.5&#8211;1.6 eV, is reported. The light&#8208;emitting device is based on minority carrier (hole) injection into n&#8208;type ReS&lt;sub&gt;2&lt;/sub&gt; through a hexagonal boron nitride (hBN) tunnel barrier in a metal&#8211;insulator&#8211;semiconductor (MIS) van der Waals heterostack. Two distinct emission peaks from excitons are observed at near&#8208;infrared wavelength regime from few&#8208;layer ReS&lt;sub&gt;2&lt;/sub&gt;. The emissions exhibit a degree of polarization of 80% reflecting the nearly 1D nature of excitons in ReS&lt;sub&gt;2&lt;/sub&gt;.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Polarized Light&#8208;Emitting Diodes Based on Anisotropic Excitons in Few&#8208;Layer ReS2</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001890</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-30T10:59:38-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001890</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001890?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001466?af=R">
+      <title>A Self&#8208;Powered Angle Sensor at Nanoradian&#8208;Resolution for Robotic Arms and Personalized Medicare</title>
+      <dc:description>
+Sensing angular information via the most energy&#8208;efficient method is vitally important. After systematic optimization, a triboelectric self&#8208;powered angle sensor provides high&#8208;quality sensing signals while itself needing neither electric power supply nor a signal&#8208;amplification module. In addition, its feasibility is proved by practical application in a robotic arm, precisely duplicating traditional Chinese calligraphy as well as medical brace monitoring joint motions.
+
+
+
+
+
+
+
+
+Abstract
+As the dominant component for precise motion measurement, angle sensors play a vital role in robotics, machine control, and personalized rehabilitation. Various forms of angle sensors have been developed and optimized over the past decades, but none of them would function without an electric power. Here, a highly sensitive triboelectric self&#8208;powered angle sensor (SPAS) exhibiting the highest resolution (2.03 nano&#8208;radian) after a comprehensive optimization is reported. In addition, the SPAS holds merits of light weight and thin thickness, which enables its extensive integrated applications with minimized energy consumption: a palletizing robotic arm equipped with the SPAS can precisely reproduce traditional Chinese calligraphy via angular data it collects. In addition, the SPAS can be assembled in a medicare brace to record the flexion/extension of joints, which may benefit personalized orthopedic recuperation. The SPAS paves a new approach for applications in the emerging fields of robotics, sensing, personalized medicare, and artificial intelligence.
+</dc:description>
+      <dc:creator>
+Ziming Wang, 
+Jie An, 
+Jinhui Nie, 
+Jianjun Luo, 
+Jiajia Shao, 
+Tao Jiang, 
+Baodong Chen, 
+Wei Tang, 
+Zhong Lin Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001466?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8b7bfdf5-8158-4c05-b633-6aa6f440a773/adma202001466-gra-0001-m.png"
+     alt="A Self&#8208;Powered Angle Sensor at Nanoradian&#8208;Resolution for Robotic Arms and Personalized Medicare"/&gt;
+&lt;p&gt;Sensing angular information via the most energy&#8208;efficient method is vitally important. After systematic optimization, a triboelectric self&#8208;powered angle sensor provides high&#8208;quality sensing signals while itself needing neither electric power supply nor a signal&#8208;amplification module. In addition, its feasibility is proved by practical application in a robotic arm, precisely duplicating traditional Chinese calligraphy as well as medical brace monitoring joint motions.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;As the dominant component for precise motion measurement, angle sensors play a vital role in robotics, machine control, and personalized rehabilitation. Various forms of angle sensors have been developed and optimized over the past decades, but none of them would function without an electric power. Here, a highly sensitive triboelectric self&#8208;powered angle sensor (SPAS) exhibiting the highest resolution (2.03 nano&#8208;radian) after a comprehensive optimization is reported. In addition, the SPAS holds merits of light weight and thin thickness, which enables its extensive integrated applications with minimized energy consumption: a palletizing robotic arm equipped with the SPAS can precisely reproduce traditional Chinese calligraphy via angular data it collects. In addition, the SPAS can be assembled in a medicare brace to record the flexion/extension of joints, which may benefit personalized orthopedic recuperation. The SPAS paves a new approach for applications in the emerging fields of robotics, sensing, personalized medicare, and artificial intelligence.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>A Self&#8208;Powered Angle Sensor at Nanoradian&#8208;Resolution for Robotic Arms and Personalized Medicare</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001466</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-30T10:58:31-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001466</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001466?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002129?af=R">
       <title>Advances in Antimicrobial Microneedle Patches for Combating Infections</title>
       <dc:description>
@@ -2819,175 +2963,6 @@ Michael D. Dickey
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001054?af=R">
-      <title>Cs4PbI6&#8208;Mediated Synthesis of Thermodynamically Stable FA0.15Cs0.85PbI3 Perovskite Solar Cells</title>
-      <dc:description>
-A Cs4PbI6&#8208;mediated method is developed to fabricate cesium (Cs)&#8208;rich perovskite films. It is also found that &#8776;15% alloying with the organic formamidine (FA) cation can sufficiently stabilize the perovskite phase with excellent phase and UV&#8208;irradiation stability. FA0.15Cs0.85PbI3&#8208;based perovskite solar cells achieve a champion power conversion efficiency of 17.5%.
-
-
-
-
-
-
-
-
-Abstract
-The stability issue is still one of the main limitations of the commercialization of perovskite photovoltaics. The mixed cation FAxCs1&#8722;xPbI3 has shown great promise owing to its improved thermal and moisture stability. However, the study of FAxCs1&#8722;xPbI3 is concentrated on formamidine (FA)&#8208;rich perovskite, whereas cesium (Cs)&#8208;rich FAxCs1&#8722;xPbI3 perovskites are barely studied due to the inevitable phase separation when Cs &gt; 30 mol%. Here, a Cs4PbI6&#8208;mediated method is developed to synthesize Cs&#8208;rich FAxCs1&#8722;xPbI3 perovskites. It is demonstrated that Cs4PbI6 intermediate phase has a low Cs cation diffusion barrier and therefore offers a fast ion exchange with the preformed FA&#8208;rich perovskite phase to finally form the Cs&#8208;rich FAxCs1&#8722;xPbI3 perovskite. The results indicate that &#8776;15% alloying with organic FA cations can sufficiently stabilize the perovskite phase with excellent phase and UV&#8208;irradiation stability. The FA0.15Cs0.85PbI3 perovskite solar cells achieve a champion power conversion efficiency of 17.5%, showing the great potential of Cs&#8208;based perovskites for efficient and stable solar cells.
-</dc:description>
-      <dc:creator>
-Zhipeng Shao, 
-Hongguang Meng, 
-Xiaofan Du, 
-Xiuhong Sun, 
-Peiliang Lv, 
-Caiyun Gao, 
-Yi Rao, 
-Chen Chen, 
-Zhipeng Li, 
-Xiao Wang, 
-Guanglei Cui, 
-Shuping Pang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001054?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9bc8e4d9-c464-4711-bd04-7ca193666154/adma202001054-gra-0001-m.png"
-     alt="Cs4PbI6&#8208;Mediated Synthesis of Thermodynamically Stable FA0.15Cs0.85PbI3 Perovskite Solar Cells"/&gt;
-&lt;p&gt;A Cs&lt;sub&gt;4&lt;/sub&gt;PbI&lt;sub&gt;6&lt;/sub&gt;&#8208;mediated method is developed to fabricate cesium (Cs)&#8208;rich perovskite films. It is also found that &#8776;15% alloying with the organic formamidine (FA) cation can sufficiently stabilize the perovskite phase with excellent phase and UV&#8208;irradiation stability. FA&lt;sub&gt;0.15&lt;/sub&gt;Cs&lt;sub&gt;0.85&lt;/sub&gt;PbI&lt;sub&gt;3&lt;/sub&gt;&#8208;based perovskite solar cells achieve a champion power conversion efficiency of 17.5%.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The stability issue is still one of the main limitations of the commercialization of perovskite photovoltaics. The mixed cation FA&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Cs&lt;sub&gt;1&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;&#8722;x&lt;/sub&gt; 
-&lt;/i&gt;PbI&lt;sub&gt;3&lt;/sub&gt; has shown great promise owing to its improved thermal and moisture stability. However, the study of FA&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Cs&lt;sub&gt;1&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;&#8722;x&lt;/sub&gt; 
-&lt;/i&gt;PbI&lt;sub&gt;3&lt;/sub&gt; is concentrated on formamidine (FA)&#8208;rich perovskite, whereas cesium (Cs)&#8208;rich FA&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Cs&lt;sub&gt;1&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;&#8722;x&lt;/sub&gt; 
-&lt;/i&gt;PbI&lt;sub&gt;3&lt;/sub&gt; perovskites are barely studied due to the inevitable phase separation when Cs &amp;gt; 30 mol%. Here, a Cs&lt;sub&gt;4&lt;/sub&gt;PbI&lt;sub&gt;6&lt;/sub&gt;&#8208;mediated method is developed to synthesize Cs&#8208;rich FA&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Cs&lt;sub&gt;1&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;&#8722;x&lt;/sub&gt; 
-&lt;/i&gt;PbI&lt;sub&gt;3&lt;/sub&gt; perovskites. It is demonstrated that Cs&lt;sub&gt;4&lt;/sub&gt;PbI&lt;sub&gt;6&lt;/sub&gt; intermediate phase has a low Cs cation diffusion barrier and therefore offers a fast ion exchange with the preformed FA&#8208;rich perovskite phase to finally form the Cs&#8208;rich FA&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt;Cs&lt;sub&gt;1&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;&#8722;x&lt;/sub&gt; 
-&lt;/i&gt;PbI&lt;sub&gt;3&lt;/sub&gt; perovskite. The results indicate that &#8776;15% alloying with organic FA cations can sufficiently stabilize the perovskite phase with excellent phase and UV&#8208;irradiation stability. The FA&lt;sub&gt;0.15&lt;/sub&gt;Cs&lt;sub&gt;0.85&lt;/sub&gt;PbI&lt;sub&gt;3&lt;/sub&gt; perovskite solar cells achieve a champion power conversion efficiency of 17.5%, showing the great potential of Cs&#8208;based perovskites for efficient and stable solar cells.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Cs4PbI6&#8208;Mediated Synthesis of Thermodynamically Stable FA0.15Cs0.85PbI3 Perovskite Solar Cells</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001054</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-21T11:58:29-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001054</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001054?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202000189?af=R">
-      <title>Hofmeister&#8208;Effect&#8208;Guided Ionohydrogel Design as Printable Bioelectronic Devices</title>
-      <dc:description>
-Transducing biosignals imperatively needs a hybrid circuit of mobile ions and electrons. An ionohydrogel bioelectronic platform is developed via enzymatic polymerization in hydrated ionic liquids, realizing the integration of ionic and enzymatic electronic circuits. The platform ensures the high bioactivity of enzymes and favorable ionic conductivity that are integrated into an easy&#8208;to&#8208;use glucose sensor and a wireless human&#8208;motion monitor and energy&#8208;storage device.
-
-
-
-
-
-
-
-
-Abstract
-Bioelectronic platforms convert biological signals into electrical signals by utilizing biocatalysts that provide tools to monitor the activity of cells and tissues. Traditional conducting materials such as solid conductors and conducting polymers are confronted with a great challenge in sophisticated production processes and mismatch at biological tissues&#8211;machine interfaces. Furthermore, the biocatalyst, the key functional component in the electron&#8208;transfer reaction for bio&#8208;signal detection denatures easily in an ionic conductive solution. Herein, a bionic strategy is elaborately developed to synthesize an ionohydrogel bioelectronic platform that possesses extracellular&#8208;matrix&#8208;like habitat by employing hydrated ionic liquids (HILs) as ionic solvent and bioprotectant. This strategy realizes an integration of ionic and enzymatic electronic circuits and minimization of the disparities between tissues and artificial machines. The Hofmeister effect of HILs on enzyme proteins and polymer chains ensures the high bioactivity of the enzymes and greatly improves the mechanical properties of the ionohydrogels. Moreover, hydrogen bonds formed by ILs, water, and polymer chains greatly improve the water&#8208;retention of the ionohydrogel and give it more practical significance. Consequently, the promising ionohydrogel is partly printed and fabricated into wearable devices as a pain&#8208;free humoral components monitor and a wireless motion&#8208;sensor.
-</dc:description>
-      <dc:creator>
-Yinghui Shang, 
-Chu Wu, 
-Chengzhou Hang, 
-Hongliang Lu, 
-Qigang Wang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000189?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/50a3dd16-af30-4af5-8c47-be8f6096451f/adma202000189-gra-0001-m.png"
-     alt="Hofmeister&#8208;Effect&#8208;Guided Ionohydrogel Design as Printable Bioelectronic Devices"/&gt;
-&lt;p&gt;Transducing biosignals imperatively needs a hybrid circuit of mobile ions and electrons. An ionohydrogel bioelectronic platform is developed via enzymatic polymerization in hydrated ionic liquids, realizing the integration of ionic and enzymatic electronic circuits. The platform ensures the high bioactivity of enzymes and favorable ionic conductivity that are integrated into an easy&#8208;to&#8208;use glucose sensor and a wireless human&#8208;motion monitor and energy&#8208;storage device.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Bioelectronic platforms convert biological signals into electrical signals by utilizing biocatalysts that provide tools to monitor the activity of cells and tissues. Traditional conducting materials such as solid conductors and conducting polymers are confronted with a great challenge in sophisticated production processes and mismatch at biological tissues&#8211;machine interfaces. Furthermore, the biocatalyst, the key functional component in the electron&#8208;transfer reaction for bio&#8208;signal detection denatures easily in an ionic conductive solution. Herein, a bionic strategy is elaborately developed to synthesize an ionohydrogel bioelectronic platform that possesses extracellular&#8208;matrix&#8208;like habitat by employing hydrated ionic liquids (HILs) as ionic solvent and bioprotectant. This strategy realizes an integration of ionic and enzymatic electronic circuits and minimization of the disparities between tissues and artificial machines. The Hofmeister effect of HILs on enzyme proteins and polymer chains ensures the high bioactivity of the enzymes and greatly improves the mechanical properties of the ionohydrogels. Moreover, hydrogen bonds formed by ILs, water, and polymer chains greatly improve the water&#8208;retention of the ionohydrogel and give it more practical significance. Consequently, the promising ionohydrogel is partly printed and fabricated into wearable devices as a pain&#8208;free humoral components monitor and a wireless motion&#8208;sensor.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Hofmeister&#8208;Effect&#8208;Guided Ionohydrogel Design as Printable Bioelectronic Devices</dc:title>
-      <dc:identifier>doi:10.1002/adma.202000189</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-21T11:57:38-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202000189</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000189?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201907927?af=R">
-      <title>An All&#8208;Scale Hierarchical Architecture Induces Colossal Room&#8208;Temperature Electrocaloric Effect at Ultralow Electric Field in Polymer Nanocomposites</title>
-      <dc:description>
-An all&#8208;scale hierarchical approach to achieving ultrahigh electrocaloric (EC) strength in flexible polymer composites is proposed and demonstrated. The enhanced EC performance is mainly attributed to the hierarchical interfaces inside the composite nanofibers. In addition, the orthotropic configuration of the BFO@BZT_nfs inside the terpolymer matrix further increases Eb of the nanocomposite and leads to substantially enhanced EC strength under a moderate electric field.
-
-
-
-
-
-
-
-
-Abstract
-Composed of electrocaloric (EC) ceramics and polymers, polymer composites with high EC performances are considered as promising candidates for next&#8208;generation all&#8208;solid&#8208;state cooling devices. Their mass application is limited by the low EC strength, which requires very high operational voltage to induce appreciable temperature change. Here, an all&#8208;scale hierarchical architecture is proposed and demonstrated to achieve high EC strength in poly(vinylidene fluoride&#8208;trifluoroethylene&#8208;chlorofluoroethylene)&#8208;based nanocomposites. On the atomic scale, highly polarizable hierarchical interfaces are induced by incorporating BiFeO3 (BFO) nanoparticles in Ba(Zr0.21Ti0.79)O3 (BZT) nanofibers (BFO@BZT_nfs); on the microscopic scale, percolation of the interfaces further raises the polarization of the composite nanofibers; on the mesoscopic scale, orthotropic orientation of BFO@BZT_nfs leads to much enhanced breakdown strength of the nanocomposites. As a result, an ultrahigh EC strength of &#8776;0.22 K m MV&#8722;1 is obtained at an ultralow electric field of 75 MV m&#8722;1 in nanocomposites filled with the orthotropic composite nanofibers, which is by far the highest value achieved in polymer nanocomposites at a moderate electric field. Results of high&#8208;angle annular dark&#8208;field scanning transmission electron microscopy, in situ scanning Kelvin probe microscopy characterization, and phase&#8208;field simulations all indicate that the much enhanced EC performances can be attributed to the all&#8208;scale hierarchical structures of the nanocomposite.
-</dc:description>
-      <dc:creator>
-Yuqi Chen, 
-Jianfeng Qian, 
-Jinyao Yu, 
-Mengfan Guo, 
-Qinghua Zhang, 
-Jianyong Jiang, 
-Zhonghui Shen, 
-Long&#8208;Qing Chen, 
-Yang Shen
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907927?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/0136db15-ee63-4217-9ca8-b95fe0473bf5/adma201907927-gra-0001-m.png"
-     alt="An All&#8208;Scale Hierarchical Architecture Induces Colossal Room&#8208;Temperature Electrocaloric Effect at Ultralow Electric Field in Polymer Nanocomposites"/&gt;
-&lt;p&gt;An all&#8208;scale hierarchical approach to achieving ultrahigh electrocaloric (EC) strength in flexible polymer composites is proposed and demonstrated. The enhanced EC performance is mainly attributed to the hierarchical interfaces inside the composite nanofibers. In addition, the orthotropic configuration of the BFO@BZT_nfs inside the terpolymer matrix further increases &lt;i&gt;E &lt;/i&gt;
-&lt;sub&gt;b&lt;/sub&gt; of the nanocomposite and leads to substantially enhanced EC strength under a moderate electric field.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Composed of electrocaloric (EC) ceramics and polymers, polymer composites with high EC performances are considered as promising candidates for next&#8208;generation all&#8208;solid&#8208;state cooling devices. Their mass application is limited by the low EC strength, which requires very high operational voltage to induce appreciable temperature change. Here, an all&#8208;scale hierarchical architecture is proposed and demonstrated to achieve high EC strength in poly(vinylidene fluoride&#8208;trifluoroethylene&#8208;chlorofluoroethylene)&#8208;based nanocomposites. On the atomic scale, highly polarizable hierarchical interfaces are induced by incorporating BiFeO&lt;sub&gt;3&lt;/sub&gt; (BFO) nanoparticles in Ba(Zr&lt;sub&gt;0.21&lt;/sub&gt;Ti&lt;sub&gt;0.79&lt;/sub&gt;)O&lt;sub&gt;3&lt;/sub&gt; (BZT) nanofibers (BFO@BZT_nfs); on the microscopic scale, percolation of the interfaces further raises the polarization of the composite nanofibers; on the mesoscopic scale, orthotropic orientation of BFO@BZT_nfs leads to much enhanced breakdown strength of the nanocomposites. As a result, an ultrahigh EC strength of &#8776;0.22 K m MV&lt;sup&gt;&#8722;1&lt;/sup&gt; is obtained at an ultralow electric field of 75 MV m&lt;sup&gt;&#8722;1&lt;/sup&gt; in nanocomposites filled with the orthotropic composite nanofibers, which is by far the highest value achieved in polymer nanocomposites at a moderate electric field. Results of high&#8208;angle annular dark&#8208;field scanning transmission electron microscopy, in situ scanning Kelvin probe microscopy characterization, and phase&#8208;field simulations all indicate that the much enhanced EC performances can be attributed to the all&#8208;scale hierarchical structures of the nanocomposite.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>An All&#8208;Scale Hierarchical Architecture Induces Colossal Room&#8208;Temperature Electrocaloric Effect at Ultralow Electric Field in Polymer Nanocomposites</dc:title>
-      <dc:identifier>doi:10.1002/adma.201907927</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-21T11:57:22-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201907927</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907927?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070184?af=R">
       <title>Masthead: (Adv. Mater. 24/2020)</title>
       <dc:description />
@@ -3209,6 +3184,48 @@ Jie Zeng
       <prism:copyright />
       <prism:section>Back Cover</prism:section>
    </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070177?af=R">
+      <title>Masthead: (Adv. Mater. 23/2020)</title>
+      <dc:description />
+      <dc:creator />
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070177?af=R</link>
+      <content:encoded />
+      <description>Advanced Materials, Volume 32, Issue 23, June 12, 2020. </description>
+      <dc:title>Masthead: (Adv. Mater. 23/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070177</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-10T06:00:34-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>23</prism:number>
+      <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070177</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070177?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Masthead</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070176?af=R">
+      <title>Contents: (Adv. Mater. 23/2020)</title>
+      <dc:description />
+      <dc:creator />
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070176?af=R</link>
+      <content:encoded />
+      <description>Advanced Materials, Volume 32, Issue 23, June 12, 2020. </description>
+      <dc:title>Contents: (Adv. Mater. 23/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070176</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-06-10T06:00:34-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>23</prism:number>
+      <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070176</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070176?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Contents</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070180?af=R">
       <title>MXene Films: Scalable Manufacturing of Free&#8208;Standing, Strong Ti3C2Tx MXene Films with Outstanding Conductivity (Adv. Mater. 23/2020)</title>
       <dc:description>
@@ -3356,48 +3373,6 @@ Han Zhang
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070175?af=R</prism:url>
       <prism:copyright />
       <prism:section>Inside Front Cover</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202070176?af=R">
-      <title>Contents: (Adv. Mater. 23/2020)</title>
-      <dc:description />
-      <dc:creator />
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070176?af=R</link>
-      <content:encoded />
-      <description>Advanced Materials, Volume 32, Issue 23, June 12, 2020. </description>
-      <dc:title>Contents: (Adv. Mater. 23/2020)</dc:title>
-      <dc:identifier>doi:10.1002/adma.202070176</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-10T06:00:34-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:volume>32</prism:volume>
-      <prism:number>23</prism:number>
-      <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1002/adma.202070176</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070176?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Contents</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202070177?af=R">
-      <title>Masthead: (Adv. Mater. 23/2020)</title>
-      <dc:description />
-      <dc:creator />
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070177?af=R</link>
-      <content:encoded />
-      <description>Advanced Materials, Volume 32, Issue 23, June 12, 2020. </description>
-      <dc:title>Masthead: (Adv. Mater. 23/2020)</dc:title>
-      <dc:identifier>doi:10.1002/adma.202070177</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-10T06:00:34-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:volume>32</prism:volume>
-      <prism:number>23</prism:number>
-      <prism:coverDate>2020-06-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-06-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1002/adma.202070177</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070177?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Masthead</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070178?af=R">
       <title>Medulloblastoma: Metabolic Fingerprinting on Synthetic Alloys for Medulloblastoma Diagnosis and Radiotherapy Evaluation (Adv. Mater. 23/2020)</title>
