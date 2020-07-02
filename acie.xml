@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004805?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005739?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006383?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006740?af=R" />
@@ -210,7 +211,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007552?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006457?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005711?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005729?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -219,6 +219,30 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202004805?af=R">
+      <title>Periodically Ordered, Nuclease&#8208;Resistant DNA Nanowires Decorated with Cell&#8208;Specific Aptamers as Selective Theranostic Agents</title>
+      <dc:description>DNA nanostructures have shown potentials in cancer therapy. However, current clinical practice is hampered by the difficulty to deliver them into cancer cells and susceptibility to nuclease degradation. To overcome these limitations, we report herein a periodically&#8208;ordered nick&#8208;hidden DNA nanowire (NW) with high serum stability and active targeting functionality. The inner core is made of multiple&#8208;connected DNA double helices and the outer shell is composed of regularly&#8208;arranged standing&#8208;up hairpin aptamers. All terminals of the components are hidden from nuclease attacks while the target&#8208;binding sites are exposed to allow delivery to the cancer target. The DNA NW remains intact over 24&#8208;h incubation in serum solution. Animal imaging and cell apoptosis show that the anticancer drugs formulated NW displays long blood&#8208;circulation time and high specificity in inducing cancer cell apoptosis. Treatment of tumor&#8208;bearing mice validates  in vivo  therapeutic efficacy, demonstrating an ideal theranostic vehicle for targeted imaging and therapy of cancers.</dc:description>
+      <dc:creator>
+Chang Xue, 
+Songbai Zhang, 
+Xin Yu, 
+Shuyao Hu, 
+Yi Lu, 
+Zai-Sheng Wu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004805?af=R</link>
+      <content:encoded>&lt;p&gt;DNA nanostructures have shown potentials in cancer therapy. However, current clinical practice is hampered by the difficulty to deliver them into cancer cells and susceptibility to nuclease degradation. To overcome these limitations, we report herein a periodically&#8208;ordered nick&#8208;hidden DNA nanowire (NW) with high serum stability and active targeting functionality. The inner core is made of multiple&#8208;connected DNA double helices and the outer shell is composed of regularly&#8208;arranged standing&#8208;up hairpin aptamers. All terminals of the components are hidden from nuclease attacks while the target&#8208;binding sites are exposed to allow delivery to the cancer target. The DNA NW remains intact over 24&#8208;h incubation in serum solution. Animal imaging and cell apoptosis show that the anticancer drugs formulated NW displays long blood&#8208;circulation time and high specificity in inducing cancer cell apoptosis. Treatment of tumor&#8208;bearing mice validates  in vivo  therapeutic efficacy, demonstrating an ideal theranostic vehicle for targeted imaging and therapy of cancers.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Periodically Ordered, Nuclease&#8208;Resistant DNA Nanowires Decorated with Cell&#8208;Specific Aptamers as Selective Theranostic Agents</dc:title>
+      <dc:identifier>doi:10.1002/anie.202004805</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-02T01:11:24-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202004805</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004805?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007110?af=R">
       <title>Exerting Spatial Control During Nanoparticle Occlusion within Calcite Crystals</title>
       <dc:description>In principle, nanoparticle occlusion within crystals provides a straightforward and efficient route to make new nanocomposite materials. However, developing a deeper understanding of the design rules underpinning this strategy is highly desirable. In particular, controlling the spatial distribution of the guest nanoparticles within the host crystalline matrix remains a formidable challenge. Herein, we show that the surface chemistry of the guest nanoparticles and the [Ca  2+  ] concentration play critical roles in determining the precise  spatial  location of the nanoparticles within calcite crystals. Moreover,  in situ  studies provide important mechanistic insights regarding  surface&#8208;confined  nanoparticle occlusion. Overall, this study not only provides useful guidelines for efficient nanoparticle occlusion, but also enables the rational design of patterned calcite crystals using model anionic block copolymer vesicles.</dc:description>
@@ -1813,29 +1837,5 @@ Christian Hertweck
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005711?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005729?af=R">
-      <title>Single&#8208;molecule observation of intermediates in bioorthogonal 2&#8208;cyanobenzothiazole chemistry</title>
-      <dc:description>We report a single&#8208;molecule mechanistic investigation into 2&#8208;cyanobenzothiazole (CBT) chemistry within a protein nanoreactor. When simple thiols reacted reversibly with CBT, the thioimidate monoadduct was ~80&#8208;fold longer&#8208;lived than the tetrahedral bisadduct, with important implications for the design of molecular walkers. The irreversible condensation between CBT derivatives and N&#8208;terminal cysteine has been established as a biocompatible reaction for site&#8208;selective biomolecular labeling and imaging. During the reaction between CBT and aminothiols, we resolved two transient intermediates, the thioimidate and the cyclic precursor of the thiazoline product, and determined the rate constants associated with the stepwise condensation providing critical information for a variety of applications, including the covalent inhibition of protein targets and dynamic combinatorial chemistry.</dc:description>
-      <dc:creator>
-Yujia Qing, 
-Mira  D Liu, 
-Denis Hartmann, 
-Linna Zhou, 
-William  J Ramsay, 
-Hagan Bayley
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005729?af=R</link>
-      <content:encoded>&lt;p&gt;We report a single&#8208;molecule mechanistic investigation into 2&#8208;cyanobenzothiazole (CBT) chemistry within a protein nanoreactor. When simple thiols reacted reversibly with CBT, the thioimidate monoadduct was ~80&#8208;fold longer&#8208;lived than the tetrahedral bisadduct, with important implications for the design of molecular walkers. The irreversible condensation between CBT derivatives and N&#8208;terminal cysteine has been established as a biocompatible reaction for site&#8208;selective biomolecular labeling and imaging. During the reaction between CBT and aminothiols, we resolved two transient intermediates, the thioimidate and the cyclic precursor of the thiazoline product, and determined the rate constants associated with the stepwise condensation providing critical information for a variety of applications, including the covalent inhibition of protein targets and dynamic combinatorial chemistry.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Single&#8208;molecule observation of intermediates in bioorthogonal 2&#8208;cyanobenzothiazole chemistry</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005729</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-26T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005729</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005729?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
 </rdf:RDF>
