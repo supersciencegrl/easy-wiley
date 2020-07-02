@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008242?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004805?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005739?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006383?af=R" />
@@ -210,7 +211,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006719?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007552?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006457?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005711?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -219,6 +219,27 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008242?af=R">
+      <title>A Divergent Enantioselective Total Synthesis of Post&#8208;Iboga Indole Alkaloids</title>
+      <dc:description>Divergent enantioselective total syntheses of five naturally occurring post&#8208;iboga indole alkaloids, dippinine B ( 3  ) and C ( 4  ), 10,11&#8208;demethoxychippiine ( 8  ), 3&#8208; O  &#8208;methyl&#8208;10,11&#8208;demethoxychippiine ( 9  ), and 3&#8208;hydroxy&#8208;3,4&#8208;secocoronaridine ( 11  ), and two analogues 11&#8208;demethoxydippinine A ( 2  ) and D ( 6  ), were presented for the first time. The enantioenriched aza[3.3.1]&#8208;bridged cycle, common core intermediate to the target molecules, was constructed through an asymmetric phase&#8208;transfer&#8208;catalyzed Michael/aldol cascade reaction. The challenging azepane ring fused around the indole ring and the [3.3.1]&#8208;bridged cycle was installed via an intromolecular S N  2&#8217;&#8211;type reaction. These cyclization strategies allowed for a rapid construction of the [6.5.6.6.7]&#8208;pentacyclic core at an early stage. The late stage syntheses were highlighted by a Pd&#8208;catalyzed Stille coupling and a catalyst&#8208;controlled highly stereoselective hydrogenation to incorporate the side chain at C 20  with both R  and S  conformations in the natural products.</dc:description>
+      <dc:creator>
+Fu-She Han, 
+Jie Zhou, 
+Dong-Xing Tan
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008242?af=R</link>
+      <content:encoded>&lt;p&gt;Divergent enantioselective total syntheses of five naturally occurring post&#8208;iboga indole alkaloids, dippinine B ( 3  ) and C ( 4  ), 10,11&#8208;demethoxychippiine ( 8  ), 3&#8208; O  &#8208;methyl&#8208;10,11&#8208;demethoxychippiine ( 9  ), and 3&#8208;hydroxy&#8208;3,4&#8208;secocoronaridine ( 11  ), and two analogues 11&#8208;demethoxydippinine A ( 2  ) and D ( 6  ), were presented for the first time. The enantioenriched aza[3.3.1]&#8208;bridged cycle, common core intermediate to the target molecules, was constructed through an asymmetric phase&#8208;transfer&#8208;catalyzed Michael/aldol cascade reaction. The challenging azepane ring fused around the indole ring and the [3.3.1]&#8208;bridged cycle was installed via an intromolecular S N  2&#8217;&#8211;type reaction. These cyclization strategies allowed for a rapid construction of the [6.5.6.6.7]&#8208;pentacyclic core at an early stage. The late stage syntheses were highlighted by a Pd&#8208;catalyzed Stille coupling and a catalyst&#8208;controlled highly stereoselective hydrogenation to incorporate the side chain at C 20  with both R  and S  conformations in the natural products.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Divergent Enantioselective Total Synthesis of Post&#8208;Iboga Indole Alkaloids</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008242</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-02T03:06:19-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008242</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008242?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202004805?af=R">
       <title>Periodically Ordered, Nuclease&#8208;Resistant DNA Nanowires Decorated with Cell&#8208;Specific Aptamers as Selective Theranostic Agents</title>
       <dc:description>DNA nanostructures have shown potentials in cancer therapy. However, current clinical practice is hampered by the difficulty to deliver them into cancer cells and susceptibility to nuclease degradation. To overcome these limitations, we report herein a periodically&#8208;ordered nick&#8208;hidden DNA nanowire (NW) with high serum stability and active targeting functionality. The inner core is made of multiple&#8208;connected DNA double helices and the outer shell is composed of regularly&#8208;arranged standing&#8208;up hairpin aptamers. All terminals of the components are hidden from nuclease attacks while the target&#8208;binding sites are exposed to allow delivery to the cancer target. The DNA NW remains intact over 24&#8208;h incubation in serum solution. Animal imaging and cell apoptosis show that the anticancer drugs formulated NW displays long blood&#8208;circulation time and high specificity in inducing cancer cell apoptosis. Treatment of tumor&#8208;bearing mice validates  in vivo  therapeutic efficacy, demonstrating an ideal theranostic vehicle for targeted imaging and therapy of cancers.</dc:description>
@@ -1812,30 +1833,4 @@ Kazuaki Ishihara
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005711?af=R">
-      <title>Insect&#8208;Associated Bacteria Assemble the Antifungal Butenolide Gladiofungin by Non&#8208;Canonical Polyketide Chain Termination</title>
-      <dc:description>Genome mining of one of the protective symbionts (  Burkholderia gladioli  ) of the invasive beetle  Lagria villosa  revealed a cryptic gene cluster coding for the biosynthesis of a novel antifungal polyketide with a glutarimide pharmacophore. Targeted gene inactivation, metabolic profiling and bioassays led to the discovery of the gladiofungins as yet overlooked components of the antimicrobial armory of the beetle symbiont, specifically against the entomopathogenic fungus  Purpureocillium lilacinum  . By mutational analyses, isotope labeling and  in silico  analyses of the modular polyketide synthase, we found that the rare butenolide moiety of gladiofungins derives from an unprecedented polyketide chain termination reaction involving a glycerol&#8208;derived C3 building block. The key role of an A&#8208;factor synthase (AfsA)&#8208;like offloading domain was corroborated by CRISPR&#8208;Cas&#8208;mediated gene editing, which facilitated the precise excision within a PKS domain.</dc:description>
-      <dc:creator>
-Sarah  P. Niehs, 
-Jana Kumpfm&#252;ller, 
-Benjamin Dose, 
-Rory  F. Little, 
-Keishi Ishida, 
-Laura  V. Florez, 
-Martin Kaltenpoth, 
-Christian Hertweck
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005711?af=R</link>
-      <content:encoded>&lt;p&gt;Genome mining of one of the protective symbionts (  Burkholderia gladioli  ) of the invasive beetle  Lagria villosa  revealed a cryptic gene cluster coding for the biosynthesis of a novel antifungal polyketide with a glutarimide pharmacophore. Targeted gene inactivation, metabolic profiling and bioassays led to the discovery of the gladiofungins as yet overlooked components of the antimicrobial armory of the beetle symbiont, specifically against the entomopathogenic fungus  Purpureocillium lilacinum  . By mutational analyses, isotope labeling and  in silico  analyses of the modular polyketide synthase, we found that the rare butenolide moiety of gladiofungins derives from an unprecedented polyketide chain termination reaction involving a glycerol&#8208;derived C3 building block. The key role of an A&#8208;factor synthase (AfsA)&#8208;like offloading domain was corroborated by CRISPR&#8208;Cas&#8208;mediated gene editing, which facilitated the precise excision within a PKS domain.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Insect&#8208;Associated Bacteria Assemble the Antifungal Butenolide Gladiofungin by Non&#8208;Canonical Polyketide Chain Termination</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005711</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-26T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005711</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005711?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
