@@ -9,6 +9,17 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007930?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007799?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007327?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005256?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005047?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007222?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004668?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002819?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008197?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006994?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008129?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007699?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006366?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008264?af=R" />
@@ -18,7 +29,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006959?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005933?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008572?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008207?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008165?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006893?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004092?af=R" />
@@ -32,6 +42,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005241?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000837?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008298?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008207?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005739?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006383?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006740?af=R" />
@@ -189,8 +200,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007589?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006921?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003836?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005458?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007621?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005031?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005629?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004992?af=R" />
@@ -199,18 +208,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007079?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007022?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004125?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007609?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004448?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006463?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000175?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006747?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006693?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005282?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004116?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005589?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005888?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004242?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003342?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -219,6 +219,124 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202007930?af=R">
+      <title>Ligand Regulated Regiodivergent Hydrosilylation of Isoprene under Iron Catalysis</title>
+      <dc:description>A regiodivergent and stereoselective hydrosilylation of basic industrial feedstock isoprene with unactivated silanes has been developed using earth&#8208;abundant iron catalyst. The manipulation of regioselectivity relies on fine modification of the coordination geometry of iron center. While a bidentate pyridine imine ligand promotes the formation of allylic silanes via a 4,1&#8208;addition, the selectivity toward 3,4&#8208;adduct homoallylic silanes was achieved by switching to tridentate nitrogen ligand. Experimental studies and analysis have been performed to interpret the mechanism and the regioselective manipulation. This work contributes to the art of regioselective control in alkene hydrofunctionalization.</dc:description>
+      <dc:creator>
+Chang-Sheng Kuai, 
+Ding-Wei Ji, 
+Chao-Yang Zhao, 
+Heng Liu, 
+Yan-Cheng Hu, 
+Qing-An Chen
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007930?af=R</link>
+      <content:encoded>&lt;p&gt;A regiodivergent and stereoselective hydrosilylation of basic industrial feedstock isoprene with unactivated silanes has been developed using earth&#8208;abundant iron catalyst. The manipulation of regioselectivity relies on fine modification of the coordination geometry of iron center. While a bidentate pyridine imine ligand promotes the formation of allylic silanes via a 4,1&#8208;addition, the selectivity toward 3,4&#8208;adduct homoallylic silanes was achieved by switching to tridentate nitrogen ligand. Experimental studies and analysis have been performed to interpret the mechanism and the regioselective manipulation. This work contributes to the art of regioselective control in alkene hydrofunctionalization.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Ligand Regulated Regiodivergent Hydrosilylation of Isoprene under Iron Catalysis</dc:title>
+      <dc:identifier>doi:10.1002/anie.202007930</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-03T12:03:40-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202007930</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007930?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202007799?af=R">
+      <title>A Modular Approach to Dibenzo&#8208;fused &#949;&#8208;Lactams: Palladium Carbene Bridging C&#8208;H Activation and Its Synthetic Application</title>
+      <dc:description>Tricyclic ring systems possessing a dibenzo structure joined to a seven&#8208;membered heterocyclic ring frequently show important biological activities. However, a modular approach to these molecules based on efficient intermolecular reaction of readily available chemicals is lacking. Herein, an unprecedented palladium&#8208;catalyzed formal [4+3] annulation for modular construction of these tricyclic systems is described. This reaction features easily accessible reactants (  o  &#8208;haloarylaldehydes and  N  &#8208;tosylhydrazones), broad substrate scope, and excellent functional group compatibility. The synthetic potential is demonstrated by the easy scale&#8208;up reactions, late&#8208;stage modification of complex molecules, and collective synthesis of bioactive molecules and approved drugs.</dc:description>
+      <dc:creator>
+Yinghua Yu, 
+Liyao Ma, 
+Jiajin Xia, 
+Luoting Xin, 
+Lei Zhu, 
+Xueliang Huang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007799?af=R</link>
+      <content:encoded>&lt;p&gt;Tricyclic ring systems possessing a dibenzo structure joined to a seven&#8208;membered heterocyclic ring frequently show important biological activities. However, a modular approach to these molecules based on efficient intermolecular reaction of readily available chemicals is lacking. Herein, an unprecedented palladium&#8208;catalyzed formal [4+3] annulation for modular construction of these tricyclic systems is described. This reaction features easily accessible reactants (  o  &#8208;haloarylaldehydes and  N  &#8208;tosylhydrazones), broad substrate scope, and excellent functional group compatibility. The synthetic potential is demonstrated by the easy scale&#8208;up reactions, late&#8208;stage modification of complex molecules, and collective synthesis of bioactive molecules and approved drugs.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Modular Approach to Dibenzo&#8208;fused &#949;&#8208;Lactams: Palladium Carbene Bridging C&#8208;H Activation and Its Synthetic Application</dc:title>
+      <dc:identifier>doi:10.1002/anie.202007799</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-03T07:06:20-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202007799</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007799?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008197?af=R">
+      <title>Natural Soft/Rigid Superlattice as Anodes for High Performance Lithium&#8208;ion Batteries</title>
+      <dc:description>The volume expansion and poor conductivity are two major obstacles that hinder the pursuing for the lithium&#8208;ion batteries with long cycling life and high power density. Herein, we highlight a misfit compound PbNbS  3  with soft/rigid superlattice structure, which was unambiguously confirmed by scanning tunneling microscopy and electrochemical characterization, as a promising anode material for high performance lithium&#8208;ion batteries with simultaneously optimized capacity, stability and conductivity. In this model, the soft PbS sublayers primarily react with lithium, endow the capacity and prevent the decompositon of the superlattice structure, while the rigid NbS  2  sublayers support the skeleton and enhances the migration of electrons and lithium ions, as a result synergistically leading to a specific capacity of 710 mAh g  &#8722;1  at 100 mA g  &#8722;1  which is 1.6 times of NbS  2  and 3.9 times of PbS. Our finding reveals the competitive strategy of soft/rigid structure in lithium&#8208;ion battery and broadens the horizons in designing new single&#8208;phase anode materials.</dc:description>
+      <dc:creator>
+Yi Xie, 
+Wei Bai, 
+Jingyu Gao, 
+Kun Li, 
+Gongrui Wang, 
+Tengfei Zhou, 
+Pengju Li, 
+Shengyong Qin, 
+Genqiang Zhang, 
+Zaiping Guo, 
+Chong Xiao
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008197?af=R</link>
+      <content:encoded>&lt;p&gt;The volume expansion and poor conductivity are two major obstacles that hinder the pursuing for the lithium&#8208;ion batteries with long cycling life and high power density. Herein, we highlight a misfit compound PbNbS  3  with soft/rigid superlattice structure, which was unambiguously confirmed by scanning tunneling microscopy and electrochemical characterization, as a promising anode material for high performance lithium&#8208;ion batteries with simultaneously optimized capacity, stability and conductivity. In this model, the soft PbS sublayers primarily react with lithium, endow the capacity and prevent the decompositon of the superlattice structure, while the rigid NbS  2  sublayers support the skeleton and enhances the migration of electrons and lithium ions, as a result synergistically leading to a specific capacity of 710 mAh g  &#8722;1  at 100 mA g  &#8722;1  which is 1.6 times of NbS  2  and 3.9 times of PbS. Our finding reveals the competitive strategy of soft/rigid structure in lithium&#8208;ion battery and broadens the horizons in designing new single&#8208;phase anode materials.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Natural Soft/Rigid Superlattice as Anodes for High Performance Lithium&#8208;ion Batteries</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008197</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-03T01:47:16-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008197</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008197?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202006994?af=R">
+      <title>A Dipeptide&#8208;Based Hierarchical Nanoarchitecture with Enhanced Catalytic Activity</title>
+      <dc:description>Achieving synthetic architectures with simple structures and robust biomimetic catalytic activities remains a great challenge. Herein, we explore a facile supramolecular assembly approach to construct a dipeptide&#8208;based hierarchical nanoarchitecture with enhanced enzyme&#8208;like catalytic activity. In this nanoarchitecture, nanospheres are with chain&#8208;like arrangement through coordination&#8208;driven directional self&#8208;assembly. The reversible transformation of anisotropic nanochains to isotropic nanospheres switches biomimetic activity. Notably, such assembled nanoarchitecture exhibits high enzyme&#8208;like activity and remarkable long&#8208;term stability to promote hydroquinone oxidation, superior to the natural counterpart. This work will pave the way to develop reversible and reusable supramolecular biocatalysts with ordered hierarchical structures for accelerating chemical transformations.</dc:description>
+      <dc:creator>
+Junbai Li, 
+Chenlei Wang, 
+Jinbo Fei, 
+Keqing Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006994?af=R</link>
+      <content:encoded>&lt;p&gt;Achieving synthetic architectures with simple structures and robust biomimetic catalytic activities remains a great challenge. Herein, we explore a facile supramolecular assembly approach to construct a dipeptide&#8208;based hierarchical nanoarchitecture with enhanced enzyme&#8208;like catalytic activity. In this nanoarchitecture, nanospheres are with chain&#8208;like arrangement through coordination&#8208;driven directional self&#8208;assembly. The reversible transformation of anisotropic nanochains to isotropic nanospheres switches biomimetic activity. Notably, such assembled nanoarchitecture exhibits high enzyme&#8208;like activity and remarkable long&#8208;term stability to promote hydroquinone oxidation, superior to the natural counterpart. This work will pave the way to develop reversible and reusable supramolecular biocatalysts with ordered hierarchical structures for accelerating chemical transformations.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Dipeptide&#8208;Based Hierarchical Nanoarchitecture with Enhanced Catalytic Activity</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006994</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-03T01:12:21-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202006994</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006994?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008129?af=R">
+      <title>NiMn&#8208;Based Bimetal&#8208;Organic Framework Nanosheets Supported on Multi&#8208;Channel Carbon Fibers for Efficient Oxygen Electrocatalysis</title>
+      <dc:description>Developing noble&#8208;metal&#8208;free bifunctional oxygen electrocatalysts is of great significance for several key energy conversion and storage systems, yet remains as a grand challenge. Herein, we have developed a transformation method for growing NiMn&#8208;based bimetal&#8208;organic framework (NiMn&#8208;MOF) nanosheets on multi&#8208;channel carbon fibers (MCCF) as a promising bifunctional oxygen electrocatalyst. Owing to the active NiMn&#8208;MOF nanosheets and their tight connection with the highly conductive MCCF support, the obtained MCCF/NiMn&#8208;MOFs manifest comparable electrocatalytic performance towards oxygen reduction reaction (ORR) with the commercial Pt/C electrocatalyst and superior performance towards oxygen evolution reaction (OER) to the benchmark RuO  2  electrocatalyst. X&#8208;ray absorption fine structure (XAFS) spectroscopy and density&#8208;functional theory (DFT) calculations reveal that the strong synergetic effect of adjacent Ni and Mn nodes within MCCF/NiMn&#8208;MOFs effectively promotes the thermodynamic formation of key *O and *OOH intermediates over active NiO  6  centers towards fast ORR and OER kinetics.</dc:description>
+      <dc:creator>
+Xiong-Wen (David) Lou
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008129?af=R</link>
+      <content:encoded>&lt;p&gt;Developing noble&#8208;metal&#8208;free bifunctional oxygen electrocatalysts is of great significance for several key energy conversion and storage systems, yet remains as a grand challenge. Herein, we have developed a transformation method for growing NiMn&#8208;based bimetal&#8208;organic framework (NiMn&#8208;MOF) nanosheets on multi&#8208;channel carbon fibers (MCCF) as a promising bifunctional oxygen electrocatalyst. Owing to the active NiMn&#8208;MOF nanosheets and their tight connection with the highly conductive MCCF support, the obtained MCCF/NiMn&#8208;MOFs manifest comparable electrocatalytic performance towards oxygen reduction reaction (ORR) with the commercial Pt/C electrocatalyst and superior performance towards oxygen evolution reaction (OER) to the benchmark RuO  2  electrocatalyst. X&#8208;ray absorption fine structure (XAFS) spectroscopy and density&#8208;functional theory (DFT) calculations reveal that the strong synergetic effect of adjacent Ni and Mn nodes within MCCF/NiMn&#8208;MOFs effectively promotes the thermodynamic formation of key *O and *OOH intermediates over active NiO  6  centers towards fast ORR and OER kinetics.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>NiMn&#8208;Based Bimetal&#8208;Organic Framework Nanosheets Supported on Multi&#8208;Channel Carbon Fibers for Efficient Oxygen Electrocatalysis</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008129</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-03T01:11:51-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008129</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008129?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007699?af=R">
       <title>Copper&#8208;Catalyzed ortho&#8208;Functionalization of Quinoline N&#8208;Oxides with Vinyl Arenes</title>
       <dc:description>An efficient copper&#8208;catalyzed regioselective C&#8208;H alkenylation and borylative alkylation of quinoline  N  &#8208;oxides with vinyl arenes in the presence of pinacol diborane has been developed. The reaction proceeds through the borylcupration of the vinyl arenes followed by nucleophilic attack of the resulting alkyl copper species to the quinoline  N  &#8208;oxides. Benzoquinone and KO  t  Bu were identified as the necessary additives at the second step of the reaction that are crucial for the success of the reaction. A wide range of C2&#8208;functionalizaed quinolines were obtained with good functional group tolerance, which may find utilities in pharmaceuticals and synthetic chemistry.</dc:description>
@@ -436,27 +554,6 @@ Janine Cossy
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008572</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008572?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008207?af=R">
-      <title>A phosphanyl&#8208;phosphagallene that functions as a frustrated Lewis pair</title>
-      <dc:description>Phosphagallenes (  1a  /  1b  ) featuring a double bond between the phosphorus and gallium atoms have been synthesized for the first time by reaction of (phosphanyl)phosphaketenes with the gallium carbenoid (Nacnac)Ga (Nacnac = HC[C(Me)N(2,6&#8208;  i  &#8208;Pr  2  C  6  H  3  )]  2  ). The stability of these species was found to be dependent on the saturation of the phosphanyl moiety.  1a  , which bares an unsaturated phosphanyl ring, rearranges in solution to yield a spirocyclic gallium compound  2  which contains a P&#8211;P double bond. The saturated variant  1b  is stable even at elevated temperatures.  1b  behaves as a masked frustrated Lewis pair capable of activation of hydrogen and forms a 1:1 adduct with CO  2  .</dc:description>
-      <dc:creator>
-Daniel  W. N. Wison, 
-Joey Feld, 
-Jose  Manuel Goicoechea
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008207?af=R</link>
-      <content:encoded>&lt;p&gt;Phosphagallenes (  1a  /  1b  ) featuring a double bond between the phosphorus and gallium atoms have been synthesized for the first time by reaction of (phosphanyl)phosphaketenes with the gallium carbenoid (Nacnac)Ga (Nacnac = HC[C(Me)N(2,6&#8208;  i  &#8208;Pr  2  C  6  H  3  )]  2  ). The stability of these species was found to be dependent on the saturation of the phosphanyl moiety.  1a  , which bares an unsaturated phosphanyl ring, rearranges in solution to yield a spirocyclic gallium compound  2  which contains a P&#8211;P double bond. The saturated variant  1b  is stable even at elevated temperatures.  1b  behaves as a masked frustrated Lewis pair capable of activation of hydrogen and forms a 1:1 adduct with CO  2  .&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A phosphanyl&#8208;phosphagallene that functions as a frustrated Lewis pair</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008207</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-02T09:58:18-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008207</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008207?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1736,51 +1833,6 @@ Jakob Munkholt Christensen
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202005458?af=R">
-      <title>A Short&#8208;Lived but Highly Cytotoxic Vanadium(V) Complex as a Potential Drug Lead for Brain Cancer Treatment by Intratumoral Injections</title>
-      <dc:description>Despite the clinical success of Pt anti&#8208;cancer drugs, metal&#8208;based drugs are slow to enter the clinic, due to their coordination chemistry and typically short lifetimes in biological environments. We propose that this can be turned into advantage for direct injections into the tumor, which will allow use of highly cytotoxic drugs. The release of their less toxic decomposition products into the blood will lead to reduced systemic toxicity and can even have beneficial effect, such as the neurostimulatory activity of vanadium. &#160;In particular, a ternary V(V) complex, 1 ([VOL1L2], where L1 is N&#8208;(salicylideneaminato)&#8208;N&#8208;(2&#8208;hydroxyethyl)ethane&#8208;1,2&#8208;diamine, and L2 is 3,5&#8208;di&#8208;tert&#8208;butylcatechol), enters cells intact to induce high cytotoxicity in a range of human cancer cells, including T98g (glioma multiforme), while its decomposition products in cell culture medium were ~8&#8208;fold less toxic. Complex 1 was 12&#8208;fold more toxic than cisplatin in T98g cells, and 6&#8208;fold more toxic in T98g cells than in a non&#8208;cancer human cell line, HFF&#8208;1. Its high toxicity in T98g cells was retained in the presence of physiological concentrations of the two main metal&#8208;binding serum proteins, albumin and transferrin. These properties favour further development of 1 for brain cancer treatment by intratumoral injections.</dc:description>
-      <dc:creator>
-Aviva Levina, 
-Adriana Pires Vieira, 
-Asanka Wijetunga, 
-Ravinder Kaur, 
-Jordan  T Koehn, 
-Debbie  C Crans, 
-Peter  Andrew Lay
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005458?af=R</link>
-      <content:encoded>&lt;p&gt;Despite the clinical success of Pt anti&#8208;cancer drugs, metal&#8208;based drugs are slow to enter the clinic, due to their coordination chemistry and typically short lifetimes in biological environments. We propose that this can be turned into advantage for direct injections into the tumor, which will allow use of highly cytotoxic drugs. The release of their less toxic decomposition products into the blood will lead to reduced systemic toxicity and can even have beneficial effect, such as the neurostimulatory activity of vanadium. &#160;In particular, a ternary V(V) complex, 1 ([VOL1L2], where L1 is N&#8208;(salicylideneaminato)&#8208;N&#8208;(2&#8208;hydroxyethyl)ethane&#8208;1,2&#8208;diamine, and L2 is 3,5&#8208;di&#8208;tert&#8208;butylcatechol), enters cells intact to induce high cytotoxicity in a range of human cancer cells, including T98g (glioma multiforme), while its decomposition products in cell culture medium were ~8&#8208;fold less toxic. Complex 1 was 12&#8208;fold more toxic than cisplatin in T98g cells, and 6&#8208;fold more toxic in T98g cells than in a non&#8208;cancer human cell line, HFF&#8208;1. Its high toxicity in T98g cells was retained in the presence of physiological concentrations of the two main metal&#8208;binding serum proteins, albumin and transferrin. These properties favour further development of 1 for brain cancer treatment by intratumoral injections.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Short&#8208;Lived but Highly Cytotoxic Vanadium(V) Complex as a Potential Drug Lead for Brain Cancer Treatment by Intratumoral Injections</dc:title>
-      <dc:identifier>doi:10.1002/anie.202005458</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-29T06:55:21-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202005458</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005458?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007621?af=R">
-      <title>Materials Design Principles for Air&#8208;Stable Lithium/Sodium Solid Electrolytes</title>
-      <dc:description>Sulfide solid electrolytes are promising inorganic solid electrolytes for all&#8208;solid&#8208;state batteries. Despite their high ionic conductivity and desirable mechanical properties, many known sulfide solid electrolytes exhibit poor air stability. The spontaneous hydrolysis reactions of sulfides with moisture in air lead to toxic hydrogen sulfide release and materials degradation, hindering large&#8208;scale manufacturing and applications of sulfide&#8208;based solid&#8208;state batteries. In this work, we systematically investigate the hydrolysis and reduction reactions in Li&#8208; and Na&#8208;containing sulfides and chlorides by applying thermodynamic analyses based on first principles computation database. We reveal the stability trends among different chemistries and identify the effect of cations, anions, and Li/Na content on moisture stability. Our results identify promising materials systems to simultaneously achieve the moisture stability and electrochemical stability, and provide the design principles for the development of air&#8208;stable solid electrolytes.</dc:description>
-      <dc:creator>
-Yizhou Zhu, 
-Yifei Mo
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007621?af=R</link>
-      <content:encoded>&lt;p&gt;Sulfide solid electrolytes are promising inorganic solid electrolytes for all&#8208;solid&#8208;state batteries. Despite their high ionic conductivity and desirable mechanical properties, many known sulfide solid electrolytes exhibit poor air stability. The spontaneous hydrolysis reactions of sulfides with moisture in air lead to toxic hydrogen sulfide release and materials degradation, hindering large&#8208;scale manufacturing and applications of sulfide&#8208;based solid&#8208;state batteries. In this work, we systematically investigate the hydrolysis and reduction reactions in Li&#8208; and Na&#8208;containing sulfides and chlorides by applying thermodynamic analyses based on first principles computation database. We reveal the stability trends among different chemistries and identify the effect of cations, anions, and Li/Na content on moisture stability. Our results identify promising materials systems to simultaneously achieve the moisture stability and electrochemical stability, and provide the design principles for the development of air&#8208;stable solid electrolytes.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Materials Design Principles for Air&#8208;Stable Lithium/Sodium Solid Electrolytes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007621</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-29T05:25:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007621</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007621?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007022?af=R">
       <title>Corrigendum: Vancomycin Resistance Is Overcome by Conjugation of Polycationic Peptides</title>
       <dc:description />
@@ -1811,79 +1863,4 @@ Philipp Uhl
       <prism:copyright />
       <prism:section>Corrigendum</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007609?af=R">
-      <title>Impact of zeolite framework composition and flexibility on MTO selectivity: confinement or diffusion?</title>
-      <dc:description>The methanol&#8208;to&#8208;olefins reaction catalyzed by small&#8208;pore cage&#8208;based acid zeolites and zeotypes produces a mixture of short chain olefins, whose selectivity to ethene, propene and butene varies with the cavity architecture and with the framework composition. The product distribution of aluminosilicates and silicoaluminophosphates with the CHA and AEI structures (H&#8208;SSZ&#8208;13, H&#8208;SAPO&#8208;34, H&#8208;SSZ&#8208;39 and H&#8208;SAPO&#8208;18) has been experimentally determined, and the impact of acidity and framework flexibility on the stability of the key cationic intermediates involved in the mechanism and on the diffusion of the olefin products through the  8r  windows of the catalysts has been evaluated by means of periodic DFT calculations and  ab initio  molecular dynamics simulations. The preferential stabilization by confinement of fully methylated hydrocarbon pool intermediates favoring the paring pathway is the main factor controlling the final olefin product distribution.</dc:description>
-      <dc:creator>
-Avelino Corma, 
-Pau Ferri, 
-Chengeng Li, 
-Reisel Mill&#225;n, 
-Joaqu&#237;n Mart&#237;nez-Triguero, 
-Manuel Moliner, 
-Mercedes Boronat
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007609?af=R</link>
-      <content:encoded>&lt;p&gt;The methanol&#8208;to&#8208;olefins reaction catalyzed by small&#8208;pore cage&#8208;based acid zeolites and zeotypes produces a mixture of short chain olefins, whose selectivity to ethene, propene and butene varies with the cavity architecture and with the framework composition. The product distribution of aluminosilicates and silicoaluminophosphates with the CHA and AEI structures (H&#8208;SSZ&#8208;13, H&#8208;SAPO&#8208;34, H&#8208;SSZ&#8208;39 and H&#8208;SAPO&#8208;18) has been experimentally determined, and the impact of acidity and framework flexibility on the stability of the key cationic intermediates involved in the mechanism and on the diffusion of the olefin products through the  8r  windows of the catalysts has been evaluated by means of periodic DFT calculations and  ab initio  molecular dynamics simulations. The preferential stabilization by confinement of fully methylated hydrocarbon pool intermediates favoring the paring pathway is the main factor controlling the final olefin product distribution.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Impact of zeolite framework composition and flexibility on MTO selectivity: confinement or diffusion?</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007609</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-29T02:23:38-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007609</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007609?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202004448?af=R">
-      <title>Photoswitchable Conjugated Oligoelectrolytes for Light&#8208;Induced Change of Membrane Morphology</title>
-      <dc:description>The synthesis of a new conjugated oligoelectrolyte (COE), namely  DSAzB  , is described, which contains a conjugated core bearing a diazene moiety in the center of its electronically delocalized structure. Similar to structurally&#8208;related phenylenevinylene&#8208;based COEs,  DSAzB  readily intercalates into model and natural lipid bilayer membranes. Photo&#8208;induced isomerization transforms the linear  trans  COE into a bent or C&#8208;shape form. It is thereby possible to introduce  DSAzB  into the bilayer of a cell and disrupt its integrity by irradiation with light. This leads to controlled permeabilization of membranes, as demonstrated by the release of calcein from DMPG/DMPC vesicles and by propidium iodide influx experiments on  S. epidermidis  . Both experiments support that the permeabilization is selective for the light stimulus, highly efficient, and repeatable. Target&#8208;selective and photoinduced actions demonstrated by  DSAzB  may have broad applications in biocatalysis and related biotechnologies.</dc:description>
-      <dc:creator>
-Dirk Leifert, 
-Alexander  S. Moreland, 
-Jakkarin Limwongyut, 
-Alexander  A. Mikhailovsky, 
-Guillermo  Carlos Bazan
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004448?af=R</link>
-      <content:encoded>&lt;p&gt;The synthesis of a new conjugated oligoelectrolyte (COE), namely  DSAzB  , is described, which contains a conjugated core bearing a diazene moiety in the center of its electronically delocalized structure. Similar to structurally&#8208;related phenylenevinylene&#8208;based COEs,  DSAzB  readily intercalates into model and natural lipid bilayer membranes. Photo&#8208;induced isomerization transforms the linear  trans  COE into a bent or C&#8208;shape form. It is thereby possible to introduce  DSAzB  into the bilayer of a cell and disrupt its integrity by irradiation with light. This leads to controlled permeabilization of membranes, as demonstrated by the release of calcein from DMPG/DMPC vesicles and by propidium iodide influx experiments on  S. epidermidis  . Both experiments support that the permeabilization is selective for the light stimulus, highly efficient, and repeatable. Target&#8208;selective and photoinduced actions demonstrated by  DSAzB  may have broad applications in biocatalysis and related biotechnologies.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Photoswitchable Conjugated Oligoelectrolytes for Light&#8208;Induced Change of Membrane Morphology</dc:title>
-      <dc:identifier>doi:10.1002/anie.202004448</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-29T01:27:06-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202004448</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004448?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202003342?af=R">
-      <title>Activation of the G&#8208;Protein&#8208;Coupled Receptor Rhodopsin by Water</title>
-      <dc:description>Visual rhodopsin is an important archetype for G&#8208;protein&#8211;coupled receptors, which are membrane proteins implicated in cellular signal transduction.&#160; Here we show experimentally for the first time that ~80 water molecules flood rhodopsin upon light absorption to form a solvent&#8208;swollen active state.&#160; An influx of mobile water is sufficient for activating the photoreceptor, and is supported by molecular dynamics (MD) simulations. Combined force&#8208;based measurements involving osmotic and hydrostatic pressure indicate the expansion occurs by changes in cavity volumes, together with greater hydration in the active metarhodopsin&#8208;II state.&#160; Moreover, we discovered that binding and release of the C&#8208;terminal helix of transducin is coupled to hydration changes as may occur in visual signal amplification.&#160; Hydration&#8211;dehydration explains signaling by a dynamic allosteric mechanism, in which the soft membrane matter (lipids and water) has a pivotal role in the catalytic&#160; G&#8208;protein cycle.</dc:description>
-      <dc:creator>
-Udeep Chawla, 
-Suchithranga Perera, 
-Steven Fried, 
-Anna Eitel, 
-Blake Mertz, 
-Nipuna Weerasinghe, 
-Michael Pitman, 
-Andrey Struts, 
-Michael  F. Brown
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003342?af=R</link>
-      <content:encoded>&lt;p&gt;Visual rhodopsin is an important archetype for G&#8208;protein&#8211;coupled receptors, which are membrane proteins implicated in cellular signal transduction.&#160; Here we show experimentally for the first time that ~80 water molecules flood rhodopsin upon light absorption to form a solvent&#8208;swollen active state.&#160; An influx of mobile water is sufficient for activating the photoreceptor, and is supported by molecular dynamics (MD) simulations. Combined force&#8208;based measurements involving osmotic and hydrostatic pressure indicate the expansion occurs by changes in cavity volumes, together with greater hydration in the active metarhodopsin&#8208;II state.&#160; Moreover, we discovered that binding and release of the C&#8208;terminal helix of transducin is coupled to hydration changes as may occur in visual signal amplification.&#160; Hydration&#8211;dehydration explains signaling by a dynamic allosteric mechanism, in which the soft membrane matter (lipids and water) has a pivotal role in the catalytic&#160; G&#8208;protein cycle.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Activation of the G&#8208;Protein&#8208;Coupled Receptor Rhodopsin by Water</dc:title>
-      <dc:identifier>doi:10.1002/anie.202003342</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-06-28T06:55:55-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202003342</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202003342?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
