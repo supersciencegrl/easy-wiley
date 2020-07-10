@@ -9,6 +9,17 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002329?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001222?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002653?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003082?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000153?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002475?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002850?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001571?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003060?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001848?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002603?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001818?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002038?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000678?af=R" />
@@ -122,17 +133,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002607?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002878?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003493?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001348?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003146?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002706?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002647?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002235?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001981?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002357?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001218?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002297?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002717?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002080?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -141,6 +141,541 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002329?af=R">
+      <title>A 13.56&#160;MHz Rectifier Based on Fully Inkjet Printed Organic Diodes</title>
+      <dc:description>
+The very first example of a fully inkjet printed organic Schottky diode capable of working at radio frequencies, with a very high rectification ratio, is presented. A rectifier circuit, fabricated by integrating the presented fully printed diodes and capacitors, can successfully rectify a 13.56&#160;MHz sinusoidal AC signal, and supply power to a polymer circuit printed on a plastic foil.
+
+
+
+
+
+
+
+
+Abstract
+The increasing diffusion of portable and wearable technologies results in a growing interest in electronic devices having features such as flexibility, lightness&#8208;in&#8208;weight, transparency, and wireless operation. Organic electronics is proposed as a potential candidate to fulfill such needs, in particular targeting pervasive radio&#8208;frequency (RF) applications. Still, limitations in terms of device performances at RF, particularly severe when large&#8208;area and scalable fabrication techniques are employed, have largely precluded the achievement of such an appealing scenario. In this work, the rectification of an electromagnetic wave at 13.56&#160;MHz with a fully inkjet printed polymer diode is demonstrated. The rectifier, a key enabling component of future pervasive wireless systems, is fabricated through scalable large&#8208;area methods on plastic. To provide a proof&#8208;of&#8208;principle demonstration of its future applicability, its adoption in powering a printed integrated polymer circuit is presented. The possibility of harvesting electrical power from RF waves and delivering it to a cheap flexible substrate through a simple printed circuitry paves the way to a plethora of appealing distributed electronic applications.
+</dc:description>
+      <dc:creator>
+Fabrizio A. Viola, 
+Biagio Brigante, 
+Paolo Colpani, 
+Giorgio Dell&#8217;Erba, 
+Virgilio Mattoli, 
+Dario Natali, 
+Mario Caironi
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002329?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9746b939-170f-4d2b-83bb-52567456f7b2/adma202002329-gra-0001-m.png"
+     alt="A 13.56&#160;MHz Rectifier Based on Fully Inkjet Printed Organic Diodes"/&gt;
+&lt;p&gt;The very first example of a fully inkjet printed organic Schottky diode capable of working at radio frequencies, with a very high rectification ratio, is presented. A rectifier circuit, fabricated by integrating the presented fully printed diodes and capacitors, can successfully rectify a 13.56&#160;MHz sinusoidal AC signal, and supply power to a polymer circuit printed on a plastic foil.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The increasing diffusion of portable and wearable technologies results in a growing interest in electronic devices having features such as flexibility, lightness&#8208;in&#8208;weight, transparency, and wireless operation. Organic electronics is proposed as a potential candidate to fulfill such needs, in particular targeting pervasive radio&#8208;frequency (RF) applications. Still, limitations in terms of device performances at RF, particularly severe when large&#8208;area and scalable fabrication techniques are employed, have largely precluded the achievement of such an appealing scenario. In this work, the rectification of an electromagnetic wave at 13.56&#160;MHz with a fully inkjet printed polymer diode is demonstrated. The rectifier, a key enabling component of future pervasive wireless systems, is fabricated through scalable large&#8208;area methods on plastic. To provide a proof&#8208;of&#8208;principle demonstration of its future applicability, its adoption in powering a printed integrated polymer circuit is presented. The possibility of harvesting electrical power from RF waves and delivering it to a cheap flexible substrate through a simple printed circuitry paves the way to a plethora of appealing distributed electronic applications.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>A 13.56&#160;MHz Rectifier Based on Fully Inkjet Printed Organic Diodes</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002329</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-10T01:19:55-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002329</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002329?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001222?af=R">
+      <title>Bioinspired Multifunctional Cellular Plastics with a Negative Poisson&#8217;s Ratio for High&#8208;Energy Dissipation</title>
+      <dc:description>
+Cellular plastics with complex porous structure and composition distribution are in great demand for various engineering applications, yet are challenging to realize through conventional foaming technologies. An ice&#8208;templating approach, involving a controlled freezing process of a monomer/water emulsion, followed by cryopolymerization and room temperature thawing, is developed to fabricate such cellular plastics at a scalable and environmentally friendly manner.
+
+
+
+
+
+
+
+
+Abstract
+Cellular plastics have been widely used in transportation, aerospace, and personal safety applications owing to their excellent mechanical, thermal, and acoustic properties. It is highly desirable to impart them with a complex porous structure and composition distribution to obtain specific functionality for various engineering applications, which is challenging with conventional foaming technologies. Herein, it is demonstrated that this can be achieved through the controlled freezing process of a monomer/water emulsion, followed by cryopolymerization and room temperature thawing. As ice is used as a template, this method is environmentally friendly and capable of producing cellular plastics with various microstructures by harnessing the numerous morphologies of ice crystals. In particular, a cellular plastic with a radially aligned structure shows a negative Poisson&#8217;s ratio under compression. The rigid plastic shows a much higher energy dissipation capability compared to other materials with similar negative Poisson&#8217;s ratios. Additionally, the simplicity and scalability of this approach provides new possibilities for fabricating high&#8208;performance cellular plastics with well&#8208;defined porous structures and composition distributions.
+</dc:description>
+      <dc:creator>
+Dewen Li, 
+Xiaochen Bu, 
+Zongpu Xu, 
+Yingwu Luo, 
+Hao Bai
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001222?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8b2eaab1-03d4-4d13-8345-d3c5e0a0515e/adma202001222-gra-0001-m.png"
+     alt="Bioinspired Multifunctional Cellular Plastics with a Negative Poisson&#8217;s Ratio for High&#8208;Energy Dissipation"/&gt;
+&lt;p&gt;Cellular plastics with complex porous structure and composition distribution are in great demand for various engineering applications, yet are challenging to realize through conventional foaming technologies. An ice&#8208;templating approach, involving a controlled freezing process of a monomer/water emulsion, followed by cryopolymerization and room temperature thawing, is developed to fabricate such cellular plastics at a scalable and environmentally friendly manner.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Cellular plastics have been widely used in transportation, aerospace, and personal safety applications owing to their excellent mechanical, thermal, and acoustic properties. It is highly desirable to impart them with a complex porous structure and composition distribution to obtain specific functionality for various engineering applications, which is challenging with conventional foaming technologies. Herein, it is demonstrated that this can be achieved through the controlled freezing process of a monomer/water emulsion, followed by cryopolymerization and room temperature thawing. As ice is used as a template, this method is environmentally friendly and capable of producing cellular plastics with various microstructures by harnessing the numerous morphologies of ice crystals. In particular, a cellular plastic with a radially aligned structure shows a negative Poisson&#8217;s ratio under compression. The rigid plastic shows a much higher energy dissipation capability compared to other materials with similar negative Poisson&#8217;s ratios. Additionally, the simplicity and scalability of this approach provides new possibilities for fabricating high&#8208;performance cellular plastics with well&#8208;defined porous structures and composition distributions.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Bioinspired Multifunctional Cellular Plastics with a Negative Poisson&#8217;s Ratio for High&#8208;Energy Dissipation</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001222</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T05:42:58-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001222</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001222?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202002653?af=R">
+      <title>Oxygen&#8208;Detecting Synaptic Device for Realization of Artificial Autonomic Nervous System for Maintaining Oxygen Homeostasis</title>
+      <dc:description>
+An oxygen&#8208;sensitive artificial synaptic device that simultaneously detects oxygen concentration and generates a synaptic signal is fabricated. This device successfully achieves an interconversion between the excitatory and inhibitory modes of the synaptic current at various oxygen concentrations. The device is also used to realize a negative feedback system for maintaining oxygen homeostasis, which mimics the human autonomic nervous system.
+
+
+
+
+
+
+
+
+Abstract
+Incorporation of various functions of a biological nervous system into electronic devices is an intriguing challenge in the realization of a human&#8208;like recognition and response system. Emerging artificial synaptic devices capable of processing electronic signals through neuromorphic functions operate such biomimetic systems similarly to biological nervous systems. Here, an oxygen&#8208;sensitive artificial synaptic device that simultaneously detects oxygen concentration and generates a synaptic signal is demonstrated. The device successfully achieves an interconversion between the excitatory and inhibitory modes of the synaptic current at various oxygen concentrations by virtue of an oxygen&#8208;sensitive trilayered organic double heterojunction. The oxygen&#8208;induced traps in the organic layer modulate the majority charge carrier from holes to electrons, and this modulation induces an interconversion between the excitatory and inhibitory modes according to the environmental oxygen condition. Finally, the proposed synaptic device is applied to the realization of a negative feedback system for regulation of oxygen homeostasis, which mimics the human autonomic nervous system. The oxygen&#8208;sensitive synaptic device proposed in this study is expected to open up new possibilities for the development of a biomimetic neural system that can respond appropriately to various environmental changes.
+</dc:description>
+      <dc:creator>
+Chuan Qian, 
+Yongsuk Choi, 
+Young Jin Choi, 
+Seongchan Kim, 
+Yoon Young Choi, 
+Dong Gue Roe, 
+Moon Sung Kang, 
+Jia Sun, 
+Jeong Ho Cho
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002653?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a2c3e35d-9d47-4c9f-a9e1-cd23e89b5ecd/adma202002653-gra-0001-m.png"
+     alt="Oxygen&#8208;Detecting Synaptic Device for Realization of Artificial Autonomic Nervous System for Maintaining Oxygen Homeostasis"/&gt;
+&lt;p&gt;An oxygen&#8208;sensitive artificial synaptic device that simultaneously detects oxygen concentration and generates a synaptic signal is fabricated. This device successfully achieves an interconversion between the excitatory and inhibitory modes of the synaptic current at various oxygen concentrations. The device is also used to realize a negative feedback system for maintaining oxygen homeostasis, which mimics the human autonomic nervous system.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Incorporation of various functions of a biological nervous system into electronic devices is an intriguing challenge in the realization of a human&#8208;like recognition and response system. Emerging artificial synaptic devices capable of processing electronic signals through neuromorphic functions operate such biomimetic systems similarly to biological nervous systems. Here, an oxygen&#8208;sensitive artificial synaptic device that simultaneously detects oxygen concentration and generates a synaptic signal is demonstrated. The device successfully achieves an interconversion between the excitatory and inhibitory modes of the synaptic current at various oxygen concentrations by virtue of an oxygen&#8208;sensitive trilayered organic double heterojunction. The oxygen&#8208;induced traps in the organic layer modulate the majority charge carrier from holes to electrons, and this modulation induces an interconversion between the excitatory and inhibitory modes according to the environmental oxygen condition. Finally, the proposed synaptic device is applied to the realization of a negative feedback system for regulation of oxygen homeostasis, which mimics the human autonomic nervous system. The oxygen&#8208;sensitive synaptic device proposed in this study is expected to open up new possibilities for the development of a biomimetic neural system that can respond appropriately to various environmental changes.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Oxygen&#8208;Detecting Synaptic Device for Realization of Artificial Autonomic Nervous System for Maintaining Oxygen Homeostasis</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002653</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T01:33:15-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002653</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002653?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202003082?af=R">
+      <title>A Promoted Charge Separation/Transfer System from Cu Single Atoms and C3N4 Layers for Efficient Photocatalysis</title>
+      <dc:description>
+Based on chlorophyll sodium copper salt (CSC) in situ intercalated supramolecular and following pyrolysis procedure, Cu single atoms (Cu&#63743;Nx) are anchored in and between C3N4 layers, which open both in&#8208;plane and interlayer charge transfer channels. Therefore, the hydrogen evolution ability is significantly improved (212 &#181;mol h&#8722;1, catalyst 20 mg). It also shows impressive conversion and selectivity for the oxidation of benzene.
+
+
+
+
+
+
+
+
+Abstract
+Establishing highly effective charge transfer channels in carbon nitride (C3N4) for enhancing its photocatalytic activity is still a challenging issue. Herein, for the first time, the engineering of C3N4 layers with single&#8208;atom Cu bonded with compositional N (Cu&#63743;Nx) is demonstrated to address this challenge. The Cu&#63743;Nx is formed by intercalation of chlorophyll sodium copper salt into a melamine&#8208;based supramolecular precursor followed by controlled pyrolysis. Two groups of Cu&#63743;Nx are identified: in one group each of Cu atoms is bonded with three in&#8208;plane N atoms, while in the other group each of Cu atoms is bonded with four N atoms of two neighboring C3N4 layers, thus forming both in&#8208;plane and interlayer charge transfer channels. Importantly, ultrafast spectroscopy has further proved that Cu&#63743;Nx can greatly improve in&#8208;plane and interlayer separation/transfer of charge carriers and in turn boost the photocatalytic efficiency. Consequently, the catalyst exhibits a superior visible&#8208;light photocatalytic hydrogen production rate (&#8776;212 &#181;mol h&#8722;1/0.02 g catalyst), 30 times higher than that of bulk C3N4. Moreover, it leads to an outstanding conversion rate (92.3%) and selectivity (99.9%) for the oxidation of benzene under visible light.
+</dc:description>
+      <dc:creator>
+Xudong Xiao, 
+Yanting Gao, 
+Liping Zhang, 
+Jiachen Zhang, 
+Qun Zhang, 
+Qi Li, 
+Hongliang Bao, 
+Jing Zhou, 
+Shu Miao, 
+Ning Chen, 
+Jianqiang Wang, 
+Baojiang Jiang, 
+Chungui Tian, 
+Honggang Fu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003082?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/798dec3e-c3c9-459a-b8aa-6bedee1e33ef/adma202003082-gra-0001-m.png"
+     alt="A Promoted Charge Separation/Transfer System from Cu Single Atoms and C3N4 Layers for Efficient Photocatalysis"/&gt;
+&lt;p&gt;Based on chlorophyll sodium copper salt (CSC) in situ intercalated supramolecular and following pyrolysis procedure, Cu single atoms (Cu&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;) are anchored in and between C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; layers, which open both in&#8208;plane and interlayer charge transfer channels. Therefore, the hydrogen evolution ability is significantly improved (212 &#181;mol h&lt;sup&gt;&#8722;1&lt;/sup&gt;, catalyst 20 mg). It also shows impressive conversion and selectivity for the oxidation of benzene.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Establishing highly effective charge transfer channels in carbon nitride (C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;) for enhancing its photocatalytic activity is still a challenging issue. Herein, for the first time, the engineering of C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; layers with single&#8208;atom Cu bonded with compositional N (Cu&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;) is demonstrated to address this challenge. The Cu&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt; is formed by intercalation of chlorophyll sodium copper salt into a melamine&#8208;based supramolecular precursor followed by controlled pyrolysis. Two groups of Cu&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt; are identified: in one group each of Cu atoms is bonded with three in&#8208;plane N atoms, while in the other group each of Cu atoms is bonded with four N atoms of two neighboring C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; layers, thus forming both in&#8208;plane and interlayer charge transfer channels. Importantly, ultrafast spectroscopy has further proved that Cu&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt; can greatly improve in&#8208;plane and interlayer separation/transfer of charge carriers and in turn boost the photocatalytic efficiency. Consequently, the catalyst exhibits a superior visible&#8208;light photocatalytic hydrogen production rate (&#8776;212 &#181;mol h&lt;sup&gt;&#8722;1&lt;/sup&gt;/0.02 g catalyst), 30 times higher than that of bulk C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;. Moreover, it leads to an outstanding conversion rate (92.3%) and selectivity (99.9%) for the oxidation of benzene under visible light.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>A Promoted Charge Separation/Transfer System from Cu Single Atoms and C3N4 Layers for Efficient Photocatalysis</dc:title>
+      <dc:identifier>doi:10.1002/adma.202003082</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T01:32:43-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202003082</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003082?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202000153?af=R">
+      <title>Interfacial Oxygen&#8208;Driven Charge Localization and Plasmon Excitation in Unconventional Superconductors</title>
+      <dc:description>
+Manipulation of charge localization in optimal&#8208;doped copper oxide (cuprate) thin&#8208;film on SrTiO3 substrate via interfacial orbital hybridization has been reported. A high&#8208;energy plasmon is further observed. Unraveling the mechanism of interfacial effect and charge localization in cuprate systems provides important clues in understanding their underlying electronic structures and superconductive properties.
+
+
+
+
+
+
+
+
+Abstract
+Charge localization is critical to the control of charge dynamics in systems such as perovskite solar cells, organic&#8208;, and nanostructure&#8208;based photovoltaics. However, the precise control of charge localization via electronic transport or defect engineering is challenging due to the complexity in reaction pathways and environmental factors. Here, charge localization in optimal&#8208;doped La1.85Sr0.15CuO4 thin&#8208;film on SrTiO3 substrate (LSCO/STO) is investigated, and also a high&#8208;energy plasmon is observed. Charge localization manifests as a near&#8208;infrared mid&#8208;gap state in LSCO/STO. This is ascribed to the interfacial hybridization between the Ti3d&#8208;orbitals of the substrate and O2p&#8208;orbitals of the film. The interfacial effect leads to significant changes in the many&#8208;body correlations and local&#8208;field effect. The local&#8208;field effect results in an inhomogeneous charge distribution, and due to perturbation by an external field, the high polarizability of this nonuniform charge system eventually generates the high&#8208;energy plasmon. Transformation of the electronic correlations in LSCO/STO is further demonstrated via temperature&#8208;dependent spectral&#8208;weight transfer. This study of charge localization in cuprates and interfacial hybridization provides important clues to their electronic structures and superconductive properties.
+</dc:description>
+      <dc:creator>
+Chi Sin Tang, 
+Xinmao Yin, 
+Shengwei Zeng, 
+Jing Wu, 
+Ming Yang, 
+Ping Yang, 
+Caozheng Diao, 
+Yuan Ping Feng, 
+Mark B. H. Breese, 
+Elbert E. M. Chia, 
+Thirumalai Venkatesan, 
+Manish Chhowalla, 
+Ariando Ariando, 
+Andrivo Rusydi, 
+Andrew T. S. Wee
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000153?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/2635421c-9eb7-4c49-a991-a4b6b0fb0d7f/adma202000153-gra-0001-m.png"
+     alt="Interfacial Oxygen&#8208;Driven Charge Localization and Plasmon Excitation in Unconventional Superconductors"/&gt;
+&lt;p&gt;Manipulation of charge localization in optimal&#8208;doped copper oxide (cuprate) thin&#8208;film on SrTiO&lt;sub&gt;3&lt;/sub&gt; substrate via interfacial orbital hybridization has been reported. A high&#8208;energy plasmon is further observed. Unraveling the mechanism of interfacial effect and charge localization in cuprate systems provides important clues in understanding their underlying electronic structures and superconductive properties.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Charge localization is critical to the control of charge dynamics in systems such as perovskite solar cells, organic&#8208;, and nanostructure&#8208;based photovoltaics. However, the precise control of charge localization via electronic transport or defect engineering is challenging due to the complexity in reaction pathways and environmental factors. Here, charge localization in optimal&#8208;doped La&lt;sub&gt;1.85&lt;/sub&gt;Sr&lt;sub&gt;0.15&lt;/sub&gt;CuO&lt;sub&gt;4&lt;/sub&gt; thin&#8208;film on SrTiO&lt;sub&gt;3&lt;/sub&gt; substrate (LSCO/STO) is investigated, and also a high&#8208;energy plasmon is observed. Charge localization manifests as a near&#8208;infrared mid&#8208;gap state in LSCO/STO. This is ascribed to the interfacial hybridization between the Ti3d&#8208;orbitals of the substrate and O2p&#8208;orbitals of the film. The interfacial effect leads to significant changes in the many&#8208;body correlations and local&#8208;field effect. The local&#8208;field effect results in an inhomogeneous charge distribution, and due to perturbation by an external field, the high polarizability of this nonuniform charge system eventually generates the high&#8208;energy plasmon. Transformation of the electronic correlations in LSCO/STO is further demonstrated via temperature&#8208;dependent spectral&#8208;weight transfer. This study of charge localization in cuprates and interfacial hybridization provides important clues to their electronic structures and superconductive properties.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Interfacial Oxygen&#8208;Driven Charge Localization and Plasmon Excitation in Unconventional Superconductors</dc:title>
+      <dc:identifier>doi:10.1002/adma.202000153</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T01:32:17-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202000153</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000153?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202002475?af=R">
+      <title>Tailoring Polymer Colloids Derived Porous Carbon Spheres Based on Specific Chemical Reactions</title>
+      <dc:description>
+Synthetic colloidal polymer derived porous carbon spheres with well&#8208;defined structures and contents occupy a pivotal role in carbon materials. The basic polymerization reactions as the cornerstone of synthetic strategies provide the direct molecular&#8208;based design of functionalized polymer/carbon spheres. This progress report systematically summarizes suitable polymerization reactions for colloidal polymer derived porous carbon spheres.
+
+
+
+
+
+
+
+
+Abstract
+Porous carbon spheres derived from polymer colloids with regular geometry, monodispersed morphology, well&#8208;controlled contents and structures play important roles in many areas of application, such as energy storage/conversion, gas adsorption/separation, catalysis, and chemo&#8208;photothermal therapy. Suitable polymerization reaction and synthetic strategy are both critical for the obtainment of stable polymer colloids as carbon precursors. Basic polymerization reactions are the cornerstones of synthetic strategies, which directly provides the direct molecular&#8208;based design of functionalized polymer/carbon spheres. Thus, this progress report mainly focuses on the summary of suitable polymerization reactions for colloidal polymer derived porous carbon spheres. Recent advances in the synthetic strategies and applications are also discussed, including their corresponding polymerization reactions. Finally, the perspectives for the development of polymer derived porous carbon spheres are provided based on the controlled synthesis of polymer colloids and optimization over the carbonization process to achieve highly functionalized carbon spheres for practical applications.
+</dc:description>
+      <dc:creator>
+Tao Wang, 
+Francis Okejiri, 
+Zhen&#8208;An Qiao, 
+Sheng Dai
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002475?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f84671dd-0617-46bc-9ec5-93c47c998ade/adma202002475-gra-0001-m.png"
+     alt="Tailoring Polymer Colloids Derived Porous Carbon Spheres Based on Specific Chemical Reactions"/&gt;
+&lt;p&gt;Synthetic colloidal polymer derived porous carbon spheres with well&#8208;defined structures and contents occupy a pivotal role in carbon materials. The basic polymerization reactions as the cornerstone of synthetic strategies provide the direct molecular&#8208;based design of functionalized polymer/carbon spheres. This progress report systematically summarizes suitable polymerization reactions for colloidal polymer derived porous carbon spheres.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Porous carbon spheres derived from polymer colloids with regular geometry, monodispersed morphology, well&#8208;controlled contents and structures play important roles in many areas of application, such as energy storage/conversion, gas adsorption/separation, catalysis, and chemo&#8208;photothermal therapy. Suitable polymerization reaction and synthetic strategy are both critical for the obtainment of stable polymer colloids as carbon precursors. Basic polymerization reactions are the cornerstones of synthetic strategies, which directly provides the direct molecular&#8208;based design of functionalized polymer/carbon spheres. Thus, this progress report mainly focuses on the summary of suitable polymerization reactions for colloidal polymer derived porous carbon spheres. Recent advances in the synthetic strategies and applications are also discussed, including their corresponding polymerization reactions. Finally, the perspectives for the development of polymer derived porous carbon spheres are provided based on the controlled synthesis of polymer colloids and optimization over the carbonization process to achieve highly functionalized carbon spheres for practical applications.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Tailoring Polymer Colloids Derived Porous Carbon Spheres Based on Specific Chemical Reactions</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002475</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T01:31:40-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002475</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002475?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Progress Report</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202002850?af=R">
+      <title>Laser&#8208;Induced Silicon Oxide for Anode&#8208;Free Lithium Metal Batteries</title>
+      <dc:description>
+A laser&#8208;induced silicon oxide (LI&#8208;SiOx) layer derived from a commercial adhesive tape can improve the reversibility of Li metal batteries. The coating results in superior performance by suppressing the formation of Li dendrites and presenting higher average coulombic efficiency of 99.3% (2.0 mAh cm&#8722;2 at 2.0&#160;mA cm&#8722;2) and improved cycle life compared to the electrode without an SiOx coating.
+
+
+
+
+
+
+
+
+Abstract
+The development of a rechargeable Li metal anode (LMA) is an important milestone for improved battery technology. Practical issues hindering LMAs are the formation of Li dendrites and inactive Li during plating and stripping processes, which can cause short circuits, thermal runaway, and low coulombic efficiency (CE). Here, the use of a laser&#8208;induced silicon oxide (LI&#8208;SiOx) layer derived from a commercial adhesive tape to improve the reversibility of Li metal batteries (LMBs) is studied. The silicone&#8208;based adhesive of the tape is converted by a commercial infrared laser into a homogeneous porous SiOx layer deposited directly over the current collector. The coating results in superior performance by suppressing the formation of Li dendrites and inactive Li and presenting higher average CE of 99.3% (2.0 mAh cm&#8722;2 at 2.0 mA cm&#8722;2) compared to bare electrodes. The thickness and morphology of the deposited Li is investigated, revealing a different mechanism of Li deposition on coated electrodes. The laser coating affords a method that is fast and avoids the use of toxic organic solvents and extensive drying times. The improved performance with the SiOx coating is demonstrated in LMB with a zero&#8208;excess (&#8220;anode&#8208;free&#8221;) configuration where a 100% improved performance is verified.
+</dc:description>
+      <dc:creator>
+Weiyin Chen, 
+Rodrigo V. Salvatierra, 
+Muqing Ren, 
+Jinhang Chen, 
+Michael G. Stanford, 
+James M. Tour
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002850?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b462b979-b0a6-4ecc-aa75-4dad4c4c3f9b/adma202002850-gra-0001-m.png"
+     alt="Laser&#8208;Induced Silicon Oxide for Anode&#8208;Free Lithium Metal Batteries"/&gt;
+&lt;p&gt;A laser&#8208;induced silicon oxide (LI&#8208;SiO&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;) layer derived from a commercial adhesive tape can improve the reversibility of Li metal batteries. The coating results in superior performance by suppressing the formation of Li dendrites and presenting higher average coulombic efficiency of 99.3% (2.0 mAh cm&lt;sup&gt;&#8722;2&lt;/sup&gt; at 2.0&#160;mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;) and improved cycle life compared to the electrode without an SiO&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt; coating.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The development of a rechargeable Li metal anode (LMA) is an important milestone for improved battery technology. Practical issues hindering LMAs are the formation of Li dendrites and inactive Li during plating and stripping processes, which can cause short circuits, thermal runaway, and low coulombic efficiency (CE). Here, the use of a laser&#8208;induced silicon oxide (LI&#8208;SiO&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt;) layer derived from a commercial adhesive tape to improve the reversibility of Li metal batteries (LMBs) is studied. The silicone&#8208;based adhesive of the tape is converted by a commercial infrared laser into a homogeneous porous SiO&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt; layer deposited directly over the current collector. The coating results in superior performance by suppressing the formation of Li dendrites and inactive Li and presenting higher average CE of 99.3% (2.0 mAh cm&lt;sup&gt;&#8722;2&lt;/sup&gt; at 2.0 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;) compared to bare electrodes. The thickness and morphology of the deposited Li is investigated, revealing a different mechanism of Li deposition on coated electrodes. The laser coating affords a method that is fast and avoids the use of toxic organic solvents and extensive drying times. The improved performance with the SiO&lt;i&gt;
+   &lt;sub&gt;x&lt;/sub&gt; 
+&lt;/i&gt; coating is demonstrated in LMB with a zero&#8208;excess (&#8220;anode&#8208;free&#8221;) configuration where a 100% improved performance is verified.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Laser&#8208;Induced Silicon Oxide for Anode&#8208;Free Lithium Metal Batteries</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002850</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002850</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002850?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001571?af=R">
+      <title>Laser&#8208;Generated Supranano Liquid Metal as Efficient Electron Mediator in Hybrid Perovskite Solar Cells</title>
+      <dc:description>
+Present study pioneers the technology of pulsed laser irradiation in liquid from a solid target to liquid, and yields liquid ternary supranano (&lt;10&#160;nm)&#8208;alloys with a unique core&#8211;shell structure. The decoration of such supranano&#8208;alloys as an electron mediator at grain boundaries promotes the electron extraction and transfer of the hybrid perovskite film and drives the efficiency up to 22.03%.
+
+
+
+
+
+
+
+
+Abstract
+Creating colloids of liquid metal with tailored dimensions has been of technical significance in nano&#8208;electronics while a challenge remains for generating supranano (&lt;10&#160;nm) liquid metal to unravel the mystery of their unconventional functionalities. Present study pioneers the technology of pulsed laser irradiation in liquid from a solid target to liquid, and yields liquid ternary nano&#8208;alloys that are laborious to obtain via wet&#8208;chemistry synthesis. Herein, the significant role of the supranano liquid metal on mediating the electrons at the grain boundaries of perovskite films, which are of significance to influence the carriers recombination and hysteresis in perovskite solar cells, is revealed. Such embedding of supranano liquid metal in perovskite films leads to a cesium&#8208;based ternary perovskite solar cell with stabilized power output of 21.32% at maximum power point tracing. This study can pave a new way of synthesizing multinary supranano alloys for advanced optoelectronic applications.
+</dc:description>
+      <dc:creator>
+Huiwu Yu, 
+Wenhao Zhao, 
+Long Ren, 
+Hongyue Wang, 
+Pengfei Guo, 
+Xiaokun Yang, 
+Qian Ye, 
+Dmitry Shchukin, 
+Yi Du, 
+Shixue Dou, 
+Hongqiang Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001571?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a6a00ec3-4e4c-40bd-96f4-0475999416f6/adma202001571-gra-0001-m.png"
+     alt="Laser&#8208;Generated Supranano Liquid Metal as Efficient Electron Mediator in Hybrid Perovskite Solar Cells"/&gt;
+&lt;p&gt;Present study pioneers the technology of pulsed laser irradiation in liquid from a solid target to liquid, and yields liquid ternary supranano (&amp;lt;10&#160;nm)&#8208;alloys with a unique core&#8211;shell structure. The decoration of such supranano&#8208;alloys as an electron mediator at grain boundaries promotes the electron extraction and transfer of the hybrid perovskite film and drives the efficiency up to 22.03%.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Creating colloids of liquid metal with tailored dimensions has been of technical significance in nano&#8208;electronics while a challenge remains for generating supranano (&amp;lt;10&#160;nm) liquid metal to unravel the mystery of their unconventional functionalities. Present study pioneers the technology of pulsed laser irradiation in liquid from a solid target to liquid, and yields liquid ternary nano&#8208;alloys that are laborious to obtain via wet&#8208;chemistry synthesis. Herein, the significant role of the supranano liquid metal on mediating the electrons at the grain boundaries of perovskite films, which are of significance to influence the carriers recombination and hysteresis in perovskite solar cells, is revealed. Such embedding of supranano liquid metal in perovskite films leads to a cesium&#8208;based ternary perovskite solar cell with stabilized power output of 21.32% at maximum power point tracing. This study can pave a new way of synthesizing multinary supranano alloys for advanced optoelectronic applications.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Laser&#8208;Generated Supranano Liquid Metal as Efficient Electron Mediator in Hybrid Perovskite Solar Cells</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001571</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001571</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001571?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202003060?af=R">
+      <title>Shining Light on Poly(ethylene glycol): From Polymer Modification to 3D Laser Printing of Water Erasable Microstructures</title>
+      <dc:description>
+A new approach is introduced to access tailored poly(ethylene glycol) materials that can be deconstructed, simply by water. Besides the green light&#8208;induced backbone&#8208;modification of macromolecules, a photoresist is developed for the synthesis of covalently cured macroscopic gels that can be cleaved on&#8208;demand. The resist is also applicable to direct laser printing, making it feasible to fabricate water&#8208;erasable 3D microstructures.
+
+
+
+
+
+
+
+
+Abstract
+The implementation of stimuli&#8208;responsive bonds into 3D network assemblies is a key concept to design adaptive materials that can reshape and degrade. Here, a straightforward but unique photoresist is introduced for the tailored fabrication of poly(ethylene glycol) (PEG) materials that can be readily erased by water, even without the need for acidic or basic additives. Specifically, a new class of photoresist is developed that operates through the backbone crosslinking of PEG when irradiated in the presence of a bivalent triazolinedione. Hence, macroscopic gels are obtained upon visible light&#8208;emitting diode irradiation (&#955; &gt; 515 nm) that are stable in organic media but rapidly degrade upon the addition of water. Photoinduced curing is also applicable to multiphoton laser lithography (&#955; &gt; 700 nm), hence providing access to 3D printed microstructures that vanish when immersed in water at 37 &#176;C. Materials with varying crosslinking densities are accessed by adapting the applied laser writing power, thereby allowing for tunable hydrolytic erasing timescales. A new platform technology is thus presented that enables the crosslinking and 3D laser printing of PEG&#8208;based materials, which can be cleaved and erased in water, and additionally holds potential for the facile modification and backbone degradation of polyether&#8208;containing materials in general.
+</dc:description>
+      <dc:creator>
+Hannes A. Houck, 
+Patrick M&#252;ller, 
+Martin Wegener, 
+Christopher Barner&#8208;Kowollik, 
+Filip E. Du Prez, 
+Eva Blasco
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003060?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/24f58f01-6926-4aec-b865-87345d47deaa/adma202003060-gra-0001-m.png"
+     alt="Shining Light on Poly(ethylene glycol): From Polymer Modification to 3D Laser Printing of Water Erasable Microstructures"/&gt;
+&lt;p&gt;A new approach is introduced to access tailored poly(ethylene glycol) materials that can be deconstructed, simply by water. Besides the green light&#8208;induced backbone&#8208;modification of macromolecules, a photoresist is developed for the synthesis of covalently cured macroscopic gels that can be cleaved on&#8208;demand. The resist is also applicable to direct laser printing, making it feasible to fabricate water&#8208;erasable 3D microstructures.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The implementation of stimuli&#8208;responsive bonds into 3D network assemblies is a key concept to design adaptive materials that can reshape and degrade. Here, a straightforward but unique photoresist is introduced for the tailored fabrication of poly(ethylene glycol) (PEG) materials that can be readily erased by water, even without the need for acidic or basic additives. Specifically, a new class of photoresist is developed that operates through the backbone crosslinking of PEG when irradiated in the presence of a bivalent triazolinedione. Hence, macroscopic gels are obtained upon visible light&#8208;emitting diode irradiation (&#955; &amp;gt; 515 nm) that are stable in organic media but rapidly degrade upon the addition of water. Photoinduced curing is also applicable to multiphoton laser lithography (&#955; &amp;gt; 700 nm), hence providing access to 3D printed microstructures that vanish when immersed in water at 37 &#176;C. Materials with varying crosslinking densities are accessed by adapting the applied laser writing power, thereby allowing for tunable hydrolytic erasing timescales. A new platform technology is thus presented that enables the crosslinking and 3D laser printing of PEG&#8208;based materials, which can be cleaved and erased in water, and additionally holds potential for the facile modification and backbone degradation of polyether&#8208;containing materials in general.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Shining Light on Poly(ethylene glycol): From Polymer Modification to 3D Laser Printing of Water Erasable Microstructures</dc:title>
+      <dc:identifier>doi:10.1002/adma.202003060</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202003060</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003060?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202001848?af=R">
+      <title>Heterogeneous Single&#8208;Atom Catalysts for Electrochemical CO2 Reduction Reaction</title>
+      <dc:description>
+Heterogeneous single&#8208;atom catalysts exhibit promising performance for electrochemical CO2 reduction reaction. Various valuable reduction products have been produced on different single&#8208;atom catalysts. In these catalysts, single atomic sites coordinate with heteroatoms, such as N and S, and locate in N&#8208;doped carbon materials, graphene, or metal&#8211;organic framework (MOF)&#8208;derived carbon frameworks.
+
+
+
+
+
+
+
+
+Abstract
+The electrochemical CO2 reduction reaction (CO2RR) is of great importance to tackle the rising CO2 concentration in the atmosphere. The CO2RR can be driven by renewable energy sources, producing precious chemicals and fuels, with the implementation of this process largely relying on the development of low&#8208;cost and efficient electrocatalysts. Recently, a range of heterogeneous and potentially low&#8208;cost single&#8208;atom catalysts (SACs) containing non&#8208;precious metals coordinated to earth&#8208;abundant elements have emerged as promising candidates for the CO2RR. Unfortunately, the real catalytically active centers and the key factors that govern the catalytic performance of these SACs remain ambiguous. Here, this ambiguity is addressed by developing a fundamental understanding of the CO2RR&#8208;to&#8208;CO process on SACs, as CO accounts for the major product from CO2RR on SACs. The reaction mechanism, the rate&#8208;determining steps, and the key factors that control the activity and selectivity are analyzed from both experimental and theoretical studies. Then, the synthesis, characterization, and the CO2RR performance of SACs are discussed. Finally, the challenges and future pathways are highlighted in the hope of guiding the design of the SACs to promote and understand the CO2RR on SACs.
+</dc:description>
+      <dc:creator>
+Minhan Li, 
+Haifeng Wang, 
+Wei Luo, 
+Peter C. Sherrell, 
+Jun Chen, 
+Jianping Yang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001848?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/402f0045-db12-44fc-a6c1-4880c3d19704/adma202001848-gra-0001-m.png"
+     alt="Heterogeneous Single&#8208;Atom Catalysts for Electrochemical CO2 Reduction Reaction"/&gt;
+&lt;p&gt;Heterogeneous single&#8208;atom catalysts exhibit promising performance for electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction reaction. Various valuable reduction products have been produced on different single&#8208;atom catalysts. In these catalysts, single atomic sites coordinate with heteroatoms, such as N and S, and locate in N&#8208;doped carbon materials, graphene, or metal&#8211;organic framework (MOF)&#8208;derived carbon frameworks.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction reaction (CO&lt;sub&gt;2&lt;/sub&gt;RR) is of great importance to tackle the rising CO&lt;sub&gt;2&lt;/sub&gt; concentration in the atmosphere. The CO&lt;sub&gt;2&lt;/sub&gt;RR can be driven by renewable energy sources, producing precious chemicals and fuels, with the implementation of this process largely relying on the development of low&#8208;cost and efficient electrocatalysts. Recently, a range of heterogeneous and potentially low&#8208;cost single&#8208;atom catalysts (SACs) containing non&#8208;precious metals coordinated to earth&#8208;abundant elements have emerged as promising candidates for the CO&lt;sub&gt;2&lt;/sub&gt;RR. Unfortunately, the real catalytically active centers and the key factors that govern the catalytic performance of these SACs remain ambiguous. Here, this ambiguity is addressed by developing a fundamental understanding of the CO&lt;sub&gt;2&lt;/sub&gt;RR&#8208;to&#8208;CO process on SACs, as CO accounts for the major product from CO&lt;sub&gt;2&lt;/sub&gt;RR on SACs. The reaction mechanism, the rate&#8208;determining steps, and the key factors that control the activity and selectivity are analyzed from both experimental and theoretical studies. Then, the synthesis, characterization, and the CO&lt;sub&gt;2&lt;/sub&gt;RR performance of SACs are discussed. Finally, the challenges and future pathways are highlighted in the hope of guiding the design of the SACs to promote and understand the CO&lt;sub&gt;2&lt;/sub&gt;RR on SACs.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Heterogeneous Single&#8208;Atom Catalysts for Electrochemical CO2 Reduction Reaction</dc:title>
+      <dc:identifier>doi:10.1002/adma.202001848</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202001848</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001848?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202002603?af=R">
+      <title>Designer Metal&#8211;Organic Frameworks for Size&#8208;Exclusion&#8208;Based Hydrocarbon Separations: Progress and Challenges</title>
+      <dc:description>
+Metal&#8211;organic framework (MOF) materials hold tremendous promise for highly efficient separations of industrially important hydrocarbons owing to their exceptional tunability in pore structure and functionality. The current review summarizes recent progress as well as existing challenges for size&#8208;exclusion&#8208;based hydrocarbon separations with designer MOFs.
+
+
+
+
+
+
+
+
+Abstract
+The separation of hydrocarbons is of primary importance in the petrochemical industry but remains a challenging process. Hydrocarbon separations have traditionally relied predominantly on costly and energy&#8208;intensive heat&#8208;driven procedures such as low&#8208;temperature distillations. Adsorptive separation based on porous solids represents an alternative technology that is potentially more energy efficient for the separation of some hydrocarbons. Great efforts have been made recently not only in the development of adsorbents with optimal separation performance but also toward the subsequent implementation of adsorption&#8208;based separation technology. Emerging as a relatively new class of multifunctional porous materials, metal&#8211;organic frameworks (MOFs) hold substantial promise as adsorbents for highly efficient separation of hydrocarbons. This is because of their exceptional and intrinsic porosity tunability, which enables size&#8208;exclusion&#8208;based separations that render the highest possible separation selectivity. In this review, recent advances in the development of MOFs for separation of selected groups of hydrocarbons are reviewed, including methane/C2 hydrocarbons, normal alkanes, alkane isomers, and alkane/alkene/alkyne and C8 alkylaromatics, with a particular focus on separations based on the size&#8208;exclusion mechanism. Insights into tailor&#8208;made structures, material design strategies, and structure&#8211;property relationships will be elucidated. In addition, the existing challenges and possible future directions of this important research field will be discussed.
+</dc:description>
+      <dc:creator>
+Hao Wang, 
+Yunling Liu, 
+Jing Li
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002603?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/06dff5c3-9638-4bb5-a53d-083a9326feee/adma202002603-gra-0001-m.png"
+     alt="Designer Metal&#8211;Organic Frameworks for Size&#8208;Exclusion&#8208;Based Hydrocarbon Separations: Progress and Challenges"/&gt;
+&lt;p&gt;Metal&#8211;organic framework (MOF) materials hold tremendous promise for highly efficient separations of industrially important hydrocarbons owing to their exceptional tunability in pore structure and functionality. The current review summarizes recent progress as well as existing challenges for size&#8208;exclusion&#8208;based hydrocarbon separations with designer MOFs.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The separation of hydrocarbons is of primary importance in the petrochemical industry but remains a challenging process. Hydrocarbon separations have traditionally relied predominantly on costly and energy&#8208;intensive heat&#8208;driven procedures such as low&#8208;temperature distillations. Adsorptive separation based on porous solids represents an alternative technology that is potentially more energy efficient for the separation of some hydrocarbons. Great efforts have been made recently not only in the development of adsorbents with optimal separation performance but also toward the subsequent implementation of adsorption&#8208;based separation technology. Emerging as a relatively new class of multifunctional porous materials, metal&#8211;organic frameworks (MOFs) hold substantial promise as adsorbents for highly efficient separation of hydrocarbons. This is because of their exceptional and intrinsic porosity tunability, which enables size&#8208;exclusion&#8208;based separations that render the highest possible separation selectivity. In this review, recent advances in the development of MOFs for separation of selected groups of hydrocarbons are reviewed, including methane/C&lt;sub&gt;2&lt;/sub&gt; hydrocarbons, normal alkanes, alkane isomers, and alkane/alkene/alkyne and C&lt;sub&gt;8&lt;/sub&gt; alkylaromatics, with a particular focus on separations based on the size&#8208;exclusion mechanism. Insights into tailor&#8208;made structures, material design strategies, and structure&#8211;property relationships will be elucidated. In addition, the existing challenges and possible future directions of this important research field will be discussed.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Designer Metal&#8211;Organic Frameworks for Size&#8208;Exclusion&#8208;Based Hydrocarbon Separations: Progress and Challenges</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002603</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-09T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002603</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002603?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202001818?af=R">
       <title>Nanopore&#8208;Supported Metal Nanocatalysts for Efficient Hydrogen Generation from Liquid&#8208;Phase Chemical Hydrogen Storage Materials</title>
       <dc:description>
@@ -4218,518 +4753,6 @@ Xiangdong Yao
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202003493</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003493?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001348?af=R">
-      <title>Highly Efficient Persistent Room&#8208;Temperature Phosphorescence from Heavy Atom&#8208;Free Molecules Triggered by Hidden Long Phosphorescent Antenna</title>
-      <dc:description>
-The extension of the conjugated antenna units relating transition from high order singlet excited states in heavy atom&#8208;free chromophores greatly enhances the phosphorescence rate (kp) without a large increase of vibration&#8208;based radiationless transition rate (knr(RT)) with large triplet yield, which results in the room&#8208;temperature phosphorescence (RTP) yield (&#934;p(RT)) of 50% as well as the RTP lifetime (&#964;p(RT)) of 1.0 s.
-
-
-
-
-
-
-
-
-Abstract
-Persistent (lifetime &gt; 100 ms) room&#8208;temperature phosphorescence (pRTP) is important for state&#8208;of&#8208;the&#8208;art security and bioimaging applications. An unclear relationship between chromophores and physical parameters relating to pRTP has prevented obtaining an RTP yield of over 50% and a lifetime over 1 s. Here highly efficient pRTP is reported under ambient conditions from heavy atom&#8208;free chromophores. A heavy atom&#8208;free aromatic core substituted with a long&#8208;conjugated amino group considerably accelerates the phosphorescence rate independent of the intramolecular vibration&#8208;based nonradiative rate from the lowest excited triplet state. One of the designed heavy atom&#8208;free dopant chromophores presents an RTP yield of 50% with a lifetime of 1 s under ambient conditions. The afterglow brightness under strong excitation is at least 104 times stronger than that of conventional long&#8208;persistent luminescence emitters. Here it is shown that highly efficient pRTP materials allow for high&#8208;resolution gated emission with a size of the diffraction limit using small&#8208;scale and low&#8208;cost photodetectors.
-</dc:description>
-      <dc:creator>
-Indranil Bhattacharjee, 
-Shuzo Hirata
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001348?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8c1fee79-f103-4c03-ae2e-0f6ea5692e84/adma202001348-gra-0001-m.png"
-     alt="Highly Efficient Persistent Room&#8208;Temperature Phosphorescence from Heavy Atom&#8208;Free Molecules Triggered by Hidden Long Phosphorescent Antenna"/&gt;
-&lt;p&gt;The extension of the conjugated antenna units relating transition from high order singlet excited states in heavy atom&#8208;free chromophores greatly enhances the phosphorescence rate (&lt;i&gt;k &lt;/i&gt;
-&lt;sub&gt;p&lt;/sub&gt;) without a large increase of vibration&#8208;based radiationless transition rate (&lt;i&gt;k &lt;/i&gt;
-&lt;sub&gt;nr&lt;/sub&gt;(RT)) with large triplet yield, which results in the room&#8208;temperature phosphorescence (RTP) yield (&#934;&lt;sub&gt;p&lt;/sub&gt;(RT)) of 50% as well as the RTP lifetime (&#964;&lt;sub&gt;p&lt;/sub&gt;(RT)) of 1.0 s.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Persistent (lifetime &amp;gt; 100 ms) room&#8208;temperature phosphorescence (&lt;i&gt;p &lt;/i&gt;RTP) is important for state&#8208;of&#8208;the&#8208;art security and bioimaging applications. An unclear relationship between chromophores and physical parameters relating to &lt;i&gt;p &lt;/i&gt;RTP has prevented obtaining an RTP yield of over 50% and a lifetime over 1 s. Here highly efficient &lt;i&gt;p &lt;/i&gt;RTP is reported under ambient conditions from heavy atom&#8208;free chromophores. A heavy atom&#8208;free aromatic core substituted with a long&#8208;conjugated amino group considerably accelerates the phosphorescence rate independent of the intramolecular vibration&#8208;based nonradiative rate from the lowest excited triplet state. One of the designed heavy atom&#8208;free dopant chromophores presents an RTP yield of 50% with a lifetime of 1 s under ambient conditions. The afterglow brightness under strong excitation is at least 10&lt;sup&gt;4&lt;/sup&gt; times stronger than that of conventional long&#8208;persistent luminescence emitters. Here it is shown that highly efficient &lt;i&gt;p &lt;/i&gt;RTP materials allow for high&#8208;resolution gated emission with a size of the diffraction limit using small&#8208;scale and low&#8208;cost photodetectors.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Highly Efficient Persistent Room&#8208;Temperature Phosphorescence from Heavy Atom&#8208;Free Molecules Triggered by Hidden Long Phosphorescent Antenna</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001348</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-28T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001348</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001348?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202003146?af=R">
-      <title>2D Inorganic Bimolecular Crystals with Strong In&#8208;Plane Anisotropy for Second&#8208;Order Nonlinear Optics</title>
-      <dc:description>
-For the first time, 2D inorganic bimolecular crystals SbI3&#183;3S8 nanobelts are successfully prepared by a facile vertical microspacing sublimation strategy. The SbI3&#183;3S8 nanobelts show strong in&#8208;plane optical anisotropy with high dichroic ratio up to 3.9 due to the anisotropy of phonon vibrations and intramolecular vibrations. Moreover, the second harmonic generation intensity of SbI3&#183;3S8 nanobelts exhibits a great dependence on excitation wavelength and crystalline orientation.
-
-
-
-
-
-
-
-
-Abstract
-2D inorganic bimolecular crystals, consisting of two different inorganic molecules, are expected to possess novel physical and chemical properties due to the synergistic effect of the individual components. However, 2D inorganic bimolecular crystals remain unexploited because of the difficulties in preparation arising from non&#8208;typical layered structures and intricate intermolecular interactions. Here, the synthesis of 2D inorganic bimolecular crystal SbI3&#183;3S8 nanobelts via a facile vertical microspacing sublimation strategy is reported. The as&#8208;synthesized SbI3&#183;3S8 nanobelts exhibit strong in&#8208;plane anisotropy of phonon vibrations and intramolecular vibrations as well as show anisotropic light absorption with a high dichroism ratio of 3.9. Furthermore, it is revealed that the second harmonic generation intensity of SbI3&#183;3S8 nanobelts is highly dependent on the excitation wavelength and crystallographic orientation. This work can inspire the growth of more 2D inorganic bimolecular crystals and excite potential applications for bimolecular optoelectronic devices.
-</dc:description>
-      <dc:creator>
-Xin Feng, 
-Zongdong Sun, 
-Ke Pei, 
-Wei Han, 
-Fakun Wang, 
-Peng Luo, 
-Jianwei Su, 
-Nian Zuo, 
-Guiheng Liu, 
-Huiqiao Li, 
-Tianyou Zhai
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003146?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/12c39d67-35f2-4f8a-8036-748fdcde0c61/adma202003146-gra-0001-m.png"
-     alt="2D Inorganic Bimolecular Crystals with Strong In&#8208;Plane Anisotropy for Second&#8208;Order Nonlinear Optics"/&gt;
-&lt;p&gt;For the first time, 2D inorganic bimolecular crystals SbI&lt;sub&gt;3&lt;/sub&gt;&#183;3S&lt;sub&gt;8&lt;/sub&gt; nanobelts are successfully prepared by a facile vertical microspacing sublimation strategy. The SbI&lt;sub&gt;3&lt;/sub&gt;&#183;3S&lt;sub&gt;8&lt;/sub&gt; nanobelts show strong in&#8208;plane optical anisotropy with high dichroic ratio up to 3.9 due to the anisotropy of phonon vibrations and intramolecular vibrations. Moreover, the second harmonic generation intensity of SbI&lt;sub&gt;3&lt;/sub&gt;&#183;3S&lt;sub&gt;8&lt;/sub&gt; nanobelts exhibits a great dependence on excitation wavelength and crystalline orientation.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;2D inorganic bimolecular crystals, consisting of two different inorganic molecules, are expected to possess novel physical and chemical properties due to the synergistic effect of the individual components. However, 2D inorganic bimolecular crystals remain unexploited because of the difficulties in preparation arising from non&#8208;typical layered structures and intricate intermolecular interactions. Here, the synthesis of 2D inorganic bimolecular crystal SbI&lt;sub&gt;3&lt;/sub&gt;&#183;3S&lt;sub&gt;8&lt;/sub&gt; nanobelts via a facile vertical microspacing sublimation strategy is reported. The as&#8208;synthesized SbI&lt;sub&gt;3&lt;/sub&gt;&#183;3S&lt;sub&gt;8&lt;/sub&gt; nanobelts exhibit strong in&#8208;plane anisotropy of phonon vibrations and intramolecular vibrations as well as show anisotropic light absorption with a high dichroism ratio of 3.9. Furthermore, it is revealed that the second harmonic generation intensity of SbI&lt;sub&gt;3&lt;/sub&gt;&#183;3S&lt;sub&gt;8&lt;/sub&gt; nanobelts is highly dependent on the excitation wavelength and crystallographic orientation. This work can inspire the growth of more 2D inorganic bimolecular crystals and excite potential applications for bimolecular optoelectronic devices.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>2D Inorganic Bimolecular Crystals with Strong In&#8208;Plane Anisotropy for Second&#8208;Order Nonlinear Optics</dc:title>
-      <dc:identifier>doi:10.1002/adma.202003146</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T05:50:40-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202003146</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003146?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002706?af=R">
-      <title>Mechanically Robust, Elastic, and Healable Ionogels for Highly Sensitive Ultra&#8208;Durable Ionic Skins</title>
-      <dc:description>
-Highly sensitive ultra&#8208;durable ionic skins are fabricated by impregnating ionic liquids into a mechanically robust poly(urea&#8208;urethane) network. Even after being stored in open air for 200 days, the I&#8208;skins exhibit a highly reproducible electrical response over 10 000 uninterrupted strain cycles. The fractured I&#8208;skin can be easily healed to regain their original sensing performance.
-
-
-
-
-
-
-
-
-Abstract
-The fabrication of highly durable skin&#8208;mimicking sensors remains challenging because of the unavoidable fatigue and physical damage that sensors are subjected to in practical applications. In this study, ultra&#8208;durable ionic skins (I&#8208;skins) with excellent healability and high sensitivity are fabricated by impregnating ionic liquids (ILs) into a mechanically robust poly(urea&#8208;urethane) (PU) network. The PU network is composed of crystallized poly(&#949;&#8208;caprolactone) and flexible poly(ethylene glycol) that are dynamically cross&#8208;linked with hindered urea bonds and hydrogen bonds. Such a design endows the resultant ionogels with high mechanical strength, good elasticity, Young's modulus similar to that of natural skin, and excellent healability. The ionogel&#8208;based I&#8208;skins exhibit a high sensitivity to a wide range of strains (0.1&#8211;300%) and pressures (0.1&#8211;20 kPa). Importantly, the I&#8208;skins show a highly reproducible electrical response over 10 000 uninterrupted strain cycles. The sensing performance of the I&#8208;skins stored in open air for 200 days is almost the same as that of the freshly prepared I&#8208;skin. The fractured I&#8208;skins can be easily healed by heating at 65 &#176;C that restores their original ultra&#8208;durable sensing performance. The long&#8208;term durability of the I&#8208;skins is attributed to the combination of non&#8208;volatility of the ILs, excellent healability, and well&#8208;designed mechanical properties.
-</dc:description>
-      <dc:creator>
-Tianqi Li, 
-Yuting Wang, 
-Siheng Li, 
-Xiaokong Liu, 
-Junqi Sun
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002706?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/18f4768b-1f0a-4d36-bac0-6e5f4ddd7812/adma202002706-gra-0001-m.png"
-     alt="Mechanically Robust, Elastic, and Healable Ionogels for Highly Sensitive Ultra&#8208;Durable Ionic Skins"/&gt;
-&lt;p&gt;Highly sensitive ultra&#8208;durable ionic skins are fabricated by impregnating ionic liquids into a mechanically robust poly(urea&#8208;urethane) network. Even after being stored in open air for 200 days, the I&#8208;skins exhibit a highly reproducible electrical response over 10 000 uninterrupted strain cycles. The fractured I&#8208;skin can be easily healed to regain their original sensing performance.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The fabrication of highly durable skin&#8208;mimicking sensors remains challenging because of the unavoidable fatigue and physical damage that sensors are subjected to in practical applications. In this study, ultra&#8208;durable ionic skins (I&#8208;skins) with excellent healability and high sensitivity are fabricated by impregnating ionic liquids (ILs) into a mechanically robust poly(urea&#8208;urethane) (PU) network. The PU network is composed of crystallized poly(&#949;&#8208;caprolactone) and flexible poly(ethylene glycol) that are dynamically cross&#8208;linked with hindered urea bonds and hydrogen bonds. Such a design endows the resultant ionogels with high mechanical strength, good elasticity, Young's modulus similar to that of natural skin, and excellent healability. The ionogel&#8208;based I&#8208;skins exhibit a high sensitivity to a wide range of strains (0.1&#8211;300%) and pressures (0.1&#8211;20 kPa). Importantly, the I&#8208;skins show a highly reproducible electrical response over 10 000 uninterrupted strain cycles. The sensing performance of the I&#8208;skins stored in open air for 200 days is almost the same as that of the freshly prepared I&#8208;skin. The fractured I&#8208;skins can be easily healed by heating at 65 &#176;C that restores their original ultra&#8208;durable sensing performance. The long&#8208;term durability of the I&#8208;skins is attributed to the combination of non&#8208;volatility of the ILs, excellent healability, and well&#8208;designed mechanical properties.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Mechanically Robust, Elastic, and Healable Ionogels for Highly Sensitive Ultra&#8208;Durable Ionic Skins</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002706</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T05:48:54-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002706</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002706?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002647?af=R">
-      <title>Heterostructures Built in Metal Hydrides for Advanced Hydrogen Storage Reversibility</title>
-      <dc:description>
-A facile strategy to effectively improve the reversible hydrogen storage performance of Mg(BH4)2 is realized herein by building heterostructures uniformly inside MgH2 nanoparticles. MgH2 acts as a hydrogen pump, which changes the nature of the initial formation of B&#63743;H bonds from endothermic to exothermic process via breaking stable B&#8211;B bonds and hence thermodynamically improves the reversibility of Mg(BH4)2.
-
-
-
-
-
-
-
-
-Abstract
-Hydrogen storage is a vital technology for developing on&#8208;board hydrogen fuel cells. While Mg(BH4)2 is widely regarded as a promising hydrogen storage material owing to its extremely high gravimetric and volumetric capacity, its poor reversibility poses a major bottleneck inhibiting its practical applications. Herein, a facile strategy to effectively improve the reversible hydrogen storage performance of Mg(BH4)2 via building heterostructures uniformly inside MgH2 nanoparticles is reported. The in situ reaction between MgH2 nanoparticles and B2H6 not only forms homogeneous heterostructures with controllable particle size but also simultaneously decreases the particle size of the MgH2 nanoparticles inside, which effectively reduces the kinetic barrier that inhibits the reversible hydrogen storage in both Mg(BH4)2 and MgH2. More importantly, density functional theory coupled with ab initio molecular dynamics calculations clearly demonstrates that MgH2 in this heterostructure can act as a hydrogen pump, which drastically changes the enthalpy for the initial formation of B&#63743;H bonds by breaking stable B&#63743;B bonds from endothermic to exothermic and hence thermodynamically improves the reversibility of Mg(BH4)2. It is believed that building heterostructures provides a window of opportunity for discovering high&#8208;performance hydrogen storage materials for on&#8208;board applications.
-</dc:description>
-      <dc:creator>
-Yanran Wang, 
-Xiaowei Chen, 
-Hongyu Zhang, 
-Guanglin Xia, 
-Dalin Sun, 
-Xuebin Yu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002647?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/2b46d3b3-e107-4951-92d2-e19401614075/adma202002647-gra-0001-m.png"
-     alt="Heterostructures Built in Metal Hydrides for Advanced Hydrogen Storage Reversibility"/&gt;
-&lt;p&gt;A facile strategy to effectively improve the reversible hydrogen storage performance of Mg(BH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt; is realized herein by building heterostructures uniformly inside MgH&lt;sub&gt;2&lt;/sub&gt; nanoparticles. MgH&lt;sub&gt;2&lt;/sub&gt; acts as a hydrogen pump, which changes the nature of the initial formation of B&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;H bonds from endothermic to exothermic process via breaking stable B&#8211;B bonds and hence thermodynamically improves the reversibility of Mg(BH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Hydrogen storage is a vital technology for developing on&#8208;board hydrogen fuel cells. While Mg(BH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt; is widely regarded as a promising hydrogen storage material owing to its extremely high gravimetric and volumetric capacity, its poor reversibility poses a major bottleneck inhibiting its practical applications. Herein, a facile strategy to effectively improve the reversible hydrogen storage performance of Mg(BH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt; via building heterostructures uniformly inside MgH&lt;sub&gt;2&lt;/sub&gt; nanoparticles is reported. The in situ reaction between MgH&lt;sub&gt;2&lt;/sub&gt; nanoparticles and B&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt; not only forms homogeneous heterostructures with controllable particle size but also simultaneously decreases the particle size of the MgH&lt;sub&gt;2&lt;/sub&gt; nanoparticles inside, which effectively reduces the kinetic barrier that inhibits the reversible hydrogen storage in both Mg(BH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt; and MgH&lt;sub&gt;2&lt;/sub&gt;. More importantly, density functional theory coupled with ab initio molecular dynamics calculations clearly demonstrates that MgH&lt;sub&gt;2&lt;/sub&gt; in this heterostructure can act as a hydrogen pump, which drastically changes the enthalpy for the initial formation of B&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;H bonds by breaking stable B&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;B bonds from endothermic to exothermic and hence thermodynamically improves the reversibility of Mg(BH&lt;sub&gt;4&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;. It is believed that building heterostructures provides a window of opportunity for discovering high&#8208;performance hydrogen storage materials for on&#8208;board applications.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Heterostructures Built in Metal Hydrides for Advanced Hydrogen Storage Reversibility</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002647</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T05:04:53-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002647</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002647?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002235?af=R">
-      <title>Metal Atom&#8208;Doped Co3O4 Hierarchical Nanoplates for Electrocatalytic Oxygen Evolution</title>
-      <dc:description>
-Metal atom&#8208;doped Co3O4 hierarchical nanoplates constructed by ultrathin nanosheets are synthesized by a cooperative etching&#8722;coordination&#8722;reorganization approach. The method allows doping of 13 metal elements in total. With the structural and compositional advantages, as an example, the Fe&#8208;doped Co3O4 hierarchical nanoplates exhibit greatly enhanced electrocatalytic performance for oxygen evolution.
-
-
-
-
-
-
-
-
-Abstract
-Electrocatalysts based on hierarchically structured and heteroatom&#8208;doped non&#8208;noble metal oxide materials are of great importance for efficient and low&#8208;cost electrochemical water splitting systems. Herein, the synthesis of a series of hierarchical hollow nanoplates (NPs) composed of ultrathin Co3O4 nanosheets doped with 13 different metal atoms is reported. The synthesis involves a cooperative etching&#8722;coordination&#8722;reorganization approach starting from zeolitic imidazolate framework&#8208;67 (ZIF&#8208;67) NPs. First, metal atom decorated ZIF&#8208;67 NPs with unique cross&#8208;channels are formed through a Lewis acid etching and metal species coordination process. Afterward, the composite NPs are converted to hollow Co3O4 hierarchical NPs composed of ultrathin nanosheets through a solvothermal reaction, during which the guest metal species is doped into the octahedral sites of Co3O4. Density functional theory calculations suggest that doping of small amount of Fe atoms near the surface of Co3O4 can greatly enhance the electrocatalytic activity toward the oxygen evolution reaction (OER). Benefiting from the structural and compositional advantages, the obtained Fe&#8208;doped Co3O4 hierarchical NPs manifest superior electrocatalytic performance for OER with an overpotential of 262 mV at 10 mA cm&#8722;2, a Tafel slope of 43 mV dec&#8722;1, and excellent stability even at a high current density of 100 mA cm&#8722;2 for 50 h.
-</dc:description>
-      <dc:creator>
-Song Lin Zhang, 
-Bu Yuan Guan, 
-Xue Feng Lu, 
-Shibo Xi, 
-Yonghua Du, 
-Xiong Wen (David) Lou
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002235?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/42051f04-52f4-4f94-bb59-87fad09f769d/adma202002235-gra-0001-m.png"
-     alt="Metal Atom&#8208;Doped Co3O4 Hierarchical Nanoplates for Electrocatalytic Oxygen Evolution"/&gt;
-&lt;p&gt;Metal atom&#8208;doped Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; hierarchical nanoplates constructed by ultrathin nanosheets are synthesized by a cooperative etching&#8722;coordination&#8722;reorganization approach. The method allows doping of 13 metal elements in total. With the structural and compositional advantages, as an example, the Fe&#8208;doped Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; hierarchical nanoplates exhibit greatly enhanced electrocatalytic performance for oxygen evolution.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Electrocatalysts based on hierarchically structured and heteroatom&#8208;doped non&#8208;noble metal oxide materials are of great importance for efficient and low&#8208;cost electrochemical water splitting systems. Herein, the synthesis of a series of hierarchical hollow nanoplates (NPs) composed of ultrathin Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; nanosheets doped with 13 different metal atoms is reported. The synthesis involves a cooperative etching&#8722;coordination&#8722;reorganization approach starting from zeolitic imidazolate framework&#8208;67 (ZIF&#8208;67) NPs. First, metal atom decorated ZIF&#8208;67 NPs with unique cross&#8208;channels are formed through a Lewis acid etching and metal species coordination process. Afterward, the composite NPs are converted to hollow Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; hierarchical NPs composed of ultrathin nanosheets through a solvothermal reaction, during which the guest metal species is doped into the octahedral sites of Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;. Density functional theory calculations suggest that doping of small amount of Fe atoms near the surface of Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; can greatly enhance the electrocatalytic activity toward the oxygen evolution reaction (OER). Benefiting from the structural and compositional advantages, the obtained Fe&#8208;doped Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; hierarchical NPs manifest superior electrocatalytic performance for OER with an overpotential of 262 mV at 10 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;, a Tafel slope of 43 mV dec&lt;sup&gt;&#8722;1&lt;/sup&gt;, and excellent stability even at a high current density of 100 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; for 50 h.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Metal Atom&#8208;Doped Co3O4 Hierarchical Nanoplates for Electrocatalytic Oxygen Evolution</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002235</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T12:51:07-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002235</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002235?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001981?af=R">
-      <title>Robust Fabrication of Hybrid Lead&#8208;Free Perovskite Pellets for Stable X&#8208;Ray Detectors with Low Detection Limit</title>
-      <dc:description>
-MA3Bi2I9 polycrystalline pellets (PPs) are fabricated by the robust, cost effective, and scalable cold isostatic&#8208;pressing approach, and X&#8208;ray detectors based on MA3Bi2I9&#8208;PPs reach a limit of detection (LoD) of 9.3 nGyair s&#8722;1. The low LoD of the X&#8208;ray detectors can obviously decrease the radiation dose used, thereby reducing health risks in medical diagnostics and security screening.
-
-
-
-
-
-
-
-
-Abstract
-X&#8208;ray detectors are widely utilized in medical diagnostics and nondestructive product inspection. Halide perovskites are recently demonstrated as excellent candidates for direct X&#8208;ray detection. However, it is still challenging to obtain high quality perovskites with millimeter&#8208;thick over a large area for high performance, stable X&#8208;ray detectors. Here, methylammonium bismuth iodide (MA3Bi2I9) polycrystalline pellets (PPs) are developed by a robust, cost effective, and scalable cold isostatic&#8208;pressing for fabricating X&#8208;ray detectors with low limit of detection (LoD) and superior operational stability. The MA3Bi2I9&#8208;PPs possess a high resistivity of 2.28 &#215; 1011 &#937; cm and low dark carrier concentration of &#8776;107 cm&#8722;3, and balanced mobility of &#8776;2 cm2 V&#8722;1 s&#8722;1 for electrons and holes. These merits enable a sensitivity of 563 &#956;C Gyair&#8722;1 cm&#8722;2, a detection efficiency of 28.8%, and an LoD of 9.3 nGyair s&#8722;1 for MA3Bi2I9&#8208;PPs detectors, and the LoD is much lower than the dose rate required for X&#8208;ray diagnostics used currently (5.5 &#956;Gyair s&#8722;1). In addition, the MA3Bi2I9&#8208;PPs detectors work stably under high working bias field up to 2000 V cm&#8722;1 after sensing an integrated dose &gt;320 Gyair with continuous X&#8208;ray radiation, demonstrating its competitive advantage in practical application. These findings provide an approach to explore a new generation of low LoD, stable and green X&#8208;ray detectors based on MA3Bi2I9&#8208;PPs.
-</dc:description>
-      <dc:creator>
-Shujie Tie, 
-Wei Zhao, 
-Deyu Xin, 
-Min Zhang, 
-Jidong Long, 
-Qi Chen, 
-Xiaojia Zheng, 
-Jianguo Zhu, 
-Wen&#8208;Hua Zhang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001981?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9c5b167e-be2e-499a-adb1-981824e356dc/adma202001981-gra-0001-m.png"
-     alt="Robust Fabrication of Hybrid Lead&#8208;Free Perovskite Pellets for Stable X&#8208;Ray Detectors with Low Detection Limit"/&gt;
-&lt;p&gt;MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt; polycrystalline pellets (PPs) are fabricated by the robust, cost effective, and scalable cold isostatic&#8208;pressing approach, and X&#8208;ray detectors based on MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;&#8208;PPs reach a limit of detection (LoD) of 9.3 nGy&lt;sub&gt;air&lt;/sub&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt;. The low LoD of the X&#8208;ray detectors can obviously decrease the radiation dose used, thereby reducing health risks in medical diagnostics and security screening.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;X&#8208;ray detectors are widely utilized in medical diagnostics and nondestructive product inspection. Halide perovskites are recently demonstrated as excellent candidates for direct X&#8208;ray detection. However, it is still challenging to obtain high quality perovskites with millimeter&#8208;thick over a large area for high performance, stable X&#8208;ray detectors. Here, methylammonium bismuth iodide (MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;) polycrystalline pellets (PPs) are developed by a robust, cost effective, and scalable cold isostatic&#8208;pressing for fabricating X&#8208;ray detectors with low limit of detection (LoD) and superior operational stability. The MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;&#8208;PPs possess a high resistivity of 2.28 &#215; 10&lt;sup&gt;11&lt;/sup&gt; &#937; cm and low dark carrier concentration of &#8776;10&lt;sup&gt;7&lt;/sup&gt; cm&lt;sup&gt;&#8722;3&lt;/sup&gt;, and balanced mobility of &#8776;2 cm&lt;sup&gt;2&lt;/sup&gt; V&lt;sup&gt;&#8722;1&lt;/sup&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt; for electrons and holes. These merits enable a sensitivity of 563 &#956;C Gy&lt;sub&gt;air&lt;/sub&gt;
-&lt;sup&gt;&#8722;1&lt;/sup&gt; cm&lt;sup&gt;&#8722;2&lt;/sup&gt;, a detection efficiency of 28.8%, and an LoD of 9.3 nGy&lt;sub&gt;air&lt;/sub&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt; for MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;&#8208;PPs detectors, and the LoD is much lower than the dose rate required for X&#8208;ray diagnostics used currently (5.5 &#956;Gy&lt;sub&gt;air&lt;/sub&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt;). In addition, the MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;&#8208;PPs detectors work stably under high working bias field up to 2000 V cm&lt;sup&gt;&#8722;1&lt;/sup&gt; after sensing an integrated dose &amp;gt;320 Gy&lt;sub&gt;air&lt;/sub&gt; with continuous X&#8208;ray radiation, demonstrating its competitive advantage in practical application. These findings provide an approach to explore a new generation of low LoD, stable and green X&#8208;ray detectors based on MA&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;&#8208;PPs.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Robust Fabrication of Hybrid Lead&#8208;Free Perovskite Pellets for Stable X&#8208;Ray Detectors with Low Detection Limit</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001981</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T12:50:32-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001981</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001981?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002357?af=R">
-      <title>Perovskite Granular Wire Photodetectors with Ultrahigh Photodetectivity</title>
-      <dc:description>
-Perovskite granular wires synthesized by a simple yet effective template&#8208;free self&#8208;assembly exhibit superior photodetecting performance with unprecedentedly high photodetectivity, originating from a low dark current due to band&#8208;edge modulation along the long axis of the granular wires. The &#8220;self&#8208;assembled nanograin engineering&#8221; strategy provides a viable method for the development of high&#8208;performance perovskite photodetectors and can be extended to other integrated optoelectronic systems.
-
-
-
-
-
-
-
-
-Abstract
-Control over the morphology and crystallinity of metal halide perovskite materials is of key importance to enable high&#8208;performance optoelectronics. Here, a simple yet effective template&#8208;free self&#8208;assembly synthesis of perovskite granular wires with ultrahigh photodetectivity (3.17 &#215; 1015 Jones) is reported. The 1D self&#8208;assembly of perovskite grains is driven by differences in the surface interaction energies of the granular facets. The superb photodetecting performance originates from extremely low dark current engendered by energetic barriers featuring unique band&#8208;edge modulation along the long axis of wire. Flexible photodetector arrays, fabricated by selectively placing perovskite granular wires onto pre&#8208;patterned electrode arrays on a transparent polymer substrate, show independently addressable photonic signal mapping with remarkably high detectivity, photoconductive gain, and responsivity. The &#8220;self&#8208;assembled nanograin engineering&#8221; strategy developed in this study provides a viable method for the development of high&#8208;performance perovskite photodetectors and can be extended to other integrated optoelectronic systems.
-</dc:description>
-      <dc:creator>
-Yoon Ho Lee, 
-Inho Song, 
-Su Hwan Kim, 
-Ju Hyun Park, 
-Sung O Park, 
-Jeong Hun Lee, 
-Yousang Won, 
-Kilwon Cho, 
-Sang Kyu Kwak, 
-Joon Hak Oh
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002357?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7ecf7d10-df98-44c7-8b48-93ab7351cede/adma202002357-gra-0001-m.png"
-     alt="Perovskite Granular Wire Photodetectors with Ultrahigh Photodetectivity"/&gt;
-&lt;p&gt;Perovskite granular wires synthesized by a simple yet effective template&#8208;free self&#8208;assembly exhibit superior photodetecting performance with unprecedentedly high photodetectivity, originating from a low dark current due to band&#8208;edge modulation along the long axis of the granular wires. The &#8220;self&#8208;assembled nanograin engineering&#8221; strategy provides a viable method for the development of high&#8208;performance perovskite photodetectors and can be extended to other integrated optoelectronic systems.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Control over the morphology and crystallinity of metal halide perovskite materials is of key importance to enable high&#8208;performance optoelectronics. Here, a simple yet effective template&#8208;free self&#8208;assembly synthesis of perovskite granular wires with ultrahigh photodetectivity (3.17 &#215; 10&lt;sup&gt;15&lt;/sup&gt; Jones) is reported. The 1D self&#8208;assembly of perovskite grains is driven by differences in the surface interaction energies of the granular facets. The superb photodetecting performance originates from extremely low dark current engendered by energetic barriers featuring unique band&#8208;edge modulation along the long axis of wire. Flexible photodetector arrays, fabricated by selectively placing perovskite granular wires onto pre&#8208;patterned electrode arrays on a transparent polymer substrate, show independently addressable photonic signal mapping with remarkably high detectivity, photoconductive gain, and responsivity. The &#8220;self&#8208;assembled nanograin engineering&#8221; strategy developed in this study provides a viable method for the development of high&#8208;performance perovskite photodetectors and can be extended to other integrated optoelectronic systems.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Perovskite Granular Wire Photodetectors with Ultrahigh Photodetectivity</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002357</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T12:46:08-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002357</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002357?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001218?af=R">
-      <title>Nonvolatile Electrically Reconfigurable Integrated Photonic Switch Enabled by a Silicon PIN Diode Heater</title>
-      <dc:description>
-Nonvolatile electrically reconfigurable photonic switches based on phase&#8208;change material&#8208;clad silicon waveguides and microring resonators are demonstrated via in situ silicon PIN diode heaters. Low&#8208;energy, compact, low&#8208;loss, low&#8208;voltage, and high&#8208;cyclability operations at moderate speeds are obtained in a complementary metal&#8208;oxide&#8208;semiconductor&#8208;compatible process, promising very large&#8208;scale programmable electronic&#8211;photonic systems such as optical neural networks and general&#8208;purpose integrated photonic processors.
-
-
-
-
-
-
-
-
-Abstract
-Reconfigurability of photonic integrated circuits (PICs) has become increasingly important due to the growing demands for electronic&#8211;photonic systems on a chip driven by emerging applications, including neuromorphic computing, quantum information, and microwave photonics. Success in these fields usually requires highly scalable photonic switching units as essential building blocks. Current photonic switches, however, mainly rely on materials with weak, volatile thermo&#8208;optic or electro&#8208;optic modulation effects, resulting in large footprints and high energy consumption. As a promising alternative, chalcogenide phase&#8208;change materials (PCMs) exhibit strong optical modulation in a static, self&#8208;holding fashion, but the scalability of present PCM&#8208;integrated photonic applications is still limited by the poor optical or electrical actuation approaches. Here, with phase transitions actuated by in situ silicon PIN diode heaters, scalable nonvolatile electrically reconfigurable photonic switches using PCM&#8208;clad silicon waveguides and microring resonators are demonstrated. As a result, intrinsically compact and energy&#8208;efficient switching units operated with low driving voltages, near&#8208;zero additional loss, and reversible switching with high endurance are obtained in a complementary metal&#8208;oxide&#8208;semiconductor (CMOS)&#8208;compatible process. This work can potentially enable very large&#8208;scale CMOS&#8208;integrated programmable electronic&#8211;photonic systems such as optical neural networks and general&#8208;purpose integrated photonic processors.
-</dc:description>
-      <dc:creator>
-Jiajiu Zheng, 
-Zhuoran Fang, 
-Changming Wu, 
-Shifeng Zhu, 
-Peipeng Xu, 
-Jonathan K. Doylend, 
-Sanchit Deshmukh, 
-Eric Pop, 
-Scott Dunham, 
-Mo Li, 
-Arka Majumdar
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001218?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/bbf06e99-8ccc-405d-b29a-5acba7b34785/adma202001218-gra-0001-m.png"
-     alt="Nonvolatile Electrically Reconfigurable Integrated Photonic Switch Enabled by a Silicon PIN Diode Heater"/&gt;
-&lt;p&gt;Nonvolatile electrically reconfigurable photonic switches based on phase&#8208;change material&#8208;clad silicon waveguides and microring resonators are demonstrated via in situ silicon PIN diode heaters. Low&#8208;energy, compact, low&#8208;loss, low&#8208;voltage, and high&#8208;cyclability operations at moderate speeds are obtained in a complementary metal&#8208;oxide&#8208;semiconductor&#8208;compatible process, promising very large&#8208;scale programmable electronic&#8211;photonic systems such as optical neural networks and general&#8208;purpose integrated photonic processors.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Reconfigurability of photonic integrated circuits (PICs) has become increasingly important due to the growing demands for electronic&#8211;photonic systems on a chip driven by emerging applications, including neuromorphic computing, quantum information, and microwave photonics. Success in these fields usually requires highly scalable photonic switching units as essential building blocks. Current photonic switches, however, mainly rely on materials with weak, volatile thermo&#8208;optic or electro&#8208;optic modulation effects, resulting in large footprints and high energy consumption. As a promising alternative, chalcogenide phase&#8208;change materials (PCMs) exhibit strong optical modulation in a static, self&#8208;holding fashion, but the scalability of present PCM&#8208;integrated photonic applications is still limited by the poor optical or electrical actuation approaches. Here, with phase transitions actuated by in situ silicon PIN diode heaters, scalable nonvolatile electrically reconfigurable photonic switches using PCM&#8208;clad silicon waveguides and microring resonators are demonstrated. As a result, intrinsically compact and energy&#8208;efficient switching units operated with low driving voltages, near&#8208;zero additional loss, and reversible switching with high endurance are obtained in a complementary metal&#8208;oxide&#8208;semiconductor (CMOS)&#8208;compatible process. This work can potentially enable very large&#8208;scale CMOS&#8208;integrated programmable electronic&#8211;photonic systems such as optical neural networks and general&#8208;purpose integrated photonic processors.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Nonvolatile Electrically Reconfigurable Integrated Photonic Switch Enabled by a Silicon PIN Diode Heater</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001218</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-26T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001218</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001218?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002297?af=R">
-      <title>Boosting Neutral Water Oxidation through Surface Oxygen Modulation</title>
-      <dc:description>
-A novel design of efficient neutral oxygen evolution reaction catalyst is demonstrated by incorporating hydrated metal cations (Ca2+) into Ru&#8211;Ir binary oxide. The obtained Ru&#8211;Ir&#8211;Ca oxide catalyst on glassy carbon electrode achieves 10 mA cm&#8722;2 at a low overpotential of 250 mV, and its turnover frequency is about 2&#8208;, 7&#8208;, and 45&#8208;times higher than those of Ru&#8211;Ir oxide, RuO2, and IrO2 catalysts, respectively.
-
-
-
-
-
-
-
-
-Abstract
-Developing efficient electrocatalysts for oxygen evolution reaction (OER) in pH&#8208;neutral electrolyte is crucial for microbial electrolysis cells and electrochemical CO2 reduction. Unfortunately, the OER kinetics in neutral electrolyte is sluggish due to the low concentration of adsorbed reactants, with overpotentials of neutral OER at present much higher than that in acidic or alkaline electrolyte. Here, hydrated metal cations (Ca2+) are sought to be incorporated into the state&#8208;of&#8208;the&#8208;art Ru&#8211;Ir binary oxide to tailor the surface oxygen environments (lattice&#8208;oxygen and adsorbed oxygen species) for efficient neutral OER. Using a sol&#8211;gel method, ternary Ru&#8211;Ir&#8211;Ca oxides are synthesized in atomically homogenous manner, and the obtained catalyst on glassy carbon electrode achieves 10 mA cm&#8722;2 at a low overpotential of 250 mV, with no degradation for 200 h of operation. In situ X&#8208;ray absorption spectroscopy, in situ 18O isotope&#8208;labeling differential electrochemical mass spectrometry, and 18O isotope&#8208;labeling secondary ion mass spectroscopy studies are carried out. The results reveal that incorporation of Ca2+ can enhance the covalency of metal&#8211;oxygen bonds and the electrophilic nature of surface metal&#8208;bonded oxygen sites; and simultaneously facilitate the adsorption of water molecules on catalyst surface, which accelerates the lattice&#8208;oxygen&#8208;involved reaction, thus improving the overall OER performance of RuIrCaOx catalyst.
-</dc:description>
-      <dc:creator>
-Longsheng Zhang, 
-Liping Wang, 
-Yunzhou Wen, 
-Fenglou Ni, 
-Bo Zhang, 
-Huisheng Peng
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002297?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/311fe027-bab7-46a2-82e8-5167a4cadb6f/adma202002297-gra-0001-m.png"
-     alt="Boosting Neutral Water Oxidation through Surface Oxygen Modulation"/&gt;
-&lt;p&gt;A novel design of efficient neutral oxygen evolution reaction catalyst is demonstrated by incorporating hydrated metal cations (Ca&lt;sup&gt;2+&lt;/sup&gt;) into Ru&#8211;Ir binary oxide. The obtained Ru&#8211;Ir&#8211;Ca oxide catalyst on glassy carbon electrode achieves 10 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; at a low overpotential of 250 mV, and its turnover frequency is about 2&#8208;, 7&#8208;, and 45&#8208;times higher than those of Ru&#8211;Ir oxide, RuO&lt;sub&gt;2&lt;/sub&gt;, and IrO&lt;sub&gt;2&lt;/sub&gt; catalysts, respectively.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Developing efficient electrocatalysts for oxygen evolution reaction (OER) in pH&#8208;neutral electrolyte is crucial for microbial electrolysis cells and electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction. Unfortunately, the OER kinetics in neutral electrolyte is sluggish due to the low concentration of adsorbed reactants, with overpotentials of neutral OER at present much higher than that in acidic or alkaline electrolyte. Here, hydrated metal cations (Ca&lt;sup&gt;2+&lt;/sup&gt;) are sought to be incorporated into the state&#8208;of&#8208;the&#8208;art Ru&#8211;Ir binary oxide to tailor the surface oxygen environments (lattice&#8208;oxygen and adsorbed oxygen species) for efficient neutral OER. Using a sol&#8211;gel method, ternary Ru&#8211;Ir&#8211;Ca oxides are synthesized in atomically homogenous manner, and the obtained catalyst on glassy carbon electrode achieves 10 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; at a low overpotential of 250 mV, with no degradation for 200 h of operation. In situ X&#8208;ray absorption spectroscopy, in situ &lt;sup&gt;18&lt;/sup&gt;O isotope&#8208;labeling differential electrochemical mass spectrometry, and &lt;sup&gt;18&lt;/sup&gt;O isotope&#8208;labeling secondary ion mass spectroscopy studies are carried out. The results reveal that incorporation of Ca&lt;sup&gt;2+&lt;/sup&gt; can enhance the covalency of metal&#8211;oxygen bonds and the electrophilic nature of surface metal&#8208;bonded oxygen sites; and simultaneously facilitate the adsorption of water molecules on catalyst surface, which accelerates the lattice&#8208;oxygen&#8208;involved reaction, thus improving the overall OER performance of RuIrCaO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt; 
-&lt;/i&gt; catalyst.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Boosting Neutral Water Oxidation through Surface Oxygen Modulation</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002297</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-25T07:36:15-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002297</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002297?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002717?af=R">
-      <title>High&#8208;Performance and Reliable Lead&#8208;Free Layered&#8208;Perovskite Transistors</title>
-      <dc:description>
-Universal approaches for high&#8208;performance and reliable p&#8208;channel lead&#8208;free phenethylammonium tin iodide perovskite&#8208;based transistors are developed, including self&#8208;passivation for grain boundary by excess phenethylammonium iodide, crystallization control by adduct, and iodide vacancy passivation through oxygen treatment. The first complementary inverter is also demonstrated combined with n&#8208;channel indium gallium zinc oxide transistors.
-
-
-
-
-
-
-
-
-Abstract
-Perovskites have been intensively investigated for their use in solar cells and light&#8208;emitting diodes. However, research on their applications in thin&#8208;film transistors (TFTs) has drawn less attention despite their high intrinsic charge carrier mobility. In this study, the universal approaches for high&#8208;performance and reliable p&#8208;channel lead&#8208;free phenethylammonium tin iodide TFTs are reported. These include self&#8208;passivation for grain boundary by excess phenethylammonium iodide, grain crystallization control by adduct, and iodide vacancy passivation through oxygen treatment. It is found that the grain boundary passivation can increase TFT reproducibility and reliability, and the grain size enlargement can hike the TFT performance, thus, enabling the first perovskite&#8208;based complementary inverter demonstration with n&#8208;channel indium gallium zinc oxide TFTs. The inverter exhibits a high gain over 30 with an excellent noise margin. This work aims to provide widely applicable and repeatable methods to make the gate more open for intensive efforts toward high&#8208;performance printed perovskite TFTs.
-</dc:description>
-      <dc:creator>
-Huihui Zhu, 
-Ao Liu, 
-Kyu In Shim, 
-Jisu Hong, 
-Jeong Woo Han, 
-Yong&#8208;Young Noh
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002717?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8959621c-ac56-4b85-a4c3-af1962e71048/adma202002717-gra-0001-m.png"
-     alt="High&#8208;Performance and Reliable Lead&#8208;Free Layered&#8208;Perovskite Transistors"/&gt;
-&lt;p&gt;Universal approaches for high&#8208;performance and reliable p&#8208;channel lead&#8208;free phenethylammonium tin iodide perovskite&#8208;based transistors are developed, including self&#8208;passivation for grain boundary by excess phenethylammonium iodide, crystallization control by adduct, and iodide vacancy passivation through oxygen treatment. The first complementary inverter is also demonstrated combined with n&#8208;channel indium gallium zinc oxide transistors.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Perovskites have been intensively investigated for their use in solar cells and light&#8208;emitting diodes. However, research on their applications in thin&#8208;film transistors (TFTs) has drawn less attention despite their high intrinsic charge carrier mobility. In this study, the universal approaches for high&#8208;performance and reliable p&#8208;channel lead&#8208;free phenethylammonium tin iodide TFTs are reported. These include self&#8208;passivation for grain boundary by excess phenethylammonium iodide, grain crystallization control by adduct, and iodide vacancy passivation through oxygen treatment. It is found that the grain boundary passivation can increase TFT reproducibility and reliability, and the grain size enlargement can hike the TFT performance, thus, enabling the first perovskite&#8208;based complementary inverter demonstration with n&#8208;channel indium gallium zinc oxide TFTs. The inverter exhibits a high gain over 30 with an excellent noise margin. This work aims to provide widely applicable and repeatable methods to make the gate more open for intensive efforts toward high&#8208;performance printed perovskite TFTs.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>High&#8208;Performance and Reliable Lead&#8208;Free Layered&#8208;Perovskite Transistors</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002717</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-25T07:31:07-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002717</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002717?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002080?af=R">
-      <title>Controlling Enamel Remineralization by Amyloid&#8208;Like Amelogenin Mimics</title>
-      <dc:description>
-The amyloid&#8208;like proteinaceous nanofilm entrapping peptide can mimic amelogenin matrix in nature, mediating the oriented array of amorphous calcium phosphate nanoparticles and their transformation to ordered enamel&#8208;like hydroxyapatite (HAp) crystals. This technology can reproduce the growth of ordered HAp crystals, with the nearly identical mechanical strength to natural enamel, thus providing a promising strategy for treating dental caries.
-
-
-
-
-
-
-
-
-Abstract
-In situ regeneration of the enamel&#8208;like structure of hydroxyapatite (HAp) crystals under oral conditions is significant for dental caries treatment. However, it is still a challenge for dentists to duplicate the elegant and well&#8208;aligned apatite structure bonding to the surface of demineralized enamel. A biocompatible amelogenin&#8208;inspired matrix, a phasetransited lysozyme (PTL) film mimicking an N&#8208;terminal amelogenin with central domain (N&#8208;Ame) combined with synthetic peptide (C&#8208;AMG) based on the functional domains of C&#8208;terminal telopeptide (C&#8208;Ame) is shown here, which is formed by amyloid&#8208;like lysozyme aggregation at the enamel interface through a rapid one&#8208;step aqueous coating process. In the PTL/C&#8208;AMG matrix, C&#8208;AMG facilitated the oriented arrangement of amorphous calcium phosphate (ACP) nanoparticles and their transformation to ordered enamel&#8208;like HAp crystals, while PTL served as a strong interfacial anchor to immobilize the C&#8208;AMG peptide and PTL/C&#8208;AMG matrix on versatile substrate surfaces. PTL/C&#8208;AMG film&#8208;coated enamel induced both of the in vivo and in vitro synthesis of HAp crystals, facilitated epitaxial growth of HAp crystals and recovered the highly oriented structure and mechanical properties to levels nearly identical to those of natural enamel. This work underlines the importance of amyloid&#8208;like protein aggregates in the biomineralization of enamel, providing a promising strategy for treating dental caries.
-</dc:description>
-      <dc:creator>
-Dong Wang, 
-Jingjing Deng, 
-Xuliang Deng, 
-Changqing Fang, 
-Xu Zhang, 
-Peng Yang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002080?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/5d61dfa9-f57a-480e-a8da-8ff259fa711b/adma202002080-gra-0001-m.png"
-     alt="Controlling Enamel Remineralization by Amyloid&#8208;Like Amelogenin Mimics"/&gt;
-&lt;p&gt;The amyloid&#8208;like proteinaceous nanofilm entrapping peptide can mimic amelogenin matrix in nature, mediating the oriented array of amorphous calcium phosphate nanoparticles and their transformation to ordered enamel&#8208;like hydroxyapatite (HAp) crystals. This technology can reproduce the growth of ordered HAp crystals, with the nearly identical mechanical strength to natural enamel, thus providing a promising strategy for treating dental caries.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;In situ regeneration of the enamel&#8208;like structure of hydroxyapatite (HAp) crystals under oral conditions is significant for dental caries treatment. However, it is still a challenge for dentists to duplicate the elegant and well&#8208;aligned apatite structure bonding to the surface of demineralized enamel. A biocompatible amelogenin&#8208;inspired matrix, a phasetransited lysozyme (PTL) film mimicking an N&#8208;terminal amelogenin with central domain (N&#8208;Ame) combined with synthetic peptide (C&#8208;AMG) based on the functional domains of C&#8208;terminal telopeptide (C&#8208;Ame) is shown here, which is formed by amyloid&#8208;like lysozyme aggregation at the enamel interface through a rapid one&#8208;step aqueous coating process. In the PTL/C&#8208;AMG matrix, C&#8208;AMG facilitated the oriented arrangement of amorphous calcium phosphate (ACP) nanoparticles and their transformation to ordered enamel&#8208;like HAp crystals, while PTL served as a strong interfacial anchor to immobilize the C&#8208;AMG peptide and PTL/C&#8208;AMG matrix on versatile substrate surfaces. PTL/C&#8208;AMG film&#8208;coated enamel induced both of the in vivo and in vitro synthesis of HAp crystals, facilitated epitaxial growth of HAp crystals and recovered the highly oriented structure and mechanical properties to levels nearly identical to those of natural enamel. This work underlines the importance of amyloid&#8208;like protein aggregates in the biomineralization of enamel, providing a promising strategy for treating dental caries.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Controlling Enamel Remineralization by Amyloid&#8208;Like Amelogenin Mimics</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002080</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-06-25T02:13:21-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002080</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002080?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
