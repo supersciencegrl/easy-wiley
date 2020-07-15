@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002227?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003185?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003239?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001979?af=R" />
@@ -158,7 +159,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002803?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002977?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001502?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002575?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -167,6 +167,31 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202002227?af=R">
+      <title>Self&#8208;Assembly Behavior of Diacetylenic Acid Molecules upon Vapor Deposition: Odd&#8208;Even Effect on the Film Morphology</title>
+      <dc:description>A series of linear carboxylic acids containing diacetylenic unit at different positions along the chain (C  12  H  25  (C&#8801;C)  2  (CH  2  )  n  COOH, n = 7&#8208;11) were vacuum&#8208;deposited on clean silicon substrate. Morphologies of the initial films after UV&#8208;irradiation were studied. A clear odd&#8208;even effect on the morphology of initial film was observed in that, depending on the spacer length between the diacetylenic unit and carboxyl head group, rings or dendrites of acid dimer layers were obtained. A molecular dynamic simulation of the aggregation process suggests that two competing intermolecular interactions and thus aggregation directions are involved and modulated by the odd or even carbon chain length. Further modulation of the interaction by substitution of a phenyl group at the terminus of the chain or by changing the carboxyl head group to amidobenzoic acid head group led to similar odd&#8208;even effect but of different dimension or trend, which can be rationalized similarly. These results would open the opportunity to create aligned conjugated polymer chains of different dimensions through self&#8208;assembly for applications in molecular/organic electronics.</dc:description>
+      <dc:creator>
+Chiao-Wei Tseng, 
+Ding-Chi Huang, 
+Han-Li Yang, 
+Hsieh-Cheng Lin, 
+Fang-Cheng Li, 
+Chun-Wei Pao, 
+Yu-Tai Tao
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002227?af=R</link>
+      <content:encoded>&lt;p&gt;A series of linear carboxylic acids containing diacetylenic unit at different positions along the chain (C  12  H  25  (C&#8801;C)  2  (CH  2  )  n  COOH, n = 7&#8208;11) were vacuum&#8208;deposited on clean silicon substrate. Morphologies of the initial films after UV&#8208;irradiation were studied. A clear odd&#8208;even effect on the morphology of initial film was observed in that, depending on the spacer length between the diacetylenic unit and carboxyl head group, rings or dendrites of acid dimer layers were obtained. A molecular dynamic simulation of the aggregation process suggests that two competing intermolecular interactions and thus aggregation directions are involved and modulated by the odd or even carbon chain length. Further modulation of the interaction by substitution of a phenyl group at the terminus of the chain or by changing the carboxyl head group to amidobenzoic acid head group led to similar odd&#8208;even effect but of different dimension or trend, which can be rationalized similarly. These results would open the opportunity to create aligned conjugated polymer chains of different dimensions through self&#8208;assembly for applications in molecular/organic electronics.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Self&#8208;Assembly Behavior of Diacetylenic Acid Molecules upon Vapor Deposition: Odd&#8208;Even Effect on the Film Morphology</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002227</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-14T08:23:29-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002227</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002227?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202003185?af=R">
       <title>Ce&#8208;doped ordered mesoporous cobalt ferrite phosphides as a robust catalyst for water oxidation</title>
       <dc:description>Controllable synthesis and rational design of ordered nanostructures are crucial for their renewable energy applications. In this work, a mesoporous CoP/Fe2P doped with 5% Ce via a simple nanocasting method is designed as a superior electrocatalyst for oxygen evolution reaction (OER). The well&#8208;designed composite delivers an efficient electrocatalytic activity with a low overpotential of 250 mV at 10 mA cm&#8208;2 and excellent long&#8208;term stability with no degradation after 10 h electrochemical OER test, even superior to that of the state&#8208;of&#8208;the&#8208;art RuO2 electrocatalyst in alkaline electrolyte. A comprehensive analysis demonstrates that the outstanding OER performance due to the desirable combination of the highly exposed active centers in the Ce doped bimetallic phosphides, efficient mass transfer and effective electron conduction across the hierarchically mesoporous hybridization. Furthermore, the synergistic effect between Ce and CoP/Fe2P accelerates the migration rate of electrons/ions and increases the electrochemical active area. This excellent OER performance observed by Ce doping CoP/Fe2P makes them possible candidates toward OER in alkaline electrolyte.</dc:description>
@@ -1954,32 +1979,5 @@ Kemeng Yuan
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001502?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002575?af=R">
-      <title>Ancillary Ligand Effects on Heteroleptic Ir(III) Dye in Dye&#8208;Sensitized Photocatalytic CO2 Reduction: Photoaccumulation of Charges on Arylated Bipyridine Ligand and Its Control on Catalytic Performance</title>
-      <dc:description>Herein, we report the synthesis, and photochemical and &#8208;physical properties, as well as the catalytic performance, of a series of heteroleptic Ir(III) photosensitizers (IrPSs), [Ir(C^N)  2  (N^N  Aryl  )]  +  , possessing ancillary ligands that are varied with aryl&#8208;substituents on bipyridyl unit [C^N = (2&#8208;pyridyl)benzo[  b  ]thiophen&#8208;3&#8208;yl (btp); N^N  Aryl  = 4,4&#8242;&#8208;Y  2  &#8208;bpy (Y = &#8208;Ph or &#8208;PhSi(Ph)  3  ]. We found that the  &#960;  &#8210;extension of bipyridyl ligand by aryl&#8210;substitution put bipyridyl ligand in use as an electron relay unit that performed charge accumulation before delivering to the catalytic center, greatly improving the overall CO  2  &#8208;to&#8208;CO conversion activities. In a typical run, the aryl&#8210;substituted IrPS (  t  Bu  IrP&#8208;Ph  Si  )&#8208;sensitized homogeneous systems (IrPS + Re(I) catalyst) gave a turnover number of 1340 (&#934;  CO  = 24.2%) at the early stage of photolysis (&lt;5 h). This study demonstrates that the  &#960;  &#8210;character modulation on the ancillary bipyridyl ligand is critical for forthcoming catalytic performance.</dc:description>
-      <dc:creator>
-Ju Hyung Jo, 
-Sunghan Choi, 
-Ha-Yeon Cheong, 
-Jae Yoon Shin, 
-Chul Hoon Kim, 
-Dae Won Cho, 
-Ho-Jin Son, 
-Chyongjin Pac, 
-Sang Ook Kang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002575?af=R</link>
-      <content:encoded>&lt;p&gt;Herein, we report the synthesis, and photochemical and &#8208;physical properties, as well as the catalytic performance, of a series of heteroleptic Ir(III) photosensitizers (IrPSs), [Ir(C^N)  2  (N^N  Aryl  )]  +  , possessing ancillary ligands that are varied with aryl&#8208;substituents on bipyridyl unit [C^N = (2&#8208;pyridyl)benzo[  b  ]thiophen&#8208;3&#8208;yl (btp); N^N  Aryl  = 4,4&#8242;&#8208;Y  2  &#8208;bpy (Y = &#8208;Ph or &#8208;PhSi(Ph)  3  ]. We found that the  &#960;  &#8210;extension of bipyridyl ligand by aryl&#8210;substitution put bipyridyl ligand in use as an electron relay unit that performed charge accumulation before delivering to the catalytic center, greatly improving the overall CO  2  &#8208;to&#8208;CO conversion activities. In a typical run, the aryl&#8210;substituted IrPS (  t  Bu  IrP&#8208;Ph  Si  )&#8208;sensitized homogeneous systems (IrPS + Re(I) catalyst) gave a turnover number of 1340 (&#934;  CO  = 24.2%) at the early stage of photolysis (&amp;lt;5 h). This study demonstrates that the  &#960;  &#8210;character modulation on the ancillary bipyridyl ligand is critical for forthcoming catalytic performance.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Ancillary Ligand Effects on Heteroleptic Ir(III) Dye in Dye&#8208;Sensitized Photocatalytic CO2 Reduction: Photoaccumulation of Charges on Arylated Bipyridine Ligand and Its Control on Catalytic Performance</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002575</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-05T08:08:38-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002575</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002575?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
