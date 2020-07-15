@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002661?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002165?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002435?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002525?af=R" />
@@ -171,7 +172,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201905653?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201903937?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000449?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002292?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -180,6 +180,49 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002661?af=R">
+      <title>Photoactivatable Protherapeutic Nanomedicine for Cancer</title>
+      <dc:description>
+The recent progress of photoactivatable protherapeutic nanoagents in cancer therapy is reviewed. Protherapeutic nanoagents are defined to have the ability to respond to light, reactive oxygen species, or heat modulated by nanotransducers upon light irradiation, and subsequently activate the pharmaceutical actions. Such an in situ activation mechanism holds the potential to enhance therapeutic efficacy while reducing systemic toxicity of nanomedicines.
+
+
+
+
+
+
+
+
+Abstract
+Therapeutic systems with site&#8208;specific pharmaceutical activation hold great promise to enhance therapeutic efficacy while reducing systemic toxicity in cancer therapy. With operational flexibility, noninvasiveness, and high spatiotemporal resolution, photoactivatable nanomedicines have drawn growing attention. Distinct from traditional controlled release systems relying on the difference of biomarker concentrations between disease and healthy tissues, photoactivatable nanomedicines capitalize on the interaction between nanotransducers and light to either trigger photochemical reactions or generate reactive oxygen species (ROS) or heat effect to remotely induce pharmaceutical actions in living subjects. Herein, the recent advances in the development of photoactivatable protherapeutic nanoagents for oncology are summarized. The design strategies and therapeutic applications of these nanoagents are described. Representative examples of each type are discussed in terms of structure, photoactivation mechanism, and preclinical models. Last, potential challenges and perspectives to further develop photoactivatable protherapeutic nanoagents in cancer nanomedicine are discussed.
+</dc:description>
+      <dc:creator>
+Yan Zhang, 
+Cheng Xu, 
+Xiangliang Yang, 
+Kanyi Pu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002661?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/91ee80c3-37bb-450d-963f-69eb20421760/adma202002661-gra-0001-m.png"
+     alt="Photoactivatable Protherapeutic Nanomedicine for Cancer"/&gt;
+&lt;p&gt;The recent progress of photoactivatable protherapeutic nanoagents in cancer therapy is reviewed. Protherapeutic nanoagents are defined to have the ability to respond to light, reactive oxygen species, or heat modulated by nanotransducers upon light irradiation, and subsequently activate the pharmaceutical actions. Such an in situ activation mechanism holds the potential to enhance therapeutic efficacy while reducing systemic toxicity of nanomedicines.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Therapeutic systems with site&#8208;specific pharmaceutical activation hold great promise to enhance therapeutic efficacy while reducing systemic toxicity in cancer therapy. With operational flexibility, noninvasiveness, and high spatiotemporal resolution, photoactivatable nanomedicines have drawn growing attention. Distinct from traditional controlled release systems relying on the difference of biomarker concentrations between disease and healthy tissues, photoactivatable nanomedicines capitalize on the interaction between nanotransducers and light to either trigger photochemical reactions or generate reactive oxygen species (ROS) or heat effect to remotely induce pharmaceutical actions in living subjects. Herein, the recent advances in the development of photoactivatable protherapeutic nanoagents for oncology are summarized. The design strategies and therapeutic applications of these nanoagents are described. Representative examples of each type are discussed in terms of structure, photoactivation mechanism, and preclinical models. Last, potential challenges and perspectives to further develop photoactivatable protherapeutic nanoagents in cancer nanomedicine are discussed.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Photoactivatable Protherapeutic Nanomedicine for Cancer</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002661</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-15T06:25:25-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002661</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002661?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002165?af=R">
       <title>Ultrathin Low&#8208;Crystallinity MOF Membranes Fabricated by Interface Layer Polarization Induction</title>
       <dc:description>
@@ -5091,59 +5134,6 @@ Wanli Ma
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202000449</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202000449?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002292?af=R">
-      <title>An Iron&#8208;Decorated Carbon Aerogel for Rechargeable Flow and Flexible Zn&#8211;Air Batteries</title>
-      <dc:description>
-The designed strategy of a mechanically integrated air electrode, realized by directional freeze&#8208;casting, generates a 3D honeycomb nanostructured Fe&#8208;decorated carbon aerogel with satisfactory mechanical stability and gas/electrolyte diffusion channels. Such an integrated monolith with superb bifunctional electrocatalytic activity shows a remarkable performance as the free&#8208;standing air cathode in a flow Zn&#8211;air battery (ZAB) and flexible solid&#8208;state ZAB.
-
-
-
-
-
-
-
-
-Abstract
-Mechanically stable and foldable air cathodes with exceptional oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) activities are key components of wearable metal&#8211;air batteries. Herein, a directional freeze&#8208;casting and annealing approach is reported for the construction of a 3D honeycomb nanostructured, N,P&#8208;doped carbon aerogel incorporating in situ grown FeP/Fe2O3 nanoparticles as the cathode in a flexible Zn&#8211;air battery (ZAB). The aqueous rechargeable Zn&#8211;air batteries assembled with this carbon aerogel exhibit a remarkable specific capacity of 648 mAh g&#8722;1 at a current density of 20&#160;mA cm&#8722;2 with a good long&#8208;term durability, outperforming those assembled with commercial Pt/C+RuO2 catalyst. Furthermore, such a foldable carbon aerogel with directional channels can serve as a freestanding air cathode for flexible solid&#8208;state Zn&#8211;air batteries without the use of carbon paper/cloth and additives, giving a specific capacity of 676&#160;mAh g&#8722;1 and an energy density of 517 Wh kg&#8722;1 at 5&#160;mA cm&#8722;2 together with good cycling stability. This work offers a new strategy to design and synthesize highly effective bifunctional air cathodes to be applied in electrochemical energy devices.
-</dc:description>
-      <dc:creator>
-Kunze Wu, 
-Lei Zhang, 
-Yifei Yuan, 
-Linxin Zhong, 
-Zhongxin Chen, 
-Xiao Chi, 
-Hao Lu, 
-Zehong Chen, 
-Ren Zou, 
-Tingzhen Li, 
-Chengyu Jiang, 
-Yongkang Chen, 
-Xinwen Peng, 
-Jun Lu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002292?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/fbd35ef9-83b8-4a9c-ad70-8a406d78659a/adma202002292-gra-0001-m.png"
-     alt="An Iron&#8208;Decorated Carbon Aerogel for Rechargeable Flow and Flexible Zn&#8211;Air Batteries"/&gt;
-&lt;p&gt;The designed strategy of a mechanically integrated air electrode, realized by directional freeze&#8208;casting, generates a 3D honeycomb nanostructured Fe&#8208;decorated carbon aerogel with satisfactory mechanical stability and gas/electrolyte diffusion channels. Such an integrated monolith with superb bifunctional electrocatalytic activity shows a remarkable performance as the free&#8208;standing air cathode in a flow Zn&#8211;air battery (ZAB) and flexible solid&#8208;state ZAB.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Mechanically stable and foldable air cathodes with exceptional oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) activities are key components of wearable metal&#8211;air batteries. Herein, a directional freeze&#8208;casting and annealing approach is reported for the construction of a 3D honeycomb nanostructured, N,P&#8208;doped carbon aerogel incorporating in situ grown FeP/Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; nanoparticles as the cathode in a flexible Zn&#8211;air battery (ZAB). The aqueous rechargeable Zn&#8211;air batteries assembled with this carbon aerogel exhibit a remarkable specific capacity of 648 mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; at a current density of 20&#160;mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; with a good long&#8208;term durability, outperforming those assembled with commercial Pt/C+RuO&lt;sub&gt;2&lt;/sub&gt; catalyst. Furthermore, such a foldable carbon aerogel with directional channels can serve as a freestanding air cathode for flexible solid&#8208;state Zn&#8211;air batteries without the use of carbon paper/cloth and additives, giving a specific capacity of 676&#160;mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; and an energy density of 517 Wh kg&lt;sup&gt;&#8722;1&lt;/sup&gt; at 5&#160;mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; together with good cycling stability. This work offers a new strategy to design and synthesize highly effective bifunctional air cathodes to be applied in electrochemical energy devices.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>An Iron&#8208;Decorated Carbon Aerogel for Rechargeable Flow and Flexible Zn&#8211;Air Batteries</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002292</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-07-01T12:00:00-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002292</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002292?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
