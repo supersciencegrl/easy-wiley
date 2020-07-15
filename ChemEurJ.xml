@@ -9,6 +9,8 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002528?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002637?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002573?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002765?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002822?af=R" />
@@ -157,8 +159,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002678?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002123?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002142?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002675?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002640?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -167,6 +167,55 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202002528?af=R">
+      <title>Parahydrogen&#8208;Induced Polarization of Diethyl Ether Anesthetic</title>
+      <dc:description>The growing interest in magnetic resonance imaging (MRI) for assessing regional lung function relies on the use of nuclear&#8208;spin hyperpolarized gas as a contrast agent. The long gas&#8208;phase lifetimes of hyperpolarized 129Xe make this inhalable contrast agent acceptable for clinical research today despite limitations such as high cost, low throughput of production and challenges of 129Xe imaging on clinical MRI scanners, which are normally equipped with proton detection only. We report on low&#8208;cost and high&#8208;throughput preparation of proton&#8208;hyperpolarized diethyl ether, which can be potentially employed for pulmonary imaging with a non&#8208;toxic, simple, and sensitive overall strategy using proton detection commonly available on all clinical MRI scanners. Diethyl ether is hyperpolarized by pairwise parahydrogen addition to vinyl ethyl ether and characterized by 1H NMR spectroscopy. Proton polarization levels exceeding 8% are achieved at near complete chemical conversion within seconds, causing the activation of radio amplification by stimulated emission radiation (RASER) throughout detection. Although gas&#8208;phase T1 relaxation of hyperpolarized diethyl ether (at partial pressure of 0.5 bar) is very efficient with T1 of ca. 1.2 second, we demonstrate that at low magnetic fields, the use of long&#8208;lived singlet states created via pairwise parahydrogen addition extends the relaxation decay by approximately 3&#8208;fold, paving the way to bioimaging applications and beyond.</dc:description>
+      <dc:creator>
+Nuwandi  M. Ariyasingha, 
+Baptiste Joalland, 
+Hassan  R. Younes, 
+Oleg  G. Salnikov, 
+Nikita  V. Chukanov, 
+Kirill  V. Kovtunov, 
+Larisa  M. Kovtunova, 
+Valerii  I. Bukhtiyarov, 
+Igor  V. Koptyug, 
+Juri  G. Gelovani, 
+Eduard  Y Chekmenev
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002528?af=R</link>
+      <content:encoded>&lt;p&gt;The growing interest in magnetic resonance imaging (MRI) for assessing regional lung function relies on the use of nuclear&#8208;spin hyperpolarized gas as a contrast agent. The long gas&#8208;phase lifetimes of hyperpolarized 129Xe make this inhalable contrast agent acceptable for clinical research today despite limitations such as high cost, low throughput of production and challenges of 129Xe imaging on clinical MRI scanners, which are normally equipped with proton detection only. We report on low&#8208;cost and high&#8208;throughput preparation of proton&#8208;hyperpolarized diethyl ether, which can be potentially employed for pulmonary imaging with a non&#8208;toxic, simple, and sensitive overall strategy using proton detection commonly available on all clinical MRI scanners. Diethyl ether is hyperpolarized by pairwise parahydrogen addition to vinyl ethyl ether and characterized by 1H NMR spectroscopy. Proton polarization levels exceeding 8% are achieved at near complete chemical conversion within seconds, causing the activation of radio amplification by stimulated emission radiation (RASER) throughout detection. Although gas&#8208;phase T1 relaxation of hyperpolarized diethyl ether (at partial pressure of 0.5 bar) is very efficient with T1 of ca. 1.2 second, we demonstrate that at low magnetic fields, the use of long&#8208;lived singlet states created via pairwise parahydrogen addition extends the relaxation decay by approximately 3&#8208;fold, paving the way to bioimaging applications and beyond.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Parahydrogen&#8208;Induced Polarization of Diethyl Ether Anesthetic</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002528</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-15T08:58:25-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002528</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002528?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002637?af=R">
+      <title>N,N&#8208;Diacylaminals as Emerging Tools in Synthesis: From Peptidomimetics to Asymmetric Catalysis</title>
+      <dc:description>N,N  &#8208;diacylaminals are flexible molecular scaffolds which have commonly been utilized as amide surrogates in peptidomimetics. The singularities of this motif as  N  &#8208;acyl imine equivalent and as H&#8208;bond donor have recently opened new synthetic opportunities, specially in the field of asymmetric catalysis. This concept article highlights this diverse synthetic potential and provides the elements necessary for further developments.</dc:description>
+      <dc:creator>
+Rosa Lopez, 
+Claudio Palomo
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002637?af=R</link>
+      <content:encoded>&lt;p&gt;N,N  &#8208;diacylaminals are flexible molecular scaffolds which have commonly been utilized as amide surrogates in peptidomimetics. The singularities of this motif as  N  &#8208;acyl imine equivalent and as H&#8208;bond donor have recently opened new synthetic opportunities, specially in the field of asymmetric catalysis. This concept article highlights this diverse synthetic potential and provides the elements necessary for further developments.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>N,N&#8208;Diacylaminals as Emerging Tools in Synthesis: From Peptidomimetics to Asymmetric Catalysis</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002637</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-15T06:53:58-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002637</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002637?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Concept</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002573?af=R">
       <title>Functionalization of Heterocycles Through 1,2&#8208;Metallate Rearrangement of Boron Ate Complex</title>
       <dc:description>&lt;div class="abstract"&gt; &lt;p&gt; &lt;div&gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;p&amp;gt; &amp;lt;div&amp;gt;&amp;lt;div class="abstract"&amp;gt; &amp;lt;div&amp;gt;&amp;lt;p&amp;gt;: Over the last decade 1,2&#8208;metallate rearrangement of boron ate complex has been dominated the literature of organoboron chemistry for the construction of very important C&#8208;C and C&#8208;Boron bonds. Due to the coordinative unsaturation nature of boron atom a nucleophile can attack on boron center for the formation of boron ate complex, which triggers 1,2&#8208;migration under electrophilic activation at the &amp;amp;alpha;&#8208;carbon. Apart from using stochiometric electrophilc activating reagents several catalytic methods using transtion metal in presence or absance of light has been reported. The 1,2&#8208;migration of boron ate complex allows synthesis of several different classes of racemic and chiral compounds including a wide range of substituted heterocycles. Synthesis of chiral &amp;amp;amp; achiral substituted heteroaryls using 1,2metallate rearrangement of boron ate complex has been extensively reported by several groups due to its preveleance in medicinal chemistry. This minireview highlights the methods known till date for the synthesis of heteroaryls using 1,2&#8208;migration of boronate complex in a chronological manner.&amp;amp;nbsp;&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt; &amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt;&lt;/div&gt; &lt;/p&gt; &lt;/div&gt;</dc:description>
@@ -1904,52 +1953,5 @@ Nicoletta Depalo
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002142?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002675?af=R">
-      <title>Engineering Boron Hot Spots for the Site&#8208;Selective Installation of Iminoboronates on Peptide Chains</title>
-      <dc:description>Boronic acids (BAs) are a promising bioconjugation function to design dynamic materials as they can establish reversible covalent bonds with oxygen/nitrogen nucleophiles that respond to different pH, ROS, carbohydrates and glutathione levels. However, the dynamic nature of these bonds also limits the control over the stability and site&#8208;selectivity of the bioconjugation, which ultimately leads to heterogeneous conjugates with poor stability under physiological conditions. Here we disclose a new strategy to install BAs on peptide chains. In this study, a &#8220;Boron Hot Spot&#8221; based on the 3&#8208;hydroxyquinolin&#8208;2(1H)&#8208;one scaffold was developed and upon installation on a peptide N&#8208;terminal cysteine, enables the site&#8208;selective formation of iminoboronates with 2&#8208;formyl&#8208;phenyl boronic acids (Ka of 58128 &#177; 2 M&#8208;1). The reaction is selective in the presence of competing lysine &#949;&#8208;amino groups, and the resulting iminoboronates, displayed improved stability in buffers solutions and a cleavable profile in the presence of glutathione. Once developed, the methodology was used to prepare cleavable fluorescent conjugates with a laminin fragment, which enabled the validation of the 67LR receptor as a target to deliver cargo to cancer HT29 cells.</dc:description>
-      <dc:creator>
-Roberto Russo, 
-Rita Padanha, 
-F&#225;bio Fernandes, 
-Luis Veiros, 
-Francisco Corzana, 
-Pedro  Miguel pimenta Gois
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002675?af=R</link>
-      <content:encoded>&lt;p&gt;Boronic acids (BAs) are a promising bioconjugation function to design dynamic materials as they can establish reversible covalent bonds with oxygen/nitrogen nucleophiles that respond to different pH, ROS, carbohydrates and glutathione levels. However, the dynamic nature of these bonds also limits the control over the stability and site&#8208;selectivity of the bioconjugation, which ultimately leads to heterogeneous conjugates with poor stability under physiological conditions. Here we disclose a new strategy to install BAs on peptide chains. In this study, a &#8220;Boron Hot Spot&#8221; based on the 3&#8208;hydroxyquinolin&#8208;2(1H)&#8208;one scaffold was developed and upon installation on a peptide N&#8208;terminal cysteine, enables the site&#8208;selective formation of iminoboronates with 2&#8208;formyl&#8208;phenyl boronic acids (Ka of 58128 &#177; 2 M&#8208;1). The reaction is selective in the presence of competing lysine &#949;&#8208;amino groups, and the resulting iminoboronates, displayed improved stability in buffers solutions and a cleavable profile in the presence of glutathione. Once developed, the methodology was used to prepare cleavable fluorescent conjugates with a laminin fragment, which enabled the validation of the 67LR receptor as a target to deliver cargo to cancer HT29 cells.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Engineering Boron Hot Spots for the Site&#8208;Selective Installation of Iminoboronates on Peptide Chains</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002675</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-06T02:12:39-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002675</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002675?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002640?af=R">
-      <title>Multi&#8208;Functional Features of Organic Charge&#8208;Transfer Complexes: Advances and Perspectives</title>
-      <dc:description>The recent progress of charge&#8208;transfer complexes (CTCs) to be applied in many fields, such as charge transporting, light emitting, nonlinear optics, photoelectric conversion, and external stimuli response, guarantees them as promising candidates for practical utility in pharmaceuticals, electronics, photonics, luminescence, sensors, molecular electronics and so on. Multi&#8208;component CTCs s have been gradually designed and prepared as novel organic active semiconductors with ideal performance and stability compared to single components. In this review, we mainly focus on the recently reported development of various charge&#8208;transfer complexes and their various performances including field&#8208;effect transistors, light&#8208;emitting devices, lasers, sensors, and stimuli&#8208;responsive behaviors.</dc:description>
-      <dc:creator>
-Qichun Zhang, 
-Wei Wang, 
-Lixing Luo, 
-Peng Sheng, 
-Jing Zhang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002640?af=R</link>
-      <content:encoded>&lt;p&gt;The recent progress of charge&#8208;transfer complexes (CTCs) to be applied in many fields, such as charge transporting, light emitting, nonlinear optics, photoelectric conversion, and external stimuli response, guarantees them as promising candidates for practical utility in pharmaceuticals, electronics, photonics, luminescence, sensors, molecular electronics and so on. Multi&#8208;component CTCs s have been gradually designed and prepared as novel organic active semiconductors with ideal performance and stability compared to single components. In this review, we mainly focus on the recently reported development of various charge&#8208;transfer complexes and their various performances including field&#8208;effect transistors, light&#8208;emitting devices, lasers, sensors, and stimuli&#8208;responsive behaviors.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Multi&#8208;Functional Features of Organic Charge&#8208;Transfer Complexes: Advances and Perspectives</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002640</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-06T02:09:59-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002640</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002640?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
 </rdf:RDF>
