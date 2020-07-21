@@ -9,6 +9,14 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000300?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000417?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000481?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000480?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000404?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000280?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000313?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000359?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000305?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000306?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000206?af=R" />
@@ -90,14 +98,12 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000303?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000237?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000176?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000404?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000254?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000194?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000231?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000207?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000212?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000136?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000313?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000204?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000142?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000272?af=R" />
@@ -112,21 +118,13 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000271?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000064?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000197?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000300?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000362?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000205?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000200?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000280?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000214?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000348?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000162?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000105?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000253?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000260?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000341?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000196?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000185?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000213?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000245?af=R" />
          </rdf:Seq>
       </items>
@@ -136,6 +134,125 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000417?af=R">
+      <title>Lanthanide Tagging of Oligonucleotides to Nucleobase for Paramagnetic NMR</title>
+      <dc:description>Although lanthanide tags, which have large anisotropic magnetic susceptibilities, have already been introduced to enrich the NMR parameters by long ranging pseudoconact shifts (PCSs) and residual dipolar couplings (RDCs) of proteins, their application to nucleotides has so far been limited to one previous report, due to the high affinities of lanthanides to the phosphodiester backbone of nucleotides and difficult organic synthesis. Here we report successful attachment of a lanthanide tag to a chemically synthesized oligonucleotide via a disulfide bond. NMR experiments reveal PCSs up to 1 ppm and H&#8208;H RDCs up to 8 Hz at 950 MHz. Although&#160; weaker magnetic alignment was achieved compared to proteins, the paramagnetic data could be fitted to the known structure of the DNA taking the mobility of the tag into account. While further rigidification of the tag is desirable, this tag could also be used to measure heteronuclear RDCs of  13  C,  15  N labeled chemically synthesized DNA and RNA.</dc:description>
+      <dc:creator>
+Sebastian T&#228;ubert, 
+Yong-Hui Zhang, 
+Mitcheell Maestre-Martinez, 
+Florian Siepel, 
+Edith W&#246;ltjen, 
+Andrei Leonov, 
+Christian Griesinger
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000417?af=R</link>
+      <content:encoded>&lt;p&gt;Although lanthanide tags, which have large anisotropic magnetic susceptibilities, have already been introduced to enrich the NMR parameters by long ranging pseudoconact shifts (PCSs) and residual dipolar couplings (RDCs) of proteins, their application to nucleotides has so far been limited to one previous report, due to the high affinities of lanthanides to the phosphodiester backbone of nucleotides and difficult organic synthesis. Here we report successful attachment of a lanthanide tag to a chemically synthesized oligonucleotide via a disulfide bond. NMR experiments reveal PCSs up to 1 ppm and H&#8208;H RDCs up to 8 Hz at 950 MHz. Although&#160; weaker magnetic alignment was achieved compared to proteins, the paramagnetic data could be fitted to the known structure of the DNA taking the mobility of the tag into account. While further rigidification of the tag is desirable, this tag could also be used to measure heteronuclear RDCs of  13  C,  15  N labeled chemically synthesized DNA and RNA.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Lanthanide Tagging of Oligonucleotides to Nucleobase for Paramagnetic NMR</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000417</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-07-20T11:05:34-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000417</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000417?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000481?af=R">
+      <title>Time&#8208;Dependent Cytotoxic Properties of Terpyridine&#8208;Based Copper Complexes</title>
+      <dc:description>
+The cover feature picture shows the progressive activation of terpyridine&#8208;based copper(II) compounds that are not cytotoxic against various cell lines after 24&#8197;h of incubation but become highly efficient after 72&#8197;h of incubation, with IC50 values in the low&#8208;micromolar to nanomolar range. More information can be found in the full paper by A. Caubet, P. Gamez, et&#8197;al.
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Jordi Grau, 
+Amparo Caubet, 
+Olivier Roubeau, 
+David Montpey&#243;, 
+Julia Lorenzo, 
+Patrick Gamez
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000481?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/eb1eb4ad-5376-4ca8-a781-9c0cd4540592/cbic202000481-toc-0001-m.png"
+     alt="Time&#8208;Dependent Cytotoxic Properties of Terpyridine&#8208;Based Copper Complexes"/&gt;
+&lt;p&gt;&lt;b&gt;The cover feature picture shows &lt;/b&gt; the progressive activation of terpyridine&#8208;based copper(II) compounds that are not cytotoxic against various cell lines after 24&#8197;h of incubation but become highly efficient after 72&#8197;h of incubation, with IC&lt;sub&gt;50&lt;/sub&gt; values in the low&#8208;micromolar to nanomolar range. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000154full paper by A. Caubet, P. Gamez, et&#8197;al.&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Time&#8208;Dependent Cytotoxic Properties of Terpyridine&#8208;Based Copper Complexes</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000481</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-07-20T06:53:36-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000481</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000481?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Cover Picture</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000480?af=R">
+      <title>UV&#8208;Induced Charge&#8208;Transfer States in Short Guanosine&#8208;Containing DNA Oligonucleotides</title>
+      <dc:description>
+UV light induces various photochemical reactions in DNA and is a known harm to our genetic material. One important reaction is the formation of charge&#8208;transfer states between stacked nucleobases. In particular, guanine (dG) plays a major role as an electron donor, whose photophysical dynamics in short oligonucleotides have been investigated in detail in this study. The cover illustrates the charge&#8208;transfer state in a guanine&#8211;adenosine dinucleotide, after absorption of UV light. More information can be found in the full paper by D.&#8197;B. Bucher et&#8197;al.
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Corinna L. Kufner, 
+Wolfgang Zinth, 
+Dominik B. Bucher
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000480?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/1fb0a845-e497-452f-a27a-391fd304bba7/cbic202000480-toc-0001-m.png"
+     alt="UV&#8208;Induced Charge&#8208;Transfer States in Short Guanosine&#8208;Containing DNA Oligonucleotides"/&gt;
+&lt;p&gt;&lt;b&gt;UV light induces various photochemical reactions &lt;/b&gt; in DNA and is a known harm to our genetic material. One important reaction is the formation of charge&#8208;transfer states between stacked nucleobases. In particular, guanine (dG) plays a major role as an electron donor, whose photophysical dynamics in short oligonucleotides have been investigated in detail in this study. The cover illustrates the charge&#8208;transfer state in a guanine&#8211;adenosine dinucleotide, after absorption of UV light. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000103full paper by D.&#8197;B. Bucher et&#8197;al.&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>UV&#8208;Induced Charge&#8208;Transfer States in Short Guanosine&#8208;Containing DNA Oligonucleotides</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000480</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-07-20T06:43:37-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000480</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000480?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Cover Picture</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000359?af=R">
+      <title>Distinct mechanisms for processing autophagy protein LC3&#8208;PE by RavZ and ATG4B</title>
+      <dc:description>Autophagy is a conserved catabolic process involved in the elimination of proteins, organelles and pathogens. Lipidated LC3 proteins that are conjugated to phosphatidylethanolamine (PE) play a key role in autophagosome biogenesis. Endogenous ATG4&#8208;mediated deconjugation of LC3&#8208;PE is required for LC3 recycling. However, the  Legionella  effector RavZ irreversibly deconjugates LC3&#8208;PE to inhibit autophagy. It is not clear how ATG4 and RavZ process LC3&#8208;PE with distinct modes. Herein, a series of semi&#8208;synthetic LC3&#8208;PE proteins containing C&#8208;terminal mutations or insertions were used to investigate the relationship of the C&#8208;terminal structure of LC3&#8208;PE with ATG4/RavZ&#8208;mediated deconjugation. Using a combination of molecular docking and biochemical assays, we found that Gln  116  , Phe  119  and Gly  120  of LC3&#8208;PE are required for the cleavage by both RavZ and ATG4B, while Glu  117  (LC3) is specific for the cleavage by RavZ. The molecular ruler mechanism exists in the active site of ATG4B but not in RavZ. Met  63  and Gln  64  at the active site of RavZ are involved in accommodating LC3 C&#8208;terminal motif. Our findings show that the distinct binding modes of LC3 C&#8208;terminal motif (116&#8208;120) with ATG4 and RavZ may determine the specificity of cleavage site.</dc:description>
+      <dc:creator>
+Aimin Yang, 
+Supansa Pantoom, 
+Yaowen Wu
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000359?af=R</link>
+      <content:encoded>&lt;p&gt;Autophagy is a conserved catabolic process involved in the elimination of proteins, organelles and pathogens. Lipidated LC3 proteins that are conjugated to phosphatidylethanolamine (PE) play a key role in autophagosome biogenesis. Endogenous ATG4&#8208;mediated deconjugation of LC3&#8208;PE is required for LC3 recycling. However, the  Legionella  effector RavZ irreversibly deconjugates LC3&#8208;PE to inhibit autophagy. It is not clear how ATG4 and RavZ process LC3&#8208;PE with distinct modes. Herein, a series of semi&#8208;synthetic LC3&#8208;PE proteins containing C&#8208;terminal mutations or insertions were used to investigate the relationship of the C&#8208;terminal structure of LC3&#8208;PE with ATG4/RavZ&#8208;mediated deconjugation. Using a combination of molecular docking and biochemical assays, we found that Gln  116  , Phe  119  and Gly  120  of LC3&#8208;PE are required for the cleavage by both RavZ and ATG4B, while Glu  117  (LC3) is specific for the cleavage by RavZ. The molecular ruler mechanism exists in the active site of ATG4B but not in RavZ. Met  63  and Gln  64  at the active site of RavZ are involved in accommodating LC3 C&#8208;terminal motif. Our findings show that the distinct binding modes of LC3 C&#8208;terminal motif (116&#8208;120) with ATG4 and RavZ may determine the specificity of cleavage site.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Distinct mechanisms for processing autophagy protein LC3&#8208;PE by RavZ and ATG4B</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000359</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-07-20T12:00:00-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000359</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000359?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000305?af=R">
       <title>Methyltransferase contingencies in the pathway of everninomicin D antibiotics and analogs</title>
       <dc:description>Everninomicins are orthoester oligosaccharide antibiotics with potent activity against multidrug&#8208;resistant (MDR) bacterial pathogens. Everninomicins act via disruption of ribosomal assembly in a distinct region in comparison to clinically prescribed drugs. We employed microporous intergeneric conjugation with  Escherichia coli  to manipulate  Micromonospora  for targeted gene&#8208;replacement studies of multiple putative methyltransferases across the octasaccharide scaffold of everninomicin effecting the A1  , C, F, and H&#8208;rings. Analyses of gene&#8208;replacement and genetic complementation mutants established the mutability of the everninomicin scaffold through the generation of twelve previously unreported analogs and, together with previous results, permitted assignment of the ten methyltransferases required for everninomicin biosynthesis. The in vitro activity of A1  &#8208; and H&#8208;ring modifying methyltransferases demonstrated the ability to catalyze late&#8208;stage modification of the scaffold on an A  1  &#8208;ring phenol and H&#8208;ring C&#8208;4&#8217; hydroxyl moiety. Together these results establish the potential of the everninomicin scaffold for modification via mutagenesis and in vitro modification of advanced biosynthetic intermediates.</dc:description>
@@ -3114,27 +3231,6 @@ Helge B. Bode
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000404?af=R">
-      <title>Deacylation of calcium&#8208;dependent antibiotics from Streptomyces violaceoruber in co&#8208;culture with Streptomyces sp. MG7&#8208;G1</title>
-      <dc:description>When  Streptomyces violaceoruber  grows together with  Streptomyces  sp. MG7&#8208;G1, it reacts with strongly induced droplet production on its aerial mycelium. Initially the metabolite profile of droplets from  S. violaceoruber  in co&#8208;culture with  Streptomyces  sp. MG7&#8208;G1 was compared to samples from  S. violaceoruber  in single&#8208;culture using high&#8208;performance liquid chromatography&#8208;mass spectrometry (HPLC&#8208;MS). Then, also the exudate from agar plates of co&#8208;cultures and single cultures (after freezing and thawing) was analysed. Several compounds were only observed when  S. violaceoruber  was grown in co&#8208;culture. Based on their high&#8208;resolution ESI mass spectra and their comparable retention times to the calcium&#8208;dependent antibiotics (CDAs) produced by  S. violaceo&#173;ruber  the new compounds were suspected to be deacylated calcium&#8208;dependent antibiotics (daCDAs), lacking the 2,3&#8208;epoxyhexanoyl residue of CDAs. This was verified by detailed analysis of the MS/MS spectra of the deacylated CDAs in comparison to the CDAs. The major CDA compounds present in calcium ion supplemented agar medium of co&#8208;cultures were daCDAs, suggesting that  Streptomyces  sp. MG7&#8208;G1 expresses a deacylase that degrades CDAs.</dc:description>
-      <dc:creator>
-Kathrin Schindl, 
-Deepika Sharma, 
-Dieter  Stefan Spiteller
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000404?af=R</link>
-      <content:encoded>&lt;p&gt;When  Streptomyces violaceoruber  grows together with  Streptomyces  sp. MG7&#8208;G1, it reacts with strongly induced droplet production on its aerial mycelium. Initially the metabolite profile of droplets from  S. violaceoruber  in co&#8208;culture with  Streptomyces  sp. MG7&#8208;G1 was compared to samples from  S. violaceoruber  in single&#8208;culture using high&#8208;performance liquid chromatography&#8208;mass spectrometry (HPLC&#8208;MS). Then, also the exudate from agar plates of co&#8208;cultures and single cultures (after freezing and thawing) was analysed. Several compounds were only observed when  S. violaceoruber  was grown in co&#8208;culture. Based on their high&#8208;resolution ESI mass spectra and their comparable retention times to the calcium&#8208;dependent antibiotics (CDAs) produced by  S. violaceo&#173;ruber  the new compounds were suspected to be deacylated calcium&#8208;dependent antibiotics (daCDAs), lacking the 2,3&#8208;epoxyhexanoyl residue of CDAs. This was verified by detailed analysis of the MS/MS spectra of the deacylated CDAs in comparison to the CDAs. The major CDA compounds present in calcium ion supplemented agar medium of co&#8208;cultures were daCDAs, suggesting that  Streptomyces  sp. MG7&#8208;G1 expresses a deacylase that degrades CDAs.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Deacylation of calcium&#8208;dependent antibiotics from Streptomyces violaceoruber in co&#8208;culture with Streptomyces sp. MG7&#8208;G1</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000404</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-25T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000404</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000404?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000254?af=R">
       <title>Cationic Ru(II) cyclopentadienyl complexes with antifungal activity against several&#160;Candida&#160;species</title>
       <dc:description>Fungal infections, including those caused by antifungal&#8208;resistant&#160;  Candida  , are a very challenging health problem worldwide.&#160;Whereas different ruthenium complexes were previously studied for their anti&#8208;  Candida  &#160;potential, Ru&#8208;cyclopentadienyl&#160;complexes were overlooked. Here, we report an antifungal activity assessment of three Ru&#8208;cyclopentadienyl complexes with some insights into their potential mode of action. Among these complexes, only cationic species [Ru&#8208;ACN]  +  &#160;and [Ru&#8208;ATZ]  +  &#160;displayed a significant antifungal activity against different&#160;  Candida  &#160;strains, notably against the ones that did not respond to one of the most currently used antifungal drugs fluconazole (FCZ). However, no apparent activity was observed for the neutral species, Ru&#8208;Cl, indicating the important role of the cationic backbone of these complexes on their biological activity. We suggest that reactive oxygen species (ROS) generation might be involved in the mechanism of action of these complexes as unlike&#160;neutral Ru&#8208;Cl, [Ru&#8208;ACN]  +  &#160;and [Ru&#8208;ATZ]  +  &#160;could generate intracellular concentration&#8208;dependent ROS. We also observed a correlation between the ruthenium cellular uptake, ROS generation and fungal growth inhibitory activity of the compounds. Furthermore, docking simulations showed that the CYP51 enzyme can form more energetically favorable complexes with [Ru&#8208;ATZ]  +  &#160;than fluconazole (FCZ), suggesting that CYP51 inhibition could also be considered as a potential mode of action.</dc:description>
@@ -3367,31 +3463,6 @@ Sean D. Moran
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000136</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000136?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000313?af=R">
-      <title>Near&#8208;infrared probe based on novel fluorescence quenching mechanism for detection of cysteine in bioimaging</title>
-      <dc:description>The near&#8208;infrared (NIR) fluorescent probe is greatly significant for detecting cysteine (Cys) in biological systems. Herein, we reported a highly selective and sensitive NIR turn&#8208;on fluorescent probe (  BDP&#8208;NIR  ) based on BODIPY with large Stokes shift (105 nm) for detecting Cys. The sensing mechanism based on the different thiols&#8208;induced S  N  Ar substitution&#8208;rearrangement reaction of the probe with Cys and Hcy/GSH, leading to the corresponding amino&#8208; and thiol&#8208;BODIPY dyes with distinct photo&#8208;physical properties was clarified. Besides, a novel mechanism of fluorescence quenching was demonstrated by density functional theory (DFT) calculation. The reason for the fluorescence quenching of the probe may go through intersystem crossing (from singlet excited state to triplet excited state). Moreover,  BDP&#8208;NIR  had a high linear dynamic range from 0 &#956;M to 500 &#956;M, which was promising for detecting of Cys quantificationally. Significantly,  BDP&#8208;NIR  was capable of sensing endogenous Cys in living cells and  in vivo  .</dc:description>
-      <dc:creator>
-Yuanfang Tao, 
-Xin Ji, 
-Jian Zhang, 
-Yue Jin, 
-Nannan Wang, 
-Yubing Si, 
-Weili Zhao
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000313?af=R</link>
-      <content:encoded>&lt;p&gt;The near&#8208;infrared (NIR) fluorescent probe is greatly significant for detecting cysteine (Cys) in biological systems. Herein, we reported a highly selective and sensitive NIR turn&#8208;on fluorescent probe (  BDP&#8208;NIR  ) based on BODIPY with large Stokes shift (105 nm) for detecting Cys. The sensing mechanism based on the different thiols&#8208;induced S  N  Ar substitution&#8208;rearrangement reaction of the probe with Cys and Hcy/GSH, leading to the corresponding amino&#8208; and thiol&#8208;BODIPY dyes with distinct photo&#8208;physical properties was clarified. Besides, a novel mechanism of fluorescence quenching was demonstrated by density functional theory (DFT) calculation. The reason for the fluorescence quenching of the probe may go through intersystem crossing (from singlet excited state to triplet excited state). Moreover,  BDP&#8208;NIR  had a high linear dynamic range from 0 &#956;M to 500 &#956;M, which was promising for detecting of Cys quantificationally. Significantly,  BDP&#8208;NIR  was capable of sensing endogenous Cys in living cells and  in vivo  .&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Near&#8208;infrared probe based on novel fluorescence quenching mechanism for detection of cysteine in bioimaging</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000313</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-18T07:07:34-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000313</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000313?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -3974,25 +4045,6 @@ Andrew G. Ewing
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000300?af=R">
-      <title>Expanding the genetic code for neuronal studies</title>
-      <dc:description>Genetic code expansion is one of the most powerful technologies in protein engineering  .  In addition to the 20 canonical amino acids, the expanded genetic code is supplemented by unnatural amino acids. Unnatural amino acids carry artificial side chains that can be introduced into target proteins in vitro and in vivo. A wide range of chemical groups have been incorporated co&#8208;translationally into proteins in single cells and multicellular organisms by using genetic code expansion. Incorporated unnatural amino acids have been used for novel structure&#8211;function relationship studies, bioorthogonal labelling of proteins in&#160;cellulo for microscopy and in&#160;vivo for tissue&#8208;specific proteomics, introduction of post&#8208;translational modifications and optical control of protein function, to name a few examples. In this Minireview, the development of genetic code expansion technology is briefly introduced, then, its applications in neurobiology are discussed, with a focus on studies utilising mammalian cells and mice as model organisms.</dc:description>
-      <dc:creator>
-Ivana Niki&#263;-Spiegel
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000300?af=R</link>
-      <content:encoded>&lt;p&gt;Genetic code expansion is one of the most powerful technologies in protein engineering  .  In addition to the 20 canonical amino acids, the expanded genetic code is supplemented by unnatural amino acids. Unnatural amino acids carry artificial side chains that can be introduced into target proteins in vitro and in vivo. A wide range of chemical groups have been incorporated co&#8208;translationally into proteins in single cells and multicellular organisms by using genetic code expansion. Incorporated unnatural amino acids have been used for novel structure&#8211;function relationship studies, bioorthogonal labelling of proteins in&#160;cellulo for microscopy and in&#160;vivo for tissue&#8208;specific proteomics, introduction of post&#8208;translational modifications and optical control of protein function, to name a few examples. In this Minireview, the development of genetic code expansion technology is briefly introduced, then, its applications in neurobiology are discussed, with a focus on studies utilising mammalian cells and mice as model organisms.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Expanding the genetic code for neuronal studies</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000300</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-12T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000300</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000300?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000362?af=R">
       <title>Design and Evaluation of Artificial Hybrid Photoredox Biocatalysts</title>
       <dc:description>A pair of 9&#8208;mesityl&#8208;10&#8208;phenyl acridinium (Mes&#8208;Acr + ) photoredox catalysts were synthesized with an iodoacetamide handle for cysteine bioconjugation. Covalently tethering of the synthetic Mes&#8208;Acr + cofactors with a small panel of thermostable protein scaffolds resulted in twelve newly reported artificial enzymes. The unique chemical and structural environment of the protein hosts had a measurable effect on the photophysical properties and photocatalytic activity of the cofactors. The constructed Mes&#8208;Acr + hybrid enzymes were found to be active photoinduced electron transfer catalysts, controllably oxidizing a variety of aryl sulphides when irradiated with visible light and possessed activities that correlated with the photophysical characterization data. Catalytic performance was found to be dependent on multiple factors including the Mes&#8208;Acr + cofactor, the protein scaffold, the location of cofactor immobilization, and the substrate. This work provides a framework toward adapting synthetic photoredox catalysts into artificial cofactors and includes important considerations for future bioengineering efforts.</dc:description>
@@ -4107,67 +4159,6 @@ Johannes Notni
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000280?af=R">
-      <title>An Effective Method for Quantifying RNA Expression of IbsC&#8208;SibC, a Type I Toxin&#8208;Antitoxin System in Escherichia coli</title>
-      <dc:description>Toxin and antitoxin (TA) systems are small genetic modules consisting of a toxin protein and an RNA or protein antitoxin. It is difficult to study their functions in a large part due to the lack of effective methods to study toxin RNAs that usually exist at exceptionally low levels. Herein we describe a sensitive reverse transcription quantitative PCR (RT&#8208;qPCR) method that is able to quantitate such RNA species. The method was directed at detection of the toxin mRNA of the  ibsC&#8208;sibC  TA pair, and its high specificity was validated by sequencing. The approach was used to determine relative expression of the IbsC and SibC RNAs at different cell&#8208;growth phases, which revealed an expression pattern that cannot be explained by the prevailing notion of growth stasis by the toxin and rescue by the antitoxin. The usefulness of the method was further showcased by the determination of average cellular copy numbers of the IbsC&#8208;SibC RNAs in wild&#8208;type  E. coli  cells and RNA abundance in  E. coli  cells engineered with extra copies of the  ibsC&#8208;sibC  genes. With a robust method to quantitate cellular small RNAs at very low concentrations, we are now equipped to study expression of TA systems under different conditions to gain useful insights about their functions.</dc:description>
-      <dc:creator>
-Shahrzad Jahanshahi, 
-Yingfu Li
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000280?af=R</link>
-      <content:encoded>&lt;p&gt;Toxin and antitoxin (TA) systems are small genetic modules consisting of a toxin protein and an RNA or protein antitoxin. It is difficult to study their functions in a large part due to the lack of effective methods to study toxin RNAs that usually exist at exceptionally low levels. Herein we describe a sensitive reverse transcription quantitative PCR (RT&#8208;qPCR) method that is able to quantitate such RNA species. The method was directed at detection of the toxin mRNA of the  ibsC&#8208;sibC  TA pair, and its high specificity was validated by sequencing. The approach was used to determine relative expression of the IbsC and SibC RNAs at different cell&#8208;growth phases, which revealed an expression pattern that cannot be explained by the prevailing notion of growth stasis by the toxin and rescue by the antitoxin. The usefulness of the method was further showcased by the determination of average cellular copy numbers of the IbsC&#8208;SibC RNAs in wild&#8208;type  E. coli  cells and RNA abundance in  E. coli  cells engineered with extra copies of the  ibsC&#8208;sibC  genes. With a robust method to quantitate cellular small RNAs at very low concentrations, we are now equipped to study expression of TA systems under different conditions to gain useful insights about their functions.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>An Effective Method for Quantifying RNA Expression of IbsC&#8208;SibC, a Type I Toxin&#8208;Antitoxin System in Escherichia coli</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000280</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-09T09:43:13-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000280</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000280?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000214?af=R">
-      <title>Recent Applications of Carbon&#8208;Nitrogen Lyases in Asymmetric Synthesis of Noncanonical Amino Acids and Heterocyclic Compounds</title>
-      <dc:description>
-Going backwards to go forwards: The ability of carbon&#8208;nitrogen lyases to work in reverse and connect diverse building blocks through C&#8722;N links offers exciting opportunities for biocatalytic retrosynthesis and for the preparation of complex biologically active molecules. This review describes recent applications of native and engineered C&#8722;N lyases in selective synthesis of noncanonical amino acids and heterocyclic compounds.
-
-
-
-
-
-
-
-Abstract
-Carbon&#8208;nitrogen (C&#8722;N) lyases are enzymes that normally catalyze the cleavage of C&#8722;N bonds. Reversing this reaction towards carbon&#8208;nitrogen bond formation can be a powerful approach to prepare valuable compounds that could find applications in everyday life. This review focuses on recent (last five years) applications of native and engineered C&#8722;N lyases, either as stand&#8208;alone biocatalysts or as part of multienzymatic and chemoenzymatic cascades, in enantioselective synthesis of noncanonical amino acids and dinitrogen&#8208;fused heterocycles, which are useful tools for neurobiological research and important synthetic precursors to pharmaceuticals and food additives.
-</dc:description>
-      <dc:creator>
-Jielin Zhang, 
-Mohammad Z. Abidin, 
-Thangavelu Saravanan, 
-Gerrit J. Poelarends
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000214?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/a0260a54-1c6a-47e6-b945-a24c1b53b040/cbic202000214-toc-0001-m.png"
-     alt="Recent Applications of Carbon&#8208;Nitrogen Lyases in Asymmetric Synthesis of Noncanonical Amino Acids and Heterocyclic Compounds"/&gt;
-&lt;p&gt;&lt;b&gt;Going backwards to go forwards &lt;/b&gt;: The ability of carbon&#8208;nitrogen lyases to work in reverse and connect diverse building blocks through C&#8722;N links offers exciting opportunities for biocatalytic retrosynthesis and for the preparation of complex biologically active molecules. This review describes recent applications of native and engineered C&#8722;N lyases in selective synthesis of noncanonical amino acids and heterocyclic compounds.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Carbon&#8208;nitrogen (C&#8722;N) lyases are enzymes that normally catalyze the cleavage of C&#8722;N bonds. Reversing this reaction towards carbon&#8208;nitrogen bond formation can be a powerful approach to prepare valuable compounds that could find applications in everyday life. This review focuses on recent (last five years) applications of native and engineered C&#8722;N lyases, either as stand&#8208;alone biocatalysts or as part of multienzymatic and chemoenzymatic cascades, in enantioselective synthesis of noncanonical amino acids and dinitrogen&#8208;fused heterocycles, which are useful tools for neurobiological research and important synthetic precursors to pharmaceuticals and food additives.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Recent Applications of Carbon&#8208;Nitrogen Lyases in Asymmetric Synthesis of Noncanonical Amino Acids and Heterocyclic Compounds</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000214</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-08T10:44:51-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000214</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000214?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000348?af=R">
       <title>Tumor suppressor p53TAD1&#8208;60 forms a fuzzy complex with metastasis associated S100A4: structural insights and dynamics by an NMR/MD approach</title>
       <dc:description>Conformationally flexible protein complexes represent a major challenge for structural and dynamical studies. We present a method based on a hybrid NMR/MD approach to characterize the complex formed between the disordered p53TAD 1&#8208;60 and the metastasis associated S100A4. Disorder&#8208;to&#8208;order transition of both TAD1 and TAD2 subdomains upon interaction is detected. Still, p53TAD 1&#8208;60 remains highly flexible in the bound form, with residues L26, M40, W53 being anchored to identical hydrophobic pockets of the S100A4 monomer chains. In the resulting &#8220;fuzzy&#8221; complex the clamp&#8208;like binding of p53TAD 1&#8208;60 relies on specific hydrophobic anchors and on the existence of extended flexible segments. Our results demonstrate that structural and dynamical NMR parameters (cumulative &#916;&#948;, SSP, temperature coefficients, relaxation time, hetNOE) combined with MD simulations can be used to build a structural model even if due to high flexibility the classical solution structure calculation is not possible.</dc:description>
@@ -4192,94 +4183,6 @@ Andrea Bodor
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000348?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000162?af=R">
-      <title>Tuning the Innate Immune Response to Cyclic Dinucleotides by Using Atomic Mutagenesis</title>
-      <dc:description>
-Back to base: Cyclic dinucleotides (CDNs) play critical regulatory roles in bacteria and trigger the innate immune response in eukaryotic cells. Here we illustrate that a systematic modification of the nucleobases, rather than the phosphate or sugar moieties, can generate STING agonists that demonstrate strong immunostimulatory effects.
-
-
-
-
-
-
-
-Abstract
-Cyclic dinucleotides (CDNs) trigger the innate immune response in eukaryotic cells through the stimulator of interferon genes (STING) signaling pathway. To decipher this complex cellular process, a better correlation between structure and downstream function is required. Herein, we report the design and immunostimulatory effect of a novel group of c&#8208;di&#8208;GMP analogues. By employing an &#8220;atomic mutagenesis&#8221; strategy, changing one atom at a time, a class of gradually modified CDNs was prepared. These c&#8208;di&#8208;GMP analogues induce type&#8208;I interferon (IFN) production, with some being more potent than c&#8208;di&#8208;GMP, their native archetype. This study demonstrates that CDN analogues bearing modified nucleobases are able to tune the innate immune response in eukaryotic cells.
-</dc:description>
-      <dc:creator>
-Yao Li, 
-Andrea Fin, 
-Alexander R. Rovira, 
-Yichi Su, 
-Andrew B. Dippel, 
-Jonathan Andr&#233;s Valderrama, 
-Angelica M. Riestra, 
-Victor Nizet, 
-Ming C. Hammond, 
-Yitzhak Tor
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000162?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e85c8215-c258-4873-9422-333d77043490/cbic202000162-toc-0001-m.png"
-     alt="Tuning the Innate Immune Response to Cyclic Dinucleotides by Using Atomic Mutagenesis"/&gt;
-&lt;p&gt;&lt;b&gt;Back to base &lt;/b&gt;: Cyclic dinucleotides (CDNs) play critical regulatory roles in bacteria and trigger the innate immune response in eukaryotic cells. Here we illustrate that a systematic modification of the nucleobases, rather than the phosphate or sugar moieties, can generate STING agonists that demonstrate strong immunostimulatory effects.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Cyclic dinucleotides (CDNs) trigger the innate immune response in eukaryotic cells through the stimulator of interferon genes (STING) signaling pathway. To decipher this complex cellular process, a better correlation between structure and downstream function is required. Herein, we report the design and immunostimulatory effect of a novel group of c&#8208;di&#8208;GMP analogues. By employing an &#8220;atomic mutagenesis&#8221; strategy, changing one atom at a time, a class of gradually modified CDNs was prepared. These c&#8208;di&#8208;GMP analogues induce type&#8208;I interferon (IFN) production, with some being more potent than c&#8208;di&#8208;GMP, their native archetype. This study demonstrates that CDN analogues bearing modified nucleobases are able to tune the innate immune response in eukaryotic cells.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Tuning the Innate Immune Response to Cyclic Dinucleotides by Using Atomic Mutagenesis</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000162</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-08T04:07:40-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000162</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000162?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000105?af=R">
-      <title>Development of Core&#8208;Shell Nanoparticle Drug Delivery Systems Based on Biomimetic Mineralization</title>
-      <dc:description>
-Under the right conditions: Bio&#8208;inspired core&#8208;shell NPs offer various opportunities in drug delivery, imaging and sensing applications. In contrast to conventional methods for fabricating core&#8208;shell NPs, biomimetic synthesis occurs under physiological conditions, resulting in sustainable, facile manufacture and enhanced biocompatibility.
-
-
-
-
-
-
-
-Abstract
-Among various drug&#8208;delivery systems, core&#8208;shell nanoparticles have many advantages. Inspired by nature, biomimetic synthesis has emerged as a new strategy for making core&#8208;shell nanoparticles in recent years. Biomimetic mineralization is the process by which living organisms produce minerals based on biomolecule templating that leads to the formation of hierarchically structured organic&#8211;inorganic materials. In this minireview, we mainly focus on the synthesis of core&#8208;shell nanoparticle drug&#8208;delivery systems by biomimetic mineralization. We review various biomimetic mineralization methods for fabricating core&#8208;shell nanoparticles including silica&#8208;based, calcium&#8208;based and other nanoparticles, and their applications in drug delivery. We also summarize strategies for drug loading in the biomolecule&#8208;mineralized core&#8208;shell NPs. Current challenges and future directions are also discussed.
-</dc:description>
-      <dc:creator>
-Guangze Yang, 
-Yun Liu, 
-Song Jin, 
-Chun&#8208;Xia Zhao
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000105?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/97c60f33-940f-41ed-8307-3da0f9d5ca1a/cbic202000105-toc-0001-m.png"
-     alt="Development of Core&#8208;Shell Nanoparticle Drug Delivery Systems Based on Biomimetic Mineralization"/&gt;
-&lt;p&gt;&lt;b&gt;Under the right conditions &lt;/b&gt;: Bio&#8208;inspired core&#8208;shell NPs offer various opportunities in drug delivery, imaging and sensing applications. In contrast to conventional methods for fabricating core&#8208;shell NPs, biomimetic synthesis occurs under physiological conditions, resulting in sustainable, facile manufacture and enhanced biocompatibility.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Among various drug&#8208;delivery systems, core&#8208;shell nanoparticles have many advantages. Inspired by nature, biomimetic synthesis has emerged as a new strategy for making core&#8208;shell nanoparticles in recent years. Biomimetic mineralization is the process by which living organisms produce minerals based on biomolecule templating that leads to the formation of hierarchically structured organic&#8211;inorganic materials. In this minireview, we mainly focus on the synthesis of core&#8208;shell nanoparticle drug&#8208;delivery systems by biomimetic mineralization. We review various biomimetic mineralization methods for fabricating core&#8208;shell nanoparticles including silica&#8208;based, calcium&#8208;based and other nanoparticles, and their applications in drug delivery. We also summarize strategies for drug loading in the biomolecule&#8208;mineralized core&#8208;shell NPs. Current challenges and future directions are also discussed.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Development of Core&#8208;Shell Nanoparticle Drug Delivery Systems Based on Biomimetic Mineralization</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000105</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-08T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000105</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000105?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000253?af=R">
       <title>Fluorophosphonate&#8208;based degrader identifies degradable serine hydrolases by quantitative proteomics</title>
@@ -4308,48 +4211,6 @@ Novel chemical biology probes linking a serine hydrolase&#8208;directed fluoroph
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000253</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000253?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000260?af=R">
-      <title>A Step toward Molecular Evolution of RNA: Ribose Binds to Prebiotic Fatty Acid Membranes, and Nucleosides Bind Better than Individual Bases Do</title>
-      <dc:description>
-Sweetening the binding: Prior to their polymerization into RNA, nucleobases and ribose might have bound to self&#8208;assembled, prebiotic membranes. We found that ribose binds more strongly to fatty acid membranes than bases do. Linking ribose to a nucleobase to form a nucleoside, a subunit of RNA, strengthens the nucleobase's binding.
-
-
-
-
-
-
-
-Abstract
-A major challenge in understanding how biological cells arose on the early Earth is explaining how RNA and membranes originally colocalized. We propose that the building blocks of RNA (nucleobases and ribose) bound to self&#8208;assembled prebiotic membranes. We have previously demonstrated that the bases bind to membranes composed of a prebiotic fatty acid, but evidence for the binding of sugars has remained a technical challenge. Here, we used pulsed&#8208;field gradient NMR spectroscopy to demonstrate that ribose and other sugars bind to membranes of decanoic acid. Moreover, the binding of some bases is strongly enhanced when they are linked to ribose to form a nucleoside or &#8211; with the addition of phosphate &#8211; a nucleotide. This enhanced binding could have played a role in the molecular evolution leading to the production of RNA.
-</dc:description>
-      <dc:creator>
-Mengjun Xue, 
-Roy A. Black, 
-Caitlin E. Cornell, 
-Gary P. Drobny, 
-Sarah L. Keller
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000260?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/87aec7b7-e073-4f52-8950-cfb7ec71be25/cbic202000260-toc-0001-m.png"
-     alt="A Step toward Molecular Evolution of RNA: Ribose Binds to Prebiotic Fatty Acid Membranes, and Nucleosides Bind Better than Individual Bases Do"/&gt;
-&lt;p&gt;&lt;b&gt;Sweetening the binding &lt;/b&gt;: Prior to their polymerization into RNA, nucleobases and ribose might have bound to self&#8208;assembled, prebiotic membranes. We found that ribose binds more strongly to fatty acid membranes than bases do. Linking ribose to a nucleobase to form a nucleoside, a subunit of RNA, strengthens the nucleobase's binding.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;A major challenge in understanding how biological cells arose on the early Earth is explaining how RNA and membranes originally colocalized. We propose that the building blocks of RNA (nucleobases and ribose) bound to self&#8208;assembled prebiotic membranes. We have previously demonstrated that the bases bind to membranes composed of a prebiotic fatty acid, but evidence for the binding of sugars has remained a technical challenge. Here, we used pulsed&#8208;field gradient NMR spectroscopy to demonstrate that ribose and other sugars bind to membranes of decanoic acid. Moreover, the binding of some bases is strongly enhanced when they are linked to ribose to form a nucleoside or &#8211; with the addition of phosphate &#8211; a nucleotide. This enhanced binding could have played a role in the molecular evolution leading to the production of RNA.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>A Step toward Molecular Evolution of RNA: Ribose Binds to Prebiotic Fatty Acid Membranes, and Nucleosides Bind Better than Individual Bases Do</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000260</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-05T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000260</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000260?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -4384,50 +4245,6 @@ Beat  H Meier
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000196?af=R">
-      <title>Evolution of Glucose Dehydrogenase for Cofactor Regeneration in Bioredox Processes with Denaturing Agents</title>
-      <dc:description>
-Stability and tolerance: Our evolution generated highly chemical&#8208;tolerant GDHs that would be useful for enzymatic reactions with high level of toxic chemicals. The developed chemically robust variants expand and enrich the GDH toolbox, facilitating its wider use for NAD(P)H regeneration in biocatalysis.
-
-
-
-
-
-
-
-Abstract
-Glucose dehydrogenase (GDH) is a general tool for driving nicotinamide (NAD(P)H) regeneration in synthetic biochemistry. An increasing number of synthetic bioreactions are carried out in media containing high amounts of organic cosolvents or hydrophobic substrates/products, which often denature native enzymes, including those for cofactor regeneration. In this work, we attempted to improve the chemical stability of Bacillus megaterium GDH (BmGDHM0) in the presence of large amounts of 1&#8208;phenylethanol by directed evolution. Among the resulting mutants, BmGDHM6 (Q252L/E170K/S100P/K166R/V72I/K137R) exhibited a 9.2&#8208;fold increase in tolerance against 10&#8201;% (v/v) 1&#8208;phenylethanol. Moreover, BmGDHM6 was also more stable than BmGDHM0 when exposed to hydrophobic and enzyme&#8208;inactivating compounds such as acetophenone, ethyl 2&#8208;oxo&#8208;4&#8208;phenylbutyrate, and ethyl (R)&#8208;2&#8208;hydroxy&#8208;4&#8208;phenylbutyrate. Coupled with a Candida glabrata carbonyl reductase, BmGDHM6 was successfully used for the asymmetric reduction of deactivating ethyl 2&#8208;oxo&#8208;4&#8208;phenylbutyrate with total turnover number of 1800 for the nicotinamide cofactor, thus making it attractive for commercial application. Overall, the evolution of chemically robust GDH facilitates its wider use as a general tool for NAD(P)H regeneration in biocatalysis.
-</dc:description>
-      <dc:creator>
-Wen&#8208;Zhuo Qian, 
-Ling Ou, 
-Chun&#8208;Xiu Li, 
-Jiang Pan, 
-Jian&#8208;He Xu, 
-Qi Chen, 
-Gao&#8208;Wei Zheng
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000196?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e7ce6637-d59f-46d6-bd1e-676409b8befd/cbic202000196-toc-0001-m.png"
-     alt="Evolution of Glucose Dehydrogenase for Cofactor Regeneration in Bioredox Processes with Denaturing Agents"/&gt;
-&lt;p&gt;&lt;b&gt;Stability and tolerance &lt;/b&gt;: Our evolution generated highly chemical&#8208;tolerant GDHs that would be useful for enzymatic reactions with high level of toxic chemicals. The developed chemically robust variants expand and enrich the GDH toolbox, facilitating its wider use for NAD(P)H regeneration in biocatalysis.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Glucose dehydrogenase (GDH) is a general tool for driving nicotinamide (NAD(P)H) regeneration in synthetic biochemistry. An increasing number of synthetic bioreactions are carried out in media containing high amounts of organic cosolvents or hydrophobic substrates/products, which often denature native enzymes, including those for cofactor regeneration. In this work, we attempted to improve the chemical stability of &lt;i&gt;Bacillus megaterium &lt;/i&gt; GDH (&lt;i&gt;Bm &lt;/i&gt;GDH&lt;sub&gt;M0&lt;/sub&gt;) in the presence of large amounts of 1&#8208;phenylethanol by directed evolution. Among the resulting mutants, &lt;i&gt;Bm &lt;/i&gt;GDH&lt;sub&gt;M6&lt;/sub&gt; (Q252L/E170K/S100P/K166R/V72I/K137R) exhibited a 9.2&#8208;fold increase in tolerance against 10&#8201;% (&lt;i&gt;v &lt;/i&gt;/&lt;i&gt;v &lt;/i&gt;) 1&#8208;phenylethanol. Moreover, &lt;i&gt;Bm &lt;/i&gt;GDH&lt;sub&gt;M6&lt;/sub&gt; was also more stable than &lt;i&gt;Bm &lt;/i&gt;GDH&lt;sub&gt;M0&lt;/sub&gt; when exposed to hydrophobic and enzyme&#8208;inactivating compounds such as acetophenone, ethyl 2&#8208;oxo&#8208;4&#8208;phenylbutyrate, and ethyl (&lt;i&gt;R &lt;/i&gt;)&#8208;2&#8208;hydroxy&#8208;4&#8208;phenylbutyrate. Coupled with a &lt;i&gt;Candida glabrata &lt;/i&gt; carbonyl reductase, &lt;i&gt;Bm &lt;/i&gt;GDH&lt;sub&gt;M6&lt;/sub&gt; was successfully used for the asymmetric reduction of deactivating ethyl 2&#8208;oxo&#8208;4&#8208;phenylbutyrate with total turnover number of 1800 for the nicotinamide cofactor, thus making it attractive for commercial application. Overall, the evolution of chemically robust GDH facilitates its wider use as a general tool for NAD(P)H regeneration in biocatalysis.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Evolution of Glucose Dehydrogenase for Cofactor Regeneration in Bioredox Processes with Denaturing Agents</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000196</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-04T01:59:13-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000196</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000196?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000185?af=R">
       <title>Reducing agent mediated non&#8208;enzymatic conversion of&#160; 2&#8208;oxoglutarate to succinate &#8211; implications for oxygenase assays</title>
       <dc:description>L&#8208;Ascorbate (L&#8208;Asc) is often added to assays with isolated Fe(II) and 2&#8208;oxoglutarate (2OG) dependent oxygenases to enhance activity. L&#8208;Asc is proposed to be important in catalysis by some 2OG oxygenases in vivo. We report observations on the non&#8208;enzymatic conversion of 2OG to succinate which is mediated by hydrogen peroxide (H2O2), generated by reaction of L&#8208;Asc and dioxygen. Slow non&#8208;enzymatic oxidation of 2OG to succinate occurs with some, but not all, other reducing agents commonly used in 2OG oxygenase assays. We intend the observations will help in the robust assignment of substrates and inhibitors for 2OG oxygenase</dc:description>
@@ -4448,48 +4265,6 @@ Timothy Claridge
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000185?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000213?af=R">
-      <title>Systematic Evaluation of Imine&#8208;Reducing Enzymes: Common Principles in Imine Reductases, &#946;&#8208;Hydroxy Acid Dehydrogenases, and Short&#8208;Chain Dehydrogenases/ Reductases</title>
-      <dc:description>
-The enzymatic, asymmetric reduction of imines to chiral amines is a valuable biocatalytic approach owing to the high enantioselectivity of the reductases. Imine reductases, short&#8208;chain dehydrogenases/reductases, and &#946;&#8208;hydroxy acid dehydrogenases are known to catalyze this reaction. Our systematic evaluation of the structures and substrate&#8208;binding sites of the three enzyme families has revealed four common principles for enzymatic imine reduction.
-
-
-
-
-
-
-
-Abstract
-The enzymatic, asymmetric reduction of imines is catalyzed by imine reductases (IREDs), members of the short&#8208;chain dehydrogenase/reductase (SDR) family, and &#946;&#8208;hydroxy acid dehydrogenase (&#946;HAD) variants. Systematic evaluation of the structures and substrate&#8208;binding sites of the three enzyme families has revealed four common principles for imine reduction: structurally conserved cofactor&#8208;binding domains; tyrosine, aspartate, or glutamate as proton donor; at least four characteristic flanking residues that adapt the donor's pKa and polarize the substrate; and a negative electrostatic potential in the substrate&#8208;binding site to stabilize the transition state. As additional catalytically relevant positions, we propose alternative proton donors in IREDs and &#946;HADs as well as proton relays in IREDs, &#946;HADs, and SDRs. The functional role of flanking residues was experimentally confirmed by alanine scanning of the imine&#8208;reducing SDR from Zephyranthes treatiae. Mutating the &#8220;gatekeeping&#8221; phenylalanine at standard position 200 resulted in a tenfold increase in imine&#8208;reducing activity.
-</dc:description>
-      <dc:creator>
-Peter Stockinger, 
-Sebastian Roth, 
-Michael M&#252;ller, 
-J&#252;rgen Pleiss
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000213?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4aa33d02-bc32-4e09-a4a2-9aa681731f86/cbic202000213-toc-0001-m.png"
-     alt="Systematic Evaluation of Imine&#8208;Reducing Enzymes: Common Principles in Imine Reductases, &#946;&#8208;Hydroxy Acid Dehydrogenases, and Short&#8208;Chain Dehydrogenases/ Reductases"/&gt;
-&lt;p&gt;&lt;b&gt;The enzymatic, asymmetric reduction &lt;/b&gt; of imines to chiral amines is a valuable biocatalytic approach owing to the high enantioselectivity of the reductases. Imine reductases, short&#8208;chain dehydrogenases/reductases, and &#946;&#8208;hydroxy acid dehydrogenases are known to catalyze this reaction. Our systematic evaluation of the structures and substrate&#8208;binding sites of the three enzyme families has revealed four common principles for enzymatic imine reduction.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The enzymatic, asymmetric reduction of imines is catalyzed by imine reductases (IREDs), members of the short&#8208;chain dehydrogenase/reductase (SDR) family, and &#946;&#8208;hydroxy acid dehydrogenase (&#946;HAD) variants. Systematic evaluation of the structures and substrate&#8208;binding sites of the three enzyme families has revealed four common principles for imine reduction: structurally conserved cofactor&#8208;binding domains; tyrosine, aspartate, or glutamate as proton donor; at least four characteristic flanking residues that adapt the donor's p&lt;i&gt;K &lt;/i&gt;
-&lt;sub&gt;a&lt;/sub&gt; and polarize the substrate; and a negative electrostatic potential in the substrate&#8208;binding site to stabilize the transition state. As additional catalytically relevant positions, we propose alternative proton donors in IREDs and &#946;HADs as well as proton relays in IREDs, &#946;HADs, and SDRs. The functional role of flanking residues was experimentally confirmed by alanine scanning of the imine&#8208;reducing SDR from &lt;i&gt;Zephyranthes treatiae &lt;/i&gt;. Mutating the &#8220;gatekeeping&#8221; phenylalanine at standard position 200 resulted in a tenfold increase in imine&#8208;reducing activity.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Systematic Evaluation of Imine&#8208;Reducing Enzymes: Common Principles in Imine Reductases, &#946;&#8208;Hydroxy Acid Dehydrogenases, and Short&#8208;Chain Dehydrogenases/ Reductases</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000213</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-05-29T03:00:52-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000213</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000213?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000245?af=R">
       <title>Dynamic Stabilization of DNA Assembly Using Pyrrole&#8208;Imidazole Polyamide</title>
