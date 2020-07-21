@@ -9,6 +9,21 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003096?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001854?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002321?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002699?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001430?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.201905826?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001590?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001242?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002384?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001795?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003172?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000924?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002911?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001390?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001447?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002779?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002143?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001236?af=R" />
@@ -127,24 +142,15 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002920?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002573?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002744?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002146?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001290?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002925?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001639?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001317?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001566?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002227?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003185?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003239?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001979?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003042?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002792?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001847?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002986?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000946?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000448?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001389?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001282?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001178?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002333?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002874?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002362?af=R" />
@@ -157,12 +163,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002869?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003052?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002774?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003120?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003247?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002419?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002248?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002588?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002322?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -171,6 +171,274 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202003096?af=R">
+      <title>Tuning the ground and excited state dynamics of hemithioindigo molecular motors by substituents</title>
+      <dc:description>Efficiency and performance of light triggered molecular motors are crucial features that need to be mechanistically understood in order to improve the performance and enable conscious property tailoring for specific applications. In this work three different hemithioindigo based molecular motors are investigated and all four steps in their complete unidirectional rotation are unraveled fully quantitatively. Transient absorption spectroscopy across twelve orders in magnitude in time is used to probe the fs nuclear motions up to the ms thermal kinetics covering the timeframe of the whole motor rotation. The newly known full mechanism allows simulating the motor system to scrutinize its performance at realistic illumination conditions. This highlights the importance of photoisomerization quantum yields for the rotation speed. The substitution pattern in close proximity to the rotation axle influences the excited and ground state properties. Reduction of electron donation and concomitant increase of steric hindrance leads to faster photoisomerization reactions with quasi&#8208;ballistic behavior, but also to a slight decrease in the quantum efficiency. The expected decelerating effects of increased sterics are primarily manifested in the ground state. A promising approach for next generation hemithioindigo motors is to elevate electron donation at the rotor fragment followed by an increase of steric hindrance.</dc:description>
+      <dc:creator>
+Henry Dube, 
+Roland Wilcken, 
+Ludwig Huber, 
+Kerstin Grill, 
+Manuel Guentner, 
+Monika Schildhauer, 
+Stefan Thumser, 
+Eberhard Riedle
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003096?af=R</link>
+      <content:encoded>&lt;p&gt;Efficiency and performance of light triggered molecular motors are crucial features that need to be mechanistically understood in order to improve the performance and enable conscious property tailoring for specific applications. In this work three different hemithioindigo based molecular motors are investigated and all four steps in their complete unidirectional rotation are unraveled fully quantitatively. Transient absorption spectroscopy across twelve orders in magnitude in time is used to probe the fs nuclear motions up to the ms thermal kinetics covering the timeframe of the whole motor rotation. The newly known full mechanism allows simulating the motor system to scrutinize its performance at realistic illumination conditions. This highlights the importance of photoisomerization quantum yields for the rotation speed. The substitution pattern in close proximity to the rotation axle influences the excited and ground state properties. Reduction of electron donation and concomitant increase of steric hindrance leads to faster photoisomerization reactions with quasi&#8208;ballistic behavior, but also to a slight decrease in the quantum efficiency. The expected decelerating effects of increased sterics are primarily manifested in the ground state. A promising approach for next generation hemithioindigo motors is to elevate electron donation at the rotor fragment followed by an increase of steric hindrance.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Tuning the ground and excited state dynamics of hemithioindigo molecular motors by substituents</dc:title>
+      <dc:identifier>doi:10.1002/chem.202003096</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T01:12:48-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202003096</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003096?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202001854?af=R">
+      <title>Transition Metal&#8208;Mediated Functionalization of White Phosphorus</title>
+      <dc:description>Recently there has been great interest in the reactivity of transition metal (TM) centers towards white phosphorus (P  4  ). This has ultimately been motivated by a desire to find TM&#8208;mediated alternatives to the current industrial routes used to transform P  4  into myriad useful P&#8208;containing products, which are typically indirect, wasteful, and highly hazardous. Such a TM&#8208;mediated process can be divided into two steps: activation of P  4  to generate a polyphosphorus complex TM&#8208;P  n  , and subsequent functionalization of this complex to release the desired phosphorus&#8208;containing product. The former step has by now become well established, allowing the isolation of many different TM&#8208;P  n  products. In contrast, productive functionalization of these complexes has proven extremely challenging and has been achieved only in a relative handful of cases. In this review we provide a comprehensive summary of successful TM&#8208;P  n  functionalization reactions, where TM&#8208;P  n  must be accessible by reaction of a TM precursor with P  4  . We hope that this will provide a useful resource for continuing efforts that are working towards this highly challenging goal of modern synthetic chemistry.</dc:description>
+      <dc:creator>
+Christian  M. Hoidn, 
+Daniel  J. Scott, 
+Robert Wolf
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001854?af=R</link>
+      <content:encoded>&lt;p&gt;Recently there has been great interest in the reactivity of transition metal (TM) centers towards white phosphorus (P  4  ). This has ultimately been motivated by a desire to find TM&#8208;mediated alternatives to the current industrial routes used to transform P  4  into myriad useful P&#8208;containing products, which are typically indirect, wasteful, and highly hazardous. Such a TM&#8208;mediated process can be divided into two steps: activation of P  4  to generate a polyphosphorus complex TM&#8208;P  n  , and subsequent functionalization of this complex to release the desired phosphorus&#8208;containing product. The former step has by now become well established, allowing the isolation of many different TM&#8208;P  n  products. In contrast, productive functionalization of these complexes has proven extremely challenging and has been achieved only in a relative handful of cases. In this review we provide a comprehensive summary of successful TM&#8208;P  n  functionalization reactions, where TM&#8208;P  n  must be accessible by reaction of a TM precursor with P  4  . We hope that this will provide a useful resource for continuing efforts that are working towards this highly challenging goal of modern synthetic chemistry.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Transition Metal&#8208;Mediated Functionalization of White Phosphorus</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001854</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T01:10:37-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001854</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001854?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002321?af=R">
+      <title>The Photoisomerization Pathway(s) of Push&#8208;Pull Phenylazoheteroarenes</title>
+      <dc:description>Azoheteroarenes are the most recent derivatives targeted to further improve the properties of azo&#8208;based photoswitches. Their light&#8208;induced mechanism for trans&#8208;cis isomerization is assumed to be very similar to that of the parent azobenzene. As such, they inherited from the controversy about the dominant isomerization pathway (rotation vs. inversion) depending on the excited state (n&#960;* vs. &#960;&#960;*). While the controversy seems settled in azobenzene, the extent to which the same conclusions apply to the more structurally&#8208;diverse family of azoheteroarenes is unclear. Here, we unravel by means of non&#8208;adiabatic molecular dynamics, the photoisomerization mechanism of three prototypical phenyl&#8208;azoheteroarenes with an increasing push&#8208;pull character. The evolution of the rotational and inversion conical intersection energies, the preferred pathway, and the associated kinetics upon both n&#960;* and &#960;&#960;* excitations can be linked directly with the push&#8208;pull substitution effects. Overall, we clarify the working conditions of this family of azo&#8208;dyes and identify a possibility to exploit push&#8208;pull substituents to tune their photoisomerization mechanism, with potential impact on their quantum yield.</dc:description>
+      <dc:creator>
+Sergi Vela, 
+Clemence Corminboeuf
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002321?af=R</link>
+      <content:encoded>&lt;p&gt;Azoheteroarenes are the most recent derivatives targeted to further improve the properties of azo&#8208;based photoswitches. Their light&#8208;induced mechanism for trans&#8208;cis isomerization is assumed to be very similar to that of the parent azobenzene. As such, they inherited from the controversy about the dominant isomerization pathway (rotation vs. inversion) depending on the excited state (n&#960;* vs. &#960;&#960;*). While the controversy seems settled in azobenzene, the extent to which the same conclusions apply to the more structurally&#8208;diverse family of azoheteroarenes is unclear. Here, we unravel by means of non&#8208;adiabatic molecular dynamics, the photoisomerization mechanism of three prototypical phenyl&#8208;azoheteroarenes with an increasing push&#8208;pull character. The evolution of the rotational and inversion conical intersection energies, the preferred pathway, and the associated kinetics upon both n&#960;* and &#960;&#960;* excitations can be linked directly with the push&#8208;pull substitution effects. Overall, we clarify the working conditions of this family of azo&#8208;dyes and identify a possibility to exploit push&#8208;pull substituents to tune their photoisomerization mechanism, with potential impact on their quantum yield.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>The Photoisomerization Pathway(s) of Push&#8208;Pull Phenylazoheteroarenes</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002321</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T08:40:16-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002321</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002321?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002699?af=R">
+      <title>Multiscale approach of spin crossover materials &#8208; a concept mixing Russian dolls and domino effects</title>
+      <dc:description>The spin crossover (SCO) phenomenon corresponds to a modification that originates at the atomic scale. However, the simple consideration of the transformations that occur following the SCO at this scale or in its close vicinity does not allow anyone to truly understand, anticipate and thus take advantage of what happens at the scale of the material, and even less at the device one. As the fruit of years of work and experience on this phenomenon, we formalize here the concept of the multiscale understanding of SCO. Clearly, the deflagration generated by the initial impressive atomic modification on all the physical scales of the solid must be understood in terms of structure&#8208;properties relationships that fit together, like Russian dolls, and propagate according to a kind of domino effect. Each scale can both give different and independent consequences from those of the other scales but at the same time can influence those of a larger or smaller scale, the whole being imperatively to take into account. The concept appears well illustrated by the volume modification, always the same at the atomic level but drastically different and adaptable, in amplitude and sense, at any other physical scale. This approach results in a much wider range of potential applications than the atomic level alone initially suggests, including one serious path to shape memory materials.</dc:description>
+      <dc:creator>
+Philippe Guionneau, 
+Mathieu MARCHIVIE, 
+Guillaume CHASTANET
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002699?af=R</link>
+      <content:encoded>&lt;p&gt;The spin crossover (SCO) phenomenon corresponds to a modification that originates at the atomic scale. However, the simple consideration of the transformations that occur following the SCO at this scale or in its close vicinity does not allow anyone to truly understand, anticipate and thus take advantage of what happens at the scale of the material, and even less at the device one. As the fruit of years of work and experience on this phenomenon, we formalize here the concept of the multiscale understanding of SCO. Clearly, the deflagration generated by the initial impressive atomic modification on all the physical scales of the solid must be understood in terms of structure&#8208;properties relationships that fit together, like Russian dolls, and propagate according to a kind of domino effect. Each scale can both give different and independent consequences from those of the other scales but at the same time can influence those of a larger or smaller scale, the whole being imperatively to take into account. The concept appears well illustrated by the volume modification, always the same at the atomic level but drastically different and adaptable, in amplitude and sense, at any other physical scale. This approach results in a much wider range of potential applications than the atomic level alone initially suggests, including one serious path to shape memory materials.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Multiscale approach of spin crossover materials &#8208; a concept mixing Russian dolls and domino effects</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002699</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T08:38:30-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002699</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002699?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Concept</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202001590?af=R">
+      <title>Transition&#8208;Metal&#8208;Free Coupling of 1,3&#8208;Dipoles and Boronic Acids as a Sustainable Approach to C&#8722;C Bond Formation</title>
+      <dc:description>
+A scalable and metal&#8208;free approach to carbon&#8211;carbon bond formation using 1,3&#8208;dipole systems generated from hydrazonyl chloride or hydroxamoyl chloride precursors and aryl boronic acid derivatives is reported. Generation of the 1,3&#8208;dipole results in activation of the boronic acid, with migration of the pendant aryl group to forge a new C&#8722;C bond in yields up to 80&#8201;% (see scheme).
+
+
+
+
+
+
+
+Abstract
+The need for alternative, complementary approaches to enable C&#8722;C bond formation within organic chemistry is an on&#8208;going challenge in the area. Of particular relevance are transformations that proceed in the absence of transition&#8208;metal reagents. In the current study, we report a comprehensive investigation of the coupling of nitrile imines and aryl boronic acids as an approach towards sustainable C&#8722;C bond formation. In situ generation of the highly reactive 1,3&#8208;dipole facilitates a Petasis&#8211;Mannich&#8208;type coupling via a nucleophilic boronate complex. The introduction of hydrazonyl chlorides as a complementary nitrile imine source to the 2,5&#8208;tetrazoles previously reported by our laboratory further broadens the scope of the approach. Additionally, we exemplify for the first time the extension of this protocol into another 1,3&#8208;dipole, through the synthesis of aryl ketone oximes from aryl boronic acids and nitrile N&#8208;oxides.
+</dc:description>
+      <dc:creator>
+Keith Livingstone, 
+Sophie Bertrand, 
+Alan R. Kennedy, 
+Craig Jamieson
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001590?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d739290f-2ba0-4ffa-9c90-0203458b5f5a/chem202001590-toc-0001-m.png"
+     alt="Transition&#8208;Metal&#8208;Free Coupling of 1,3&#8208;Dipoles and Boronic Acids as a Sustainable Approach to C&#8722;C Bond Formation"/&gt;
+&lt;p&gt;&lt;b&gt;A scalable and metal&#8208;free approach &lt;/b&gt; to carbon&#8211;carbon bond formation using 1,3&#8208;dipole systems generated from hydrazonyl chloride or hydroxamoyl chloride precursors and aryl boronic acid derivatives is reported. Generation of the 1,3&#8208;dipole results in activation of the boronic acid, with migration of the pendant aryl group to forge a new C&#8722;C bond in yields up to 80&#8201;% (see scheme).
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The need for alternative, complementary approaches to enable C&#8722;C bond formation within organic chemistry is an on&#8208;going challenge in the area. Of particular relevance are transformations that proceed in the absence of transition&#8208;metal reagents. In the current study, we report a comprehensive investigation of the coupling of nitrile imines and aryl boronic acids as an approach towards sustainable C&#8722;C bond formation. In situ generation of the highly reactive 1,3&#8208;dipole facilitates a Petasis&#8211;Mannich&#8208;type coupling via a nucleophilic boronate complex. The introduction of hydrazonyl chlorides as a complementary nitrile imine source to the 2,5&#8208;tetrazoles previously reported by our laboratory further broadens the scope of the approach. Additionally, we exemplify for the first time the extension of this protocol into another 1,3&#8208;dipole, through the synthesis of aryl ketone oximes from aryl boronic acids and nitrile &lt;i&gt;N&lt;/i&gt;&#8208;oxides.&lt;/p&gt;
+</content:encoded>
+      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
+      <dc:title>Transition&#8208;Metal&#8208;Free Coupling of 1,3&#8208;Dipoles and Boronic Acids as a Sustainable Approach to C&#8722;C Bond Formation</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001590</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T06:27:25-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001590</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001590?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202001242?af=R">
+      <title>Density Functional Theory Study of Pd Aggregation on a Pyridine&#8208;Terminated Self&#8208;Assembled Monolayer</title>
+      <dc:description>
+How to aggregate: DFT calculations for the initial stage of Pd electrodeposition onto a pyridine&#8208;terminated self&#8208;assembled monolayer (SAM) are reported. By using periodic models and methods comprising standard structure optimization and molecular dynamic simulations, the large energetic driving force for the initial metal aggregation is predicted.
+
+
+
+
+
+
+
+Abstract
+By using density functional theory calculations, the initial steps towards Pd metal cluster formation on a pyridine&#8208;terminated self&#8208;assembled monolayer (SAM) consisting of 3&#8208;(4&#8208;(pyridine&#8208;4&#8208;yl)phenyl)propane&#8208;1&#8208;thiol on an Au(1&#8201;1&#8201;1) surface are investigated. Theoretical modelling allows the investigation of structural details of the SAM surface and the metal/SAM interface at the atomic level, which is essential for elucidating the nature of Pd&#8211;SAM and Pd&#8211;Pd interactions at the liquid/solid interface and gaining insight into the mechanism of metal nucleation in the initial stage of electrodeposition. The structural flexibility of SAM molecules was studied first and the most stable conformation was identified, planar molecules in a herringbone packing, as the model for Pd adsorption. Two binding sites are found for Pd atoms on the pyridine end group of the SAM. The strong interaction between Pd atoms and pyridines illustrates the importance of SAM functionalisation in the metal nucleation process. Consistent with an energetic driving force of approximately &#8722;0.3&#8197;eV per Pd atom towards Pd aggregation suggested by static calculations, a spontaneous Pd dimerisation is observed in ab initio molecular dynamic studies of the system. Nudged elastic band calculations suggest a potential route with a low energy barrier of 0.10&#8197;eV for the Pd atom diffusion and then dimerisation on top of the SAM layer.
+</dc:description>
+      <dc:creator>
+Zhen Yao, 
+Manfred Buck, 
+Michael B&#252;hl
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001242?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/c9e0cfa8-a64e-4ef8-953f-83a57c1c01d7/chem202001242-toc-0001-m.png"
+     alt="Density Functional Theory Study of Pd Aggregation on a Pyridine&#8208;Terminated Self&#8208;Assembled Monolayer"/&gt;
+&lt;p&gt;&lt;b&gt;How to aggregate &lt;/b&gt;: DFT calculations for the initial stage of Pd electrodeposition onto a pyridine&#8208;terminated self&#8208;assembled monolayer (SAM) are reported. By using periodic models and methods comprising standard structure optimization and molecular dynamic simulations, the large energetic driving force for the initial metal aggregation is predicted.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;By using density functional theory calculations, the initial steps towards Pd metal cluster formation on a pyridine&#8208;terminated self&#8208;assembled monolayer (SAM) consisting of 3&#8208;(4&#8208;(pyridine&#8208;4&#8208;yl)phenyl)propane&#8208;1&#8208;thiol on an Au(1&#8201;1&#8201;1) surface are investigated. Theoretical modelling allows the investigation of structural details of the SAM surface and the metal/SAM interface at the atomic level, which is essential for elucidating the nature of Pd&#8211;SAM and Pd&#8211;Pd interactions at the liquid/solid interface and gaining insight into the mechanism of metal nucleation in the initial stage of electrodeposition. The structural flexibility of SAM molecules was studied first and the most stable conformation was identified, planar molecules in a herringbone packing, as the model for Pd adsorption. Two binding sites are found for Pd atoms on the pyridine end group of the SAM. The strong interaction between Pd atoms and pyridines illustrates the importance of SAM functionalisation in the metal nucleation process. Consistent with an energetic driving force of approximately &#8722;0.3&#8197;eV per Pd atom towards Pd aggregation suggested by static calculations, a spontaneous Pd dimerisation is observed in ab initio molecular dynamic studies of the system. Nudged elastic band calculations suggest a potential route with a low energy barrier of 0.10&#8197;eV for the Pd atom diffusion and then dimerisation on top of the SAM layer.&lt;/p&gt;
+</content:encoded>
+      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
+      <dc:title>Density Functional Theory Study of Pd Aggregation on a Pyridine&#8208;Terminated Self&#8208;Assembled Monolayer</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001242</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T06:26:37-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001242</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001242?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202003172?af=R">
+      <title>The EYCN and the Power of Networking</title>
+      <dc:description>
+The Young Chemists 2020 Special Issue features young and emerging scientists from around the world, including organizations that promote and empower young chemists such as the European Young Chemist Network (EYCN). To find out more about their activities and the power of networking, see the Editorial by A. Solda and A. M. Rodriguez&#8208;Garcia (DOI: 10.1002/chem.202003020). The Front Cover was designed by the EYCN.
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Alice Sold&#225;, 
+Antonio M. Rodr&#237;guez&#8208;Garc&#237;a
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003172?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d9dd79da-67bd-4a6e-b68f-cbb55defc0fd/chem202003172-toc-0001-m.png"
+     alt="The EYCN and the Power of Networking"/&gt;
+&lt;p&gt;&lt;b&gt;The Young Chemists 2020 &lt;/b&gt; Special Issue features young and emerging scientists from around the world, including organizations that promote and empower young chemists such as the European Young Chemist Network (EYCN). To find out more about their activities and the power of networking, see the Editorial by A. Solda and A. M. Rodriguez&#8208;Garcia (DOI: &lt;a&gt;https://doi.org/10.1002/chem.20200302010.1002/chem.202003020&lt;/a&gt;). The Front Cover was designed by the EYCN.
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
+      <dc:title>The EYCN and the Power of Networking</dc:title>
+      <dc:identifier>doi:10.1002/chem.202003172</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T05:05:59-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202003172</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003172?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Cover Picture</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002911?af=R">
+      <title>Fluorogenic Protein Probes with Red and Near&#8208;Infrared Emission for Genetically Targeted Imaging</title>
+      <dc:description>Fluorogenic probes are important tools to image proteins with high contrast and no wash protocols. In this work, we rationally designed and synthesized a small set of four protein fluorogens with red or near&#8208;infrared emission. The fluorophores were characterized in the presence of albumin as a model protein environment and exhibited good fluorogenicity and brightness (fluorescence quantum yield up to 36 %). Once conjugated to a haloalkane ligand, the probes reacted with the protein self&#8208;labeling tag HaloTag with a high fluorescence enhancement (up to 156&#8208;fold). The spectroscopic properties of the fluorogens and their reaction with HaloTag were investigated  in vitro  experimentally and with the help of molecular dynamics. The two most promising probes, one in the red and one in the near&#8208;infrared range, were finally applied to image the nucleus or actin in live&#8208;cell and in wash&#8208;free conditions using fluorogenic and chemogenetic targeting of HaloTag fusion proteins.</dc:description>
+      <dc:creator>
+Sylvestre  P. J. T. Bachollet, 
+Cyril Addi, 
+Nicolas Pietrancosta, 
+Jean-Maurice Mallet, 
+Blaise Dumat
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002911?af=R</link>
+      <content:encoded>&lt;p&gt;Fluorogenic probes are important tools to image proteins with high contrast and no wash protocols. In this work, we rationally designed and synthesized a small set of four protein fluorogens with red or near&#8208;infrared emission. The fluorophores were characterized in the presence of albumin as a model protein environment and exhibited good fluorogenicity and brightness (fluorescence quantum yield up to 36 %). Once conjugated to a haloalkane ligand, the probes reacted with the protein self&#8208;labeling tag HaloTag with a high fluorescence enhancement (up to 156&#8208;fold). The spectroscopic properties of the fluorogens and their reaction with HaloTag were investigated  in vitro  experimentally and with the help of molecular dynamics. The two most promising probes, one in the red and one in the near&#8208;infrared range, were finally applied to image the nucleus or actin in live&#8208;cell and in wash&#8208;free conditions using fluorogenic and chemogenetic targeting of HaloTag fusion proteins.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Fluorogenic Protein Probes with Red and Near&#8208;Infrared Emission for Genetically Targeted Imaging</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002911</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T03:15:16-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002911</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002911?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202001390?af=R">
+      <title>Conformational Sensing by a Mammalian Olfactory Receptor</title>
+      <dc:description>
+Rotate to activate: Precisely what molecular features do the olfactory GPCRs sense in odorant ligands? The rodent Olfr2 receptor binds aliphatic aldehydes indiscriminately, but conformational restriction experiments on the flexible agonist, octanal, correlates the C5&#8722;C6 rotamer position with different receptor outputs&#8212;activation, partial activation, or antagonism. Thus, an olfactory GPCR can carry out conformational analysis during odor recognition.
+
+
+
+
+
+
+
+Abstract
+To identify odors, the mammalian nose deploys hundreds of olfactory receptors (ORs) from the rhodopsin&#8208;like class of the G&#8197;protein&#8208;coupled receptor superfamily. Odorants having multiple rotatable bonds present a problem for the stereochemical shape&#8208;based matching process assumed to govern the sense of smell through OR&#8211;odorant recognition. We conformationally restricted the carbon chain of the odorant octanal to ask whether an OR can respond differently to different odorant conformations. By using calcium imaging to monitor signal transduction in sensory neurons expressing the mouse aldehyde OR, Olfr2, we found that the spatial position of the C7 and C8 carbon atoms of octanal, in relation to its &#8722;CHO group, determines whether an aliphatic aldehyde functions as an agonist, partial agonist or antagonist. Our experiments provide evidence that an odorant can manipulate an OR through its intrinsic conformational repertoire, in unexpected analogy to the photon&#8208;controlled aldehyde manipulation observed in rhodopsin.
+</dc:description>
+      <dc:creator>
+Min Ting Liu, 
+Mihwa Na, 
+Yadi Li, 
+Mark R. Biscoe, 
+Kevin Ryan
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001390?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/58392980-4892-4977-8219-afe802f26e79/chem202001390-toc-0001-m.png"
+     alt="Conformational Sensing by a Mammalian Olfactory Receptor"/&gt;
+&lt;p&gt;&lt;b&gt;Rotate to activate &lt;/b&gt;: Precisely what molecular features do the olfactory GPCRs sense in odorant ligands? The rodent Olfr2 receptor binds aliphatic aldehydes indiscriminately, but conformational restriction experiments on the flexible agonist, octanal, correlates the C5&#8722;C6 rotamer position with different receptor outputs&#8212;activation, partial activation, or antagonism. Thus, an olfactory GPCR can carry out conformational analysis during odor recognition.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;To identify odors, the mammalian nose deploys hundreds of olfactory receptors (ORs) from the rhodopsin&#8208;like class of the G&#8197;protein&#8208;coupled receptor superfamily. Odorants having multiple rotatable bonds present a problem for the stereochemical shape&#8208;based matching process assumed to govern the sense of smell through OR&#8211;odorant recognition. We conformationally restricted the carbon chain of the odorant octanal to ask whether an OR can respond differently to different odorant conformations. By using calcium imaging to monitor signal transduction in sensory neurons expressing the mouse aldehyde OR, Olfr2, we found that the spatial position of the C7 and C8 carbon atoms of octanal, in relation to its &#8722;CHO group, determines whether an aliphatic aldehyde functions as an agonist, partial agonist or antagonist. Our experiments provide evidence that an odorant can manipulate an OR through its intrinsic conformational repertoire, in unexpected analogy to the photon&#8208;controlled aldehyde manipulation observed in rhodopsin.&lt;/p&gt;
+</content:encoded>
+      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
+      <dc:title>Conformational Sensing by a Mammalian Olfactory Receptor</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001390</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-21T12:00:00-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001390</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001390?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002779?af=R">
       <title>Escaping from Flatland: Stereoconvergent Synthesis of 3&#8208;Dimensional Scaffolds via Ruthenium(II)&#8208;Catalyzed Noyori&#8208;Ikariya Transfer Hydrogenation.</title>
       <dc:description>Noyori&#8208;Ikariya&#8208;type ruthenium(II)&#8208;catalysts for asymmetric transfer hydrogenation (ATH) have been known for 25 years and have proved as a well&#8208;behaved and user&#8208;friendly platform for the synthesis of chiral secondary alcohols. A progress has been made in the past five years in understanding the asymmetric reduction of complex ketones, where up to four stereocenters can be controlled in a single chemical transformation. Intriguing multi&#8208;chiral molecular architectures are therefore available in few well understood and robust synthetic steps from commercially available building blocks, and possess handles for additional functionalization. The aim of this review is to showcase the availability of three&#8208;dimensional scaffolds and homo&#8208;chiral lead&#8208;like compounds via ATH and inspire their direct use in drug discovery endeavors. Basic mechanistic insights are provided to demystify the stereo&#8208;chemical outcomes, as well as examples of diastereoselective transformations of enantiopure alcohols to give a feeling of how these rigid non&#8208;planar molecules can be further elaborated.</dc:description>
@@ -1443,40 +1711,6 @@ Joaquin  C. Garcia Martinez
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002925?af=R">
-      <title>Past, Present and Future of the European Chemical Society (EuChemS)</title>
-      <dc:description>
-50 years of EuChemS: In this Guest Editorial, F. Rutjes, EuChemS President&#8208;Elect, and P. Goya, EuChemS President, provide a brief overview of the history of the European Chemical Society and of what has been achieved over the past decades as well as an impression of the challenges that lie ahead.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Floris P. J. T. Rutjes, 
-Pilar Goya
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002925?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/db01a686-e85b-4202-934e-ea7b655d3a10/chem202002925-toc-0001-m.png"
-     alt="Past, Present and Future of the European Chemical Society (EuChemS)"/&gt;
-&lt;p&gt;&lt;b&gt;50 years of EuChemS &lt;/b&gt;: In this Guest Editorial, F. Rutjes, EuChemS President&#8208;Elect, and P. Goya, EuChemS President, provide a brief overview of the history of the European Chemical Society and of what has been achieved over the past decades as well as an impression of the challenges that lie ahead.
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
-      <dc:title>Past, Present and Future of the European Chemical Society (EuChemS)</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002925</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-14T11:51:08-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002925</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002925?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Guest Editorial</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002227?af=R">
       <title>Self&#8208;Assembly Behavior of Diacetylenic Acid Molecules upon Vapor Deposition: Odd&#8208;Even Effect on the Film Morphology</title>
       <dc:description>A series of linear carboxylic acids containing diacetylenic unit at different positions along the chain (C  12  H  25  (C&#8801;C)  2  (CH  2  )  n  COOH, n = 7&#8208;11) were vacuum&#8208;deposited on clean silicon substrate. Morphologies of the initial films after UV&#8208;irradiation were studied. A clear odd&#8208;even effect on the morphology of initial film was observed in that, depending on the spacer length between the diacetylenic unit and carboxyl head group, rings or dendrites of acid dimer layers were obtained. A molecular dynamic simulation of the aggregation process suggests that two competing intermolecular interactions and thus aggregation directions are involved and modulated by the odd or even carbon chain length. Further modulation of the interaction by substitution of a phenyl group at the terminus of the chain or by changing the carboxyl head group to amidobenzoic acid head group led to similar odd&#8208;even effect but of different dimension or trend, which can be rationalized similarly. These results would open the opportunity to create aligned conjugated polymer chains of different dimensions through self&#8208;assembly for applications in molecular/organic electronics.</dc:description>
@@ -1859,153 +2093,6 @@ Hans-Conrad zur Loye
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202002774</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002774?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003120?af=R">
-      <title>Metal/Metal Redox Isomerism Governed by Configuration</title>
-      <dc:description>A pair of diastereomeric dinuclear complexes, [Tp&#8217;(CO)BrW{&#956;&#8208;&#951;2&#8208;C,C&#8217;&#8208;k2&#8208;S,P&#8208;C2(PPh2)S}Ru(&#951;5&#8208;C5H5)(PPh3)], in which W and Ru are bridged by a phosphinyl(thiolato)alkyne in a side&#8208;on carbon P,S&#8208;chelate coordination mode, were synthesized, separated and fully characterized. Even though the isomers are similar in their spectroscopic properties and redox potentials, the like&#8208;isomer is oxidized at W while the unlike&#8208;isomer is oxidized at Ru, which is proven by IR, NIR and EPR&#8208;spectroscopy supported by spectro&#8208;electrochemistry and computational methods. The second oxidation of the complexes was shown to take place at the metal left unaffected in the first redox step. Finally, the tipping point could be realized in the unlike isomer of the electronically tuned thiophenolate congener [Tp&#8217;(CO)(PhS)W{&#956;&#8208;&#951;2&#8208;C,C&#8217;&#8208;k2&#8208;S,P&#8208;C2(PPh2)S}Ru(&#951;5&#8208;C5H5)(PPh3)], in which valence trapped W(III)/Ru(II) and W(II)/Ru(III) cationic species are at equilibrium.</dc:description>
-      <dc:creator>
-Stephan Ludwig, 
-Kai Helmdach, 
-Mareike H&#252;ttenschmidt, 
-Elisabeth Oberem, 
-Jabor Rabeah, 
-Alexander Villinger, 
-Ralf Ludwig, 
-Wolfram  Willy Seidel
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003120?af=R</link>
-      <content:encoded>&lt;p&gt;A pair of diastereomeric dinuclear complexes, [Tp&#8217;(CO)BrW{&#956;&#8208;&#951;2&#8208;C,C&#8217;&#8208;k2&#8208;S,P&#8208;C2(PPh2)S}Ru(&#951;5&#8208;C5H5)(PPh3)], in which W and Ru are bridged by a phosphinyl(thiolato)alkyne in a side&#8208;on carbon P,S&#8208;chelate coordination mode, were synthesized, separated and fully characterized. Even though the isomers are similar in their spectroscopic properties and redox potentials, the like&#8208;isomer is oxidized at W while the unlike&#8208;isomer is oxidized at Ru, which is proven by IR, NIR and EPR&#8208;spectroscopy supported by spectro&#8208;electrochemistry and computational methods. The second oxidation of the complexes was shown to take place at the metal left unaffected in the first redox step. Finally, the tipping point could be realized in the unlike isomer of the electronically tuned thiophenolate congener [Tp&#8217;(CO)(PhS)W{&#956;&#8208;&#951;2&#8208;C,C&#8217;&#8208;k2&#8208;S,P&#8208;C2(PPh2)S}Ru(&#951;5&#8208;C5H5)(PPh3)], in which valence trapped W(III)/Ru(II) and W(II)/Ru(III) cationic species are at equilibrium.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Metal/Metal Redox Isomerism Governed by Configuration</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003120</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-10T06:14:52-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003120</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003120?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003247?af=R">
-      <title>A Molecular Capsule with Revolving Doors Partitioning its Inner Space</title>
-      <dc:description>Covalent capsule&#160;1was designed to include two molecular baskets linked with three mobile pyridines tucked into its inner space. On the basis of both theory (DFT) and experiments (NMR and X&#8208;ray crystallography), we found that the pyridine &#8220;doors&#8221; split the chamber (380 &#197;3) of&#160;1so that two equally sizeable compartments (190 &#197;3) became joined via a conformationally flexible aromatic barrier. The compartments of such unique host could be populated with CCl4(88 &#197;3; PC = 46%), CBr4(106 &#197;3; 56%) or their combination CCl4/CBr4(PC = 51%), with thermodynamic stabilities&#160;DG&#186; tracking the values of packing coefficients (PC). Halogen (C&#8208;X&#215;&#215;&#215;p) and hydrogen bonding (C&#8208;H&#215;&#215;&#215;X) contacts held the haloalkane guests in the cavities of&#160;1. The consecutive complexations were found to occur in a negative allosteric manner, which we propose to result from the induced&#8208;fit mode of complexation. Newly designed&#160;1opens a way for probing the effects of inner conformational dynamics on noncovalent interactions, reactivity and intramolecular translation in confined spaces of hollow molecules.</dc:description>
-      <dc:creator>
-Jovica  D Badjic, 
-Lei Zhiquan, 
-Tyler  J Finnegan, 
-Vageesha  W. Liyana Gunawardana, 
-Han Xie, 
-Radoslav Pavlovic, 
-Curtis  E Moore
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003247?af=R</link>
-      <content:encoded>&lt;p&gt;Covalent capsule&#160;1was designed to include two molecular baskets linked with three mobile pyridines tucked into its inner space. On the basis of both theory (DFT) and experiments (NMR and X&#8208;ray crystallography), we found that the pyridine &#8220;doors&#8221; split the chamber (380 &#197;3) of&#160;1so that two equally sizeable compartments (190 &#197;3) became joined via a conformationally flexible aromatic barrier. The compartments of such unique host could be populated with CCl4(88 &#197;3; PC = 46%), CBr4(106 &#197;3; 56%) or their combination CCl4/CBr4(PC = 51%), with thermodynamic stabilities&#160;DG&#186; tracking the values of packing coefficients (PC). Halogen (C&#8208;X&#215;&#215;&#215;p) and hydrogen bonding (C&#8208;H&#215;&#215;&#215;X) contacts held the haloalkane guests in the cavities of&#160;1. The consecutive complexations were found to occur in a negative allosteric manner, which we propose to result from the induced&#8208;fit mode of complexation. Newly designed&#160;1opens a way for probing the effects of inner conformational dynamics on noncovalent interactions, reactivity and intramolecular translation in confined spaces of hollow molecules.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>A Molecular Capsule with Revolving Doors Partitioning its Inner Space</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003247</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-10T05:14:28-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003247</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003247?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002419?af=R">
-      <title>Novel reversibly switchable fluorescent molecular systems based on metallacarborane&#8208;perylenediimide conjugates</title>
-      <dc:description>Icosahedral metallacarboranes are &#952;&#8208;shaped anionic molecules in which two icosahedra share one vertex that is a metal center. The most remarkable of these compounds is the anionic cobalt&#8208;based metallacarborane [Co(C2B9H11)2]&#8208;  , whose oxidation&#8208;reduction processes occur via an outer sphere electron process. This, along with its low density negative charge, makes [Co(C2B9H11)2]&#8208;  very appealing to participate in electron&#8208;transfer processes. In this work, [Co(C2B9H11)2]&#8208; is tethered to a perylenediimide dye to produce the first examples of switchable luminescent molecules and materials based on metallacarboranes. In particular, the electronic communication of [Co(C2B9H11)2]&#8208;  with the appended chromophore unit in these compounds can be regulated upon application of redox stimuli, which allows the reversible modulation of the emitted fluorescence. As such, they behave as electrochemically&#8208;controlled fluorescent molecular switches in solution, which surpass the performance of previous systems based on conjugates of perylendiimides with ferrocene. Remarkably, they can form gels by treatment with appropriate mixtures of organic solvents, which result from the self&#8208;assembly of the cobaltabisdicarbollide&#8208;perylendiimide conjugates into 1D nanostructures. The interplay between dye &#960;&#8208;stacking and metallacarborane electronic and steric interactions ultimately governs the supramolecular arrangement in these materials, which for one of the compounds prepared allows preserving the luminescent behavior in the gel state.</dc:description>
-      <dc:creator>
-Laura Parejo, 
-Mahdi Chaari, 
-Sara Santiago, 
-Gonzalo Guirado, 
-Francesc Teixidor, 
-Rosario N&#250;&#241;ez, 
-Jordi Hernando
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002419?af=R</link>
-      <content:encoded>&lt;p&gt;Icosahedral metallacarboranes are &#952;&#8208;shaped anionic molecules in which two icosahedra share one vertex that is a metal center. The most remarkable of these compounds is the anionic cobalt&#8208;based metallacarborane [Co(C2B9H11)2]&#8208;  , whose oxidation&#8208;reduction processes occur via an outer sphere electron process. This, along with its low density negative charge, makes [Co(C2B9H11)2]&#8208;  very appealing to participate in electron&#8208;transfer processes. In this work, [Co(C2B9H11)2]&#8208; is tethered to a perylenediimide dye to produce the first examples of switchable luminescent molecules and materials based on metallacarboranes. In particular, the electronic communication of [Co(C2B9H11)2]&#8208;  with the appended chromophore unit in these compounds can be regulated upon application of redox stimuli, which allows the reversible modulation of the emitted fluorescence. As such, they behave as electrochemically&#8208;controlled fluorescent molecular switches in solution, which surpass the performance of previous systems based on conjugates of perylendiimides with ferrocene. Remarkably, they can form gels by treatment with appropriate mixtures of organic solvents, which result from the self&#8208;assembly of the cobaltabisdicarbollide&#8208;perylendiimide conjugates into 1D nanostructures. The interplay between dye &#960;&#8208;stacking and metallacarborane electronic and steric interactions ultimately governs the supramolecular arrangement in these materials, which for one of the compounds prepared allows preserving the luminescent behavior in the gel state.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Novel reversibly switchable fluorescent molecular systems based on metallacarborane&#8208;perylenediimide conjugates</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002419</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-10T04:44:48-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002419</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002419?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002248?af=R">
-      <title>Controlled Self&#8208;Assembly of Metallacycle&#8208;Bridged Gold Nanoparticles for Surface&#8208;Enhanced Raman Scattering</title>
-      <dc:description>In this work, well&#8208;defined two&#8208;dimensional metallacycles have been successfully employed for the well controlled self&#8208;assembly of gold nanoparticles into discrete clusters such as dimers, trimers, tetramers, pentamers and even hexamers at the water&#8208;oil interface for the first time. Furthermore, the modular construction of metallacycle molecules allows for precise control of interparticle spacing between gold nanoparticles. Interestingly, it was found that the short interparticle spacing below 5 nm created by molecular metallacycle in the resultant discrete gold nanoparticle clusters lead to a strong plasmon coupling, thus inducing great field enhancement inside the gap between the NPs. More importantly, the different discrete clusters with precise interparticle spacing provide a well&#8208;defined system for studying the hot spot phenomenon in surface&#8208;enhanced Raman scattering (SERS), which revealed that the SERS effects were closely related to the interparticle spacing.</dc:description>
-      <dc:creator>
-Lin Cheng, 
-Wei Zheng, 
-Xiao-Lei Yang, 
-Gui-Yuan Wu
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002248?af=R</link>
-      <content:encoded>&lt;p&gt;In this work, well&#8208;defined two&#8208;dimensional metallacycles have been successfully employed for the well controlled self&#8208;assembly of gold nanoparticles into discrete clusters such as dimers, trimers, tetramers, pentamers and even hexamers at the water&#8208;oil interface for the first time. Furthermore, the modular construction of metallacycle molecules allows for precise control of interparticle spacing between gold nanoparticles. Interestingly, it was found that the short interparticle spacing below 5 nm created by molecular metallacycle in the resultant discrete gold nanoparticle clusters lead to a strong plasmon coupling, thus inducing great field enhancement inside the gap between the NPs. More importantly, the different discrete clusters with precise interparticle spacing provide a well&#8208;defined system for studying the hot spot phenomenon in surface&#8208;enhanced Raman scattering (SERS), which revealed that the SERS effects were closely related to the interparticle spacing.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Controlled Self&#8208;Assembly of Metallacycle&#8208;Bridged Gold Nanoparticles for Surface&#8208;Enhanced Raman Scattering</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002248</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-10T04:43:28-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002248</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002248?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002588?af=R">
-      <title>Magnetic Correlation Engineering in Spin&#8208;Sandwiched Layered Magnetic Frameworks</title>
-      <dc:description>The insertion of &#8220;sandwiched spin&#8221; between magnetic layers could efficiently affect interlayer magnetic correlations, but doing so increases the complexity in the interlayer spin alignment because of competition between the inserted spin&#8211;layer interaction (  J  NNI  ) and the interlayer through&#8208;space interaction (  J  NNNI  ) if the magnitude of  J  NNI  is of the same degree as  J  NNNI  with reciprocal signs of the respective interactions. Here, we demonstrate the magnetic phase variations systematically tuned by  J  NNI  and  J  NNNI  in two kinds of metal&#8208;variable isostructural series of supramolecular pillared layer magnets, [  M  Cp*  2  ][{Ru  2  II,II  (2,3,5,6&#8208;F  4  CO  2  )  4  }  2  (TCNQ)]&#8901;2DCE (  M  = Co, Fe, Cr; 2,3,5,6&#8208;F  4  PhCO  2  &#8211;  = 2,3,5,6&#8208;tetrafluorobenzoate; TCNQ = 7,7,8,8&#8208;tetracyano&#8208;  p  &#8208;quinodimethane; DCE = 1,2&#8208;dichloroethane), and their DCE&#8208;free series, where the [  M  Cp*  2  ]  +  species with  S  = 0, 1/2, and 3/2 for  M  = Co, Fe, Cr, respectively, were sandwiched between ferrimagnetic layers of [{Ru  2  }  2  (TCNQ)]  &#8211;  . The results showed that the flexible magnetic natures of these magnets were changeable depending on  J  NNI  and  J  NNNI  , as well as on interlayer inserted spins  M  .</dc:description>
-      <dc:creator>
-Hitoshi Miyasaka, 
-Hiroki Fukunaga, 
-Wataru Kosaka, 
-Honoka Nemoto, 
-Kouji Taniguchi, 
-Shogo Kawaguchi, 
-Kunihisa Sugimoto
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002588?af=R</link>
-      <content:encoded>&lt;p&gt;The insertion of &#8220;sandwiched spin&#8221; between magnetic layers could efficiently affect interlayer magnetic correlations, but doing so increases the complexity in the interlayer spin alignment because of competition between the inserted spin&#8211;layer interaction (  J  NNI  ) and the interlayer through&#8208;space interaction (  J  NNNI  ) if the magnitude of  J  NNI  is of the same degree as  J  NNNI  with reciprocal signs of the respective interactions. Here, we demonstrate the magnetic phase variations systematically tuned by  J  NNI  and  J  NNNI  in two kinds of metal&#8208;variable isostructural series of supramolecular pillared layer magnets, [  M  Cp*  2  ][{Ru  2  II,II  (2,3,5,6&#8208;F  4  CO  2  )  4  }  2  (TCNQ)]&#8901;2DCE (  M  = Co, Fe, Cr; 2,3,5,6&#8208;F  4  PhCO  2  &#8211;  = 2,3,5,6&#8208;tetrafluorobenzoate; TCNQ = 7,7,8,8&#8208;tetracyano&#8208;  p  &#8208;quinodimethane; DCE = 1,2&#8208;dichloroethane), and their DCE&#8208;free series, where the [  M  Cp*  2  ]  +  species with  S  = 0, 1/2, and 3/2 for  M  = Co, Fe, Cr, respectively, were sandwiched between ferrimagnetic layers of [{Ru  2  }  2  (TCNQ)]  &#8211;  . The results showed that the flexible magnetic natures of these magnets were changeable depending on  J  NNI  and  J  NNNI  , as well as on interlayer inserted spins  M  .&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Magnetic Correlation Engineering in Spin&#8208;Sandwiched Layered Magnetic Frameworks</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002588</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-10T03:47:25-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002588</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002588?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002322?af=R">
-      <title>One&#8208;Step Synthesis of Spin Crossover Nanoparticles Using Flow Chemistry and Supercritical CO2</title>
-      <dc:description>Switchable materials are increasingly considered for implementation in devices or multifunctional composites leading to a strong need in terms of reliable synthetic productions of well&#8208;defined objects. We report here an innovative and robust template&#8208;free continuous process to synthesize nanoparticles of a switchable coordination polymer, including the use of supercritical CO  2  , aiming at both quenching the particle growth and drying the powder. This all&#8208;in&#8208;one process offered a 12&#8208;fold size reduction in few minutes, maintaining the switching properties of the selected spin crossover coordination polymer.</dc:description>
-      <dc:creator>
-Guillaume Chastanet, 
-Nathalie Daro, 
-Samuel Marre, 
-Cyril Aymonier, 
-Tony Vaudel, 
-Luc Afindouli
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002322?af=R</link>
-      <content:encoded>&lt;p&gt;Switchable materials are increasingly considered for implementation in devices or multifunctional composites leading to a strong need in terms of reliable synthetic productions of well&#8208;defined objects. We report here an innovative and robust template&#8208;free continuous process to synthesize nanoparticles of a switchable coordination polymer, including the use of supercritical CO  2  , aiming at both quenching the particle growth and drying the powder. This all&#8208;in&#8208;one process offered a 12&#8208;fold size reduction in few minutes, maintaining the switching properties of the selected spin crossover coordination polymer.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>One&#8208;Step Synthesis of Spin Crossover Nanoparticles Using Flow Chemistry and Supercritical CO2</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002322</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-10T03:44:28-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002322</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002322?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
