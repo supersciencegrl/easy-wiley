@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008512?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008748?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005482?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007922?af=R" />
@@ -207,7 +208,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008621?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005310?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006034?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007256?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006273?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006176?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006408?af=R" />
@@ -229,6 +229,31 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008512?af=R">
+      <title>Ambient Moisture Accelerates Hydroamination Reactions of Vinylarenes with Alkali&#8208;Metal Amides under Air</title>
+      <dc:description>A straightforward alkali&#8208;metal&#8208;mediated protocol for hydroamination of styrenes using biorenewable 2&#8209;methyltetrahydrofuran as a solvent is reported. Refuting the conventional wisdom of the incompatibility of organolithium reagents with air and moisture, we show that the presence of moisture is key in favouring formation of the target phenethylamines over competing olefin polymerisation products. The method is also compatible with sodium amides, with the latter showing excellent promise as highly efficient catalysts under inert atmosphere conditions.</dc:description>
+      <dc:creator>
+Eva Hevia, 
+Florian Mulks, 
+Leonie Bole, 
+Laia Davin, 
+Alberto Hernan-Gomez, 
+Alan R Kennedy, 
+Joaquin Gracia-Alvarez
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008512?af=R</link>
+      <content:encoded>&lt;p&gt;A straightforward alkali&#8208;metal&#8208;mediated protocol for hydroamination of styrenes using biorenewable 2&#8209;methyltetrahydrofuran as a solvent is reported. Refuting the conventional wisdom of the incompatibility of organolithium reagents with air and moisture, we show that the presence of moisture is key in favouring formation of the target phenethylamines over competing olefin polymerisation products. The method is also compatible with sodium amides, with the latter showing excellent promise as highly efficient catalysts under inert atmosphere conditions.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Ambient Moisture Accelerates Hydroamination Reactions of Vinylarenes with Alkali&#8208;Metal Amides under Air</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008512</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-21T07:09:34-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008512</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008512?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202008748?af=R">
       <title>Large and Highly Emissive Crystals from Carbon Quantum Dots onto Interfacial Organized Templates</title>
       <dc:description>Large and highly emissive crystals from carbon quantum dots (CQD) have been rarely demonstrated because of severe quenching effects of densely packed dots.&#160; Here,  we report template&#8208;assisted assembly of emissive CQD microcrystals on organized cellulose nanocrystals templates at the liquid&#8208;air interface.&#160; We suggest that this large&#8208;scale assembly is facilitated by the complementary amphiphilic character of CQDs and cellulose nanocrystals in organized nematic phase. &#160;The resulting large microcrystals up to 200 &#181;m across show unusually high emission that is not observed for limited CQDs aggregates.&#160; We suggest that the dense crystal packing of CQDs in the layered fashion suppresses local molecular rotations and vibrations, thus restricting the intermolecular energy transfer and corresponding quenching phenomena  . The as&#8208;prepared crystals are mechanically stable and can be exploited for recyclable catalysis, enabling prospective applications beyond the individual nanoparticles or their disordered aggregates. Additionally, the ligand&#8208;templated assembly can be versatilely used to diversify CQD crystal architectures to guide formation of fibers, microplates and micro&#8208;flowers, through different ligands templating.</dc:description>
@@ -2066,26 +2091,5 @@ Junqiao Ding
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006034?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007256?af=R">
-      <title>An electrochemical biosensor architecture leveraging protein folding and supporting real&#8208;time measurements directly in whole blood</title>
-      <dc:description>The ability to monitor drug and biomarker concentrations in the body with high frequency and in real time would revolutionize our understanding of biology and our capacity to personalize medicine. The few in&#8208;vivo molecular sensors that currently exist, however, all rely on the specific chemical or enzymatic reactivity of their targets and thus are not generalizable. In response, we demonstrate here an electrochemical sensing architecture based on binding&#8208;induced protein folding that is (1) independent of the reactivity of its targets, (2) reagentless, real&#8208;time, and seconds&#8208;resolved, and (3) selective enough to deploy in undiluted bodily fluids. As proof&#8208;of&#8208;principle we&#160;use&#160;the&#160;SH3 domain from human Fyn kinase&#160;to build a sensor that discriminates between the protein&#8217;s peptide targets and responds rapidly and quantitatively even in when challenged in whole blood. The resulting sensor architecture could drastically expand the chemical space accessible to continuous, real&#8208;time biosensors.</dc:description>
-      <dc:creator>
-Martin Kurnik, 
-Eric  Z. Pang, 
-Kevin Plaxco
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007256?af=R</link>
-      <content:encoded>&lt;p&gt;The ability to monitor drug and biomarker concentrations in the body with high frequency and in real time would revolutionize our understanding of biology and our capacity to personalize medicine. The few in&#8208;vivo molecular sensors that currently exist, however, all rely on the specific chemical or enzymatic reactivity of their targets and thus are not generalizable. In response, we demonstrate here an electrochemical sensing architecture based on binding&#8208;induced protein folding that is (1) independent of the reactivity of its targets, (2) reagentless, real&#8208;time, and seconds&#8208;resolved, and (3) selective enough to deploy in undiluted bodily fluids. As proof&#8208;of&#8208;principle we&#160;use&#160;the&#160;SH3 domain from human Fyn kinase&#160;to build a sensor that discriminates between the protein&#8217;s peptide targets and responds rapidly and quantitatively even in when challenged in whole blood. The resulting sensor architecture could drastically expand the chemical space accessible to continuous, real&#8208;time biosensors.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>An electrochemical biosensor architecture leveraging protein folding and supporting real&#8208;time measurements directly in whole blood</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007256</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-15T12:59:14-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007256</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007256?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    </rdf:RDF>
