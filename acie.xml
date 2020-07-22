@@ -1,14 +1,18 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://w3.org/1999/02/22-rdf-syntax-ns#">
-   <channel rdf:about="https://pericles.pericles-prod.literatumonline.com/journal/15213773?af=R">
+   <channel rdf:about="https://onlinelibrary.wiley.com/journal/15213773?af=R">
       <title>Angewandte Chemie International Edition (no repeats)</title>
       <description>Table of Contents for Angewandte Chemie International Edition. List of articles from both the latest and EarlyView issues.</description>
-      <link>https://pericles.pericles-prod.literatumonline.com/journal/15213773?af=R</link>
+      <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
       <dc:title>Angewandte Chemie International Edition (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008113?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008912?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.201908418?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008214?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009128?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009436?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008512?af=R" />
@@ -205,9 +209,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009572?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007122?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005865?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008386?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008897?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008621?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006273?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006176?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006408?af=R" />
@@ -220,15 +221,134 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006671?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004587?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007224?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006489?af=R" />
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://pericles.pericles-prod.literatumonline.com/pb-assets/journal-banners/15213773.jpg">
+   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg">
       <title>Angewandte Chemie International Edition</title>
-      <url>https://pericles.pericles-prod.literatumonline.com/pb-assets/journal-banners/15213773.jpg</url>
-      <link>https://pericles.pericles-prod.literatumonline.com/journal/15213773?af=R</link>
+      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
+      <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008113?af=R">
+      <title>Divergent and Stereoselective Synthesis of Tetraarylethylenes from Vinylboronates</title>
+      <dc:description>We here report the synthesis of a new tetraborylethylene (TBE) and its application in the preparation of [4+0]&#8208;tetraarylethenes (TAEs) that have widespread applications in material science and supramolecular chemistry due to their aggregation&#8208;induced emission (AIE) nature. The divergent and stereoselective synthesis of [3+1]&#8208;, [2+2]&#8208;, [2+1+1]&#8208;TAEs via multi&#8208;couplings of vinylboronates with aryl bromides were also demonstrated. These couplings feature broad substrate scope and excellent functional group compatibility due to mild reaction conditions, providing facile access to various tetraarylethenes. This strategy represents an important complement to the conventional methods for the synthesis of TAEs, and would be a valuable tool for synthesizing TAE&#8208;based molecules used in functional material, biological imaging and chemical sensing.</dc:description>
+      <dc:creator>
+Wanxiang Zhao, 
+Minghao Zhang, 
+Yisen Yao, 
+Peter  J. Stang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008113?af=R</link>
+      <content:encoded>&lt;p&gt;We here report the synthesis of a new tetraborylethylene (TBE) and its application in the preparation of [4+0]&#8208;tetraarylethenes (TAEs) that have widespread applications in material science and supramolecular chemistry due to their aggregation&#8208;induced emission (AIE) nature. The divergent and stereoselective synthesis of [3+1]&#8208;, [2+2]&#8208;, [2+1+1]&#8208;TAEs via multi&#8208;couplings of vinylboronates with aryl bromides were also demonstrated. These couplings feature broad substrate scope and excellent functional group compatibility due to mild reaction conditions, providing facile access to various tetraarylethenes. This strategy represents an important complement to the conventional methods for the synthesis of TAEs, and would be a valuable tool for synthesizing TAE&#8208;based molecules used in functional material, biological imaging and chemical sensing.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Divergent and Stereoselective Synthesis of Tetraarylethylenes from Vinylboronates</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008113</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-22T12:40:36-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008113</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008113?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008912?af=R">
+      <title>Through&#8208;Space Charge Transfer Polynorbornenes with Fixed and Controllable Spatial Alignment of Donor and Acceptor for High&#8208;Efficiency Blue Thermally Activated Delayed Fluorescence</title>
+      <dc:description>Through&#8208;space charge transfer polynorbornenes with fixed and controllable spatial alignment of donor and acceptor in edge&#8208;to&#8208;face/face&#8208;to&#8208;face stacking patterns are developed for achieving high&#8208;efficiency blue thermally activated delayed fluorescence (TADF). The alignment is realized by two aspects of molecular engineering on stereo&#8208;configuration of polymer skeleton and topological architecture of donor, including (i) using  cis, exo&#8208;configuration of norbornene to confine donor and acceptor in close proximity with distance of 3.52&#8764;3.90 &#197;, and (ii) utilizing orthogonal and dendritic structures of donors to provide either perpendicular or parallel stacking motif relative to acceptors. Compared to edge&#8208;to&#8208;face counterparts, polynorbornenes with face&#8208;to&#8208;face aligned donor and acceptor exhibit much larger oscillator strength and higher photoluminescence quantum yield up to 81% in neat film owing to the enforced cofacial &#960;&#8208;&#960; interactions. The resulting polymers exhibit deep blue (422 nm) to sky blue (482 nm) emission and TADF effect with reverse intersystem crossing rates of 0.4&#8764;5.9&#215;10  6  s  &#8722;1  , giving the maximum external quantum efficiency of 18.8% for non&#8208;doped blue organic light&#8208;emitting diodes by solution process, which represents the best efficiency for blue TADF polymers so far.</dc:description>
+      <dc:creator>
+Qiang Li, 
+Jun Hu, 
+Jianhong Lv, 
+Xingdong Wang, 
+Shiyang Shao, 
+Lixiang Wang, 
+Xiabin Jing, 
+Fosong Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008912?af=R</link>
+      <content:encoded>&lt;p&gt;Through&#8208;space charge transfer polynorbornenes with fixed and controllable spatial alignment of donor and acceptor in edge&#8208;to&#8208;face/face&#8208;to&#8208;face stacking patterns are developed for achieving high&#8208;efficiency blue thermally activated delayed fluorescence (TADF). The alignment is realized by two aspects of molecular engineering on stereo&#8208;configuration of polymer skeleton and topological architecture of donor, including (i) using  cis, exo&#8208;configuration of norbornene to confine donor and acceptor in close proximity with distance of 3.52&#8764;3.90 &#197;, and (ii) utilizing orthogonal and dendritic structures of donors to provide either perpendicular or parallel stacking motif relative to acceptors. Compared to edge&#8208;to&#8208;face counterparts, polynorbornenes with face&#8208;to&#8208;face aligned donor and acceptor exhibit much larger oscillator strength and higher photoluminescence quantum yield up to 81% in neat film owing to the enforced cofacial &#960;&#8208;&#960; interactions. The resulting polymers exhibit deep blue (422 nm) to sky blue (482 nm) emission and TADF effect with reverse intersystem crossing rates of 0.4&#8764;5.9&#215;10  6  s  &#8722;1  , giving the maximum external quantum efficiency of 18.8% for non&#8208;doped blue organic light&#8208;emitting diodes by solution process, which represents the best efficiency for blue TADF polymers so far.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Through&#8208;Space Charge Transfer Polynorbornenes with Fixed and Controllable Spatial Alignment of Donor and Acceptor for High&#8208;Efficiency Blue Thermally Activated Delayed Fluorescence</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008912</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-22T12:09:49-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008912</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008912?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.201908418?af=R">
+      <title>The Power of Iodane&#8208;Guided C&#8722;H Coupling: A Group&#8208;Transfer Strategy in Which a Halogen Works for Its Money</title>
+      <dc:description>
+I of the tiger: The iodine atom in Ar&#8722;I bonds is commonly conceived as a leaving group. This Minireview discusses a powerful alternative reactivity of iodine substituents by which &#955;3&#8208;iodoarenes direct C&#8722;H coupling events at the corresponding aromatic ring.
+
+
+
+
+
+
+
+Abstract
+Hypervalent organoiodane reagents are ubiquitous in organic synthesis, both as oxidants and as electrophilic group&#8208;transfer agents. In addition to these hallmark applications, a complementary strategy is gaining momentum that exploits the ability of &#955;3&#8208;iodanes to undergo iodine&#8208;to&#8208;arene group transfer, for example, via iodonio&#8208;Claisen&#8208;type rearrangement processes. This Minireview discusses recent advances in the use of this method to access a variety of the C&#8722;H&#8208;functionalized iodoarenes. While Section&#8197;2 is focused on the ortho C&#8722;H propargylation, allylation, and the more unusual para C&#8722;H benzylation, Section&#8197;3 is devoted to the C&#8208;arylation of enol and phenol substrates. The accompanying discussion includes mechanistic considerations and goes into the synthetic applications of the final iodoarene cores. The Minireview concludes with further conceptual extensions of the method, including the use of non&#8208;conventional coupling partners (for example, cyanoalkylation), improved access to &#955;3&#8208;iodane building blocks, and the development of iterative approaches to polysubstituted iodoarenes.
+</dc:description>
+      <dc:creator>
+Wei W. Chen, 
+Ana B. Cuenca, 
+Alexandr Shafir
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908418?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7177afc9-2003-47d7-b080-de2385987051/anie201908418-toc-0001-m.png"
+     alt="The Power of Iodane&#8208;Guided C&#8722;H Coupling: A Group&#8208;Transfer Strategy in Which a Halogen Works for Its Money"/&gt;
+&lt;p&gt;&lt;b&gt;I of the tiger &lt;/b&gt;: The iodine atom in Ar&#8722;I bonds is commonly conceived as a leaving group. This Minireview discusses a powerful alternative reactivity of iodine substituents by which &#955;&lt;sup&gt;3&lt;/sup&gt;&#8208;iodoarenes direct C&#8722;H coupling events at the corresponding aromatic ring.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Hypervalent organoiodane reagents are ubiquitous in organic synthesis, both as oxidants and as electrophilic group&#8208;transfer agents. In addition to these hallmark applications, a complementary strategy is gaining momentum that exploits the ability of &#955;&lt;sup&gt;3&lt;/sup&gt;&#8208;iodanes to undergo iodine&#8208;to&#8208;arene group transfer, for example, via iodonio&#8208;Claisen&#8208;type rearrangement processes. This Minireview discusses recent advances in the use of this method to access a variety of the C&#8722;H&#8208;functionalized iodoarenes. While Section&#8197;2 is focused on the &lt;i&gt;ortho &lt;/i&gt; C&#8722;H propargylation, allylation, and the more unusual &lt;i&gt;para &lt;/i&gt; C&#8722;H benzylation, Section&#8197;3 is devoted to the C&#8208;arylation of enol and phenol substrates. The accompanying discussion includes mechanistic considerations and goes into the synthetic applications of the final iodoarene cores. The Minireview concludes with further conceptual extensions of the method, including the use of non&#8208;conventional coupling partners (for example, cyanoalkylation), improved access to &#955;&lt;sup&gt;3&lt;/sup&gt;&#8208;iodane building blocks, and the development of iterative approaches to polysubstituted iodoarenes.&lt;/p&gt;
+</content:encoded>
+      <description>Angewandte Chemie International Edition, EarlyView. </description>
+      <dc:title>The Power of Iodane&#8208;Guided C&#8722;H Coupling: A Group&#8208;Transfer Strategy in Which a Halogen Works for Its Money</dc:title>
+      <dc:identifier>doi:10.1002/anie.201908418</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-21T11:44:41-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.201908418</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908418?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Minireview</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008214?af=R">
+      <title>N&#8208;bridged Acyclic Trimeric poly&#8208;Cyclodiphosphazanes: Highly Tuneable Building Blocks within the Cyclodiphosphazane Family</title>
+      <dc:description>We have synthesized a complete new family of acyclic trimeric cyclodiphosphazanes compounds comprising NH, N  i  Pr, N  t  Bu and NPh bridging groups. In addition, the first NH&#8208;bridged acyclic dimeric cyclophosphazane has been also produced. The trimeric species display highly tuneable characteristics whereby the distance between the terminal N(H)R moieties can be readily modulated by the steric bulk present in the bridging groups (ranging from ~6 to ~10 &#197;). Moreover, these species exhibit pronounced topological changes when a weak non&#8208;bonding NH&#8943;&#960; aryl interaction is introduced. Finally, the NH&#8208;bridged chloride binding affinities have been calculated and benchmarked along with the existing experimental data available for monomeric cyclodiphosphazanes. Our results underscore these species as promising hydrogen bond donors for supramolecular host&#8208;guest applications.</dc:description>
+      <dc:creator>
+Xiaoyan Shi, 
+Felix Leon, 
+Ying Sim, 
+Shina Quek, 
+Gavin Hum, 
+Yi Xin Joycelyn Khoo, 
+Zi Xuan Ng, 
+Par Mian Yang, 
+How Chee Ong, 
+Varun  K Singh, 
+Rakesh Ganguly, 
+Jack  K Clegg, 
+Jesus Diaz, 
+Felipe Garcia
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008214?af=R</link>
+      <content:encoded>&lt;p&gt;We have synthesized a complete new family of acyclic trimeric cyclodiphosphazanes compounds comprising NH, N  i  Pr, N  t  Bu and NPh bridging groups. In addition, the first NH&#8208;bridged acyclic dimeric cyclophosphazane has been also produced. The trimeric species display highly tuneable characteristics whereby the distance between the terminal N(H)R moieties can be readily modulated by the steric bulk present in the bridging groups (ranging from ~6 to ~10 &#197;). Moreover, these species exhibit pronounced topological changes when a weak non&#8208;bonding NH&#8943;&#960; aryl interaction is introduced. Finally, the NH&#8208;bridged chloride binding affinities have been calculated and benchmarked along with the existing experimental data available for monomeric cyclodiphosphazanes. Our results underscore these species as promising hydrogen bond donors for supramolecular host&#8208;guest applications.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>N&#8208;bridged Acyclic Trimeric poly&#8208;Cyclodiphosphazanes: Highly Tuneable Building Blocks within the Cyclodiphosphazane Family</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008214</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-21T11:40:20-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008214</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008214?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202009128?af=R">
       <title>Divergent Total Synthesis of Euphoranginol C, Euphoranginone D, ent&#8208;Trachyloban&#8208;3&#946;&#8208;ol, ent&#8208;Trachyloban&#8208;3&#8208;one, Excoecarin E, and ent&#8208;16&#945;&#8208;Hydroxy&#8208;atisane&#8208;3&#8208;one</title>
       <dc:description>A divergent synthetic approach to biogenetically related diterpenoids such as  ent  &#8208;kauranes,  ent  &#8208;trachylobanes,  ent  &#8208;beyerane, and  ent  &#8208;atisane has been developed. The unified synthetic route involves the De Mayo reaction to rapidly generate the bicyclo[3.2.1]&#8208;octane moiety of  ent  &#8208;kaurane. The key reactions also include bioinspired nucleophilic cyclopropanation generating the [3.2.1.0  2,7  ]&#8208;tricyclic core of  ent  &#8208;trachylobane and regioselective cyclopropane fragmentation furnishing  ent  &#8208;beyerane and  ent  &#8208;atisane through the nucleophilic attack and protonation of the cyclopropane ring. This strategy enables the asymmetric total syntheses of six diterpenoids from the commercially available geraniol.</dc:description>
@@ -245,7 +365,7 @@ Hongbo Zheng,
 Liyuan Fang, 
 Xiao-ning Wang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009128?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009128?af=R</link>
       <content:encoded>&lt;p&gt;A divergent synthetic approach to biogenetically related diterpenoids such as  ent  &#8208;kauranes,  ent  &#8208;trachylobanes,  ent  &#8208;beyerane, and  ent  &#8208;atisane has been developed. The unified synthetic route involves the De Mayo reaction to rapidly generate the bicyclo[3.2.1]&#8208;octane moiety of  ent  &#8208;kaurane. The key reactions also include bioinspired nucleophilic cyclopropanation generating the [3.2.1.0  2,7  ]&#8208;tricyclic core of  ent  &#8208;trachylobane and regioselective cyclopropane fragmentation furnishing  ent  &#8208;beyerane and  ent  &#8208;atisane through the nucleophilic attack and protonation of the cyclopropane ring. This strategy enables the asymmetric total syntheses of six diterpenoids from the commercially available geraniol.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Divergent Total Synthesis of Euphoranginol C, Euphoranginone D, ent&#8208;Trachyloban&#8208;3&#946;&#8208;ol, ent&#8208;Trachyloban&#8208;3&#8208;one, Excoecarin E, and ent&#8208;16&#945;&#8208;Hydroxy&#8208;atisane&#8208;3&#8208;one</dc:title>
@@ -254,7 +374,7 @@ Xiao-ning Wang
       <dc:date>2020-07-21T09:10:46-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009128</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009128?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009128?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -269,7 +389,7 @@ M.  Umar Farooq,
 Liu-Pan Yang, 
 Wei Jiang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009436?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009436?af=R</link>
       <content:encoded>&lt;p&gt;Benzene hydrogenation is one of important industrial processes. The reaction is incomplete, resulting in a mixture of benzene, cyclohexane and/or cyclohexene which have to be separated before the following reactions. The currently&#8208;used extractive and azeotropic distillations are operationally complex and energy&#8208;intensive. Adsorptive separation provides an alternative energy&#8208;efficient method. However, the separation of the ternary mixture has not been reported with adsorptive separation. In the present research, we report two macrocyclic hosts with hydrogen bonding sites in their cavities, which are able to separate the ternary mixture of benzene, cyclohexene and cyclohexane. N&#8208;H&#8901;&#8901;&#8901;&#960; interactions were found to play a key role in the selective separation. In addition, fast adsorption, high loading ratios and easy recycling are achieved with the present system, promising for practical applications.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Adsorptive Separation of Benzene, Cyclohexene, and Cyclohexane by Amorphous Nonporous Solids of Amide Naphthotubes</dc:title>
@@ -278,7 +398,7 @@ Wei Jiang
       <dc:date>2020-07-21T09:10:12-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009436</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009436?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009436?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -294,7 +414,7 @@ Alberto Hernan-Gomez,
 Alan R Kennedy, 
 Joaquin Gracia-Alvarez
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008512?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008512?af=R</link>
       <content:encoded>&lt;p&gt;A straightforward alkali&#8208;metal&#8208;mediated protocol for hydroamination of styrenes using biorenewable 2&#8209;methyltetrahydrofuran as a solvent is reported. Refuting the conventional wisdom of the incompatibility of organolithium reagents with air and moisture, we show that the presence of moisture is key in favouring formation of the target phenethylamines over competing olefin polymerisation products. The method is also compatible with sodium amides, with the latter showing excellent promise as highly efficient catalysts under inert atmosphere conditions.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Ambient Moisture Accelerates Hydroamination Reactions of Vinylarenes with Alkali&#8208;Metal Amides under Air</dc:title>
@@ -303,7 +423,7 @@ Joaquin Gracia-Alvarez
       <dc:date>2020-07-21T07:09:34-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008512</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008512?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008512?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -318,7 +438,7 @@ Saewon Kang,
 Markus Smith, 
 Vladimir  V. Tsukruk
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008748?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008748?af=R</link>
       <content:encoded>&lt;p&gt;Large and highly emissive crystals from carbon quantum dots (CQD) have been rarely demonstrated because of severe quenching effects of densely packed dots.&#160; Here,  we report template&#8208;assisted assembly of emissive CQD microcrystals on organized cellulose nanocrystals templates at the liquid&#8208;air interface.&#160; We suggest that this large&#8208;scale assembly is facilitated by the complementary amphiphilic character of CQDs and cellulose nanocrystals in organized nematic phase. &#160;The resulting large microcrystals up to 200 &#181;m across show unusually high emission that is not observed for limited CQDs aggregates.&#160; We suggest that the dense crystal packing of CQDs in the layered fashion suppresses local molecular rotations and vibrations, thus restricting the intermolecular energy transfer and corresponding quenching phenomena  . The as&#8208;prepared crystals are mechanically stable and can be exploited for recyclable catalysis, enabling prospective applications beyond the individual nanoparticles or their disordered aggregates. Additionally, the ligand&#8208;templated assembly can be versatilely used to diversify CQD crystal architectures to guide formation of fibers, microplates and micro&#8208;flowers, through different ligands templating.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Large and Highly Emissive Crystals from Carbon Quantum Dots onto Interfacial Organized Templates</dc:title>
@@ -327,7 +447,7 @@ Vladimir  V. Tsukruk
       <dc:date>2020-07-21T08:39:23-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008748</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008748?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008748?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -340,7 +460,7 @@ Ryota Abe,
 Tomohito Ide, 
 Kohtaro Osakada
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005482?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005482?af=R</link>
       <content:encoded>&lt;p&gt;The digold(I) complex [Au  2  Cl  2  (Cy  2  PCH  2  PCy  2  )] reacts with 4,4'&#8208;diphenylene diboronic acid to form a triangular macrocyclic complex with twisted Au&#8208;P&#8208;C&#8208;P&#8208;Au groups at the three corners. The synthesis of the complex and its chemical oxidation produced [6]cycloparaphenylene ([6]CPP) in 59% overall yield.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Macrocyclic Gold(I)&#8208;biphenylene Complex: Triangular Molecular Structure with Twisted Au2(diphosphine) Corners and Reductive Elimination of [6]Cycloparaphenylene</dc:title>
@@ -349,7 +469,7 @@ Kohtaro Osakada
       <dc:date>2020-07-21T07:41:25-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202005482</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005482?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005482?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -362,7 +482,7 @@ Ronan Rocaboy,
 Antonin Clemenceau, 
 Olivier Baudoin
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007922?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007922?af=R</link>
       <content:encoded>&lt;p&gt;The 1,4&#8208;Pd shift strategy allows the functionalization of remote C&#8211;H bonds that are difficult to reach directly. We report a domino reaction proceeding via C(sp3)&#8211;H activation, 1,4&#8208;Pd shift and amino&#8208; or alkoxycarbonylation, which generates a variety of amides and esters bearing a quaternary &#946; carbon. Mechanistic studies showed that the aminocarbonylation of the &#963;&#8208;alkylpalladium intermediate arising from Pd shift is fast using PPh3  as the ligand, and leads to the amide rather than the previously reported indanone product.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Synthesis of Amides and Esters by Pd0&#8208;Catalyzed Carbonylative C(sp3)&#8211;H Activation</dc:title>
@@ -371,7 +491,7 @@ Olivier Baudoin
       <dc:date>2020-07-21T07:40:34-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007922</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007922?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007922?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -382,7 +502,7 @@ Olivier Baudoin
 Zhiwei Tie, 
 Zhiqiang Niu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008960?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008960?af=R</link>
       <content:encoded>&lt;p&gt;Organic electroactive compounds are attractive to serve as the cathode materials of aqueous zinc&#8208;ion batteries (ZIBs) because of their resource renewability, environmentally friendliness and structural diversity. Up to now, various organic electrode materials have been developed and different redox mechanisms are observed in aqueous Zn/organic battery systems. In this Minireview, we present the recent developments in the energy storage mechanisms and design of the organic electrode materials of aqueous ZIBs, including carbonyl compounds, imine compounds, conductive polymers, nitronyl nitroxides, organosulfur polymers and triphenylamine derivatives. Furthermore, we highlight the design strategies to improve their electrochemical performance in the aspects of specific capacity, output voltage, cycle life and rate capability. Finally, we discuss the challenges and future perspectives of aqueous Zn/organic batteries.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Design Strategies for High&#8208;Performance Aqueous Zn/Organic Batteries</dc:title>
@@ -391,7 +511,7 @@ Zhiqiang Niu
       <dc:date>2020-07-21T07:39:35-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008960</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008960?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008960?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -405,7 +525,7 @@ Zhuliang Zhong,
 Vanessa  Kar-Yan Lo, 
 Xiao-Shui Peng
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009255?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009255?af=R</link>
       <content:encoded>&lt;p&gt;The first total synthesis of cryptotrione (  1  ) has been achieved through substrate&#8208;controlled diastereoselective construction of the bicyclo[3.1.0]hexene framework  via  platinum&#8208;catalyzed enyne cycloisomerization, Lewis&#8208;acid induced polyene cyclization to construct the abietane type tricyclic diterpene skeleton, as well as diastereo&#8208;divergent conjugate&#160;addition to generate the tertiary carbon center on the side chain.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Total Synthesis of Cryptotrione</dc:title>
@@ -414,7 +534,7 @@ Xiao-Shui Peng
       <dc:date>2020-07-21T07:11:28-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009255</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009255?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009255?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -429,7 +549,7 @@ Meiling Dou,
 Zhengping Zhang, 
 Feng Wang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009612?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009612?af=R</link>
       <content:encoded>&lt;p&gt;High&#8208;performance electrocatalysts for the hydrogen evolution reaction (HER) have an important role to play in the development of renewable energy. Despite the enormous efforts to find cheaper alternative materials, platinum remains the most efficient known HER electrocatalyst. Therefore, it is necessary to find ways to maximize Pt utilization in actual practical applications. Here we demonstrate a facile strategy for synthesizing RuCeO  x  &#8208;supported selectively loaded atomic Pt (0.49 wt.%) (denoted Pt/RuCeO  x  &#8208;PA) by photoactivation at ambient temperature and pressure. Due to the photoelectron transfer at the Mott&#8211;Schottky heterojunction in RuCeO  x  , Pt atoms became directionally embedded into the RuO  2  lattice. The resulting selectively loaded Pt&#8211;O&#8211;Ru moieties in Pt/RuCeO  x  &#8208;PA exhibit a stronger hydrogen spillover effect than Pt complexes randomly loaded by either chemical activation or thermal activation. As a result, Pt/RuCeO  x  &#8208;PA shows superior HER performance to the materials prepared by random loading and is even better than a commercial Pt/C catalyst with much higher Pt loading (20 wt.%) at high current densities (from 50&#8211;600 mA cm  &#8211;2  ). The selective loading strategy employed in our work not only provides an effective approach for constructing controllable active sites in HER catalysts but should also be applicable in the fabrication of other atomic catalysts.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Selective loading of atomic Pt on a RuCeOx support enables stable hydrogen evolution at high current densities</dc:title>
@@ -438,7 +558,7 @@ Feng Wang
       <dc:date>2020-07-21T05:41:31-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009612</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009612?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009612?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -448,7 +568,7 @@ Feng Wang
       <dc:creator>
 Xinbo Zhang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009064?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009064?af=R</link>
       <content:encoded>&lt;p&gt;Li&#8208;O  2  batteries with ultrahigh theoretical energy densities usually suffer from low practical discharge capacities and inferior cycling stability owing to the cathode passivation caused by insulating discharge products and by&#8208;products. Here, we firstly introduce a new kind of trifunctional ether&#8208;based redox mediator, 2,5&#8208;di&#8208;tert&#8208;butyl&#8208;1,4&#8208;dimethoxybenzene (DBDMB), into the electrolyte to capture the reactive O  2  &#8208;  and alleviate the rigorous oxidative environment during cycling of Li&#8208;O  2  batteries. Thanks to the strong solvation of DBDMB towards Li  +  and O  2  &#8208;  , it can not only reduce the formation of by&#8208;products (a high Li  2  O  2  yield of 96.6%), but also promote the solution growth of large&#8208;sized Li  2  O  2  particles, avoiding the passivation of cathode as well as enabling a large discharge capacity. More encouragingly, DBDMB makes the oxidization of Li  2  O  2  and the decomposition of main by&#8208;products (Li  2  CO  3  and LiOH) proceed in a highly effective manner, prolonging the stability of Li&#8208;O  2  batteries (243 cycles at 1000 mAh g  &#8208;1  and 1000 mA g  &#8208;1  ). DFT calculations also unravel the intrinsic functional mechanism of DBDMB for facilitating the reversible O  2  involved redox reactions. Our strategy of using trifunctional electrolyte additive to capture reactive discharge intermediates with reduced formation of by&#8208;products, regulate solution growth of Li  2  O  2  , and co&#8208;oxidize Li  2  O  2  and by&#8208;products, will open up a new avenue to promote the performance of Li&#8208;air batteries.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Trifunctional soluble redox mediator enabled high&#8208;capacity and stable Li&#8208;O2 batteries</dc:title>
@@ -457,7 +577,7 @@ Xinbo Zhang
       <dc:date>2020-07-21T05:40:05-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009064</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009064?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009064?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -474,7 +594,7 @@ David  B. Cordes,
 Alexandra  M. Z. Slawin, 
 Michael B&#369;hl
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008662?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008662?af=R</link>
       <content:encoded>&lt;p&gt;We report the synthesis of all&#8208;cis 1,2,4,5&#8208;tetrakis (trifluoromethyl)&#8208; and all&#8208;cis 1,2,3,4,5,6&#8208;hexakis (trifluoromethyl)&#8208; cyclohexanes by direct hydrogenation of precursor tetrakis&#8208; or hexakis&#8208; (trifluoromethyl)benzenes. The resultant cyclohexanes have a stereochemistry such that all of the CF  3  groups are on the same face of the cyclohexyl ring. All&#8208;cis 1,2,3,4,5,6&#8208;hexakis(trifluoromethyl)cyclohexane is the most sterically demanding of the all&#8208;cis hexakis substituted cyclohexanes prepared to date with a barrier (  &#916;G)  to ring inversion calculated at 27 kcal mol  &#8208;1  . The X&#8208;ray structure of all&#8208;cis 1,2,3,4,5,6&#8208;hexakis(trifluoromethyl)cyclohexane displays a flattened chair conformation and the electrostatic profile of this compound reveals a large diffuse negative density on the fluorine face and a focused positive density on the hydrogen face. The electropositive hydrogen face has the ability to co&#8208;ordinate chloride (K = ~10  3  ) and to a lesser extent fluoride and iodide (K = ~10  2  ) ions. Dehydrofluorination promoted decomposition occurs with fluoride ion acting as a base.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Janus face all&#8208;cis 1,2,4,5&#8208;tetrakis(trifluoromethyl)&#8208; and all&#8208;cis 1,2,3,4,5,6&#8208;hexakis(trifluoromethyl)&#8208; cyclohexanes</dc:title>
@@ -483,7 +603,7 @@ Michael B&#369;hl
       <dc:date>2020-07-21T04:39:29-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008662</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008662?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008662?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -500,7 +620,7 @@ Sharon Gilead,
 Guanghong Wei, 
 Ehud Gazit
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008702?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008702?af=R</link>
       <content:encoded>&lt;p&gt;Bottom&#8208;up self&#8208;assembled bio&#8208;inspired materials have attracted increasing interest in diverse fields. The use of peptide supramolecular semiconductors for optoelectronic applications is especially intriguing. However, the characteristic thermal unsustainability limits their practical application. Here, we report the thermal sustainability of cyclo&#8208;ditryptophan assemblies up to 680 K. Non&#8208;covalent interactions underlie the stability mechanism, generating a low exciton binding energy of only 0.29 eV and high thermal quenching activation energy of up to 0.11 eV. The contributing forces comprise predominantly of aromatic interactions, followed by hydrogen bonding between peptide molecules and, to a lesser extent, water&#8208;mediated associations. This thermal sustainability results in a temperature&#8208;dependent conductivity of the supramolecular semiconductors, showing 93% reduction of the resistance from 320 K to 440 K. Our results establish thermo&#8208;sustainable peptide self&#8208;assembly for heat&#8208;sensitive applications.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Bioinspired Supramolecular Packing Enables High Thermo&#8208;Sustainability</dc:title>
@@ -509,7 +629,7 @@ Ehud Gazit
       <dc:date>2020-07-21T04:10:37-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008702</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008702?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008702?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -523,7 +643,7 @@ Shuo Yang,
 Xiu-Ying Xie, 
 Bin Xiao
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008482?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008482?af=R</link>
       <content:encoded>&lt;p&gt;Catellani reaction has received extensive attentions as it allows rapid multiple derivatization on aromatics. While using alkyl electrophiles to achieve  ortho  &#8208;alkylation is one of the earliest features of Catellani reaction,  beta  &#8208;H incorporated  ipso  &#8208;alkylation terminated reaction has not been realized to date. Herein, we report alkylation terminated Catellani reaction using alkyl carbagermatranes (alkyl&#8208;  Ge  ) as nucleophiles. Reactivity of alkyl&#8208;  Ge  and alkyl&#8208;B(OH)  2  in this reaction was also discussed. This reaction realized efficient  beta  &#8208;H incorporated dialkylation, which is inaccessible by Catellani reaction before.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Alkylation&#8208;Terminated Catellani Reactions Using Alkyl Carbagermatranes</dc:title>
@@ -532,7 +652,7 @@ Bin Xiao
       <dc:date>2020-07-21T04:09:35-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008482</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008482?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008482?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -543,7 +663,7 @@ Bin Xiao
 Zhiming Liang, 
 Chunmei Ban
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006472?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006472?af=R</link>
       <content:encoded>&lt;p&gt;The whole electrochemical society is inspired by the first prototype of rechargeable magnesium (Mg) batteries demonstrated two decades ago. However, the development of rechargeable Mg batteries has been hampered by the incompatibility between Mg&#8208;metal anode and conventional electrolytes. Efforts have been made to seek new electrolytes that are thermodynamically stable against reduction at the expense of low oxidation potential at cathode side. Alternatively, using artificial solid&#8208;electrolyte interphase (SEI) fabricated via surface coating presented promising results to address the metallic Mg/electrolyte incompatibility and significantly broaden the selection of electrolytes. This minireview discusses the mitigating strategies from electrolyte development to design of artificial interphase, and future perspectives in the development of artificial interphase for rechargeable magnesium batteries.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Strategies to Enable Reversible Magnesium Electrochemistry: From Electrolytes to Artificial Solid&#8208;Electrolyte Interphase</dc:title>
@@ -552,7 +672,7 @@ Chunmei Ban
       <dc:date>2020-07-21T03:39:30-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006472</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006472?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006472?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -566,7 +686,7 @@ Micheline  B. Soley,
 Erik  T. J. Nibbering, 
 Victor  Salvador Batista
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007192?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007192?af=R</link>
       <content:encoded>&lt;p&gt;Ultrafast UV&#8208;pump/soft&#8208;X&#8208;ray&#8208;probe spectroscopy is a subject of great interest since it can provide detailed information about dynamical photochemical processes with ultrafast resolution and atomic specificity. Here, we focus on the photodissociation of ICN in the 1&#928;1 excited state, with emphasis on the transient response in the soft&#8208;X&#8208;ray spectral region as described by the ab initio spectral lineshape averaged over the nuclear wavepacket probability density. We find that the carbon K&#8208;edge spectral region reveals a rich transient response that provides direct insights into the dynamics of frontier orbitals during the I&#8208;CN bond cleavage process. The simulated UV&#8208;pump/soft&#8208;X&#8208;ray&#8208;probe spectra exhibit detailed dynamical information, including a time&#8208;domain signature for coherent vibration associated with the photogenerated CN fragment.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Vibronic Dynamics of Photodissociating ICN from Simulations of Ultrafast X&#8208;Ray Absorption Spectroscopy</dc:title>
@@ -575,7 +695,7 @@ Victor  Salvador Batista
       <dc:date>2020-07-21T03:15:51-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007192</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007192?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007192?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -596,7 +716,7 @@ Cupin proteins share a double&#8208;stranded &#946;&#8208;helix fold, form one o
       <dc:creator>
 Rundong Zhang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.201811240?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201811240?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1f0f42f7-879c-471b-9216-7a52094e05ae/anie201811240-toc-0001-m.png"
      alt="The Cupin Protein Pac13 is Suggested by the Data to Be a Homodimer"/&gt;
 &lt;p&gt;&lt;b&gt;Seeing double &lt;/b&gt;: Cupin proteins form one of the largest protein superfamilies and usually exist in homooligomeric states. Goss and co&#8208;workers recently reported that the cupin protein Pac13, which is a dehydratase that mediates the formation of the 3&#8242;&#8208;deoxy nucleoside of pacidamycins, is an unusual small monomer. However, analysis of the biophysical and structural data provided by the authors suggests that Pac13 is in fact a homodimer, similar to many other cupin proteins.
@@ -617,7 +737,7 @@ Rundong Zhang
       <prism:coverDate>2020-07-27T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-07-27T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.201811240</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.201811240?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201811240?af=R</prism:url>
       <prism:copyright />
       <prism:section>Correspondence</prism:section>
    </item>
@@ -638,7 +758,7 @@ Zhuo G. Chen,
 Yonggang Ke, 
 Dong M. Shin
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006993?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006993?af=R</link>
       <content:encoded />
       <description>Angewandte Chemie International Edition, Volume 59, Issue 31, Page 12575-12575, July 27, 2020. </description>
       <dc:title>Corrigendum: Systemic Delivery of Bc12&#8208;Targeting siRNA by DNA Nanoparticles Suppresses Cancer Cell Growth</dc:title>
@@ -651,7 +771,7 @@ Dong M. Shin
       <prism:coverDate>2020-07-27T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-07-27T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202006993</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006993?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006993?af=R</prism:url>
       <prism:copyright />
       <prism:section>Corrigendum</prism:section>
    </item>
@@ -667,7 +787,7 @@ Mark S. Gordon,
  
 David Danovich
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007475?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007475?af=R</link>
       <content:encoded />
       <description>Angewandte Chemie International Edition, Volume 59, Issue 31, Page 12574-12574, July 27, 2020. </description>
       <dc:title>Corrigendum: Orbitals and the Interpretation of Photoelectron Spectroscopy and (e,2e) Ionization Experiments</dc:title>
@@ -680,7 +800,7 @@ David Danovich
       <prism:coverDate>2020-07-27T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-07-27T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202007475</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007475?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007475?af=R</prism:url>
       <prism:copyright />
       <prism:section>Corrigendum</prism:section>
    </item>
@@ -697,7 +817,7 @@ Sean M. Lynn,
 Sunil V. Sharma, 
 Rebecca J. M. Goss
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202000990?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000990?af=R</link>
       <content:encoded />
       <description>Angewandte Chemie International Edition, Volume 59, Issue 31, Page 12573-12573, July 27, 2020. </description>
       <dc:title>Corrigendum: Pac13 is a Small Dehydratase that Mediates the Formation of the 3&#8242;&#8208;Deoxy Nucleoside of Pacidamycins</dc:title>
@@ -710,7 +830,7 @@ Rebecca J. M. Goss
       <prism:coverDate>2020-07-27T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-07-27T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202000990</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202000990?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000990?af=R</prism:url>
       <prism:copyright />
       <prism:section>Corrigendum</prism:section>
    </item>
@@ -718,7 +838,7 @@ Rebecca J. M. Goss
       <title>Graphical Abstract: Angew. Chem. Int. Ed. 31/2020</title>
       <dc:description />
       <dc:creator />
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202083111?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202083111?af=R</link>
       <content:encoded />
       <description>Angewandte Chemie International Edition, Volume 59, Issue 31, Page 12551-12576, July 27, 2020. </description>
       <dc:title>Graphical Abstract: Angew. Chem. Int. Ed. 31/2020</dc:title>
@@ -731,7 +851,7 @@ Rebecca J. M. Goss
       <prism:coverDate>2020-07-27T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-07-27T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202083111</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202083111?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202083111?af=R</prism:url>
       <prism:copyright />
       <prism:section>Graphical Abstract</prism:section>
    </item>
@@ -761,7 +881,7 @@ Anna M&#252;ller,
 Tanja Schneider, 
 Olga Genilloud
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202083161?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202083161?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/bd8da48a-8bd7-445b-9c1c-42e523b8d431/anie202083161-toc-0001-m.png"
      alt="Frontispiece: Cacaoidin, First Member of the New Lanthidin RiPP Family"/&gt;
 &lt;p&gt;&lt;b&gt;Natural Products &lt;/b&gt; In their Communication on &lt;a&gt;https://doi.org/10.1002/anie.202005187page&#8197;12654&lt;/a&gt;, F.&#8197;J. Ortiz&#8208;L&#243;pez et&#8197;al. describe a novel glycosylated lantibiotic, cacaoidin, which inaugurates a new RiPP family characterized by the co&#8208;occurrence of lanthionine rings and N&#8208;terminus dimethylation.
@@ -780,7 +900,7 @@ Olga Genilloud
       <prism:coverDate>2020-07-27T07:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-07-27T07:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/anie.202083161</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202083161?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202083161?af=R</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -795,7 +915,7 @@ Florent Dubray,
 Nikolai Nesterenko, 
 Jean-Pierre Gilson
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005498?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005498?af=R</link>
       <content:encoded>&lt;p&gt;The development of catalysts that can operate under exceptionally harsh and unconventional conditions is of critical importance for the transition of the energy and chemicals industries to low&#8208;emission and renewable chemical feedstocks. In this review we will highlight materials and more specifically metal&#8208;containing zeolite catalysts that have been tested under harsh reaction conditions such as high temperature light alkane conversion and biomass valorization. Particular attention will be given to studies that explore the stability and recyclability of metal&#8208;containing zeolite catalysts operating in continuous modes. Metal&#8208;containing zeolites are considered as an important class of catalysts operating outside the comfort zone of current heterogeneous catalytic reactions in both gas and liquid phase reactions. The relationship between the properties of the metal&#8208;containing zeolite and catalytic performance will be explored.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Emphasis on the properties of metal&#8208;containing zeolites operating outside the comfort zone of current heterogeneous catalytic reactions</dc:title>
@@ -804,7 +924,7 @@ Jean-Pierre Gilson
       <dc:date>2020-07-21T12:11:28-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202005498</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005498?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005498?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -818,7 +938,7 @@ Silvio Poppe,
 Carsten Tschierske, 
 Feng Liu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008784?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008784?af=R</link>
       <content:encoded>&lt;p&gt;Liquid state self&#8208;assembly is important for the understanding of the complex structures having been developed in abiogenesis and biogenesis as well as for numerous potential technological applications. Here the first body&#8208;centered cubic liquid crystalline phase with 8&#8208;connected network topology and open octahedral network structure is reported to be formed by dynamic soft self&#8208;assembly of X&#8208;shaped polyphiles with oligo( para  &#8208;phenylene&#8208;ethynylene) cores. The &#960;&#8208;conjugated rods with perfluorinated inner benzene rings form the networks conjoined by eight&#8208;way junctions, being formed by nano&#8208;segregated spheres involving the hydrogen bonded polar end groups, while the branched aliphatic chains at opposite sides of the cores fill the continuum. This novel cubic phase is based on the I&#8208;WP minimal surface separating the frameworks of polyaromatic cores from the most disordered chain segments and simultaneously it can be considered as a dense sphere packing. Such liquid organic frameworks, representing hybrids of sphere packings and networks could be of interest for organic photonics and other technologies.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Liquid Organic Frameworks: A Liquid Crystalline 8&#8208;Connected Network with Body&#8208;Centered Cubic Symmetry</dc:title>
@@ -827,7 +947,7 @@ Feng Liu
       <dc:date>2020-07-21T12:00:00-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008784</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008784?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008784?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -847,7 +967,7 @@ Reuben Bettinger,
 John Zientko, 
 Aaron Esser-Kahn
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006468?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006468?af=R</link>
       <content:encoded>&lt;p&gt;Abstract:    Aiming for sustainable development, the syntheses of degradable polymers from renewable resources are highly encouraging. Unfortunately, such efforts are deterred by technical and economic challenges; especially, the conversion of natural building blocks to polymerizable monomers is inefficient, requiring multistep synthesis and chromatographic purification. Herein we report a chemoenzymatic process to address these challenges. In this work, a novel enzymatic reaction system was designed, which allowed for regioselective functional group transformation efficiently, converting glucose to a polymerizable monomer in quantitative yield, thus removing the need for chromatographic purification. With this key success, we further designed a continuous, 3&#8208;step process, which enabled the synthesis of a sugar polymer [sugar poly(orthoester)] directly from glucose in high yield (73% from glucose). The work reported here may provide a proof&#8208;of&#8208;concept in developing technically and economically viable approaches to address the many issues associated with current petroleum&#8208;based polymers.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>From  Glucose to Polymers&#8208;&#8208;&#8208;&#8208;A Continuous Chemoenzymatic Process</dc:title>
@@ -856,7 +976,7 @@ Aaron Esser-Kahn
       <dc:date>2020-07-20T09:05:05-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006468</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006468?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006468?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -868,7 +988,7 @@ Qiang Yan,
 Rongjin Zeng, 
 Liang Chen
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006842?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006842?af=R</link>
       <content:encoded>&lt;p&gt;Emulating the function of natural carboxylases to convert CO2 under atmospheric condition is a grand challenge. Here we report a class of CO2&#8208;folded single&#8208;chain nanoparticles (SCNPs) that can function as recyclable, function&#8208;intensified carboxylase mimics. Using Lewis pair polymer containing bulky Lewis acidic and basic groups as the precursor, it can bind CO2 to drive an intramolecular folding into SCNP, in which CO2 as the folded nodes can form gas&#8208;bridged bonds. Such bridging linkages highly activate CO2, which endows the SCNPs with extraordinary catalytic ability that can not only catalyze CO2&#8208;insertion of C(sp3)&#9472;H for imitating natural enzyme's function, and also act on non&#8208;natural carboxylation pathways for C(sp2 and sp)&#9472;H substrates. The nanocatalysts are of highly catalytic efficiency and recyclability, and can work at room temperature and near ambient CO2 condition, inspiring a new vista on sustainable C1 utilization.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>CO2&#8208;Folded Single&#8208;Chain Nanoparticles as Recyclable, Intensified Carboxylase Mimics</dc:title>
@@ -877,7 +997,7 @@ Liang Chen
       <dc:date>2020-07-20T07:34:51-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006842</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006842?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006842?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -889,7 +1009,7 @@ Dmitry  M Kolpashchikov,
 Tatiana  A. Molden, 
 Caitlyn  T. Niccum
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006384?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006384?af=R</link>
       <content:encoded>&lt;p&gt;DNA nanotechnology uses oligonucleotide strands to assemble molecular structures capable of performing useful operations. Here, we assembled a multifunctional prototype DNA nanodevice, DOCTR, that recognizes a single nucleotide mutation in a cancer marker RNA followed by cutting out a signature sequence and using it as an activator for a &#8216;therapeutic&#8217; function: cleavage of another RNA sequence. The proposed design is a prototype for a gene therapy DNA machine that cleaves a housekeeping gene only in the presence of a cancer&#8208;causing point mutation and suppresses exclusively cancer cells with minimal side effects to normal cells.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Cut and Paste for Cancer Treatment: a DNA Nanodevice that cuts out an RNA Marker Sequence to Activate a Therapeutic Function</dc:title>
@@ -898,7 +1018,7 @@ Caitlyn  T. Niccum
       <dc:date>2020-07-20T11:33:46-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006384</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006384?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006384?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -911,7 +1031,7 @@ Tao Zhang,
 Zhi-Keng Lin, 
 Bing-Feng Shi
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008437?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008437?af=R</link>
       <content:encoded>&lt;p&gt;Transition metal&#8208;catalyzed enantioselective functionalization of C&#8211;H bond, the most abundant functionality in organic molecules, has emerged as an expedient synthetic approach to streamline the synthesis of complex chiral molecules. Despite significant progress, traditional directing group&#8208;enabled strategy requires additional steps for the installation and removal of directing groups from the target molecule. The recent developed asymmetric C&#8211;H functionalization using chiral transient directing groups (  c  TDGs) offers a promising alternative that can circumvent this obstacle and therefore simplify the process. In this minireview, we briefly discuss the advent and recent advances of this emerging concept, with an emphasis on discussing the creation of various stereogenic centers and the developments of  c  TDGs. Applications in natural product synthesis and ligand derivatizations are also discussed. We hope this minireview will highlight the great potential of this strategy and help to inspire further endeavors.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Transition Metal&#8208;Catalyzed Enantioselective C&#8211;H Functionalization via Chiral Transient Directing Group Strategy</dc:title>
@@ -920,7 +1040,7 @@ Bing-Feng Shi
       <dc:date>2020-07-20T09:11:04-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008437</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008437?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008437?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -936,7 +1056,7 @@ Juan  S Martinez-Espin,
 Sebastian Meier, 
 Ceri Hammond
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006718?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006718?af=R</link>
       <content:encoded>&lt;p&gt;The isomerisation of glucose to fructose is a critical step towards manufacturing petroleum&#8208;free chemicals from lignocellulosic biomass. Here we show that Hf&#8208;containing zeolites are unique catalysts for this reaction, enabling true thermodynamic equilibrium to be achieved in a single step during intensified continuous operation, which no chemical or biological catalyst has yet been able to achieve. Unprecedented single pass yields of 58 % are observed at a fructose selectivity of 94 %, and continuous operation for over 100 hours is demonstrated. The unexpected performance of the catalyst is realised following a period of activation within the reactor, during which time interaction with the solvent generates a state of activity that is absent in the synthesised catalyst. Mechanistic studies by X&#8208;ray Absorption Spectroscopy, chemisorption FTIR,&#160;  operando&#160;  UV&#8208;Vis and&#160;  1  H&#8208;  13  C HSQC NMR indicate that activity arises from isolated Hf(IV) atoms with monofunctional acidic properties.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Solvent&#8208;activated Hf&#8208;containing zeolites enable selective and continuous glucose&#8208;fructose isomerisation</dc:title>
@@ -945,7 +1065,7 @@ Ceri Hammond
       <dc:date>2020-07-20T04:46:50-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006718</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006718?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006718?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -972,7 +1092,7 @@ Josef Wachtveitl,
 Eli&#353;ka Proch&#225;zkov&#225;, 
 Marek Cig&#225;&#328;
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009452?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009452?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/14554815-73ef-4f93-bc34-15bcc802a9c3/anie202009452-toc-0001-m.png"
      alt="Polysubstituted 5&#8208;Phenylazopyrimidines: Extremely Fast Non&#8208;ionic Photochromic Oscillators"/&gt;
 &lt;p&gt;Non&#8208;ionic polysubstituted azopyrimidines with strong push&#8211;pull character are promising candidates for extremely fast photochromic oscillators. The fast oscillation is based on photoinduced (&lt;i&gt;E &lt;/i&gt;)&#8208;to&#8208;(&lt;i&gt;Z &lt;/i&gt;) isomerization of the azo group and the accordingly very fast (&lt;i&gt;Z &lt;/i&gt;)&#8208;to&#8208;(&lt;i&gt;E &lt;/i&gt;) thermal relaxation. In their Communication (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200706510.1002/anie.202007065&lt;/a&gt;), E. Proch&#225;zkov&#225;, M. Cig&#225;&#328; et&#8197;al. demonstrate how the relaxation lifetime can be tuned by proper substitution over 8 orders of magnitude from hundreds of milliseconds to several nanoseconds.
@@ -987,7 +1107,7 @@ Marek Cig&#225;&#328;
       <dc:date>2020-07-20T04:15:05-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009452</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009452?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009452?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1009,7 +1129,7 @@ This Review presents polysaccharides, oligosaccharides, nucleic acids, peptides,
 Margarita V&#225;zquez&#8208;Gonz&#225;lez, 
 Itamar Willner
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.201907670?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201907670?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6409ddb8-c293-489f-9d0b-bf84c60c058f/anie201907670-toc-0001-m.png"
      alt="Stimuli&#8208;Responsive Biomolecule&#8208;Based Hydrogels and Their Applications"/&gt;
 &lt;p&gt;&lt;b&gt;Having control &lt;/b&gt;: Stimuli&#8208;responsive hydrogels with triggered stiffness properties are attracting growing interest as smart materials for different applications. The Review discusses the design of biomolecule&#8208;based stimuli&#8208;responsive hydrogels and their applications as self&#8208;healing, shape&#8208;memory, and controlled drug&#8208;release matrices, as well as mechanical actuators. Surface&#8208;confined switchable hydrogels and their uses are also introduced.
@@ -1026,7 +1146,7 @@ Itamar Willner
       <dc:date>2020-07-20T04:13:30-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.201907670</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.201907670?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201907670?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1050,7 +1170,7 @@ Yu Liu,
 Wenjing Tian, 
 Bin Xu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008974?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008974?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ec4de57c-af9e-4f2f-8abf-56ea1e3d86b4/anie202008974-toc-0001-m.png"
      alt="Reversible Luminescent Switching in an Organic Cocrystal: Multi&#8208;Stimuli&#8208;Induced Crystal&#8208;to&#8208;Crystal Phase Transformation"/&gt;
 &lt;p&gt;The crystal&#8208;to&#8208;crystal phase transformation of organic cocrystals under multiple external stimuli, such as solvent vapor and heating, accompanied by reversible luminescent switching, is demonstrated by B. Xu et&#8197;al. in their Communication (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200222010.1002/anie.202002220&lt;/a&gt;). The results indicate that the luminescence switching originates from the unique molecular rearrangement of a hydrogen/halogen bond&#8208;directed stack to a &#960;&#8211;&#960; interaction&#8208;directed stack in response to an external stimulus.
@@ -1065,7 +1185,7 @@ Bin Xu
       <dc:date>2020-07-20T04:04:23-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008974</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008974?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008974?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1096,7 +1216,7 @@ Dirk Kessler,
 Darryl B. McConnell, 
 Robert Konrat
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009454?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009454?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7137824f-d710-4ea5-a91e-209b5d10dc25/anie202009454-toc-0001-m.png"
      alt="PI by NMR: Probing CH&#8211;&#960; Interactions in Protein&#8211;Ligand Complexes by NMR Spectroscopy"/&gt;
 &lt;p&gt;The CH&#8211;&#960; interactions between the CH donor groups of Trp81&#8208;&#950; and Trp81&#8208;&#951; with the aromatic &#960;&#8208;systems of ligand 3 (stylized in blue and green, respectively) are illustrated in the cover picture. The backdrop shows a NMR chemical shift scale into which the Trp81 CH cross peaks are schematically drawn. In the complexed form the CH groups are shifted by up to 2.3&#8197;ppm as they are shielded by the aromatic ring systems of the ligand. As explained by G. Platzer, M. Mayer et&#8197;al. in their Research Article (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200373210.1002/anie.202003732&lt;/a&gt;), these upfield shifts are indicative of favorable CH&#8211;&#960; interactions, which are difficult to detect directly in solution by other methods.
@@ -1111,7 +1231,7 @@ Robert Konrat
       <dc:date>2020-07-20T04:04:12-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009454</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009454?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009454?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1136,7 +1256,7 @@ Licheng Tan,
 Fengyu Li, 
 Yiwang Chen
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009456?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009456?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b99bc088-58b4-45ad-a1b8-c04538efb6c8/anie202009456-toc-0001-m.png"
      alt="Stretchable Perovskite Solar Cells with Recoverable Performance"/&gt;
 &lt;p&gt;Self&#8208;healing polyurethane with dynamic oxime&#8211;carbamate bonds has been incorporated in perovskite films, as reported by X. Hu, F. Li, Y. Chen et&#8197;al. in their Research Article (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200381310.1002/anie.202003813&lt;/a&gt;). The polyurethan additive releases mechanical stress and repairs cracks at the grain boundaries. This growth strategy for crystalline semiconductors resembles a broken mirror joined together and enables a new approach for the development of flexible and stretchable electronics.
@@ -1151,7 +1271,7 @@ Yiwang Chen
       <dc:date>2020-07-20T03:55:52-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009456</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009456?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009456?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1173,7 +1293,7 @@ Sophia Thiele,
 Florian Gl&#246;cklhofer, 
 Miriam M. Unterlass
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009419?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009419?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c0ba33a8-177d-4aee-bca4-94ac5a47e990/anie202009419-toc-0001-m.png"
      alt="Hydrothermal Generation of Conjugated Polymers Using the Example of Pyrrone Polymers and Polybenzimidazoles"/&gt;
 &lt;p&gt;A change of perspective can allow for surprising views. Water becomes a potent medium for synthesizing highly aromatic compounds when heated to high temperatures. In their Communication (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200036710.1002/anie.202000367&lt;/a&gt;), M.&#8197;M. Unterlass et&#8197;al. report the hydrothermal synthesis of two classes of highly conjugated organic polymers,&#160;polybenzimidazoles and pyrrone polymers. The cover picture shows an abstraction of a water surface,&#160;which looks different from different angles and distances to the image,&#160;illustrating that liquid high&#8208;temperature water becomes a powerful&#160;medium for transformations that would be inconceivable&#160;in room&#8208;temperature water.
@@ -1188,7 +1308,7 @@ Miriam M. Unterlass
       <dc:date>2020-07-20T03:52:36-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009419</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009419?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009419?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1209,7 +1329,7 @@ Jinhyun Kim,
 Frank Hollmann, 
 Chan Beum Park
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009421?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009421?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b4673438-f9c3-4ddd-9e3b-540aad5493ce/anie202009421-toc-0001-m.png"
      alt="Solar&#8208;Assisted eBiorefinery: Photoelectrochemical Pairing of Oxyfunctionalization and Hydrogenation Reactions"/&gt;
 &lt;p&gt;Solar eBiorefinery: Inspired by natural photosynthesis, biocatalytic photoelectrochemical (PEC) platforms are gaining prominence for the conversion of solar energy into useful chemicals by combining redox biocatalysis and photoelectrocatalysis. Deliberate integration of&#160;PEC&#160;systems with redox biocatalytic reactions can simultaneously produce valuable chemicals on both electrodes using solar&#8208;powered electrons and water. C.&#8197;B. Park et&#8197;al. demonstrate in their Communication (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200689310.1002/anie.202006893&lt;/a&gt;) how this study offers a new direction for solar biotransformation toward eBiorefinery for sustainable synthesis of fine chemicals.
@@ -1224,7 +1344,7 @@ Chan Beum Park
       <dc:date>2020-07-20T03:49:45-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009421</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009421?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009421?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1241,7 +1361,7 @@ Zheng Huang,
 Hong-Yuan Chen, 
 Deju Ye
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009141?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009141?af=R</link>
       <content:encoded>&lt;p&gt;Stimuli&#8208;responsive smart photosensitizer (PS) nanoassemblies that allow enhanced delivery and controllable release of PSs are promising for imaging&#8208;guided photodynamic therapy (PDT) of tumors. However, the lack of high&#8208;sensitivity and spatial&#8208;resolution signals and fast washout of released PSs from tumor tissues have impeded PDT efficacy in vivo. Herein, we report tumor targeting and redox&#8208;responsive megnetofluorogenic PS nanoasssemblies (  NP&#8208;RGD  ) via self&#8208;assembly of a cRGD&#8208; and disulfide&#8208;containing fluorogenic and paramagnetic small molecule (  1&#8208;RGD  ) for fluorescence/magnetic resonance bimodality imaging&#8208;guided tumor PDT.  NP&#8208;RGD  show high  r  1  relaxivity but quenched fluorescence and PDT activity; disulfide reduction by glutathione (GSH) promotes efficient disassembly into small&#8208;molecule probe (  2&#8208;RGD  ) and organic PS (PPa&#8208;SH), which could further bind with intracellular albumin, allowing (1) prolonged retention and (2) cascade activation of fluorescence and PDT activity to ablate tumors. Findings demonstrate great potential of combining self&#8208;assembly and stimuli&#8208;responsive disassembly to design smart PSs for precise bimodality imaging&#8208;guided on&#8208;demand tumor PDT in vivo.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Smart magnetofluorogenic photosensitizer nanoassemblies enabling redox&#8208;driven disassembly for photodynamic therapy</dc:title>
@@ -1250,7 +1370,7 @@ Deju Ye
       <dc:date>2020-07-20T02:40:43-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009141</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009141?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009141?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1269,7 +1389,7 @@ Xiaoqing Pan,
 Xiangheng Xiao, 
 Hongjun Wu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202000318?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000318?af=R</link>
       <content:encoded>&lt;p&gt;Closing the anthropogenic carbon cycle by converting CO  2  into reusable chemicals is recognized as an attractive solution to mitigate rising concentrations of CO  2  in the atmosphere. Herein, we prepared Ni metal catalysts ranging in size from single atoms to over 100 nm and distributed them across N&#8208;doped carbon substrates obtained from converted zeolitic imidazolate frameworks (ZIF). Results show variance in CO  2  reduction performance with variance in Ni metal size. Ni single atoms demonstrate a superior Faradaic efficiency (FE) for CO selectivity of ~97% at &#8722;0.8 V  vs.  RHE, while results for 4.1 nm Ni nanoparticles are slightly lower (~93%). Further increase the particle size to 37.2 nm in Ni allows the H  2  evolution reaction (HER) to compete with CO  2  reduction reaction (CO  2  RR), with a FE towards CO production decrease to &amp;lt; 30% and HER efficiency increase to &amp;gt; 70%. These results uncover a size&#8208;dependent tendency towards CO  2  reduction for various sizes of Ni metal catalysts. The successful demonstration of metal size effects towards CO  2  RR resulting from this study will not only benefit renewable utilization for CO  2  , but also guide the future design of size&#8208;controlled electrocatalysts for efficient conversion of CO  2  into more useful chemicals.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Size&#8208;dependent Ni&#8208;based electrocatalysts for selective CO2 reduction</dc:title>
@@ -1278,7 +1398,7 @@ Hongjun Wu
       <dc:date>2020-07-20T12:04:22-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202000318</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202000318?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202000318?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1300,7 +1420,7 @@ Yun Kuang,
 Zheng Liang, 
 Xiaoming Sun
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005522?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005522?af=R</link>
       <content:encoded>&lt;p&gt;The electrode/electrolyte (E/E) interface influences the electrocatalytic CO2 reduction (CO2RR) behavior by controlling both the diffusion kinetics of the reactants (CO2/H+) &amp; products, and the transporting dynamics of the electrons and intermediates. Simultaneous manipulation of the CO2/H+ transportation and the interfacial charge transfer would facilitate the CO2RR process. In this work, we successfully developed an artificial E/E interface construction strategy via coating the electrode surface with quaternary ammonium cation surfactant. This artificial E/E interface with high CO2 permeability, leads to promoted CO2 transportation and hydrogenation, as well as suppressed hydrogen evolution (HER). Further study revealed that linear and branched surfactants facilitated formic acid and CO production, respectively. Molecular Dynamics simulations indicated that the artificial interface provided a facile CO2 diffusion pathway.&#160; Moreover, density functional theory (DFT) calculations revealed the stabilization of the key intermediate OCHO* via interacting with the R4N+ cations. This surfactant&#8208;based artificial interface construction strategy might also be applicable to other electrocatalytic reactions where gas consumption is involved.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>An Artificial Electrode/Electrolyte Interface for CO2 Electroreduction by Cation Surfactants Self&#8208;Assembly</dc:title>
@@ -1309,7 +1429,7 @@ Xiaoming Sun
       <dc:date>2020-07-20T12:03:39-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202005522</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005522?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005522?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1329,7 +1449,7 @@ Klaus  R Liedl,
 Martin  J Warren, 
 Bernhard Kr&#228;utler
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008407?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008407?af=R</link>
       <content:encoded>&lt;p&gt;The (formal) replacement of the cobalt&#8208;centre in cobalamin (Cbl) by a Ni(II) generates nibalamin (Nibl), a new type of transition metal analogue of vitamin B12. Here, we describe Nibl, synthesized by incorporation of a Ni(II)&#8208;ion into the complete metal&#8208;free B12&#8208;ligand hydrogenobalamin (Hbl), which was prepared from hydrogenobyric acid (Hby). The related Ni(II)&#8208;corrin nibyric acid (Niby) was similarly synthesized from Hby, the metal&#8208;free cobyric acid ligand. The solution structures of Hbl, as well as of the Ni&#8208;corrins Niby and Nibl, were characterized by detailed spectroscopic studies that included heteronuclear NMR. The metal&#8208;free corrin Hbl featured two inner protons bound at N2 and at N4 of the corrin ligand, as discovered in Hby. An X&#8208;ray analysis of single crystals of Niby provided detailed insights into both the structural adaptation of the natural corrin ligand to Ni(II)&#8208;ions and the coordination behavior of Ni(II) when corrin&#8208;bound. The diamagnetic d8&#8208;metal corrins Niby and Nibl, and corresponding iso&#8208;electronic Co(I)&#8208;corrins, were deduced to be closely iso&#8208;structural from DFT&#8208;calculated models. Nibl represents a specific new structural mimic of 4&#8208;coordinate base&#8208;off Cbls, a conclusion verified by its ability to act as a strong inhibitor of the bacterial adenosyltransferase (BtuR), which mediates its reaction through such an intermediate.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Replacement of the Cobalt&#8208;Center of Vitamin B12 by Nickel &#8208; 
@@ -1340,7 +1460,7 @@ Nibalamin and Nibyric Acid Prepared from Metal&#8208;Free B12&#8208;Ligands Hydr
       <dc:date>2020-07-20T12:00:00-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008407</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008407?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008407?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1358,7 +1478,7 @@ Xiangjun Meng,
 Xinyuan Zhu, 
 Bin Liu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006890?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006890?af=R</link>
       <content:encoded>&lt;p&gt;Developing non&#8208;cationic gene carrier and achieving efficient endo/lysosome escape of functional nucleic acids in cytosol are two major challenges faced by the field of gene delivery. Herein, we demonstrate a concept of self&#8208;escape spherical nucleic acid (SNA) to achieve light controlled non&#8208;cationic gene delivery with sufficient endo/lysosome escape capacity. In this system, Bcl&#8208;2 antisense oligonucleotides (OSAs) were conjugated onto the surface of aggregation&#8208;induced emission (AIE) photosensitizer (PS) nanoparticles to form core&#8208;shell SNAs. Once the SNAs were uptaken by tumor cells, upon light irradiation, the accumulative  1  O  2  produced by AIE PSs could rupture the lysosome structure to promote OSA escape. Prominent in vitro and in vivo results validated that the AIE based core&#8208;shell SNAs could remarkably downregulate the anti&#8208;apoptosis protein (Bcl&#8208;2) and induce tumor cell apoptosis without any transfection reagent.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Light Induced Self&#8208;Escape of Spherical Nucleic Acid from Endo/Lysosome for Efficient Non&#8208;Cationic Gene Delivery</dc:title>
@@ -1367,7 +1487,7 @@ Bin Liu
       <dc:date>2020-07-19T07:24:13-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006890</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006890?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006890?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1385,7 +1505,7 @@ Genxiang Wang,
 Chi Zhang, 
 Zhenhai Wen
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008316?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008316?af=R</link>
       <content:encoded>&lt;p&gt;Two&#8208;dimensional (2D) monometallic pnictogens (antimony or Sb, and bismuth or Bi) nanosheets, thanks to their unique physical&#8208;chemical, electronic and optical properties, show great potential for applications in a variety of fields including quantum devices, catalysis, biomedical, and energy, while the development of general and high&#8208;efficiency route for preparation of high&#8208;quality pnictogens nanosheets remains a challenge yet. In this work, we report a general method for the synthesis of Sb and Bi nanosheets in high yields (&amp;gt; 90%), which is implemented by molten salts&#8208;assisted aluminothermic reduction process. The electrocatalytic properties toward CO  2  reduction are systematically studied on bismuth nanosheets, which shows high catalytic selectively to reduce CO  2  to formate with a considerable current density at a low overpotential, and holds quite impressive stability over one&#8208;month catalysis operation. The theory calculations suggest that the edge sites of Bi are far more active than terrace sites based on its lowest thermodynamic barrier. We further demonstrate the Bi nanosheets hold the ultrahigh catalytic stability for continuously conversion of CO  2  into formate with a yield rate of 787.5 mmol cm  &#8208;2  h  &#8208;1  in a flow cell upon one&#8208;month running. The present study shed light on a promising route to facilely prepare monometallic nanosheets and a system&#8208;engineering strategy for sustainable conversion of CO  2  into valuable chemicals by virtue of the highly desirable catalytic selectivity and stability of Bi nanosheets.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Molten Salt Assisted Synthesis of Bismuth Nanosheets for Long&#8208;term Continuously Electrocatalytic Conversion CO2 to Formate</dc:title>
@@ -1394,7 +1514,7 @@ Zhenhai Wen
       <dc:date>2020-07-19T07:23:27-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008316</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008316?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008316?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1411,7 +1531,7 @@ Wen-Xiong Zhang,
 Shengfa Ye, 
 Zhenfeng Xi
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008986?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008986?af=R</link>
       <content:encoded>&lt;p&gt;A new class of nonplanar metalla&#8208;aromatics, diiron complexes  2  bridged by a 1,3&#8208;butadienyl dianionic ligand were synthesized in high yields from dilithio reagents and two equivalents of FeBr  2  . Complexes  2  consist of two antiferromagnetically coupled high&#8208;spin Fe(II) centers as revealed by magnetometry, M&#246;ssbauer spectroscopy and DFT calculations. Furthermore, experimental (X&#8208;ray structural analysis) and theoretical analyses (NICS, ICSS, AICD, MOs) suggest that  2  is aromatic. Remarkably, such nonplanar metalla&#8208;aromaticity is achieved by an uncommon &#963;&#8208;type overlap between the ligand p and metal d orbitals, in sharp contrast to the intensively studied planar aromatic systems featuring delocalized &#960;&#8208;type bonding. Specifically, the &#963;&#8208;type interaction between the two Fe 3d  xz  orbitals and the butadienyl &#960; orbital results in the formation of a six&#8208;electron conjugated system and hence endows the aromatic character to  2  .&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Butadienyl Diiron Complexes: Nonplanar Metalla&#8208;Aromatics Involving &#963;&#8208;Type Orbital Overlap</dc:title>
@@ -1420,7 +1540,7 @@ Zhenfeng Xi
       <dc:date>2020-07-19T07:22:25-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008986</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008986?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008986?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1436,7 +1556,7 @@ Andrew White,
 Marina Kuimova, 
 James Wilton-Ely
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008224?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008224?af=R</link>
       <content:encoded>&lt;p&gt;A new family of robust, non&#8208;toxic, water&#8208;compatible ruthenium(II) vinyl probes allows the rapid, selective and sensitive detection of endogenous carbon monoxide (CO) in live mammalian cells under normoxic and hypoxic conditions. Uniquely, these probes incorporate a viscosity&#8208;sensitive BODIPY fluorophore that allows the measurement of microscopic viscosity in live cells via Fluorescence Lifetime Imaging Microscopy (FLIM) in conjunction with measuring CO. This is the first example of a probe that can simultaneously detect CO alongside small viscosity changes in organelles of live cells.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Simultaneous Detection of Carbon Monoxide and Viscosity Changes in Cells</dc:title>
@@ -1445,7 +1565,7 @@ James Wilton-Ely
       <dc:date>2020-07-19T07:17:47-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008224</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008224?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008224?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1465,7 +1585,7 @@ Qianling Zhang,
 Jianhong Liu, 
 Chuanxin He
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009277?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009277?af=R</link>
       <content:encoded>&lt;p&gt;Previous density functional theory (DFT) calculations have fully proven that the sub&#8208;nanometric Cu clusters (i.e., 13 atoms) are more favorable for the generation of CH  4  from CO  2  reduction reaction (CO  2  RR) than larger nanoparticles (NPs) due to the upshifted d center. However, it still lacks direct experimental evidence and remains unclear. Herein, we developed a facile impregnation&#8208;calcination route for the crafting of Cu clusters in diameter of ~1.0 nm with ~10 atoms via a double&#8208;confinement of carbon defects and micropores. The obtained Cu clusters enable a high selectivity for the CO  2  RR with a maximum Faraday efficiency of 81.7% towards CH  4  . Both DFT calculations and experimental results reveal that the Cu clusters can enhance the adsorption strength of *H and *CO intermediates and thus promotes the generation of CH  4  other than H  2  and CO, compared with larger Cu nanoparticles (~19 nm). Moreover, the strong interaction between Cu clusters and defective carbon optimizes the electronic structures of Cu clusters for further enhancing the selectivity and stability towards generation of CH  4  . Clearly, this work provides the first experimental evidence that the sub&#8208;nanometric Cu clusters indeed facilitate the production of CH  4  from CO  2  RR.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Facile Synthesis of Sub&#8208;Nanometric Cu Clusters via a Double&#8208;Confinement Enables Selective Reduction of Carbon Dioxide towards Methane</dc:title>
@@ -1474,7 +1594,7 @@ Chuanxin He
       <dc:date>2020-07-19T07:17:04-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009277</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009277?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009277?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1488,7 +1608,7 @@ Rijeesh Kizhakidathazhath,
 Bernard  Paul Binks, 
 Jan  Peter Felix Lagerwall
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008210?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008210?af=R</link>
       <content:encoded>&lt;p&gt;Liquid marbles have potential to serve as mini&#8208;reactors for fabricating new materials. While this was realized soon after their discovery, the opportunity has been exploited little and mostly for &#8220;conventional&#8221; chemical reactions. Here, we uncover the unparalleled capability of liquid marbles to act as platforms for precisely controlling the self&#8208;assembly of a bio&#8208;derived polymer, hydroxypropyl cellulose, into a cholesteric liquid crystalline phase showing structural coloration by Bragg reflection. By adjusting the cholesteric pitch via quantitative water extraction, we achieve liquid marbles that we can tailor for structural color anywhere in the visible. Liquid marbles respond with color change that can be detected by eye, to changes in temperature, exposure to toxic chemicals and mechanical deformation. Our concept demonstrates the advantages of using liquid marbles as a miniature platform for precisely controlling the liquid crystal self&#8208;assembly of bio&#8208;derived polymers, and their exploitation to fabricate sustainable, responsive soft photonic objects.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Responsive Photonic Liquid Marbles</dc:title>
@@ -1497,7 +1617,7 @@ Jan  Peter Felix Lagerwall
       <dc:date>2020-07-19T07:16:32-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008210</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008210?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008210?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1519,7 +1639,7 @@ Simona Moldovan,
 Nikolai Nesterenko, 
 Siddardha Koneti
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006524?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006524?af=R</link>
       <content:encoded>&lt;p&gt;The current energy transition presents many technological challenges, such as the development of highly stable catalysts. Herein, we report a novel &#8220;top&#8208;down&#8221; synthesis approach for preparation of a single&#8208;site Mo&#8208;containing nanosized ZSM&#8208;5 zeolite possessing atomically dispersed framework&#8208;molybdenum homogenously distributed through the zeolite crystals. The introduction of Mo heals most of the native point defects in the zeolite structure resulting in an extremely stable material. The important features of this single&#8208;site Mo&#8208;containing ZSM&#8208;5 zeolite are provided by an in&#8208;depth spectroscopic and microscopic analysis. The material demonstrates superior thermal (up to 1000 &#176;C), hydrothermal (steaming), and catalytic (converting methane to hydrogen and higher hydrocarbons) stability, maintaining the atomically disperse Mo, structural integrity of the zeolite, and preventing the formation of silanols.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Novel strategy for synthesis of ultra&#8208;stable single&#8208;site Mo&#8208;ZSM&#8208;5 zeolite nanocrystals</dc:title>
@@ -1528,7 +1648,7 @@ Siddardha Koneti
       <dc:date>2020-07-18T01:28:25-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006524</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006524?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006524?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1546,7 +1666,7 @@ Mingxi Zhang,
 Fuqiang Ren, 
 Anna  M. Wu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008083?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008083?af=R</link>
       <content:encoded>&lt;p&gt;Nanoparticles have been widely investigated for preclinical animal models as imaging, therapeutic or theranostic agent. However, a very limited number of nanoscale materials are approved for human use due to retention and toxicity concerns. Recent years have seen in vivo fluorescence imaging in the long end of the second near infrared window (NIR&#8208;IIb, 1,500&#8208;1,700 nm), affording deeper tissue penetration and higher imaging clarity owing to reduced light scattering and near&#8208;zero autofluorescence. Most NIR&#8208;IIb fluorophores are nanoparticle based probes with long retention&#160;in the body. Here, we applied a novel cross&#8208;linked coating to functionalize core/shell lead sulfide/cadmium sulfide quantum dots (PbS/CdS QDs) emitting at ~1,600 nm. The coating was comprised of an amphiphilic polymer followed by three crosslinked amphiphilic polymeric layers (branched PEG&#8208;linear PAA&#8208;branched PEG, P  3  coating), imparting high biocompatibility and &amp;gt; 90% excretion of QDs within 2 weeks of intravenous administration. The P  3  &#8208;QDs were utilized for conjugation to an engineered anti&#8208;CD8 diabody to afford in vivo molecular imaging of CD8+ cytotoxic T lymphocytes (CTLs) in response to anti&#8208;PD&#8208;L1 therapy. Two&#8208;plex molecular imaging in combination with down&#8208;conversion Er nanoparticles was performed for real&#8208;time in vivo monitoring of PD&#8208;L1+&#160;tumor cells and CD8+&#160;CTLs&#160;with cellular resolution by non&#8208;invasive NIR&#8208;IIb light sheet microscopy (LSM). In another application, angiogenesis in the tumor microenvironment was imaged with P  3  &#8208;QDs conjugated to TRC105, a chimeric monoclonal antibody against CD105. Further, P  3  &#8208;QDs afforded imaging of lymph nodes deep in the body with a signal&#8208;to&#8208;background ratio of up to ~170. Lastly, we show that the P  3  coating on magnetic nanoparticles also afforded rapid excretion in &amp;lt; 2 weeks, establishing generality of the approach. The ability of eliminating various nanoparticles from a body opens up many possibilities of nanomedicine for human use.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Advancing nanomedicine with cross&#8208;link functionalized nanoparticles for rapid excretion</dc:title>
@@ -1555,7 +1675,7 @@ Anna  M. Wu
       <dc:date>2020-07-18T12:00:23-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008083</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008083?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008083?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1568,7 +1688,7 @@ Efat Jokar,
 Yuan-Pern Lee, 
 Eric  Wei-Guang Diau
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008305?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008305?af=R</link>
       <content:encoded>&lt;p&gt;We developed a direct mapping approach to overlay the image of a polycrystalline perovskite film obtained from the transient absorption microscope (TAM) with that from the scanning electron microscope (SEM). By mapping these imaging data pixel by pixel, we are able to observe the relaxation dynamics of the photo&#8208;generated charge carriers on varied regions of the film. The carrier relaxation dynamics contain a dominated single&#8208;exponential decay component due to the recombination of charge carriers. We found that the lifetime distribution of charge recombination shows a bimodal feature, for which the rapid and slow distributions are assigned as free and trapped carriers, respectively. The charge recombination was slower in the grain boundary (GB) region than in the grain interior (GI) region. The small grains have longer lifetimes than the large grains for the crystal size smaller than 500 nm. Our results thus indicate that GB with retarded charge recombination might play a positive role in a perovskite solar cell.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>A Direct Mapping Approach to Understand Carrier Relaxation Dynamics in Varied Regions of a Polycrystalline Perovskite Film</dc:title>
@@ -1577,7 +1697,7 @@ Eric  Wei-Guang Diau
       <dc:date>2020-07-17T10:29:31-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008305</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008305?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008305?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1595,7 +1715,7 @@ Andrea Sartori,
 Giorgio Pelosi, 
 Franca Zanardi
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007509?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007509?af=R</link>
       <content:encoded>&lt;p&gt;The discovery of chemical methods enabling the construction of carbocycle&#8208;fused uracils which embody a three&#8208;dimensional and functional group&#8208;rich architecture is a useful tool in medchem synthesis. In this work, an unprecedented amine&#8208;catalyzed [4 + 2] cross cycloaddition is documented, which involved remotely enolizable 6&#8208;methyluracil&#8208;5&#8208;carbaldehydes and &#946;&#8208;aryl enals, and chemoselectively produced two novel bicyclic and tricyclic fused uracil chemotypes in good yields and maximum level of enantiocontrol. In&#8208;depth mechanistic investigations and control experiments support an intriguing homo&#8208;synergistic organocatalytic approach, where the same amine organocatalyst concomitantly engages both aldehyde partners in a first stepwise eliminative [4 + 2] cycloaddition, whose vinylogous iminium ion intermediate product may diverge &#8211; depending upon conditions &#8211; to either bicyclic targets via hydrolysis, or tricyclic products via a further homo&#8208;synergistic trienamine&#8208;mediated stepwise [4 + 2] cycloaddition.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Unlocking Access to Enantiopure Fused Uracils via Chemodivergent [4 + 2] Cross Cycloadditions: a DFT&#8208;Supported Homo&#8208;Synergistic Organocatalytic Approach</dc:title>
@@ -1604,7 +1724,7 @@ Franca Zanardi
       <dc:date>2020-07-17T09:01:41-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007509</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007509?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007509?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1621,7 +1741,7 @@ Zhanggui Hu,
 Jiyang Wang, 
 Yicheng Wu
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008346?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008346?af=R</link>
       <content:encoded>&lt;p&gt;Abstract: Designing deep&#8208;Ultraviolet (DUV) nonlinear optical (NLO) crystals is of the current research interests but faces a great challenge. In order to overcome the problem of crystal growth and the toxicity of BeO raw materials in KBe2BO3F2 (KBBF), the only applicable DUV NLO crystal so far, we substitute Be2+ cations with Zn2+ in the KBBF structure and modify the halogen anions, by which three new Zn&#8208;containing KBBF&#8208;like compounds, CsZn2BO3X2 (X = F, Cl and F&amp;Cl), have been successfully synthesized. They all exhibit excellent NLO properties, including improved SHG responses (2.8&#8208;3.5 &#215; KDP) and short UV cut&#8208;off edges (&amp;lt;190 nm). In comparison with KBBF, CsZn2BO3X2 (X = F, Cl and F&amp;Cl) are all chemically benign and have better growth habits, so they are all promising as the DUV NLO crystals. The further study on the structure&#8208;property relationship indicates that the mixing of halogen anions is a feasible strategy to enhance the SHG responses of the KBBF family.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>CsZn2BO3X2 (X = F, Cl and F&amp;Cl): A Series of Beryllium&#8208;free Deep&#8208;Ultraviolet Nonlinear Optical Crystals with Excellent Properties</dc:title>
@@ -1630,7 +1750,7 @@ Yicheng Wu
       <dc:date>2020-07-17T07:29:10-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008346</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008346?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008346?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1644,7 +1764,7 @@ Xiu-Li Sun,
 Lijia Wang, 
 Yong Tang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007068?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007068?af=R</link>
       <content:encoded>&lt;p&gt;A highly enantioselective synthesis of various chiral heterobicyclic molecules including spiroaminals and fused bicyclic acetals has been developed via a chiral copper catalyzed cyclopropanation&#8211;rearrangement (CP&#8208;RA) approach under mild reaction conditions. Remarkably, the asymmetric CP&#8208;RA for exocyclic vinyl substrates without a pro&#8208;stereogenic carbon at the &#946;&#8208;positionhas been realized for the first time, and thus broad substrate scope with excellent results &#160;(33 examples; 34&#8208;99% yields; &amp;gt;95/5 dr and 91&#8208;99% ee) has been achieved. An application of successive enantioselective CP&#8208;RA approach was also described, providing a concise access to complex chiral heteropolycycles.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>A Versatile Enantioselective Catalytic Cyclopropanation&#8211;Rearrangement Approach to the Divergent Construction of Chiral Spiroaminals and Fused Bicyclic Acetals</dc:title>
@@ -1653,7 +1773,7 @@ Yong Tang
       <dc:date>2020-07-17T04:34:41-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007068</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007068?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007068?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1667,7 +1787,7 @@ Shouwei Zuo,
 Haozhou Yang, 
 Yue Zhou
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006899?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006899?af=R</link>
       <content:encoded>&lt;p&gt;Developing novel two&#8208;dimensional (2D) and single atomic layered materials is a fascinating challenge. Here we successfully synthesize porphyrin&#8208;based monoatomic layer (PML), a freestanding 2D porphyrin&#8208;based material of monomer&#8208;unit thickness (2.8 &#197;). The solvothermal method provides a bottom&#8208;up approach for tailoring the monoatomic layer from the nanoscale to the milliscale. PMLs containing accurately tailorable M&#8211;N4 units (M=Cu and Au) were synthesized, which present metal center&#8208;dependent performance for CO2 electrocatalysis. PML with Cu&#8208;N4 centers performs high faradaic efficiencies of HCOO&#8208; and CH4 (80.9% and 11.5% at &#8208;0.7 V, respectively) while PML with Au&#8208;N4 centers generates HCOO&#8208; and CO as major products (40.9% and 34.4% at &#8208;0.8 V, respectively). The irreversible restructuring behavior of Cu sites is also observed. Based on the graphene&#8208;like properties and metal center&#8208;selectivity relationships, we believe that PML will play a distinct role in various applications.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Freestanding millimeter&#8208;scale porphyrin&#8208;based monoatomic layers with 0.28 nm thickness for CO2 electrocatalysis</dc:title>
@@ -1676,7 +1796,7 @@ Yue Zhou
       <dc:date>2020-07-17T02:59:35-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006899</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006899?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006899?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1692,7 +1812,7 @@ Tinglian Yuan,
 Hong-Yuan Chen, 
 Wei Wang
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007319?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007319?af=R</link>
       <content:encoded>&lt;p&gt;Ordered assembly of molecules within a specific space of nanoscale, such as surface, holds great promise in advanced micro&#8208;/nanostructure fabrication for various applications. Herein, we demonstrated the evanescent wave (EW)&#8208;guided organization of small molecules into long&#8208;range ordered nanowire (NW) array. Experiment and simulation revealed that the orientation and periodicity of the NW array were feasibly regulated by altering the propagation direction and the wavelength of EW, respectively. The generality of this approach was further demonstrated by using different molecule precursors. While existing studies on EW often took advantages of its near&#8208;field property for optical sensing, this work demonstrated the photochemical power of EW in the guided&#8208;assembly of small molecules for the first time. It also provides an enlightening avenue to periodic structure with fluorescence, promising for super&#8208;resolution microscopy and important devices applicable to optical and bio&#8208;related fields.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Evanescent Wave&#8208;guided Growth of Organic Supramolecular Nanowire Array</dc:title>
@@ -1701,7 +1821,7 @@ Wei Wang
       <dc:date>2020-07-17T01:00:41-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007319</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007319?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007319?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1713,7 +1833,7 @@ Alexander Lipp,
 Shorouk  O. Badir, 
 Gary Molander
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007668?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007668?af=R</link>
       <content:encoded>&lt;p&gt;Metallaphotoredox catalysis has evolved into an enabling platform to construct C(sp3)&#8208;hybridized centers under remarkably mild reaction conditions. The cultivation of abundant radical precursor feedstocks has significantly increased the scope of transition&#8208;metal&#8208;catalyzed cross&#8208;couplings, especially with respect to C(sp2)&#8211;C(sp3) linkages. In recent years, considerable effort has been devoted to understanding the origin of stereoinduction in dual catalytic processes. In this context, Ni&#8208; and Cu&#8208;catalyzed transformations have played a predominant role exploiting this mode of catalysis. Herein, we provide a critical overview on recent progress in enantioselective bond formations enabled by Ni&#8208; and Cu&#8208;catalyzed manifolds. Furthermore, selected stereochemical control elements within the realm of diastereoselective transformations are discussed.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Stereoinduction in Metallaphotoredox Catalysis</dc:title>
@@ -1722,7 +1842,7 @@ Gary Molander
       <dc:date>2020-07-17T12:00:23-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007668</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007668?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007668?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1743,7 +1863,7 @@ Liuqing Wen,
 Peng  G. Wang, 
 Heliang Song
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202001124?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001124?af=R</link>
       <content:encoded>&lt;p&gt;Historically, researchers have put considerable effort into developing automation systems to prepare natural biopolymers such as peptides and oligonucleotides. The availability of such mature systems has significantly advanced the development of natural science. Over the past twenty years, breakthroughs about automation synthesis of oligosaccharides have also been made. Herein, we described a machine&#8208;driven platform for glycopeptide synthesis by a reconstructed peptide synthesizer. The designed platform is based on the use of an amine&#8208;functionalized silica resin to facilitate the chemical synthesis of peptides in organic solvent as well as the enzymatic synthesis of glycan epitopes in aqueous phase in a single reaction vessel. Both syntheses were performed by a peptide synthesizer in a semi&#8208;automated manner.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Machine Driven Chemoenzymatic Synthesis of Glycopeptide</dc:title>
@@ -1752,7 +1872,7 @@ Heliang Song
       <dc:date>2020-07-16T08:29:57-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202001124</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202001124?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202001124?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1776,7 +1896,7 @@ Masanobu Uchiyama,
 Atsushi Minami, 
 Hideaki Oikawa
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007280?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007280?af=R</link>
       <content:encoded>&lt;p&gt;Lolitrems  are tremorgenic indole diterpenes that exhibit a unique 5/6 bicyclic system of the indole&#160; moiety. Although genetic analysis has indicated that prenyltransferase LtmE and cytochrome P450 LtmJ are involved in the construction of this unique structure, the detailed mechanism remains to be elucidated. Herein, we reconstitute the biosynthetic pathway for lolitrems employing a recently established genome&#8208;editing technique for the expression host Aspergillus oryzae. Heterologous expression and bioconversion of the various intermediates revealed that LtmJ catalyzes multistep oxidation to furnish the lolitrem core. We also isolated the key reaction intermediate with an epoxyalcohol moiety. This observation allowed us to establish the mechanism of radical&#8208;induced cyclization, which was firmly supported by density functional theory calculations and a model experiment with a synthetic analog.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Biosynthesis of Indole Diterpene Lolitrems: Radical&#8208;Induced Cyclization of an Epoxyalcohol Affording a Characteristic Lolitremane Skeleton</dc:title>
@@ -1785,7 +1905,7 @@ Hideaki Oikawa
       <dc:date>2020-07-16T07:00:05-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007280</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007280?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007280?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1796,7 +1916,7 @@ Hideaki Oikawa
 Jiahua Chen, 
 Tamio Hayashi
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008770?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008770?af=R</link>
       <content:encoded>&lt;p&gt;A chiral diene&#8211;rhodium complex was found to catalyze the reaction of 1,6&#8208;enynes with ArZnCl to give high yields of 2&#8208;(alkylidene)cyclopentylmethylzincs with high enantioselectivity (95&#8211;99% ee). The enantioenriched alkylzincs were readily converted in one&#8208;pot into a wide variety of functionalized products by taking advantages of their unique reactivity. The catalytic cylcle involves arylrhodation of alkyne, intramolecular alkenylrhodation of alkene, and transmetalation of the alkyl&#8208;rhodium intermediate into alkylzinc.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Asymmetric Synthesis of Alkylzincs by Rhodium&#8208;Catalyzed Enantioselective Arylative Cyclization of 1,6&#8208;Enynes with Arylzincs</dc:title>
@@ -1805,7 +1925,7 @@ Tamio Hayashi
       <dc:date>2020-07-16T01:01:25-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008770</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008770?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008770?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1818,7 +1938,7 @@ Tanya Todorova,
 Marc Fontecave, 
 Victor Mougel
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006269?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006269?af=R</link>
       <content:encoded>&lt;p&gt;Electrocatalytic CO2 reduction to value&#8208;added products provides a viable alternative to the use of carbon sources derived from fossil fuels. Nevertheless, the ability to carry out these transformations at reasonable energetic costs, e.g. with low overpotential, remains a significant challenge. Molecular catalysts offer a great option in this context, as fine control of their activity and selectivity can be obtained via the tuning of their coordination sphere and ligand set. To this end, we investigated here a series of cheap cobalt(III) pyridine&#8208;thiolate complexes as electrocatalysts for CO2 reduction. The effect of the ligands and proton sources on activity was examined. We were able to identify [bipyridine&#8208;bis&#8208;(2&#8208;pyridinethiolato)&#8208;cobalt(III)&#8208;hexaflurophosphate] as a highly selective catalyst for formate production operating at a very low overpotential of 110 mV to achieve a TOF of 10 s&#8208;1. Detailed electrokinetic analysis coupled with density functional theory allowed establishing a mechanistic pathway for these catalysts, highlighting the role of key metal hydride intermediates. The catalysts deactivate via the formation of stable Co carbonyl complexes, but we demonstrated that the active species could be regenerated upon oxidation and release of coordinated CO ligands.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Electroreduction of CO2 to Formate with low overpotential using Cobalt Pyridine Thiolate Complexes</dc:title>
@@ -1827,7 +1947,7 @@ Victor Mougel
       <dc:date>2020-07-16T12:59:44-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202006269</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202006269?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006269?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1843,7 +1963,7 @@ Long Zhang,
 Sanzhong Luo, 
 Jin-Pei Cheng
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008528?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008528?af=R</link>
       <content:encoded>&lt;p&gt;Although numerous theoretic approaches have been developed for predicting aqueous p  K  a  , fast and accurate prediction of non&#8208;aqueous p  K  a  s has remained a major challenge. On the basis of iBonD experimental p  K  a  database curated across 39 solvents, a holistic p  K  a  prediction model was established by using machine learning approach. Structural and physical organic parameters combined descriptors (SPOC) were introduced to represent the electronic and structural features of molecules. With SPOC and ionic status labelling (ISL), the holistic models trained with neural network or XGBoost algorithm showed the best prediction performance with MAE value as low as 0.87 p  K  a  unit. The capability of prediction in diverse solvents allows for a comprehensive mapping of all the possible p  K  a  correlations between different solvents, verifying the existence of transfer learning features . The&#160;holistic model was validated by prediction of aqueous p  K  a  and micro&#8208;p  K  a  of pharmaceutical molecules and p  K  a  s of organocatalysts in DMSO and MeCN with high accuracy. An on&#8208;line prediction platform (  http://pka.luoszgroup.com  ) was constructed based on the current model, which could provide p  K  a  prediction beyond the reach otherwise for different types of X&#8208;H acidity in the most commonly used solvents.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Holistic Prediction of pKa in Diverse Solvents Based on Machine Learning Approach</dc:title>
@@ -1852,7 +1972,7 @@ Jin-Pei Cheng
       <dc:date>2020-07-16T10:23:17-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008528</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008528?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008528?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1868,7 +1988,7 @@ Jin-Pei Cheng
 
 </dc:description>
       <dc:creator />
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009286?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009286?af=R</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f301bf8e-453d-4fce-bc27-98dab591d2ad/anie202009286-toc-0001-m.png"
      alt="Bin Tan"/&gt;
 &lt;p&gt;&#8220;&lt;i&gt;My biggest motivation is to make a creative and significant contribution in several research fields &#8230; My favorite saying is to try our best without regret &lt;/i&gt;.&#8221; Find out more about Bin Tan in his Author Profile.
@@ -1883,7 +2003,7 @@ Jin-Pei Cheng
       <dc:date>2020-07-16T04:16:08-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009286</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009286?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009286?af=R</prism:url>
       <prism:copyright />
       <prism:section>Author Profile</prism:section>
    </item>
@@ -1897,7 +2017,7 @@ Ana  G. Herraiz,
 Beno&#238;t Audic, 
 Aragorn Laverny
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008166?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008166?af=R</link>
       <content:encoded>&lt;p&gt;The creation of new chiral ligands capable of providing high stereocontrol in metal&#8208;catalyzed reactions is crucial in modern organic synthesis. The production of bioactive molecules as single enantiomers is increasingly required, and asymmetric catalysis with metal complexes constitutes one of the most efficient synthetic strategies to access optically active compounds. Herein we offer a historical overview on the development of chiral derivatives of the ubiquitous cyclopentadienyl ligand (Cp  X  ), and detail their successful application in a broad range of metal&#8208;catalyzed transformations. Those include the functionalization of challenging C&#8211;H bonds and beyond, giving access to an extensive catalogue of valuable chiral molecules. A critical comparison of the existing ligand families, their design, synthesis and complexation to different metals is also provided. In addition, future research directions are discussed to further enhance the performance and application of Cp  X  ligands in enantioselective catalysis.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Chiral cyclopentadienyl ligands: design, syntheses and applications in asymmetric catalysis</dc:title>
@@ -1906,7 +2026,7 @@ Aragorn Laverny
       <dc:date>2020-07-16T03:04:52-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008166</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008166?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008166?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1920,7 +2040,7 @@ Jos&#233; Luis Mascare&#241;as,
 Fernando L&#243;pez, 
 Cristina Nevado
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007371?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007371?af=R</link>
       <content:encoded>&lt;p&gt;Pyridine&#8208;substituted alkylidenecyclopropanes (Py&#8208;ACPs) react with gold(III) salts under mild reaction conditions via an unprecedented, proximal ring&#8208;opening pathway, to generate highly appealing, catalytically active pyridine alkenyl [C^N]&#8208;gold(III) species. Mechanistic studies reveal that the activation of the C&#8208;C bond in the cyclopropyl ring takes place through an unusual concerted, &#963;&#8208;bond metathesis type&#8208;process.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>[C^N]&#8208;Alkenyl Gold(III) Complexes by Proximal Ring&#8208;Opening of (2&#8208;Pyridyl)alkylidenecyclopropanes: Mechanistic Insights</dc:title>
@@ -1929,7 +2049,7 @@ Cristina Nevado
       <dc:date>2020-07-16T01:28:53-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007371</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007371?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007371?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1945,7 +2065,7 @@ Xun Wang,
 Shengyang Wang, 
 Fengtao Fan
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007706?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007706?af=R</link>
       <content:encoded>&lt;p&gt;Controlling the interaction of polarization light with an asymmetric nanostructure such as a metal/semiconductor heterostructure provides opportunities for tuning the surface plasmon excitation and near&#8208;field spatial distribution. However, the effects of light polarization on interfacial charge transport and consequently the photocatalysis of plasmonic metal/semiconductor photocatalysts, remain unclear. Herein, we reveal the polarization dependence of plasmonic charge separation and spatial distribution in Au/TiO2  nanoparticles under&#160;45&#176; incident light illumination&#160;at the single&#8208;particle level using a combination of photon&#8208;irradiated Kelvin probe force microscopy (KPFM) and electromagnetic field simulation. We also quantitatively uncover the relationship between the local charge density and polarization angle by investigating the polarization&#8208;dependent surface photovoltage (SPV). The plasmon&#8208;induced photocatalytic activity is enhanced when the polarization direction is perpendicular to the Au/TiO2  interface.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Polarization Effect in Surface Plasmon&#8208;Induced Photocatalysis on Au/TiO2 Nanoparticles</dc:title>
@@ -1954,7 +2074,7 @@ Fengtao Fan
       <dc:date>2020-07-16T01:24:51-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007706</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007706?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007706?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1971,7 +2091,7 @@ Jingyi Zhao,
 Ming Wang, 
 Peng Chen
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009572?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009572?af=R</link>
       <content:encoded>&lt;p&gt;The unique and abundance of bacterial effectors have inspired us to explore their potential in rewiring malignant cell signaling. Their incapability for entering cells, however, hinders such application. Herein we developed a cationic lipid&#8208;based high throughput library screening platform for effective intracellular delivery of bacterial effectors. As the misregulated MAPK signaling is a hallmark of many types of cancer, we turned our attention to the  Shigella  effector OspF which irreversibly inactivates ERK, the terminal component of MAPK cascade. We created a function&#8208;based screening assay to obtain AMPA&#8208;O16B lipid nanoparticles for effective OspF intracellular delivery, which inhibited the malignant MAPK signaling and tumor growth  in vitro  and  in vivo.  Furthermore, the optimized lipid nanoparticle formulation can deliver OspF to modulate the immunosuppressive responses in macrophages. Our work represents a general strategy to explore the therapeutic potentials of naturally evolved bacterial effectors.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Cationic Lipid&#8208;based Intracellular Delivery of Bacterial Effectors for Rewiring Malignant Cell Signaling</dc:title>
@@ -1980,7 +2100,7 @@ Peng Chen
       <dc:date>2020-07-16T01:01:23-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009572</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202009572?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009572?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1999,7 +2119,7 @@ Ping Cui,
 Chen-Ho Tung, 
 Di Sun
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007122?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007122?af=R</link>
       <content:encoded>&lt;p&gt;Coinage metals (Cu, Ag, Au)&#8208;based catalysts have been widely used in organic synthesis chemistry, however, robust and  heterogeneous silver&#8208;based catalysts are hard to access due to its high photosensitivity and chemical instability. Herein, the unprecedented double S  2  &#8722;  templated Ag  27  clusters have been stabilized by 5,10,15,20&#8208;tetra(4&#8208;pyridyl)porphyrin (TPyP&#8208;H  2  ) ligands to afford a robust 2D metal&#8208;organic framework (  Ag27&#8208;MOF  ). This silver cluster&#8208;assembled material serves as a highly efficient (TON &amp;gt; 1000) heterogeneous catalyst for the cyclization of both terminal and internal propargylamines with CO  2  under atmospheric pressure. The density functional theory (DFT) calculations illustrate that the high catalytic activity and broad substrate scope are attributable to the saddle&#8208;shaped metallic node in  Ag27&#8208;MOF  , which features an accessible platform with high&#8208;density silver atoms as  &#960;  &#8208;Lewis acid sites for activating C&#8801;C triple bonds. As a result, different sterically hindered alkyne substrates can be effectively activated through &#960;&#8208;interactions with these cationic silver centers. This study not only provides a new protocol to assembly robust silver cluster based 2D MOF materials but also paves a new way for the rational design of high&#8208;efficiency silver&#8208;based &#160;heterogeneous catalysts.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>Ambient Chemical Fixation of CO2 Using a Robust Ag27 Cluster&#8208;Based Two&#8208;Dimensional Metal&#8208;Organic Framework</dc:title>
@@ -2008,7 +2128,7 @@ Di Sun
       <dc:date>2020-07-16T01:00:23-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202007122</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202007122?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007122?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -2021,7 +2141,7 @@ Nicolas  Iskender Regenauer,
 Sven J&#228;nner, 
 Hubert Wadepohl
 </dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005865?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005865?af=R</link>
       <content:encoded>&lt;p&gt;A new redox&#8208;active N&#8208;heterocyclic carbene (NHC) architecture is obtained using N&#8208;methylated pyrazinediimine iron complexes as precursors. The new species exhibit strong &#960;&#8208;accepting/&#963;&#8208;donating properties and are able to ligate two metal centres simultaneously. The redox activity was demonstrated by the reversible chemical oxidation of a heterobimetallic Fe  0  /Rh  I  example, which affords an isolable ligand&#8208;based radical cation. The reversible redox process was then applied in the catalytic hydrosilylation of 4,4&#8217;&#8208;difluorobenzophenone, where the reaction rate could be reversibly controlled as a function of the catalyst oxidation state. The new NHC exhibits high electrophilicity and nucleophilicity, which was demonstrated in the reversible activation of alcohols and amines. The electronic structure of the resulting complexes was investigated through various spectroscopic and computational methods.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
       <dc:title>A Redox&#8208;active Heterobimetallic N&#8208;heterocyclic Carbene Based on a Bis(imino)pyrazine Ligand Scaffold</dc:title>
@@ -2030,73 +2150,8 @@ Hubert Wadepohl
       <dc:date>2020-07-16T12:00:00-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202005865</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202005865?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005865?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008386?af=R">
-      <title>Electromagnetic nanomedicines for combinational cancer immunotherapy</title>
-      <dc:description>Immunotherapy that harnesses the power of immune systems to eliminate malignant cells has offered an effective approach for cancer treatment. However, limited patient response rates and potential immune&#8208;related adverse events exist as two major issues for cancer immunotherapy. In parallel, a variety of electromagnetic nanomaterials that generate heat/reactive oxygen species triggered by electromagnetic energies have been applied for magnetic hyperthermia therapy, sonodynamic therapy, photothermal therapy, photodynamic therapy or radiotherapy, which have the ability to induce immunogenic cell death. This review summarizes the recent development of electromagnetic nanomedicines into combinational cancer immunotherapy. The mechanisms of electromagnetic nanomedicines in reprogramming the immunosuppressive tumor microenvironment and sensitizing tumors for cancer immunotherapy are highlighted. Furthermore, potential challenges and perspectives of electromagnetic nanomedicines for combinational cancer immunotherapy are discussed.</dc:description>
-      <dc:creator>
-Kanyi Pu, 
-Jingchao Li, 
-Yu Luo
-</dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008386?af=R</link>
-      <content:encoded>&lt;p&gt;Immunotherapy that harnesses the power of immune systems to eliminate malignant cells has offered an effective approach for cancer treatment. However, limited patient response rates and potential immune&#8208;related adverse events exist as two major issues for cancer immunotherapy. In parallel, a variety of electromagnetic nanomaterials that generate heat/reactive oxygen species triggered by electromagnetic energies have been applied for magnetic hyperthermia therapy, sonodynamic therapy, photothermal therapy, photodynamic therapy or radiotherapy, which have the ability to induce immunogenic cell death. This review summarizes the recent development of electromagnetic nanomedicines into combinational cancer immunotherapy. The mechanisms of electromagnetic nanomedicines in reprogramming the immunosuppressive tumor microenvironment and sensitizing tumors for cancer immunotherapy are highlighted. Furthermore, potential challenges and perspectives of electromagnetic nanomedicines for combinational cancer immunotherapy are discussed.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Electromagnetic nanomedicines for combinational cancer immunotherapy</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008386</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-15T08:30:17-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008386</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008386?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008897?af=R">
-      <title>Photoinduced Specific Acylation of Phenolic Hydroxy Groups with Aldehydes</title>
-      <dc:description>We herein report a convenient method to specifically acylate phenolic hydroxyl groups through a radical pathway. When a mixture of an aldehyde and a phenol in ethyl acetate is irradiated with blue light in the presence of iridium and nickel bromide catalysts at ambient temperature, phenoxyl and acyl radicals are transiently generated in situ, and cross&#8208;couple to furnish an ester. Aliphatic hydroxy groups remain untouched under the present reaction conditions.</dc:description>
-      <dc:creator>
-Tairin Kawasaki, 
-Naoki Ishida, 
-Masahiro Murakami
-</dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008897?af=R</link>
-      <content:encoded>&lt;p&gt;We herein report a convenient method to specifically acylate phenolic hydroxyl groups through a radical pathway. When a mixture of an aldehyde and a phenol in ethyl acetate is irradiated with blue light in the presence of iridium and nickel bromide catalysts at ambient temperature, phenoxyl and acyl radicals are transiently generated in situ, and cross&#8208;couple to furnish an ester. Aliphatic hydroxy groups remain untouched under the present reaction conditions.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Photoinduced Specific Acylation of Phenolic Hydroxy Groups with Aldehydes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008897</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-15T07:02:10-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008897</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008897?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008621?af=R">
-      <title>Heat&#8208;Free Biomimetic Metal Molding on Soft Substrates</title>
-      <dc:description>Fabrication of bio&#8208;templated metallic structures is limited by differences in properties, processing condition, packing, and material state. Herein, we demonstrate that using undercooled metal particles, differences in modulus and processing temperatures can be overcome. Similarly, adoption of autonomous processes like self&#8208;filtration, capillary pressure and evaporative concentration leads to enhanced packing, stabilization (jamming) and point sintering with phase change to create solid metal replicas of complex bio&#8208;based features. Differentiation of subtle differences between cultivars of the rose flower with reproduction over large areas shows that this BIOmimetic Metal Patterning (BIOMAP) is a versatile method to readily replicate biological features either as positive or negative reliefs irrespective of the substrate. Using rose petal patterns, we illustrate the versatility of bio&#8208;templated mapping with undercooled metal particles at ambient conditions, and with unprecedented efficiency for metal structures.</dc:description>
-      <dc:creator>
-Julia  Jinling Chang, 
-Andrew Martin, 
-Chuanshen Du, 
-Alana Pauls, 
-Martin  M. Thuo
-</dc:creator>
-      <link>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008621?af=R</link>
-      <content:encoded>&lt;p&gt;Fabrication of bio&#8208;templated metallic structures is limited by differences in properties, processing condition, packing, and material state. Herein, we demonstrate that using undercooled metal particles, differences in modulus and processing temperatures can be overcome. Similarly, adoption of autonomous processes like self&#8208;filtration, capillary pressure and evaporative concentration leads to enhanced packing, stabilization (jamming) and point sintering with phase change to create solid metal replicas of complex bio&#8208;based features. Differentiation of subtle differences between cultivars of the rose flower with reproduction over large areas shows that this BIOmimetic Metal Patterning (BIOMAP) is a versatile method to readily replicate biological features either as positive or negative reliefs irrespective of the substrate. Using rose petal patterns, we illustrate the versatility of bio&#8208;templated mapping with undercooled metal particles at ambient conditions, and with unprecedented efficiency for metal structures.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Heat&#8208;Free Biomimetic Metal Molding on Soft Substrates</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008621</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-15T07:02:08-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008621</prism:doi>
-      <prism:url>https://pericles.pericles-prod.literatumonline.com/doi/abs/10.1002/anie.202008621?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    </rdf:RDF>
