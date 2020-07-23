@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008518?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008031?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006644?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008040?af=R" />
@@ -200,7 +201,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008083?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006218?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008471?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008305?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006943?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004354?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004977?af=R" />
@@ -229,6 +229,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008518?af=R">
+      <title>Kinetic vs. Thermodynamic Control Over Multiple Conformations of Di&#8208;2,7&#8208;naphthihexaphyrin(1.1.1.1.1.1)</title>
+      <dc:description>Di&#8208;2,7&#8208;naphthihexaphyrin(1.1.1.1.1.1), a non&#8208;aromatic carba&#8208;analogue of the hexaphyrin(1.1.1.1.1.1), incorporating two built&#8208;in 2,7&#8208;naphthylene moieties was synthesized as two separate, conformationally locked stereoisomers. Both conformers followed complex protonation pathways involving structurally different species, which can be targeted under kinetic and thermodynamic control. The neutralization of the ultimate dicationic product, accessible from both stereoisomers of the free base, allowed to realize the complex conformational switching cycle involving six structurally different species.</dc:description>
+      <dc:creator>
+Bartosz Szyszko, 
+Pawe&#322; Rymut, 
+Maksym Matviyishyn, 
+Agata Bia&#322;o&#324;ska, 
+Lechoslaw Latos-Grazynski
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008518?af=R</link>
+      <content:encoded>&lt;p&gt;Di&#8208;2,7&#8208;naphthihexaphyrin(1.1.1.1.1.1), a non&#8208;aromatic carba&#8208;analogue of the hexaphyrin(1.1.1.1.1.1), incorporating two built&#8208;in 2,7&#8208;naphthylene moieties was synthesized as two separate, conformationally locked stereoisomers. Both conformers followed complex protonation pathways involving structurally different species, which can be targeted under kinetic and thermodynamic control. The neutralization of the ultimate dicationic product, accessible from both stereoisomers of the free base, allowed to realize the complex conformational switching cycle involving six structurally different species.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Kinetic vs. Thermodynamic Control Over Multiple Conformations of Di&#8208;2,7&#8208;naphthihexaphyrin(1.1.1.1.1.1)</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008518</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-23T03:13:46-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008518</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008518?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202008031?af=R">
       <title>On&#8208;Demand Synthesis of H2O2 by Water Oxidation for Sustainable Resource&#160;Production and Organic Pollutant Degradation</title>
       <dc:description>H  2  O  2  is a versatile and environmentally friendly chemical involved in water treatment, such as advanced oxidation processes. Anthraquinone oxidation is widely used for large&#8208;scale production of H  2  O  2  , which requires significant energy input and periodic replacement of the carrier molecule. H  2  O  2  production method should be customized considering the specific usage scenario. Electrochemical synthesis of H  2  O  2  can be adopted as alternatives to traditional method, which avoids the concentration, transportation and storage processes. Herein, we identified Bi  2  WO  6  :Mo as a low&#8208;cost and high&#8208;selectivity choice from a series of Bi based oxide electrodes for H  2  O  2  generation via 2e&#8208;water oxidation reaction. It can continuously provide H  2  O  2  for  in situ  degradation of persistent pollutants in aqueous like Norfloxacin. Simultaneously, clean energy of H  2  can be produced at the cathode. This kind of water splitting producing sustainable resources H  2  O  2  and H  2  presents an advance in environmental treatment and energy science.</dc:description>
@@ -2027,28 +2050,6 @@ Anna  M. Wu
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008083?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008305?af=R">
-      <title>A Direct Mapping Approach to Understand Carrier Relaxation Dynamics in Varied Regions of a Polycrystalline Perovskite Film</title>
-      <dc:description>We developed a direct mapping approach to overlay the image of a polycrystalline perovskite film obtained from the transient absorption microscope (TAM) with that from the scanning electron microscope (SEM). By mapping these imaging data pixel by pixel, we are able to observe the relaxation dynamics of the photo&#8208;generated charge carriers on varied regions of the film. The carrier relaxation dynamics contain a dominated single&#8208;exponential decay component due to the recombination of charge carriers. We found that the lifetime distribution of charge recombination shows a bimodal feature, for which the rapid and slow distributions are assigned as free and trapped carriers, respectively. The charge recombination was slower in the grain boundary (GB) region than in the grain interior (GI) region. The small grains have longer lifetimes than the large grains for the crystal size smaller than 500 nm. Our results thus indicate that GB with retarded charge recombination might play a positive role in a perovskite solar cell.</dc:description>
-      <dc:creator>
-Amir Fathi, 
-Efat Jokar, 
-Yuan-Pern Lee, 
-Eric  Wei-Guang Diau
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008305?af=R</link>
-      <content:encoded>&lt;p&gt;We developed a direct mapping approach to overlay the image of a polycrystalline perovskite film obtained from the transient absorption microscope (TAM) with that from the scanning electron microscope (SEM). By mapping these imaging data pixel by pixel, we are able to observe the relaxation dynamics of the photo&#8208;generated charge carriers on varied regions of the film. The carrier relaxation dynamics contain a dominated single&#8208;exponential decay component due to the recombination of charge carriers. We found that the lifetime distribution of charge recombination shows a bimodal feature, for which the rapid and slow distributions are assigned as free and trapped carriers, respectively. The charge recombination was slower in the grain boundary (GB) region than in the grain interior (GI) region. The small grains have longer lifetimes than the large grains for the crystal size smaller than 500 nm. Our results thus indicate that GB with retarded charge recombination might play a positive role in a perovskite solar cell.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Direct Mapping Approach to Understand Carrier Relaxation Dynamics in Varied Regions of a Polycrystalline Perovskite Film</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008305</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-17T10:29:31-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008305</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008305?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202009286?af=R">
       <title>Bin Tan</title>
