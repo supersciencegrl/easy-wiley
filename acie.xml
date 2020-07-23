@@ -9,7 +9,11 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008921?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008031?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006644?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008040?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007008?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007885?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004656?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007144?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009408?af=R" />
@@ -31,6 +35,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006305?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007198?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007358?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008921?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.201908418?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008214?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009128?af=R" />
@@ -196,9 +201,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006218?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008471?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008305?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007509?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008346?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007068?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006943?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004354?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004977?af=R" />
@@ -219,8 +221,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006176?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006408?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006268?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005531?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007176?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -229,27 +229,72 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/anie.202008921?af=R">
-      <title>Organocatalytic control over a fuel&#8208;driven transient esterification network</title>
-      <dc:description>Signal transduction in living systems is the conversion of information into a chemical change and the principal process by which cells communicate. This process enables phenomena as time&#8208;keeping and signal amplification. In nature, these functions are encoded in non&#8208;equilibrium (bio)chemical reaction networks (CRNs) controlled by enzymes, as integral part of biocatalytic pathways. Yet, man&#8208;made catalytically controlled networks are rare. Here, we incorporate catalysis in an artificial fuel&#8208;driven out&#8208;of&#8208;equilibrium CRN, where the forward (ester formation) and backward reaction (ester hydrolysis) are controlled by varying the ratio of two organocatalysts: pyridine and imidazole. This catalytic regulation enables full control over ester yield and lifetime. The fuel&#8208;driven strategy is expanded to a responsive polymer system, where transient polymer conformation and aggregation are controlled through fuel and catalysts levels. Altogether, we show how organocatalysis is an important tool to control a man&#8208;made fuel&#8208;driven system and induce a change in a macromolecular superstructure, as ubiquitously found in natural non&#8208;equilibrium systems.</dc:description>
+   <item rdf:about="/doi/abs/10.1002/anie.202008031?af=R">
+      <title>On&#8208;Demand Synthesis of H2O2 by Water Oxidation for Sustainable Resource&#160;Production and Organic Pollutant Degradation</title>
+      <dc:description>H  2  O  2  is a versatile and environmentally friendly chemical involved in water treatment, such as advanced oxidation processes. Anthraquinone oxidation is widely used for large&#8208;scale production of H  2  O  2  , which requires significant energy input and periodic replacement of the carrier molecule. H  2  O  2  production method should be customized considering the specific usage scenario. Electrochemical synthesis of H  2  O  2  can be adopted as alternatives to traditional method, which avoids the concentration, transportation and storage processes. Herein, we identified Bi  2  WO  6  :Mo as a low&#8208;cost and high&#8208;selectivity choice from a series of Bi based oxide electrodes for H  2  O  2  generation via 2e&#8208;water oxidation reaction. It can continuously provide H  2  O  2  for  in situ  degradation of persistent pollutants in aqueous like Norfloxacin. Simultaneously, clean energy of H  2  can be produced at the cathode. This kind of water splitting producing sustainable resources H  2  O  2  and H  2  presents an advance in environmental treatment and energy science.</dc:description>
       <dc:creator>
-Michelle  P. van der Helm, 
-Chang-Lin Wang, 
-Bowen Fan, 
-Mariano Macchione, 
-Eduardo Mendes, 
-Rienk Eelkema
+Lejing Li, 
+Zhuofeng Hu, 
+Jimmy  C. Yu
 </dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008921?af=R</link>
-      <content:encoded>&lt;p&gt;Signal transduction in living systems is the conversion of information into a chemical change and the principal process by which cells communicate. This process enables phenomena as time&#8208;keeping and signal amplification. In nature, these functions are encoded in non&#8208;equilibrium (bio)chemical reaction networks (CRNs) controlled by enzymes, as integral part of biocatalytic pathways. Yet, man&#8208;made catalytically controlled networks are rare. Here, we incorporate catalysis in an artificial fuel&#8208;driven out&#8208;of&#8208;equilibrium CRN, where the forward (ester formation) and backward reaction (ester hydrolysis) are controlled by varying the ratio of two organocatalysts: pyridine and imidazole. This catalytic regulation enables full control over ester yield and lifetime. The fuel&#8208;driven strategy is expanded to a responsive polymer system, where transient polymer conformation and aggregation are controlled through fuel and catalysts levels. Altogether, we show how organocatalysis is an important tool to control a man&#8208;made fuel&#8208;driven system and induce a change in a macromolecular superstructure, as ubiquitously found in natural non&#8208;equilibrium systems.&lt;/p&gt;</content:encoded>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008031?af=R</link>
+      <content:encoded>&lt;p&gt;H  2  O  2  is a versatile and environmentally friendly chemical involved in water treatment, such as advanced oxidation processes. Anthraquinone oxidation is widely used for large&#8208;scale production of H  2  O  2  , which requires significant energy input and periodic replacement of the carrier molecule. H  2  O  2  production method should be customized considering the specific usage scenario. Electrochemical synthesis of H  2  O  2  can be adopted as alternatives to traditional method, which avoids the concentration, transportation and storage processes. Herein, we identified Bi  2  WO  6  :Mo as a low&#8208;cost and high&#8208;selectivity choice from a series of Bi based oxide electrodes for H  2  O  2  generation via 2e&#8208;water oxidation reaction. It can continuously provide H  2  O  2  for  in situ  degradation of persistent pollutants in aqueous like Norfloxacin. Simultaneously, clean energy of H  2  can be produced at the cathode. This kind of water splitting producing sustainable resources H  2  O  2  and H  2  presents an advance in environmental treatment and energy science.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Organocatalytic control over a fuel&#8208;driven transient esterification network</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008921</dc:identifier>
+      <dc:title>On&#8208;Demand Synthesis of H2O2 by Water Oxidation for Sustainable Resource&#160;Production and Organic Pollutant Degradation</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008031</dc:identifier>
       <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-22T06:46:30-07:00</dc:date>
+      <dc:date>2020-07-23T01:39:21-07:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008921</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008921?af=R</prism:url>
+      <prism:doi>10.1002/anie.202008031</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008031?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008040?af=R">
+      <title>Cooperative NHC and Photoredox Catalysis for the Synthesis of &#946;&#8208;Trifluoromethylated Alkyl Aryl Ketones</title>
+      <dc:description>Despite the great potential of radical chemistry in organic synthesis, N&#8208;heterocyclic carbene (NHC)&#8208;catalyzed reactions involving radical intermediates are not well explored. This communication reports the three&#8208;component coupling of aroyl fluorides, styrenes and the Langlois reagent (CF  3  SO  2  Na) to give various &#946;&#8208;trifluoromethylated alkyl aryl ketones with good functional group tolerance in moderate to high yields by cooperative photoredox/NHC catalysis. The alkene acyltrifluoromethylation proceeds via radical/radical cross coupling of ketyl radicals with benzylic C&#8208;radicals. The ketyl radicals are generated via SET reduction of in situ formed acylazolium ions whereas the benzylic radicals derive from trifluoromethyl radical addition onto styrenes.</dc:description>
+      <dc:creator>
+Qing-Yuan Meng, 
+Nadine D&#246;ben, 
+Armido Studer
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008040?af=R</link>
+      <content:encoded>&lt;p&gt;Despite the great potential of radical chemistry in organic synthesis, N&#8208;heterocyclic carbene (NHC)&#8208;catalyzed reactions involving radical intermediates are not well explored. This communication reports the three&#8208;component coupling of aroyl fluorides, styrenes and the Langlois reagent (CF  3  SO  2  Na) to give various &#946;&#8208;trifluoromethylated alkyl aryl ketones with good functional group tolerance in moderate to high yields by cooperative photoredox/NHC catalysis. The alkene acyltrifluoromethylation proceeds via radical/radical cross coupling of ketyl radicals with benzylic C&#8208;radicals. The ketyl radicals are generated via SET reduction of in situ formed acylazolium ions whereas the benzylic radicals derive from trifluoromethyl radical addition onto styrenes.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Cooperative NHC and Photoredox Catalysis for the Synthesis of &#946;&#8208;Trifluoromethylated Alkyl Aryl Ketones</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008040</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-23T12:10:48-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008040</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008040?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202007885?af=R">
+      <title>Tillandsia&#8208;inspired Hygroscopic Photothermal Organogels for Efficient Atmospheric Water Harvesting</title>
+      <dc:description>Tillandsia species with degenerated roots have evolved into hygroscopic leaves that absorb moisture from air, transport water molecules from the leaves surface to internal network via osmotic pressure and further hold them for sustainable growing requirements. This interesting biological adaptability has inspired us to develop an integrated hygroscopic photothermal organogel (POG) to achieve a solar&#8208;powered atmospheric water harvesting (AWH). The well&#8208;designed hydrophilic co&#8208;polymeric skeleton is fabricated to accommodate hygroscopic glycerin medium, which enables the POG self&#8208;contained property, mechanically flexibility and synergistic enhancement of moisture sorption. Moreover, the glycerin in the POG allows a rapid water diffusion driven by osmotic effect, thereby quickly reactivating the sorption binding sites for continuous and high&#8208;capacity moisture sorption. In addition, the integration of interpenetrated photothermal component of poly&#8208;pyrrole&#8208;dopamine (P&#8208;Py&#8208;DA) can endow the POG an efficient solar&#8208;to&#8208;thermal property for controllable solar&#8208;driven interfacial water releasing. As a result, the integrated POG presents the superhigh equilibrium moisture sorption of 16.01 kg m &#8208;2  at the RH of 90%, and daily water production as high as 2.43 kg m &#8208;2  day &#8208;1  is achieved in actual outdoor experiments. We envisage that such a bioinspired integrated hygroscopic materials system can provide a new pathway to achieve continuous and high&#8208;capacity atmospheric moisture sorption.</dc:description>
+      <dc:creator>
+Feng Ni, 
+Nianxiang Qiu, 
+Peng Xiao, 
+Chang Zhang, 
+Yukun Jian, 
+Yun Liang, 
+Weiping Xie, 
+Luke Yan, 
+Tao Chen
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007885?af=R</link>
+      <content:encoded>&lt;p&gt;Tillandsia species with degenerated roots have evolved into hygroscopic leaves that absorb moisture from air, transport water molecules from the leaves surface to internal network via osmotic pressure and further hold them for sustainable growing requirements. This interesting biological adaptability has inspired us to develop an integrated hygroscopic photothermal organogel (POG) to achieve a solar&#8208;powered atmospheric water harvesting (AWH). The well&#8208;designed hydrophilic co&#8208;polymeric skeleton is fabricated to accommodate hygroscopic glycerin medium, which enables the POG self&#8208;contained property, mechanically flexibility and synergistic enhancement of moisture sorption. Moreover, the glycerin in the POG allows a rapid water diffusion driven by osmotic effect, thereby quickly reactivating the sorption binding sites for continuous and high&#8208;capacity moisture sorption. In addition, the integration of interpenetrated photothermal component of poly&#8208;pyrrole&#8208;dopamine (P&#8208;Py&#8208;DA) can endow the POG an efficient solar&#8208;to&#8208;thermal property for controllable solar&#8208;driven interfacial water releasing. As a result, the integrated POG presents the superhigh equilibrium moisture sorption of 16.01 kg m &#8208;2  at the RH of 90%, and daily water production as high as 2.43 kg m &#8208;2  day &#8208;1  is achieved in actual outdoor experiments. We envisage that such a bioinspired integrated hygroscopic materials system can provide a new pathway to achieve continuous and high&#8208;capacity atmospheric moisture sorption.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Tillandsia&#8208;inspired Hygroscopic Photothermal Organogels for Efficient Atmospheric Water Harvesting</dc:title>
+      <dc:identifier>doi:10.1002/anie.202007885</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-07-22T08:15:14-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202007885</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007885?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -2002,82 +2047,6 @@ Eric  Wei-Guang Diau
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008305</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008305?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007509?af=R">
-      <title>Unlocking Access to Enantiopure Fused Uracils via Chemodivergent [4 + 2] Cross Cycloadditions: a DFT&#8208;Supported Homo&#8208;Synergistic Organocatalytic Approach</title>
-      <dc:description>The discovery of chemical methods enabling the construction of carbocycle&#8208;fused uracils which embody a three&#8208;dimensional and functional group&#8208;rich architecture is a useful tool in medchem synthesis. In this work, an unprecedented amine&#8208;catalyzed [4 + 2] cross cycloaddition is documented, which involved remotely enolizable 6&#8208;methyluracil&#8208;5&#8208;carbaldehydes and &#946;&#8208;aryl enals, and chemoselectively produced two novel bicyclic and tricyclic fused uracil chemotypes in good yields and maximum level of enantiocontrol. In&#8208;depth mechanistic investigations and control experiments support an intriguing homo&#8208;synergistic organocatalytic approach, where the same amine organocatalyst concomitantly engages both aldehyde partners in a first stepwise eliminative [4 + 2] cycloaddition, whose vinylogous iminium ion intermediate product may diverge &#8211; depending upon conditions &#8211; to either bicyclic targets via hydrolysis, or tricyclic products via a further homo&#8208;synergistic trienamine&#8208;mediated stepwise [4 + 2] cycloaddition.</dc:description>
-      <dc:creator>
-Claudio Curti, 
-Gloria Rassu, 
-Marco Lombardo, 
-Vincenzo Zambrano, 
-Luigi Pinna, 
-Lucia Battistini, 
-Andrea Sartori, 
-Giorgio Pelosi, 
-Franca Zanardi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007509?af=R</link>
-      <content:encoded>&lt;p&gt;The discovery of chemical methods enabling the construction of carbocycle&#8208;fused uracils which embody a three&#8208;dimensional and functional group&#8208;rich architecture is a useful tool in medchem synthesis. In this work, an unprecedented amine&#8208;catalyzed [4 + 2] cross cycloaddition is documented, which involved remotely enolizable 6&#8208;methyluracil&#8208;5&#8208;carbaldehydes and &#946;&#8208;aryl enals, and chemoselectively produced two novel bicyclic and tricyclic fused uracil chemotypes in good yields and maximum level of enantiocontrol. In&#8208;depth mechanistic investigations and control experiments support an intriguing homo&#8208;synergistic organocatalytic approach, where the same amine organocatalyst concomitantly engages both aldehyde partners in a first stepwise eliminative [4 + 2] cycloaddition, whose vinylogous iminium ion intermediate product may diverge &#8211; depending upon conditions &#8211; to either bicyclic targets via hydrolysis, or tricyclic products via a further homo&#8208;synergistic trienamine&#8208;mediated stepwise [4 + 2] cycloaddition.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Unlocking Access to Enantiopure Fused Uracils via Chemodivergent [4 + 2] Cross Cycloadditions: a DFT&#8208;Supported Homo&#8208;Synergistic Organocatalytic Approach</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007509</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-17T09:01:41-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007509</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007509?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008346?af=R">
-      <title>CsZn2BO3X2 (X = F, Cl and F&amp;Cl): A Series of Beryllium&#8208;free Deep&#8208;Ultraviolet Nonlinear Optical Crystals with Excellent Properties</title>
-      <dc:description>Abstract: Designing deep&#8208;Ultraviolet (DUV) nonlinear optical (NLO) crystals is of the current research interests but faces a great challenge. In order to overcome the problem of crystal growth and the toxicity of BeO raw materials in KBe2BO3F2 (KBBF), the only applicable DUV NLO crystal so far, we substitute Be2+ cations with Zn2+ in the KBBF structure and modify the halogen anions, by which three new Zn&#8208;containing KBBF&#8208;like compounds, CsZn2BO3X2 (X = F, Cl and F&amp;Cl), have been successfully synthesized. They all exhibit excellent NLO properties, including improved SHG responses (2.8&#8208;3.5 &#215; KDP) and short UV cut&#8208;off edges (&lt;190 nm). In comparison with KBBF, CsZn2BO3X2 (X = F, Cl and F&amp;Cl) are all chemically benign and have better growth habits, so they are all promising as the DUV NLO crystals. The further study on the structure&#8208;property relationship indicates that the mixing of halogen anions is a feasible strategy to enhance the SHG responses of the KBBF family.</dc:description>
-      <dc:creator>
-Jinjie Zhou, 
-Youquan Liu, 
-Hongping Wu, 
-Hongwei Yu, 
-Zheshuai Lin, 
-Zhanggui Hu, 
-Jiyang Wang, 
-Yicheng Wu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008346?af=R</link>
-      <content:encoded>&lt;p&gt;Abstract: Designing deep&#8208;Ultraviolet (DUV) nonlinear optical (NLO) crystals is of the current research interests but faces a great challenge. In order to overcome the problem of crystal growth and the toxicity of BeO raw materials in KBe2BO3F2 (KBBF), the only applicable DUV NLO crystal so far, we substitute Be2+ cations with Zn2+ in the KBBF structure and modify the halogen anions, by which three new Zn&#8208;containing KBBF&#8208;like compounds, CsZn2BO3X2 (X = F, Cl and F&amp;Cl), have been successfully synthesized. They all exhibit excellent NLO properties, including improved SHG responses (2.8&#8208;3.5 &#215; KDP) and short UV cut&#8208;off edges (&amp;lt;190 nm). In comparison with KBBF, CsZn2BO3X2 (X = F, Cl and F&amp;Cl) are all chemically benign and have better growth habits, so they are all promising as the DUV NLO crystals. The further study on the structure&#8208;property relationship indicates that the mixing of halogen anions is a feasible strategy to enhance the SHG responses of the KBBF family.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>CsZn2BO3X2 (X = F, Cl and F&amp;Cl): A Series of Beryllium&#8208;free Deep&#8208;Ultraviolet Nonlinear Optical Crystals with Excellent Properties</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008346</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-17T07:29:10-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008346</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008346?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007068?af=R">
-      <title>A Versatile Enantioselective Catalytic Cyclopropanation&#8211;Rearrangement Approach to the Divergent Construction of Chiral Spiroaminals and Fused Bicyclic Acetals</title>
-      <dc:description>A highly enantioselective synthesis of various chiral heterobicyclic molecules including spiroaminals and fused bicyclic acetals has been developed via a chiral copper catalyzed cyclopropanation&#8211;rearrangement (CP&#8208;RA) approach under mild reaction conditions. Remarkably, the asymmetric CP&#8208;RA for exocyclic vinyl substrates without a pro&#8208;stereogenic carbon at the &#946;&#8208;positionhas been realized for the first time, and thus broad substrate scope with excellent results &#160;(33 examples; 34&#8208;99% yields; &gt;95/5 dr and 91&#8208;99% ee) has been achieved. An application of successive enantioselective CP&#8208;RA approach was also described, providing a concise access to complex chiral heteropolycycles.</dc:description>
-      <dc:creator>
-Li Zhou, 
-Wen-Guang Yan, 
-Xiu-Li Sun, 
-Lijia Wang, 
-Yong Tang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007068?af=R</link>
-      <content:encoded>&lt;p&gt;A highly enantioselective synthesis of various chiral heterobicyclic molecules including spiroaminals and fused bicyclic acetals has been developed via a chiral copper catalyzed cyclopropanation&#8211;rearrangement (CP&#8208;RA) approach under mild reaction conditions. Remarkably, the asymmetric CP&#8208;RA for exocyclic vinyl substrates without a pro&#8208;stereogenic carbon at the &#946;&#8208;positionhas been realized for the first time, and thus broad substrate scope with excellent results &#160;(33 examples; 34&#8208;99% yields; &amp;gt;95/5 dr and 91&#8208;99% ee) has been achieved. An application of successive enantioselective CP&#8208;RA approach was also described, providing a concise access to complex chiral heteropolycycles.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Versatile Enantioselective Catalytic Cyclopropanation&#8211;Rearrangement Approach to the Divergent Construction of Chiral Spiroaminals and Fused Bicyclic Acetals</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007068</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-17T04:34:41-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007068</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007068?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
