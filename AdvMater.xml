@@ -15,6 +15,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001108?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002723?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002431?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002341?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907071?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002638?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002927?af=R" />
@@ -144,7 +145,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002565?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201908120?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002910?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002329?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907498?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070204?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070203?af=R" />
@@ -497,6 +497,58 @@ Donhee Ham
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202002431</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002431?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202002341?af=R">
+      <title>Coherent Perfect Diffraction in Metagratings</title>
+      <dc:description>
+Coherent control of metagratings through multiple wave excitations is shown to provide new opportunities for highly reconfigurable broadband metasurfaces with unitary diffraction efficiency.
+
+
+
+
+
+
+
+
+Abstract
+Metasurfaces are 2D engineered structures with subwavelength granularity, offering a wide range of opportunities to tailor the impinging wavefront. However, fundamental limitations on their efficiency in wave transformation, associated with their deeply subwavelength thickness, challenge their implementation in practical application scenarios. Here, it is shown how the coherent control of metagratings through multiple wave excitations can provide new opportunities to achieve highly reconfigurable broadband metasurfaces with large diffraction efficiency, beyond the limitations of conventional approaches. Remarkably, energy distribution between the 0th and higher diffraction orders can be continuously tuned by changing the relative phase difference between two excitation waves, enabling coherent control, with added benefits of enhanced efficiency and bandwidth. This concept is demonstrated for a thin electric metagrating operating at terahertz frequencies, showing that coherent control can overcome several of the limitations of single&#8208;layer ultrathin metastructures, and extend their feasibility in various practical scenarios.
+</dc:description>
+      <dc:creator>
+Ziying Zhang, 
+Ming Kang, 
+Xueqian Zhang, 
+Xi Feng, 
+Yuehong Xu, 
+Xieyu Chen, 
+Huifang Zhang, 
+Quan Xu, 
+Zhen Tian, 
+Weili Zhang, 
+Alex Krasnok, 
+Jiaguang Han, 
+Andrea Al&#249;
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002341?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/56774991-e8d7-4ef8-acfe-73e9ccc5764e/adma202002341-gra-0001-m.png"
+     alt="Coherent Perfect Diffraction in Metagratings"/&gt;
+&lt;p&gt;Coherent control of metagratings through multiple wave excitations is shown to provide new opportunities for highly reconfigurable broadband metasurfaces with unitary diffraction efficiency.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Metasurfaces are 2D engineered structures with subwavelength granularity, offering a wide range of opportunities to tailor the impinging wavefront. However, fundamental limitations on their efficiency in wave transformation, associated with their deeply subwavelength thickness, challenge their implementation in practical application scenarios. Here, it is shown how the coherent control of metagratings through multiple wave excitations can provide new opportunities to achieve highly reconfigurable broadband metasurfaces with large diffraction efficiency, beyond the limitations of conventional approaches. Remarkably, energy distribution between the 0th and higher diffraction orders can be continuously tuned by changing the relative phase difference between two excitation waves, enabling coherent control, with added benefits of enhanced efficiency and bandwidth. This concept is demonstrated for a thin electric metagrating operating at terahertz frequencies, showing that coherent control can overcome several of the limitations of single&#8208;layer ultrathin metastructures, and extend their feasibility in various practical scenarios.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Coherent Perfect Diffraction in Metagratings</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002341</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-23T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002341</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002341?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -3749,52 +3801,6 @@ Peng Zhang
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002910?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002329?af=R">
-      <title>A 13.56&#160;MHz Rectifier Based on Fully Inkjet Printed Organic Diodes</title>
-      <dc:description>
-The very first example of a fully inkjet printed organic Schottky diode capable of working at radio frequencies, with a very high rectification ratio, is presented. A rectifier circuit, fabricated by integrating the presented fully printed diodes and capacitors, can successfully rectify a 13.56&#160;MHz sinusoidal AC signal, and supply power to a polymer circuit printed on a plastic foil.
-
-
-
-
-
-
-
-
-Abstract
-The increasing diffusion of portable and wearable technologies results in a growing interest in electronic devices having features such as flexibility, lightness&#8208;in&#8208;weight, transparency, and wireless operation. Organic electronics is proposed as a potential candidate to fulfill such needs, in particular targeting pervasive radio&#8208;frequency (RF) applications. Still, limitations in terms of device performances at RF, particularly severe when large&#8208;area and scalable fabrication techniques are employed, have largely precluded the achievement of such an appealing scenario. In this work, the rectification of an electromagnetic wave at 13.56&#160;MHz with a fully inkjet printed polymer diode is demonstrated. The rectifier, a key enabling component of future pervasive wireless systems, is fabricated through scalable large&#8208;area methods on plastic. To provide a proof&#8208;of&#8208;principle demonstration of its future applicability, its adoption in powering a printed integrated polymer circuit is presented. The possibility of harvesting electrical power from RF waves and delivering it to a cheap flexible substrate through a simple printed circuitry paves the way to a plethora of appealing distributed electronic applications.
-</dc:description>
-      <dc:creator>
-Fabrizio A. Viola, 
-Biagio Brigante, 
-Paolo Colpani, 
-Giorgio Dell&#8217;Erba, 
-Virgilio Mattoli, 
-Dario Natali, 
-Mario Caironi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002329?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9746b939-170f-4d2b-83bb-52567456f7b2/adma202002329-gra-0001-m.png"
-     alt="A 13.56&#160;MHz Rectifier Based on Fully Inkjet Printed Organic Diodes"/&gt;
-&lt;p&gt;The very first example of a fully inkjet printed organic Schottky diode capable of working at radio frequencies, with a very high rectification ratio, is presented. A rectifier circuit, fabricated by integrating the presented fully printed diodes and capacitors, can successfully rectify a 13.56&#160;MHz sinusoidal AC signal, and supply power to a polymer circuit printed on a plastic foil.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The increasing diffusion of portable and wearable technologies results in a growing interest in electronic devices having features such as flexibility, lightness&#8208;in&#8208;weight, transparency, and wireless operation. Organic electronics is proposed as a potential candidate to fulfill such needs, in particular targeting pervasive radio&#8208;frequency (RF) applications. Still, limitations in terms of device performances at RF, particularly severe when large&#8208;area and scalable fabrication techniques are employed, have largely precluded the achievement of such an appealing scenario. In this work, the rectification of an electromagnetic wave at 13.56&#160;MHz with a fully inkjet printed polymer diode is demonstrated. The rectifier, a key enabling component of future pervasive wireless systems, is fabricated through scalable large&#8208;area methods on plastic. To provide a proof&#8208;of&#8208;principle demonstration of its future applicability, its adoption in powering a printed integrated polymer circuit is presented. The possibility of harvesting electrical power from RF waves and delivering it to a cheap flexible substrate through a simple printed circuitry paves the way to a plethora of appealing distributed electronic applications.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>A 13.56&#160;MHz Rectifier Based on Fully Inkjet Printed Organic Diodes</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002329</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-07-10T01:19:55-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002329</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002329?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adma.201907498?af=R">
       <title>Materials Research at Nanjing University</title>

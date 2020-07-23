@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003180?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002139?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003253?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002583?af=R" />
@@ -162,7 +163,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001979?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003042?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002792?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002986?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -171,6 +171,28 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202003180?af=R">
+      <title>Chalcogen&#8208;expanded unsaturated silicon clusters: thia&#8208;, selena&#8208; and tellurasiliconoids</title>
+      <dc:description>Reactions of silylenes with heavier chalcogens (E) typically result in Si=E double bonds or their &#960;&#8208;addition products. In contrast, the oxidation of a silylene&#8208;functionalized unsaturated silicon cluster (siliconoid) with Group 16 elements selectively yields cluster expanded siliconoids Si7E (E = S, Se, Te) fully preserving the unsaturated nature of the cluster scaffold as evident from the NMR signatures of the products. Mechanistic considerations by DFT calculations suggest the intermediacy of a Si6 siliconoid with exohedral Si=E functionality. The reaction thus may serve as model system for the oxidation of surface&#8208;bonded silylenes at Si(100) by chalcogens and their diffusion into the silicon bulk.</dc:description>
+      <dc:creator>
+Nadine  E. Poitiers, 
+Volker Huch, 
+Michael Zimmer, 
+David Scheschkewitz
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003180?af=R</link>
+      <content:encoded>&lt;p&gt;Reactions of silylenes with heavier chalcogens (E) typically result in Si=E double bonds or their &#960;&#8208;addition products. In contrast, the oxidation of a silylene&#8208;functionalized unsaturated silicon cluster (siliconoid) with Group 16 elements selectively yields cluster expanded siliconoids Si7E (E = S, Se, Te) fully preserving the unsaturated nature of the cluster scaffold as evident from the NMR signatures of the products. Mechanistic considerations by DFT calculations suggest the intermediacy of a Si6 siliconoid with exohedral Si=E functionality. The reaction thus may serve as model system for the oxidation of surface&#8208;bonded silylenes at Si(100) by chalcogens and their diffusion into the silicon bulk.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Chalcogen&#8208;expanded unsaturated silicon clusters: thia&#8208;, selena&#8208; and tellurasiliconoids</dc:title>
+      <dc:identifier>doi:10.1002/chem.202003180</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-23T04:44:34-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202003180</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003180?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002139?af=R">
       <title>Light&#8208;Activated Carbon Monoxide Prodrugs Based on Bipyridyl Dicarbonyl Ruthenium(II) Complexes</title>
       <dc:description>Two photoactivatable dicarbonyl ruthenium(II) complexes based on an amide&#8208;functionalised bipyridine scaffold (4&#8208;position) equipped with an alkyne functionality or a green&#8208;fluorescent BODIPY (boron&#8208;dipyrromethene) dye have been prepared and used to investigate their light&#8208;induced decarbonylation. UV/Vis, FT&#8208;IR and  13  C NMR spectroscopies as well as gas chromatography and multivariate curve resolution alternating least&#8208;squares analysis (MCR&#8208;ALS) were used to elucidate the mechanism of the decarbonylation process. Release of the first CO molecule occurs very quickly, while release of the second CO molecule proceeds more slowly. In vitro studies using two cell lines A431 (human squamous carcinoma) and HEK293 (human embryonic kidney cells) have been carried out in order characterise the anti&#8208;proliferative and anti&#8208;apoptotic activities. The BODIPY&#8208;labelled compound allows for monitoring the cellular uptake, showing fast internalisation kinetics and accumulation at the endoplasmic reticulum and mitochondria.</dc:description>
@@ -2141,4 +2163,4 @@ Kensuke Naka
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   </rdf:RDF>
+</rdf:RDF>
