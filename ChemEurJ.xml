@@ -9,20 +9,23 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001994?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002810?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002813?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003180?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002139?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003253?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002583?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000708?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001597?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002139?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001835?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001993?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003415?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001402?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001767?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002767?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001735?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002888?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001993?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000881?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003228?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002561?af=R" />
@@ -132,12 +135,12 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002811?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003084?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002460?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002962?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003201?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002817?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003329?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002703?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002481?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002962?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003189?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002493?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002751?af=R" />
@@ -151,18 +154,15 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002755?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002528?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002637?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002765?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002822?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002920?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002573?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002744?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002146?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002765?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002227?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003185?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003239?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001979?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003042?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002792?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -171,6 +171,87 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202001994?af=R">
+      <title>Hybrid White Light&#8208;Emitting Electrochemical Cells Based on a Blue Cationic Iridium(III) Complex and Red Quantum Dots</title>
+      <dc:description>Solid&#8208;state white light&#8208;emitting electrochemical cells (LECs) show promising advantages of simple solution fabrication processes, low operation voltage and compatibility with air&#8208;stable cathode metals, which are required for lighting applications. To date, white LECs based on ionic transition metal complexes (iTMCs) have been shown higher device efficiencies than white LECs employing other types of materials. However, relatively lower emission efficiencies of red iTMCs limit further improvement in device performance. Alternatively, efficient red CdZnSeS/ZnS core&#8208;shell quantum dots are integrated with a blue iTMC to form a hybrid white LEC in this work. With achieving good carrier balance under a proper device architecture, peak external quantum efficiency and power efficiency reach 11.2% and 15.1 lm W  &#8208;1  , respectively. Such device efficiency is indeed higher than those of the reported white LECs employing host&#8208;guest iTMCs. Time and voltage dependent electroluminescent (EL) characteristics of the hybrid white LECs are studied with the evidence of the temporal evolution of emission zone position extracted by fitting the simulated and measured EL spectra. The working principles of the hybrid white LECs are clarified and the high device efficiency renders the proposed new white&#8208;emitting devices suitable for solid&#8208;state lighting technology.</dc:description>
+      <dc:creator>
+Ya-Han Tang, 
+Yi-Chan Chiu, 
+Dian Luo, 
+Jiun-Yi Lien, 
+Rong-Huei Yi, 
+Ching-Hsuan Lin, 
+Zu-Po Yang, 
+Chin-Wei Lu, 
+Hai-Ching Su
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001994?af=R</link>
+      <content:encoded>&lt;p&gt;Solid&#8208;state white light&#8208;emitting electrochemical cells (LECs) show promising advantages of simple solution fabrication processes, low operation voltage and compatibility with air&#8208;stable cathode metals, which are required for lighting applications. To date, white LECs based on ionic transition metal complexes (iTMCs) have been shown higher device efficiencies than white LECs employing other types of materials. However, relatively lower emission efficiencies of red iTMCs limit further improvement in device performance. Alternatively, efficient red CdZnSeS/ZnS core&#8208;shell quantum dots are integrated with a blue iTMC to form a hybrid white LEC in this work. With achieving good carrier balance under a proper device architecture, peak external quantum efficiency and power efficiency reach 11.2% and 15.1 lm W  &#8208;1  , respectively. Such device efficiency is indeed higher than those of the reported white LECs employing host&#8208;guest iTMCs. Time and voltage dependent electroluminescent (EL) characteristics of the hybrid white LECs are studied with the evidence of the temporal evolution of emission zone position extracted by fitting the simulated and measured EL spectra. The working principles of the hybrid white LECs are clarified and the high device efficiency renders the proposed new white&#8208;emitting devices suitable for solid&#8208;state lighting technology.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Hybrid White Light&#8208;Emitting Electrochemical Cells Based on a Blue Cationic Iridium(III) Complex and Red Quantum Dots</dc:title>
+      <dc:identifier>doi:10.1002/chem.202001994</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-23T12:43:35-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202001994</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001994?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002810?af=R">
+      <title>Triphenylamine/Tetracyanobutadiene&#8208;based &#960;&#8208;Conjugated Push&#8208;Pull Molecules End&#8208;capped with Arene Platforms: Synthesis, Photophysics, and Photovoltaic Response</title>
+      <dc:description>&#960;&#8208;Conjugated push&#8208;pull molecules based on triphenylamine and 1,1,4,4&#8208;tetracyanobuta&#8208;1,3&#8208;diene (TCBD) have been functionalized with different terminal arene units. In solution, these highly TCBD&#8208;twisted systems showed a strong internal charge transfer band in the visible spectrum and no detectable photoluminescence (PL). Photophysical and theoretical investigations revealed very short singlet excited state deactivation time of ~ 10 ps resulting from significant conformational changes of the TCBD&#8208;arene moiety upon photoexcitation, opening a pathway for non&#8208;radiative decay. The PL was recovered in vacuum&#8208;processed films or when the molecules were dispersed in a PMMA matrix leading to a significant increase of the excited state deactivation time. As shown by cyclic voltammetry, these molecules can act as electron&#8208;donors compared to C60  . Hence, vacuum&#8208;processed planar heterojunction organic solar cells were fabricated leading to a maximum power conversion efficiency of  ca  . 1.9% which decreases with the increase of the arene size.</dc:description>
+      <dc:creator>
+Pablo  Sim&#243;n Marqu&#233;s, 
+Jos&#233;  Mar&#237;a Andr&#233;s Cast&#225;n, 
+Benedito  A. L. Raul, 
+Giacomo Londi, 
+Ivan Ramirez, 
+Maxim  S. Pshenichnikov, 
+David Beljonne, 
+Karsten Walzer, 
+Martin Blais, 
+Magali Allain, 
+Cl&#233;ment Cabanetos, 
+Philippe Blanchard
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002810?af=R</link>
+      <content:encoded>&lt;p&gt;&#960;&#8208;Conjugated push&#8208;pull molecules based on triphenylamine and 1,1,4,4&#8208;tetracyanobuta&#8208;1,3&#8208;diene (TCBD) have been functionalized with different terminal arene units. In solution, these highly TCBD&#8208;twisted systems showed a strong internal charge transfer band in the visible spectrum and no detectable photoluminescence (PL). Photophysical and theoretical investigations revealed very short singlet excited state deactivation time of ~ 10 ps resulting from significant conformational changes of the TCBD&#8208;arene moiety upon photoexcitation, opening a pathway for non&#8208;radiative decay. The PL was recovered in vacuum&#8208;processed films or when the molecules were dispersed in a PMMA matrix leading to a significant increase of the excited state deactivation time. As shown by cyclic voltammetry, these molecules can act as electron&#8208;donors compared to C60  . Hence, vacuum&#8208;processed planar heterojunction organic solar cells were fabricated leading to a maximum power conversion efficiency of  ca  . 1.9% which decreases with the increase of the arene size.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Triphenylamine/Tetracyanobutadiene&#8208;based &#960;&#8208;Conjugated Push&#8208;Pull Molecules End&#8208;capped with Arene Platforms: Synthesis, Photophysics, and Photovoltaic Response</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002810</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-23T08:15:56-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002810</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002810?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202002813?af=R">
+      <title>Enhanced Electrocatalytic Activity of a Zinc Porphyrin for CO2 Reduction: Cooperative Effects of Triazole Units in the Second Coordination Sphere</title>
+      <dc:description>The control of the second coordination sphere in a coordination complex plays an important role in improving catalytic efficiency. Herein, we report a zinc porphyrin complex  ZnPor8T  with multiple flexible triazole units comprising the second coordination sphere, as an electrocatalyst for the highly selective electrochemical reduction of carbon dioxide (CO  2  ) to carbon monoxide (CO). This electrocatalyst converted CO  2  to CO with a Faradaic efficiency of 99% and a current density of &#8211;6.2 mA/cm  2  at &#8211;2.4 V vs Fc/Fc  +  in  N,N  &#8208;dimethylformamide using water as the proton source. Structure&#8208;function relationship studies were carried out on  ZnPor8T  analogs containing different numbers of triazole units and distinct triazole geometries; these unveiled that the triazole units function cooperatively to stabilize the CO  2  &#8208;catalyst adduct in order to facilitate intramolecular proton transfer. Our findings demonstrate that incorporating triazole units that function in a cooperative manner is a versatile strategy to enhance the activity of electrocatalytic CO  2  conversion.</dc:description>
+      <dc:creator>
+Amir Lashgari, 
+Caroline  K. Williams, 
+Yueshen Wu, 
+Jenna  L. Glover, 
+Jingchao Chai, 
+Jianbing  Jimmy Jiang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002813?af=R</link>
+      <content:encoded>&lt;p&gt;The control of the second coordination sphere in a coordination complex plays an important role in improving catalytic efficiency. Herein, we report a zinc porphyrin complex  ZnPor8T  with multiple flexible triazole units comprising the second coordination sphere, as an electrocatalyst for the highly selective electrochemical reduction of carbon dioxide (CO  2  ) to carbon monoxide (CO). This electrocatalyst converted CO  2  to CO with a Faradaic efficiency of 99% and a current density of &#8211;6.2 mA/cm  2  at &#8211;2.4 V vs Fc/Fc  +  in  N,N  &#8208;dimethylformamide using water as the proton source. Structure&#8208;function relationship studies were carried out on  ZnPor8T  analogs containing different numbers of triazole units and distinct triazole geometries; these unveiled that the triazole units function cooperatively to stabilize the CO  2  &#8208;catalyst adduct in order to facilitate intramolecular proton transfer. Our findings demonstrate that incorporating triazole units that function in a cooperative manner is a versatile strategy to enhance the activity of electrocatalytic CO  2  conversion.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Enhanced Electrocatalytic Activity of a Zinc Porphyrin for CO2 Reduction: Cooperative Effects of Triazole Units in the Second Coordination Sphere</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002813</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-07-23T08:13:46-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202002813</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002813?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202003180?af=R">
       <title>Chalcogen&#8208;expanded unsaturated silicon clusters: thia&#8208;, selena&#8208; and tellurasiliconoids</title>
       <dc:description>Reactions of silylenes with heavier chalcogens (E) typically result in Si=E double bonds or their &#960;&#8208;addition products. In contrast, the oxidation of a silylene&#8208;functionalized unsaturated silicon cluster (siliconoid) with Group 16 elements selectively yields cluster expanded siliconoids Si7E (E = S, Se, Te) fully preserving the unsaturated nature of the cluster scaffold as evident from the NMR signatures of the products. Mechanistic considerations by DFT calculations suggest the intermediacy of a Si6 siliconoid with exohedral Si=E functionality. The reaction thus may serve as model system for the oxidation of surface&#8208;bonded silylenes at Si(100) by chalcogens and their diffusion into the silicon bulk.</dc:description>
@@ -192,35 +273,6 @@ David Scheschkewitz
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003180?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002139?af=R">
-      <title>Light&#8208;Activated Carbon Monoxide Prodrugs Based on Bipyridyl Dicarbonyl Ruthenium(II) Complexes</title>
-      <dc:description>Two photoactivatable dicarbonyl ruthenium(II) complexes based on an amide&#8208;functionalised bipyridine scaffold (4&#8208;position) equipped with an alkyne functionality or a green&#8208;fluorescent BODIPY (boron&#8208;dipyrromethene) dye have been prepared and used to investigate their light&#8208;induced decarbonylation. UV/Vis, FT&#8208;IR and  13  C NMR spectroscopies as well as gas chromatography and multivariate curve resolution alternating least&#8208;squares analysis (MCR&#8208;ALS) were used to elucidate the mechanism of the decarbonylation process. Release of the first CO molecule occurs very quickly, while release of the second CO molecule proceeds more slowly. In vitro studies using two cell lines A431 (human squamous carcinoma) and HEK293 (human embryonic kidney cells) have been carried out in order characterise the anti&#8208;proliferative and anti&#8208;apoptotic activities. The BODIPY&#8208;labelled compound allows for monitoring the cellular uptake, showing fast internalisation kinetics and accumulation at the endoplasmic reticulum and mitochondria.</dc:description>
-      <dc:creator>
-Holger Stephan, 
-Stepan Geri, 
-Tereza Krunclova, 
-Olga Janouskova, 
-Jiri Panek, 
-Martin Hruby, 
-Daniel Hern&#225;ndez-Vald&#233;s, 
-Benjamin Probst, 
-Roger  A. Alberto, 
-Constantin Mamat, 
-Manja Kubeil
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002139?af=R</link>
-      <content:encoded>&lt;p&gt;Two photoactivatable dicarbonyl ruthenium(II) complexes based on an amide&#8208;functionalised bipyridine scaffold (4&#8208;position) equipped with an alkyne functionality or a green&#8208;fluorescent BODIPY (boron&#8208;dipyrromethene) dye have been prepared and used to investigate their light&#8208;induced decarbonylation. UV/Vis, FT&#8208;IR and  13  C NMR spectroscopies as well as gas chromatography and multivariate curve resolution alternating least&#8208;squares analysis (MCR&#8208;ALS) were used to elucidate the mechanism of the decarbonylation process. Release of the first CO molecule occurs very quickly, while release of the second CO molecule proceeds more slowly. In vitro studies using two cell lines A431 (human squamous carcinoma) and HEK293 (human embryonic kidney cells) have been carried out in order characterise the anti&#8208;proliferative and anti&#8208;apoptotic activities. The BODIPY&#8208;labelled compound allows for monitoring the cellular uptake, showing fast internalisation kinetics and accumulation at the endoplasmic reticulum and mitochondria.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Light&#8208;Activated Carbon Monoxide Prodrugs Based on Bipyridyl Dicarbonyl Ruthenium(II) Complexes</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002139</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-23T03:15:31-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002139</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002139?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/chem.202003253?af=R">
       <title>High energy density heteroatom (O, N and S) enriched activated carbon in rational design of symmetric supercapacitor</title>
@@ -286,33 +338,6 @@ Juewen Liu
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202001835</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001835?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001993?af=R">
-      <title>Synthesis and applications of cinchona squaramide&#8208;modified poly(glycidyl methacrylate) microspheres as recyclable polymer&#8208;grafted enantioselective organocatalysts</title>
-      <dc:description>Our work presents the immobilization of cinchona squaramide organocatalyst on poly(glycidyl methacrylate) solid support. Preparation of the well&#8208;defined monodisperse polymer microspheres was facilitated by comprehensive parameter optimization. Exploiting the reactive epoxy groups of the polymer support, three amino&#8208;functionalized cinchona derivatives were immobilized on this carrier. To explore the effect of the amino&#8208;linker, these structurally varied precatalysts were synthesized by modifying the cinchona skeleton at different positions. The catalytic activities of the immobilized organocatalysts were tested in  Michael  addition reaction of pentane&#8208;2,4&#8208;dione and  trans  &#8208;&#946;&#8208;nitrostyrene with excellent yields (up to 98%) and enantioselectivities (up to 96% ee).Finally, the catalysts were easily recovered five times by centrifugation without loss of activity.</dc:description>
-      <dc:creator>
-S&#225;ndor Nagy, 
-Zsuzsanna Feh&#233;r, 
-Levente K&#225;rp&#225;ti, 
-P&#233;ter Bagi, 
-P&#233;ter Kissz&#233;kelyi, 
-B&#233;la Koczka, 
-P&#233;ter Huszthy, 
-B&#233;la Puk&#225;nszky, 
-Jozsef Kupai
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001993?af=R</link>
-      <content:encoded>&lt;p&gt;Our work presents the immobilization of cinchona squaramide organocatalyst on poly(glycidyl methacrylate) solid support. Preparation of the well&#8208;defined monodisperse polymer microspheres was facilitated by comprehensive parameter optimization. Exploiting the reactive epoxy groups of the polymer support, three amino&#8208;functionalized cinchona derivatives were immobilized on this carrier. To explore the effect of the amino&#8208;linker, these structurally varied precatalysts were synthesized by modifying the cinchona skeleton at different positions. The catalytic activities of the immobilized organocatalysts were tested in  Michael  addition reaction of pentane&#8208;2,4&#8208;dione and  trans  &#8208;&#946;&#8208;nitrostyrene with excellent yields (up to 98%) and enantioselectivities (up to 96% ee).Finally, the catalysts were easily recovered five times by centrifugation without loss of activity.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Synthesis and applications of cinchona squaramide&#8208;modified poly(glycidyl methacrylate) microspheres as recyclable polymer&#8208;grafted enantioselective organocatalysts</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001993</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-22T09:09:48-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001993</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001993?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1584,28 +1609,6 @@ Joachim Kusz
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002962?af=R">
-      <title>Terminal alkyne coupling reactions through a ring: effect of ring size on rate and regioselectivity</title>
-      <dc:description>Terminal alkyne coupling reactions promoted by rhodium(I) complexes of macrocyclic NHC&#8208;based pincer ligands &#8211; which feature dodecamethylene, tetradecamethylene or hexadecamethylene wingtip linkers viz. [Rh(CNC&#8208;n)(C2H4)][BArF4] (n = 12, 14, 16; ArF = 3,5&#8208;(CF3)2C6H3) &#8211; have been investigated, using the bulky alkynes HC&#8801;CtBu and HC&#8801;CAr&#8242; (Ar&#8242; = 3,5&#8208;tBu2C6H3) as substrates. These stoichiometric reactions proceed with formation of rhodium(III) alkynyl alkenyl derivatives and produce rhodium(I) complexes of conjugated 1,3&#8208;enynes by C&#8211;C bond reductive elimination through the annulus of the ancillary ligand. The intermediates are formed with orthogonal regioselectivity, with E&#8208;alkenyl complexes derived from HC&#8801;CtBu and gem&#8208;alkenyl complexes derived from HC&#8801;CAr&#8242;, and the reductive elimination step is appreciably affected by the ring size of the macrocycle. For the homocoupling of HC&#8801;CtBu, E&#8208;tBuC&#8801;CCH=CHtBu is produced via direct reductive elimination from the corresponding rhodium(III) alkynyl E&#8208;alkenyl derivatives with increasing efficacy as the ring is expanded. In contrast, direct reductive elimination of Ar&#8242;C&#8801;CC(=CH2)Ar&#8242; is encumbered relative to head&#8208;to&#8208;head coupling of HC&#8801;CAr&#8242; and it is only with the largest macrocyclic ligand studied that the two processes are competitive. These results showcase how macrocyclic ligands can be used to interrogate the mechanism and tune the outcome of terminal alkyne coupling reactions, and are discussed with reference to catalytic reactions mediated by the acyclic homologue [Rh(CNC&#8208;Me)(C2H4)][BArF4] and solvent effects.</dc:description>
-      <dc:creator>
-Caroline  M Storey, 
-Matthew  R Gyton, 
-Rhiann  E Andrew, 
-Adrian  B Chaplin
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002962?af=R</link>
-      <content:encoded>&lt;p&gt;Terminal alkyne coupling reactions promoted by rhodium(I) complexes of macrocyclic NHC&#8208;based pincer ligands &#8211; which feature dodecamethylene, tetradecamethylene or hexadecamethylene wingtip linkers viz. [Rh(CNC&#8208;n)(C2H4)][BArF4] (n = 12, 14, 16; ArF = 3,5&#8208;(CF3)2C6H3) &#8211; have been investigated, using the bulky alkynes HC&#8801;CtBu and HC&#8801;CAr&#8242; (Ar&#8242; = 3,5&#8208;tBu2C6H3) as substrates. These stoichiometric reactions proceed with formation of rhodium(III) alkynyl alkenyl derivatives and produce rhodium(I) complexes of conjugated 1,3&#8208;enynes by C&#8211;C bond reductive elimination through the annulus of the ancillary ligand. The intermediates are formed with orthogonal regioselectivity, with E&#8208;alkenyl complexes derived from HC&#8801;CtBu and gem&#8208;alkenyl complexes derived from HC&#8801;CAr&#8242;, and the reductive elimination step is appreciably affected by the ring size of the macrocycle. For the homocoupling of HC&#8801;CtBu, E&#8208;tBuC&#8801;CCH=CHtBu is produced via direct reductive elimination from the corresponding rhodium(III) alkynyl E&#8208;alkenyl derivatives with increasing efficacy as the ring is expanded. In contrast, direct reductive elimination of Ar&#8242;C&#8801;CC(=CH2)Ar&#8242; is encumbered relative to head&#8208;to&#8208;head coupling of HC&#8801;CAr&#8242; and it is only with the largest macrocyclic ligand studied that the two processes are competitive. These results showcase how macrocyclic ligands can be used to interrogate the mechanism and tune the outcome of terminal alkyne coupling reactions, and are discussed with reference to catalytic reactions mediated by the acyclic homologue [Rh(CNC&#8208;Me)(C2H4)][BArF4] and solvent effects.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Terminal alkyne coupling reactions through a ring: effect of ring size on rate and regioselectivity</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002962</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-17T04:35:37-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002962</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002962?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202003201?af=R">
       <title>Enhanced Performance of Zirconium&#8208;Doped Ceria Catalysts for the Methoxycarbonylation of Anilines</title>
       <dc:description>The methoxycarbonylation of anilines stands as an attractive method for the phosgene&#8208;free production of carbamates. Despite the high yields reported for ceria as catalyst, the reduction of the amount of side products and the prevention of catalyst deactivation still represent major hurdles in this chemistry. One advantage of ceria is the possibility of tuning its reactivity by doping its lattice with other metals. A series of doped ceria&#8208;based materials, prepared by substitution with metals, are evaluated in the methoxycarbonylation of 2,4&#8208;diaminotoluene with dimethylcarbonate. Among all catalysts, containing Eu, Hf, La, Pr, Sm, Tb, Y or Zr oxides, ceria with 2 mol% ZrO2 exhibited 96% selectivity towards the desired carbamates, improving the CeO2 catalyst. Density functional theory demonstrates that two descriptors are needed: (i) a geometric factor that governs the reduction of energy barriers for carbamate formation through ureas; (ii) catalyst basicity as N&#8208;H bonds need to be activated. Assessment in subsequent reaction cycles revealed that the CeO2/ZrO2 catalyst is more stable than bulk CeO2, along with the reduction of fouling processes.</dc:description>
@@ -1949,28 +1952,6 @@ Claudio Palomo
       <prism:copyright />
       <prism:section>Concept</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002765?af=R">
-      <title>Heterochiral DNA with Complementary Strands in &#945;&#8208;D and &#946;&#8208;D Configuration: H&#8208;Bonded and Silver Mediated Base Pairs with Impact of 7&#8208;Deazapurines Replacing Purines</title>
-      <dc:description>Heterochiral DNA with H&#8208;bonded and silver mediated base pairs was constructed using complementary strands with nucleosides in &#945;&#8208;D or &#946;&#8208;D configuration. Anomeric phosphoramidites were employed to assemble oligonucleotides. According to  T  m  values and thermodynamic data duplex stability of heterochiral duplexes was similar to that of homochiral DNA but mismatch discrimination was better in heterochiral DNA. Replacement of purines by 7&#8208;deazapurines resulted in stable parallel duplexes confirming Watson&#8208;Crick type base pairing. When cytosine was facing cytosine, thymine or adenine residues duplex DNA formed silver mediated base pairs. Whereas CD spectra of single strands with &#945;&#8208;D configuration display mirror like shapes to those with &#946;&#8208;configuration the CD spectra of H&#8208;bonded duplexes and those with a limited number of silver pairs form a B&#8208;type double helix almost indistinguishable from natural DNA. Non&#8208;melting silver ion&#8208;DNA complexes with entirely different CD spectra are generated when the silver ions equal the number of base pairs.</dc:description>
-      <dc:creator>
-Frank Seela, 
-Yingying Chai, 
-Xiurong Guo, 
-Peter Leonard
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002765?af=R</link>
-      <content:encoded>&lt;p&gt;Heterochiral DNA with H&#8208;bonded and silver mediated base pairs was constructed using complementary strands with nucleosides in &#945;&#8208;D or &#946;&#8208;D configuration. Anomeric phosphoramidites were employed to assemble oligonucleotides. According to  T  m  values and thermodynamic data duplex stability of heterochiral duplexes was similar to that of homochiral DNA but mismatch discrimination was better in heterochiral DNA. Replacement of purines by 7&#8208;deazapurines resulted in stable parallel duplexes confirming Watson&#8208;Crick type base pairing. When cytosine was facing cytosine, thymine or adenine residues duplex DNA formed silver mediated base pairs. Whereas CD spectra of single strands with &#945;&#8208;D configuration display mirror like shapes to those with &#946;&#8208;configuration the CD spectra of H&#8208;bonded duplexes and those with a limited number of silver pairs form a B&#8208;type double helix almost indistinguishable from natural DNA. Non&#8208;melting silver ion&#8208;DNA complexes with entirely different CD spectra are generated when the silver ions equal the number of base pairs.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Heterochiral DNA with Complementary Strands in &#945;&#8208;D and &#946;&#8208;D Configuration: H&#8208;Bonded and Silver Mediated Base Pairs with Impact of 7&#8208;Deazapurines Replacing Purines</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002765</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-15T05:06:48-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002765</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002765?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002822?af=R">
       <title>A Full Li&#8208;S Battery with Ultralow Excessive Li Enabled via Lithiophilic and Sulphilic W2C Modulation</title>
       <dc:description>The practical application of Li&#8208;S batteries demands low cell balance (Li  capacity  /S  capacity  ), which involves uniform Li growth, restrained shuttle effect, and fast redox reaction kinetics of S species simultaneously. Herein, with the aid of W  2  C nanocrystals, a freestanding 3D current collector is applied as both Li and S hosts owing to its lithiophilic and sulphilic property. On the one hand, the highly conductive W  2  C can reduce Li nucleation overpotentials, thus guiding uniform Li nucleation and deposition to suppress Li dendrite growth. On the other hand, the polar W  2  C with catalytic effect can enhance the chemisorption affinity to lithium polysulfides (LiPSs) and guarantee fast redox kinetics to restrain S species in cathode region and promote the utilization of S. Surprisingly, a full Li&#8208;S battery with ultralow cell balance of 1.5:1 and high sulfur loading of 6.06 mg cm  &#8208;2  shows obvious redox plateaus of S and maintains high reversible specific capacity of 1020 mAh g  &#8208;1  (6.2 mAh cm  &#8208;2  ) after 200 cycles. This work may shed new sights on the facile design of full Li&#8208;S battery with low excessive Li supply.</dc:description>
@@ -2092,75 +2073,5 @@ Lu&#237;s  D Carlos
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003239?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202001979?af=R">
-      <title>Insight into the dependence of particle size of ZIF&#8208;8 on the performance in nanocarbon&#8208;based supercapacitors</title>
-      <dc:description>Carbon materials derived from zeolitic imidazolate framework&#8208;8 (ZIF&#8208;8) and the relevant composites have been intensively investigated in the supercapacitors. The particle size of used ZIF&#8208;8 ranges from dozens of nanometers to several microns. So far, the influence of the particle size of ZIF&#8208;8 on the capacitive performances is still not clear. Herein, a series of ZIF&#8208;8 with different particle sizes (from 25 to 296 nm) are synthesized and carbonized for supercapacitors. Based on TEM, EDX mapping, XRD, Raman, nitrogen adsorption/desorption, XPS, and the results of electrochemical tests, the optimal particle size (~70 nm) is obtained for the superior supercapacitor performances in both acidic and alkaline electrolytes. Therefore, this important result provides a significant reference to guide the future research works focused on the ZIF&#8208;8 related to electrochemical response to achieve the best performance.</dc:description>
-      <dc:creator>
-Yanliang Wen, 
-Xuecheng Chen, 
-Ewa Mijowska
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001979?af=R</link>
-      <content:encoded>&lt;p&gt;Carbon materials derived from zeolitic imidazolate framework&#8208;8 (ZIF&#8208;8) and the relevant composites have been intensively investigated in the supercapacitors. The particle size of used ZIF&#8208;8 ranges from dozens of nanometers to several microns. So far, the influence of the particle size of ZIF&#8208;8 on the capacitive performances is still not clear. Herein, a series of ZIF&#8208;8 with different particle sizes (from 25 to 296 nm) are synthesized and carbonized for supercapacitors. Based on TEM, EDX mapping, XRD, Raman, nitrogen adsorption/desorption, XPS, and the results of electrochemical tests, the optimal particle size (~70 nm) is obtained for the superior supercapacitor performances in both acidic and alkaline electrolytes. Therefore, this important result provides a significant reference to guide the future research works focused on the ZIF&#8208;8 related to electrochemical response to achieve the best performance.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Insight into the dependence of particle size of ZIF&#8208;8 on the performance in nanocarbon&#8208;based supercapacitors</dc:title>
-      <dc:identifier>doi:10.1002/chem.202001979</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-14T10:54:42-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202001979</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202001979?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003042?af=R">
-      <title>Meso and &#223;&#8208;Pyrrole Linked Chlorin&#8208;Bacteriochlorin Dyads for Promoting Far&#8208;Red FRET and Singlet Oxygen Production</title>
-      <dc:description>A series of chlorin&#8208;bacteriochlorin dyads (derived from naturally occurring chlorophyll&#8208;a and bacteriochlorophyll&#8208;a), covalently connected either through the meso&#8208;aryl or b&#8208;pyrrole position (position&#8208;3)  via  an ester linkage have been synthesized and characterized as a new class of far&#8208;red emitting fluorescence resonance energy transfer (FRET) imaging, and heavy atom lacking singlet oxygen producing agents.&#160; From systematic absorption, fluorescence, electrochemical and computational studies, the role of chlorin as an energy donor and bacteriochlorin as an energy acceptor in these wide&#8208;band capturing dyads was established.&#160; Efficiency of FRET evaluated from spectral overlap was found to be 95% and 98% for the meso&#8208;linked and b&#8208;pyrrole linked dyads, respectively.&#160; Furthermore, evidence for the occurrence of FRET from singlet&#8208;excited chlorin to bacteriochlorin was secured from studies involving femtosecond transient absorption studies in toluene. The measured FRET rate constants,  k  FRET,  were on the order of 10  11  s  &#8209;1  , suggesting the occurrence of ultrafast energy transfer in these dyads.&#160; Nanosecond transient absorption studies confirmed relaxation of the energy transfer product,  1  BChl*, to its triplet state,  3  Bchl*.&#160; The  3  Bchl* thus generated was capable of producing singlet oxygen with quantum yields comparable to their monomeric entities. The occurrence of efficient FRET emitting in the far&#8208;red region and the ability to produce singlet oxygen make the present series of dyads useful for photonic, imaging and therapy applications.</dc:description>
-      <dc:creator>
-Francis D'Souza, 
-M. Dukh, 
-W.A. Tabaczynski, 
-S. Seetharaman, 
-Z. Ou, 
-K.  M. Kadish, 
-R. Pandey
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003042?af=R</link>
-      <content:encoded>&lt;p&gt;A series of chlorin&#8208;bacteriochlorin dyads (derived from naturally occurring chlorophyll&#8208;a and bacteriochlorophyll&#8208;a), covalently connected either through the meso&#8208;aryl or b&#8208;pyrrole position (position&#8208;3)  via  an ester linkage have been synthesized and characterized as a new class of far&#8208;red emitting fluorescence resonance energy transfer (FRET) imaging, and heavy atom lacking singlet oxygen producing agents.&#160; From systematic absorption, fluorescence, electrochemical and computational studies, the role of chlorin as an energy donor and bacteriochlorin as an energy acceptor in these wide&#8208;band capturing dyads was established.&#160; Efficiency of FRET evaluated from spectral overlap was found to be 95% and 98% for the meso&#8208;linked and b&#8208;pyrrole linked dyads, respectively.&#160; Furthermore, evidence for the occurrence of FRET from singlet&#8208;excited chlorin to bacteriochlorin was secured from studies involving femtosecond transient absorption studies in toluene. The measured FRET rate constants,  k  FRET,  were on the order of 10  11  s  &#8209;1  , suggesting the occurrence of ultrafast energy transfer in these dyads.&#160; Nanosecond transient absorption studies confirmed relaxation of the energy transfer product,  1  BChl*, to its triplet state,  3  Bchl*.&#160; The  3  Bchl* thus generated was capable of producing singlet oxygen with quantum yields comparable to their monomeric entities. The occurrence of efficient FRET emitting in the far&#8208;red region and the ability to produce singlet oxygen make the present series of dyads useful for photonic, imaging and therapy applications.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Meso and &#223;&#8208;Pyrrole Linked Chlorin&#8208;Bacteriochlorin Dyads for Promoting Far&#8208;Red FRET and Singlet Oxygen Production</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003042</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-14T08:25:12-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003042</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003042?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002792?af=R">
-      <title>Systematic study on catalytic arsa&#8208;Wittig reaction</title>
-      <dc:description>Efficient catalytic arsa&#8208;Wittig reaction has been developed using 1&#8208;phenylarsolane as a catalyst. A wide array of aldehydes were converted to the corresponding olefins in high yields with moderate to excellent  E  stereoselectivity in the presence of the catalytic amount of 1&#8208;phenylarsolane. Moreover, density functional theory calculations were carried out to afford insight into the  E  /  Z  selectivity.</dc:description>
-      <dc:creator>
-Ryoto Inaba, 
-Ikuo Kawashima, 
-Toshiki Fujii, 
-Takashi Yumura, 
-Hiroaki Imoto, 
-Kensuke Naka
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002792?af=R</link>
-      <content:encoded>&lt;p&gt;Efficient catalytic arsa&#8208;Wittig reaction has been developed using 1&#8208;phenylarsolane as a catalyst. A wide array of aldehydes were converted to the corresponding olefins in high yields with moderate to excellent  E  stereoselectivity in the presence of the catalytic amount of 1&#8208;phenylarsolane. Moreover, density functional theory calculations were carried out to afford insight into the  E  /  Z  selectivity.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Systematic study on catalytic arsa&#8208;Wittig reaction</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002792</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-14T04:55:13-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002792</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002792?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
