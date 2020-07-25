@@ -9,6 +9,9 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000376?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000381?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000356?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000335?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000245?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000338?af=R" />
@@ -86,7 +89,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000433?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000297?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000295?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000381?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000319?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000233?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000336?af=R" />
@@ -119,13 +121,10 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000142?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000272?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000172?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000356?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000131?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000158?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000174?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000201?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000230?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000066?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000362?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000341?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000185?af=R" />
@@ -137,6 +136,27 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000376?af=R">
+      <title>On the Case of the Misplaced Hydrogens</title>
+      <dc:description>Few other elements play a more central role in biology than hydrogen. The interactions, bonding and movement of hydrogen atoms are central to biological catalysis, structure and function. Yet owing to the elusive nature of a single hydrogen atom few experimental and computational techniques can precisely determine its location. This is exemplified in short hydrogen bonds (SHBs) where the location of the hydrogen is indicative of the underlying strength of the bonds, which can vary from 1&#8208;5 kcal/mol in canonical hydrogen bonds, to an almost covalent nature in single&#8208;well hydrogen bonds. Owing to the often&#8208;times inferred position of hydrogen, the role of SHBs in biology has remained highly contested and debated.&#160; This has also led to discrepancies in computational, biochemical and structural studies of proteins thought to utilize SHBs in performing chemistry and stabilizing interactions. Here we discuss in detail two distinct examples, namely the conserved catalytic triad and the photoreceptor, photoactive yellow protein, where studies of these SHB&#8208;containing systems have permitted contextualization of the role these unique hydrogen bonds play in biology.</dc:description>
+      <dc:creator>
+Prashasti Kumar, 
+Pratul  K. Agarwal, 
+Matthew  J. Cuneo
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000376?af=R</link>
+      <content:encoded>&lt;p&gt;Few other elements play a more central role in biology than hydrogen. The interactions, bonding and movement of hydrogen atoms are central to biological catalysis, structure and function. Yet owing to the elusive nature of a single hydrogen atom few experimental and computational techniques can precisely determine its location. This is exemplified in short hydrogen bonds (SHBs) where the location of the hydrogen is indicative of the underlying strength of the bonds, which can vary from 1&#8208;5 kcal/mol in canonical hydrogen bonds, to an almost covalent nature in single&#8208;well hydrogen bonds. Owing to the often&#8208;times inferred position of hydrogen, the role of SHBs in biology has remained highly contested and debated.&#160; This has also led to discrepancies in computational, biochemical and structural studies of proteins thought to utilize SHBs in performing chemistry and stabilizing interactions. Here we discuss in detail two distinct examples, namely the conserved catalytic triad and the photoreceptor, photoactive yellow protein, where studies of these SHB&#8208;containing systems have permitted contextualization of the role these unique hydrogen bonds play in biology.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>On the Case of the Misplaced Hydrogens</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000376</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-07-24T08:14:53-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000376</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000376?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000335?af=R">
       <title>Comparison of multiple factors that impact the efficiency of non&#8208;enzymatic DNA ligation: Key parameters for maximizing ligation rates and yields with carbodiimide activation</title>
       <dc:description>Chemical ligation is an important tool for the generation of synthetic DNA structures, which are used for a wide range of applications. Surprisingly, reported chemical ligation yields can range from 30% to 95% for the same chemical activating agent and comparable DNA structures. We report a systematic study of DNA ligation using a well&#8208;defined bimolecular test system and a water&#8208;soluble carbodiimide (EDC) as a phosphate&#8208;activating agent. Our results emphasize the interplay between template&#8208;substrate complex stability and the rates of the chemical steps of ligation, with 3&#180; phosphate substrates providing yields near 100% after 24 hours for particularly favorable reaction conditions. Ligation rates are also shown to be sensitive to the identity of base pairs flanking a nick site, with as much as three&#8208;fold variation. Finally, the observation that DNA substrates are modified by EDC at rates that can be comparable with ligation rates emphasizes the importance of considering side reactions when designing protocols to maximize ligation yields.</dc:description>
@@ -2472,32 +2492,6 @@ guochao chu
       <prism:copyright />
       <prism:section>Concept</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000381?af=R">
-      <title>Morphological profiling enables the identification of common mode of action for small molecules with different targets</title>
-      <dc:description>Unbiased morphological profiling of bioactivity, e. g. in the cell painting assay (CPA), enables identification of small&#8208;molecule mode of action based on similarity to bioactivity of reference compounds and irrespective of biological target and chemical similarity. This is particularly important for small molecules with non&#8208;protein targets as those are rather difficult to identify with widely employed target identification methods. We employed morphological profiling using the CPA to identify compounds that are biosimilar to the iron chelator deferoxamine. Structurally different compounds with different annotated cellular targets provoked shared physiological response, thereby defining a cluster based on their morphological fingerprints. This cluster is based on a shared mode of action and not on a shared target, i.e. cell cycle modulation in the S or G2 phase. Hierarchical clustering of morphological fingerprints revealed subclusters that are based on mechanism of action and could be used to predict target&#8208;related bioactivity.</dc:description>
-      <dc:creator>
-Tabea Schneidewind, 
-Alexandra Brause, 
-Axel Pahl, 
-Annina Burhop, 
-Tom Mejuch, 
-Sonja Sievers, 
-Herbert Waldmann, 
-Slava Ziegler
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000381?af=R</link>
-      <content:encoded>&lt;p&gt;Unbiased morphological profiling of bioactivity, e. g. in the cell painting assay (CPA), enables identification of small&#8208;molecule mode of action based on similarity to bioactivity of reference compounds and irrespective of biological target and chemical similarity. This is particularly important for small molecules with non&#8208;protein targets as those are rather difficult to identify with widely employed target identification methods. We employed morphological profiling using the CPA to identify compounds that are biosimilar to the iron chelator deferoxamine. Structurally different compounds with different annotated cellular targets provoked shared physiological response, thereby defining a cluster based on their morphological fingerprints. This cluster is based on a shared mode of action and not on a shared target, i.e. cell cycle modulation in the S or G2 phase. Hierarchical clustering of morphological fingerprints revealed subclusters that are based on mechanism of action and could be used to predict target&#8208;related bioactivity.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Morphological profiling enables the identification of common mode of action for small molecules with different targets</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000381</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-03T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000381</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000381?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000319?af=R">
       <title>Nonhydrolyzable Heptose Bis&#8208; and Monophosphate Analogues Modulate Pro&#8208;inflammatory TIFA&#8208;NF&#8208;&#954;B Signaling</title>
       <dc:description>
@@ -3702,7 +3696,7 @@ Brigitte Worbs,
 Ulf Diederichsen
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000172?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b789ca8c-5f69-4441-904f-1a93c490e311/cbic202000172-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b789ca8c-5f69-4441-904f-1a93c490e311/cbic202000172-toc-0001-m.png"
      alt="Membrane&#8208;Associated Nucleobase&#8208;Functionalized &#946;&#8208;Peptides (&#946;&#8208;PNAs) Affecting Membrane Support and Lipid Composition"/&gt;
 &lt;p&gt;&lt;b&gt;A model system &lt;/b&gt; for membrane&#8208;spanning protein networks &#8211; important for the stability of the membrane, its structure and transmembrane signal transmission &#8211; has been developed. The synthetically available system is based on &#946;&#8208;peptide nucleic acid (&#946;&#8208;PNA) helices functionalized with lipid membrane anchors and nucleobase recognition sequences. &#946;&#8208;PNA membrane interaction and aggregation are indicated by fluorescence and CD spectroscopy assays.
 
@@ -3721,30 +3715,6 @@ Ulf Diederichsen
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000172?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000356?af=R">
-      <title>Multiple chemical features impact biological performance diversity of a highly active natural product&#8208;inspired library</title>
-      <dc:description>A systematic, diversity&#8208;oriented synthesis approach was employed to access a natural product&#8208;inspired flavonoid library with diversity of chemical features, including chemical properties, scaffold, stereochemistry, and appendages. Using Cell Painting, the effects of these diversity elements were evaluated and multiple chemical features that predict biological performance diversity were identified. Scaffold identity appears to be the dominant predictor of performance diversity, but stereochemistry and appendages also contribute to a lesser degree. In addition, diversity of chemical properties contributed to performance diversity and the driving chemical property was dependent on the scaffold. These results highlight the importance of key chemical features that may inform the creation of small&#8208;molecule, performance&#8208;diverse libraries to improve the efficiency and success of high&#8208;throughput screening campaigns.</dc:description>
-      <dc:creator>
-Ryan  S. Hippman, 
-Ivan Pavlinov, 
-Qiwen Gao, 
-Michelle  K. Mavlyanova, 
-Erica  M. Gerlach, 
-Leslie Aldrich
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000356?af=R</link>
-      <content:encoded>&lt;p&gt;A systematic, diversity&#8208;oriented synthesis approach was employed to access a natural product&#8208;inspired flavonoid library with diversity of chemical features, including chemical properties, scaffold, stereochemistry, and appendages. Using Cell Painting, the effects of these diversity elements were evaluated and multiple chemical features that predict biological performance diversity were identified. Scaffold identity appears to be the dominant predictor of performance diversity, but stereochemistry and appendages also contribute to a lesser degree. In addition, diversity of chemical properties contributed to performance diversity and the driving chemical property was dependent on the scaffold. These results highlight the importance of key chemical features that may inform the creation of small&#8208;molecule, performance&#8208;diverse libraries to improve the efficiency and success of high&#8208;throughput screening campaigns.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Multiple chemical features impact biological performance diversity of a highly active natural product&#8208;inspired library</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000356</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-17T07:00:08-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000356</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000356?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000131?af=R">
       <title>Histone Deacetylase 2 (HDAC2) Inhibitors Containing Boron</title>
@@ -3917,98 +3887,6 @@ Bradley L. Pentelute
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000201?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000230?af=R">
-      <title>Synthesis of Stable NAD+ Mimics as Inhibitors for the Legionella pneumophila Phosphoribosyl Ubiquitylating Enzyme SdeC</title>
-      <dc:description>
-Modestly modified: Three stable NAD+ analogues namely, c&#8208;NAD+, S&#8208;NAD+ and BAD were prepared by using an optimized chemoenzymatic procedure and were compared side&#8208;by&#8208;side for enzyme inhibition of Legionella effector enzyme SdeC, which is important in bacterial virulence. Minimal structural variation in the furanose ring or nicotinamide part of NAD+ leads to efficient inhibitors.
-
-
-
-
-
-
-
-Abstract
-Stable NAD+ analogues carrying single atom substitutions in either the furanose ring or the nicotinamide part have proven their value as inhibitors for NAD+&#8208;consuming enzymes. To investigate the potential of such compounds to inhibit the adenosine diphosphate ribosyl (ADPr) transferase activity of the Legionella SdeC enzyme, we prepared three NAD+ analogues, namely carbanicotinamide adenosine dinucleotide (c&#8208;NAD+), thionicotinamide adenosine dinucleotide (S&#8208;NAD+) and benzamide adenosine dinucleotide (BAD). We optimized the chemical synthesis of thionicotinamide riboside and for the first time used an enzymatic approach to convert all three ribosides into the corresponding NAD+ mimics. We thus expanded the known scope of substrates for the NRK1/NMNAT1 enzyme combination by turning all three modified ribosides into NAD+ analogues in a scalable manner. We then compared the three NAD+ mimics side&#8208;by&#8208;side in a single assay for enzyme inhibition on Legionella effector enzyme SdeC. The class of SidE enzymes to which SdeC belongs was recently identified to be important in bacterial virulence, and we found SdeC to be inhibited by S&#8208;NAD+ and BAD with IC50 values of 28 and 39&#8197;&#956;M, respectively.
-</dc:description>
-      <dc:creator>
-Jerre M. Madern, 
-Robbert Q. Kim, 
-Mohit Misra, 
-Ivan Dikic, 
-Yong Zhang, 
-Huib Ovaa, 
-Jeroen D. C. Cod&#233;e, 
-Dmitri V. Filippov, 
-Gerbrand J. Heden van Noort
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000230?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9e36dfb2-e1ac-4527-aa46-67b71b56a52f/cbic202000230-toc-0001-m.png"
-     alt="Synthesis of Stable NAD+ Mimics as Inhibitors for the Legionella pneumophila Phosphoribosyl Ubiquitylating Enzyme SdeC"/&gt;
-&lt;p&gt;&lt;b&gt;Modestly modified &lt;/b&gt;: Three stable NAD&lt;sup&gt;+&lt;/sup&gt; analogues namely, c&#8208;NAD&lt;sup&gt;+&lt;/sup&gt;, S&#8208;NAD&lt;sup&gt;+&lt;/sup&gt; and BAD were prepared by using an optimized chemoenzymatic procedure and were compared side&#8208;by&#8208;side for enzyme inhibition of Legionella effector enzyme SdeC, which is important in bacterial virulence. Minimal structural variation in the furanose ring or nicotinamide part of NAD&lt;sup&gt;+&lt;/sup&gt; leads to efficient inhibitors.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Stable NAD&lt;sup&gt;+&lt;/sup&gt; analogues carrying single atom substitutions in either the furanose ring or the nicotinamide part have proven their value as inhibitors for NAD&lt;sup&gt;+&lt;/sup&gt;&#8208;consuming enzymes. To investigate the potential of such compounds to inhibit the adenosine diphosphate ribosyl (ADPr) transferase activity of the Legionella SdeC enzyme, we prepared three NAD&lt;sup&gt;+&lt;/sup&gt; analogues, namely carbanicotinamide adenosine dinucleotide (c&#8208;NAD&lt;sup&gt;+&lt;/sup&gt;), thionicotinamide adenosine dinucleotide (S&#8208;NAD&lt;sup&gt;+&lt;/sup&gt;) and benzamide adenosine dinucleotide (BAD). We optimized the chemical synthesis of thionicotinamide riboside and for the first time used an enzymatic approach to convert all three ribosides into the corresponding NAD&lt;sup&gt;+&lt;/sup&gt; mimics. We thus expanded the known scope of substrates for the NRK1/NMNAT1 enzyme combination by turning all three modified ribosides into NAD&lt;sup&gt;+&lt;/sup&gt; analogues in a scalable manner. We then compared the three NAD&lt;sup&gt;+&lt;/sup&gt; mimics side&#8208;by&#8208;side in a single assay for enzyme inhibition on Legionella effector enzyme SdeC. The class of SidE enzymes to which SdeC belongs was recently identified to be important in bacterial virulence, and we found SdeC to be inhibited by S&#8208;NAD&lt;sup&gt;+&lt;/sup&gt; and BAD with IC&lt;sub&gt;50&lt;/sub&gt; values of 28 and 39&#8197;&#956;M, respectively.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Synthesis of Stable NAD+ Mimics as Inhibitors for the Legionella pneumophila Phosphoribosyl Ubiquitylating Enzyme SdeC</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000230</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-16T06:16:23-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000230</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000230?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000066?af=R">
-      <title>Bimetallic CuCo2S4 Nanozymes with Enhanced Peroxidase Activity at Neutral pH for Combating Burn Infections</title>
-      <dc:description>
-Cleaning wounds: A bimetallic CuCo2S4 nanozyme exhibits enhanced peroxidase&#8208;like activity at neutral pH, and can convert H2O2 into highly toxic hydroxyl radicals for killing bacteria. The CuCo2S4 nanozyme effectively facilitates the healing of burn wounds infected with drug&#8208;resistant bacteria.
-
-
-
-
-
-
-
-Abstract
-Peroxidase&#8208;mimicking nanozymes that can generate toxic hydroxyl radicals (.OH) hold great promise as antibacterial alternatives. However, most of them display optimal performance under strongly acidic conditions (pH&#8197;3&#8211;4), and are thus not feasible for many medical uses, including burn infections with a wound pH close to neutral. Herein, we report a copper&#8208;based nanozyme (CuCo2S4) that exhibits intrinsic peroxidase&#8208;like activity and can convert H2O2 into .OH at neutral pH. In particular, bimetallic CuCo2S4 nanoparticles (NPs) exhibited enhanced peroxidase&#8208;like activity and antibacterial capacity, superior to that of the corresponding monometallic CuS and CoS NPs. The CuCo2S4 nanozymes possessed excellent ability to kill various bacteria, including methicillin&#8208;resistant Staphylococcus aureus (MRSA). Furthermore, this CuCo2S4 nanozymes could effectively disrupt MRSA biofilms in&#8197;vitro and accelerate MRSA&#8208;infected burn healing in&#8197;vivo. This work provides a new peroxidase mimic to combat bacteria in neutral pH milieu and this CuCo2S4 nanozyme could be a promising antibacterial agent for the treatment of burn infections.
-</dc:description>
-      <dc:creator>
-Dandan Li, 
-Qianqian Guo, 
-Liming Ding, 
-Wei Zhang, 
-Lu Cheng, 
-Yanqiu Wang, 
-Zhuobin Xu, 
-Huihui Wang, 
-Lizeng Gao
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000066?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6ad56278-059d-408b-998e-d5017cd46cf3/cbic202000066-toc-0001-m.png"
-     alt="Bimetallic CuCo2S4 Nanozymes with Enhanced Peroxidase Activity at Neutral pH for Combating Burn Infections"/&gt;
-&lt;p&gt;&lt;b&gt;Cleaning wounds &lt;/b&gt;: A bimetallic CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; nanozyme exhibits enhanced peroxidase&#8208;like activity at neutral pH, and can convert H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; into highly toxic hydroxyl radicals for killing bacteria. The CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; nanozyme effectively facilitates the healing of burn wounds infected with drug&#8208;resistant bacteria.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Peroxidase&#8208;mimicking nanozymes that can generate toxic hydroxyl radicals (&lt;sup&gt;.&lt;/sup&gt;OH) hold great promise as antibacterial alternatives. However, most of them display optimal performance under strongly acidic conditions (pH&#8197;3&#8211;4), and are thus not feasible for many medical uses, including burn infections with a wound pH close to neutral. Herein, we report a copper&#8208;based nanozyme (CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;) that exhibits intrinsic peroxidase&#8208;like activity and can convert H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; into &lt;sup&gt;.&lt;/sup&gt;OH at neutral pH. In particular, bimetallic CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; nanoparticles (NPs) exhibited enhanced peroxidase&#8208;like activity and antibacterial capacity, superior to that of the corresponding monometallic CuS and CoS NPs. The CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; nanozymes possessed excellent ability to kill various bacteria, including methicillin&#8208;resistant &lt;i&gt;Staphylococcus aureus &lt;/i&gt; (MRSA). Furthermore, this CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; nanozymes could effectively disrupt MRSA biofilms in&#8197;vitro and accelerate MRSA&#8208;infected burn healing in&#8197;vivo. This work provides a new peroxidase mimic to combat bacteria in neutral pH milieu and this CuCo&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; nanozyme could be a promising antibacterial agent for the treatment of burn infections.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Bimetallic CuCo2S4 Nanozymes with Enhanced Peroxidase Activity at Neutral pH for Combating Burn Infections</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000066</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-16T06:14:57-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000066</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000066?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000362?af=R">
       <title>Design and Evaluation of Artificial Hybrid Photoredox Biocatalysts</title>
