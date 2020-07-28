@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003213?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001989?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002559?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001994?af=R" />
@@ -105,7 +106,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002563?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000381?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907098?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002661?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001998?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001258?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001874?af=R" />
@@ -217,6 +217,48 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202003213?af=R">
+      <title>Principles Governing Control of Aggregation and Dispersion of Graphene and Graphene Oxide in Polymer Melts</title>
+      <dc:description>
+Controlling the dispersion and aggregation of graphene oxide (GO) is critical for harnessing its potential in many applications. This can be challenging as many competing factors contribute to its behavior in solution, and they are poorly understood. Using multiscale simulation, the key factors governing this behavior are mapped out and a framework for controlling the morphology of GO is proposed.
+
+
+
+
+
+
+
+
+Abstract
+Controlling the structure of graphene and graphene oxide (GO) phases is vitally important for any of its widespread intended applications: highly ordered arrangements of nanoparticles are needed for thin&#8208;film or membrane applications of GO, dispersed nanoparticles for composite materials, and 3D porous arrangements for hydrogels. By combining coarse&#8208;grained molecular dynamics and newly developed accurate models of GO, the driving forces that lead to the various morphologies are resolved. Two hydrophilic polymers, poly(ethylene glycol) (PEG) and poly(vinyl alcohol) (PVA), are used to illustrate the thermodynamically stable morphologies of GO and relevant dispersion mechanisms. GO self&#8208;assembly can be controlled by changing the degree of oxidation, varying from fully aggregated over graphitic domains to intercalated assemblies with polymer bilayers between sheets. The long&#8208;term stability of a dispersion is extremely important for many commercial applications of GO composites. For any degree of oxidation, GO does not disperse in PVA as a thermodynamic equilibrium product, whereas in PEG dispersions are only thermodynamically stable for highly oxidized GO. These findings&#8212;validated against the extensive literature on GO systems in organic solvents&#8212;furnish quantitative explanations for the empirically unpredictable aggregation characteristics of GO and provide computational methods to design directed synthesis routes for diverse self&#8208;assemblies and applications.
+</dc:description>
+      <dc:creator>
+James L. Suter, 
+Robert C. Sinclair, 
+Peter V. Coveney
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003213?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/54652a27-81cb-4f3e-8db5-38121c3e6c77/adma202003213-gra-0001-m.png"
+     alt="Principles Governing Control of Aggregation and Dispersion of Graphene and Graphene Oxide in Polymer Melts"/&gt;
+&lt;p&gt;Controlling the dispersion and aggregation of graphene oxide (GO) is critical for harnessing its potential in many applications. This can be challenging as many competing factors contribute to its behavior in solution, and they are poorly understood. Using multiscale simulation, the key factors governing this behavior are mapped out and a framework for controlling the morphology of GO is proposed.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Controlling the structure of graphene and graphene oxide (GO) phases is vitally important for any of its widespread intended applications: highly ordered arrangements of nanoparticles are needed for thin&#8208;film or membrane applications of GO, dispersed nanoparticles for composite materials, and 3D porous arrangements for hydrogels. By combining coarse&#8208;grained molecular dynamics and newly developed accurate models of GO, the driving forces that lead to the various morphologies are resolved. Two hydrophilic polymers, poly(ethylene glycol) (PEG) and poly(vinyl alcohol) (PVA), are used to illustrate the thermodynamically stable morphologies of GO and relevant dispersion mechanisms. GO self&#8208;assembly can be controlled by changing the degree of oxidation, varying from fully aggregated over graphitic domains to intercalated assemblies with polymer bilayers between sheets. The long&#8208;term stability of a dispersion is extremely important for many commercial applications of GO composites. For any degree of oxidation, GO does not disperse in PVA as a thermodynamic equilibrium product, whereas in PEG dispersions are only thermodynamically stable for highly oxidized GO. These findings&#8212;validated against the extensive literature on GO systems in organic solvents&#8212;furnish quantitative explanations for the empirically unpredictable aggregation characteristics of GO and provide computational methods to design directed synthesis routes for diverse self&#8208;assemblies and applications.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Principles Governing Control of Aggregation and Dispersion of Graphene and Graphene Oxide in Polymer Melts</dc:title>
+      <dc:identifier>doi:10.1002/adma.202003213</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-07-28T01:08:55-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202003213</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003213?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202001989?af=R">
       <title>Water Passivation of Perovskite Nanocrystals Enables Air&#8208;Stable Intrinsically Stretchable Color&#8208;Conversion Layers for Stretchable Displays</title>
       <dc:description>
@@ -3432,49 +3474,6 @@ Jihong Yu
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201907098?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002661?af=R">
-      <title>Photoactivatable Protherapeutic Nanomedicine for Cancer</title>
-      <dc:description>
-The recent progress of photoactivatable protherapeutic nanoagents in cancer therapy is reviewed. Protherapeutic nanoagents are defined to have the ability to respond to light, reactive oxygen species, or heat modulated by nanotransducers upon light irradiation, and subsequently activate the pharmaceutical actions. Such an in situ activation mechanism holds the potential to enhance therapeutic efficacy while reducing systemic toxicity of nanomedicines.
-
-
-
-
-
-
-
-
-Abstract
-Therapeutic systems with site&#8208;specific pharmaceutical activation hold great promise to enhance therapeutic efficacy while reducing systemic toxicity in cancer therapy. With operational flexibility, noninvasiveness, and high spatiotemporal resolution, photoactivatable nanomedicines have drawn growing attention. Distinct from traditional controlled release systems relying on the difference of biomarker concentrations between disease and healthy tissues, photoactivatable nanomedicines capitalize on the interaction between nanotransducers and light to either trigger photochemical reactions or generate reactive oxygen species (ROS) or heat effect to remotely induce pharmaceutical actions in living subjects. Herein, the recent advances in the development of photoactivatable protherapeutic nanoagents for oncology are summarized. The design strategies and therapeutic applications of these nanoagents are described. Representative examples of each type are discussed in terms of structure, photoactivation mechanism, and preclinical models. Last, potential challenges and perspectives to further develop photoactivatable protherapeutic nanoagents in cancer nanomedicine are discussed.
-</dc:description>
-      <dc:creator>
-Yan Zhang, 
-Cheng Xu, 
-Xiangliang Yang, 
-Kanyi Pu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002661?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/91ee80c3-37bb-450d-963f-69eb20421760/adma202002661-gra-0001-m.png"
-     alt="Photoactivatable Protherapeutic Nanomedicine for Cancer"/&gt;
-&lt;p&gt;The recent progress of photoactivatable protherapeutic nanoagents in cancer therapy is reviewed. Protherapeutic nanoagents are defined to have the ability to respond to light, reactive oxygen species, or heat modulated by nanotransducers upon light irradiation, and subsequently activate the pharmaceutical actions. Such an in situ activation mechanism holds the potential to enhance therapeutic efficacy while reducing systemic toxicity of nanomedicines.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Therapeutic systems with site&#8208;specific pharmaceutical activation hold great promise to enhance therapeutic efficacy while reducing systemic toxicity in cancer therapy. With operational flexibility, noninvasiveness, and high spatiotemporal resolution, photoactivatable nanomedicines have drawn growing attention. Distinct from traditional controlled release systems relying on the difference of biomarker concentrations between disease and healthy tissues, photoactivatable nanomedicines capitalize on the interaction between nanotransducers and light to either trigger photochemical reactions or generate reactive oxygen species (ROS) or heat effect to remotely induce pharmaceutical actions in living subjects. Herein, the recent advances in the development of photoactivatable protherapeutic nanoagents for oncology are summarized. The design strategies and therapeutic applications of these nanoagents are described. Representative examples of each type are discussed in terms of structure, photoactivation mechanism, and preclinical models. Last, potential challenges and perspectives to further develop photoactivatable protherapeutic nanoagents in cancer nanomedicine are discussed.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Photoactivatable Protherapeutic Nanomedicine for Cancer</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002661</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-07-15T06:25:25-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002661</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002661?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070210?af=R">
       <title>Masthead: (Adv. Mater. 28/2020)</title>
