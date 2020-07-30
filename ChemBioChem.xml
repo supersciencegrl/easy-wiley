@@ -9,6 +9,9 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000341?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000375?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000295?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000479?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000371?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000376?af=R" />
@@ -90,7 +93,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000287?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000433?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000297?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000295?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000319?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000233?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000336?af=R" />
@@ -107,7 +109,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000343?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000203?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000330?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000375?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000268?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000329?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000303?af=R" />
@@ -123,11 +124,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000142?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000272?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000172?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000131?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000158?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000174?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000362?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000341?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000185?af=R" />
          </rdf:Seq>
       </items>
@@ -2528,27 +2525,6 @@ Ellen Sletten
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000295?af=R">
-      <title>The Ubiquitin Enigma: Progress in the Detection and Chemical Synthesis of Branched Ubiquitin Chains</title>
-      <dc:description>Ubiquitin chains with distinct topologies play essential roles in eukaryotic cells. Recently, it was discovered that multiple ubiquitin units can be ligated to more than one lysine residue in the same ubiquitin to form diverse branched ubiquitin chains. Although there is increasing evidence implicating these branched chains in a plethora of biological functions, few mechanistic details have been elucidated. This concept article introduces the function, detection and chemical synthesis of branched ubiquitin chains; and offers some future perspective for this exciting new field.</dc:description>
-      <dc:creator>
-Yiming Li, 
-xiao hua, 
-guochao chu
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000295?af=R</link>
-      <content:encoded>&lt;p&gt;Ubiquitin chains with distinct topologies play essential roles in eukaryotic cells. Recently, it was discovered that multiple ubiquitin units can be ligated to more than one lysine residue in the same ubiquitin to form diverse branched ubiquitin chains. Although there is increasing evidence implicating these branched chains in a plethora of biological functions, few mechanistic details have been elucidated. This concept article introduces the function, detection and chemical synthesis of branched ubiquitin chains; and offers some future perspective for this exciting new field.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>The Ubiquitin Enigma: Progress in the Detection and Chemical Synthesis of Branched Ubiquitin Chains</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000295</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-04T02:33:58-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000295</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000295?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Concept</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000319?af=R">
       <title>Nonhydrolyzable Heptose Bis&#8208; and Monophosphate Analogues Modulate Pro&#8208;inflammatory TIFA&#8208;NF&#8208;&#954;B Signaling</title>
       <dc:description>
@@ -3155,29 +3131,6 @@ Esteban Mart&#237;nez-Garc&#237;a
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000375?af=R">
-      <title>Structure&#8208;based design of fluorogenic substrates selective for human proteasome subunits</title>
-      <dc:description>Proteasomes are established therapeutic targets for hematological cancers and promising targets for autoimmune diseases. In the past we designed and synthesized mechanism&#8208;based proteasome inhibitors selective for individual catalytic activities of human constitutive proteasomes and immunoproteasomes: &#946;1c, &#946;1i, &#946;2c, &#946;2i, &#946;5c and &#946;5i. We show here that by taking the oligopeptide recognition element and substituting the electrophile for a fluorogenic leaving group fluorogenic substrates are obtained that report on the proteasome catalytic activity also targeted by the parent inhibitor. Though not generally applicable (&#946;5c and &#946;2i substrates showing low activity), effective fluorogenic substrates reporting on the individual activity of &#946;1c, &#946;1i, &#946;2c and &#946;5i subunits in Raji (human B cell) lysates and purified 20S proteasome were identified in this manner. Our work thus adds to the expanding proteasome research toolbox through the identification of new and/or more effective subunit&#8208;selective fluorogenic substrates.</dc:description>
-      <dc:creator>
-Elmer Maurits, 
-Christian  G. Degeling, 
-Alexei  F. Kisselev, 
-Bogdan Florea, 
-Herman  S. Overkleeft
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000375?af=R</link>
-      <content:encoded>&lt;p&gt;Proteasomes are established therapeutic targets for hematological cancers and promising targets for autoimmune diseases. In the past we designed and synthesized mechanism&#8208;based proteasome inhibitors selective for individual catalytic activities of human constitutive proteasomes and immunoproteasomes: &#946;1c, &#946;1i, &#946;2c, &#946;2i, &#946;5c and &#946;5i. We show here that by taking the oligopeptide recognition element and substituting the electrophile for a fluorogenic leaving group fluorogenic substrates are obtained that report on the proteasome catalytic activity also targeted by the parent inhibitor. Though not generally applicable (&#946;5c and &#946;2i substrates showing low activity), effective fluorogenic substrates reporting on the individual activity of &#946;1c, &#946;1i, &#946;2c and &#946;5i subunits in Raji (human B cell) lysates and purified 20S proteasome were identified in this manner. Our work thus adds to the expanding proteasome research toolbox through the identification of new and/or more effective subunit&#8208;selective fluorogenic substrates.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Structure&#8208;based design of fluorogenic substrates selective for human proteasome subunits</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000375</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-29T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000375</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000375?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000268?af=R">
       <title>Efficient Chemoenzymatic Synthesis of N&#8208;Glycans with a&#160;&#946;1,4&#8208;Galactosylated Bisecting&#8208;GlcNAc Motif</title>
       <dc:description>In human serum immunoglobulin G (IgG) a rare modification of biantennary complex N&#8208;glycans leads to a&#160; b 1,4&#8208;galactosylated bisecting&#8208;GlcNAc branch. We found that the bisecting&#8208;GlcNAc on a biantennary core&#8208;fucosylated N&#8208;glycan was enzymatically galactosylated under stringent reaction conditions. Further optimizations led to an efficient enzymatic approach to this particular modification for biantennary substrates. Notably, tri&#8208; and tetraantennary antennary complex N&#8208;glycans were not converted by bovine galactosyltransferase. An N&#8208;glycan with a galactosylated bisecting GlcNAc was linked to a lanthanide binding tag. The pseudo contact shifts (PCS) obtained from the corresponding Dy&#8208;complex were used to calculate the conformational preferences of the rare N&#8208;glycan. Besides two extended conformations only a single folded conformation was found.</dc:description>
@@ -3773,135 +3726,6 @@ Ulf Diederichsen
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000131?af=R">
-      <title>Histone Deacetylase 2 (HDAC2) Inhibitors Containing Boron</title>
-      <dc:description>
-Breaking the silence: We report the first boron&#8208;based histone deacetylase inhibitors of HDAC2, which is known to silence tumour&#8208;suppressor genes. With IC50 values in the nanomolar range, our compounds showcase boron's untapped potential in the design of new classes of epigenetic enzyme inhibitors.
-
-
-
-
-
-
-
-Abstract
-Histone deacetylase enzymes (HDACs) are responsible for the global silencing of tumour&#8208;suppressor genes. Treatment with a histone deacetylase inhibitor (HDACi) can reverse this process and restore normal cell function. Herein, we report a small series of boron&#8208;based (boronic acid, boronate ester and closo&#8208;1,2&#8208;carborane) HDAC2 inhibitors with IC50 values in the nanomolar range. The boronate ester 4&#8201;b was the most potent compound assessed in this study (IC50=40.6&#177;1.5&#8197;nM), followed closely by the 1,2&#8208;closo&#8208;carborane (IC50=42.9&#177;1.5&#8197;nM). Compound 4&#8201;b exceeds the potency of the related gold&#8208;standard HDAC pan&#8208;inhibitor vorinostat (1) toward this particular HDAC isoform.
-</dc:description>
-      <dc:creator>
-Poya Kavianpour, 
-Madeleine C. M. Gemmell, 
-Jan U. Kahlert, 
-Louis M. Rendina
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000131?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4a0888fd-fa84-4c56-8764-4d032825bd4a/cbic202000131-toc-0001-m.png"
-     alt="Histone Deacetylase 2 (HDAC2) Inhibitors Containing Boron"/&gt;
-&lt;p&gt;&lt;b&gt;Breaking the silence &lt;/b&gt;: We report the first boron&#8208;based histone deacetylase inhibitors of HDAC2, which is known to silence tumour&#8208;suppressor genes. With IC&lt;sub&gt;50&lt;/sub&gt; values in the nanomolar range, our compounds showcase boron's untapped potential in the design of new classes of epigenetic enzyme inhibitors.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Histone deacetylase enzymes (HDACs) are responsible for the global silencing of tumour&#8208;suppressor genes. Treatment with a histone deacetylase inhibitor (HDACi) can reverse this process and restore normal cell function. Herein, we report a small series of boron&#8208;based (boronic acid, boronate ester and &lt;i&gt;closo&#8208; &lt;/i&gt;1,2&#8208;carborane) HDAC2 inhibitors with IC&lt;sub&gt;50&lt;/sub&gt; values in the nanomolar range. The boronate ester &lt;b&gt;4&#8201;b &lt;/b&gt; was the most potent compound assessed in this study (IC&lt;sub&gt;50&lt;/sub&gt;=40.6&#177;1.5&#8197;nM), followed closely by the 1,2&#8208;&lt;i&gt;closo&lt;/i&gt;&#8208;carborane (IC&lt;sub&gt;50&lt;/sub&gt;=42.9&#177;1.5&#8197;nM). Compound &lt;b&gt;4&#8201;b &lt;/b&gt; exceeds the potency of the related gold&#8208;standard HDAC pan&#8208;inhibitor vorinostat (&lt;b&gt;1 &lt;/b&gt;) toward this particular HDAC isoform.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Histone Deacetylase 2 (HDAC2) Inhibitors Containing Boron</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000131</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-16T06:54:51-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000131</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000131?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000158?af=R">
-      <title>Helices on Interdomain Interface Couple Catalysis in the ATPPase Domain with Allostery in Plasmodium falciparum GMP Synthetase</title>
-      <dc:description>
-It takes two to tango: In GMP synthetases, bidirectional domain crosstalk results in allosteric activation of GATase domain and synchronization of active sites. Based on analysis of crystal structures, site&#8208;directed mutagenesis and enzyme assays, we have mapped the residues that are essential for various catalytic steps in the ATPPase domain and deciphered the molecular basis of domain crosstalk.
-
-
-
-
-
-
-
-Abstract
-GMP synthetase catalyses the conversion of XMP to GMP through a series of reactions that include hydrolysis of Gln to generate ammonia in the glutamine amidotransferase (GATase) domain, activation of XMP to adenyl&#8208;XMP intermediate in the ATP pyrophosphatase (ATPPase) domain and reaction of ammonia with the intermediate to generate GMP. The functioning of GMP synthetases entails bidirectional domain crosstalk, which leads to allosteric activation of the GATase domain, synchronization of catalytic events and tunnelling of ammonia. Herein, we have taken recourse to the analysis of structures of GMP synthetases, site&#8208;directed mutagenesis and steady&#8208;state and transient kinetics on the Plasmodium falciparum enzyme to decipher the molecular basis of catalysis in the ATPPase domain and domain crosstalk. Our results suggest an arrangement at the interdomain interface, of helices with residues that play roles in ATPPase catalysis as well as domain crosstalk enabling the coupling of ATPPase catalysis with GATase activation. Overall, the study enhances our understanding of GMP synthetases, which are drug targets in many infectious pathogens.
-</dc:description>
-      <dc:creator>
-Santosh Shivakumaraswamy, 
-Nivedita Pandey, 
-Lionel Ballut, 
-S&#233;bastien Violot, 
-Nushin Aghajari, 
-Hemalatha Balaram
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000158?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/57792a00-6a47-4c2d-9684-445d095d8aac/cbic202000158-toc-0001-m.png"
-     alt="Helices on Interdomain Interface Couple Catalysis in the ATPPase Domain with Allostery in Plasmodium falciparum GMP Synthetase"/&gt;
-&lt;p&gt;&lt;b&gt;It takes two to tango &lt;/b&gt;: In GMP synthetases, bidirectional domain crosstalk results in allosteric activation of GATase domain and synchronization of active sites. Based on analysis of crystal structures, site&#8208;directed mutagenesis and enzyme assays, we have mapped the residues that are essential for various catalytic steps in the ATPPase domain and deciphered the molecular basis of domain crosstalk.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;GMP synthetase catalyses the conversion of XMP to GMP through a series of reactions that include hydrolysis of Gln to generate ammonia in the glutamine amidotransferase (GATase) domain, activation of XMP to adenyl&#8208;XMP intermediate in the ATP pyrophosphatase (ATPPase) domain and reaction of ammonia with the intermediate to generate GMP. The functioning of GMP synthetases entails bidirectional domain crosstalk, which leads to allosteric activation of the GATase domain, synchronization of catalytic events and tunnelling of ammonia. Herein, we have taken recourse to the analysis of structures of GMP synthetases, site&#8208;directed mutagenesis and steady&#8208;state and transient kinetics on the &lt;i&gt;Plasmodium falciparum &lt;/i&gt; enzyme to decipher the molecular basis of catalysis in the ATPPase domain and domain crosstalk. Our results suggest an arrangement at the interdomain interface, of helices with residues that play roles in ATPPase catalysis as well as domain crosstalk enabling the coupling of ATPPase catalysis with GATase activation. Overall, the study enhances our understanding of GMP synthetases, which are drug targets in many infectious pathogens.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Helices on Interdomain Interface Couple Catalysis in the ATPPase Domain with Allostery in Plasmodium falciparum GMP Synthetase</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000158</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-16T06:46:38-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000158</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000158?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000174?af=R">
-      <title>Coumarin&#8208;Tagged Dinuclear Trithiolato&#8208;Bridged Ruthenium(II)&#8901;Arene Complexes: Photophysical Properties and Antiparasitic Activity</title>
-      <dc:description>
-The (para)site for treatment: Thirteen coumarin&#8208;diruthenium(II)&#8901;arene conjugates were evaluated against a transgenic T. gondii strain grown in human foreskin fibroblasts (HFF). The IC50 values ranged from 105 to 735&#8197;nM, with nine compounds displaying a lower IC50 than the standard drug pyrimethamine. TEM of T. gondii&#8208;infected HFF showed that treatment predominantly affected the parasites&#8217; mitochondrion.
-
-
-
-
-
-
-
-Abstract
-The synthesis, characterization, photophysical and biological properties of 13 new conjugate coumarin&#8208;diruthenium(II)&#8901;arene complexes against Toxoplasma gondii are presented. For all conjugate organometallic unit/coumarins, an almost complete loss of fluorescence efficacy was observed. However, the nature of the fluorophore, the type of bonding, the presence and length of a linker between the coumarin dye and the ruthenium(II) moiety, and the number of dye units influenced their biological properties. The in&#8197;vitro activity against a transgenic T. gondii strain grown in human foreskin fibroblasts (HFF) leads to IC50 values for T. gondii &#946;&#8208;gal from 105 to 735&#8197;nM. Of note is that nine compounds displayed lower IC50 than the standard drug pyrimethamine. One compound applied at its IC50 did not affect B&#8208;cell proliferation but had an impact on T&#8208;cell proliferation in murine splenocyte cultures. Transmission electron microscopy of T. gondii &#946;&#8208;gal&#8208;infected HFF showed that treatment predominantly affected the parasites&#8217; mitochondrion.
-</dc:description>
-      <dc:creator>
-Oksana Desiatkina, 
-Emilia P&#259;unescu, 
-Martin M&#246;sching, 
-Nicoleta Anghel, 
-Ghalia Boubaker, 
-Yosra Amdouni, 
-Andrew Hemphill, 
-Julien Furrer
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000174?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1ecc07e3-5302-4366-a2a6-e7c8e41ab7ac/cbic202000174-toc-0001-m.png"
-     alt="Coumarin&#8208;Tagged Dinuclear Trithiolato&#8208;Bridged Ruthenium(II)&#8901;Arene Complexes: Photophysical Properties and Antiparasitic Activity"/&gt;
-&lt;p&gt;&lt;b&gt;The (para)site for treatment &lt;/b&gt;: Thirteen coumarin&#8208;diruthenium(II)&#8901;arene conjugates were evaluated against a transgenic &lt;i&gt;T. gondii &lt;/i&gt; strain grown in human foreskin fibroblasts (HFF). The IC&lt;sub&gt;50&lt;/sub&gt; values ranged from 105 to 735&#8197;nM, with nine compounds displaying a lower IC&lt;sub&gt;50&lt;/sub&gt; than the standard drug pyrimethamine. TEM of &lt;i&gt;T. gondii&lt;/i&gt;&#8208;infected HFF showed that treatment predominantly affected the parasites&#8217; mitochondrion.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The synthesis, characterization, photophysical and biological properties of 13 new conjugate coumarin&#8208;diruthenium(II)&#8901;arene complexes against &lt;i&gt;Toxoplasma gondii &lt;/i&gt; are presented. For all conjugate organometallic unit/coumarins, an almost complete loss of fluorescence efficacy was observed. However, the nature of the fluorophore, the type of bonding, the presence and length of a linker between the coumarin dye and the ruthenium(II) moiety, and the number of dye units influenced their biological properties. The &lt;i&gt;in&#8197;vitro &lt;/i&gt; activity against a transgenic &lt;i&gt;T. gondii &lt;/i&gt; strain grown in human foreskin fibroblasts (HFF) leads to IC&lt;sub&gt;50&lt;/sub&gt; values for &lt;i&gt;T. gondii &lt;/i&gt; &#946;&#8208;gal from 105 to 735&#8197;nM. Of note is that nine compounds displayed lower IC&lt;sub&gt;50&lt;/sub&gt; than the standard drug pyrimethamine. One compound applied at its IC&lt;sub&gt;50&lt;/sub&gt; did not affect B&#8208;cell proliferation but had an impact on T&#8208;cell proliferation in murine splenocyte cultures. Transmission electron microscopy of &lt;i&gt;T. gondii &lt;/i&gt; &#946;&#8208;gal&#8208;infected HFF showed that treatment predominantly affected the parasites&#8217; mitochondrion.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Coumarin&#8208;Tagged Dinuclear Trithiolato&#8208;Bridged Ruthenium(II)&#8901;Arene Complexes: Photophysical Properties and Antiparasitic Activity</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000174</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-16T06:46:04-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000174</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000174?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000362?af=R">
       <title>Design and Evaluation of Artificial Hybrid Photoredox Biocatalysts</title>
       <dc:description>A pair of 9&#8208;mesityl&#8208;10&#8208;phenyl acridinium (Mes&#8208;Acr + ) photoredox catalysts were synthesized with an iodoacetamide handle for cysteine bioconjugation. Covalently tethering of the synthetic Mes&#8208;Acr + cofactors with a small panel of thermostable protein scaffolds resulted in twelve newly reported artificial enzymes. The unique chemical and structural environment of the protein hosts had a measurable effect on the photophysical properties and photocatalytic activity of the cofactors. The constructed Mes&#8208;Acr + hybrid enzymes were found to be active photoinduced electron transfer catalysts, controllably oxidizing a variety of aryl sulphides when irradiated with visible light and possessed activities that correlated with the photophysical characterization data. Catalytic performance was found to be dependent on multiple factors including the Mes&#8208;Acr + cofactor, the protein scaffold, the location of cofactor immobilization, and the substrate. This work provides a framework toward adapting synthetic photoredox catalysts into artificial cofactors and includes important considerations for future bioengineering efforts.</dc:description>
@@ -3923,37 +3747,6 @@ Eric Brustad
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000362</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000362?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000341?af=R">
-      <title>Protein NMR spectroscopy at 150 kHz magic&#8208;angle spinning continues to improve resolution and mass sensitivity</title>
-      <dc:description>Spectral resolution is key to unleash the structural and dynamic information contained in NMR spectra. Fast magic&#8208;angle spinning (MAS) has recently revolutionized the spectroscopy of biomolecular solids. We here report a further remarkable resolution improvement in the spectra of four fully protonated proteins and a small drug molecule, by pushing the MAS rotation frequency even higher, to 150 kHz, than the more routinely used 100 kHz. We observe a reduction of the average homogeneous linewidth by a factor 1.5 and a decrease in the observed linewidth by a factor 1.25. We conclude that even faster MAS is highly attractive and increases mass sensitivity at a moderate price in overall sensitivity.</dc:description>
-      <dc:creator>
-Maarten Schleedorn, 
-Alexander Mal&#228;r, 
-Anahit Torosyan, 
-Susanne Penzel, 
-Daniel Klose, 
-Andres Oss, 
-Mai-Liis Org, 
-Shishan Wang, 
-Lauriane Lecoq, 
-Riccardo Cadalbert, 
-Ago Samoson, 
-Anja B&#246;ckmann, 
-Beat  H Meier
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000341?af=R</link>
-      <content:encoded>&lt;p&gt;Spectral resolution is key to unleash the structural and dynamic information contained in NMR spectra. Fast magic&#8208;angle spinning (MAS) has recently revolutionized the spectroscopy of biomolecular solids. We here report a further remarkable resolution improvement in the spectra of four fully protonated proteins and a small drug molecule, by pushing the MAS rotation frequency even higher, to 150 kHz, than the more routinely used 100 kHz. We observe a reduction of the average homogeneous linewidth by a factor 1.5 and a decrease in the observed linewidth by a factor 1.25. We conclude that even faster MAS is highly attractive and increases mass sensitivity at a moderate price in overall sensitivity.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Protein NMR spectroscopy at 150 kHz magic&#8208;angle spinning continues to improve resolution and mass sensitivity</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000341</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-06-05T12:00:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000341</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000341?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
