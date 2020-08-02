@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002963?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003430?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002335?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003461?af=R" />
@@ -168,7 +169,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002810?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002813?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003253?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002583?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -177,26 +177,30 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/chem.202003430?af=R">
-      <title>Electrochemical Synthesis of Carbazoles by Dehydrogenative Coupling Reaction</title>
-      <dc:description>A constant current protocol, employing undivided cells, a remarkably low supporting electrolyte concentration, inexpensive electrode materials, and a straightforward precursor synthesis enabling a novel access to N&#8208;protected carbazoles by anodic N,C bond formation using directly generated amidyl radicals is reported. Scalability of the reaction is demonstrated and an easy deblocking of the benzoyl protecting group is presented.</dc:description>
+   <item rdf:about="/doi/abs/10.1002/chem.202002963?af=R">
+      <title>Bimodal Therapeutic Agents against Glioblastoma, one of the most Lethal Cancer</title>
+      <dc:description>About 95% of people diagnosed with glioblastoma die within five years. Glioblastoma is the most aggressive central nervous system tumour. It is necessary to make progress in the glioblastoma treatment so that advanced chemotherapy drugs or radiation therapy or, ideally, two&#8208;in&#8208;one hybrid systems should be implemented. Tyrosine kinase receptors&#8208;inhibitors and boron neutron capture therapy (BNCT), together, could provide a therapeutic strategy. In this work, sunitinib decorated&#8208;carborane hybrids were prepared and biologically evaluated identifying excellent antitumoral&#8208; and BNCT&#8208;agents. One of the selected hybrids was studied against glioma&#8208;cells finding that it was 4&#8208;times more cytotoxic than sunitinib and 1.7&#8208;times more effective than 10B&#8208; boronophenylalanine fructose complex when the cells were irradiated with neutrons.</dc:description>
       <dc:creator>
-Siegfried  R Waldvogel, 
-Anton Kehl, 
-Niclas Schupp, 
-Valentina Breising, 
-Dieter Schollmeyer
+Hugo  Eduardo Cerecetto, 
+Marcos Couto, 
+Catalina Alam&#243;n, 
+Susana Nievas, 
+Mar&#237;a  Alejandra Dagrosa, 
+Francesc Teixidor, 
+Pablo Cabral, 
+Clara Vi&#241;as, 
+Marina Perona
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003430?af=R</link>
-      <content:encoded>&lt;p&gt;A constant current protocol, employing undivided cells, a remarkably low supporting electrolyte concentration, inexpensive electrode materials, and a straightforward precursor synthesis enabling a novel access to N&#8208;protected carbazoles by anodic N,C bond formation using directly generated amidyl radicals is reported. Scalability of the reaction is demonstrated and an easy deblocking of the benzoyl protecting group is presented.&lt;/p&gt;</content:encoded>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002963?af=R</link>
+      <content:encoded>&lt;p&gt;About 95% of people diagnosed with glioblastoma die within five years. Glioblastoma is the most aggressive central nervous system tumour. It is necessary to make progress in the glioblastoma treatment so that advanced chemotherapy drugs or radiation therapy or, ideally, two&#8208;in&#8208;one hybrid systems should be implemented. Tyrosine kinase receptors&#8208;inhibitors and boron neutron capture therapy (BNCT), together, could provide a therapeutic strategy. In this work, sunitinib decorated&#8208;carborane hybrids were prepared and biologically evaluated identifying excellent antitumoral&#8208; and BNCT&#8208;agents. One of the selected hybrids was studied against glioma&#8208;cells finding that it was 4&#8208;times more cytotoxic than sunitinib and 1.7&#8208;times more effective than 10B&#8208; boronophenylalanine fructose complex when the cells were irradiated with neutrons.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Electrochemical Synthesis of Carbazoles by Dehydrogenative Coupling Reaction</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003430</dc:identifier>
+      <dc:title>Bimodal Therapeutic Agents against Glioblastoma, one of the most Lethal Cancer</dc:title>
+      <dc:identifier>doi:10.1002/chem.202002963</dc:identifier>
       <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-08-01T12:06:05-07:00</dc:date>
+      <dc:date>2020-08-01T07:34:29-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003430</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003430?af=R</prism:url>
+      <prism:doi>10.1002/chem.202002963</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002963?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2573,29 +2577,6 @@ Byung Chul Kim
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003253</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003253?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202002583?af=R">
-      <title>Structural design and synthesis of SnO2@C@Co&#8208;NC composite as high&#8208;performance anode material for lithium&#8208;ion batteries</title>
-      <dc:description>To overcome the drawbacks of the structural instability and poor conductivity of SnO2&#8208;based anode materials, we designed and synthesized a hollow core&#8208;shell structured SnO2@C@Co&#8208;NC composite by employing the heteroatoms&#8208;doping and multi&#8208;confining strategy. This composite material displayed a much&#8208;reduced resistance for charge transfer and excellent cycling performance compared to the bare SnO2 NPs and SnO2@C composites. The doped heteroatoms and heterostructure boost the charge transfer, and the porous structure shortens the Li&#8208;ions diffusion pathway. Also, the volume expansion of SnO2 NPs was accommodated by the hollow space and restricted by the multi&#8208;shell of heteroatoms&#8208;doped carbon framework. As a result, this structured anode material delivered a high initial capacity of 1559.1 mA h g&#8208;1 at 50 mA g&#8208;1, and an initial charge capacity of 627.2 mA h g&#8208;1 at 500 mA g&#8208;1. Moreover, the discharge capacity could be maintained at 410.8 mA h g&#8208;1 after 500 cycles with an attenuation rate of only 0.069% per cycle. This multi&#8208;confined SnO2@C@Co&#8208;NC structure with superior energy density and durable lifespan is highly promising for the next&#8208;generation LIBs.</dc:description>
-      <dc:creator>
-Qiongguang Li, 
-Yanhong Wang, 
-Qiangqiang Tan, 
-Ziyi Zhong, 
-Fabing Su
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002583?af=R</link>
-      <content:encoded>&lt;p&gt;To overcome the drawbacks of the structural instability and poor conductivity of SnO2&#8208;based anode materials, we designed and synthesized a hollow core&#8208;shell structured SnO2@C@Co&#8208;NC composite by employing the heteroatoms&#8208;doping and multi&#8208;confining strategy. This composite material displayed a much&#8208;reduced resistance for charge transfer and excellent cycling performance compared to the bare SnO2 NPs and SnO2@C composites. The doped heteroatoms and heterostructure boost the charge transfer, and the porous structure shortens the Li&#8208;ions diffusion pathway. Also, the volume expansion of SnO2 NPs was accommodated by the hollow space and restricted by the multi&#8208;shell of heteroatoms&#8208;doped carbon framework. As a result, this structured anode material delivered a high initial capacity of 1559.1 mA h g&#8208;1 at 50 mA g&#8208;1, and an initial charge capacity of 627.2 mA h g&#8208;1 at 500 mA g&#8208;1. Moreover, the discharge capacity could be maintained at 410.8 mA h g&#8208;1 after 500 cycles with an attenuation rate of only 0.069% per cycle. This multi&#8208;confined SnO2@C@Co&#8208;NC structure with superior energy density and durable lifespan is highly promising for the next&#8208;generation LIBs.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Structural design and synthesis of SnO2@C@Co&#8208;NC composite as high&#8208;performance anode material for lithium&#8208;ion batteries</dc:title>
-      <dc:identifier>doi:10.1002/chem.202002583</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-07-23T02:51:59-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202002583</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002583?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>

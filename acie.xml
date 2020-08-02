@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008553?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008697?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004551?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202001928?af=R" />
@@ -187,7 +188,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009336?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009776?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008233?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009113?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002815?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006071?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002375?af=R" />
@@ -221,6 +221,30 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008553?af=R">
+      <title>Protein&#8208;controlled Actuation of Dynamic Nucleic Acid Networks Using Synthetic DNA Translators</title>
+      <dc:description>Integrating dynamic DNA nanotechnology with protein&#8208;controlled actuation will expand our ability to process molecular information. We have developed a strategy to actuate strand displacement reactions using DNA&#8208;binding proteins by engineering synthetic DNA translators that convert specific protein&#8208;binding events into trigger inputs through a programmed conformational change. We have constructed synthetic DNA networks responsive to two different DNA&#8208;binding proteins, TATA&#8208;binding protein and Myc&#8208;Max, and demonstrated multi&#8208;input activation of strand displacement reactions. We finally achieved protein&#8208;controlled regulation of a synthetic RNA and of an enzyme through artificial DNA&#8208;based communication, showing the potential of our molecular system in performing further programmable tasks.</dc:description>
+      <dc:creator>
+Alessandro Bertucci, 
+Alessandro Porchetta, 
+Erica Del Grosso, 
+Tania Patino, 
+Andrea Idili, 
+Francesco Ricci
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008553?af=R</link>
+      <content:encoded>&lt;p&gt;Integrating dynamic DNA nanotechnology with protein&#8208;controlled actuation will expand our ability to process molecular information. We have developed a strategy to actuate strand displacement reactions using DNA&#8208;binding proteins by engineering synthetic DNA translators that convert specific protein&#8208;binding events into trigger inputs through a programmed conformational change. We have constructed synthetic DNA networks responsive to two different DNA&#8208;binding proteins, TATA&#8208;binding protein and Myc&#8208;Max, and demonstrated multi&#8208;input activation of strand displacement reactions. We finally achieved protein&#8208;controlled regulation of a synthetic RNA and of an enzyme through artificial DNA&#8208;based communication, showing the potential of our molecular system in performing further programmable tasks.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Protein&#8208;controlled Actuation of Dynamic Nucleic Acid Networks Using Synthetic DNA Translators</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008553</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-01T01:35:09-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008553</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008553?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202008697?af=R">
       <title>Direct Nanomachining on Semiconductor Wafer By Scanning Electrochemical Microscopy</title>
       <dc:description>Scanning electrochemical microscopy (SECM) is one of the most important instrumental methods of modern electrochemistry, due to its high spatial and temporal resolution. Here, we introduce SECM into nanomachining by feeding the electrochemical modulations of the tip electrode back to the positioning system, and we demonstrate that SECM is qualified to be a versatile nanomachining technique on semiconductor wafers using electrochemically&#8208;induced chemical etching. The removal profile is correlated to the applied tip current when the tip is held stationary and when it is moving slowly (&lt; 20 &#181;m/s), and it follows Faraday&#8217;s law. Both regular and irregular nanopatterns can be translated into a spatially distributed current by the home&#8208;made digitally controlled SECM instrument. Thus, the desired nanopatterns can be &#8220;sculpted&#8221; directly on a semiconductor wafer by SECM direct&#8208;writing mode. The machining accuracy can be controlled to the sub&#8208;micrometer and even nanometer scales. This advance is expected to play an important role in electrochemical nanomachining for 3D micro/nano&#8208;structures in the semiconductor industry.</dc:description>
@@ -1849,31 +1873,6 @@ Toru Wakihara
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008233?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009113?af=R">
-      <title>Removal of Organic Micropollutants from Water by Macrocycle&#8208;Containing Covalent Polymer Networks</title>
-      <dc:description>Access to clean drinking water is a recognized societal need that touches on the health and livelihood of millions of people worldwide. This is providing an incentive to develop new water&#8208;treatment technologies. Traditional technologies, while widespread, are usually inefficient at removing organic pollutants from sewage or so&#8208;called grey water. Macrocycle&#8208;containing covalent polymer networks have begun to attract attention in the context of water treatment owing to the inherent stability provided by the polymer backbones and their ability to capture micropollutant guests as the result of tunable macrocycle&#8208;based host&#8722;guest interactions. In this minireview, we summarize recent advances (from 2016 to mid&#8208;2020) involving the removal of organic micropollutants from water using macrocycle&#8208;containing covalent polymer networks. An overview of future challenges within this subfield is also provided.</dc:description>
-      <dc:creator>
-Jonathan  L. Sessler, 
-Xiaofan Ji, 
-Hu Wang, 
-Hongyu Wang, 
-Tian Zhao, 
-Zachariah  A. Page, 
-Niveen  M. Khashab
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009113?af=R</link>
-      <content:encoded>&lt;p&gt;Access to clean drinking water is a recognized societal need that touches on the health and livelihood of millions of people worldwide. This is providing an incentive to develop new water&#8208;treatment technologies. Traditional technologies, while widespread, are usually inefficient at removing organic pollutants from sewage or so&#8208;called grey water. Macrocycle&#8208;containing covalent polymer networks have begun to attract attention in the context of water treatment owing to the inherent stability provided by the polymer backbones and their ability to capture micropollutant guests as the result of tunable macrocycle&#8208;based host&#8722;guest interactions. In this minireview, we summarize recent advances (from 2016 to mid&#8208;2020) involving the removal of organic micropollutants from water using macrocycle&#8208;containing covalent polymer networks. An overview of future challenges within this subfield is also provided.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Removal of Organic Micropollutants from Water by Macrocycle&#8208;Containing Covalent Polymer Networks</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009113</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-27T11:27:17-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009113</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009113?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202009673?af=R">
       <title>Jin Xie</title>
