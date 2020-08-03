@@ -9,6 +9,13 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007715?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002720?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009217?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009960?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008018?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008144?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006531?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008553?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008697?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004551?af=R" />
@@ -105,7 +112,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008442?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007209?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009380?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009335?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008952?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009138?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006212?af=R" />
@@ -118,6 +124,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005747?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005883?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006939?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009335?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004441?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004908?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007639?af=R" />
@@ -180,14 +187,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008523?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010134?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008874?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008217?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008557?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006315?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006877?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007731?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009336?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009776?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008233?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002815?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006071?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002375?af=R" />
@@ -221,6 +221,198 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202007715?af=R">
+      <title>Enabling NMR studies of high molecular weight systems without the need for deuteration: The XL&#8208;ALSOFAST experiment with delayed decoupling</title>
+      <dc:description>Current biological research increasingly focusses on large human proteins and their complexes. Such proteins are difficult to study by NMR spectroscopy because they often can only be produced in higher eukaryotic expression systems, where deuteration is hardly feasible.
+
+Here, we present the XL&#8208;ALSOFAST&#8208;[  13  C,  1  H]&#8208;HMQC experiment with much improved sensitivity for fully protonated high&#8208;molecular weight proteins. For the tested systems ranging from 100 to 240&#160;kDa in size, 3&#8208;fold higher sensitivity was obtained on average for fast relaxing signals compared to current state&#8208;of&#8208;the&#8208;art experiments. In the XL&#8208;ALSOFAST approach, non&#8208;observed magnetisation is optimally exploited and transverse relaxation is minimized by the newly introduced concept of delayed decoupling. The combination of high sensitivity and superior artefact suppression makes it ideal for studying inherently unstable membrane proteins or for analysing therapeutic antibodies at natural  13  C abundance. The XL&#8208;ALSOFAST and delayed decoupling will therefore expand the range of biomolecular systems accessible to NMR spectroscopy.</dc:description>
+      <dc:creator>
+Philip R&#246;&#223;ler, 
+Daniel Mathieu, 
+Alvar  D. Gossert
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007715?af=R</link>
+      <content:encoded>&lt;p&gt;Current biological research increasingly focusses on large human proteins and their complexes. Such proteins are difficult to study by NMR spectroscopy because they often can only be produced in higher eukaryotic expression systems, where deuteration is hardly feasible.
+
+Here, we present the XL&#8208;ALSOFAST&#8208;[  13  C,  1  H]&#8208;HMQC experiment with much improved sensitivity for fully protonated high&#8208;molecular weight proteins. For the tested systems ranging from 100 to 240&#160;kDa in size, 3&#8208;fold higher sensitivity was obtained on average for fast relaxing signals compared to current state&#8208;of&#8208;the&#8208;art experiments. In the XL&#8208;ALSOFAST approach, non&#8208;observed magnetisation is optimally exploited and transverse relaxation is minimized by the newly introduced concept of delayed decoupling. The combination of high sensitivity and superior artefact suppression makes it ideal for studying inherently unstable membrane proteins or for analysing therapeutic antibodies at natural  13  C abundance. The XL&#8208;ALSOFAST and delayed decoupling will therefore expand the range of biomolecular systems accessible to NMR spectroscopy.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Enabling NMR studies of high molecular weight systems without the need for deuteration: The XL&#8208;ALSOFAST experiment with delayed decoupling</dc:title>
+      <dc:identifier>doi:10.1002/anie.202007715</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-03T12:10:12-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202007715</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007715?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202002720?af=R">
+      <title>SERS&#8208;Active MIL&#8208;100(Fe) Sensory Array for Ultrasensitive and Multiplex Detection of VOCs</title>
+      <dc:description>The application of metal&#8208;organic frameworks (MOFs) as SERS&#8208;active platforms in multiplex volatile organic compounds (VOCs) detection is still unexplored. Herein, we demonstrate MIL&#8208;100 (Fe) serves as an ideal SERS substrate for VOCs detection. The limit of detection (LOD) of MIL&#8208;100(Fe) for toluene sensing can reach 2.5 ppm, and can be even further decreased to 0.48 ppb level when &#8220;hot spots&#8221; in between Au nanoparticles are employed onto MIL&#8208;100 (Fe) substrate, resulting in an enhancement factor of 10  10  . Additionally, we show that MIL&#8208;100(Fe) substrate has a unique &#8220;sensor array&#8221; property allowing multiplex VOCs detection, with great modifiability and expandability by doping with foreign metal elements. Finally, the MIL&#8208;100(Fe) platform is utilized to simultaneously detect   the different gaseous indicators of lung cancer with ppm detection limit, demonstrating its high potential for early diagnosis of lung cancer  in vivo   .</dc:description>
+      <dc:creator>
+Jing-Hao Fu, 
+Zhen Zhong, 
+Dan Xie, 
+Yan-Jun Guo, 
+De-Xuan Kong, 
+Zhong-Xing Zhao, 
+Zhen-Xia Zhao, 
+Min Li
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002720?af=R</link>
+      <content:encoded>&lt;p&gt;The application of metal&#8208;organic frameworks (MOFs) as SERS&#8208;active platforms in multiplex volatile organic compounds (VOCs) detection is still unexplored. Herein, we demonstrate MIL&#8208;100 (Fe) serves as an ideal SERS substrate for VOCs detection. The limit of detection (LOD) of MIL&#8208;100(Fe) for toluene sensing can reach 2.5 ppm, and can be even further decreased to 0.48 ppb level when &#8220;hot spots&#8221; in between Au nanoparticles are employed onto MIL&#8208;100 (Fe) substrate, resulting in an enhancement factor of 10  10  . Additionally, we show that MIL&#8208;100(Fe) substrate has a unique &#8220;sensor array&#8221; property allowing multiplex VOCs detection, with great modifiability and expandability by doping with foreign metal elements. Finally, the MIL&#8208;100(Fe) platform is utilized to simultaneously detect   the different gaseous indicators of lung cancer with ppm detection limit, demonstrating its high potential for early diagnosis of lung cancer  in vivo   .&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>SERS&#8208;Active MIL&#8208;100(Fe) Sensory Array for Ultrasensitive and Multiplex Detection of VOCs</dc:title>
+      <dc:identifier>doi:10.1002/anie.202002720</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-03T12:09:22-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202002720</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202002720?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202009217?af=R">
+      <title>Fe Single Atom on MoS2 Nanosheets for N2 Electroreduction into Ammonia</title>
+      <dc:description>Ammonia (NH  3  ) plays a pivotal role in our daily life considering its wide applications in fertilizer industry. Many efforts have been devoted to achieving highly efficient artificial synthesis of ammonia. Herein, we reported a novel Fe&#8208;MoS  2  catalyst with Fe atomically dispersed on MoS  2  nanosheets by imitating the natural nitrogenase to boost N  2  electroreduction into NH  3  at room temperature. The Fe&#8208;MoS  2  nanosheets exhibited a faradic efficiency of 18.8% with a yield rate of 8.63 mg  NH3  &#160;mg  cat.  &#8208;1  h  &#8208;1  for NH  3  at &#8208;0.3 V versus reversible hydrogen electrode. The mechanism study revealed that the electroreduction of N  2  was promoted and the competing hydrogen evolution reaction was suppressed&#160;by decorating the edge sites of S in the MoS  2  with the atomically dispersed Fe, resulting in the high catalytic performance for the electroreduction of N  2  into NH  3.  This work would provide new ideas for the design of catalysts for N  2  electroreduction and strengthen our understanding about the N  2  activation on Mo&#8208;based catalysts.</dc:description>
+      <dc:creator>
+Hongyang Su, 
+Lanlan Chen, 
+Yizhen Chen, 
+Yuting Wu, 
+Xiaonan Wu, 
+Rui Si, 
+Wenhua Zhang, 
+Zhigang Geng, 
+Jie Zeng
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009217?af=R</link>
+      <content:encoded>&lt;p&gt;Ammonia (NH  3  ) plays a pivotal role in our daily life considering its wide applications in fertilizer industry. Many efforts have been devoted to achieving highly efficient artificial synthesis of ammonia. Herein, we reported a novel Fe&#8208;MoS  2  catalyst with Fe atomically dispersed on MoS  2  nanosheets by imitating the natural nitrogenase to boost N  2  electroreduction into NH  3  at room temperature. The Fe&#8208;MoS  2  nanosheets exhibited a faradic efficiency of 18.8% with a yield rate of 8.63 mg  NH3  &#160;mg  cat.  &#8208;1  h  &#8208;1  for NH  3  at &#8208;0.3 V versus reversible hydrogen electrode. The mechanism study revealed that the electroreduction of N  2  was promoted and the competing hydrogen evolution reaction was suppressed&#160;by decorating the edge sites of S in the MoS  2  with the atomically dispersed Fe, resulting in the high catalytic performance for the electroreduction of N  2  into NH  3.  This work would provide new ideas for the design of catalysts for N  2  electroreduction and strengthen our understanding about the N  2  activation on Mo&#8208;based catalysts.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Fe Single Atom on MoS2 Nanosheets for N2 Electroreduction into Ammonia</dc:title>
+      <dc:identifier>doi:10.1002/anie.202009217</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-02T10:42:43-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202009217</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009217?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202009960?af=R">
+      <title>A Self&#8208;assembled Anion&#8208;binding Cryptand for the Highly Selective Liquid&#8208;Liquid Extraction of Phosphate Anions.</title>
+      <dc:description>The ligands L1 and L2 form trinuclear self&#8208;assembled complexes with Cu2+ (i.e. [(L1)2Cu3]6+ or [(L2)2Cu3]6+) which both act as a host to a variety of anions. Inclusion of long aliphatic chains on these ligands allows the assemblies to extract anions from aqueous media into organic solvents. Phosphate can be removed from water efficiently and highly selectively even in the presence of other anions.</dc:description>
+      <dc:creator>
+Craig  Raymond Rice, 
+Rebecca Andrews, 
+Sabera Begum, 
+Christopher Clemett, 
+Robert Faulkner, 
+Michael Ginger, 
+Jane Harmer, 
+Marco Molinari, 
+Gareth Parkes, 
+Zuhlqurnain Qureshi, 
+Michael Ward, 
+Howard Williams, 
+Philippe Wilson
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009960?af=R</link>
+      <content:encoded>&lt;p&gt;The ligands L1 and L2 form trinuclear self&#8208;assembled complexes with Cu2+ (i.e. [(L1)2Cu3]6+ or [(L2)2Cu3]6+) which both act as a host to a variety of anions. Inclusion of long aliphatic chains on these ligands allows the assemblies to extract anions from aqueous media into organic solvents. Phosphate can be removed from water efficiently and highly selectively even in the presence of other anions.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Self&#8208;assembled Anion&#8208;binding Cryptand for the Highly Selective Liquid&#8208;Liquid Extraction of Phosphate Anions.</dc:title>
+      <dc:identifier>doi:10.1002/anie.202009960</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-02T07:18:19-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202009960</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009960?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008018?af=R">
+      <title>J&#8208;aggregate&#8208;based FRET monitoring of drug release from polymer nanoparticles with high drug loading</title>
+      <dc:description>Understanding drug release kinetics is critical for the development of drug&#8208;loaded nanoparticles. In this study, we developed a J&#8208;aggregate&#8208;based F&#246;rster resonance energy transfer (FRET) method to investigate the release of our novel high drug&#8208;loading (50 wt%) nanoparticles, in comparison with the low drug&#8208;loading (0.5 wt%) nanoparticles. Single&#8208;dye loaded nanoparticles form J&#8208;aggregates because of the high dye loading (50 wt%), resulting in a large red shift (~110 nm) in the fluorescence spectrum. Dual&#8208;dye loaded nanoparticles with high dye loading using FRET pairs exhibited not only FRET phenomenon but also a J&#8208;aggregate red&#8208;shift (116 nm). Using this J&#8208;aggregate&#8208;based FRET method, dye&#8208;core polymer&#8208;shell nanoparticles showed two release processes intracellularly: the dissolution of the dye aggregates into dye molecules and the release of the dye molecules from the polymer shell. Also, the high drug&#8208;loading nanoparticles (50 wt%) exhibited a slow release kinetics in serum and relatively quick release in cells, demonstrating their great potential in drug delivery.</dc:description>
+      <dc:creator>
+Yun Liu, 
+Guangze Yang, 
+Song Jin, 
+Run Zhang, 
+Peng Chen, 
+Teng Jisi, 
+Lianzhou Wang, 
+Dong Chen, 
+David Weitz, 
+Chun-Xia Zhao
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008018?af=R</link>
+      <content:encoded>&lt;p&gt;Understanding drug release kinetics is critical for the development of drug&#8208;loaded nanoparticles. In this study, we developed a J&#8208;aggregate&#8208;based F&#246;rster resonance energy transfer (FRET) method to investigate the release of our novel high drug&#8208;loading (50 wt%) nanoparticles, in comparison with the low drug&#8208;loading (0.5 wt%) nanoparticles. Single&#8208;dye loaded nanoparticles form J&#8208;aggregates because of the high dye loading (50 wt%), resulting in a large red shift (~110 nm) in the fluorescence spectrum. Dual&#8208;dye loaded nanoparticles with high dye loading using FRET pairs exhibited not only FRET phenomenon but also a J&#8208;aggregate red&#8208;shift (116 nm). Using this J&#8208;aggregate&#8208;based FRET method, dye&#8208;core polymer&#8208;shell nanoparticles showed two release processes intracellularly: the dissolution of the dye aggregates into dye molecules and the release of the dye molecules from the polymer shell. Also, the high drug&#8208;loading nanoparticles (50 wt%) exhibited a slow release kinetics in serum and relatively quick release in cells, demonstrating their great potential in drug delivery.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>J&#8208;aggregate&#8208;based FRET monitoring of drug release from polymer nanoparticles with high drug loading</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008018</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-02T07:18:16-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008018</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008018?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202008144?af=R">
+      <title>Direct observation of defect&#8208;aided structural evolution in Ni&#8208;rich layered cathode</title>
+      <dc:description>Ni&#8208;rich LiNi  1&#8208;x&#8208;y  Mn  x  Co  y  O  2  (NMC) layered compounds have become the dominated cathode for lithium ion batteries. The role of crystallographic defects on their structure evolution and consequent performance degradation during electrochemical cycling is not yet fully understood. Here, we investigated the structural evolution of Ni&#8208;rich NMC cathode in a solid&#8208;state cell via in&#8208;situ transmission electron microscopy. We identified antiphase boundary (APB) and twin boundary (TB) separating layered phases played an important role on phase change. Upon the lithium depletion, the APB extends across the layered structure, while Li/transition metal (TM) ion mixing in the layered phases is detected to induce the rock&#8208;salt phase formation along the coherent TB. According to DFT calculations, Li/TM mixing and phase transition are aided by the low diffusion barriers of TM ions at planar defects. This work reveals the dynamical scenario of secondary phase evolution, which helps to unveil the origin of performance fading in Ni&#8208;rich NMC.</dc:description>
+      <dc:creator>
+Shang Li, 
+Zhenpeng Yao, 
+jianming Zheng, 
+Maosen Fu, 
+Jiajie Cen, 
+Sooyeon Hwang, 
+Huile Jin, 
+Alexander Orlov, 
+Lin Gu, 
+Shun Wang, 
+Zhongwei Chen, 
+Dong Su
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008144?af=R</link>
+      <content:encoded>&lt;p&gt;Ni&#8208;rich LiNi  1&#8208;x&#8208;y  Mn  x  Co  y  O  2  (NMC) layered compounds have become the dominated cathode for lithium ion batteries. The role of crystallographic defects on their structure evolution and consequent performance degradation during electrochemical cycling is not yet fully understood. Here, we investigated the structural evolution of Ni&#8208;rich NMC cathode in a solid&#8208;state cell via in&#8208;situ transmission electron microscopy. We identified antiphase boundary (APB) and twin boundary (TB) separating layered phases played an important role on phase change. Upon the lithium depletion, the APB extends across the layered structure, while Li/transition metal (TM) ion mixing in the layered phases is detected to induce the rock&#8208;salt phase formation along the coherent TB. According to DFT calculations, Li/TM mixing and phase transition are aided by the low diffusion barriers of TM ions at planar defects. This work reveals the dynamical scenario of secondary phase evolution, which helps to unveil the origin of performance fading in Ni&#8208;rich NMC.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Direct observation of defect&#8208;aided structural evolution in Ni&#8208;rich layered cathode</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008144</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-02T07:18:01-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008144</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008144?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202006531?af=R">
+      <title>An Integrated Microfluidic Probe for Mass Spectrometry Imaging of Biological Samples</title>
+      <dc:description>Ambient ionization based on liquid extraction is widely used in mass spectrometry imaging (MSI) of molecules in biological samples. The development of nanospray desorption electrospray ionization (nano&#8208;DESI) has enabled the robust imaging of tissue sections with high spatial resolution. However, the fabrication of the nano&#8208;DESI probe is challenging, which limits its dissemination to the broader scientific community. Herein, we describe the design and performance of an integrated microfluidic probe (iMFP) for nano&#8208;DESI MSI. The glass iMFP fabricated using photolithography, wet etching, and polishing shows comparable performance to the capillary&#8208;based nano&#8208;DESI MSI in terms of stability and sensitivity; the spatial resolution of better than 25 &#181;m was obtained in these first proof&#8208;of&#8208;principle experiments. The iMFP is easy to operate and align in front of a mass spectrometer, which will facilitate broader use of liquid extraction&#8208;based MSI in biological research, drug discovery, and clinical studies.</dc:description>
+      <dc:creator>
+XIANGTANG Li, 
+Ruichuan Yin, 
+Hang Hu, 
+Yingju Li, 
+Xiaofei Sun, 
+Sudhansu  K. Dey, 
+Julia Laskin
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006531?af=R</link>
+      <content:encoded>&lt;p&gt;Ambient ionization based on liquid extraction is widely used in mass spectrometry imaging (MSI) of molecules in biological samples. The development of nanospray desorption electrospray ionization (nano&#8208;DESI) has enabled the robust imaging of tissue sections with high spatial resolution. However, the fabrication of the nano&#8208;DESI probe is challenging, which limits its dissemination to the broader scientific community. Herein, we describe the design and performance of an integrated microfluidic probe (iMFP) for nano&#8208;DESI MSI. The glass iMFP fabricated using photolithography, wet etching, and polishing shows comparable performance to the capillary&#8208;based nano&#8208;DESI MSI in terms of stability and sensitivity; the spatial resolution of better than 25 &#181;m was obtained in these first proof&#8208;of&#8208;principle experiments. The iMFP is easy to operate and align in front of a mass spectrometer, which will facilitate broader use of liquid extraction&#8208;based MSI in biological research, drug discovery, and clinical studies.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>An Integrated Microfluidic Probe for Mass Spectrometry Imaging of Biological Samples</dc:title>
+      <dc:identifier>doi:10.1002/anie.202006531</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-02T07:17:58-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202006531</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006531?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202008553?af=R">
       <title>Protein&#8208;controlled Actuation of Dynamic Nucleic Acid Networks Using Synthetic DNA Translators</title>
       <dc:description>Integrating dynamic DNA nanotechnology with protein&#8208;controlled actuation will expand our ability to process molecular information. We have developed a strategy to actuate strand displacement reactions using DNA&#8208;binding proteins by engineering synthetic DNA translators that convert specific protein&#8208;binding events into trigger inputs through a programmed conformational change. We have constructed synthetic DNA networks responsive to two different DNA&#8208;binding proteins, TATA&#8208;binding protein and Myc&#8208;Max, and demonstrated multi&#8208;input activation of strand displacement reactions. We finally achieved protein&#8208;controlled regulation of a synthetic RNA and of an enzyme through artificial DNA&#8208;based communication, showing the potential of our molecular system in performing further programmable tasks.</dc:description>
@@ -708,31 +900,6 @@ Wei-Hong Zhu
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009380</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009380?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009335?af=R">
-      <title>Intramolecular C(sp3)&#8208;H Bond Oxygenation through Transition Metal Acylnitrenoids</title>
-      <dc:description>This study demonstrates for the first time that easily accessible transition metal acylnitrenoids can be used for controlled direct C(sp  3  )&#8208;H oxygenations. Specifically, a ruthenium catalyst activates N&#8208;benzoyloxycarbamates as nitrene precursors towards regioselective intramolecular C&#8208;H oxygenations to provide cyclic carbonates, hydroxylated carbamates, or 1,2&#8208;diols. The method can be applied to the chemoselective C&#8208;H oxygenation of benzylic, allylic, and propargylic C(sp  3  )&#8208;H bonds. The reaction can be performed in an enantioselective fashion and switched in a catalyst&#8208;controlled fashion between C&#8208;H oxygenation and C&#8208;H amination. This work provides a new reaction mode for the regiocontrolled and stereocontrolled conversion of C(sp  3  )&#8208;H into C(sp  3  )&#8208;O bonds.</dc:description>
-      <dc:creator>
-Yuqi Tan, 
-Shuming Chen, 
-Zijun Zhou, 
-Yubiao Hong, 
-Sergei Ivlev, 
-K. N. Houk, 
-Eric Meggers
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009335?af=R</link>
-      <content:encoded>&lt;p&gt;This study demonstrates for the first time that easily accessible transition metal acylnitrenoids can be used for controlled direct C(sp  3  )&#8208;H oxygenations. Specifically, a ruthenium catalyst activates N&#8208;benzoyloxycarbamates as nitrene precursors towards regioselective intramolecular C&#8208;H oxygenations to provide cyclic carbonates, hydroxylated carbamates, or 1,2&#8208;diols. The method can be applied to the chemoselective C&#8208;H oxygenation of benzylic, allylic, and propargylic C(sp  3  )&#8208;H bonds. The reaction can be performed in an enantioselective fashion and switched in a catalyst&#8208;controlled fashion between C&#8208;H oxygenation and C&#8208;H amination. This work provides a new reaction mode for the regiocontrolled and stereocontrolled conversion of C(sp  3  )&#8208;H into C(sp  3  )&#8208;O bonds.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Intramolecular C(sp3)&#8208;H Bond Oxygenation through Transition Metal Acylnitrenoids</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009335</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-30T06:06:59-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009335</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009335?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1749,130 +1916,6 @@ Wilfried Assenmacher
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008874?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202006315?af=R">
-      <title>Integrating Biomass into Organonitrogen Chemical Supply Chain: Production of Pyrrole and D&#8208;Proline from Furfural</title>
-      <dc:description>Production of renewable, high&#8208;value N&#8208;containing chemicals from lignocellulose will expand product diversity and increase the economic competitiveness of biorefinery. Herein, we report a single&#8208;step conversion of furfural to pyrrole in 75% yield as a key N&#8208;containing building block, achieved via tandem decarbonylation&#8208;amination reactions over tailor&#8208;designed Pd@S&#8208;1 and H&#8208;beta zeolite catalytic system. Pyrrole was further transformed into DL&#8208;proline in two steps following carboxylation with CO  2  and hydrogenation over Rh/C catalyst. After treating with  Escherichia coli  , valuable D&#8208;proline was obtained in theoretically maximum yield (50%) bearing 99% ee. The report here establishes a route bridging commercial commodity feedstock from biomass with high&#8208;value organonitrogen chemicals through pyrrole as a hub molecule.</dc:description>
-      <dc:creator>
-Song Song, 
-Vincent Fung Kin Yuen, 
-Lu Di, 
-Qiming Sun, 
-Kang Zhou, 
-Ning Yan
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006315?af=R</link>
-      <content:encoded>&lt;p&gt;Production of renewable, high&#8208;value N&#8208;containing chemicals from lignocellulose will expand product diversity and increase the economic competitiveness of biorefinery. Herein, we report a single&#8208;step conversion of furfural to pyrrole in 75% yield as a key N&#8208;containing building block, achieved via tandem decarbonylation&#8208;amination reactions over tailor&#8208;designed Pd@S&#8208;1 and H&#8208;beta zeolite catalytic system. Pyrrole was further transformed into DL&#8208;proline in two steps following carboxylation with CO  2  and hydrogenation over Rh/C catalyst. After treating with  Escherichia coli  , valuable D&#8208;proline was obtained in theoretically maximum yield (50%) bearing 99% ee. The report here establishes a route bridging commercial commodity feedstock from biomass with high&#8208;value organonitrogen chemicals through pyrrole as a hub molecule.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Integrating Biomass into Organonitrogen Chemical Supply Chain: Production of Pyrrole and D&#8208;Proline from Furfural</dc:title>
-      <dc:identifier>doi:10.1002/anie.202006315</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-27T11:54:49-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202006315</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202006315?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202007731?af=R">
-      <title>X&#8208;ray observation of chiral transformations within a metal&#8211;peptide pore</title>
-      <dc:description>Porous metal complexes enable single&#8208;crystal X&#8208;ray observation of included guests or reaction intermediates by simple soaking of the guests/substrates. Previous studies on such a technique often have difficulties in observation of chiral structures because host frameworks had no chirality. Here, we synthesized a new metal&#8211;peptide porous complex via the folding&#8208;and&#8208;assembly strategy and utilized the chiral pore for trapping chiral guests. Chiral alcohols and ketones were successfully included within the pore. Crystallographic analyses clearly revealed not only their chemical structures but also chiral transformation events within the pore such as fixed conformations or an unstable hemiacetal formation.</dc:description>
-      <dc:creator>
-Ami Saito, 
-Tomohisa Sawada, 
-Makoto Fujita
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007731?af=R</link>
-      <content:encoded>&lt;p&gt;Porous metal complexes enable single&#8208;crystal X&#8208;ray observation of included guests or reaction intermediates by simple soaking of the guests/substrates. Previous studies on such a technique often have difficulties in observation of chiral structures because host frameworks had no chirality. Here, we synthesized a new metal&#8211;peptide porous complex via the folding&#8208;and&#8208;assembly strategy and utilized the chiral pore for trapping chiral guests. Chiral alcohols and ketones were successfully included within the pore. Crystallographic analyses clearly revealed not only their chemical structures but also chiral transformation events within the pore such as fixed conformations or an unstable hemiacetal formation.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>X&#8208;ray observation of chiral transformations within a metal&#8211;peptide pore</dc:title>
-      <dc:identifier>doi:10.1002/anie.202007731</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-27T08:07:05-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202007731</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202007731?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009336?af=R">
-      <title>Rational Manipulation of Stacking Arrangements in Three&#8208;Dimensional Zeolites Built from Two&#8208;Dimensional Zeolitic Nanosheets</title>
-      <dc:description>Unit&#8208;cell&#8208;thin zeolitic nanosheets have emerged as fascinating materials for catalysis and separation. The controllability of nanosheets stacking is extremely challenging in the chemistry of two&#8208;dimensional zeolitic materials. So far, the organization of zeolitic nanosheets in hydrothermal synthesis has been limited by the lack of tunable control over the guest&#8208;host interactions between organic structure&#8208;directing agents (OSDAs) and zeolitic nanosheets. Here, we report a direct synthetic methodology that enables systematic manipulation of the aluminosilicate MWW&#8208;type nanosheets stacking. Variable control of guest&#8208;host interactions is rationally achieved by synergistically altering the charge density of OSDAs and synthetic silica&#8208;to&#8208;alumina composition. These finely&#8208;controlled interactions allow the successful preparation of series of three&#8208;dimensional (3D) zeolites with MWW&#8208;layer stacking in wide ranges from variations of disorder to fully&#8208;order, leading to tunable catalytic activity in cracking reaction. These results highlight unprecedented opportunities to modulate zeolitic nanosheets arrangement in 3D zeolites whose structure can be tailored for catalysis and separation.</dc:description>
-      <dc:creator>
-Le Xu, 
-Tianqiong Ma, 
-Yihan Shen, 
-Yong Wang, 
-Lu Han, 
-Watcharop Chaittisilp, 
-Toshiyuki Yokoi, 
-Junliang Sun, 
-Toru Wakihara, 
-Tatsuya Okubo
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009336?af=R</link>
-      <content:encoded>&lt;p&gt;Unit&#8208;cell&#8208;thin zeolitic nanosheets have emerged as fascinating materials for catalysis and separation. The controllability of nanosheets stacking is extremely challenging in the chemistry of two&#8208;dimensional zeolitic materials. So far, the organization of zeolitic nanosheets in hydrothermal synthesis has been limited by the lack of tunable control over the guest&#8208;host interactions between organic structure&#8208;directing agents (OSDAs) and zeolitic nanosheets. Here, we report a direct synthetic methodology that enables systematic manipulation of the aluminosilicate MWW&#8208;type nanosheets stacking. Variable control of guest&#8208;host interactions is rationally achieved by synergistically altering the charge density of OSDAs and synthetic silica&#8208;to&#8208;alumina composition. These finely&#8208;controlled interactions allow the successful preparation of series of three&#8208;dimensional (3D) zeolites with MWW&#8208;layer stacking in wide ranges from variations of disorder to fully&#8208;order, leading to tunable catalytic activity in cracking reaction. These results highlight unprecedented opportunities to modulate zeolitic nanosheets arrangement in 3D zeolites whose structure can be tailored for catalysis and separation.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Rational Manipulation of Stacking Arrangements in Three&#8208;Dimensional Zeolites Built from Two&#8208;Dimensional Zeolitic Nanosheets</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009336</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-27T08:05:05-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009336</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009336?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009776?af=R">
-      <title>Controlling Oxidation State of Pt Single&#8208;Atoms for Maximizing Catalytic Activity</title>
-      <dc:description>Single&#8208;atom catalysts (SACs) have emerged as promising materials in heterogeneous catalysis. Previous studies reported controversial results about the relative level in activity for SACs and nanoparticles (NPs). These works have focused on the effect of metal atom arrangement, without considering the oxidation state of SACs. Here, we immobilized Pt single&#8208;atoms on defective ceria, and controlled the oxidation state of Pt SACs, from highly oxidized (Pt0: 16.6 at%) to highly metallic state (Pt0: 83.8 at%). The Pt SACs with controlled oxidation state were then employed for oxidation of CO, CH4, or NO, and their activity was compared with Pt NPs. The highly oxidized Pt SACs presented poorer activity than Pt NPs, whereas metallic Pt SACs showed higher activity. The Pt SAC reduced at 300 &#176;C showed the highest activity for all the oxidations. The Pt SACs with controlled oxidation state revealed a crucial missing link between activity and SACs.</dc:description>
-      <dc:creator>
-Hojin Jeong, 
-Dongjae Shin, 
-Beom-Sik Kim, 
-Junemin Bae, 
-Sangyong Shin, 
-Chanyeong Choe, 
-Jeong  Woo Han, 
-Hyunjoo Lee
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009776?af=R</link>
-      <content:encoded>&lt;p&gt;Single&#8208;atom catalysts (SACs) have emerged as promising materials in heterogeneous catalysis. Previous studies reported controversial results about the relative level in activity for SACs and nanoparticles (NPs). These works have focused on the effect of metal atom arrangement, without considering the oxidation state of SACs. Here, we immobilized Pt single&#8208;atoms on defective ceria, and controlled the oxidation state of Pt SACs, from highly oxidized (Pt0: 16.6 at%) to highly metallic state (Pt0: 83.8 at%). The Pt SACs with controlled oxidation state were then employed for oxidation of CO, CH4, or NO, and their activity was compared with Pt NPs. The highly oxidized Pt SACs presented poorer activity than Pt NPs, whereas metallic Pt SACs showed higher activity. The Pt SAC reduced at 300 &#176;C showed the highest activity for all the oxidations. The Pt SACs with controlled oxidation state revealed a crucial missing link between activity and SACs.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Controlling Oxidation State of Pt Single&#8208;Atoms for Maximizing Catalytic Activity</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009776</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-27T08:05:01-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009776</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009776?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008233?af=R">
-      <title>Toward Efficient Synthesis of Chiral Zeolites: A Rational Strategy for Fluoride&#8208;Free Synthesis of STW&#8208;Type Zeolite</title>
-      <dc:description>The STW&#8208;type zeolite is significantly attractive for developing novel enantioselective syntheses/separation of chiral compounds because it is the only chiral zeolitic microporous material whose enantioenriched synthesis has been achieved. Besides the conventional industries where zeolites are used, STW should have diverse industrial applications such as in the pharmaceutical and food industries. However, the toxic and caustic fluoride required for synthesizing STW severely hinders its commercialization by mass production. Here, we report the first example of fluoride&#8208;free STW synthesis, where the two roles of fluoride&#8212;formation of a zeolitic framework rich in tetravalent T&#8208;atoms and promotion of double 4&#8208;membered ring unit formation&#8212;were substituted by dry gel conversion and Ge addition, respectively. The obtained STW was highly crystalline, with a similar micropore volume and thermal stability as those of original fluoride&#8208;based STW. Our approach is promising not only for the fluoride&#8208;free synthesis of enantiomeric STW but also for general fluoride&#8208;free syntheses.</dc:description>
-      <dc:creator>
-Yuki Shinno, 
-Kenta Iyoki, 
-Koji Ohara, 
-Yutaka Yanaba, 
-Yusuke Naraki, 
-Tatsuya Okubo, 
-Toru Wakihara
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008233?af=R</link>
-      <content:encoded>&lt;p&gt;The STW&#8208;type zeolite is significantly attractive for developing novel enantioselective syntheses/separation of chiral compounds because it is the only chiral zeolitic microporous material whose enantioenriched synthesis has been achieved. Besides the conventional industries where zeolites are used, STW should have diverse industrial applications such as in the pharmaceutical and food industries. However, the toxic and caustic fluoride required for synthesizing STW severely hinders its commercialization by mass production. Here, we report the first example of fluoride&#8208;free STW synthesis, where the two roles of fluoride&#8212;formation of a zeolitic framework rich in tetravalent T&#8208;atoms and promotion of double 4&#8208;membered ring unit formation&#8212;were substituted by dry gel conversion and Ge addition, respectively. The obtained STW was highly crystalline, with a similar micropore volume and thermal stability as those of original fluoride&#8208;based STW. Our approach is promising not only for the fluoride&#8208;free synthesis of enantiomeric STW but also for general fluoride&#8208;free syntheses.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Toward Efficient Synthesis of Chiral Zeolites: A Rational Strategy for Fluoride&#8208;Free Synthesis of STW&#8208;Type Zeolite</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008233</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-07-27T08:03:11-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008233</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008233?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202009673?af=R">
       <title>Jin Xie</title>
