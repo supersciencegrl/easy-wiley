@@ -52,7 +52,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000402?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000351?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000426?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000100?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000030?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000031?af=R" />
@@ -81,10 +80,8 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000236?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000229?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000235?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000425?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000269?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000027?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000427?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000246?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000450?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000457?af=R" />
@@ -126,6 +123,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000212?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000136?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000204?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000142?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000272?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000172?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000362?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000185?af=R" />
          </rdf:Seq>
@@ -865,45 +865,6 @@ Manfred Jung
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000351?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000426?af=R">
-      <title>Responsive Fluorophore Aggregation Provides Spectral Contrast for Fluorescence Lifetime Imaging</title>
-      <dc:description>
-Fluorophores are greatly influenced by their environment. In their full paper, L. Cui et&#8197;al. show that triggering the aggregation of a self&#8208;condensing scaffold labeled with a fluorophore induces changes in the emission spectrum, polarization, and lifetime. The aggregates exhibited a shorter lifetime detectable in cells by fluorescence lifetime imaging microscopy, thus suggesting that triggered aggregation strategies can be used in the probes for various biological events through lifetime imaging.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Kelton A. Schleyer, 
-Benjamin D. Datko, 
-Brandon Burnside, 
-Chao Cui, 
-Xiaowei Ma, 
-John K. Grey, 
-Lina Cui
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000426?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/eefff325-6f18-460a-9d48-a94a78e2be77/cbic202000426-toc-0001-m.png"
-     alt="Responsive Fluorophore Aggregation Provides Spectral Contrast for Fluorescence Lifetime Imaging"/&gt;
-&lt;p&gt;&lt;b&gt;Fluorophores are greatly influenced by their environment &lt;/b&gt;. In their &lt;a&gt;https://doi.org/10.1002/cbic.202000056full paper, L. Cui et&#8197;al.&lt;/a&gt; show that triggering the aggregation of a self&#8208;condensing scaffold labeled with a fluorophore induces changes in the emission spectrum, polarization, and lifetime. The aggregates exhibited a shorter lifetime detectable in cells by fluorescence lifetime imaging microscopy, thus suggesting that triggered aggregation strategies can be used in the probes for various biological events through lifetime imaging.
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Responsive Fluorophore Aggregation Provides Spectral Contrast for Fluorescence Lifetime Imaging</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000426</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-16T02:57:05-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000426</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000426?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000100?af=R">
       <title>A Minimized Chemoenzymatic Cascade for Bacterial Luciferase in Bioreporter Applications</title>
@@ -2111,40 +2072,6 @@ Tsutomu Sato
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000425?af=R">
-      <title>Bifunctional DNA Duplexes Permit Efficient Incorporation of pH Probes into Liposomes</title>
-      <dc:description>
-Proton translocation across biological membranes is an essential mechanism for important cellular tasks such as ATP production or nutrient uptake. Proteoliposomes containing pH&#8208;sensitive fluorescent dyes are an important tool to investigate these processes. The cover illustrates a lipid vesicle with an embedded proton translocating F1FO ATP synthase. The pH&#8208;sensitive dye is anchored to the membrane by bifunctional DNA duplexes to ensure efficient incorporation. The DNA backbone on the outside can be cut enzymatically to yield proteoliposomes with the pH sensor selectively on the inside. More information can be found in the full paper by C. von Ballmoos and N. Dolder. Cover art by N.D.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Nicolas Dolder, 
-Christoph Ballmoos
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000425?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6da7f3cf-0476-4229-a6eb-5892c929d3bb/cbic202000425-toc-0001-m.png"
-     alt="Bifunctional DNA Duplexes Permit Efficient Incorporation of pH Probes into Liposomes"/&gt;
-&lt;p&gt;&lt;b&gt;Proton translocation across biological membranes &lt;/b&gt; is an essential mechanism for important cellular tasks such as ATP production or nutrient uptake. Proteoliposomes containing pH&#8208;sensitive fluorescent dyes are an important tool to investigate these processes. The cover illustrates a lipid vesicle with an embedded proton translocating F&lt;sub&gt;1&lt;/sub&gt;F&lt;sub&gt;O&lt;/sub&gt; ATP synthase. The pH&#8208;sensitive dye is anchored to the membrane by bifunctional DNA duplexes to ensure efficient incorporation. The DNA backbone on the outside can be cut enzymatically to yield proteoliposomes with the pH sensor selectively on the inside. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000146full paper by C. von Ballmoos and N. Dolder.&lt;/a&gt; Cover art by N.D.
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Bifunctional DNA Duplexes Permit Efficient Incorporation of pH Probes into Liposomes</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000425</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-13T02:13:52-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000425</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000425?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000269?af=R">
       <title>Photochemical RNA Editing of C to U by Using Ultrafast Reversible RNA Photo&#8208;crosslinking in DNA/RNA Duplexes</title>
       <dc:description>
@@ -2223,48 +2150,6 @@ Hong&#8208;Yu Zhang
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000027?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000427?af=R">
-      <title>Light&#8208;Driven ATP Regeneration in Diblock/Grafted Hybrid Vesicles</title>
-      <dc:description>
-A light&#8208;driven ATP regeneration module has been created through bottom&#8208;up assembly of small building blocks such as proteins, lipids and polymers. The use of polymer hybrid compartments instead of conventional liposomes significantly increased the long&#8208;term stability of the module. This could play an important role especially when using the module as an energy supply to drive cell&#8208;like functions within artificially created reaction compartments like protocells. More information can be found in the full paper by Tanja Vidakovi&#263;&#8208;Koch et&#8197;al.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Christin Kleineberg, 
-Christian W&#246;lfer, 
-Amirhossein Abbasnia, 
-Dennis Pischel, 
-Claudia Bednarz, 
-Ivan Ivanov, 
-Thomas Heitkamp, 
-Michael B&#246;rsch, 
-Kai Sundmacher, 
-Tanja Vidakovi&#263;&#8208;Koch
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000427?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/56402ddb-272f-46e0-963c-fe71c3f5968c/cbic202000427-toc-0001-m.png"
-     alt="Light&#8208;Driven ATP Regeneration in Diblock/Grafted Hybrid Vesicles"/&gt;
-&lt;p&gt;&lt;b&gt;A light&#8208;driven ATP regeneration module &lt;/b&gt; has been created through bottom&#8208;up assembly of small building blocks such as proteins, lipids and polymers. The use of polymer hybrid compartments instead of conventional liposomes significantly increased the long&#8208;term stability of the module. This could play an important role especially when using the module as an energy supply to drive cell&#8208;like functions within artificially created reaction compartments like protocells. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.201900774full paper by Tanja Vidakovi&#263;&#8208;Koch et&#8197;al.&lt;/a&gt;
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Light&#8208;Driven ATP Regeneration in Diblock/Grafted Hybrid Vesicles</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000427</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-13T02:08:29-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000427</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000427?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000450?af=R">
       <title>Towards Zwitterionic Oligonucleotides with Improved Properties: the NAA/LNA&#8208;Gapmer Approach</title>
@@ -3697,6 +3582,128 @@ Anke Wagner
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000204</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000204?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000142?af=R">
+      <title>Role of Two Exceptional trans Adenylation Domains and MbtH&#8208;like Proteins in the Biosynthesis of the Nonribosomal Peptide WS9324A from Streptomyces calvus ATCC 13382</title>
+      <dc:description>
+Rule breakers: The trans&#8208;acting adenylation domains Cal22Thr and Cal23Asn are shown through gene disruption experiments and in&#8197;vitro assays with purified enzymes to play essential roles in the biosynthesis of the nonribosomal peptide WS92326A in S. calvus. For soluble heterologous protein production, Cal22Thr and Cal23Asn require coexpression with the MbtH&#8208;like protein Cal4, the latter copurifying with Cal23Asn as a complex.
+
+
+
+
+
+
+
+Abstract
+Nonribosomal peptide synthetases (NRPS) are organized in a modular arrangement. Usually, the modular order corresponds to the assembly of the amino acids in the respective peptide, following the collinearity rule. The WS9326A biosynthetic gene cluster from Streptomyces calvus shows deviations from this rule. Most interesting is the presence of two trans adenylation domains that are located downstream of the modular NRPS arrangement. Adenylation domains are responsible for the activation of their respective amino acids. In this study, we confirmed the involvement of the trans adenylation domains in WS9326A biosynthesis by performing gene knockout experiments and by observing the selective adenylation of their predicted amino acid substrates in&#8197;vitro. We conclude that the trans adenylation domains are essential for WS9326A biosynthesis. Moreover, both adenylation domains are observed to have MbtH&#8208;like protein dependency. Overall, we conclude that the trans adenylation domains are essential for WS9326A biosynthesis.
+</dc:description>
+      <dc:creator>
+Mirjam Bernhardt, 
+Stefanie Berman, 
+David Zechel, 
+Andreas Bechthold
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000142?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c3606d23-a1a3-496d-b917-7c8eb0e1839c/cbic202000142-toc-0001-m.png"
+     alt="Role of Two Exceptional trans Adenylation Domains and MbtH&#8208;like Proteins in the Biosynthesis of the Nonribosomal Peptide WS9324A from Streptomyces calvus ATCC 13382"/&gt;
+&lt;p&gt;&lt;b&gt;Rule breakers &lt;/b&gt;: The &lt;i&gt;trans&lt;/i&gt;&#8208;acting adenylation domains Cal22&lt;sub&gt;Thr&lt;/sub&gt; and Cal23&lt;sub&gt;Asn&lt;/sub&gt; are shown through gene disruption experiments and &lt;i&gt;in&#8197;vitro &lt;/i&gt; assays with purified enzymes to play essential roles in the biosynthesis of the nonribosomal peptide WS92326A in &lt;i&gt;S. calvus &lt;/i&gt;. For soluble heterologous protein production, Cal22&lt;sub&gt;Thr&lt;/sub&gt; and Cal23&lt;sub&gt;Asn&lt;/sub&gt; require coexpression with the MbtH&#8208;like protein Cal4, the latter copurifying with Cal23&lt;sub&gt;Asn&lt;/sub&gt; as a complex.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Nonribosomal peptide synthetases (NRPS) are organized in a modular arrangement. Usually, the modular order corresponds to the assembly of the amino acids in the respective peptide, following the collinearity rule. The WS9326A biosynthetic gene cluster from &lt;i&gt;Streptomyces calvus &lt;/i&gt; shows deviations from this rule. Most interesting is the presence of two &lt;i&gt;trans &lt;/i&gt; adenylation domains that are located downstream of the modular NRPS arrangement. Adenylation domains are responsible for the activation of their respective amino acids. In this study, we confirmed the involvement of the &lt;i&gt;trans &lt;/i&gt; adenylation domains in WS9326A biosynthesis by performing gene knockout experiments and by observing the selective adenylation of their predicted amino acid substrates &lt;i&gt;in&#8197;vitro &lt;/i&gt;. We conclude that the &lt;i&gt;trans &lt;/i&gt; adenylation domains are essential for WS9326A biosynthesis. Moreover, both adenylation domains are observed to have MbtH&#8208;like protein dependency. Overall, we conclude that the &lt;i&gt;trans &lt;/i&gt; adenylation domains are essential for WS9326A biosynthesis.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Role of Two Exceptional trans Adenylation Domains and MbtH&#8208;like Proteins in the Biosynthesis of the Nonribosomal Peptide WS9324A from Streptomyces calvus ATCC 13382</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000142</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-06-18T02:35:43-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000142</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000142?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000272?af=R">
+      <title>Synthesis and Metabolic Fate of 4&#8208;Methylthiouridine in Bacterial tRNA</title>
+      <dc:description>
+Through a combination of synthetic and analytical chemistry, the structure of the modified nucleoside 4&#8208;methylthiouridine was confirmed in bacterial tRNA. The modification is of low abundance and forms after bacterial stress induced by methylating agents; this argues for its nature as a natural tRNA lesion. By pulse chase analysis, we show its repair through a dethiomethylation mechanism in&#8197;vivo.
+
+
+
+
+
+
+
+Abstract
+Ribonucleic acid (RNA) is central to many life processes and, to fulfill its function, it has a substantial chemical variety in its building blocks. Enzymatic thiolation of uridine introduces 4&#8208;thiouridine (s4U) into many bacterial transfer RNAs (tRNAs), which is used as a sensor for UV radiation. A similar modified nucleoside, 2&#8208;thiocytidine, was recently found to be sulfur&#8208;methylated especially in bacteria exposed to antibiotics and simple methylating reagents. Herein, we report the synthesis of 4&#8208;methylthiouridine (ms4U) and confirm its presence and additional formation under stress in Escherichia coli. We used the synthetic ms4U for isotope dilution mass spectrometry and compared its abundance to other reported tRNA damage products. In addition, we applied sophisticated stable&#8208;isotope pulse chase studies (NAIL&#8208;MS) and showed its AlkB&#8208;independent removal in&#8197;vivo. Our findings reveal the complex nature of bacterial RNA damage repair.
+</dc:description>
+      <dc:creator>
+Christoph Borek, 
+Valentin F. Reichle, 
+Stefanie Kellner
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000272?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/be72c962-6089-43b6-b305-5e29ea411836/cbic202000272-toc-0001-m.png"
+     alt="Synthesis and Metabolic Fate of 4&#8208;Methylthiouridine in Bacterial tRNA"/&gt;
+&lt;p&gt;&lt;b&gt;Through a combination &lt;/b&gt; of synthetic and analytical chemistry, the structure of the modified nucleoside 4&#8208;methylthiouridine was confirmed in bacterial tRNA. The modification is of low abundance and forms after bacterial stress induced by methylating agents; this argues for its nature as a natural tRNA lesion. By pulse chase analysis, we show its repair through a dethiomethylation mechanism &lt;i&gt;in&#8197;vivo &lt;/i&gt;.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ribonucleic acid (RNA) is central to many life processes and, to fulfill its function, it has a substantial chemical variety in its building blocks. Enzymatic thiolation of uridine introduces 4&#8208;thiouridine (s&lt;sup&gt;4&lt;/sup&gt;U) into many bacterial transfer RNAs (tRNAs), which is used as a sensor for UV radiation. A similar modified nucleoside, 2&#8208;thiocytidine, was recently found to be sulfur&#8208;methylated especially in bacteria exposed to antibiotics and simple methylating reagents. Herein, we report the synthesis of 4&#8208;methylthiouridine (ms&lt;sup&gt;4&lt;/sup&gt;U) and confirm its presence and additional formation under stress in &lt;i&gt;Escherichia coli &lt;/i&gt;. We used the synthetic ms&lt;sup&gt;4&lt;/sup&gt;U for isotope dilution mass spectrometry and compared its abundance to other reported tRNA damage products. In addition, we applied sophisticated stable&#8208;isotope pulse chase studies (NAIL&#8208;MS) and showed its AlkB&#8208;independent removal &lt;i&gt;in&#8197;vivo &lt;/i&gt;. Our findings reveal the complex nature of bacterial RNA damage repair.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Synthesis and Metabolic Fate of 4&#8208;Methylthiouridine in Bacterial tRNA</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000272</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-06-18T02:33:52-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000272</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000272?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000172?af=R">
+      <title>Membrane&#8208;Associated Nucleobase&#8208;Functionalized &#946;&#8208;Peptides (&#946;&#8208;PNAs) Affecting Membrane Support and Lipid Composition</title>
+      <dc:description>
+A model system for membrane&#8208;spanning protein networks &#8211; important for the stability of the membrane, its structure and transmembrane signal transmission &#8211; has been developed. The synthetically available system is based on &#946;&#8208;peptide nucleic acid (&#946;&#8208;PNA) helices functionalized with lipid membrane anchors and nucleobase recognition sequences. &#946;&#8208;PNA membrane interaction and aggregation are indicated by fluorescence and CD spectroscopy assays.
+
+
+
+
+
+
+
+Abstract
+Protein&#8208;membrane interactions are essential to maintain membrane integrity and control membrane morphology and composition. Cytoskeletal proteins in particular are known to interact to a high degree with lipid bilayers and to line the cytoplasmic side of the plasma membrane with an extensive network structure. In order to gain a better mechanistical understanding of the protein&#8211;membrane interplay and possible membrane signaling, we started to develop a model system based on &#946;&#8208;peptide nucleic acids (&#946;&#8208;PNAs). These &#946;&#8208;peptides are known to form stable hydrogen&#8208;bonded aggregates due to their helical secondary structure, which serve to pre&#8208;organize the attached nucleobases. After optimization of the &#946;&#8208;PNA solid&#8208;phase peptide synthesis and validation of helix formation, the ability of the novel &#946;&#8208;PNAs to dimerize and interact with lipid bilayers was investigated by both fluorescence and circular dichroism spectroscopy. It was shown that duplex formation occurs rapidly and with high specificity and could also be detected on the surfaces of the lipid bilayers. Hereby, the potential of a &#946;&#8208;PNA&#8208;based peptide system to mimic membrane&#8208;associated protein networks could be demonstrated.
+</dc:description>
+      <dc:creator>
+Geralin A. H&#246;ger, 
+Markus Wiegand, 
+Brigitte Worbs, 
+Ulf Diederichsen
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000172?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b789ca8c-5f69-4441-904f-1a93c490e311/cbic202000172-toc-0001-m.png"
+     alt="Membrane&#8208;Associated Nucleobase&#8208;Functionalized &#946;&#8208;Peptides (&#946;&#8208;PNAs) Affecting Membrane Support and Lipid Composition"/&gt;
+&lt;p&gt;&lt;b&gt;A model system &lt;/b&gt; for membrane&#8208;spanning protein networks &#8211; important for the stability of the membrane, its structure and transmembrane signal transmission &#8211; has been developed. The synthetically available system is based on &#946;&#8208;peptide nucleic acid (&#946;&#8208;PNA) helices functionalized with lipid membrane anchors and nucleobase recognition sequences. &#946;&#8208;PNA membrane interaction and aggregation are indicated by fluorescence and CD spectroscopy assays.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Protein&#8208;membrane interactions are essential to maintain membrane integrity and control membrane morphology and composition. Cytoskeletal proteins in particular are known to interact to a high degree with lipid bilayers and to line the cytoplasmic side of the plasma membrane with an extensive network structure. In order to gain a better mechanistical understanding of the protein&#8211;membrane interplay and possible membrane signaling, we started to develop a model system based on &#946;&#8208;peptide nucleic acids (&#946;&#8208;PNAs). These &#946;&#8208;peptides are known to form stable hydrogen&#8208;bonded aggregates due to their helical secondary structure, which serve to pre&#8208;organize the attached nucleobases. After optimization of the &#946;&#8208;PNA solid&#8208;phase peptide synthesis and validation of helix formation, the ability of the novel &#946;&#8208;PNAs to dimerize and interact with lipid bilayers was investigated by both fluorescence and circular dichroism spectroscopy. It was shown that duplex formation occurs rapidly and with high specificity and could also be detected on the surfaces of the lipid bilayers. Hereby, the potential of a &#946;&#8208;PNA&#8208;based peptide system to mimic membrane&#8208;associated protein networks could be demonstrated.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Membrane&#8208;Associated Nucleobase&#8208;Functionalized &#946;&#8208;Peptides (&#946;&#8208;PNAs) Affecting Membrane Support and Lipid Composition</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000172</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-06-18T12:00:00-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000172</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000172?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
