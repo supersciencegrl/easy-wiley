@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002748?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002004?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001763?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002297?af=R" />
@@ -104,7 +105,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003530?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002451?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002784?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002251?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -113,6 +113,63 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002748?af=R">
+      <title>Side Chain Redistribution as a Strategy to Boost Organic Electrochemical Transistor Performance and Stability</title>
+      <dc:description>
+A series of polythiophenes for use in organic electrochemical transistors (OECTs) differing only in the distribution of the side chains that are tethered to the conjugated backbone is presented. By optimization of the water uptake in the polymers, OECTs with [&#956;C*] over 500 F cm&#8722;1 V&#8722;1 s&#8722;1 and current retentions up to 98% over 700 electrochemical switching cycles are presented.
+
+
+
+
+
+
+
+
+Abstract
+A series of glycolated polythiophenes for use in organic electrochemical transistors (OECTs) is designed and synthesized, differing in the distribution of their ethylene glycol chains that are tethered to the conjugated backbone. While side chain redistribution does not have a significant impact on the optoelectronic properties of the polymers, this molecular engineering strategy strongly impacts the water uptake achieved in the polymers. By careful optimization of the water uptake in the polymer films, OECTs with unprecedented steady&#8208;state performances in terms of [&#956;C*] and current retentions up to 98% over 700 electrochemical switching cycles are developed.
+</dc:description>
+      <dc:creator>
+Maximilian Moser, 
+Tania Cecilia Hidalgo, 
+Jokubas Surgailis, 
+Johannes Gladisch, 
+Sarbani Ghosh, 
+Rajendar Sheelamanthula, 
+Quentin Thiburce, 
+Alexander Giovannitti, 
+Alberto Salleo, 
+Nicola Gasparini, 
+Andrew Wadsworth, 
+Igor Zozoulenko, 
+Magnus Berggren, 
+Eleni Stavrinidou, 
+Sahika Inal, 
+Iain McCulloch
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002748?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a75aa119-def2-4e27-b986-8c725aa31865/adma202002748-gra-0001-m.png"
+     alt="Side Chain Redistribution as a Strategy to Boost Organic Electrochemical Transistor Performance and Stability"/&gt;
+&lt;p&gt;A series of polythiophenes for use in organic electrochemical transistors (OECTs) differing only in the distribution of the side chains that are tethered to the conjugated backbone is presented. By optimization of the water uptake in the polymers, OECTs with [&lt;i&gt;&#956;C&lt;sup&gt;*&lt;/sup&gt; 
+&lt;/i&gt;] over 500 F cm&lt;sup&gt;&#8722;1&lt;/sup&gt; V&lt;sup&gt;&#8722;1&lt;/sup&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt; and current retentions up to 98% over 700 electrochemical switching cycles are presented.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A series of glycolated polythiophenes for use in organic electrochemical transistors (OECTs) is designed and synthesized, differing in the distribution of their ethylene glycol chains that are tethered to the conjugated backbone. While side chain redistribution does not have a significant impact on the optoelectronic properties of the polymers, this molecular engineering strategy strongly impacts the water uptake achieved in the polymers. By careful optimization of the water uptake in the polymer films, OECTs with unprecedented steady&#8208;state performances in terms of [&lt;i&gt;&#956;C&lt;sup&gt;*&lt;/sup&gt; 
+&lt;/i&gt;] and current retentions up to 98% over 700 electrochemical switching cycles are developed.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Side Chain Redistribution as a Strategy to Boost Organic Electrochemical Transistor Performance and Stability</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002748</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-08-05T01:40:26-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002748</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002748?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002004?af=R">
       <title>Mechanical and Tribological Performances Enhanced by Self&#8208;Assembled Structures</title>
       <dc:description>
@@ -3316,57 +3373,6 @@ Feng Liu
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202002784</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002784?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002251?af=R">
-      <title>An Acoustic Meta&#8208;Skin Insulator</title>
-      <dc:description>
-Underwater acoustic wave confinement in an all&#8208;angle and wide spectrum range can be realized in a meta&#8208;skin insulator due to the tremendous impedance mismatch originating from the stable Cassie&#8211;Baxter state. Acoustic&#8208;wave&#8208;based underwater orbital&#8208;angular&#8208;momentum multiplexing and binary coding are implemented, which is promising for long&#8208;haul and anti&#8208;interference communication. This work also benefits in vivo ultrasound medical treatment and imaging.
-
-
-
-
-
-
-
-
-Abstract
-Acoustic metamaterials with artificial microstructures are attractive to realize intriguing functions, including efficient waveguiding, which requires large impedance mismatches to realize total side reflection with negligible transmission and absorption. While large impedance mismatch can be readily realized in an air environment, acoustic waveguiding in an underwater environment remains elusive due to insufficient impedance mismatch of state&#8208;of&#8208;the&#8208;art metamaterials. Here, a superhydrophobic acoustic metasurface of microstructured poly(vinylidene fluoride) membrane, referred to as a &#8220;meta&#8208;skin&#8221; insulator, which is able to confine acoustic waves in an all&#8208;angle and wide spectrum range due to tremendous impedance mismatch at stable air/water interfaces, viz., the Cassie&#8211;Baxter state is demonstrated. By utilizing the meta&#8208;skin insulator with broadband and high throughput, orbital&#8208;angular&#8208;momentum multiplexing at a high spectral efficiency and binary coding along large&#8208;angle bending channels for bit&#8208;error&#8208;free acoustic data transmission in an underwater environment are demonstrated. Very different from optical and/or electrical cable communications, acoustic waves can be simply and effectively coupled into remote meta&#8208;skin acoustic fibers from free space, which is technologically significant for long&#8208;haul and anti&#8208;interference communication. This work can enlighten many fluidic applications based on efficient waveguiding, such as in vivo ultrasound medical treatment and imaging.
-</dc:description>
-      <dc:creator>
-Lei Tong, 
-Zhu Xiong, 
-Ya&#8208;Xi Shen, 
-Yu&#8208;Gui Peng, 
-Xin&#8208;Yu Huang, 
-Lei Ye, 
-Ming Tang, 
-Fei&#8208;Yan Cai, 
-Hai&#8208;Rong Zheng, 
-Jian&#8208;Bin Xu, 
-Gary J. Cheng, 
-Xue&#8208;Feng Zhu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002251?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7ad11451-cd90-4fda-8047-92bce0420a55/adma202002251-gra-0001-m.png"
-     alt="An Acoustic Meta&#8208;Skin Insulator"/&gt;
-&lt;p&gt;Underwater acoustic wave confinement in an all&#8208;angle and wide spectrum range can be realized in a meta&#8208;skin insulator due to the tremendous impedance mismatch originating from the stable Cassie&#8211;Baxter state. Acoustic&#8208;wave&#8208;based underwater orbital&#8208;angular&#8208;momentum multiplexing and binary coding are implemented, which is promising for long&#8208;haul and anti&#8208;interference communication. This work also benefits in vivo ultrasound medical treatment and imaging.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Acoustic metamaterials with artificial microstructures are attractive to realize intriguing functions, including efficient waveguiding, which requires large impedance mismatches to realize total side reflection with negligible transmission and absorption. While large impedance mismatch can be readily realized in an air environment, acoustic waveguiding in an underwater environment remains elusive due to insufficient impedance mismatch of state&#8208;of&#8208;the&#8208;art metamaterials. Here, a superhydrophobic acoustic metasurface of microstructured poly(vinylidene fluoride) membrane, referred to as a &#8220;meta&#8208;skin&#8221; insulator, which is able to confine acoustic waves in an all&#8208;angle and wide spectrum range due to tremendous impedance mismatch at stable air/water interfaces, viz., the Cassie&#8211;Baxter state is demonstrated. By utilizing the meta&#8208;skin insulator with broadband and high throughput, orbital&#8208;angular&#8208;momentum multiplexing at a high spectral efficiency and binary coding along large&#8208;angle bending channels for bit&#8208;error&#8208;free acoustic data transmission in an underwater environment are demonstrated. Very different from optical and/or electrical cable communications, acoustic waves can be simply and effectively coupled into remote meta&#8208;skin acoustic fibers from free space, which is technologically significant for long&#8208;haul and anti&#8208;interference communication. This work can enlighten many fluidic applications based on efficient waveguiding, such as in vivo ultrasound medical treatment and imaging.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>An Acoustic Meta&#8208;Skin Insulator</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002251</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-07-21T11:34:25-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002251</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002251?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
