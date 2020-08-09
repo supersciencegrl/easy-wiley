@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008007?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008962?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007815?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009781?af=R" />
@@ -188,7 +189,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007148?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008361?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009441?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009792?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006212?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004310?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202005946?af=R" />
@@ -215,6 +215,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008007?af=R">
+      <title>Disulfide&#8208;linked allosteric modulators for multi&#8208;cycle kinetic control of DNA&#8208;based nanodevices</title>
+      <dc:description>Nature employs sulfur switches, i.e. redox&#8208;active disulfides, to kinetically control biological pathways in a highly efficient and reversible way. Inspired by this mechanism we describe here a DNA&#8208;based synthetic nanodevice that acts as a sulfur switch and can be temporally controlled though redox regulation. To do this we rationally designed disulfide DNA strands (modulators) that hybridize to a ligand&#8208;binding DNA nanodevice and act as redox&#8208;active allosteric regulators inducing the nanodevice to release or load its ligand. Upon reduction, the allosteric modulator spontaneously de&#8208;hybridizes from the nanodevice and, as a result, its effect is transient. The system is reversible and has an unprecedented high tolerance to waste products and displays transient behavior for over 40 cycles without significant loss of efficiency. Kinetic control of DNA&#8208;based ligand&#8208;binding nanodevices through purely chemical reactions paves the way for temporal regulation of more complex chemical pathways.</dc:description>
+      <dc:creator>
+Erica Del Grosso, 
+Irene Ponzo, 
+Giulio Ragazzon, 
+Leonard  J. Prins, 
+Francesco Ricci
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008007?af=R</link>
+      <content:encoded>&lt;p&gt;Nature employs sulfur switches, i.e. redox&#8208;active disulfides, to kinetically control biological pathways in a highly efficient and reversible way. Inspired by this mechanism we describe here a DNA&#8208;based synthetic nanodevice that acts as a sulfur switch and can be temporally controlled though redox regulation. To do this we rationally designed disulfide DNA strands (modulators) that hybridize to a ligand&#8208;binding DNA nanodevice and act as redox&#8208;active allosteric regulators inducing the nanodevice to release or load its ligand. Upon reduction, the allosteric modulator spontaneously de&#8208;hybridizes from the nanodevice and, as a result, its effect is transient. The system is reversible and has an unprecedented high tolerance to waste products and displays transient behavior for over 40 cycles without significant loss of efficiency. Kinetic control of DNA&#8208;based ligand&#8208;binding nanodevices through purely chemical reactions paves the way for temporal regulation of more complex chemical pathways.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Disulfide&#8208;linked allosteric modulators for multi&#8208;cycle kinetic control of DNA&#8208;based nanodevices</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008007</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-08T07:34:03-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008007</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008007?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202008962?af=R">
       <title>Zeolite&#8208;Encaged Pd&#8208;Mn Nanocatalysts for CO2 Hydrogenation and Formic Acid Dehydrogenation</title>
       <dc:description>CO2&#8208;mediated hydrogen storage energy cycle is a promising way to implement the hydrogen economy, but the exploration of efficient catalysts to achieve this process remains challenging. Herein, sub&#8208;nanometer Pd&#8208;Mn clusters were encaged within silicalite&#8208;1 (S&#8208;1) zeolites by a ligand&#8208;protected method under direct hydrothermal conditions. The obtained zeolite&#8208;encaged metallic nanocatalysts exhibited extraordinary catalytic activity and durability in both CO2 hydrogenation into formate and formic acid (FA) dehydrogenation back to CO2 and hydrogen. Thanks to the formation of ultrasmall metal clusters and the synergic effect of bi&#8208;metallic components, the PdMn0.6@S&#8208;1 catalyst afforded a formate generation rate of 2151 molformate molPd&#8208;1 h&#8208;1 at 353 K, and an initial turnover frequency of 6860 molH2 molPd&#8208;1 h&#8208;1 for CO&#8208;free FA decomposition at 333 K without any additive. Both values represent the top levels among the state&#8208;of&#8208;the&#8208;art heterogeneous catalysts under similar conditions. This work demonstrates that zeolite&#8208;encaged metallic catalysts hold great promise to realize CO2&#8208;mediated hydrogen energy cycles in the future featuring fast charging and releasing kinetics.</dc:description>
@@ -2008,31 +2031,6 @@ guohong zou
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009441</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009441?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009792?af=R">
-      <title>Enzyme&#8208;inspired room&#8208;temperature lithium&#8208;oxygen chemistry via reversible cleavage and formation of dioxygen bonds</title>
-      <dc:description>Lithium&#8208;oxygen (Li&#8208;O  2  ) batteries are considered as one of the most promising energy storage systems due to their ultra&#8208;high theoretical capacity. However, most currently studied Li&#8208;O  2  batteries are based on the reduction/oxidation of Li  2  O  2  and involve highly reactive superoxide and peroxide species that would cause serious degradation of cathodes, especially carbon&#8208;based materials. It is of great importance to explore lithium&#8208;oxygen reactions and find new Li&#8208;O  2  chemistry which can restrict or even avoid the negative influence of superoxide/peroxide species. Here, inspired by enzyme&#8208;catalyzed oxygen reduction/oxidation reactions, we introduce a copper(I) complex 3N&#8208;Cu  I  (3N=1,4,7&#8208;trimethyl&#8208;1,4,7&#8208;triazacyclononane) to Li&#8208;O  2  batteries and successfully modulate the reaction pathway to a moderate one on reversible cleavage/formation of O&#8208;O bonds. This work demonstrates that the reaction pathways of Li&#8208;O  2  batteries could be modulated by introducing an appropriate soluble catalyst, which is another powerful choice to construct better Li&#8208;O  2  batteries.</dc:description>
-      <dc:creator>
-Chengyi Wang, 
-Zihe Zhang, 
-Weiwei Liu, 
-Qinming Zhang, 
-Xin-Gai Wang, 
-Zhaojun Xie, 
-Zhen Zhou
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009792?af=R</link>
-      <content:encoded>&lt;p&gt;Lithium&#8208;oxygen (Li&#8208;O  2  ) batteries are considered as one of the most promising energy storage systems due to their ultra&#8208;high theoretical capacity. However, most currently studied Li&#8208;O  2  batteries are based on the reduction/oxidation of Li  2  O  2  and involve highly reactive superoxide and peroxide species that would cause serious degradation of cathodes, especially carbon&#8208;based materials. It is of great importance to explore lithium&#8208;oxygen reactions and find new Li&#8208;O  2  chemistry which can restrict or even avoid the negative influence of superoxide/peroxide species. Here, inspired by enzyme&#8208;catalyzed oxygen reduction/oxidation reactions, we introduce a copper(I) complex 3N&#8208;Cu  I  (3N=1,4,7&#8208;trimethyl&#8208;1,4,7&#8208;triazacyclononane) to Li&#8208;O  2  batteries and successfully modulate the reaction pathway to a moderate one on reversible cleavage/formation of O&#8208;O bonds. This work demonstrates that the reaction pathways of Li&#8208;O  2  batteries could be modulated by introducing an appropriate soluble catalyst, which is another powerful choice to construct better Li&#8208;O  2  batteries.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Enzyme&#8208;inspired room&#8208;temperature lithium&#8208;oxygen chemistry via reversible cleavage and formation of dioxygen bonds</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009792</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-08-03T09:54:24-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009792</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009792?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
