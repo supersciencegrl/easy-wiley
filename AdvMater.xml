@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003920?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003264?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003493?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001890?af=R" />
@@ -143,7 +144,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002811?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001284?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002702?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002570?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -152,6 +152,52 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202003920?af=R">
+      <title>Redistributing Li&#8208;Ion Flux by Parallelly Aligned Holey Nanosheets for Dendrite&#8208;Free Li Metal Anodes</title>
+      <dc:description>
+Parallelly aligned holey 2D materials on a lithium metal anode are designed to redistribute nonuniform Li&#8208;ion flux both in the electrolyte and in the solid&#8208;electrolyte interphase, as well as to provide fast Li&#8208;ion transport. The protected Li anode achieves ultralong lifetime with low overpotential at a high rate with high capacity.
+
+
+
+
+
+
+
+
+Abstract
+Li metal is the most ideal anode material to assemble rechargeable batteries with high energy density. However, nonuniform Li&#8208;ion flux during repeated Li plating and stripping leads to continuous Li dendrite growth and dead Li formation, which causes safety risks and short lifetime and thus impedes the commercialization of Li metal batteries. Here, parallelly aligned holey nanosheets on a Li metal anode are reported to simultaneously redistribute the Li&#8208;ion flux in the electrolyte and in the solid&#8208;electrolyte interphase, which allows uniform Li&#8208;ion distribution as well as fast Li&#8208;ion diffusion for reversible Li plating and stripping. With holey MgO nanosheets as an example, the protected Li anodes achieve Coulombic efficiency of &#8776;99% and ultralong&#8208;term reversible Li plating/stripping over 2500 h at a high current density of 10 mA cm&#8722;2. A full&#8208;cell battery, using the protected anode, a 4 V Li&#8208;ion cathode, and a commercial carbonate electrolyte, shows capacity retention of 90.9% after 500 cycles.
+</dc:description>
+      <dc:creator>
+Yangen Zhou, 
+Xiao Zhang, 
+Yu Ding, 
+Jiwoong Bae, 
+Xuelin Guo, 
+Yu Zhao, 
+Guihua Yu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003920?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/62c894ff-bdcb-4167-b58d-9a6d2aaf8414/adma202003920-gra-0001-m.png"
+     alt="Redistributing Li&#8208;Ion Flux by Parallelly Aligned Holey Nanosheets for Dendrite&#8208;Free Li Metal Anodes"/&gt;
+&lt;p&gt;Parallelly aligned holey 2D materials on a lithium metal anode are designed to redistribute nonuniform Li&#8208;ion flux both in the electrolyte and in the solid&#8208;electrolyte interphase, as well as to provide fast Li&#8208;ion transport. The protected Li anode achieves ultralong lifetime with low overpotential at a high rate with high capacity.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Li metal is the most ideal anode material to assemble rechargeable batteries with high energy density. However, nonuniform Li&#8208;ion flux during repeated Li plating and stripping leads to continuous Li dendrite growth and dead Li formation, which causes safety risks and short lifetime and thus impedes the commercialization of Li metal batteries. Here, parallelly aligned holey nanosheets on a Li metal anode are reported to simultaneously redistribute the Li&#8208;ion flux in the electrolyte and in the solid&#8208;electrolyte interphase, which allows uniform Li&#8208;ion distribution as well as fast Li&#8208;ion diffusion for reversible Li plating and stripping. With holey MgO nanosheets as an example, the protected Li anodes achieve Coulombic efficiency of &#8776;99% and ultralong&#8208;term reversible Li plating/stripping over 2500 h at a high current density of 10 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;. A full&#8208;cell battery, using the protected anode, a 4 V Li&#8208;ion cathode, and a commercial carbonate electrolyte, shows capacity retention of 90.9% after 500 cycles.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Redistributing Li&#8208;Ion Flux by Parallelly Aligned Holey Nanosheets for Dendrite&#8208;Free Li Metal Anodes</dc:title>
+      <dc:identifier>doi:10.1002/adma.202003920</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-08-12T11:25:40-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202003920</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003920?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202003264?af=R">
       <title>Zeolite (In)Stability under Aqueous or Steaming Conditions</title>
       <dc:description>
@@ -3651,60 +3697,6 @@ Lei Wei
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202002702</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002702?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202002570?af=R">
-      <title>Fabricating 3D Metastructures by Simultaneous Modulation of Flexible Resist Stencils and Basal Molds</title>
-      <dc:description>
-Orthotropic control of resist stencils and basal molds is developed to realize high&#8208;resolution true triaxial fabrication of 3D metastructures. New strategies to modulate the basal mold with high precision are realized by a controlled annealing process. A new alignment technique is also introduced to stacking the 3D metastructures with high addressability.
-
-
-
-
-
-
-
-
-Abstract
-Metamaterials have gained much attention thanks to their extraordinary and intriguing optical properties beyond natural materials. However, universal high&#8208;resolution fabrications of 3D micro/nanometastructures with high&#8208;resolution remain a challenge. Here, a novel approach to fabricate sophisticated 3D micro/nanostructures with excellent robustness and precise controllability is demonstrated by simultaneously modulating of flexible resist stencils and basal molds. This method allows arbitrary manipulations of morphology, size, and orientation, as well as contact angles of the objects. Combined with a new alignment strategy of high&#8208;resolution, previously inaccessible architectures are fabricated with ultrahigh precision, leading to an excellent spectra response from the fabricated metastructures. This method provides a new possibility to realize true 3D metamaterial fabrications featuring high&#8208;resolution and direct&#8208;compatibility with broad planar lithography platforms.
-</dc:description>
-      <dc:creator>
-Hongbing Cai, 
-Qiushi Meng, 
-Qiang Chen, 
-Huaiyi Ding, 
-Yanmeng Dai, 
-Sijia Li, 
-Disheng Chen, 
-Qinghai Tan, 
-Nan Pan, 
-Changgan Zeng, 
-Zeming Qi, 
-Gang Liu, 
-Yangchao Tian, 
-Weibo Gao, 
-Xiaoping Wang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002570?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6aec329f-a81d-44a7-88fa-fd8020e344d1/adma202002570-gra-0001-m.png"
-     alt="Fabricating 3D Metastructures by Simultaneous Modulation of Flexible Resist Stencils and Basal Molds"/&gt;
-&lt;p&gt;Orthotropic control of resist stencils and basal molds is developed to realize high&#8208;resolution true triaxial fabrication of 3D metastructures. New strategies to modulate the basal mold with high precision are realized by a controlled annealing process. A new alignment technique is also introduced to stacking the 3D metastructures with high addressability.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Metamaterials have gained much attention thanks to their extraordinary and intriguing optical properties beyond natural materials. However, universal high&#8208;resolution fabrications of 3D micro/nanometastructures with high&#8208;resolution remain a challenge. Here, a novel approach to fabricate sophisticated 3D micro/nanostructures with excellent robustness and precise controllability is demonstrated by simultaneously modulating of flexible resist stencils and basal molds. This method allows arbitrary manipulations of morphology, size, and orientation, as well as contact angles of the objects. Combined with a new alignment strategy of high&#8208;resolution, previously inaccessible architectures are fabricated with ultrahigh precision, leading to an excellent spectra response from the fabricated metastructures. This method provides a new possibility to realize true 3D metamaterial fabrications featuring high&#8208;resolution and direct&#8208;compatibility with broad planar lithography platforms.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Fabricating 3D Metastructures by Simultaneous Modulation of Flexible Resist Stencils and Basal Molds</dc:title>
-      <dc:identifier>doi:10.1002/adma.202002570</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-07-26T10:48:05-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202002570</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002570?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
