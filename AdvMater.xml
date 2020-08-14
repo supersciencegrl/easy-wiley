@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002425?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003980?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002973?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002504?af=R" />
@@ -143,7 +144,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003213?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001989?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002559?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001994?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -152,6 +152,48 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002425?af=R">
+      <title>Better, Faster, and Less Biased Machine Learning: Electromechanical Switching in Ferroelectric Thin Films</title>
+      <dc:description>
+A fast, easily implementable approach to improve the interpretability of machine&#8208;learning analyses in materials science is demonstrated. Systematic application of techniques and parameter selection curtails the influence of overinterpretation, reduces user bias, and ultimately improves the quality of such studies. Previously identified exotic phenomena in ferroelectric films can be thus well described by classic ferroelectric and non&#8208;ferroelectric phenomena.
+
+
+
+
+
+
+
+
+Abstract
+Machine&#8208;learning techniques are more and more often applied to the analysis of complex behaviors in materials research. Frequently used to identify fundamental behaviors within large and multidimensional datasets, these techniques are strictly based on mathematical models. Thus, without inherent physical or chemical meaning or constraints, they are prone to biased interpretation. The interpretability of machine&#8208;learning results in materials science, specifically materials&#8217; functionalities, can be vastly improved through physical insights and careful data handling. The use of techniques such as dimensional stacking can provide the much needed physical and chemical constraints, while proper understanding of the assumptions imposed by model parameters can help avoid overinterpretation. These concepts are illustrated by application to recently reported ferroelectric switching experiments in PbZr0.2Ti0.8O3 thin films. Through systematic analysis and introduction of physical constraints, it is argued that the behaviors present are not necessarily due to exotic mechanisms previously suggested, but rather well described by classical ferroelectric switching superimposed by non&#8208;ferroelectric phenomena, such as electrochemical deformation, electrostatic interactions, and/or charge injection.
+</dc:description>
+      <dc:creator>
+Lee A. Griffin, 
+Iaroslav Gaponenko, 
+Nazanin Bassiri&#8208;Gharb
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002425?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/0deeeaad-39b3-4f77-9402-5e178cae2d8a/adma202002425-gra-0001-m.png"
+     alt="Better, Faster, and Less Biased Machine Learning: Electromechanical Switching in Ferroelectric Thin Films"/&gt;
+&lt;p&gt;A fast, easily implementable approach to improve the interpretability of machine&#8208;learning analyses in materials science is demonstrated. Systematic application of techniques and parameter selection curtails the influence of overinterpretation, reduces user bias, and ultimately improves the quality of such studies. Previously identified exotic phenomena in ferroelectric films can be thus well described by classic ferroelectric and non&#8208;ferroelectric phenomena.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Machine&#8208;learning techniques are more and more often applied to the analysis of complex behaviors in materials research. Frequently used to identify fundamental behaviors within large and multidimensional datasets, these techniques are strictly based on mathematical models. Thus, without inherent physical or chemical meaning or constraints, they are prone to biased interpretation. The interpretability of machine&#8208;learning results in materials science, specifically materials&#8217; functionalities, can be vastly improved through physical insights and careful data handling. The use of techniques such as dimensional stacking can provide the much needed physical and chemical constraints, while proper understanding of the assumptions imposed by model parameters can help avoid overinterpretation. These concepts are illustrated by application to recently reported ferroelectric switching experiments in PbZr&lt;sub&gt;0.2&lt;/sub&gt;Ti&lt;sub&gt;0.8&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; thin films. Through systematic analysis and introduction of physical constraints, it is argued that the behaviors present are not necessarily due to exotic mechanisms previously suggested, but rather well described by classical ferroelectric switching superimposed by non&#8208;ferroelectric phenomena, such as electrochemical deformation, electrostatic interactions, and/or charge injection.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Better, Faster, and Less Biased Machine Learning: Electromechanical Switching in Ferroelectric Thin Films</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002425</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-08-14T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002425</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002425?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202003980?af=R">
       <title>Imidazolium&#8208;Functionalized Diacetylene Amphiphiles: Strike a Lighter and Wear Polaroid Glasses to Decipher the Secret Code</title>
       <dc:description>
@@ -3642,51 +3684,6 @@ Jihong Yu
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202002559</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002559?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Progress Report</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001994?af=R">
-      <title>Optical Forces: From Fundamental to Biological Applications</title>
-      <dc:description>
-Optical forces form the basis for optical trapping and manipulation and are of critical importance in various disciplines from fundamental research to practical applications. Advances in optical forces have made significant impacts for biological exploration both in vitro and in vivo, with applications from individual manipulation and analysis to multiple assembly and detection.
-
-
-
-
-
-
-
-
-Abstract
-Optical forces, generally arising from changes of field gradients or linear momentum carried by photons, form the basis for optical trapping and manipulation. Advances in optical forces help to reveal the nature of light&#8211;matter interactions, giving answers to a wide range of questions and solving problems across various disciplines, and are still yielding new insights in many exciting sciences, particularly in the fields of biological technology, material applications, and quantum sciences. This review focuses on recent advances in optical forces, ranging from fundamentals to applications for biological exploration. First, the basics of different types of optical forces with new light&#8211;matter interaction mechanisms and near&#8208;field techniques for optical force generation beyond the diffraction limit with nanometer accuracy are described. Optical forces for biological applications from in vitro to in vivo are then reviewed. Applications from individual manipulation to multiple assembly into functional biophotonic probes and soft&#8208;matter superstructures are discussed. At the end future directions for application of optical forces for biological exploration are provided.
-</dc:description>
-      <dc:creator>
-Hongbao Xin, 
-Yuchao Li, 
-Yong&#8208;Chun Liu, 
-Yao Zhang, 
-Yun&#8208;Feng Xiao, 
-Baojun Li
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001994?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/788378d7-0d83-4b22-a87c-f5eb746a7f02/adma202001994-gra-0001-m.png"
-     alt="Optical Forces: From Fundamental to Biological Applications"/&gt;
-&lt;p&gt;Optical forces form the basis for optical trapping and manipulation and are of critical importance in various disciplines from fundamental research to practical applications. Advances in optical forces have made significant impacts for biological exploration both in vitro and in vivo, with applications from individual manipulation and analysis to multiple assembly and detection.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Optical forces, generally arising from changes of field gradients or linear momentum carried by photons, form the basis for optical trapping and manipulation. Advances in optical forces help to reveal the nature of light&#8211;matter interactions, giving answers to a wide range of questions and solving problems across various disciplines, and are still yielding new insights in many exciting sciences, particularly in the fields of biological technology, material applications, and quantum sciences. This review focuses on recent advances in optical forces, ranging from fundamentals to applications for biological exploration. First, the basics of different types of optical forces with new light&#8211;matter interaction mechanisms and near&#8208;field techniques for optical force generation beyond the diffraction limit with nanometer accuracy are described. Optical forces for biological applications from in vitro to in vivo are then reviewed. Applications from individual manipulation to multiple assembly into functional biophotonic probes and soft&#8208;matter superstructures are discussed. At the end future directions for application of optical forces for biological exploration are provided.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Optical Forces: From Fundamental to Biological Applications</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001994</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-07-26T10:50:34-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001994</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001994?af=R</prism:url>
       <prism:copyright />
       <prism:section>Progress Report</prism:section>
    </item>
