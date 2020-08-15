@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008757?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008110?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009329?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008100?af=R" />
@@ -211,7 +212,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202002723?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007039?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009216?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010019?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -220,6 +220,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008757?af=R">
+      <title>Fluorescence Quenching Effects of Tetrazines and Their Diels&#8208;Alder Products: Mechanistic Insight Toward Fluorogenic Efficiency</title>
+      <dc:description>Inverse electron demand Diels&#8211;Alder (iedDA) reactions between  s  &#8208;tetrazines and strained dienophiles have numerous applications in chemical biology and materials science. Tetrazines most often quench the emission of pendant fluorophores. This effect, however, is diminished upon iedDA, leading to the formation of emissive products with important applications in fluorescence labelling of biomolecules. Herein we investigate the effect of the dienophile on the fluorescence enhancement obtained upon reaction with a tetrazine&#8208;quenched fluorophore and study the possible mechanisms of fluorescence quenching by both the tetrazine and its reaction products through a combination of linear and ultrabroadband two&#8208;dimensional electronic spectroscopy (2D ES) experiments. The dihydropyridazine product obtained from reaction of the tetrazine with a strained cyclooctene shows a residual fluorescence quenching effect, greater than that exerted by the pyridazine arising from reaction of the tetrazine with the analogous alkyne. Ultrabroadband 2D ES measurements reveal that resonance energy transfer is the mechanism responsible for the fluorescence quenching effect of tetrazines, whereas a mechanism involving more intimate electronic coupling, most likely photoinduced electron transfer, is responsible for the quenching effect of the dihydropyridazine. These studies uncover parameters that can be tuned to maximize fluorogenic efficiency in bioconjugation reactions and they reveal that strained alkenes, though optimal for fast kinetics, are not the best reaction partners for achieving maximum contrast ratio in fluorescence labeling.</dc:description>
+      <dc:creator>
+Brismar Pinto-Pacheco, 
+William  Paul Carbery, 
+Sameer Khan, 
+Daniel  B Turner, 
+Daniela Buccella
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008757?af=R</link>
+      <content:encoded>&lt;p&gt;Inverse electron demand Diels&#8211;Alder (iedDA) reactions between  s  &#8208;tetrazines and strained dienophiles have numerous applications in chemical biology and materials science. Tetrazines most often quench the emission of pendant fluorophores. This effect, however, is diminished upon iedDA, leading to the formation of emissive products with important applications in fluorescence labelling of biomolecules. Herein we investigate the effect of the dienophile on the fluorescence enhancement obtained upon reaction with a tetrazine&#8208;quenched fluorophore and study the possible mechanisms of fluorescence quenching by both the tetrazine and its reaction products through a combination of linear and ultrabroadband two&#8208;dimensional electronic spectroscopy (2D ES) experiments. The dihydropyridazine product obtained from reaction of the tetrazine with a strained cyclooctene shows a residual fluorescence quenching effect, greater than that exerted by the pyridazine arising from reaction of the tetrazine with the analogous alkyne. Ultrabroadband 2D ES measurements reveal that resonance energy transfer is the mechanism responsible for the fluorescence quenching effect of tetrazines, whereas a mechanism involving more intimate electronic coupling, most likely photoinduced electron transfer, is responsible for the quenching effect of the dihydropyridazine. These studies uncover parameters that can be tuned to maximize fluorogenic efficiency in bioconjugation reactions and they reveal that strained alkenes, though optimal for fast kinetics, are not the best reaction partners for achieving maximum contrast ratio in fluorescence labeling.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Fluorescence Quenching Effects of Tetrazines and Their Diels&#8208;Alder Products: Mechanistic Insight Toward Fluorogenic Efficiency</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008757</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-08-15T08:01:08-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008757</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008757?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202008110?af=R">
       <title>Hydrogen&#8208;Bonding&#8208;Promoted Cascade Rearrangement Involving the Enlargement of Two Rings: Efficient Access to Polycyclic Quinoline Derivatives</title>
       <dc:description>An efficient cascade reaction of tryptamine&#8208;derived isocyanides with C,N&#8208;cyclic azomethine imines is described. The polycyclic pyrrolo[2,3&#8208;  c  ]quinoline derivatives, which benefited from rearrangement process driven by hydrogen bonding, could be directly assembled in moderate to good yields (40&#8208;87%) under metal&#8208;free and mild conditions. This transformation involved four new heterocyclic rings formations and uniquely, ring opening of indole as well as ring expansion of C,N&#8208;cyclic azomethine imine. Both experimental and DFT studies provided guidance on the in&#8208;depth insight into the reaction pathways and hydrogen bonding was identified to lower the free energy barrier in transition states. This work constitutes a rare example of tryptamine&#8208;derived isocyanide&#8208;based cascade reactions, and potentially could be a powerful synthetic strategy for accessing polycyclic analogues involved in natural products.</dc:description>
@@ -1931,28 +1954,6 @@ Hans-Achim Wagenknecht
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202009216</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009216?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202010019?af=R">
-      <title>A highly Lewis&#8208;acidic Strontium ansa&#8208;Arene Complex for Lewis&#8208;acid Catalysis and Isobutylene Polymerization</title>
-      <dc:description>The potential of a dicationic strontium  ansa  &#8208;arene complex for Lewis&#8208;acid catalysis has been explored. The key to its synthesis was a simple salt metathesis from SrI  2  and 2 Ag[Al(OR  F  )  4  ] giving the base&#8208;free strontium&#8208;perfluoroalkoxyaluminate Sr[Al(OR  F  )  4  ]  2  (OR  F  = OC(CF  3  )  3  ). Addition of the  ansa  &#8208;arene yielded the highly Lewis&#8208;acidic, dicationic strontium  ansa  &#8208;arene complex. In preliminary experiments, it was successfully applied as catalyst in a CO  2  &#8208;reduction to CH  4  and a surprisingly controlled isobutylene polymerization.</dc:description>
-      <dc:creator>
-Philipp Dabringhaus, 
-Marcel Schorpp, 
-Harald Scherer, 
-Ingo Krossing
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010019?af=R</link>
-      <content:encoded>&lt;p&gt;The potential of a dicationic strontium  ansa  &#8208;arene complex for Lewis&#8208;acid catalysis has been explored. The key to its synthesis was a simple salt metathesis from SrI  2  and 2 Ag[Al(OR  F  )  4  ] giving the base&#8208;free strontium&#8208;perfluoroalkoxyaluminate Sr[Al(OR  F  )  4  ]  2  (OR  F  = OC(CF  3  )  3  ). Addition of the  ansa  &#8208;arene yielded the highly Lewis&#8208;acidic, dicationic strontium  ansa  &#8208;arene complex. In preliminary experiments, it was successfully applied as catalyst in a CO  2  &#8208;reduction to CH  4  and a surprisingly controlled isobutylene polymerization.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A highly Lewis&#8208;acidic Strontium ansa&#8208;Arene Complex for Lewis&#8208;acid Catalysis and Isobutylene Polymerization</dc:title>
-      <dc:identifier>doi:10.1002/anie.202010019</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-08-10T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202010019</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010019?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
