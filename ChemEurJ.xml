@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003463?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002854?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003743?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003459?af=R" />
@@ -168,7 +169,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002026?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001036?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000972?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003366?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -177,6 +177,29 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202003463?af=R">
+      <title>Strategies for 1H&#8208;detected dynamic nuclear polarisation magic&#8208;angle spinning NMR</title>
+      <dc:description>Combining dynamic nuclear polarization with proton detection significantly enhances the sensitivity of magic&#8208;angle spinning NMR. Here we demonstrate the feasibility of proton&#8208; detected experiments with slow (10 kHz) magic angle spinning. The improvement in sensitivity permits the acquisition of indirectly detected &#160;14N spectra allowing biomolecular structures to be characterized without recourse to isotope labelling. This provides a new tool for the structural characterization of environmental and medical samples where isotope labelling is frequently intractable.</dc:description>
+      <dc:creator>
+Maria Concistr&#233;, 
+Subhradip Paul, 
+Marina Carravetta, 
+Ilya Kuprov, 
+Philip  T. F. Williamson
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003463?af=R</link>
+      <content:encoded>&lt;p&gt;Combining dynamic nuclear polarization with proton detection significantly enhances the sensitivity of magic&#8208;angle spinning NMR. Here we demonstrate the feasibility of proton&#8208; detected experiments with slow (10 kHz) magic angle spinning. The improvement in sensitivity permits the acquisition of indirectly detected &#160;14N spectra allowing biomolecular structures to be characterized without recourse to isotope labelling. This provides a new tool for the structural characterization of environmental and medical samples where isotope labelling is frequently intractable.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Strategies for 1H&#8208;detected dynamic nuclear polarisation magic&#8208;angle spinning NMR</dc:title>
+      <dc:identifier>doi:10.1002/chem.202003463</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-08-22T01:29:39-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202003463</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003463?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202002854?af=R">
       <title>Photochemistry in real space: batho&#8208; and hypsochromism in the water dimer</title>
       <dc:description>The development of chemical intuition in photochemistry faces several difficulties which result from the inadequacy of the one&#8208;particle picture, the Born&#8208;Oppenheimer approximation, and other basic notions used to build models. We show herein how real space approaches can be efficiently used to get valuables insights in photochemistry via a simple example of red and blue shift effects: the double hypso&#8208; and bathochromic shift in the low&#8208;lying valence excited states of (H2O) 2 . We demonstrate that (i) the use of these techniques allows to maintain the perturbative language used in the theory of intermolecular interactions even in the strongly interacting short&#8208;range regime; (ii) that it is one and only one molecule that gets photoexcited in each of the addressed excited states and (iii) that the electrostatic interaction
@@ -2163,27 +2186,4 @@ Nina  P. Gritsan
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003366?af=R">
-      <title>Growth of giant peptide vesicles driven by compartmentalized transcription&#8208;translation activity</title>
-      <dc:description>Compartmentalization and spatial organization of biochemical reactions are essential for the establishment of complex metabolic pathways inside synthetic cells. Phospholipid and fatty acid membranes are the most natural candidates for this purpose, but also polymers have shown great potential as enclosures of artificial cell mimics. Here, we report on the formation of giant vesicles in a size range of 1&#160;&#181;m&#160;&#8208;&#160;100&#160;&#181;m using amphiphilic elastin&#8208;like polypeptides. The peptide vesicles can accommodate cell&#8208;free gene expression reactions, which is demonstrated by the transcription of a fluorescent RNA aptamer and the production of a fluorescent protein. Importantly, gene expression inside the vesicles leads to a strong growth of their size &#8211; up to an order of magnitude in volume in several cases &#8208;, which is driven by changes in osmotic pressure, resulting in fusion events and uptake of membrane peptides from the environment.</dc:description>
-      <dc:creator>
-Thomas Frank, 
-Kilian Vogele, 
-Aurore Dupin, 
-Friedrich  Christian Simmel, 
-Tobias Pirzer
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003366?af=R</link>
-      <content:encoded>&lt;p&gt;Compartmentalization and spatial organization of biochemical reactions are essential for the establishment of complex metabolic pathways inside synthetic cells. Phospholipid and fatty acid membranes are the most natural candidates for this purpose, but also polymers have shown great potential as enclosures of artificial cell mimics. Here, we report on the formation of giant vesicles in a size range of 1&#160;&#181;m&#160;&#8208;&#160;100&#160;&#181;m using amphiphilic elastin&#8208;like polypeptides. The peptide vesicles can accommodate cell&#8208;free gene expression reactions, which is demonstrated by the transcription of a fluorescent RNA aptamer and the production of a fluorescent protein. Importantly, gene expression inside the vesicles leads to a strong growth of their size &#8211; up to an order of magnitude in volume in several cases &#8208;, which is driven by changes in osmotic pressure, resulting in fusion events and uptake of membrane peptides from the environment.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Growth of giant peptide vesicles driven by compartmentalized transcription&#8208;translation activity</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003366</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-08-10T12:00:00-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003366</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003366?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
