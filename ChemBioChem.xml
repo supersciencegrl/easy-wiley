@@ -1,14 +1,16 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://w3.org/1999/02/22-rdf-syntax-ns#">
-   <channel rdf:about="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R">
+   <channel rdf:about="https://onlinelibrary.wiley.com/journal/14397633?af=R">
       <title>ChemBioChem (no repeats)</title>
       <description>Table of Contents for ChemBioChem. List of articles from both the latest and EarlyView issues.</description>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
+      <link>https://onlinelibrary.wiley.com/journal/14397633?af=R</link>
       <dc:title>ChemBioChem (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000351?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000316?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000445?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000458?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000359?af=R" />
@@ -130,7 +132,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000264?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000402?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000351?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000263?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000317?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000236?af=R" />
@@ -145,15 +146,36 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000262?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000289?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000287?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000319?af=R" />
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg">
+   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg">
       <title>ChemBioChem</title>
-      <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
+      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
+      <link>https://onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000316?af=R">
+      <title>Artificial enzymes for Diels&#8208;Alder reactions</title>
+      <dc:description>Diels&#8208;Alder (DA) reaction is a cycloaddition of a conjugated diene and an alkene (dienophile) leading to the formation of a cyclohexene derivative&#160;  via  &#160;a concerted mechanism.&#160; As DA reaction generally proceeds with a high degree of regio&#8208; and stereoselectivity, it is widely used in synthetic organic chemistry. &#160;Considering eco&#8208;conscious public and governmental movements, efforts are directed towards the development of industrial processes that meet environmental&#160; concern s. Artificial enzymes, that can be developed to catalyze abiotic reactions, appear as important synthetic tools of synthetic biology field. This review describes the different strategies used for developing protein &#8208;based artificial enzymes for DA reaction, including for&#160;  in cellulo  &#160;  or in vivo  &#160;approaches.</dc:description>
+      <dc:creator>
+Wadih Ghattas, 
+Jean-Pierre Mahy, 
+Marius R&#233;glier, 
+A. Jalila Simaan
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000316?af=R</link>
+      <content:encoded>&lt;p&gt;Diels&#8208;Alder (DA) reaction is a cycloaddition of a conjugated diene and an alkene (dienophile) leading to the formation of a cyclohexene derivative&#160;  via  &#160;a concerted mechanism.&#160; As DA reaction generally proceeds with a high degree of regio&#8208; and stereoselectivity, it is widely used in synthetic organic chemistry. &#160;Considering eco&#8208;conscious public and governmental movements, efforts are directed towards the development of industrial processes that meet environmental&#160; concern s. Artificial enzymes, that can be developed to catalyze abiotic reactions, appear as important synthetic tools of synthetic biology field. This review describes the different strategies used for developing protein &#8208;based artificial enzymes for DA reaction, including for&#160;  in cellulo  &#160;  or in vivo  &#160;approaches.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Artificial enzymes for Diels&#8208;Alder reactions</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000316</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-08-27T05:12:45-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000316</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000316?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000458?af=R">
       <title>Enhancing Biosynthesis and Manipulating Flux in Whole Cells with Abiotic Catalysis</title>
       <dc:description>Metabolic engineering uses genetic strategies to drive flux through desired pathways. Recent work with electrochemical, photochemical, and chemocatalytic setups has revealed that these systems can also expand metabolic pathways and manipulate flux in whole cells. Electrochemical systems add or remove electrons from metabolic pathways to direct flux to more or less reduced products. Photochemical systems act as synthetic light harvesting complexes and yield artificial photosynthetic organisms. Biocompatible chemocatalysis increases product scope, streamlines syntheses, and yields single&#8208;flask processes that deliver products that would be challenging to synthesize through biosynthetic means alone. Here, we exclusively highlight systems that combine abiotic systems with living whole cells, taking particular note of strategies that enable the merger of these typically disparate systems.</dc:description>
@@ -161,7 +183,7 @@
 Kelsey  N. Stewart, 
 Dylan  W. Domaille
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000458?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000458?af=R</link>
       <content:encoded>&lt;p&gt;Metabolic engineering uses genetic strategies to drive flux through desired pathways. Recent work with electrochemical, photochemical, and chemocatalytic setups has revealed that these systems can also expand metabolic pathways and manipulate flux in whole cells. Electrochemical systems add or remove electrons from metabolic pathways to direct flux to more or less reduced products. Photochemical systems act as synthetic light harvesting complexes and yield artificial photosynthetic organisms. Biocompatible chemocatalysis increases product scope, streamlines syntheses, and yields single&#8208;flask processes that deliver products that would be challenging to synthesize through biosynthetic means alone. Here, we exclusively highlight systems that combine abiotic systems with living whole cells, taking particular note of strategies that enable the merger of these typically disparate systems.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Enhancing Biosynthesis and Manipulating Flux in Whole Cells with Abiotic Catalysis</dc:title>
@@ -170,7 +192,7 @@ Dylan  W. Domaille
       <dc:date>2020-08-26T07:00:48-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000458</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000458?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000458?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -190,7 +212,7 @@ Michael K. Wendt,
 Paul J. Galardy, 
 Daniel P. Flaherty
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000493?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000493?af=R</link>
       <content:encoded />
       <description>ChemBioChem, EarlyView. </description>
       <dc:title>Corrigendum: Ubiquitin C&#8208;Terminal Hydrolase L1: Biochemical and Cellular Characterization of a Covalent Cyanopyrrolidine&#8208;Based Inhibitor</dc:title>
@@ -199,7 +221,7 @@ Daniel P. Flaherty
       <dc:date>2020-08-25T06:59:43-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000493</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000493?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000493?af=R</prism:url>
       <prism:copyright />
       <prism:section>Corrigendum</prism:section>
    </item>
@@ -211,7 +233,7 @@ Bryony  N. Thorne,
 Bart  A. Ellenbroek, 
 Darren  J Day
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000513?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000513?af=R</link>
       <content:encoded>&lt;p&gt;Neuropsychiatric disorders such as major depressive disorder (MDD) arise from a complex set of genetic and environmental factors. The serotonin transporter (SERT) is a key regulator of synaptic serotonin (5&#8208;HT) and its inhibition is an important pharmacological target for treating MDD. The serotonin transporter&#8208;linked polymorphic region (5&#8208;HTTLPR) contains two major variants (short and long) which have been implicated in modulating the susceptibility to MDD by altering the level of expression of SERT. Both variants contain C&#8208;rich repeats that conform to consensus i&#8208;motif folding sequences. i&#8208;Motifs are quadruplex DNA structures that have been proposed to have a role in transcriptional regulation. With spectroscopic techniques, we demonstrate that both alleles are able to form i&#8208;motifs at acidic pH, and at neutral pH under conditions of molecular crowding. This highlights the potential for i&#8208;motif formation to contribute to transcriptional regulation of the serotonin transporter, with a potential role in the pathophysiology of neuropsychiatric disorders.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Evaluation of i&#8208;Motif Formation in the Serotonin Transporter&#8208;Linked Polymorphic Region</dc:title>
@@ -220,7 +242,7 @@ Darren  J Day
       <dc:date>2020-08-24T07:22:16-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000513</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000513?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000513?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -232,7 +254,7 @@ Wes Brown,
 Wenyuan Zhou, 
 Alexander Deiters
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000423?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000423?af=R</link>
       <content:encoded>&lt;p&gt;Conditional control of CRISPR/Cas9 has been developed using a variety of different approaches, many focusing on manipulation of the Cas9 protein itself. However, more recent strategies for governing CRISPR/Cas9 function are based on guide RNA (gRNA) modifications. They include control of gRNAs by light, small molecules, proteins, and oligonucleotides. These designs have unique advantages compared to other approaches and have allowed for precise regulation of gene editing and transcription. Here, we discuss strategies for conditional control of gRNA function and compare effectiveness of these methods.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Regulating CRISPR/Cas9 Function through Conditional Guide RNA Control</dc:title>
@@ -241,7 +263,7 @@ Alexander Deiters
       <dc:date>2020-08-24T08:39:40-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000423</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000423?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000423?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -253,7 +275,7 @@ Asmo Aro-Heinil&#228;,
 Tuomas L&#246;nnberg, 
 Pasi  Markus Virta
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000575?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000575?af=R</link>
       <content:encoded>&lt;p&gt;A highly nucleobase discriminating metalated nucleoside analog, 3&#8208;fluoro&#8208;2&#8208;mercuri&#8208;6&#8208;methylaniline, was incorporated into an oligonucleotide molecular beacon. Fluorescence emission spectra were measured after the addition of four different complementary strands, where the nucleobase opposite of the metalated analog varies. The fluorescence results showed a clear binding selectivity at room temperature, in the order G&amp;gt;T&amp;gt;C&amp;gt;A. The selectivity is based on the different affinities between the metalated nucleoside analog and the canonical nucleobases. The synthesized probe is capable of robust discrimination between the two purine as well as the two pyrimidine bases by fluorescence at room temperature, and more sophisticated temperature analysis allows clear separation of every canonical nucleobase. The probe would, hence, be a suitable method for the detection of single nucleotide polymorphisms.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Covalently Mercurated Molecular Beacon for Discriminating the Canonical Nucleobases</dc:title>
@@ -262,7 +284,7 @@ Pasi  Markus Virta
       <dc:date>2020-08-22T02:48:38-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000575</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000575?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000575?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -289,7 +311,7 @@ Shugeng Cao,
 Hendrik Luesch, 
 Yousong Ding
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000403?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000403?af=R</link>
       <content:encoded>&lt;p&gt;Some fungal epithiodiketopiperazine alkaloids display &#945;,&#946;&#8208;polysulfide bridges alongside diverse structural variations. However, the logic of their chemical diversity has rarely been explored. Here, we report the identification of three new (  2  ,  3  ,  8  ) and five known (  1  ,  4  &#8208;  7  ) epithiodiketopiperazines of this subtype from a marine&#8208;derived  Penicillium  sp. The structure elucidation was supported by multiple spectroscopic analyses. Importantly, we observed multiple nonenzymatic interconversions of these analogues in aqueous solutions and organic solvents. Furthermore, the same biosynthetic origin of these compounds was supported by one mined gene cluster. The dominant analogue (  1  ) demonstrated selective cytotoxicity to androgen&#8208;sensitive prostate cancer cells and HIF&#8208;depleted colorectal cells and mild antiaging activities, linking the bioactivity to oxidative stress. These results provide crucial insight into the formation of fungal epithiodiketopiperazines through chemical interconversions.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Fungal epithiodiketopiperazines carrying &#945;,&#946;&#8208;polysulfide bridges from Penecillium steckii YE, and their chemical interconversion</dc:title>
@@ -298,7 +320,7 @@ Yousong Ding
       <dc:date>2020-08-20T07:09:26-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000403</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000403?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000403?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -311,7 +333,7 @@ Alberto Lesarri,
 Jos&#233;  A. Fern&#225;ndez, 
 Rodrigo Mart&#237;nez Ruiz
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000380?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000380?af=R</link>
       <content:encoded>&lt;p&gt;Epigenetic marks are modest chemical modifications on DNA and histone proteins that regulate the activation or silencing of genes, through modulation of the intermolecular interactions between the DNA strands and the protein machinery. The process is complex and not always well understood. One of the systems studied in greater detail is the epigenetic mark on H3K9: the lysine 9 of the histone 3. The degree of methylation or acetylation of this histone is linked to silencing or activation of the corresponding gene, but it is not clear which effect each mark has in gene expression. We shed light on this particular methylation process using density functional theory calculations (DFT) First, we built a model consisting of a DNA double strand containing three base pairs and a sequence of three amino acids of the histone&#8217;s tail. Then, we computed the modulation introduced in the intermolecular interactions by each epigenetic modification: from mono to tri&#8208;methylation and acetylation. The calculations show that while acetylation and tri&#8208;methylation results in a reduction of the DNA&#8208;peptide interaction; non&#8208;, mono&#8208;, and di&#8208;methylation increase the intermolecular interactions. Such observations compare well with the findings reported in the literature, highlighting the correlation between the balance of intermolecular forces and biological properties and advancing quantum mechanical studies of large biochemical systems at molecular level through the use of DFT methods.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Exploring epigenetic marks by analysis of non&#8208;covalent interactions</dc:title>
@@ -320,7 +342,7 @@ Rodrigo Mart&#237;nez Ruiz
       <dc:date>2020-08-20T02:45:14-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000380</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000380?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000380?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -336,7 +358,7 @@ Kenichiro Ito,
 Chisato Makino, 
 Takuhiro Ito
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000429?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000429?af=R</link>
       <content:encoded>&lt;p&gt;The expansion of the amino&#8208;acid repertoire with synthetic derivatives introduces novel structures and functionalities into proteins. In the present study, we improved the antigen binding of antibodies by incorporating halogenated tyrosines at multiple selective sites. Tyrosines in the Fab fragment of an anti&#8208;EGF&#8208;receptor antibody 059&#8208;152 were systematically replaced with 3&#8208;bromo&#8208; and 3&#8208;chlorotyrosines, and simultaneous replacements at 4 specific sites were thus found to cause a 10&#8208;fold increase in the affinity toward the antigen. Structure modeling suggested that this effect was due to enhanced shape complementarity between the antigen and antibody molecules. On the other hand, we showed that chlorination in the constant domain, far from the binding interface, of Rituximab Fab also increased the affinity significantly (up to 17&#8208;fold). Our results showed that antigen binding is tunable with the halogenation&#160;in and out of the binding motifs.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Incorporation of halogenated amino acids into antibody fragments at multiple specific sites enhances antigen binding</dc:title>
@@ -345,7 +367,7 @@ Takuhiro Ito
       <dc:date>2020-08-19T11:34:41-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000429</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000429?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000429?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -361,7 +383,7 @@ Li-Qun Jin,
 Ya-Ping Xue, 
 Yu-Guo Zheng
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000488?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000488?af=R</link>
       <content:encoded>&lt;p&gt;A single&#8208;transaminase&#8208;catalyzed biocatalytic cascade was developed by employing a desired biocatalyst ATA&#8208;117&#8208;Rd11 that shows high activity toward 2&#8208;oxo&#8208;4&#8208;[(hydroxy)(methyl)phosphinoyl]butyric acid (PPO) and &#945;&#8208;ketoglutarate, and low activity against pyruvate. The cascade successfully promotes highly asymmetric amination reaction for synthesis of L&#8208;phosphinothricin (L&#8208;PPT) with high conversion (&amp;gt;95%) and &amp;gt; 99% e.e.. In the scale&#8208;up experiment, using 10 kg pre&#8208;frozen E. coli cells harboring ATA&#8208;117&#8208;Rd11, 80 kg PPO was converted to L&#8208;PPT within 24 hours yielding &#8776;70 kg L&#8208;PPT with a high e.e. value (&amp;gt;99%).&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>A single&#8208;transaminase&#8208;catalyzed biocatalytic cascade for efficiently asymmetric synthesis of L&#8208;phosphinothricin</dc:title>
@@ -370,7 +392,7 @@ Yu-Guo Zheng
       <dc:date>2020-08-19T07:14:34-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000488</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000488?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000488?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -396,8 +418,8 @@ Miriam C. Walczak,
 Peter Neubauer, 
 Anke Wagner
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000569?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/62578562-05b1-47b8-81a0-f57e123fd7c5/cbic202000569-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000569?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/62578562-05b1-47b8-81a0-f57e123fd7c5/cbic202000569-toc-0001-m.png"
      alt="Spectral Unmixing&#8208;Based Reaction Monitoring of Transformations between Nucleosides and Nucleobases"/&gt;
 &lt;p&gt;&lt;b&gt;Nucleosides and their nucleobases&lt;/b&gt; have slightly different UV absorption spectra. This can be employed for analysis and reaction monitoring by spectral unmixing, which delivers robust and fast results through the deconvolution of highly overlapping spectra. The approach is particularly useful for enzymatic reactions and incredibly versatile as it can be applied to a wealth of natural and modified nucleosides. See the &lt;a&gt;https://doi.org/10.1002/cbic.202000204communication by F. Kaspar, A. Wagner, et al.&lt;/a&gt; for more details, tips and software. Cover illustration by BotsAndBrainz (Anne Voigt).
 
@@ -411,7 +433,7 @@ Anke Wagner
       <dc:date>2020-08-19T03:05:42-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000569</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000569?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000569?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -435,8 +457,8 @@ Austin Kriews,
 Min&#8208;Chul Kim, 
 Ivan V. Korendovych
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000570?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/b729f73f-4efd-4301-9c82-d87e9b58447b/cbic202000570-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000570?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b729f73f-4efd-4301-9c82-d87e9b58447b/cbic202000570-toc-0001-m.png"
      alt="Synergistic Interactions Are Prevalent in Catalytic Amyloids"/&gt;
 &lt;p&gt;&lt;b&gt;Just like a limited set&lt;/b&gt; of playing cards can provide many combinations, mixtures of peptides with different amino acids can form various functional materials. Even simple binary mixtures of heptapeptides can synergistically form catalytic amyloids with high (using arginine and glutamine), moderate (using lysine and glutamate), or low (using histidine and tyrosine) hydrolytic activities. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000205communication by I.&#8197;V. Korendovych et&#8197;al.&lt;/a&gt;
 
@@ -450,7 +472,7 @@ Ivan V. Korendovych
       <dc:date>2020-08-19T03:04:03-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000570</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000570?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000570?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -470,8 +492,8 @@ Ming Hu,
 Qinyu Han, 
 Bengang Xing
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000549?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/1584e84f-09b2-4137-96d6-f40fbafabef1/cbic202000549-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000549?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1584e84f-09b2-4137-96d6-f40fbafabef1/cbic202000549-toc-0001-m.png"
      alt="Metallic Nanoparticle&#8208;Enabled Sensing of a Drug&#8208;of&#8208;Abuse: An Attempt at Forensic Application"/&gt;
 &lt;p&gt;&lt;b&gt;Making partying safer&lt;/b&gt;. &#947;&#8208;Hydroxybutyric acid (GHB) has gained attention as a drug that is frequently misused in social settings to induce euphoria and to facilitate sexual assault. A simple approach for selective sensing of GHB has been developed for drug screening and forensic investigation. Such a strategy, based on a specific enzymatic reaction, allows GHB to be analyzed in a complicated sample matrix, including biological specimens. The results can be readily acquired by either spectral assay or observation with the naked&#8208;eye. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000157full paper by B.&#8208;G. Xing et&#8197;al.&lt;/a&gt; This cover was designed by using resources from Freepik.com.
 
@@ -485,7 +507,7 @@ Bengang Xing
       <dc:date>2020-08-19T02:21:04-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000549</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000549?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000549?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -496,7 +518,7 @@ Bengang Xing
 Matthias Tinzl, 
 Donald Hilvert
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000523?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000523?af=R</link>
       <content:encoded>&lt;p&gt;Nature employs a limited number of genetically encoded amino acids for the construction of functional proteins. By engineering components of the cellular translation machinery, however, it is now possible to genetically encode non&#8208;canonical building blocks with tailored electronic and structural properties, enabling facile chemical diversification of these biopolymers. The ability to incorporate unique chemical functionality into proteins provides a powerful tool to probe mechanism and create novel function. In this minireview, we highlight several recent studies that illustrate how non&#8208;canonical amino acids have been used to capture and characterize reactive intermediates, fine&#8208;tune the catalytic properties of enzymes, and stabilize short&#8208;lived protein&#8208;protein complexes.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Trapping transient protein species by genetic code expansion</dc:title>
@@ -505,7 +527,7 @@ Donald Hilvert
       <dc:date>2020-08-18T12:34:46-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000523</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000523?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000523?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -521,7 +543,7 @@ Andreas Reif,
 Driss Boudeffa, 
 Hilal  A. Lashuel
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000508?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000508?af=R</link>
       <content:encoded>&lt;p&gt;Posttranslational modifications (PTMs) within the first 17 amino acids (Nt17) of exon1 of the Huntingtin protein (Httex1) play important roles in modulating its cellular properties and functions in health and disease. In particular, phosphorylation of threonine and serine residues (T3, S13, and/or S16) has been shown to inhibit Htt aggregation  in vitro  and inclusion formation in cellular and animal models of Huntington&#8217;s disease (HD). In this manuscript, we describe a new and simple methodology for producing milligram quantities of highly pure wild type or mutant Httex1 proteins that are site&#8208;specifically phosphorylated at T3 or at both S13 and S16. This advance was enabled by 1) the discovery and validation of novel kinases that efficiently phosphorylate Httex1 at S13 and S16 (TBK1), at T3 (GCK) or T3 and S13 (TNIK and HGK); and, 2) the development of an efficient methodology for producing recombinant native Httex1 proteins using a SUMO&#8208;fusion expression and purification strategy. As proof of concept, we demonstrate how this method can be applied to produce Httex1 proteins that are both site&#8208;specifically phosphorylated and fluorescently labeled or isotopically labeled. Together, these advances should increase access to these valuable tools and expand the range of methods and experimental approaches that can be used to elucidate the mechanisms by which phosphorylation influences Httex1 structure, aggregation, interactome and function(s) in health and disease.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Site&#8208;specific phosphorylation of Huntingtin exon 1 recombinant proteins enabled by the discovery of novel kinases</dc:title>
@@ -530,7 +552,7 @@ Hilal  A. Lashuel
       <dc:date>2020-08-17T11:10:58-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000508</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000508?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000508?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -542,7 +564,7 @@ Kelsey  T Morgan,
 Jeffrey Zheng, 
 Dewey McCafferty
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000555?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000555?af=R</link>
       <content:encoded>&lt;p&gt;Ramoplanins and enduracidins are peptidoglycan lipid intermediate II&#8208;binding lipodepsipeptides with broad&#8208;spectrum activity against methicillin&#8208; and vancomycin&#8208;resistant Gram&#8208;positive pathogens. Targeted genome mining using probes from conserved sequences within the ramoplanin/enduracidin biosynthetic gene clusters (BGCs) was used to identify six microorganisms with BGCs predicted to produce unique lipodepsipeptide congeners of ramoplanin and enduracidin. Fermentation of&#160;  Micromonospora chersina  &#160;yielded a novel lipoglycodepsipeptide, called chersinamycin, which exhibited good antibiotic activity against Gram&#8208;positive bacteria (1&#8208;2 &#181;g/mL) similar to the ramoplanins and enduracidins. The covalent structure of chersinamycin was determined by NMR and tandem mass spectrometry methods in conjunction with chemical degradation studies. These six new BGCs and isolation of a new antimicrobial peptide provide much&#8208;needed tools to investigate the fundamental aspects of lipodepsipeptide biosynthesis and to facilitate efforts to produce novel antibiotics capable of combating antibiotic&#8208;resistant infections.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Discovery of Six Ramoplanin Family Gene Clusters and the Lipoglycodepsipeptide Chersinamycin</dc:title>
@@ -551,7 +573,7 @@ Dewey McCafferty
       <dc:date>2020-08-17T11:04:04-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000555</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000555?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000555?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -565,7 +587,7 @@ Ronny M&#252;ller,
 Sylvia Els-Heindl, 
 Armin Geyer
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000424?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000424?af=R</link>
       <content:encoded>&lt;p&gt;A generalized synthetic strategy is proposed here for the synthesis of unsymmetric &#946;&#8208;indoylated amino acids by 8&#8208;aminoquinoline (8AQ) directed C(sp  3  )&#8208;H functionalization of suitably protected precursors. Peptides containing one of the four stereoisomers of (indol&#8208;3&#8208;yl)&#8208;3&#8208;phenylalanine at position 2 of the parent peptide KwFwLL&#8208;NH  2  cover a wide range of activities as ghrelin receptor inverse agonists, among them the most active described until now. This application exemplarily shows how &#946;&#8208;indoylated amino acids can be used for the systematic variation of the position of an indole group in a bioactive peptide.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Tryptophan Analogues with Fixed Side Chain Orientation &#8208; Expanding the Scope</dc:title>
@@ -574,7 +596,7 @@ Armin Geyer
       <dc:date>2020-08-16T07:14:25-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000424</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000424?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000424?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -585,7 +607,7 @@ Armin Geyer
 Donghyeok Gang, 
 Hee-Sung Park
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000437?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000437?af=R</link>
       <content:encoded>&lt;p&gt;The incorporation of non&#8208;canonical amino acids (ncAAs) has been extensively studied because of its broad applicability. In the past decades, various in vitro and in vivo ncAA incorporation approaches have been developed to generate synthetic recombinant proteins. Here, we discuss the methodologies for ncAA incorporation, and their usage in diverse research areas, such as in synthetic biosafety and for studies of post&#8208;translational modifications.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Non&#8208;canonical Amino Acids in Synthetic Biosafety and Post&#8208;translational Modification Studies</dc:title>
@@ -594,7 +616,7 @@ Hee-Sung Park
       <dc:date>2020-08-13T09:49:06-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000437</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000437?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000437?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -606,7 +628,7 @@ Monika Raj,
 Rachel Wills, 
 Victor Adebomi
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000398?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000398?af=R</link>
       <content:encoded>&lt;p&gt;Cyclized peptides have seen a rise in popularity in the pharmaceutical industry as drug molecules. As such, new macrocyclization methodologies have become abundant in the last several decades. However, efficient methods of cyclization without the formation of side products have still remained a great challenge. Herein, we review the cyclization approaches that focus on site selective chemistry. Site selectivity in macrocyclization decreases the generation of side products, lending to a greater yield of desired peptide macrocycles. We will also take an in&#8208;depth look at the new exclusively intramolecular N&#8208;terminal site selective CyClick strategy for synthesis of cyclic peptides. The CyClick method utilizes imine formation between an aldehyde and the N&#8208;terminus. The imine is then trapped by a nucleophilic attack from the second amidic nitrogen in a non&#8208;reversible site selective fashion.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Site Selective Peptide Macrocyclization</dc:title>
@@ -615,7 +637,7 @@ Victor Adebomi
       <dc:date>2020-08-13T06:54:11-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000398</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000398?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000398?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -627,7 +649,7 @@ Johannes Morstein,
 Anna  Chiara Impastato, 
 Dirk Trauner
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000449?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000449?af=R</link>
       <content:encoded>&lt;p&gt;Photoswitchable lipids are emerging tools for the precise manipulation and study of lipid function. They can modulate many aspects of membrane biophysics, including permeability, fluidity, lipid mobility and domain formation. They are also very useful in lipid physiology and enable optical control of a wide array of lipid receptors, such as ion channels, G protein&#8208;coupled receptors, Nuclear Hormone Receptors, and enzymes that translocate to membranes. Enzymes involved in lipid metabolism often process them in a light&#8208;dependent fashion. Photoswitchable lipids complement other functionalized lipids widely used in lipid chemical biology, including isotope labeled lipids (lipidomics), fluorescent lipids (imaging), bifunctional lipids (lipid&#8208;protein crosslinking), photocaged lipids (photopharmacology), and other labeled variants.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Photoswitchable Lipids</dc:title>
@@ -636,7 +658,7 @@ Dirk Trauner
       <dc:date>2020-08-13T08:18:54-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000449</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000449?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000449?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -664,8 +686,8 @@ Edward A. Wilkinson,
 Nikolas J. Hodges, 
 James H. R. Tucker
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000547?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/98d1cf4b-0303-4275-a585-a090582c130a/cbic202000547-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000547?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/98d1cf4b-0303-4275-a585-a090582c130a/cbic202000547-toc-0001-m.png"
      alt="Effect of Regiochemistry and Methylation on the Anticancer Activity of a Ferrocene&#8208;Containing Organometallic Nucleoside Analogue"/&gt;
 &lt;p&gt;&lt;b&gt;Iron works&lt;/b&gt;: A ferrocene derivative, one of a series of ferronucleosides designed by the Tucker group, shows micromolar toxicity in a range of cancer cell lines. Their latest research shows the importance to activity of having arms in adjacent positions, with the 1,1&#8217;&#8208;regioisomer much less active in bone cancer cell lines. On the other hand, N&#8208; or O&#8208;methylation has much less of an effect; this rules out a conventional mechanism of action for a nucleoside, giving further weight to one that involves the iron centre. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000124full paper by N.&#8197;J. Hodges, J.&#8197;H.&#8197;R. Tucker et&#8197;al.&lt;/a&gt;
 
@@ -679,7 +701,7 @@ James H. R. Tucker
       <dc:date>2020-08-13T06:22:09-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000547</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000547?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000547?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -707,8 +729,8 @@ Shengying Li,
 Robert M. Williams, 
 David H. Sherman
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000548?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/490d6c46-d563-4b1c-bef3-8900608fcc57/cbic202000548-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000548?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/490d6c46-d563-4b1c-bef3-8900608fcc57/cbic202000548-toc-0001-m.png"
      alt="Flavin&#8208;Dependent Monooxygenases NotI and NotI&#8242; Mediate Spiro&#8208;Oxindole Formation in Biosynthesis of the Notoamides"/&gt;
 &lt;p&gt;&lt;b&gt;The notoamides&lt;/b&gt; are a fascinating class of anticancer natural products where two phylogenetically related fungal strains have evolved to generate enantiomeric (mirror image) terminal products. A study of the enzymes (NotI/NotI&#8242;) responsible for spirocycle formation revealed their differential flexibility in accepting the opposite substrate and catalyzing formation of the respective spiro&#8208;oxindole product. The preferential conversion of (&#8722;)&#8208;stephacidin&#8197;A by both enzymes suggests an evolutionary divergence from a common ancestor that was selective for (+)&#8208;notoamide B/A production. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000004full paper by R.&#8197;M. Williams, D.&#8197;H. Sherman, et&#8197;al.&lt;/a&gt;
 
@@ -722,7 +744,7 @@ David H. Sherman
       <dc:date>2020-08-13T06:22:08-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000548</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000548?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000548?af=R</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -737,7 +759,7 @@ Tjaard Pijning,
 Andy-Mark Thunnissen, 
 Gerrit  J. Poelarends
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000442?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000442?af=R</link>
       <content:encoded>&lt;p&gt;The thermostabilization of enzymes while retaining their activity and enantioselectivity for applied biocatalysis is an important topic in protein engineering. Rational and computational design strategies as well as directed evolution have been used successfully to thermostabilize enzymes. Here, we describe an alternative mutability&#8208;landscape approach that identified three single mutations (R11Y, R11I and A33D) within the enzyme 4&#8208;oxalocrotonate tautomerase (4&#8208;OT), which has potential as a biocatalyst for pharmaceutical synthesis, that gave rise to significant increases in apparent melting temperature  T  m  (up to 20 &#176;C) and in half&#8208;life at 80 &#176;C (up to 111&#8208;fold). Introduction of these beneficial mutations in an enantioselective but thermolabile 4&#8208;OT variant (M45Y/F50A) afforded improved triple&#8208;mutant enzyme variants showing an up to 39 &#176;C increase in  T  m  value, with no reduction in catalytic activity or enantioselectivity. This study illustrates the power of mutability&#8208;landscape&#8208;guided protein engineering for thermostabilizing enzymes.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Using Mutability Landscapes to Guide Enzyme Thermostabilization</dc:title>
@@ -746,7 +768,7 @@ Gerrit  J. Poelarends
       <dc:date>2020-08-13T12:00:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000442</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000442?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000442?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -769,7 +791,7 @@ Shuiming Li,
 Feng Yin, 
 Zigang Li
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000473?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000473?af=R</link>
       <content:encoded>&lt;p&gt;Anti&#8208;apoptotic B cell lymphoma 2 (BCL&#8208;2) family proteins were proven targets for human cancers. Targeting the BH3&#8208;binding pockets of these anti&#8208;apoptotic proteins could reactivate apoptosis in BCL&#8208;2&#8208;depedent cancers. BFL&#8208;1 is a BCL&#8208;2 family protein overexpressed in various chemoresistant cancers. A unique cysteine at the binding interface of the BH3 and BFL&#8208;1 was previously proven as an intriguing targeting site to irreversibly inhibit BFL&#8208;1 functions with stabilized cyclic peptide bearing a covalent warhead. Recently, we developed a sulfonium tethered peptide cyclization strategy to construct peptide ligands which could selectively and efficiently react with cysteine(s) of target proteins nearby the interacting interface. Utilizing this method, we constructed a BFL&#8208;1 peptide inhibitor B4&#8208;MC, which could selectively conjugate with BFL&#8208;1 both in vitro and in cell. B4&#8208;MC showed good cellular uptake, colocalized with BFL&#8208;1 on mitochondria, and showed obvious growth inhibition of BFL&#8208;1 over&#8208;expressed cancer cell lines.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Selective Covalent Targeting of Anti&#8208;Apoptotic BFL&#8208;1 by a Sulfonium Tethered Peptide</dc:title>
@@ -778,7 +800,7 @@ Zigang Li
       <dc:date>2020-08-12T11:13:26-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000473</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000473?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000473?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -797,7 +819,7 @@ Xing-Mei Guo,
 Chao-Feng Zhang, 
 Hong-Hong Chang
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000491?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000491?af=R</link>
       <content:encoded>&lt;p&gt;Optically active &#946;&#8208;amino alcohols are very useful chiral intermediates frequently used in the preparation of pharmaceutically active substances. Herein, a novel cyclohexylamine oxidase (ArCHAO) was identified from the genome sequence of  Arthrobacter  sp. TYUT010&#8208;15 with the (  R  )&#8208;stereoselective deamination activity of &#946;&#8208;amino alcohol. ArCHAO was cloned and successfully expressed in  E. coli  BL21, purified and characterized. Substrate specific analysis revealed that ArCHAO has high activity (4.15 to 6.34 U mg  &#8208;1  protein) and excellent enantioselectivity toward the tested &#946;&#8208;amino alcohols. Using the purified ArCHAO, a wide range of racemic &#946;&#8208;amino alcohols were resolved, (  S  )&#8208;&#946;&#8208;amino alcohols were obtained in &amp;gt;99% ee. Deracemization of racemic &#946;&#8208;amino alcohols was conducted by ArCHAO catalyzed enantioselective deamination and transaminase catalyzed enantioselective amination, affording (  S  )&#8208;&#946;&#8208;amino alcohols in excellent conversion (78&#8208;94%) and enantiomeric excess value (&amp;gt;99%). Preparative scale deracemization was carried out with 50 mM (6.859 g L  &#8210;1  ) racemic 2&#8208;amino&#8208;2&#8208;phenylethanol, (  S  )&#8208;2&#8208;amino&#8208;2&#8208;phenylethanol was obtained in 75% isolated yield and &amp;gt;99%  ee  .&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Enantioselective Cascade Biocatalysis for Deracemization of Racemic &#946;&#8208;Amino Alcohols to Enantiopure (S)&#8208;&#946;&#8208;Amino Alcohols Employing Cyclohexylamine Oxidase and &#969;&#8208;Transaminase</dc:title>
@@ -806,7 +828,7 @@ Hong-Hong Chang
       <dc:date>2020-08-12T09:24:47-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000491</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000491?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000491?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -822,7 +844,7 @@ Dawei Zhang,
 Ming-Jie Han, 
 Jiangyun Wang
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000460?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000460?af=R</link>
       <content:encoded>&lt;p&gt;Tyrosine plays important roles in many enzyme catalysts. To facilitate enzyme design, mechanistic studies and minimize structural perturbation in the active site, here we report the genetic incorporation of a novel unnatural amino acid selenotyrosine (SeHF), which has single atom replacement in comparison to tyrosine. The  Agrobacterium radiobacter  phosphotriesterase (  ar  PTE) Tyr309SeHF mutant exhibits a significant 12&#8208;fold increase in  k  cat  and 3.2&#8208;fold enhancement in  k  cat  /  K  m  at pH 7.0.  Molecular dynamics simulation  shows that the SeHF309 mutation results in a conformational switch which opens up the product release pocket and increases the product release rate, thereby elevating the overall enzyme activity. Significant improvement of the catalytic efficiency at neutral pH by single unnatural amino acid (UAA) mutation broadens the application of this enzyme, and provides valuable insights to the mechanism. Our method represents a new approach for designing enzymes with enhanced activities.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Genetic Incorporation of Selenotyrosine Significantly Improves Enzymatic Activity of Agrobacterium radiobacter Phosphotriesterase</dc:title>
@@ -831,7 +853,7 @@ Jiangyun Wang
       <dc:date>2020-08-12T06:54:40-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000460</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000460?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000460?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -843,7 +865,7 @@ Jenna  N Beyer,
 Nicole  R Raniszewski, 
 George  M Burslem
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000459?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000459?af=R</link>
       <content:encoded>&lt;p&gt;The study of epigenetics has greatly benefited from the development and application of various chemical biology approaches. In this review, we highlight the key targets for modulation and recent methods developed to enact such modulation. We discuss various chemical biology techniques to study DNA methylation and posttranslational modification of histones and their effect on gene expression. Additionally, we address the wealth of protein synthesis approaches to yield histones and nucleosomes bearing epigenetic modifications. Throughout we highlight targets which present opportunities for the chemical biology community, as well as exciting new approaches which will provide additional insight into the roles of epigenetic marks.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Epigenetic Chemical Biology: Opportunities Beyond the Advances and Opportunities in Epigenetic Chemical Biology</dc:title>
@@ -852,7 +874,7 @@ George  M Burslem
       <dc:date>2020-08-12T09:26:08-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000459</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000459?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000459?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -863,7 +885,7 @@ George  M Burslem
 Hannah Welte, 
 Michael Kovermann
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000413?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000413?af=R</link>
       <content:encoded>&lt;p&gt;In living organisms, protein folding and function take place in an inhomogeneous, highly crowded environment possessing a concentration of diverse macromolecules of up to 400&#160;g/L. It has been shown that the intracellular environment has a pronounced effect on the stability, dynamics and function of the protein under study and has for this reason to be considered. However, most protein studies are neglecting the presence of these macromolecules. Consequently, we probe here the overall thermodynamic stability of cold shock protein B from&#160;  Bacillus subtilis  &#160;(  Bs  CspB) in cell lysate. We found that an increase in cell lysate concentration causes a monotonic increase in thermodynamic stability of&#160;  Bs  CspB. This result strongly underlines the importance of considering the biological environment when inherent protein parameters shall be quantitatively determined. Moreover, we demonstrate that the targeted application of&#160;  19  F NMR spectroscopy operates as an ideal tool utilized to protein studies performed in complex cellular surroundings.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Insights into protein stability in cell lysate by 19F NMR spectroscopy</dc:title>
@@ -872,7 +894,7 @@ Michael Kovermann
       <dc:date>2020-08-12T12:00:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000413</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000413?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000413?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -887,7 +909,7 @@ Derek  A. Wong,
 Ashty  S. Karim, 
 Michael  C. Jewett
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000452?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000452?af=R</link>
       <content:encoded>&lt;p&gt;Natural products and secondary metabolites comprise an indispensable resource from living organisms that have transformed areas of medicine, agriculture, and biotechnology. Recent advances in high&#8208;throughput DNA sequencing and computational analysis however, suggests that a vast majority of natural products remain undiscovered. To accelerate the natural product discovery pipeline, cell&#8208;free metabolic engineering approaches used to develop robust catalytic networks are being repurposed to access new chemical scaffolds, and new enzymes capable of performing diverse chemistries. Such enzymes may serve as flexible biocatalytic tools to further expand the unique chemical space of natural products and secondary metabolites and provide a more sustainable route to manufacture these molecules. Here, we highlight select examples of natural product biosynthesis using cell&#8208;free systems and propose how cell&#8208;free technologies could facilitate our ability to access and modify these structures to transform synthetic and chemical biology.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Cell&#8208;free exploration of the natural product chemical space</dc:title>
@@ -896,7 +918,7 @@ Michael  C. Jewett
       <dc:date>2020-08-11T06:43:58-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000452</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000452?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000452?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -908,7 +930,7 @@ David Lim,
 Xiaojin Wen, 
 Florian  P. Seebeck
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000557?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000557?af=R</link>
       <content:encoded>&lt;p&gt;Se&#8208;benzyl selenoimidazolium salts are characterized by remarkable alkyl transfer potential under physiological conditions. Structure&#8208;activity correlation studies show that selective monoalkylation of primary amines depends on supramolecular interactions between the selenoimidazole leaving group and the target nucleophile. We demonstrate that these reagents can be used for site&#8208;selective and nearly quantitative modification of the model protein lysozyme on lysine 13, bypassing the higher intrinsic reactivities of lysines 1 and 33. These observations introduce selenoimidazolium salts as novel class of electrophiles for selective N&#8208;alkylation of native proteins.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Selenoimidazolium salts as supramolecular reagents for protein alkylation</dc:title>
@@ -917,7 +939,7 @@ Florian  P. Seebeck
       <dc:date>2020-08-11T02:18:58-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000557</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000557?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000557?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -931,7 +953,7 @@ Val&#233;rie Cr&#233;cy-Lagard,
 Andrew  D. Hanson, 
 Alessandra  S Eustaquio
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000349?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000349?af=R</link>
       <content:encoded>&lt;p&gt;Homochirality is a signature of biological systems. The essential and ubiquitous cofactor  S  &#8208;adenosyl&#8208;l&#8208;methionine (SAM) is synthesized in cells from adenosine triphosphate and l&#8208;methionine to yield exclusively the (  S,S  )&#8208;SAM diastereomer. (  S,S  )&#8208;SAM plays a crucial role as the primary methyl donor in transmethylation reactions important to the development and homeostasis of all organisms from bacteria to humans. However, (  S,S  )&#8208;SAM slowly racemizes at the sulfonium center to yield the inactive (  R,S  )&#8208;SAM, which can inhibit methyltransferases. Control of SAM homochirality has been shown to involve homocysteine  S  &#8208;methyltransferases in plants, insects, worms, yeast, and in ~18% of bacteria. Here we show that a recombinant protein containing a domain of unknown function (DUF62) from the actinomycete bacterium  Salinispora tropica  functions as a stereoselective (  R,S  )&#8208;SAM hydrolase (adenosine&#8208;forming). DUF62 proteins are encoded in the genomes of 21% of bacteria and 42% of archaea and potentially represent a novel mechanism to remediate SAM damage.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>An Enzyme Containing the Conserved Domain of Unknown Function DUF62 Acts as a Stereoselective (Rs,Sc)&#8208;S&#8208;Adenosylmethionine Hydrolase</dc:title>
@@ -940,7 +962,7 @@ Alessandra  S Eustaquio
       <dc:date>2020-08-10T06:13:05-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000349</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000349?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000349?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -951,7 +973,7 @@ Alessandra  S Eustaquio
 Shichao Wang, 
 Xuanjun Zhang
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000514?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000514?af=R</link>
       <content:encoded>&lt;p&gt;Photoacoustic (PA) probes have been developed very fast and applied in broad areas in recent years. Most of them are constructed based on organic dyes with intrinsically near&#8208;infrared (NIR) absorption property. To increase high PA contrast and improve imaging resolution, and sensitivity of detection, various methods for the design of PA probes were developed. This minireview mainly focuses on the development and design strategies of activatable small&#8208;molecule PA probes in four aspects: reaction&#8208;cleavage, metal ions chelation, photoswitch, and protonation&#8208;deprotonation. It highlights some key points of designing PA probes corresponding to their properties and applications. The challenges and perspectives for small&#8208;molecule PA probes are also discussed.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Design strategies of photoacoustic molecular probes Shichao Wang, and Xuanjun Zhang*</dc:title>
@@ -960,7 +982,7 @@ Xuanjun Zhang
       <dc:date>2020-08-07T09:08:32-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000514</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000514?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000514?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -975,7 +997,7 @@ Bradley  T. Burcar,
 Facundo  M. Fern&#225;ndez, 
 Nicholas  V. Hud
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</link>
       <content:encoded>&lt;p&gt;Urea appears to be a key intermediate of important prebiotic synthetic pathways. Concentrated pools of urea likely existed on the surface of the early Earth, as urea is synthesized in significant quantities from hydrogen cyanide or cyanamide (widely accepted prebiotic molecules), it has extremely high water solubility, and it can concentrate to form eutectics from aqueous solutions. The dual nucleophilic&#8208;electrophilic character of urea makes it an ideal precursor for the formation of nitrogenous bases. We propose a model for the origin of a variety of canonical and non&#8208;canonical nucleobases, including some known to form supramolecular assemblies that contain Watson&#8208;Crick&#8208;like base pairs. These reactions involve urea condensation with other prebiotic molecules (e.g., malonic acid) that could be driven by environmental cycles (e.g., freezing/thawing, drying/wetting). The resulting heterocycle assemblies are compatible with the formation of nucleosides and, possibly, the chemical evolution of molecular precursors to RNA. We show that urea eutectics at moderate temperature represent a robust prebiotic source of nitrogenous heterocycles. The simplicity of these pathways, and their independence from specific or rare geological events, support the idea of urea being of fundamental importance to the prebiotic chemistry that gave rise to life on Earth.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Prebiotic origin of pre&#8208;RNA building blocks in a urea &#8220;warm little pond&#8221; scenario.</dc:title>
@@ -984,7 +1006,7 @@ Nicholas  V. Hud
       <dc:date>2020-08-07T07:15:59-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000510</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1001,7 +1023,7 @@ Andrew  E. Plymale,
 Aaron  T. Wright, 
 Kristoffer  National Brandvold
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000370?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000370?af=R</link>
       <content:encoded>&lt;p&gt;Animals produce bile to maximize absorption of lipophilic nutrients in the gut. The physical properties of bile are largely dictated by amphipathic bile salt molecules, which also participate in signalling pathways by modulating physiological processes upon binding host receptors. Upon excretion of bile salts from the gall bladder into the intestine, the gut microbiome can create metabolites with modified signaling capabilities. The category and magnitude of bile salt metabolism can have positive or negative effects on the host. A key modification is bile salt hydrolysis, which is a prerequisite for all additional microbial transformations. We have synthesized five different fluorogenic bile salts for simple and continuous reporting of hydrolysis in both murine and human fecal samples. Our data demonstrate that most gut microbiomes have the highest capacity for hydrolysis of host&#8208;produced primary bile salts, but some microbially modified secondary bile salts also display significant turnover.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Simple analysis of primary and secondary bile salt hydrolysis in mouse and human gut microbiome samples using fluorogenic substrates</dc:title>
@@ -1010,7 +1032,7 @@ Kristoffer  National Brandvold
       <dc:date>2020-08-05T07:07:08-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000370</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000370?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000370?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1025,7 +1047,7 @@ Houston  D. Cole,
 Randolph  P. Thummel, 
 Colin  G. Cameron
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000419?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000419?af=R</link>
       <content:encoded>&lt;p&gt;The design of near&#8208;infrared (NIR)&#8208;active photosensitizers (PSs) for light&#8208;based cancer treatments such as photodynamic therapy (PDT) has been a challenge. While several NIR&#8208;Ru(II) scaffolds have been reported, this approach has not been proven in cells. This is the first report of NIR&#8208;Ru(II) PSs that are phototoxic to cancer cells, including highly pigmented B16F10 melanoma cells. The PS family incorporated a bis(1,8&#8208;naphthyridine)&#8208;based ligand (tpbn), a bidentate thiophene&#8208;based ligand (nT; n=0&#8211;4), and a monodentate 4&#8208;picoline ligand (4&#8208;pic). All compounds absorbed light &amp;gt;800 nm with maxima near 730 nm. Transient absorption (TA) measurements indicated that n&#8805;4 thiophene rings (4T) positioned the PDT&#8208;active triplet intraligand charge transfer (3ILCT) excited state in energetic proximity to the lowest lying triplet metal&#8208;to&#8208;ligand charge transfer (3MLCT). 4T had low micromolar phototoxicity with PIvis and PI733nm values as large as 90 and 12, respectively. Spectroscopic studies suggested that the long&#8208;lived (&#964;TA=3&#8211;6 &#181;s) 3ILCT was accessible from the 3MLCT state, but energetically uphill in the overall photophysics. The study highlights that phototoxic effects can be achieved with NIR&#8208;absorbing Ru(II) PSs as long as the reactive 3ILCT states are energetically accessible from the low&#8208;energy 3MLCT states. It also demonstrates that tissue&#8208;penetrating NIR light can be used to activate the PSs in highly pigmented cells where melanin attenuates shorter wavelengths of light.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>NIR&#8208;absorbing Ru(II) Complexes Containing &#945;&#8208;Oligothiophenes for Applications in Photodynamic Therapy</dc:title>
@@ -1034,7 +1056,7 @@ Colin  G. Cameron
       <dc:date>2020-08-05T07:06:29-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000419</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000419?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000419?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1052,7 +1074,7 @@ Vickie McKee,
 Tom Brown, 
 Andrew Kellett
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000408?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000408?af=R</link>
       <content:encoded>&lt;p&gt;In the field of nucleic acid therapy there is major interest in the development of libraries of DNA&#8208;reactive small molecules which are tethered to vectors that recognize and bind specific genes.&#160;&#160;This approach mimics enzymatic gene&#8208;editors, such as ZFNs, TALENs and CRISPR&#8208;Cas, but overcomes limitations imposed by the delivery of a large protein endonuclease which is required for DNA cleavage.&#160;&#160;Here, we introduce a chemistry&#8208;based DNA cleavage system comprising an artificial metallo&#8208;nuclease (AMN) that oxidatively cuts DNA, and a triplex forming oligonucleotide (TFO) that sequence&#8208;specifically recognises duplex DNA.&#160;&#160;The AMN&#8208;TFO hybrids coordinate Cu(II) ions to form chimeric catalytic complexes that are programmable&#8212;based on the TFO sequence employed&#8212;to bind and cut specific DNA sequences.&#160;&#160;Use of the alkyne&#8208;azide cycloaddition &#8216;click&#8217; reaction allows scalable and high&#8208;throughput generation of hybrid libraries that can be tuned for specific reactivity and gene&#8208;of&#8208;interest knockout.&#160;&#160;As a first approach, we demonstrate targeted cleavage of purine&#8208;rich sequences, optimisation of the hybrid system to enhance stability, and discrimination between target and&#160;off&#8208;target sequences.&#160;&#160;Our results highlight the potential of&#160;this approach where the cutting unit, which mimics the endonuclease cleavage machinery, is directly bound to a TFO guide by click chemistry.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Development of Gene&#8208;Targeted Polypyridyl Triplex Forming&#160;Oligonucleotide Hybrids</dc:title>
@@ -1061,7 +1083,7 @@ Andrew Kellett
       <dc:date>2020-08-04T07:04:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000408</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000408?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000408?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1075,7 +1097,7 @@ Manibarsha Goswami,
 Erin  E. Carlson, 
 John May
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000422?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000422?af=R</link>
       <content:encoded>&lt;p&gt;One promising strategy to combat antibiotic&#8208;resistant bacteria is to develop compounds that block bacterial defenses against antibacterial conditions produced by the innate immune system. Salmonella enterica , which causes food&#8208;borne gastroenteritis and typhoid fever, requires histidine kinases to resist innate immune defenses such as cationic antimicrobial peptides (CAMPs). Here, we report that 2&#8208;aminobenzothiazoles block histidine kinase&#8208;dependent phenotypes in Salmonella enterica serotype Typhimurium. We found that 2&#8208;aminobenzothiazoles inhibited growth in low Mg  2+  , a stressful condition that requires histidine kinase&#8208;mediated responses, and decreased expression of the virulence genes pagC and pagK . Furthermore, we discovered that 2&#8208;aminobenzothiazoles weaken Salmonella &#8217;s resistance to polymyxin B and polymyxin E, which are last&#8208;line antibiotics and models for host defense CAMPs. These findings raise the possibilities that 2&#8208;aminobenzothiazoles can block HK&#8208;mediated bacterial defenses and can be used in combination with polymyxins to treat infections caused by Salmonella .&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>2&#8208;Aminobenzothiazoles inhibit virulence gene expression and block polymyxin resistance in Salmonella enterica</dc:title>
@@ -1084,7 +1106,7 @@ John May
       <dc:date>2020-08-04T10:02:57-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000422</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000422?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000422?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1096,7 +1118,7 @@ Whitney England,
 Chely Garfio, 
 Robert Spitale
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000340?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000340?af=R</link>
       <content:encoded>&lt;p&gt;RNA molecules can fold into complex two&#8208; and three&#8208;dimensional shapes that are critical for their function. Chemical probes have long been utilized to interrogate RNA structure and are now considered invaluable resources in the goal of relating structure to function. Recently, the power of deep sequencing and careful chemical probe design have merged, permitting researchers to obtain a holistic understanding of how RNA structure can be utilized to control RNA biology transcriptome&#8208;wide. Within this review, we outline the recent advancements in chemical probe design for interrogating RNA structures inside cells and discuss the recent advances in our understanding of RNA biology through the lens of chemical probing.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Chemical Approaches to Analyzing RNA Structure Transcriptome&#8208;Wide</dc:title>
@@ -1105,7 +1127,7 @@ Robert Spitale
       <dc:date>2020-07-31T07:05:36-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000340</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000340?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000340?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1126,7 +1148,7 @@ Pierangelo Metrangolo,
 Roland  R. Netz, 
 Beate Koksch
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000373?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000373?af=R</link>
       <content:encoded>&lt;p&gt;The hexapeptide hIAPP  22&#8208;27  (NFGAIL) is known as a crucial amyloid core sequence of the human islet amyloid polypeptide (hIAPP) whose aggregates can be used to better understand the wild&#8208;type hIAPP's toxicity to &#946;&#8208;cell death. In amyloid research, the role of hydrophobic and aromatic&#8208;aromatic interactions as potential driving forces during the aggregation process is controversially discussed not only in case of NFGAIL, but also for amyloidogenic peptides in general. Here, we used halogenation of the aromatic residue as a strategy to modulate hydrophobic and aromatic&#8208;aromatic interactions and prepared a library of NFGAIL variants containing fluorinated and iodinated phenylalanine analogues. We used thioflavin T staining, transmission electron microscopy (TEM) and small&#8208;angle X&#8208;ray scattering (SAXS) to study the impact of side&#8208;chain halogenation on NFGAIL amyloid formation kinetics. Our data revealed a synergy between aggregation behavior and hydrophobicity of the phenylalanine residue. This study introduces systematic fluorination as a toolbox to further investigate the nature of the amyloid self&#8208;assembly process.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>The Impact of Halogenated Phenylalanine Derivatives on NFGAIL Amyloid Formation</dc:title>
@@ -1135,7 +1157,7 @@ Beate Koksch
       <dc:date>2020-07-31T10:08:55-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000373</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000373?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000373?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1152,7 +1174,7 @@ Roberto Contestabile,
 Nediljko Budisa, 
 Martino Luigi di Salvo
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000257?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000257?af=R</link>
       <content:encoded>&lt;p&gt;In the last decades, it became clear that the canonical amino acid repertoire codified by the universal genetic code is not up to the needs of the emerging biotechnologies. For such reason, extensive genetic code re&#8208;engineering is essential to expand the scope of ribosomal protein translation, leading to reprogrammed microbial cells equipped with an alternative biochemical alphabet to be exploited as potentially factories for biotechnological purposes. The prerequisite for this to happen is a continuous intracellular supply of non&#8208;canonical amino acids from simple and cheap precursors via synthetic metabolism. We engineered an  E. coli  bacterial system that fulfills these requirements through the reconfiguration of the methionine biosynthetic pathway and the introduction of an exogenous direct transsulfuration pathway. Our metabolic scheme operates  in vivo,  rescuing intermediates from core cell metabolism, and combining them with small bio&#8208;orthogonal compounds. Our reprogrammed  E. coli  strain is capable of in&#8208;cell production of  L&#8208;azidohomoalanine, which is directly incorporated into proteins in response to methionine codons. We thereby constructed a prototype suitable for economic, versatile, green sustainable chemistry, pushing towards enzyme chemistry and biotechnology&#8208;based production.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>An Engineered Escherichia coli Strain with Synthetic Metabolism for In&#8208;cell Production of Translationally Active Methionine Derivatives</dc:title>
@@ -1161,7 +1183,7 @@ Martino Luigi di Salvo
       <dc:date>2020-07-31T01:06:22-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000257</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000257?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000257?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1174,7 +1196,7 @@ Nandini Aggarwal,
 Thomas  S Moody, 
 Daniele Castagnolo
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000430?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000430?af=R</link>
       <content:encoded>&lt;p&gt;Sulfoxides are a class of organic compounds that finds wide application in medicinal and organic chemistry. Several biocatalytic approaches have been developed to synthesise enantioenriched sulfoxides, mainly exploiting oxidative enzymes. Recently, the use of reductive enzymes such as Msr and Dms has emerged as new and alternative method to obtain enantiopure sulfoxides from racemic mixtures. In parallel, novel oxidative approaches, employing non&#8208;classical solvents such as ionic liquids (ILs) and deep eutectic solvents (DESs), have been developed as greener and more sustainable biocatalytic synthetic pathways. This minireview aims at highlighting the recent advances made in the biocatalytic synthesis of enantioenriched sulfoxides employing unconventional approaches, such as the use of reductive enzymes and IL/DES solvents.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Unconventional biocatalytic approaches for the synthesis of chiral sulfoxides</dc:title>
@@ -1183,7 +1205,7 @@ Daniele Castagnolo
       <dc:date>2020-07-31T12:00:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000430</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000430?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000430?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1207,8 +1229,8 @@ Sung H. Yang,
 Margaret A. Brimble, 
 Paul W. R. Harris
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000347?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/05a6a052-7e49-4bbe-a214-d340d30f181c/cbic202000347-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000347?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/05a6a052-7e49-4bbe-a214-d340d30f181c/cbic202000347-toc-0001-m.png"
      alt="Recent Progress in the Synthesis of Homogeneous Erythropoietin (EPO) Glycoforms"/&gt;
 &lt;p&gt;&lt;b&gt;Getting just what you want&lt;/b&gt;: The FDA&#8208;approved glycoprotein erythropoietin (EPO) is an important therapeutic agent and is manufactured by using recombinant protein synthesis, generating a mixture of glycoforms. We highlight recent alternative approaches employing chemical protein synthesis or semisynthesis that produce a single EPO glycoform, thus allowing the roles of the glycans to be more fully understood.
 
@@ -1224,7 +1246,7 @@ Paul W. R. Harris
       <dc:date>2020-07-30T03:01:24-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000347</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000347?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000347?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1236,7 +1258,7 @@ Merel  A. T. van de Plassche,
 Marta Barniol-Xicota, 
 Steven Verhelst
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000371?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000371?af=R</link>
       <content:encoded>&lt;p&gt;The global pandemic caused by SARS&#8208;CoV&#8208;2 calls for a fast development of antiviral drugs against this particular coronavirus. Chemical tools to facilitate inhibitor discovery as well as detection of target engagement by hit or lead compounds from high throughput screens are therefore in urgent need. We here report novel, selective activity&#8208;based probes that enable detection of the SARS&#8208;CoV&#8208;2 main protease. The probes are based on acyloxymethyl ketone reactive electrophiles combined with a peptide sequence including non&#8208;natural amino acids that targets the non&#8208;primed site of the main protease substrate binding cleft. They are the first activity&#8208;based probes for the main protease of coronaviruses and display target labeling within a human proteome without background. We expect that these reagents will be useful in the drug development pipeline, not only for the current SARS&#8208;CoV&#8208;2, but also for other coronaviruses.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Peptidyl Acyloxymethyl Ketones as Activity&#8208;Based Probes for the Main Protease of SARS&#8208;CoV&#8208;2</dc:title>
@@ -1245,7 +1267,7 @@ Steven Verhelst
       <dc:date>2020-07-27T09:25:05-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000371</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000371?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000371?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1257,7 +1279,7 @@ Prashasti Kumar,
 Pratul  K. Agarwal, 
 Matthew  J. Cuneo
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000376?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000376?af=R</link>
       <content:encoded>&lt;p&gt;Few other elements play a more central role in biology than hydrogen. The interactions, bonding and movement of hydrogen atoms are central to biological catalysis, structure and function. Yet owing to the elusive nature of a single hydrogen atom few experimental and computational techniques can precisely determine its location. This is exemplified in short hydrogen bonds (SHBs) where the location of the hydrogen is indicative of the underlying strength of the bonds, which can vary from 1&#8208;5 kcal/mol in canonical hydrogen bonds, to an almost covalent nature in single&#8208;well hydrogen bonds. Owing to the often&#8208;times inferred position of hydrogen, the role of SHBs in biology has remained highly contested and debated.&#160; This has also led to discrepancies in computational, biochemical and structural studies of proteins thought to utilize SHBs in performing chemistry and stabilizing interactions. Here we discuss in detail two distinct examples, namely the conserved catalytic triad and the photoreceptor, photoactive yellow protein, where studies of these SHB&#8208;containing systems have permitted contextualization of the role these unique hydrogen bonds play in biology.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>On the Case of the Misplaced Hydrogens</dc:title>
@@ -1266,7 +1288,7 @@ Matthew  J. Cuneo
       <dc:date>2020-07-24T08:14:53-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000376</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000376?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000376?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1280,7 +1302,7 @@ Bryce Clifton,
 Martha Grover, 
 Nicholas  V. Hud
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000335?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000335?af=R</link>
       <content:encoded>&lt;p&gt;Chemical ligation is an important tool for the generation of synthetic DNA structures, which are used for a wide range of applications. Surprisingly, reported chemical ligation yields can range from 30% to 95% for the same chemical activating agent and comparable DNA structures. We report a systematic study of DNA ligation using a well&#8208;defined bimolecular test system and a water&#8208;soluble carbodiimide (EDC) as a phosphate&#8208;activating agent. Our results emphasize the interplay between template&#8208;substrate complex stability and the rates of the chemical steps of ligation, with 3&#180; phosphate substrates providing yields near 100% after 24 hours for particularly favorable reaction conditions. Ligation rates are also shown to be sensitive to the identity of base pairs flanking a nick site, with as much as three&#8208;fold variation. Finally, the observation that DNA substrates are modified by EDC at rates that can be comparable with ligation rates emphasizes the importance of considering side reactions when designing protocols to maximize ligation yields.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Comparison of multiple factors that impact the efficiency of non&#8208;enzymatic DNA ligation: Key parameters for maximizing ligation rates and yields with carbodiimide activation</dc:title>
@@ -1289,7 +1311,7 @@ Nicholas  V. Hud
       <dc:date>2020-07-23T07:43:43-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000335</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000335?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000335?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1306,7 +1328,7 @@ Jean-Jacques Vasseur,
 Alberto Marra, 
 Francois Morvan
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000490?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000490?af=R</link>
       <content:encoded>&lt;p&gt;Galacto and fuco&#8208;clusters conjugated with one to three catechol or hydroxamate motifs were synthesized to target LecA and LecB lectins of Pseudomonas aeruginosa (PA) localized in the outer membrane and in the bacterium. The resulting glycocluster pseudosiderophore conjugates were evaluated as Trojan horse to cross the outer membrane of (PA) thanks to iron transport. The data suggests that glycoclusters with catechol moieties were able to hijack the iron transport while those with hydroxamates showed strong non&#8208;specific interactions. Mono&#8208; and tri&#8208;catechol galactoclusters ( G1C and G3C ) were evaluated as inhibitors of the infection by PA in comparison with the free galactocluster ( G0 ). All of them exhibited an inhibitory effect between 46 to 75% at 100 mM with a higher potency than G0 . This result shows that LecA localized in the outer membrane of PA is involved in the infection mechanism.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Synthesis of modified galacto&#8208; or fuco&#8208;clusters exploiting siderophore pathway to inhibit LecA or LecB associated virulence of Pseudomonas aeruginosa</dc:title>
@@ -1315,7 +1337,7 @@ Francois Morvan
       <dc:date>2020-07-23T06:15:26-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000490</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000490?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000490?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1328,7 +1350,7 @@ Kristian  M Caldo,
 Siyu Liang, 
 Peter Facchini
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000354?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000354?af=R</link>
       <content:encoded>&lt;p&gt;Pathogenesis&#8208;related (PR) proteins constitute a broad class of plant proteins with analogues found throughout nature from bacteria to higher eukaryotes. PR proteins were first noted in plants as part of the hypersensitive response but have since been assigned an array of biological roles. The PR10/Bet v 1&#8208;like proteins are a subset of PR proteins characterized by an ability to bind an wide range of lipophilic ligands, uniquely positioning them as contributors to specialized biosynthetic pathways. PR10/Bet v 1&#8208;like proteins participate in the production of plant alkaloids and phenolics including flavonoids, both as general binding proteins and in special cases as catalysts. Owing initially to the perceived allergenic properties of PR10/Bet v 1&#8208;like proteins, many were studied at the structural level to elucidate the basis for ligand binding. These studies were foundational to more recent efforts to understand higher&#8208;level structural order and how PR10/Bet v 1&#8208;like proteins catalyse key reactions in plant pathways. Synthetic biology aimed at reconstituting plant specialized metabolism in microorganisms uses knowledge of these proteins to fine&#8208;tune performance in new systems.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>PR10/Bet v 1&#8208;like proteins as novel contributors to plant biochemical diversity</dc:title>
@@ -1337,7 +1359,7 @@ Peter Facchini
       <dc:date>2020-07-23T12:10:24-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000354</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000354?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000354?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1349,7 +1371,7 @@ Vipin Kumar,
 Nikita Brodyagin, 
 Eriks Rozners
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000432?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000432?af=R</link>
       <content:encoded>&lt;p&gt;Peptide nucleic acid (PNA) forms a triple helix with double&#8208;stranded RNA (dsRNA) stabilized by a hydrogen&#8208;bonding zipper formed by PNA&#8217;s backbone amides (N&#8208;H) interacting with RNA phosphate oxygens. This hydrogen&#8208;bonding pattern is enabled by the matching ~5.7 &#197; spacing (typical for A&#8208;form dsRNA) between PNA&#8217;s backbone amides and RNA phosphate oxygens. We hypothesized that extending the PNA&#8217;s backbone by one &#8208;CH2&#8208; group may bring the distance between PNA amide N&#8208;H closer to 7 &#197;, favourable for hydrogen&#8208;bonding to the B&#8208;form dsDNA phosphate oxygens. Extension of PNA backbone was expected to selectively stabilize PNA&#8208;DNA triplexes compared to PNA&#8208;RNA. To test this hypothesis, we synthesized triplex&#8208;forming PNAs that had the pseudopeptide backbones extended by an additional &#8208;CH2&#8208; group in three different positions. Isothermal titration calorimetry measurements of the binding affinity of these extended PNA analogues for the matched dsDNA and dsRNA showed that, contrary to our structural reasoning, extending the PNA backbone at any position had a strong negative effect on triplex stability. Our results suggest that PNA may have an inherent preference for A&#8208;form&#8208;like conformations when binding double&#8208;stranded nucleic acids. It appears that the original six atoms long PNA backbone is an almost perfect fit for binding to A&#8208;form nucleic acids.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Triplex&#8208;Forming Peptide Nucleic Acids with Extended Backbones</dc:title>
@@ -1358,7 +1380,7 @@ Eriks Rozners
       <dc:date>2020-07-22T12:44:48-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000432</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000432?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000432?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1372,7 +1394,7 @@ Motonori Watanabe,
 Tatsumi Ishihara, 
 Hiroshi Fujii
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000383?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000383?af=R</link>
       <content:encoded>&lt;p&gt;An inorganic&#8208;biological hybrid system, which integrates features of both stable and efficient semiconductors and selective and efficient enzymes, is attractive for facilitating the conversion of solar energy to hydrogen. In this study, we aimed to develop a new photocatalytic hydrogen production system, based on  Escherichia coli  whole&#8208;cell genetically engineered for the highly active hydrogen formation as a biocatalysis part. The photocatalysis part was obtained by bacterial precipitation of cadmium sulfide (CdS), which is a visible light responsive semiconductor. The recombinant  E. coli  cells were sequentially subjected to CdS precipitation and heterologous [FeFe]&#8208;hydrogenase synthesis, to yield a CdS@  E. coli  hybrid capable of light energy conversion and hydrogen formation in a single cell. The CdS@  E. coli  hybrid achieved photocatalytic hydrogen production with a sacrificial electron donor, demonstrating the feasibility of our system and expanding the current knowledge of photosensitization using a whole&#8208;cell biocatalyst with a bacterially precipitated semiconductor.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Photo&#8208;Biohydrogen Production by Photosensitization with Biologically Precipitated Cadmium Sulfide in Hydrogen&#8208;Forming Recombinant Escherichia coli</dc:title>
@@ -1381,7 +1403,7 @@ Hiroshi Fujii
       <dc:date>2020-07-22T06:13:14-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000383</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000383?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000383?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1398,7 +1420,7 @@ Kathryn  M McCulloch,
 Tina  M Iverson, 
 Brian  O. Bachmann
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000305?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000305?af=R</link>
       <content:encoded>&lt;p&gt;Everninomicins are orthoester oligosaccharide antibiotics with potent activity against multidrug&#8208;resistant (MDR) bacterial pathogens. Everninomicins act via disruption of ribosomal assembly in a distinct region in comparison to clinically prescribed drugs. We employed microporous intergeneric conjugation with  Escherichia coli  to manipulate  Micromonospora  for targeted gene&#8208;replacement studies of multiple putative methyltransferases across the octasaccharide scaffold of everninomicin effecting the A1  , C, F, and H&#8208;rings. Analyses of gene&#8208;replacement and genetic complementation mutants established the mutability of the everninomicin scaffold through the generation of twelve previously unreported analogs and, together with previous results, permitted assignment of the ten methyltransferases required for everninomicin biosynthesis. The in vitro activity of A1  &#8208; and H&#8208;ring modifying methyltransferases demonstrated the ability to catalyze late&#8208;stage modification of the scaffold on an A  1  &#8208;ring phenol and H&#8208;ring C&#8208;4&#8217; hydroxyl moiety. Together these results establish the potential of the everninomicin scaffold for modification via mutagenesis and in vitro modification of advanced biosynthetic intermediates.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Methyltransferase contingencies in the pathway of everninomicin D antibiotics and analogs</dc:title>
@@ -1407,7 +1429,7 @@ Brian  O. Bachmann
       <dc:date>2020-07-19T07:15:57-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000305</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000305?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000305?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1431,8 +1453,8 @@ Remkes A. Scheele,
 Cora Guti&#233;rrez de Souza, 
 Gerard Roelfes
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000306?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e98bb87e-73a4-49a6-a734-b7e868d0a1f5/cbic202000306-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000306?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e98bb87e-73a4-49a6-a734-b7e868d0a1f5/cbic202000306-toc-0001-m.png"
      alt="A Hydroxyquinoline&#8208;Based Unnatural Amino Acid for the Design of Novel Artificial Metalloenzymes"/&gt;
 &lt;p&gt;&lt;b&gt;Expanding biotransformations&lt;/b&gt;: Several metal&#8208;binding noncanonical amino acids have been incorporated into protein scaffolds to create artificial metalloenzymes. We introduced 2&#8208;amino&#8208;3&#8208;(8&#8208;hydroxyquinolin&#8208;3&#8208;yl)propanoic acid (HQAla) into lactococcal multidrug&#8208;resistance regulator (LmrR) and complexed it with several transition metal ions such as Cu&lt;sup&gt;II&lt;/sup&gt;, Zn&lt;sup&gt;II&lt;/sup&gt; and Rh&lt;sup&gt;III&lt;/sup&gt; to showcase its catalytic potential in a variety of different reactions.
 
@@ -1448,7 +1470,7 @@ Gerard Roelfes
       <dc:date>2020-07-17T02:41:46-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000306</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000306?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000306?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1472,8 +1494,8 @@ Maya Nohara,
 Katsuki Takashima, 
 Genzoh Tanabe
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000206?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9db1f9f0-1245-445a-8e63-b173a6595ae1/cbic202000206-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000206?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9db1f9f0-1245-445a-8e63-b173a6595ae1/cbic202000206-toc-0001-m.png"
      alt="Probing the Compatibility of an Enzyme&#8208;Linked Immunosorbent Assay toward the Reprogramming of Nonribosomal Peptide Synthetase Adenylation Domains"/&gt;
 &lt;p&gt;&lt;b&gt;A reprogramming platform&lt;/b&gt;: An enzyme&#8208;linked immunosorbent assay (ELISA) using a combination of small&#8208;molecule probes can detect subtle structural changes in the substrate binding pockets of aryl acid adenylation (A) domains. Combined with a directed&#8208;evolution approach, the ELISA technology can be used to isolate aryl acid A&#8208;domains with the desired activity.
 
@@ -1489,7 +1511,7 @@ Genzoh Tanabe
       <dc:date>2020-07-17T02:41:27-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000206</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000206?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000206?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1517,8 +1539,8 @@ Jim Pfaendtner,
 Gary P. Drobny, 
 Champak Chatterjee
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000264?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/c7c5a85c-c4cb-4439-9281-fe5d884cc94d/cbic202000264-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000264?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c7c5a85c-c4cb-4439-9281-fe5d884cc94d/cbic202000264-toc-0001-m.png"
      alt="Trimethylation of the R5 Silica&#8208;Precipitating Peptide Increases Silica Particle Size by Redirecting Orthosilicate Binding"/&gt;
 &lt;p&gt;&lt;b&gt;Unexpected direction&lt;/b&gt;: The silaffin R5 peptide precipitates silica from solutions of orthosilicic acid. Post&#8208;translational modifications in R5 modulate silica morphology. We studied the effect of lysine trimethylation, which installs a positive charge, on silica particle formation. Surprisingly, trimethylation led to larger particle sizes by reducing the maximum activity of R5 and redirecting orthosilicate binding to the R5N terminus.
 
@@ -1534,7 +1556,7 @@ Champak Chatterjee
       <dc:date>2020-07-17T02:35:29-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000264</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000264?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000264?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1546,7 +1568,7 @@ Ella  J Watkins-Dulaney,
 Sabine Straathof, 
 Frances  H. Arnold
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000379?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000379?af=R</link>
       <content:encoded>&lt;p&gt;Tryptophan synthase (TrpS) has emerged as a paragon of noncanonical amino acid (ncAA) synthesis and is an ideal biocatalyst for synthetic and biological applications. TrpS catalyzes an irreversible, C&#8211;C bond forming reaction between indole and serine (Ser) to make  l  &#8208;tryptophan (Trp); native TrpS complexes possess fairly broad specificity for indole analogs, but are difficult to engineer to extend substrate scope or to confer other useful properties due to allosteric constraints and their heterodimeric structure. Directed evolution freed the catalytically relevant TrpS &#946;&#8208;subunit (TrpB) from allosteric regulation by its TrpA partner and has enabled dramatic expansion of the enzyme&#8217;s substrate scope. This review examines the long and storied career of TrpS from the perspective of its application in ncAA synthesis and biocatalytic cascades.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Tryptophan Synthase: Biocatalyst Extraordinaire</dc:title>
@@ -1555,7 +1577,7 @@ Frances  H. Arnold
       <dc:date>2020-07-16T06:59:36-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000379</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000379?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000379?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1573,7 +1595,7 @@ Gilles Gasser,
 Jens M&#252;ller, 
 Marcel Hollenstein
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000402?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000402?af=R</link>
       <content:encoded>&lt;p&gt;Formation of metal base pairs is a versatile method for the introduction of metal cations into nucleic acids that has been applied in numerous applications including the construction of metal nanowires, development of energy, charge transfer devices and expansion of the genetic alphabet. As an alternative, enzymatic construction of metal base pairs represents an alluring strategy that grants access to longer sequences and offers the possibility of using such unnatural base pairs (UBPs) in SELEX experiments for the identification of functional nucleic acids. This method remains rather underexplored and a better understanding of the key parameters in the design of efficient nucleotides is required. Herein, we have investigated the effect of methylation of the imidazole nucleoside (dImnMe&#160;  TP) on the efficiency of the enzymatic construction of metal base pairs. The presence of methyl substituents on&#160;dImTP&#160;facilitates the polymerase&#8208;driven formation of  dIm4Me  &#8208;Ag  I  &#8208;dIm  and  dIm2Me  TP&#8208;  Cr  III  &#8208;  dIm  base pairs. Steric factors rather than basicity of the imidazole nucleobase appear to govern the enzymatic formation of such metal base pairs. We also demonstrate the compatibility of other metal cations rarely considered in the construction of artificial metal base pairs with enzymatic DNA synthesis under both primer extension reaction and PCR conditions. These findings open up new directions for the design of nucleotide analogs for the development of metal base pairs.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Effect of metal shielding on the enzymatic construction of artificial base pairs</dc:title>
@@ -1582,7 +1604,7 @@ Marcel Hollenstein
       <dc:date>2020-07-16T12:59:44-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000402</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000402?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000402?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1605,8 +1627,8 @@ Thomas Schmidt,
 John M. Louis, 
 G. Marius Clore
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000263?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/6eb27d24-ec40-44aa-813f-78c564bd5d21/cbic202000263-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000263?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6eb27d24-ec40-44aa-813f-78c564bd5d21/cbic202000263-toc-0001-m.png"
      alt="Probing the Interaction between HIV&#8208;1 Protease and the Homodimeric p66/p66&#8217; Reverse Transcriptase Precursor by Double Electron&#8208;Electron Resonance EPR Spectroscopy"/&gt;
 &lt;p&gt;&lt;b&gt;Opening up p66&lt;/b&gt;: Q&#8208;band pulsed double electron&#8208;electron resonance EPR spectroscopy shows that binding of HIV&#8208;1 protease to the asymmetric p66/p66&#8242; homodimer precursor of HIV&#8208;1 reverse transcriptase favours an open conformation of the p66&#8242; subunit allowing the linker connecting the RNaseH and connection domains to bind to the active site of protease in an extended conformation.
 
@@ -1622,7 +1644,7 @@ G. Marius Clore
       <dc:date>2020-07-14T06:03:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000263</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000263?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000263?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1645,8 +1667,8 @@ Sebastian Fl&#252;ckger,
 Nico V. Igareta, 
 Florian P. Seebeck
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/52928e62-18f8-4b3c-b1e6-21f7f16bfcdd/cbic202000317-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/52928e62-18f8-4b3c-b1e6-21f7f16bfcdd/cbic202000317-toc-0001-m.png"
      alt="Convergent Evolution of Fungal Cysteine Dioxygenases"/&gt;
 &lt;p&gt;&lt;b&gt;Synchronicity&lt;/b&gt;: Numerous agaricomycetes contain an unusual cysteine dioxygenase (CDO) that emerged by gene duplication and adaptation from an ergothioneine biosynthetic sulfoxide synthase. It is unrelated to the thiol dioxygenases that occur in animals, plants, and bacteria. The activity of type II CDOs depends on the presence of TMH, thus synchronizing cellular cysteine oxidation with ergothioneine production. &lt;i&gt;OK&lt;/i&gt;!
 
@@ -1662,7 +1684,7 @@ Florian P. Seebeck
       <dc:date>2020-07-14T06:01:46-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000317</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1684,8 +1706,8 @@ One of the pivotal steps in aptamer selection is the amplification of target&#82
 Krisztina Percze, 
 Tam&#225;s M&#233;sz&#225;ros
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000236?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/15ad1371-ac1e-4476-8e65-3f9059132402/cbic202000236-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000236?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/15ad1371-ac1e-4476-8e65-3f9059132402/cbic202000236-toc-0001-m.png"
      alt="Analysis of Modified Nucleotide Aptamer Library Generated by Thermophilic DNA Polymerases"/&gt;
 &lt;p&gt;&lt;b&gt;To select aptamers with modified nucleotides&lt;/b&gt;, the appropriate DNA polymerase must be designated. We studied eight polymerases and demonstrated that incorporating a tryptophan&#8208;like nucleotide into aptamer libraries by emulsion PCR and KOD XL had an insignificant effect on the PCR bias and did not distort the sequence space, thus making this approach the method of choice.
 
@@ -1701,7 +1723,7 @@ Tam&#225;s M&#233;sz&#225;ros
       <dc:date>2020-07-14T06:01:01-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000236</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000236?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000236?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1725,8 +1747,8 @@ Vilja Siitonen,
 Kaisa Palmu, 
 Mikko Mets&#228;&#8208;Ketel&#228;
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000229?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/64105dcb-92c7-46f1-9783-978011f1610e/cbic202000229-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000229?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/64105dcb-92c7-46f1-9783-978011f1610e/cbic202000229-toc-0001-m.png"
      alt="The Rieske Oxygenase SnoT Catalyzes 2&#8242;&#8242;&#8208;Hydroxylation of l&#8208;Rhodosamine in Nogalamycin Biosynthesis"/&gt;
 &lt;p&gt;&lt;b&gt;Order&lt;/b&gt;! The binding of nogalamycin to DNA is facilitated by its carbohydrate units. The 2&#8220;&#8208; and 4&#8221;&#8208;hydroxy groups of &lt;span class="smallCaps"&gt;l&lt;/span&gt;&#8208;nogalamine are particularly important for the bioactivity due to hydrogen bonding interactions. We have elucidated the biosynthetic steps for &lt;span class="smallCaps"&gt;l&lt;/span&gt;&#8208;nogalamine formation and show that SnoT installs the 2&#8220;&#8208;hydroxy group, followed by 2&#8211;5&#8221;&#8208;carbocyclization and 4&#8220;&#8208;epimerization by SnoK and SnoN, respectively.
 
@@ -1742,7 +1764,7 @@ Mikko Mets&#228;&#8208;Ketel&#228;
       <dc:date>2020-07-14T06:00:30-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000229</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000229?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000229?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1766,8 +1788,8 @@ Sadamu Ozaki,
 Daijiro Ueda, 
 Tsutomu Sato
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000235?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/55c1962d-e34e-4fdf-a380-2ed4de9cafeb/cbic202000235-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000235?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/55c1962d-e34e-4fdf-a380-2ed4de9cafeb/cbic202000235-toc-0001-m.png"
      alt="Insight into Isoprenoid Biosynthesis by Functional Analysis of Isoprenyl Diphosphate Synthases from Mycobacterium vanbaalenii and Mycobacterium tuberculosis"/&gt;
 &lt;p&gt;&lt;b&gt;Analysis&lt;/b&gt; of &lt;i&gt;E&lt;/i&gt;&#8208;IDSs from &lt;i&gt;Mycobacterium&lt;/i&gt; species has clarified their functions: Mv0992 and Mv1577 would be &lt;i&gt;E&lt;/i&gt;&#8208;C&lt;sub&gt;45&lt;/sub&gt; and &lt;i&gt;E&lt;/i&gt;&#8208;C&lt;sub&gt;20&lt;/sub&gt; synthases, respectively; Mv3536 (an &lt;i&gt;E&lt;/i&gt;&#8208;C&lt;sub&gt;10&#8211;20&lt;/sub&gt; synthase) released an &lt;i&gt;E&lt;/i&gt;&#8208;C&lt;sub&gt;10&lt;/sub&gt; intermediate during continuous condensation; Rv0562 and Rv2173 had similar functions to Mv0992 and Mv3536, respectively; and reduced allylic diphosphate could be used as a substrate for &lt;i&gt;Z&lt;/i&gt;&#8208;IDS (Mv3822).
 
@@ -1783,7 +1805,7 @@ Tsutomu Sato
       <dc:date>2020-07-14T06:00:13-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000235</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000235?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000235?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1806,8 +1828,8 @@ Shigetaka Nakamura,
 Kanako Ishino, 
 Kenzo Fujimoto
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000269?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8533651f-6a71-4fd0-b0ef-6b76cd8004ce/cbic202000269-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000269?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8533651f-6a71-4fd0-b0ef-6b76cd8004ce/cbic202000269-toc-0001-m.png"
      alt="Photochemical RNA Editing of C to U by Using Ultrafast Reversible RNA Photo&#8208;crosslinking in DNA/RNA Duplexes"/&gt;
 &lt;p&gt;&lt;b&gt;Pinpoint C to U conversion&lt;/b&gt;: We evaluated the influence of the bases surrounding the target cytosine on the conversion of cytosine to uracil in the RNA strand. The most hydrophilic photo&#8208;crosslinker induced the fastest deamination of cytosine. Inosine, which forms two hydrogen bonds with cytosine, was the most efficiently paired base for accelerating photochemical RNA editing.
 
@@ -1823,7 +1845,7 @@ Kenzo Fujimoto
       <dc:date>2020-07-13T02:13:19-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000269</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000269?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000269?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1845,8 +1867,8 @@ Due to their early origin and extreme conservation, cofactors are valuable molec
 Xin&#8208;Yi Chu, 
 Hong&#8208;Yu Zhang
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000027?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/29886d10-325b-4197-9172-b19cc3507bcb/cbic202000027-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000027?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/29886d10-325b-4197-9172-b19cc3507bcb/cbic202000027-toc-0001-m.png"
      alt="Cofactors as Molecular Fossils To Trace the Origin and Evolution of Proteins"/&gt;
 &lt;p&gt;&lt;b&gt;Mutual support&lt;/b&gt;: Cofactors play important roles in the origin and evolution of proteins. Nucleotide&#8208;containing cofactors might have facilitated the origin of primitive proteins by selecting them from random amino acid sequences. Metallic cofactors also link protein evolution with geochemical variations; this provides further evidence supporting the coevolution of biochemistry and geochemistry.
 
@@ -1862,7 +1884,7 @@ Hong&#8208;Yu Zhang
       <dc:date>2020-07-13T02:12:42-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000027</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000027?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000027?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1875,7 +1897,7 @@ Boris Schmidtgall,
 Philine Kirsch, 
 Christian Ducho
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000450?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000450?af=R</link>
       <content:encoded>&lt;p&gt;Oligonucleotides (ON) are promising therapeutic candidates, for instance by blocking endogenous mRNA (antisense mechanism). However, ON usually require structural modifications of the native nucleic acid backbone to ensure satisfying pharmacokinetic properties. One such strategy to design novel antisense oligonucleotides is the replacement of native phosphate diester units by positively charged artificial linkages, thus leading to (partially) zwitterionic backbone structures. Herein, we report a gapmer architecture comprised of one zwitterionic central segment ('gap') containing nucleosyl amino acid (NAA)&#8208;modifications and two outer segments of locked nucleic acid (LNA). This NAA/LNA&#8208;gapmer approach furnished a partially zwitterionic ON with optimised properties: (i) the formation of stable ON&#8208;RNA duplexes with base&#8208;pairing fidelity and superior target selectivity at 37 &#176;C; and (ii) excellent stability in complex biological media. Overall, the NAA/LNA&#8208;gapmer approach is thus established as a strategy to design partially zwitterionic ON for the future development of novel antisense agents.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Towards Zwitterionic Oligonucleotides with Improved Properties: the NAA/LNA&#8208;Gapmer Approach</dc:title>
@@ -1884,7 +1906,7 @@ Christian Ducho
       <dc:date>2020-07-13T12:00:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000450</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000450?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000450?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1898,7 +1920,7 @@ Conan  K. Wang,
 Nicole Lawrence, 
 David Craik
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000315?af=R</link>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000315?af=R</link>
       <content:encoded>&lt;p&gt;Abstract:  This article highlights the predominant role that NMR has had in determining the structures of cyclotides, a fascinating class of macrocyclic peptides found in plants. Cyclotides contain a cystine knot, a compact structural motif that is constrained by three disulfide bonds and able to resist chemical and biological degradation. Their resistance to proteolytic degradation has made cyclotides appealing as drug leads. Here we examine the developments that led to the identification and conclusive determination of the disulfide connectivity of cyclotides and describe in detail the structural features of exemplar cyclotides. We also review the role that X&#8208;ray crystallography has played in resolving cyclotide structures and describe how racemic crystallography opened up the possibility of obtaining previously inaccessible X&#8208;ray structures of cyclotides.&lt;/p&gt;</content:encoded>
       <description>ChemBioChem, Accepted Article. </description>
       <dc:title>Cyclotide structures revealed by NMR, with a little help from X&#8208;ray crystallography</dc:title>
@@ -1907,7 +1929,7 @@ David Craik
       <dc:date>2020-07-12T06:58:18-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000315</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000315?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000315?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1929,8 +1951,8 @@ Antibody&#8208;recruiting molecules (ARMs) are a novel class of immunotherapeuti
 Annemiek Uvyn, 
 Bruno G. De Geest
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000261?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/a4f8381c-bf2f-4f31-8dd8-301eea76477e/cbic202000261-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000261?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a4f8381c-bf2f-4f31-8dd8-301eea76477e/cbic202000261-toc-0001-m.png"
      alt="Multivalent Antibody&#8208;Recruiting Macromolecules: Linking Increased Binding Affinity with Enhanced Innate Immune Killing"/&gt;
 &lt;p&gt;&lt;b&gt;Into the line of fire&lt;/b&gt;: Macromolecular antibody recruiting molecules can bind though multivalent interaction with endogenous antibodies and draw these to the surface of target cells or pathogen, thereby marking the latter for innate immune destruction.
 
@@ -1946,7 +1968,7 @@ Bruno G. De Geest
       <dc:date>2020-07-10T02:54:17-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000261</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000261?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000261?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1975,8 +1997,8 @@ Giampaolo Barone,
 Louis Y. P. Luk, 
 Angela Casini
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000262?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e169ef42-f75e-4dc8-9c32-91f65e2bc459/cbic202000262-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000262?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e169ef42-f75e-4dc8-9c32-91f65e2bc459/cbic202000262-toc-0001-m.png"
      alt="Exploring the Chemoselectivity towards Cysteine Arylation by Cyclometallated AuIII Compounds: New Mechanistic Insights"/&gt;
 &lt;p&gt;&lt;b&gt;Getting your gold right&lt;/b&gt;: Cyclometallated Au&lt;sup&gt;III&lt;/sup&gt; complexes with bidentate C^N&#8208;donor ligands enable chemoselective cysteine modification of peptides by C&#8722;S bond&#8208;forming reductive elimination. By using combined high&#8208;resolution mass spectrometry and QM/MM studies, further understanding of the mechanisms of Au&lt;sup&gt;III&lt;/sup&gt;&#8208;templated cross&#8208;coupling leading to cysteine arylation was achieved; this is essential to design selective gold compounds for bio&#8208;orthogonal reactions.
 
@@ -1992,7 +2014,7 @@ Angela Casini
       <dc:date>2020-07-08T12:00:00-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000262</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000262?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000262?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -2019,8 +2041,8 @@ Riccardo Rubbiani,
 Malay Patra, 
 Gilles Gasser
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000289?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/555f3915-c095-41ec-b503-11c9451bab92/cbic202000289-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000289?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/555f3915-c095-41ec-b503-11c9451bab92/cbic202000289-toc-0001-m.png"
      alt="Increased Lipophilicity of Halogenated Ruthenium(II) Polypyridyl Complexes Leads to Decreased Phototoxicity in&#8197;vitro when Used as Photosensitizers for Photodynamic Therapy"/&gt;
 &lt;p&gt;&lt;b&gt;One up, one down&lt;/b&gt;: Ru&lt;sup&gt;II&lt;/sup&gt; polypyridyl complexes are prime candidates for the development of new photosensitizers for photodynamic therapy. Increasing their lipophilicity could result in improved pharmacological properties. The relationship between lipophilicity and &lt;i&gt;in&#8197;vitro&lt;/i&gt; phototoxicity of halogenated Ru&lt;sup&gt;II&lt;/sup&gt; complexes was investigated.
 
@@ -2036,7 +2058,7 @@ Gilles Gasser
       <dc:date>2020-07-07T03:32:59-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000289</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000289?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000289?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -2059,8 +2081,8 @@ Yi Feng,
 Jinbo Li, 
 Yan Zhang
 </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000287?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9102b3a9-29f4-4318-850a-fc9bdc494ab1/cbic202000287-toc-0001-m.png"
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000287?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9102b3a9-29f4-4318-850a-fc9bdc494ab1/cbic202000287-toc-0001-m.png"
      alt="Chemical Knockdown of MicroRNA with Small&#8208;Molecule Chimeras"/&gt;
 &lt;p&gt;&lt;b&gt;Targeting &#8220;undruggable&#8221; RNA&lt;/b&gt;: In this concept article, we introduce the development and application of small&#8208;molecule chimeras (SMCs) to the targeted degradation of microRNAs. Due to their high specificity and potency, SMCs present an unprecedented chemical approach to knock down endogenous miRNAs, and thus should contribute to both biological discovery and therapeutic development.
 
@@ -2076,51 +2098,8 @@ Yan Zhang
       <dc:date>2020-07-07T03:32:53-07:00</dc:date>
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000287</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000287?af=R</prism:url>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000287?af=R</prism:url>
       <prism:copyright />
       <prism:section>Concept</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000319?af=R">
-      <title>Nonhydrolyzable Heptose Bis&#8208; and Monophosphate Analogues Modulate Pro&#8208;inflammatory TIFA&#8208;NF&#8208;&#954;B Signaling</title>
-      <dc:description>
-Small change, big difference: A series of nonhydrolyzable analogues of bacterial heptosides has been synthesized and assayed on whole cells. Interestingly, depending on the functional groups at the 7&#8208;position of the heptose scaffold and in the vicinity of the anomeric position, some molecules could trigger an inflammatory response whereas others were antagonists of heptose&#8208;1,7&#8208;bisphosphate.
-
-
-
-
-
-
-
-Abstract
-d&#8208;Glycero&#8208;d&#8208;manno&#8208;heptose&#8208;1&#946;,7&#8208;bisphosphate (HBP) and d&#8208;glycero&#8208;d&#8208;manno&#8208;heptose&#8208;1&#946;&#8208;phosphate (H1P) are bacterial metabolites that were recently shown to stimulate inflammatory responses in host cells through the activation of the TIFA&#8208;dependent NF&#8208;&#954;B pathway. To better understand structure&#8208;based activity in relation to this process, a family of nonhydrolyzable phosphonate analogues of HBP and H1P was synthesized. The inflammation modulation by which these molecules induce the TIFA&#8208;NF&#8208;&#954;B signal axis was evaluated in&#8197;vivo at a low&#8208;nanomolar concentration (6&#8197;nM) and compared to that of the natural metabolites. Our data showed that three phosphonate analogues had similar stimulatory activity to HBP, whereas two phosphonates antagonized HBP&#8208;induced TIFA&#8208;NF&#8208;&#954;B signaling. These results open new horizons for the design of pro&#8208;inflammatory and innate immune modulators that could be used as vaccine adjuvant.
-</dc:description>
-      <dc:creator>
-Lina Liang, 
-Tong&#8208;You Wade Wei, 
-Pei&#8208;Yu Wu, 
-Wouter Herrebout, 
-Ming&#8208;Daw Tsai, 
-St&#233;phane P. Vincent
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000319?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/26f90fef-5d2d-4d1a-945f-78570ddea46d/cbic202000319-toc-0001-m.png"
-     alt="Nonhydrolyzable Heptose Bis&#8208; and Monophosphate Analogues Modulate Pro&#8208;inflammatory TIFA&#8208;NF&#8208;&#954;B Signaling"/&gt;
-&lt;p&gt;&lt;b&gt;Small change, big difference&lt;/b&gt;: A series of nonhydrolyzable analogues of bacterial heptosides has been synthesized and assayed on whole cells. Interestingly, depending on the functional groups at the 7&#8208;position of the heptose scaffold and in the vicinity of the anomeric position, some molecules could trigger an inflammatory response whereas others were antagonists of heptose&#8208;1,7&#8208;bisphosphate.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;&lt;span class="smallCaps"&gt;d&lt;/span&gt;&#8208;&lt;i&gt;Glycero&lt;/i&gt;&#8208;&lt;span class="smallCaps"&gt;d&lt;/span&gt;&#8208;&lt;i&gt;manno&lt;/i&gt;&#8208;heptose&#8208;1&#946;,7&#8208;bisphosphate (HBP) and &lt;span class="smallCaps"&gt;d&lt;/span&gt;&#8208;&lt;i&gt;glycero&lt;/i&gt;&#8208;&lt;span class="smallCaps"&gt;d&lt;/span&gt;&#8208;&lt;i&gt;manno&lt;/i&gt;&#8208;heptose&#8208;1&#946;&#8208;phosphate (H1P) are bacterial metabolites that were recently shown to stimulate inflammatory responses in host cells through the activation of the TIFA&#8208;dependent NF&#8208;&#954;B pathway. To better understand structure&#8208;based activity in relation to this process, a family of nonhydrolyzable phosphonate analogues of HBP and H1P was synthesized. The inflammation modulation by which these molecules induce the TIFA&#8208;NF&#8208;&#954;B signal axis was evaluated &lt;i&gt;in&#8197;vivo&lt;/i&gt; at a low&#8208;nanomolar concentration (6&#8197;nM) and compared to that of the natural metabolites. Our data showed that three phosphonate analogues had similar stimulatory activity to HBP, whereas two phosphonates antagonized HBP&#8208;induced TIFA&#8208;NF&#8208;&#954;B signaling. These results open new horizons for the design of pro&#8208;inflammatory and innate immune modulators that could be used as vaccine adjuvant.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Nonhydrolyzable Heptose Bis&#8208; and Monophosphate Analogues Modulate Pro&#8208;inflammatory TIFA&#8208;NF&#8208;&#954;B Signaling</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000319</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-02T06:35:59-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000319</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000319?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
