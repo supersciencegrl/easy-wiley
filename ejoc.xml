@@ -9,6 +9,9 @@
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000795?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001016?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000970?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000609?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000761?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001149?af=R" />
@@ -108,23 +111,17 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000942?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000979?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000972?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000795?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000665?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000950?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000853?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001016?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000970?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000525?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001007?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000839?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000893?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000959?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000688?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000925?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000794?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000874?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000856?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000915?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000785?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000963?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000981?af=R" />
@@ -1239,29 +1236,6 @@ Ali Hachem
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000795?af=R">
-      <title>Copper/Iodine&#8208;cocatalyzed C&#8208;C Cleavage of 1,3&#8208;Dicarbonyl Compounds Toward 1,2&#8208;Dicarbonyl Compounds</title>
-      <dc:description>A new, general oxidative route to transformations of 1,3&#8208;dicarbonyl compounds to 1,2&#8208;dicarbonyl compounds by merging copper and I 2  catalysis is described. This method is applicable to broad 1,3&#8208;dicarbonyl compounds, including 1,3&#8208;diketones, 1,3&#8208;keto esters and 1,3&#8208;keto amides. Mechanistical studies show that the reaction is achieved via  the C&#8208;C bond cleavage and CO release cascades.</dc:description>
-      <dc:creator>
-Li-Sha Chen, 
-Lu-Bing Zhang, 
-Yue Tian, 
-Jin-Heng Li, 
-Yong-Quan Liu
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000795?af=R</link>
-      <content:encoded>&lt;p&gt;A new, general oxidative route to transformations of 1,3&#8208;dicarbonyl compounds to 1,2&#8208;dicarbonyl compounds by merging copper and I 2  catalysis is described. This method is applicable to broad 1,3&#8208;dicarbonyl compounds, including 1,3&#8208;diketones, 1,3&#8208;keto esters and 1,3&#8208;keto amides. Mechanistical studies show that the reaction is achieved via  the C&#8208;C bond cleavage and CO release cascades.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Copper/Iodine&#8208;cocatalyzed C&#8208;C Cleavage of 1,3&#8208;Dicarbonyl Compounds Toward 1,2&#8208;Dicarbonyl Compounds</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000795</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-08-12T03:43:39-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000795</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000795?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202000665?af=R">
       <title>A Decade of Muricatacin Synthesis and Beyond</title>
       <dc:description>
@@ -1375,54 +1349,6 @@ Yong-Quan Liu
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000853?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001016?af=R">
-      <title>Synthetic strategy studies for a concise access to functionalized pyrano[4,&#8203;3&#8208;&#8203;b]&#8203;pyridin&#8208;&#8203;7&#8208;&#8203;ones: An entry to semi&#8208;rigid analogs of antihistamines</title>
-      <dc:description>We report short and efficient syntheses of polyfunctionalized 5,&#8203;8&#8208;&#8203;dihydro&#8208;7  H  &#8208;&#8203;pyrano[4,&#8203;3&#8208;&#8203;  b  ]&#8203;pyridin&#8208;&#8203;7&#8208;&#8203;ones and 1,4&#8208;&#8203;dihydro&#8208;3  H  &#8208;&#8203;pyrano[4,&#8203;3&#8208;&#8203;  c  ]&#8203;pyridin&#8208;&#8203;3&#8208;&#8203;ones which can be considered as new aza analogs of 3&#8208;isochromanones and as promising scaffolds for medicinal chemistry. Depending on the nature of the substituent, three different and complementary synthetic methodologies were used allowing the introduction of significant diversity in the substituent on the lactone ring of the pyranopyridinones. The selective &#945;&#8208;arylation of nitrile (S  N  Ar) and  tert  &#8208;butylester enolate (Pd catalyzed) followed by an acidic mediated lactonisation gives access to original C8&#8208;functionalized pyrano[4,&#8203;3&#8208;&#8203;  b  ]&#8203;pyridin&#8208;&#8203;7&#8208;&#8203;ones and a seleno&#8208;mediated cyclization to C1&#8208;functionalized pyrano[4,&#8203;3&#8208;&#8203;  c  ]&#8203;pyridin&#8208;&#8203;3&#8208;&#8203;ones. We have also applied the outlined synthetic methodologies to the preparation of potential semi&#8208;rigid analogs of antihistamines.</dc:description>
-      <dc:creator>
-Anissa Beghennou, 
-Kevin Passador, 
-Anthony Passador, 
-Vincent Corc&#233;, 
-Serge Thorimbert, 
-Candice Botuha
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202001016?af=R</link>
-      <content:encoded>&lt;p&gt;We report short and efficient syntheses of polyfunctionalized 5,&#8203;8&#8208;&#8203;dihydro&#8208;7  H  &#8208;&#8203;pyrano[4,&#8203;3&#8208;&#8203;  b  ]&#8203;pyridin&#8208;&#8203;7&#8208;&#8203;ones and 1,4&#8208;&#8203;dihydro&#8208;3  H  &#8208;&#8203;pyrano[4,&#8203;3&#8208;&#8203;  c  ]&#8203;pyridin&#8208;&#8203;3&#8208;&#8203;ones which can be considered as new aza analogs of 3&#8208;isochromanones and as promising scaffolds for medicinal chemistry. Depending on the nature of the substituent, three different and complementary synthetic methodologies were used allowing the introduction of significant diversity in the substituent on the lactone ring of the pyranopyridinones. The selective &#945;&#8208;arylation of nitrile (S  N  Ar) and  tert  &#8208;butylester enolate (Pd catalyzed) followed by an acidic mediated lactonisation gives access to original C8&#8208;functionalized pyrano[4,&#8203;3&#8208;&#8203;  b  ]&#8203;pyridin&#8208;&#8203;7&#8208;&#8203;ones and a seleno&#8208;mediated cyclization to C1&#8208;functionalized pyrano[4,&#8203;3&#8208;&#8203;  c  ]&#8203;pyridin&#8208;&#8203;3&#8208;&#8203;ones. We have also applied the outlined synthetic methodologies to the preparation of potential semi&#8208;rigid analogs of antihistamines.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Synthetic strategy studies for a concise access to functionalized pyrano[4,&#8203;3&#8208;&#8203;b]&#8203;pyridin&#8208;&#8203;7&#8208;&#8203;ones: An entry to semi&#8208;rigid analogs of antihistamines</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001016</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-08-10T06:45:21-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001016</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202001016?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000970?af=R">
-      <title>Glucose as an eco&#8208;friendly reductant in a one&#8208;pot synthesis of 2,3&#8208;dihydroquinazolin&#8208;4(1H)&#8208;ones</title>
-      <dc:description>Carbohydrates such as glucose are an abundant renewable resource that can be employed in synthetic processes as a source of carbon and/or hydrogen to yield products of high economical and biological impact. Herein, we report a versatile and environmentally friendly protocol for the one&#8208;pot synthesis of 2,3&#8208;dihydroquinazolin&#8208;4(1  H  )&#8208;ones, a privileged scaffold in medicinal chemistry, based on the use of glucose as an eco&#8208;friendly reductant in alkaline aqueous medium. This method can be viewed as a blueprint for the development of further one&#8208;pot sequences involving glucose as a reductant.</dc:description>
-      <dc:creator>
-Thiago dos Santos, 
-Caroline Grundke, 
-Tobias Lucas, 
-Luca Gro&#223;mann, 
-Giuliano  Cesar Clososki, 
-Till Opatz
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000970?af=R</link>
-      <content:encoded>&lt;p&gt;Carbohydrates such as glucose are an abundant renewable resource that can be employed in synthetic processes as a source of carbon and/or hydrogen to yield products of high economical and biological impact. Herein, we report a versatile and environmentally friendly protocol for the one&#8208;pot synthesis of 2,3&#8208;dihydroquinazolin&#8208;4(1  H  )&#8208;ones, a privileged scaffold in medicinal chemistry, based on the use of glucose as an eco&#8208;friendly reductant in alkaline aqueous medium. This method can be viewed as a blueprint for the development of further one&#8208;pot sequences involving glucose as a reductant.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Glucose as an eco&#8208;friendly reductant in a one&#8208;pot synthesis of 2,3&#8208;dihydroquinazolin&#8208;4(1H)&#8208;ones</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000970</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-08-10T12:00:00-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000970</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000970?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202000525?af=R">
       <title>One&#8208;Electron Reduction of Redox&#8208;Active Esters to Generate Carbon&#8208;Centered Radicals</title>
@@ -1592,77 +1518,6 @@ Zhixiang Yu
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000688?af=R">
-      <title>Copper in Efficient Synthesis of Aromatic Heterocycles with Single Heteroatom</title>
-      <dc:description>
-  Heterocycle chemistry has come a long way since its inception in late 19th century. With advancement of science, new reagents and methodologies have been developed for its synthesis and derivatization. Inexpensive copper reagents have played a pivotal role in aromatic heterocycle synthesis and it will continue to do so in the foreseeable future.
-  
-  
-  
-  
- 
- 
-  Aromatic heterocycles are important structural units in various naturally occurring compounds. Its abundance has drawn attention of synthetic chemists for decades. In the current scenario, new methodologies employing cheap transition metal reagents are highly desirable for efficient and practical synthesis of heterocyclic compounds. In this review article, strategies to synthesize aromatic heterocycles by inexpensive copper reagents have been discussed.
- </dc:description>
-      <dc:creator>
- Tapas Pal, 
- Goutam Kumar Lahiri, 
- Debabrata Maiti
- </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000688?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/2e7d9694-ce93-4e68-bf99-6d76148a8d95/ejoc202000688-toc-0001-m.png"
-     alt="Copper in Efficient Synthesis of Aromatic Heterocycles with Single Heteroatom"/&gt;
-  &lt;p&gt;Heterocycle chemistry has come a long way since its inception in late 19&lt;sup&gt;th&lt;/sup&gt; century. With advancement of science, new reagents and methodologies have been developed for its synthesis and derivatization. Inexpensive copper reagents have played a pivotal role in aromatic heterocycle synthesis and it will continue to do so in the foreseeable future.
-  &lt;/p&gt;
- &lt;br/&gt;
-  &lt;p&gt;Aromatic heterocycles are important structural units in various naturally occurring compounds. Its abundance has drawn attention of synthetic chemists for decades. In the current scenario, new methodologies employing cheap transition metal reagents are highly desirable for efficient and practical synthesis of heterocyclic compounds. In this review article, strategies to synthesize aromatic heterocycles by inexpensive copper reagents have been discussed.&lt;/p&gt;
- </content:encoded>
-      <description>European Journal of Organic Chemistry, EarlyView. </description>
-      <dc:title>Copper in Efficient Synthesis of Aromatic Heterocycles with Single Heteroatom</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000688</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-08-04T03:58:24-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000688</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000688?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000925?af=R">
-      <title>Asymmetric One&#8208;Pot Mukaiyama Michael/Michael Reaction Catalyzed by Diphenylprolinol Silyl Ether</title>
-      <dc:description>
-  Synthetically useful chiral bicyclo[2.2.2]octanone derivatives can be synthesized with excellent diastereo&#8208; and enantioselectivity via a two&#8208;step, one&#8208;pot reaction using diphenylprolinol silyl ether as an effective organocatalyst, where positive kinetic resolution occurred to generate the desired compounds in a nearly optically pure form.
-  
-  
-  
-  
- 
- 
-  The asymmetric catalytic Mukaiyama Michael reaction between &#945;,&#946;&#8208;unsaturated aldehydes and silyl enol ether derived from a cyclic ketone was catalyzed by diphenylprolinol silyl ether to afford Michael products with excellent diastereo&#8208; and enantioselectivities. Bicyclo[2.2.2]octanone derivatives can be synthesized as a single isomer in a nearly optically pure form via a two&#8208;step, one&#8208;pot reaction, comprising the sequential Mukaiyama Michael reaction and intramolecular Michael reaction starting from dienol silyl ether and &#945;,&#946;&#8208;unsaturated aldehydes, catalyzed by diphenylprolinol silyl ether. In the second Michael reaction, positive kinetic resolution occurred to increase the enantioselectivity.
- </dc:description>
-      <dc:creator>
- Nariyoshi Umekubo, 
- Yujiro Hayashi
- </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000925?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/3a254cf9-7412-4f8e-82ee-60bdf772b204/ejoc202000925-toc-0001-m.png"
-     alt="Asymmetric One&#8208;Pot Mukaiyama Michael/Michael Reaction Catalyzed by Diphenylprolinol Silyl Ether"/&gt;
-  &lt;p&gt;Synthetically useful chiral bicyclo[2.2.2]octanone derivatives can be synthesized with excellent diastereo&#8208; and enantioselectivity via a two&#8208;step, one&#8208;pot reaction using diphenylprolinol silyl ether as an effective organocatalyst, where positive kinetic resolution occurred to generate the desired compounds in a nearly optically pure form.
-  &lt;/p&gt;
- &lt;br/&gt;
-  &lt;p&gt;The asymmetric catalytic Mukaiyama Michael reaction between &#945;,&#946;&#8208;unsaturated aldehydes and silyl enol ether derived from a cyclic ketone was catalyzed by diphenylprolinol silyl ether to afford Michael products with excellent diastereo&#8208; and enantioselectivities. Bicyclo[2.2.2]octanone derivatives can be synthesized as a single isomer in a nearly optically pure form via a two&#8208;step, one&#8208;pot reaction, comprising the sequential Mukaiyama Michael reaction and intramolecular Michael reaction starting from dienol silyl ether and &#945;,&#946;&#8208;unsaturated aldehydes, catalyzed by diphenylprolinol silyl ether. In the second Michael reaction, positive kinetic resolution occurred to increase the enantioselectivity.&lt;/p&gt;
- </content:encoded>
-      <description>European Journal of Organic Chemistry, EarlyView. </description>
-      <dc:title>Asymmetric One&#8208;Pot Mukaiyama Michael/Michael Reaction Catalyzed by Diphenylprolinol Silyl Ether</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000925</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-08-03T12:00:00-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000925</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000925?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202000794?af=R">
       <title>Azetidiniums: Ring&#8208;Expansion to Pyrrolidines, Piperidines, Azepanes and Azocanes</title>
       <dc:description>The 4&#8208;membered ring in bicyclic azetidiniums, e.g. 1&#8208;azabicyclo[2,n,0]alkanes (n=1&#8211;4), can efficiently be transformed to larger rings. This minireview focuses on the ring&#8208;expansion of these azetidiniums to five&#8208; to eight&#8208;membered nitrogen containing heterocycles (pyrrolidines, piperidines, azepanes and azocanes). The ring&#8208;expansion is induced by nucleophiles which can be internal nucleophiles (leaving groups), or external nucleophiles.</dc:description>
@@ -1726,44 +1581,6 @@ Franziska Schoenebeck
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000856?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000915?af=R">
-      <title>Silver&#8208;Catalyzed Diastereoselective Synthesis of Spirocyclic Pyrrolidine&#8208;Lactones by 1,3&#8208;Dipolar Cycloaddition</title>
-      <dc:description>
-  Enantiomerically pure spirocyclic pyrrolidines are prepared by highly diastereoselective dipolar cycloaddition using chiral aminolactones. Silver shows dual catalysis activating the dipole and the dipolarophile simultaneously. Final products incorporated a high functional group density, a new quaternary sterogenic center, and a spiranic unit connecting a pyrrolidine and a lactone.
-  
-  
-  
-  
- 
- 
-  The preparation of two enantiomerically enriched amino lactones as chiral starting substrates for asymmetric 1,3&#8208;dipolar cycloadditions is described. They act as precursors of the chiral imino lactones, which form in situ the corresponding azomethine ylides. They react with electrophilic alkenes under silver catalysis to afford spirolactone&#8208;pyrrolidines products. The sequential method consisting in one&#8208;pot imine formation &#8594; cycloaddition is optimized and compared with the multicomponent process. The scope of the reaction is studied as well as the stereochemical outcomes and the mechanistic details using DFT calculations and X&#8208;ray diffraction analysis.
- </dc:description>
-      <dc:creator>
- Eduardo Garc&#237;a&#8208;Ming&#252;ens, 
- O&#318;ga Caletkov&#225;, 
- Du&#353;an Berke&#353;, 
- Carmen N&#225;jera, 
- Jos&#233; M. Sansano
- </dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000915?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/19817ca2-9c16-4c88-8447-c1bd96e854d8/ejoc202000915-toc-0001-m.png"
-     alt="Silver&#8208;Catalyzed Diastereoselective Synthesis of Spirocyclic Pyrrolidine&#8208;Lactones by 1,3&#8208;Dipolar Cycloaddition"/&gt;
-  &lt;p&gt;Enantiomerically pure spirocyclic pyrrolidines are prepared by highly diastereoselective dipolar cycloaddition using chiral aminolactones. Silver shows dual catalysis activating the dipole and the dipolarophile simultaneously. Final products incorporated a high functional group density, a new quaternary sterogenic center, and a spiranic unit connecting a pyrrolidine and a lactone.
-  &lt;/p&gt;
- &lt;br/&gt;
-  &lt;p&gt;The preparation of two enantiomerically enriched amino lactones as chiral starting substrates for asymmetric 1,3&#8208;dipolar cycloadditions is described. They act as precursors of the chiral imino lactones, which form in situ the corresponding azomethine ylides. They react with electrophilic alkenes under silver catalysis to afford spirolactone&#8208;pyrrolidines products. The sequential method consisting in one&#8208;pot imine formation &#8594; cycloaddition is optimized and compared with the multicomponent process. The scope of the reaction is studied as well as the stereochemical outcomes and the mechanistic details using DFT calculations and X&#8208;ray diffraction analysis.&lt;/p&gt;
- </content:encoded>
-      <description>European Journal of Organic Chemistry, EarlyView. </description>
-      <dc:title>Silver&#8208;Catalyzed Diastereoselective Synthesis of Spirocyclic Pyrrolidine&#8208;Lactones by 1,3&#8208;Dipolar Cycloaddition</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000915</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-07-29T06:55:16-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000915</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.202000915?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202000785?af=R">
       <title>Recent Developments in Transition Metal&#8208;Free Cross&#8208;Dehydrogenative Coupling Reactions for C&#8208;C bond formation</title>
