@@ -9,6 +9,8 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000369?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000397?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000305?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000354?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000335?af=R" />
@@ -52,9 +54,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000383?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000490?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000494?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000538?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000567?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000332?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000538?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000537?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000376?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000450?af=R" />
@@ -82,10 +84,10 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000509?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000523?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000185?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000508?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000555?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000266?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000417?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000508?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000424?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000405?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000326?af=R" />
@@ -150,8 +152,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000263?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000317?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000236?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000315?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -160,6 +160,68 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000369?af=R">
+      <title>A DAPI&#8208;Based Reagent for Mass Cytometry</title>
+      <dc:description>Multiparametric single cell analysis has seen dramatic improvements with the introduction of Mass Cytometry (MC) and Imaging Mass Cytometry (IMC&#8482;). These technologies expanded the number of biomarkers that can be identified simultaneously by using heavy isotope&#8208;tagged antibody reagents. Small molecule probes bearing heavy isotopes are emerging as additional useful functional reporters of cellular features. Realizing this, we explored the iodination of DAPI to produce a heavy atom substituted derivative of the commonly used fluorescent DNA stain. Although exhibiting a drastically reduced fluorescence emission profile, I&#8208;DAPI retains strong binding affinity for DNA. I&#8208;DAPI was used to detect cellular DNA in MC and IMC&#8482; assays with comparable efficiency to known Ir containing DNA intercalators. This work suggests repurposing of well&#8208;known colorimetric stains through simple reactions could be an effective strategy to develop new, functional MC and IMC&#8482; reagents.</dc:description>
+      <dc:creator>
+Rahul Rana, 
+Qing Chang, 
+Jay Bassan, 
+Sue Chow, 
+David Hedley, 
+Mark Nitz
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000369?af=R</link>
+      <content:encoded>&lt;p&gt;Multiparametric single cell analysis has seen dramatic improvements with the introduction of Mass Cytometry (MC) and Imaging Mass Cytometry (IMC&#8482;). These technologies expanded the number of biomarkers that can be identified simultaneously by using heavy isotope&#8208;tagged antibody reagents. Small molecule probes bearing heavy isotopes are emerging as additional useful functional reporters of cellular features. Realizing this, we explored the iodination of DAPI to produce a heavy atom substituted derivative of the commonly used fluorescent DNA stain. Although exhibiting a drastically reduced fluorescence emission profile, I&#8208;DAPI retains strong binding affinity for DNA. I&#8208;DAPI was used to detect cellular DNA in MC and IMC&#8482; assays with comparable efficiency to known Ir containing DNA intercalators. This work suggests repurposing of well&#8208;known colorimetric stains through simple reactions could be an effective strategy to develop new, functional MC and IMC&#8482; reagents.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>A DAPI&#8208;Based Reagent for Mass Cytometry</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000369</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-08T07:03:39-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000369</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000369?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000397?af=R">
+      <title>Combining Inorganic Chemistry and Biology: The Underestimated Potential of Metal Complexes in Medicine</title>
+      <dc:description>
+Metals in medicine: Metal complexes offer unique properties in comparison to organic drugs. Herein, the generally underestimated potential of metal&#8208;containing compounds in comparison to organic compounds, as exemplified by photodynamic therapy, is highlighted.
+
+
+
+
+
+
+
+Abstract
+The vast majority of investigated compounds in modern medicine are based on organic molecules. Within the last decades, the field of medicinial chemistry is shifting towards the application of metal complexes. These compounds offer different mechanisms of action in comparison to organic molecules due to their unique properties, making them novel drug candidates. Herein, the successful combination of metal containing compounds and medicine is highlighted by their application for photodynamic therapy.
+</dc:description>
+      <dc:creator>
+Johannes Karges
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000397?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/95c584d1-fca4-4162-9a94-1b906eeefc0a/cbic202000397-toc-0001-m.png"
+     alt="Combining Inorganic Chemistry and Biology: The Underestimated Potential of Metal Complexes in Medicine"/&gt;
+&lt;p&gt;&lt;b&gt;Metals in medicine&lt;/b&gt;: Metal complexes offer unique properties in comparison to organic drugs. Herein, the generally underestimated potential of metal&#8208;containing compounds in comparison to organic compounds, as exemplified by photodynamic therapy, is highlighted.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The vast majority of investigated compounds in modern medicine are based on organic molecules. Within the last decades, the field of medicinial chemistry is shifting towards the application of metal complexes. These compounds offer different mechanisms of action in comparison to organic molecules due to their unique properties, making them novel drug candidates. Herein, the successful combination of metal containing compounds and medicine is highlighted by their application for photodynamic therapy.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Combining Inorganic Chemistry and Biology: The Underestimated Potential of Metal Complexes in Medicine</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000397</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-08T05:24:46-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000397</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000397?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Viewpoint</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000507?af=R">
       <title>Targeted Small&#8208;Molecule Conjugates: the Future is Now</title>
       <dc:description>
@@ -1354,35 +1416,6 @@ Eugene F. Douglass
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000538?af=R">
-      <title>Multivalent, Stabilized Mannose&#8208;6&#8208;Phosphates for the Targeted Delivery of Toll&#8208;Like Receptor Ligands and Peptide Antigens</title>
-      <dc:description>Mannose&#8208;6&#8208;phosphate (M6P) is recognized by the mannose&#8208;6&#8208;phosphate receptor and plays an important role in the transport of cargo to the endosomes, making it an attractive tool to improve endosomal trafficking of vaccines. We here describe the assembly of peptide antigen conjugates carrying clusters of mannose&#8208;6&#8208;C&#8208;phosphonates (M6Po). The M6Po&#8217;s represent stable M6P mimics that are resistant to cleavage of the phosphate group by endogenous phosphatases. Two different strategies for the incorporation of the M6Po clusters in the conjugate have been developed: the first relying on a &#8220;post&#8208;assembly&#8221; click approach employing an M6Po bearing an alkyne functionality; the second hinges on an M6Po C&#8208;glycoside amino acid building block that can be used in solid&#8208;phase peptide synthesis. The generated conjugates were further equipped with a TLR7&#8208;ligand to stimulate dendritic cell (DC) maturation. While antigen presentation is hindered by the presence of the M6Po clusters, the incorporation of the M6Po clusters leads to increased activation of DCs, demonstrating their potential in improving vaccine adjuvanticity by intraendosomally active TLR&#8208;ligands.</dc:description>
-      <dc:creator>
-Niels  R. M. Reintjens, 
-Elena Tondini, 
-Christopher Vis, 
-Toroa McGlinn, 
-Nico  J. Meeuwenoord, 
-Tim  P. Hogervorst, 
-Herman  S. Overkleeft, 
-Dmitri  V. Filippov, 
-Gijsbert  A. van der Marel, 
-Ferry Ossendorp, 
-Jeroen  D. C. Cod&#233;e
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000538?af=R</link>
-      <content:encoded>&lt;p&gt;Mannose&#8208;6&#8208;phosphate (M6P) is recognized by the mannose&#8208;6&#8208;phosphate receptor and plays an important role in the transport of cargo to the endosomes, making it an attractive tool to improve endosomal trafficking of vaccines. We here describe the assembly of peptide antigen conjugates carrying clusters of mannose&#8208;6&#8208;C&#8208;phosphonates (M6Po). The M6Po&#8217;s represent stable M6P mimics that are resistant to cleavage of the phosphate group by endogenous phosphatases. Two different strategies for the incorporation of the M6Po clusters in the conjugate have been developed: the first relying on a &#8220;post&#8208;assembly&#8221; click approach employing an M6Po bearing an alkyne functionality; the second hinges on an M6Po C&#8208;glycoside amino acid building block that can be used in solid&#8208;phase peptide synthesis. The generated conjugates were further equipped with a TLR7&#8208;ligand to stimulate dendritic cell (DC) maturation. While antigen presentation is hindered by the presence of the M6Po clusters, the incorporation of the M6Po clusters leads to increased activation of DCs, demonstrating their potential in improving vaccine adjuvanticity by intraendosomally active TLR&#8208;ligands.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Multivalent, Stabilized Mannose&#8208;6&#8208;Phosphates for the Targeted Delivery of Toll&#8208;Like Receptor Ligands and Peptide Antigens</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000538</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-30T07:12:03-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000538</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000538?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000567?af=R">
       <title>4&#8208;Thiouridine Enhanced Peroxidase&#8208;generated Biotinylation of RNA</title>
       <dc:description>Peroxidase&#8208;generated proximity labeling has been widespread used to study the subcellular proteomes and protein interaction networks in living cells, but the development for study of subcellular RNA are limited. APEX&#8208;seq has emerged as a new method to study the subcellular RNA in living cells, but the labeling of RNA still have space to improve. In this work, we describe 4&#8208;thiouridine (s4U) enhanced peroxidase&#8208;generated biotinylation of RNA with high efficiency. The incorporation of s4U could introduce additional sites for RNA labeling, the enhanced biotinylation were observed on monomer, model oligo RNA and total RNA. Through s4U metabolic approach, the in vivo RNA biotinylation efficiency by peroxidase catalysis was also dramatically increased, which will benefit the RNA isolation and the study for spatial transcriptome.</dc:description>
@@ -1817,31 +1850,6 @@ Donald Hilvert
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000523?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000508?af=R">
-      <title>Site&#8208;specific phosphorylation of Huntingtin exon 1 recombinant proteins enabled by the discovery of novel kinases</title>
-      <dc:description>Posttranslational modifications (PTMs) within the first 17 amino acids (Nt17) of exon1 of the Huntingtin protein (Httex1) play important roles in modulating its cellular properties and functions in health and disease. In particular, phosphorylation of threonine and serine residues (T3, S13, and/or S16) has been shown to inhibit Htt aggregation  in vitro  and inclusion formation in cellular and animal models of Huntington&#8217;s disease (HD). In this manuscript, we describe a new and simple methodology for producing milligram quantities of highly pure wild type or mutant Httex1 proteins that are site&#8208;specifically phosphorylated at T3 or at both S13 and S16. This advance was enabled by 1) the discovery and validation of novel kinases that efficiently phosphorylate Httex1 at S13 and S16 (TBK1), at T3 (GCK) or T3 and S13 (TNIK and HGK); and, 2) the development of an efficient methodology for producing recombinant native Httex1 proteins using a SUMO&#8208;fusion expression and purification strategy. As proof of concept, we demonstrate how this method can be applied to produce Httex1 proteins that are both site&#8208;specifically phosphorylated and fluorescently labeled or isotopically labeled. Together, these advances should increase access to these valuable tools and expand the range of methods and experimental approaches that can be used to elucidate the mechanisms by which phosphorylation influences Httex1 structure, aggregation, interactome and function(s) in health and disease.</dc:description>
-      <dc:creator>
-Anass Chiki, 
-Jonathan Ricci, 
-Ramanath  Narayana Hegde, 
-Luciano  A. Abriata, 
-Andreas Reif, 
-Driss Boudeffa, 
-Hilal  A. Lashuel
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000508?af=R</link>
-      <content:encoded>&lt;p&gt;Posttranslational modifications (PTMs) within the first 17 amino acids (Nt17) of exon1 of the Huntingtin protein (Httex1) play important roles in modulating its cellular properties and functions in health and disease. In particular, phosphorylation of threonine and serine residues (T3, S13, and/or S16) has been shown to inhibit Htt aggregation  in vitro  and inclusion formation in cellular and animal models of Huntington&#8217;s disease (HD). In this manuscript, we describe a new and simple methodology for producing milligram quantities of highly pure wild type or mutant Httex1 proteins that are site&#8208;specifically phosphorylated at T3 or at both S13 and S16. This advance was enabled by 1) the discovery and validation of novel kinases that efficiently phosphorylate Httex1 at S13 and S16 (TBK1), at T3 (GCK) or T3 and S13 (TNIK and HGK); and, 2) the development of an efficient methodology for producing recombinant native Httex1 proteins using a SUMO&#8208;fusion expression and purification strategy. As proof of concept, we demonstrate how this method can be applied to produce Httex1 proteins that are both site&#8208;specifically phosphorylated and fluorescently labeled or isotopically labeled. Together, these advances should increase access to these valuable tools and expand the range of methods and experimental approaches that can be used to elucidate the mechanisms by which phosphorylation influences Httex1 structure, aggregation, interactome and function(s) in health and disease.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Site&#8208;specific phosphorylation of Huntingtin exon 1 recombinant proteins enabled by the discovery of novel kinases</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000508</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-17T11:10:58-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000508</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000508?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000555?af=R">
       <title>Discovery of Six Ramoplanin Family Gene Clusters and the Lipoglycodepsipeptide Chersinamycin</title>
@@ -2699,67 +2707,5 @@ Florian P. Seebeck
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000236?af=R">
-      <title>Analysis of Modified Nucleotide Aptamer Library Generated by Thermophilic DNA Polymerases</title>
-      <dc:description>
-To select aptamers with modified nucleotides, the appropriate DNA polymerase must be designated. We studied eight polymerases and demonstrated that incorporating a tryptophan&#8208;like nucleotide into aptamer libraries by emulsion PCR and KOD XL had an insignificant effect on the PCR bias and did not distort the sequence space, thus making this approach the method of choice.
-
-
-
-
-
-
-
-Abstract
-One of the pivotal steps in aptamer selection is the amplification of target&#8208;specific oligonucleotides by thermophilic DNA polymerases; it can be a challenging task if nucleic acids possessing modified nucleotides are to be amplified. Hence, the identification of compatible DNA polymerase and modified nucleotide pairs is necessary for effective selection of aptamers with unnatural nucleotides. We present an in&#8208;depth study of using 5&#8208;indolyl&#8208;AA&#8208;dUTP (TAdUTP) to generate oligonucleotide libraries for aptamer selection. We found that, among the eight studied DNA polymerases, only Vent(exo&#8208;) and KOD XL are capable of adapting TAdUTP, and that replacing dTTP did not have a significant effect on the productivity of KOD XL. We demonstrated that water&#8208;in&#8208;oil emulsion PCR is suitable for the generation of aptamer libraries of modified nucleotides. Finally, high&#8208;throughput sequence analysis showed that neither the error rate nor the PCR bias was significantly affected by using TAdUTP. In summary, we propose that KOD XL and TAdUTP could be effectively used for aptamer selection without distorting the sequence space of random oligonucleotide libraries.
-</dc:description>
-      <dc:creator>
-Krisztina Percze, 
-Tam&#225;s M&#233;sz&#225;ros
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000236?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/15ad1371-ac1e-4476-8e65-3f9059132402/cbic202000236-toc-0001-m.png"
-     alt="Analysis of Modified Nucleotide Aptamer Library Generated by Thermophilic DNA Polymerases"/&gt;
-&lt;p&gt;&lt;b&gt;To select aptamers with modified nucleotides&lt;/b&gt;, the appropriate DNA polymerase must be designated. We studied eight polymerases and demonstrated that incorporating a tryptophan&#8208;like nucleotide into aptamer libraries by emulsion PCR and KOD XL had an insignificant effect on the PCR bias and did not distort the sequence space, thus making this approach the method of choice.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;One of the pivotal steps in aptamer selection is the amplification of target&#8208;specific oligonucleotides by thermophilic DNA polymerases; it can be a challenging task if nucleic acids possessing modified nucleotides are to be amplified. Hence, the identification of compatible DNA polymerase and modified nucleotide pairs is necessary for effective selection of aptamers with unnatural nucleotides. We present an in&#8208;depth study of using 5&#8208;indolyl&#8208;AA&#8208;dUTP (TAdUTP) to generate oligonucleotide libraries for aptamer selection. We found that, among the eight studied DNA polymerases, only Vent(exo&#8208;) and KOD XL are capable of adapting TAdUTP, and that replacing dTTP did not have a significant effect on the productivity of KOD XL. We demonstrated that water&#8208;in&#8208;oil emulsion PCR is suitable for the generation of aptamer libraries of modified nucleotides. Finally, high&#8208;throughput sequence analysis showed that neither the error rate nor the PCR bias was significantly affected by using TAdUTP. In summary, we propose that KOD XL and TAdUTP could be effectively used for aptamer selection without distorting the sequence space of random oligonucleotide libraries.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Analysis of Modified Nucleotide Aptamer Library Generated by Thermophilic DNA Polymerases</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000236</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-14T06:01:01-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000236</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000236?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000315?af=R">
-      <title>Cyclotide structures revealed by NMR, with a little help from X&#8208;ray crystallography</title>
-      <dc:description>Abstract:  This article highlights the predominant role that NMR has had in determining the structures of cyclotides, a fascinating class of macrocyclic peptides found in plants. Cyclotides contain a cystine knot, a compact structural motif that is constrained by three disulfide bonds and able to resist chemical and biological degradation. Their resistance to proteolytic degradation has made cyclotides appealing as drug leads. Here we examine the developments that led to the identification and conclusive determination of the disulfide connectivity of cyclotides and describe in detail the structural features of exemplar cyclotides. We also review the role that X&#8208;ray crystallography has played in resolving cyclotide structures and describe how racemic crystallography opened up the possibility of obtaining previously inaccessible X&#8208;ray structures of cyclotides.</dc:description>
-      <dc:creator>
-Thomas  N. G. Handley, 
-Peta  J. Harvey, 
-Conan  K. Wang, 
-Nicole Lawrence, 
-David Craik
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000315?af=R</link>
-      <content:encoded>&lt;p&gt;Abstract:  This article highlights the predominant role that NMR has had in determining the structures of cyclotides, a fascinating class of macrocyclic peptides found in plants. Cyclotides contain a cystine knot, a compact structural motif that is constrained by three disulfide bonds and able to resist chemical and biological degradation. Their resistance to proteolytic degradation has made cyclotides appealing as drug leads. Here we examine the developments that led to the identification and conclusive determination of the disulfide connectivity of cyclotides and describe in detail the structural features of exemplar cyclotides. We also review the role that X&#8208;ray crystallography has played in resolving cyclotide structures and describe how racemic crystallography opened up the possibility of obtaining previously inaccessible X&#8208;ray structures of cyclotides.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Cyclotide structures revealed by NMR, with a little help from X&#8208;ray crystallography</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000315</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-12T06:58:18-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000315</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000315?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
 </rdf:RDF>
