@@ -9,6 +9,8 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000564?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000371?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000369?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000397?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000305?af=R" />
@@ -134,7 +136,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000347?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000375?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000295?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000371?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000381?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000356?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000245?af=R" />
@@ -151,7 +152,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000264?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000263?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000317?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -160,6 +160,30 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000564?af=R">
+      <title>Building up Pt(II)&#8208;thiosemicarbazone&#8208;lysine&#8208;sC18 conjugates</title>
+      <dc:description>Chiral tridentate N^N^S coordinating pyridine&#8208;carbaldehyde (S  )&#8208;N  4&#8208;(&#945;&#8208;methylbenzyl)thiosemicarbazones (HTSCmB) were synthesised alongside with lysine&#8208;modified derivatives (HTSCLp) (Lp = boc&#8208;protected lysine) for covalent conjugation to the cell&#8208;penetrating peptide sC18. The HTSCmB model ligands, the HTSCLp derivatives and the peptide conjugate form rapidly and quantitatively, very stable Pt(II) chlorido complexes [Pt(TSC)Cl] and Pt(CN) derivatives were obtained through Cl  &#8210;  &#8594; CN  &#8210;  exchange. The Pt&#8208;TSC&#8208;sC18 conjugates [Pt(dpyTSCL&#8208;sC18)X] (X = Cl or CN) are stable for at least 72 h in FBS buffer solution. The Cl  &#8210;  ligand is not fully stable towards hydrolysis under these conditions but the complex fragment [Pt(dpyTSCL&#8208;sC18)]  +  remains intact. For the CN  &#8210;  derivative a Pt de&#8208;coordination of less than 20% after 72 h was recorded. The HdpyTSCmB ligand showed anti&#8208;proliferative properties against MCF&#8208;7 and HT&#8208;29 cancer cells and also HEK&#8208;293 embryonic kidney cells with toxicities comparable to the established derivative Dp44mT. Remarkably, the corresponding PtCl and Pt(CN) complexes showed largely reduced anti&#8208;proliferative activities, which we ascribe to tight Pt&#8208;binding of the TSC ligand preventing its binding to intracellular Fe. Even more surprising was, that neither sC18 or the lysine&#8208;tagged HdpyTSCLp, or its sC18 conjugate HdpyTSCL&#8208;sC18, nor the PtCl and Pt(CN) conjugate complexes showed a decrease in cell viability for all three cell&#8208;lines.</dc:description>
+      <dc:creator>
+Axel Klein, 
+Alexander Haseloer, 
+Tamara L&#252;tzenburg, 
+Joss  Pepe Strache, 
+J&#246;rg Neud&#246;rfl, 
+Ines Neundorf
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000564?af=R</link>
+      <content:encoded>&lt;p&gt;Chiral tridentate N^N^S coordinating pyridine&#8208;carbaldehyde (S  )&#8208;N  4&#8208;(&#945;&#8208;methylbenzyl)thiosemicarbazones (HTSCmB) were synthesised alongside with lysine&#8208;modified derivatives (HTSCLp) (Lp = boc&#8208;protected lysine) for covalent conjugation to the cell&#8208;penetrating peptide sC18. The HTSCmB model ligands, the HTSCLp derivatives and the peptide conjugate form rapidly and quantitatively, very stable Pt(II) chlorido complexes [Pt(TSC)Cl] and Pt(CN) derivatives were obtained through Cl  &#8210;  &#8594; CN  &#8210;  exchange. The Pt&#8208;TSC&#8208;sC18 conjugates [Pt(dpyTSCL&#8208;sC18)X] (X = Cl or CN) are stable for at least 72 h in FBS buffer solution. The Cl  &#8210;  ligand is not fully stable towards hydrolysis under these conditions but the complex fragment [Pt(dpyTSCL&#8208;sC18)]  +  remains intact. For the CN  &#8210;  derivative a Pt de&#8208;coordination of less than 20% after 72 h was recorded. The HdpyTSCmB ligand showed anti&#8208;proliferative properties against MCF&#8208;7 and HT&#8208;29 cancer cells and also HEK&#8208;293 embryonic kidney cells with toxicities comparable to the established derivative Dp44mT. Remarkably, the corresponding PtCl and Pt(CN) complexes showed largely reduced anti&#8208;proliferative activities, which we ascribe to tight Pt&#8208;binding of the TSC ligand preventing its binding to intracellular Fe. Even more surprising was, that neither sC18 or the lysine&#8208;tagged HdpyTSCLp, or its sC18 conjugate HdpyTSCL&#8208;sC18, nor the PtCl and Pt(CN) conjugate complexes showed a decrease in cell viability for all three cell&#8208;lines.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Building up Pt(II)&#8208;thiosemicarbazone&#8208;lysine&#8208;sC18 conjugates</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000564</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-10T12:32:09-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000564</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000564?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000369?af=R">
       <title>A DAPI&#8208;Based Reagent for Mass Cytometry</title>
       <dc:description>Multiparametric single cell analysis has seen dramatic improvements with the introduction of Mass Cytometry (MC) and Imaging Mass Cytometry (IMC&#8482;). These technologies expanded the number of biomarkers that can be identified simultaneously by using heavy isotope&#8208;tagged antibody reagents. Small molecule probes bearing heavy isotopes are emerging as additional useful functional reporters of cellular features. Realizing this, we explored the iodination of DAPI to produce a heavy atom substituted derivative of the commonly used fluorescent DNA stain. Although exhibiting a drastically reduced fluorescence emission profile, I&#8208;DAPI retains strong binding affinity for DNA. I&#8208;DAPI was used to detect cellular DNA in MC and IMC&#8482; assays with comparable efficiency to known Ir containing DNA intercalators. This work suggests repurposing of well&#8208;known colorimetric stains through simple reactions could be an effective strategy to develop new, functional MC and IMC&#8482; reagents.</dc:description>
@@ -219,44 +243,6 @@ Johannes Karges
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000397</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000397?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000507?af=R">
-      <title>Targeted Small&#8208;Molecule Conjugates: the Future is Now</title>
-      <dc:description>
-One target, more options. The toolbox of high&#8208;affinity ligands for clinically relevant proteins is continuously expanding. Covalent conjugates of these ligands with drugs, radiotracers and other bioactive agents are being studied for therapy and imaging. The pharmacokinetic properties, chemical accessibility and versatility are just a few examples of the positive features that could bring targeted small molecule conjugates to a leading role in future medicine.
-
-
-
-
-
-
-
-Abstract
-In recent years, novel classes of small hetero&#8208;bifunctional compounds have been developed as tools for the treatment of cancer and other diseases through different approaches, from radio/chemotherapy and imaging to immunotherapy and protein degradation. Within this growing research area, progresses in ligand&#8208;screening procedures and hit&#8208;to&#8208;lead optimizations, together with advances in drug&#8208;release technologies, are paving the way to the future treatment of a broad range of pathologies with small targeted therapeutics.
-</dc:description>
-      <dc:creator>
-Alberto Dal Corso
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000507?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/49d1c791-71f7-4884-838d-57da7eb36e98/cbic202000507-toc-0001-m.png"
-     alt="Targeted Small&#8208;Molecule Conjugates: the Future is Now"/&gt;
-&lt;p&gt;&lt;b&gt;One target, more options&lt;/b&gt;. The toolbox of high&#8208;affinity ligands for clinically relevant proteins is continuously expanding. Covalent conjugates of these ligands with drugs, radiotracers and other bioactive agents are being studied for therapy and imaging. The pharmacokinetic properties, chemical accessibility and versatility are just a few examples of the positive features that could bring targeted small molecule conjugates to a leading role in future medicine.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;In recent years, novel classes of small hetero&#8208;bifunctional compounds have been developed as tools for the treatment of cancer and other diseases through different approaches, from radio/chemotherapy and imaging to immunotherapy and protein degradation. Within this growing research area, progresses in ligand&#8208;screening procedures and hit&#8208;to&#8208;lead optimizations, together with advances in drug&#8208;release technologies, are paving the way to the future treatment of a broad range of pathologies with small targeted therapeutics.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Targeted Small&#8208;Molecule Conjugates: the Future is Now</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000507</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-07T03:50:42-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000507</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000507?af=R</prism:url>
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
    </item>
@@ -2459,27 +2445,6 @@ Paul W. R. Harris
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000371?af=R">
-      <title>Peptidyl Acyloxymethyl Ketones as Activity&#8208;Based Probes for the Main Protease of SARS&#8208;CoV&#8208;2</title>
-      <dc:description>The global pandemic caused by SARS&#8208;CoV&#8208;2 calls for a fast development of antiviral drugs against this particular coronavirus. Chemical tools to facilitate inhibitor discovery as well as detection of target engagement by hit or lead compounds from high throughput screens are therefore in urgent need. We here report novel, selective activity&#8208;based probes that enable detection of the SARS&#8208;CoV&#8208;2 main protease. The probes are based on acyloxymethyl ketone reactive electrophiles combined with a peptide sequence including non&#8208;natural amino acids that targets the non&#8208;primed site of the main protease substrate binding cleft. They are the first activity&#8208;based probes for the main protease of coronaviruses and display target labeling within a human proteome without background. We expect that these reagents will be useful in the drug development pipeline, not only for the current SARS&#8208;CoV&#8208;2, but also for other coronaviruses.</dc:description>
-      <dc:creator>
-Merel  A. T. van de Plassche, 
-Marta Barniol-Xicota, 
-Steven Verhelst
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000371?af=R</link>
-      <content:encoded>&lt;p&gt;The global pandemic caused by SARS&#8208;CoV&#8208;2 calls for a fast development of antiviral drugs against this particular coronavirus. Chemical tools to facilitate inhibitor discovery as well as detection of target engagement by hit or lead compounds from high throughput screens are therefore in urgent need. We here report novel, selective activity&#8208;based probes that enable detection of the SARS&#8208;CoV&#8208;2 main protease. The probes are based on acyloxymethyl ketone reactive electrophiles combined with a peptide sequence including non&#8208;natural amino acids that targets the non&#8208;primed site of the main protease substrate binding cleft. They are the first activity&#8208;based probes for the main protease of coronaviruses and display target labeling within a human proteome without background. We expect that these reagents will be useful in the drug development pipeline, not only for the current SARS&#8208;CoV&#8208;2, but also for other coronaviruses.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Peptidyl Acyloxymethyl Ketones as Activity&#8208;Based Probes for the Main Protease of SARS&#8208;CoV&#8208;2</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000371</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-27T09:25:05-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000371</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000371?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000306?af=R">
       <title>A Hydroxyquinoline&#8208;Based Unnatural Amino Acid for the Design of Novel Artificial Metalloenzymes</title>
       <dc:description>
@@ -2665,46 +2630,6 @@ G. Marius Clore
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000263</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000263?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000317?af=R">
-      <title>Convergent Evolution of Fungal Cysteine Dioxygenases</title>
-      <dc:description>
-Synchronicity: Numerous agaricomycetes contain an unusual cysteine dioxygenase (CDO) that emerged by gene duplication and adaptation from an ergothioneine biosynthetic sulfoxide synthase. It is unrelated to the thiol dioxygenases that occur in animals, plants, and bacteria. The activity of type II CDOs depends on the presence of TMH, thus synchronizing cellular cysteine oxidation with ergothioneine production. OK!
-
-
-
-
-
-
-
-Abstract
-Cupin&#8208;type cysteine dioxygenases (CDOs) are non&#8208;heme iron enzymes that occur in animals, plants, bacteria and in filamentous fungi. In this report, we show that agaricomycetes contain an entirely unrelated type of CDO that emerged by convergent evolution from enzymes involved in the biosynthesis of ergothioneine. The activity of this CDO type is dependent on the ergothioneine precursor N&#8208;&#945;&#8208;trimethylhistidine. The metabolic link between ergothioneine production and cysteine oxidation suggests that the two processes might be part of the same chemical response in fungi, for example against oxidative stress.
-</dc:description>
-      <dc:creator>
-Sebastian Fl&#252;ckger, 
-Nico V. Igareta, 
-Florian P. Seebeck
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/52928e62-18f8-4b3c-b1e6-21f7f16bfcdd/cbic202000317-toc-0001-m.png"
-     alt="Convergent Evolution of Fungal Cysteine Dioxygenases"/&gt;
-&lt;p&gt;&lt;b&gt;Synchronicity&lt;/b&gt;: Numerous agaricomycetes contain an unusual cysteine dioxygenase (CDO) that emerged by gene duplication and adaptation from an ergothioneine biosynthetic sulfoxide synthase. It is unrelated to the thiol dioxygenases that occur in animals, plants, and bacteria. The activity of type II CDOs depends on the presence of TMH, thus synchronizing cellular cysteine oxidation with ergothioneine production. &lt;i&gt;OK&lt;/i&gt;!
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Cupin&#8208;type cysteine dioxygenases (CDOs) are non&#8208;heme iron enzymes that occur in animals, plants, bacteria and in filamentous fungi. In this report, we show that agaricomycetes contain an entirely unrelated type of CDO that emerged by convergent evolution from enzymes involved in the biosynthesis of ergothioneine. The activity of this CDO type is dependent on the ergothioneine precursor &lt;i&gt;N&lt;/i&gt;&#8208;&#945;&#8208;trimethylhistidine. The metabolic link between ergothioneine production and cysteine oxidation suggests that the two processes might be part of the same chemical response in fungi, for example against oxidative stress.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Convergent Evolution of Fungal Cysteine Dioxygenases</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000317</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-14T06:01:46-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000317</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000317?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
