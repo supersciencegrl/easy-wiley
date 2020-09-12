@@ -9,6 +9,8 @@
       <prism:publicationName>Advanced Synthesis &amp; Catalysis (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000817?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000689?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000729?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000600?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000886?af=R" />
@@ -89,7 +91,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000667?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000709?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000558?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000689?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000647?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000818?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000541?af=R" />
@@ -126,7 +127,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000274?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000615?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000267?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000574?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -135,6 +135,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/16154169.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/16154169?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adsc.202000817?af=R">
+      <title>Iron catalyzed intermolecular functionalization of non&#8208;activated aliphatic C&#8208;H bonds via carbene transfer</title>
+      <dc:description>The modification of strong Csp3&#8208;H bonds via iron carbene intermediates under mild reaction conditions has been an important challenge with attractive prospective in organic synthesis. In this work, we show the efficient combination of an electrophilic iron catalyst with a lithium Lewis acid for the functionalization of strong Csp3&#8208;H bonds of cyclic and linear alkanes by the activation of commercially available ethyl diazoacetate (EDA). The reaction proceeds with good yields, under mild reaction conditions (40&#186;C) and large excess of substrate is not needed. In addition, excellent activity is observed in the cyclopropanation of challenging aliphatic olefins.</dc:description>
+      <dc:creator>
+M&#242;nica Rodr&#237;guez, 
+Gemma Font, 
+Joel Nadal, 
+Alberto Hern&#225;n-G&#243;mez, 
+Miquel Costas
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000817?af=R</link>
+      <content:encoded>&lt;p&gt;The modification of strong Csp3&#8208;H bonds via iron carbene intermediates under mild reaction conditions has been an important challenge with attractive prospective in organic synthesis. In this work, we show the efficient combination of an electrophilic iron catalyst with a lithium Lewis acid for the functionalization of strong Csp3&#8208;H bonds of cyclic and linear alkanes by the activation of commercially available ethyl diazoacetate (EDA). The reaction proceeds with good yields, under mild reaction conditions (40&#186;C) and large excess of substrate is not needed. In addition, excellent activity is observed in the cyclopropanation of challenging aliphatic olefins.&lt;/p&gt;</content:encoded>
+      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
+      <dc:title>Iron catalyzed intermolecular functionalization of non&#8208;activated aliphatic C&#8208;H bonds via carbene transfer</dc:title>
+      <dc:identifier>doi:10.1002/adsc.202000817</dc:identifier>
+      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
+      <dc:date>2020-09-11T07:28:05-07:00</dc:date>
+      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
+      <prism:doi>10.1002/adsc.202000817</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000817?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202000729?af=R">
       <title>Synthesis of 2&#8208;Aryl&#8208;2&#8208;hydroxyethyl Dithiocarbamates via Regioselective Addition of Tetraalkylthiuram Disulfides to Styrenes under Transition&#8208;Metal&#8208;Free Conditions</title>
       <dc:description>This paper describes a method for the synthesis of 2&#8208;aryl&#8208;2&#8208;hydroxyethyl dithiocarbamates via difunctionalization of alkenes involving C&#8208;S and C&#8208;O bonds formation with tetraalkylthiuram disulfides as the functional reagents. The reaction proceeded well under transition&#8208;metal&#8208;free conditions and afforded up to 88% yield of the desired products. Numerous useful functional groups were tolerated under the reaction conditions. This methodology provides a direct approach to &#946;&#8208;hydroxy dithiocarbamates, featuring with readily available starting materials, broad substrate scope, which shows its practical synthetic value in organic synthesis.</dc:description>
@@ -826,28 +849,6 @@ Gopinathan Anilkumar
       <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
       <prism:doi>10.1002/adsc.202000827</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000827?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000689?af=R">
-      <title>Site&#8208;Selective C(sp3)&#8210;H and C(sp2)&#8210;H Functionalization of Amines Using a Directing&#8208;Group&#8208;Guided Strategy</title>
-      <dc:description>Amines represent an important class of industrial feedstock as many pharmaceuticals, agrochemicals, petrochemicals, and healthcare products are derived from them. Researchers around the globe are investing their time and efforts in developing novel methodologies for the functionalization of aliphatic and aromatic amines by improving their functional group tolerance, regioselectivity, chemoselectivity, and time efficiency. Among the most studied methods for the derivatization of amines, C&#8210;H activation is gaining significant interest due to easy to follow, environmentally friendly, and time economic protocols. Transition metal&#8208;catalyzed C(sp3)&#8210; and C(sp2)&#8210;H  activation is a fascinating field of chemistry where the electronics of the structure, functional group characteristics, and nature of the directing group (DG) decide the outcome of the chemical reaction. Under carefully tailored reaction conditions and by a selection of the correct substrates/reagent, site&#8208;specific C&#8210;H functionalization can be achieved at different positions with respect to the amine group. This review provides an overview of the combination of carbon&#8210;carbon and carbon&#8210;heteroatom functionalizations and describes recent state&#8208;of&#8208;art methodologies, as well as challenges in this emerging field.</dc:description>
-      <dc:creator>
-Mohit Kapoor, 
-Adhish Singh, 
-Kirti Sharma, 
-Ming Hua Hsu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000689?af=R</link>
-      <content:encoded>&lt;p&gt;Amines represent an important class of industrial feedstock as many pharmaceuticals, agrochemicals, petrochemicals, and healthcare products are derived from them. Researchers around the globe are investing their time and efforts in developing novel methodologies for the functionalization of aliphatic and aromatic amines by improving their functional group tolerance, regioselectivity, chemoselectivity, and time efficiency. Among the most studied methods for the derivatization of amines, C&#8210;H activation is gaining significant interest due to easy to follow, environmentally friendly, and time economic protocols. Transition metal&#8208;catalyzed C(sp3)&#8210; and C(sp2)&#8210;H  activation is a fascinating field of chemistry where the electronics of the structure, functional group characteristics, and nature of the directing group (DG) decide the outcome of the chemical reaction. Under carefully tailored reaction conditions and by a selection of the correct substrates/reagent, site&#8208;specific C&#8210;H functionalization can be achieved at different positions with respect to the amine group. This review provides an overview of the combination of carbon&#8210;carbon and carbon&#8210;heteroatom functionalizations and describes recent state&#8208;of&#8208;art methodologies, as well as challenges in this emerging field.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>Site&#8208;Selective C(sp3)&#8210;H and C(sp2)&#8210;H Functionalization of Amines Using a Directing&#8208;Group&#8208;Guided Strategy</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000689</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-08-20T07:22:05-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000689</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000689?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
