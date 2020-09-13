@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000598?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000552?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000377?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000430?af=R" />
@@ -151,7 +152,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000280?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000313?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000306?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -160,6 +160,30 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000598?af=R">
+      <title>Characterization of a Mo&#8208;nitrogenase variant containing a citrate&#8208;substituted cofactor</title>
+      <dc:description>Nitrogenase converts N  2  to NH  3  , and CO to hydrocarbons, at its cofactor site. Here, we report a biochemical and spectroscopic characterization of a Mo&#8208;nitrogenase variant expressed in an  Azotobacter vinelandii  strain containing a deletion of  nifV  , the gene encoding the homocitrate synthase. Designated NifDK  Cit  , the catalytic component of this Mo&#8208;nitrogenase variant contains a citrate&#8208;substituted cofactor analog. Activity analysis of NifDK  Cit  reveals a shift of CO&#8208;reduction from H  2  &#8208;evolution toward hydrocarbon&#8208;formation and an opposite shift of N  2  &#8208;reduction from NH  3  &#8208;formation toward H  2  &#8208;evolution. Consistent with a shift in the Mo K&#8208;edge energy of NifDK  Cit  relative to that of its wildtype counterpart, EPR analysis demonstrates a broadening of the line&#8208;shape and a decrease in the intensity of the cofactor&#8208;originated  S  = 3/2 signal, suggesting a change in the spin properties of the cofactor upon citrate substitution. These observations point to a crucial role of homocitrate in substrate reduction by nitrogenase and the possibility to tune product profiles of nitrogenase reactions via organic ligand substitution.</dc:description>
+      <dc:creator>
+Jasper Liedtke, 
+Chi Chung Lee, 
+Kazuki Tanifuji, 
+Andrew Jasniewski, 
+Markus  Walter Ribbe, 
+Yilin Hu
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000598?af=R</link>
+      <content:encoded>&lt;p&gt;Nitrogenase converts N  2  to NH  3  , and CO to hydrocarbons, at its cofactor site. Here, we report a biochemical and spectroscopic characterization of a Mo&#8208;nitrogenase variant expressed in an  Azotobacter vinelandii  strain containing a deletion of  nifV  , the gene encoding the homocitrate synthase. Designated NifDK  Cit  , the catalytic component of this Mo&#8208;nitrogenase variant contains a citrate&#8208;substituted cofactor analog. Activity analysis of NifDK  Cit  reveals a shift of CO&#8208;reduction from H  2  &#8208;evolution toward hydrocarbon&#8208;formation and an opposite shift of N  2  &#8208;reduction from NH  3  &#8208;formation toward H  2  &#8208;evolution. Consistent with a shift in the Mo K&#8208;edge energy of NifDK  Cit  relative to that of its wildtype counterpart, EPR analysis demonstrates a broadening of the line&#8208;shape and a decrease in the intensity of the cofactor&#8208;originated  S  = 3/2 signal, suggesting a change in the spin properties of the cofactor upon citrate substitution. These observations point to a crucial role of homocitrate in substrate reduction by nitrogenase and the possibility to tune product profiles of nitrogenase reactions via organic ligand substitution.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Characterization of a Mo&#8208;nitrogenase variant containing a citrate&#8208;substituted cofactor</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000598</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-12T09:59:41-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000598</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000598?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000552?af=R">
       <title>Simultaneous Visualization of Wet Cells and Nanostructured Biomaterials in SEM using Ionic Liquids</title>
       <dc:description>This work presents a successful methodology to image mammalian cells adhered to nanostructured titanium using scanning electron microscopy (SEM) operating in low&#8208;vacuum mode following ionic liquid treatment. Human osteoblast&#8208;like Saos&#8208;2 cells were treated with a room&#8208;temperature ionic liquid, 1&#8208;ethyl&#8208;3&#8208;methylimidazolium tetrafluoroborate, and subsequently imaged on titanium utilizing SEM. Titanium substrates were modified to create laser&#8208;induced periodic surface structures (LIPSS) for visualizing at the sub&#8208;micron scale. Using a combination of fluorescence&#8208;based cell metabolism along with light microscopy and SEM image analysis, the shape and location of irradiated cells were confirmed to be unchanged after multiple irradiation sessions while the viability of minimally irradiated cells was unaltered. The wet imaging conditions combined with a rapid facile protocol using ionic liquid allows this technique to fulfill a niche in examining cellular behavior on biomaterials with sub&#8208;micron surface features. The demonstrated method to track observed cell adhesion to sub&#8208;micron surface features with SEM has great implications for the understanding of cell migration on nanostructured surfaces as well as on the exploration of simpler SEM preparation methods for cellular imaging.</dc:description>
@@ -2469,26 +2493,5 @@ Gerard Roelfes
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000306?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000379?af=R">
-      <title>Tryptophan Synthase: Biocatalyst Extraordinaire</title>
-      <dc:description>Tryptophan synthase (TrpS) has emerged as a paragon of noncanonical amino acid (ncAA) synthesis and is an ideal biocatalyst for synthetic and biological applications. TrpS catalyzes an irreversible, C&#8211;C bond forming reaction between indole and serine (Ser) to make  l  &#8208;tryptophan (Trp); native TrpS complexes possess fairly broad specificity for indole analogs, but are difficult to engineer to extend substrate scope or to confer other useful properties due to allosteric constraints and their heterodimeric structure. Directed evolution freed the catalytically relevant TrpS &#946;&#8208;subunit (TrpB) from allosteric regulation by its TrpA partner and has enabled dramatic expansion of the enzyme&#8217;s substrate scope. This review examines the long and storied career of TrpS from the perspective of its application in ncAA synthesis and biocatalytic cascades.</dc:description>
-      <dc:creator>
-Ella  J Watkins-Dulaney, 
-Sabine Straathof, 
-Frances  H. Arnold
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000379?af=R</link>
-      <content:encoded>&lt;p&gt;Tryptophan synthase (TrpS) has emerged as a paragon of noncanonical amino acid (ncAA) synthesis and is an ideal biocatalyst for synthetic and biological applications. TrpS catalyzes an irreversible, C&#8211;C bond forming reaction between indole and serine (Ser) to make  l  &#8208;tryptophan (Trp); native TrpS complexes possess fairly broad specificity for indole analogs, but are difficult to engineer to extend substrate scope or to confer other useful properties due to allosteric constraints and their heterodimeric structure. Directed evolution freed the catalytically relevant TrpS &#946;&#8208;subunit (TrpB) from allosteric regulation by its TrpA partner and has enabled dramatic expansion of the enzyme&#8217;s substrate scope. This review examines the long and storied career of TrpS from the perspective of its application in ncAA synthesis and biocatalytic cascades.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Tryptophan Synthase: Biocatalyst Extraordinaire</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000379</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-16T06:59:36-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000379</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000379?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
 </rdf:RDF>
