@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000544?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000598?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000552?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000377?af=R" />
@@ -134,7 +135,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000392?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000340?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000373?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000257?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000343?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000358?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000347?af=R" />
@@ -160,6 +160,27 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000544?af=R">
+      <title>Surface Ligand&#8208;Density Switches Glycovesicles Between Monomeric and Multimeric Lectin Recognitions</title>
+      <dc:description>Carbohydrate&#8208;protein interactions define multitude of cellular recognition events. We present herein synthetic glycovesicles as cell surface mimics in order to switch the nature of the lectin recognitions. The covalent glycovesicles, constituted with diacetylene monomers of varying ligand densities at their surfaces, are prepared through photo&#8208;polymerization. Vesicles imbedded with sparsely populated ligands engage a lectin interaction, leading to a dense cross&#8208;linked multimeric complex formation. Whereas vesicles having the most or complete ligand constitution switch the lectin interaction to form a fully soluble monomeric complex, without a cross&#8208;linking. Nanomolar dissociation constants govern these interactions, as assessed by a ligand displacement assay. The study demonstrates the switching between monomeric and multimeric nature of the interaction as a function of ligand densities in the vesicles and the results are directly relevant to understand such a phenomenon occurring at the cell surfaces.</dc:description>
+      <dc:creator>
+Narayanaswamy Jayaraman, 
+Shivender Yadav, 
+Kottari Naresh
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000544?af=R</link>
+      <content:encoded>&lt;p&gt;Carbohydrate&#8208;protein interactions define multitude of cellular recognition events. We present herein synthetic glycovesicles as cell surface mimics in order to switch the nature of the lectin recognitions. The covalent glycovesicles, constituted with diacetylene monomers of varying ligand densities at their surfaces, are prepared through photo&#8208;polymerization. Vesicles imbedded with sparsely populated ligands engage a lectin interaction, leading to a dense cross&#8208;linked multimeric complex formation. Whereas vesicles having the most or complete ligand constitution switch the lectin interaction to form a fully soluble monomeric complex, without a cross&#8208;linking. Nanomolar dissociation constants govern these interactions, as assessed by a ligand displacement assay. The study demonstrates the switching between monomeric and multimeric nature of the interaction as a function of ligand densities in the vesicles and the results are directly relevant to understand such a phenomenon occurring at the cell surfaces.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Surface Ligand&#8208;Density Switches Glycovesicles Between Monomeric and Multimeric Lectin Recognitions</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000544</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-14T11:33:34-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000544</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000544?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000598?af=R">
       <title>Characterization of a Mo&#8208;nitrogenase variant containing a citrate&#8208;substituted cofactor</title>
       <dc:description>Nitrogenase converts N  2  to NH  3  , and CO to hydrocarbons, at its cofactor site. Here, we report a biochemical and spectroscopic characterization of a Mo&#8208;nitrogenase variant expressed in an  Azotobacter vinelandii  strain containing a deletion of  nifV  , the gene encoding the homocitrate synthase. Designated NifDK  Cit  , the catalytic component of this Mo&#8208;nitrogenase variant contains a citrate&#8208;substituted cofactor analog. Activity analysis of NifDK  Cit  reveals a shift of CO&#8208;reduction from H  2  &#8208;evolution toward hydrocarbon&#8208;formation and an opposite shift of N  2  &#8208;reduction from NH  3  &#8208;formation toward H  2  &#8208;evolution. Consistent with a shift in the Mo K&#8208;edge energy of NifDK  Cit  relative to that of its wildtype counterpart, EPR analysis demonstrates a broadening of the line&#8208;shape and a decrease in the intensity of the cofactor&#8208;originated  S  = 3/2 signal, suggesting a change in the spin properties of the cofactor upon citrate substitution. These observations point to a crucial role of homocitrate in substrate reduction by nitrogenase and the possibility to tune product profiles of nitrogenase reactions via organic ligand substitution.</dc:description>
@@ -2383,32 +2404,6 @@ Beate Koksch
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000373</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000373?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000257?af=R">
-      <title>An Engineered Escherichia coli Strain with Synthetic Metabolism for In&#8208;cell Production of Translationally Active Methionine Derivatives</title>
-      <dc:description>In the last decades, it became clear that the canonical amino acid repertoire codified by the universal genetic code is not up to the needs of the emerging biotechnologies. For such reason, extensive genetic code re&#8208;engineering is essential to expand the scope of ribosomal protein translation, leading to reprogrammed microbial cells equipped with an alternative biochemical alphabet to be exploited as potentially factories for biotechnological purposes. The prerequisite for this to happen is a continuous intracellular supply of non&#8208;canonical amino acids from simple and cheap precursors via synthetic metabolism. We engineered an  E. coli  bacterial system that fulfills these requirements through the reconfiguration of the methionine biosynthetic pathway and the introduction of an exogenous direct transsulfuration pathway. Our metabolic scheme operates  in vivo,  rescuing intermediates from core cell metabolism, and combining them with small bio&#8208;orthogonal compounds. Our reprogrammed  E. coli  strain is capable of in&#8208;cell production of  L&#8208;azidohomoalanine, which is directly incorporated into proteins in response to methionine codons. We thereby constructed a prototype suitable for economic, versatile, green sustainable chemistry, pushing towards enzyme chemistry and biotechnology&#8208;based production.</dc:description>
-      <dc:creator>
-Christian  Johannes Schipp, 
-Ying Ma, 
-Ammar Al-Shameri, 
-Federico D'Alessio, 
-Peter Neubauer, 
-Roberto Contestabile, 
-Nediljko Budisa, 
-Martino Luigi di Salvo
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000257?af=R</link>
-      <content:encoded>&lt;p&gt;In the last decades, it became clear that the canonical amino acid repertoire codified by the universal genetic code is not up to the needs of the emerging biotechnologies. For such reason, extensive genetic code re&#8208;engineering is essential to expand the scope of ribosomal protein translation, leading to reprogrammed microbial cells equipped with an alternative biochemical alphabet to be exploited as potentially factories for biotechnological purposes. The prerequisite for this to happen is a continuous intracellular supply of non&#8208;canonical amino acids from simple and cheap precursors via synthetic metabolism. We engineered an  E. coli  bacterial system that fulfills these requirements through the reconfiguration of the methionine biosynthetic pathway and the introduction of an exogenous direct transsulfuration pathway. Our metabolic scheme operates  in vivo,  rescuing intermediates from core cell metabolism, and combining them with small bio&#8208;orthogonal compounds. Our reprogrammed  E. coli  strain is capable of in&#8208;cell production of  L&#8208;azidohomoalanine, which is directly incorporated into proteins in response to methionine codons. We thereby constructed a prototype suitable for economic, versatile, green sustainable chemistry, pushing towards enzyme chemistry and biotechnology&#8208;based production.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>An Engineered Escherichia coli Strain with Synthetic Metabolism for In&#8208;cell Production of Translationally Active Methionine Derivatives</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000257</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-07-31T01:06:22-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000257</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000257?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
