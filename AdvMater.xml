@@ -9,10 +9,12 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004205?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004630?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004657?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003542?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001544?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004205?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004670?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002575?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002953?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003399?af=R" />
@@ -173,8 +175,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907500?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201907138?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002857?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001878?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001243?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -183,10 +183,10 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/adma.202004205?af=R">
-      <title>High&#8208;Sensitivity Acoustic Molecular Sensors Based on Large&#8208;Area, Spray&#8208;Coated 2D Covalent Organic Frameworks</title>
+   <item rdf:about="/doi/abs/10.1002/adma.202004630?af=R">
+      <title>Precise Control of Perovskite Crystallization Kinetics via Sequential A&#8208;Site Doping</title>
       <dc:description>
-High&#8208;resolution, large&#8208;scale fabrication of 2D covalent organic framework (COF) thin films is achieved by spray&#8208;coating colloidal inks of these materials. Using this additive manufacturing approach, 2D COF thin films are integrated into acoustic sensing platforms. These sensors achieve superlative detection of volatile amines including a limit&#8208;of&#8208;quantification of 10 ppb for trimethylamine, which is a target analyte for food spoilage detection.
+The whole crystallization pathways and mechanism of two&#8208;step fabricated perovskites are unveiled by in situ grazing&#8208;incidence wide&#8208;angle X&#8208;ray scattering measurements and density functional theory calculations. Sequential A&#8208;site doping of Cs+ and GA+ is found to alter the crystallization kinetics and improves the perovskite film morphology, giving rise to device efficiency as high as 23.5%.
 
 
 
@@ -196,41 +196,45 @@ High&#8208;resolution, large&#8208;scale fabrication of 2D covalent organic fram
 
 
 Abstract
-2D covalent organic frameworks (2D COFs) are a unique materials platform that combines covalent connectivity, structural regularity, and molecularly precise porosity. However, 2D COFs typically form insoluble aggregates, thus limiting their processing via additive manufacturing techniques. In thiswork, colloidal suspensions of boronate&#8208;ester&#8208;linked 2D COFs as a spray&#8208;coating ink to produce large&#8208;area 2D COF thin films is used. This method is synthetically general, with five different 2D COFs prepared as colloidal inks and subsequently spray&#8208;coated onto a diverse range of substrates. Moreover, this approach enables the deposition of multiple 2D COF materials simultaneously, which is not possible by polymerizing COFs on substrates directly. When combined with stencil masks, spray&#8208;coated 2D COFs are rapidly deposited as thin films larger than 200 cm2 with line resolutions below 50 &#181;m. To demonstrate that this deposition scheme preserves the desirable attributes of 2D COFs, spray&#8208;coated 2D COF thin films are incorporated as the active material in acoustic sensors. These 2D&#8208;COF&#8208;based sensors have a 10 ppb limit&#8208;of&#8208;quantification for trimethylamine, which places them among the most sensitive sensors for meat and seafood spoilage. Overall, this work establishes a scalable additive manufacturing technique that enables the integration of 2D COFs into thin&#8208;film device architectures.
+Two&#8208;step&#8208;fabricated FAPbI3&#8208;based perovskites have attracted increasing attention because of their excellent film quality and reproducibility. However, the underlying film formation mechanism remains mysterious. Here, the crystallization kinetics of a benchmark FAPbI3&#8208;based perovskite film with sequential A&#8208;site doping of Cs+ and GA+ is revealed by in situ X&#8208;ray scattering and first&#8208;principles calculations. Incorporating Cs+ in the first step induces an alternative pathway from &#948;&#8208;CsPbI3 to perovskite &#945;&#8208;phase, which is energetically more favorable than the conventional pathways from PbI2. However, pinholes are formed due to the nonuniform nucleation with sparse &#948;&#8208;CsPbI3 crystals. Fortunately, incorporating GA+ in the second step can not only promote the phase transition from &#948;&#8208;CsPbI3 to the perovskite &#945;&#8208;phase, but also eliminate pinholes via Ostwald ripening and enhanced grain boundary migration, thus boosting efficiencies of perovskite solar cells over 23%. This work demonstrates the unprecedented advantage of the two&#8208;step process over the one&#8208;step process, allowing a precise control of the perovskite crystallization kinetics by decoupling the crystal nucleation and growth process.
 </dc:description>
       <dc:creator>
-Austin M. Evans, 
-Nathan P. Bradshaw, 
-Brian Litchfield, 
-Michael J. Strauss, 
-Bethany Seckman, 
-Matthew R. Ryder, 
-Ioannina Castano, 
-Christopher Gilmore, 
-Nathan C. Gianneschi, 
-Catherine R. Mulzer, 
-Mark C. Hersam, 
-William R. Dichtel
+Minchao Qin, 
+Haibo Xue, 
+Hengkai Zhang, 
+Hanlin Hu, 
+Kuan Liu, 
+Yuhao Li, 
+Zhaotong Qin, 
+Junjie Ma, 
+Hepeng Zhu, 
+Keyou Yan, 
+Guojia Fang, 
+Gang Li, 
+U&#8208;Ser Jeng, 
+Geert Brocks, 
+Shuxia Tao, 
+Xinhui Lu
 </dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004205?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1a3028ac-55fd-44d2-8e93-f82bb1cb10f8/adma202004205-gra-0001-m.png"
-     alt="High&#8208;Sensitivity Acoustic Molecular Sensors Based on Large&#8208;Area, Spray&#8208;Coated 2D Covalent Organic Frameworks"/&gt;
-&lt;p&gt;High&#8208;resolution, large&#8208;scale fabrication of 2D covalent organic framework (COF) thin films is achieved by spray&#8208;coating colloidal inks of these materials. Using this additive manufacturing approach, 2D COF thin films are integrated into acoustic sensing platforms. These sensors achieve superlative detection of volatile amines including a limit&#8208;of&#8208;quantification of 10 ppb for trimethylamine, which is a target analyte for food spoilage detection.
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004630?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f60468c2-ec61-463e-bda7-b5fc9c8608e8/adma202004630-gra-0001-m.png"
+     alt="Precise Control of Perovskite Crystallization Kinetics via Sequential A&#8208;Site Doping"/&gt;
+&lt;p&gt;The whole crystallization pathways and mechanism of two&#8208;step fabricated perovskites are unveiled by in situ grazing&#8208;incidence wide&#8208;angle X&#8208;ray scattering measurements and density functional theory calculations. Sequential A&#8208;site doping of Cs&lt;sup&gt;+&lt;/sup&gt; and GA&lt;sup&gt;+&lt;/sup&gt; is found to alter the crystallization kinetics and improves the perovskite film morphology, giving rise to device efficiency as high as 23.5%.
 
 
 &lt;/p&gt;
 &lt;br/&gt;
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;2D covalent organic frameworks (2D COFs) are a unique materials platform that combines covalent connectivity, structural regularity, and molecularly precise porosity. However, 2D COFs typically form insoluble aggregates, thus limiting their processing via additive manufacturing techniques. In thiswork, colloidal suspensions of boronate&#8208;ester&#8208;linked 2D COFs as a spray&#8208;coating ink to produce large&#8208;area 2D COF thin films is used. This method is synthetically general, with five different 2D COFs prepared as colloidal inks and subsequently spray&#8208;coated onto a diverse range of substrates. Moreover, this approach enables the deposition of multiple 2D COF materials simultaneously, which is not possible by polymerizing COFs on substrates directly. When combined with stencil masks, spray&#8208;coated 2D COFs are rapidly deposited as thin films larger than 200 cm&lt;sup&gt;2&lt;/sup&gt; with line resolutions below 50 &#181;m. To demonstrate that this deposition scheme preserves the desirable attributes of 2D COFs, spray&#8208;coated 2D COF thin films are incorporated as the active material in acoustic sensors. These 2D&#8208;COF&#8208;based sensors have a 10 ppb limit&#8208;of&#8208;quantification for trimethylamine, which places them among the most sensitive sensors for meat and seafood spoilage. Overall, this work establishes a scalable additive manufacturing technique that enables the integration of 2D COFs into thin&#8208;film device architectures.&lt;/p&gt;
+&lt;p&gt;Two&#8208;step&#8208;fabricated FAPbI&lt;sub&gt;3&lt;/sub&gt;&#8208;based perovskites have attracted increasing attention because of their excellent film quality and reproducibility. However, the underlying film formation mechanism remains mysterious. Here, the crystallization kinetics of a benchmark FAPbI&lt;sub&gt;3&lt;/sub&gt;&#8208;based perovskite film with sequential A&#8208;site doping of Cs&lt;sup&gt;+&lt;/sup&gt; and GA&lt;sup&gt;+&lt;/sup&gt; is revealed by in situ X&#8208;ray scattering and first&#8208;principles calculations. Incorporating Cs&lt;sup&gt;+&lt;/sup&gt; in the first step induces an alternative pathway from &#948;&#8208;CsPbI&lt;sub&gt;3&lt;/sub&gt; to perovskite &#945;&#8208;phase, which is energetically more favorable than the conventional pathways from PbI&lt;sub&gt;2&lt;/sub&gt;. However, pinholes are formed due to the nonuniform nucleation with sparse &#948;&#8208;CsPbI&lt;sub&gt;3&lt;/sub&gt; crystals. Fortunately, incorporating GA&lt;sup&gt;+&lt;/sup&gt; in the second step can not only promote the phase transition from &#948;&#8208;CsPbI&lt;sub&gt;3&lt;/sub&gt; to the perovskite &#945;&#8208;phase, but also eliminate pinholes via Ostwald ripening and enhanced grain boundary migration, thus boosting efficiencies of perovskite solar cells over 23%. This work demonstrates the unprecedented advantage of the two&#8208;step process over the one&#8208;step process, allowing a precise control of the perovskite crystallization kinetics by decoupling the crystal nucleation and growth process.&lt;/p&gt;
 </content:encoded>
       <description>Advanced Materials, EarlyView. </description>
-      <dc:title>High&#8208;Sensitivity Acoustic Molecular Sensors Based on Large&#8208;Area, Spray&#8208;Coated 2D Covalent Organic Frameworks</dc:title>
-      <dc:identifier>doi:10.1002/adma.202004205</dc:identifier>
+      <dc:title>Precise Control of Perovskite Crystallization Kinetics via Sequential A&#8208;Site Doping</dc:title>
+      <dc:identifier>doi:10.1002/adma.202004630</dc:identifier>
       <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-09-16T11:27:55-07:00</dc:date>
+      <dc:date>2020-09-16T11:30:40-07:00</dc:date>
       <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202004205</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004205?af=R</prism:url>
+      <prism:doi>10.1002/adma.202004630</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004630?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -375,6 +379,59 @@ Xun Wang
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202001544</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001544?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202004670?af=R">
+      <title>Coexisting Single&#8208;Atomic Fe and Ni Sites on Hierarchically Ordered Porous Carbon as a Highly Efficient ORR Electrocatalyst</title>
+      <dc:description>
+A hetero&#8208;single&#8208;atom oxygen reduction reaction (ORR) electrocatalyst having atomically dispersed Fe and Ni coanchored to a microsized nitrogen&#8208;doped carbon support with unique trimodal&#8208;porous structure configured by ordered macropores interconnected through mesopores is presented. The achieved outstanding ORR performance results from the synergetic enhancement induced by the coexisting Fe&#63743;N4 and Ni&#63743;N4 sites, and the superior mass&#8208;transfer capability.
+
+
+
+
+
+
+
+
+Abstract
+The development of oxygen reduction reaction (ORR) electrocatalysts based on earth&#8208;abundant nonprecious materials is critically important for sustainable large&#8208;scale applications of fuel cells and metal&#8211;air batteries. Herein, a hetero&#8208;single&#8208;atom (h&#8208;SA) ORR electrocatalyst is presented, which has atomically dispersed Fe and Ni coanchored to a microsized nitrogen&#8208;doped graphitic carbon support with unique trimodal&#8208;porous structure configured by highly ordered macropores interconnected through mesopores. Extended X&#8208;ray absorption fine structure spectra confirm that Fe&#8208; and Ni&#8208;SAs are affixed to the carbon support via Fe&#63743;N4 and Ni&#63743;N4 coordination bonds. The resultant Fe/Ni h&#8208;SA electrocatalyst exhibits an outstanding ORR activity, outperforming SA electrocatalysts with only Fe&#8208; or Ni&#8208;SAs, and the benchmark Pt/C. The obtained experimental results indicate that the achieved outstanding ORR performance results from the synergetic enhancement induced by the coexisting Fe&#63743;N4 and Ni&#63743;N4 sites, and the superior mass&#8208;transfer capability promoted by the trimodal&#8208;porous&#8208;structured carbon support.
+</dc:description>
+      <dc:creator>
+Zhengju Zhu, 
+Huajie Yin, 
+Yun Wang, 
+Cheng&#8208;Hao Chuang, 
+Lei Xing, 
+Mengyang Dong, 
+Ying&#8208;Rui Lu, 
+Gilberto Casillas&#8208;Garcia, 
+Yonglong Zheng, 
+Shan Chen, 
+Yuhai Dou, 
+Porun Liu, 
+Qilin Cheng, 
+Huijun Zhao
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004670?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6ba8e61d-8e62-4788-ba71-5db52fc6a670/adma202004670-gra-0001-m.png"
+     alt="Coexisting Single&#8208;Atomic Fe and Ni Sites on Hierarchically Ordered Porous Carbon as a Highly Efficient ORR Electrocatalyst"/&gt;
+&lt;p&gt;A hetero&#8208;single&#8208;atom oxygen reduction reaction (ORR) electrocatalyst having atomically dispersed Fe and Ni coanchored to a microsized nitrogen&#8208;doped carbon support with unique trimodal&#8208;porous structure configured by ordered macropores interconnected through mesopores is presented. The achieved outstanding ORR performance results from the synergetic enhancement induced by the coexisting Fe&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;sub&gt;4&lt;/sub&gt; and Ni&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;sub&gt;4&lt;/sub&gt; sites, and the superior mass&#8208;transfer capability.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The development of oxygen reduction reaction (ORR) electrocatalysts based on earth&#8208;abundant nonprecious materials is critically important for sustainable large&#8208;scale applications of fuel cells and metal&#8211;air batteries. Herein, a hetero&#8208;single&#8208;atom (h&#8208;SA) ORR electrocatalyst is presented, which has atomically dispersed Fe and Ni coanchored to a microsized nitrogen&#8208;doped graphitic carbon support with unique trimodal&#8208;porous structure configured by highly ordered macropores interconnected through mesopores. Extended X&#8208;ray absorption fine structure spectra confirm that Fe&#8208; and Ni&#8208;SAs are affixed to the carbon support via Fe&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;sub&gt;4&lt;/sub&gt; and Ni&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;sub&gt;4&lt;/sub&gt; coordination bonds. The resultant Fe/Ni h&#8208;SA electrocatalyst exhibits an outstanding ORR activity, outperforming SA electrocatalysts with only Fe&#8208; or Ni&#8208;SAs, and the benchmark Pt/C. The obtained experimental results indicate that the achieved outstanding ORR performance results from the synergetic enhancement induced by the coexisting Fe&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;sub&gt;4&lt;/sub&gt; and Ni&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N&lt;sub&gt;4&lt;/sub&gt; sites, and the superior mass&#8208;transfer capability promoted by the trimodal&#8208;porous&#8208;structured carbon support.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Coexisting Single&#8208;Atomic Fe and Ni Sites on Hierarchically Ordered Porous Carbon as a Highly Efficient ORR Electrocatalyst</dc:title>
+      <dc:identifier>doi:10.1002/adma.202004670</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-09-16T12:00:00-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202004670</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004670?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -4331,115 +4388,6 @@ Xiaoqing Huang
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202002857</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002857?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001878?af=R">
-      <title>Tuning the Structural and Optoelectronic Properties of Cs2AgBiBr6 Double&#8208;Perovskite Single Crystals through Alkali&#8208;Metal Substitution</title>
-      <dc:description>
-The search for nontoxic perovskite materials with long&#8208;term stability provides new opportunities for optoelectronics. Alkali&#8208;substituted compounds based on the double perovskite Cs2AgBiBr6 are scrutinized in terms of their photo&#8208;physical and structural properties. Cation&#8208;substitution entails an enhanced carrier recombination lifetime and, in combination with the tunability in the sensitivity to X&#8208;rays, makes these materials suitable for applications in X&#8208;ray detectors.
-
-
-
-
-
-
-
-
-Abstract
-Lead&#8208;free double perovskites have great potential as stable and nontoxic optoelectronic materials. Recently, Cs2AgBiBr6 has emerged as a promising material, with suboptimal photon&#8208;to&#8208;charge carrier conversion efficiency, yet well suited for high&#8208;energy photon&#8208;detection applications. Here, the optoelectronic and structural properties of pure Cs2AgBiBr6 and alkali&#8208;metal&#8208;substituted (Cs1&#8722;xYx)2AgBiBr6 (Y: Rb+, K+, Na+; x&#160;= 0.02) single crystals are investigated. Strikingly, alkali&#8208;substitution entails a tunability to the material system in its response to X&#8208;rays and structural properties that is most strongly revealed in Rb&#8208;substituted compounds whose X&#8208;ray sensitivity outperforms other double&#8208;perovskite&#8208;based devices reported. While the fundamental nature and magnitude of the bandgap remains unchanged, the alkali&#8208;substituted materials exhibit a threefold boost in their fundamental carrier recombination lifetime at room temperature. Moreover, an enhanced electron&#8211;acoustic phonon scattering is found compared to Cs2AgBiBr6. The study thus paves the way for employing cation substitution to tune the properties of double perovskites toward a new material platform for optoelectronics.
-</dc:description>
-      <dc:creator>
-Masoumeh Keshavarz, 
-Elke Debroye, 
-Martin Ottesen, 
-Cristina Martin, 
-Heng Zhang, 
-Eduard Fron, 
-Robert K&#252;chler, 
-Julian A. Steele, 
-Martin Bremholm, 
-Joris Van de Vondel, 
-Hai I. Wang, 
-Mischa Bonn, 
-Maarten B. J. Roeffaers, 
-Steffen Wiedmann, 
-Johan Hofkens
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001878?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/fdec21b1-f419-4d2f-bc59-f9e7c30e1185/adma202001878-gra-0001-m.png"
-     alt="Tuning the Structural and Optoelectronic Properties of Cs2AgBiBr6 Double&#8208;Perovskite Single Crystals through Alkali&#8208;Metal Substitution"/&gt;
-&lt;p&gt;The search for nontoxic perovskite materials with long&#8208;term stability provides new opportunities for optoelectronics. Alkali&#8208;substituted compounds based on the double perovskite Cs&lt;sub&gt;2&lt;/sub&gt;AgBiBr&lt;sub&gt;6&lt;/sub&gt; are scrutinized in terms of their photo&#8208;physical and structural properties. Cation&#8208;substitution entails an enhanced carrier recombination lifetime and, in combination with the tunability in the sensitivity to X&#8208;rays, makes these materials suitable for applications in X&#8208;ray detectors.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Lead&#8208;free double perovskites have great potential as stable and nontoxic optoelectronic materials. Recently, Cs&lt;sub&gt;2&lt;/sub&gt;AgBiBr&lt;sub&gt;6&lt;/sub&gt; has emerged as a promising material, with suboptimal photon&#8208;to&#8208;charge carrier conversion efficiency, yet well suited for high&#8208;energy photon&#8208;detection applications. Here, the optoelectronic and structural properties of pure Cs&lt;sub&gt;2&lt;/sub&gt;AgBiBr&lt;sub&gt;6&lt;/sub&gt; and alkali&#8208;metal&#8208;substituted (Cs&lt;sub&gt;1&#8722;&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt;Y&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt;)&lt;sub&gt;2&lt;/sub&gt;AgBiBr&lt;sub&gt;6&lt;/sub&gt; (Y: Rb&lt;sup&gt;+&lt;/sup&gt;, K&lt;sup&gt;+&lt;/sup&gt;, Na&lt;sup&gt;+&lt;/sup&gt;; &lt;i&gt;x&lt;/i&gt;&#160;= 0.02) single crystals are investigated. Strikingly, alkali&#8208;substitution entails a tunability to the material system in its response to X&#8208;rays and structural properties that is most strongly revealed in Rb&#8208;substituted compounds whose X&#8208;ray sensitivity outperforms other double&#8208;perovskite&#8208;based devices reported. While the fundamental nature and magnitude of the bandgap remains unchanged, the alkali&#8208;substituted materials exhibit a threefold boost in their fundamental carrier recombination lifetime at room temperature. Moreover, an enhanced electron&#8211;acoustic phonon scattering is found compared to Cs&lt;sub&gt;2&lt;/sub&gt;AgBiBr&lt;sub&gt;6&lt;/sub&gt;. The study thus paves the way for employing cation substitution to tune the properties of double perovskites toward a new material platform for optoelectronics.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Tuning the Structural and Optoelectronic Properties of Cs2AgBiBr6 Double&#8208;Perovskite Single Crystals through Alkali&#8208;Metal Substitution</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001878</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-08-31T12:21:25-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001878</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001878?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202001243?af=R">
-      <title>Printable CsPbI3 Perovskite Solar Cells with PCE of 19% via an Additive Strategy</title>
-      <dc:description>
-The development of the first high&#8208;performance, printable CsPbI3 solar cells via an ambient blade&#8208;coating technique is reported. High&#8208;quality CsPbI3 films are grown via the introduction of a low concentration of the multifunctional molecular additive Zn(C6F5)2. As a result, the additive&#8208;treated perovskite solar cell delivers a power conversion efficiency (PCE) of 19%.
-
-
-
-
-
-
-
-
-Abstract
-All&#8208;inorganic CsPbI3 holds promise for efficient tandem solar cells, but reported fabrication techniques are not transferrable to scalable manufacturing methods. Herein, printable CsPbI3 solar cells are reported, in which the charge transporting layers and photoactive layer are deposited by fast blade&#8208;coating at a low temperature (&#8804;100 &#176;C)&#160;in ambient conditions. High&#8208;quality CsPbI3 films are grown via introducing a low concentration of the multifunctional molecular additive Zn(C6F5)2, which reconciles the conflict between air&#8208;flow&#8208;assisted fast drying and low&#8208;quality film including energy misalignment and trap formation. Material analysis reveals a preferential accumulation of the additive close to the perovskite/SnO2 interface and strong chemisorption on the perovskite surface, which leads to the formation of energy gradients and suppressed trap formation within the perovskite film, as well as a 150 meV improvement of the energetic alignment at the perovskite/SnO2 interface. The combined benefits translate into significant enhancement of the power conversion efficiency to 19% for printable solar cells. The devices without encapsulation degrade only by &#8776;2% after 700 h in air conditions.
-</dc:description>
-      <dc:creator>
-Xiaoming Chang, 
-Junjie Fang, 
-Yuanyuan Fan, 
-Tao Luo, 
-Hang Su, 
-Yalan Zhang, 
-Jing Lu, 
-Leonidas Tsetseris, 
-Thomas D. Anthopoulos, 
-Shengzhong (Frank) Liu, 
-Kui Zhao
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001243?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/873279cf-c4fa-4a45-83d0-0d725ad1463e/adma202001243-gra-0001-m.png"
-     alt="Printable CsPbI3 Perovskite Solar Cells with PCE of 19% via an Additive Strategy"/&gt;
-&lt;p&gt;The development of the first high&#8208;performance, printable CsPbI&lt;sub&gt;3&lt;/sub&gt; solar cells via an ambient blade&#8208;coating technique is reported. High&#8208;quality CsPbI&lt;sub&gt;3&lt;/sub&gt; films are grown via the introduction of a low concentration of the multifunctional molecular additive Zn(C&lt;sub&gt;6&lt;/sub&gt;F&lt;sub&gt;5&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;. As a result, the additive&#8208;treated perovskite solar cell delivers a power conversion efficiency (PCE) of 19%.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;All&#8208;inorganic CsPbI&lt;sub&gt;3&lt;/sub&gt; holds promise for efficient tandem solar cells, but reported fabrication techniques are not transferrable to scalable manufacturing methods. Herein, printable CsPbI&lt;sub&gt;3&lt;/sub&gt; solar cells are reported, in which the charge transporting layers and photoactive layer are deposited by fast blade&#8208;coating at a low temperature (&#8804;100 &#176;C)&#160;in ambient conditions. High&#8208;quality CsPbI&lt;sub&gt;3&lt;/sub&gt; films are grown via introducing a low concentration of the multifunctional molecular additive Zn(C&lt;sub&gt;6&lt;/sub&gt;F&lt;sub&gt;5&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;, which reconciles the conflict between air&#8208;flow&#8208;assisted fast drying and low&#8208;quality film including energy misalignment and trap formation. Material analysis reveals a preferential accumulation of the additive close to the perovskite/SnO&lt;sub&gt;2&lt;/sub&gt; interface and strong chemisorption on the perovskite surface, which leads to the formation of energy gradients and suppressed trap formation within the perovskite film, as well as a 150 meV improvement of the energetic alignment at the perovskite/SnO&lt;sub&gt;2&lt;/sub&gt; interface. The combined benefits translate into significant enhancement of the power conversion efficiency to 19% for printable solar cells. The devices without encapsulation degrade only by &#8776;2% after 700 h in air conditions.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Printable CsPbI3 Perovskite Solar Cells with PCE of 19% via an Additive Strategy</dc:title>
-      <dc:identifier>doi:10.1002/adma.202001243</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-08-31T12:21:13-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202001243</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202001243?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
