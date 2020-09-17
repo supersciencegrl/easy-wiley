@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008052?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010159?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010675?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009796?af=R" />
@@ -180,7 +181,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009986?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009756?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008804?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011015?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009399?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007005?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006822?af=R" />
@@ -210,6 +210,26 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202008052?af=R">
+      <title>Surface Interrogation of Electrodeposited MnOx and CaMnO3 Perovskites by Scanning Electrochemical Microscopy: Probing Active Sites and Kinetics for the Oxygen Evolution Reaction</title>
+      <dc:description>Here we report the surface interrogation scanning electrochemical microscopy (SI&#8208;SECM) of two electrodeposited manganese&#8208;based electrocatalysts, amorphous MnOx and perovskite CaMnO3, to investigate the manganese oxidation state relating to the oxygen evolution reaction (OER) under neutral conditions. The results indicate the amounts of Mn(III) and Mn(IV) species in MnOx and CaMnO3 depend on potential. A Mn(V) species was identified in both structures during the OER. Time&#8208;delay titration of Mn(V) further revealed that MnOx produced two types of active sites with different OER reactions rates, k&#8217;fast(MnOx) = 1.21 s&#8208;1 and k&#8217;slow(MnOx) = 0.24 s&#8208;1. In contrast, CaMnO3 perovskites in which the Mn(V) species formed at a less positive potential than that in MnOx, displayed only one kinetic behavior with a faster reaction rate of 1.72 s&#8208;1.</dc:description>
+      <dc:creator>
+Zhaoyu Jin, 
+Allen  J. Bard
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008052?af=R</link>
+      <content:encoded>&lt;p&gt;Here we report the surface interrogation scanning electrochemical microscopy (SI&#8208;SECM) of two electrodeposited manganese&#8208;based electrocatalysts, amorphous MnOx and perovskite CaMnO3, to investigate the manganese oxidation state relating to the oxygen evolution reaction (OER) under neutral conditions. The results indicate the amounts of Mn(III) and Mn(IV) species in MnOx and CaMnO3 depend on potential. A Mn(V) species was identified in both structures during the OER. Time&#8208;delay titration of Mn(V) further revealed that MnOx produced two types of active sites with different OER reactions rates, k&#8217;fast(MnOx) = 1.21 s&#8208;1 and k&#8217;slow(MnOx) = 0.24 s&#8208;1. In contrast, CaMnO3 perovskites in which the Mn(V) species formed at a less positive potential than that in MnOx, displayed only one kinetic behavior with a faster reaction rate of 1.72 s&#8208;1.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Surface Interrogation of Electrodeposited MnOx and CaMnO3 Perovskites by Scanning Electrochemical Microscopy: Probing Active Sites and Kinetics for the Oxygen Evolution Reaction</dc:title>
+      <dc:identifier>doi:10.1002/anie.202008052</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-16T08:28:50-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202008052</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008052?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202010159?af=R">
       <title>Modulating single&#8208;atom Pd sites with Cu for enhanced ambient ammonia electrosynthesis</title>
       <dc:description>The electrochemical reduction of N  2  to NH  3  is emerging as a promising alternative for sustainable and distributed production of NH  3  . However, the development has been impeded by difficulties in N  2  adsorption, protonation of *NN and inhibition of competing hydrogen evolution. To address the issues, we design a catalyst with diatomic Pd&#8208;Cu sites on N&#8208;doped carbon by modulation of single&#8208;atom Pd sites with Cu. The introduction of Cu not only shifts the partial density states of Pd toward the Fermi level but also promote the d&#8208;2&#960;* coupling between Pd and adsorbed N  2  , leading to enhanced N  2  chemisorption, activated protonation and suppressed hydrogen evolution. As a result, the catalyst achieves a high Faradaic efficiency of 24.8 &#177; 0.8% and a desirable NH  3  yield rate of 69.2 &#177; 2.5 &#956;g h  &#8208;1  mg  cat.  &#8208;  1  , far outperforming the individual single&#8208;atom Pd catalyst. This work paves a pathway of engineering single&#8208;atom&#8208;based electrocatalysts for enhanced ammonia electrosynthesis.</dc:description>
@@ -1799,43 +1819,6 @@ John  M. Louis
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008804?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011015?af=R">
-      <title>Structural characterization of the N&#8208;linked glycans in the receptor binding domain of the SARS&#8208;CoV&#8208;2 spike protein and&#160;their interactions with human lectins using NMR spectroscopy</title>
-      <dc:description>The glycan structures of the receptor binding domain of the SARS&#8208;CoV2 spike glycoprotein expressed in human&#160;HEK293F cells&#160;have been studied by using NMR. The different possible interacting epitopes have been deeply analysed and characterized, providing evidence of the presence of glycan structures&#160;not found&#160;in previous MS&#8208;based analyses. The interaction of the RBD&#160;13C&#8208;labelled glycans with different&#160;human lectins, which are expressed in different organs and tissues that may be affected during the infection process, has also been evaluated by NMR. In particular,&#160;15N&#8208;labelled galectins (galectins&#8208;3, &#8208;7 and &#8208;8 N&#8208;terminal), Siglecs (siglec&#8208;8, siglec&#8208;10), and C&#8208;type lectins (DC&#8208;SIGN, MGL) have been employed. Complementary experiments&#160;from&#160;the glycoprotein perspective or from the lectin&#8217;s point of view have permitted to disentangle the specific interacting epitopes in each case. Based on these findings, 3D models of the interacting complexes have been proposed.</dc:description>
-      <dc:creator>
-Maria  Pia Lenza, 
-Iker Oyenarte, 
-Tammo Diercks, 
-Jon  Imanol Quintana, 
-Ana Gimeno, 
-Alexandre Bosch, 
-Helena Coelho, 
-Ana Diniz, 
-Francesca Peccati, 
-Sandra Delgado, 
-Mikel Valle, 
-Oscar Millet, 
-Nicola  G. A. Abrescia, 
-Asis Palaz&#243;n, 
-Filipa Marcelo, 
-Gonzalo Jimenez-Oses, 
-Jesus Jimenez-Barbero, 
-Ana Arda, 
-June Ere&#241;o-Orbea
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011015?af=R</link>
-      <content:encoded>&lt;p&gt;The glycan structures of the receptor binding domain of the SARS&#8208;CoV2 spike glycoprotein expressed in human&#160;HEK293F cells&#160;have been studied by using NMR. The different possible interacting epitopes have been deeply analysed and characterized, providing evidence of the presence of glycan structures&#160;not found&#160;in previous MS&#8208;based analyses. The interaction of the RBD&#160;13C&#8208;labelled glycans with different&#160;human lectins, which are expressed in different organs and tissues that may be affected during the infection process, has also been evaluated by NMR. In particular,&#160;15N&#8208;labelled galectins (galectins&#8208;3, &#8208;7 and &#8208;8 N&#8208;terminal), Siglecs (siglec&#8208;8, siglec&#8208;10), and C&#8208;type lectins (DC&#8208;SIGN, MGL) have been employed. Complementary experiments&#160;from&#160;the glycoprotein perspective or from the lectin&#8217;s point of view have permitted to disentangle the specific interacting epitopes in each case. Based on these findings, 3D models of the interacting complexes have been proposed.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Structural characterization of the N&#8208;linked glycans in the receptor binding domain of the SARS&#8208;CoV&#8208;2 spike protein and&#160;their interactions with human lectins using NMR spectroscopy</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011015</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-11T07:00:28-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011015</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011015?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202006398?af=R">
       <title>&#945;&#8208;Functionalisation of Ketones Through Metal&#8208;Free Electrophilic Activation</title>
