@@ -9,10 +9,10 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000638?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000526?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000413?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000551?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000651?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000525?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000636?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000439?af=R" />
@@ -22,6 +22,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000503?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000392?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000349?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000651?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000095?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000132?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000155?af=R" />
@@ -150,7 +151,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000295?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000381?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000356?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000245?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -159,6 +159,43 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000638?af=R">
+      <title>A Step toward Molecular Evolution of RNA: Ribose Binds to Prebiotic Fatty Acid Membranes, and Nucleosides Bind Better than Individual Bases Do</title>
+      <dc:description>
+Membranes set the stage for RNA formation. RNA is a polymer of bases, sugar (ribose), and phosphate. Binding of these building blocks to prebiotic, fatty&#8208;acid membranes may have facilitated RNA's formation. On their own, some bases bind weakly to membranes, whereas a base linked to ribose or phosphoribose binds more strongly. Thus, simple membranes could have selected and concentrated linked versions of RNA's building blocks prior to their polymerization. More information can be found in the communication by R.&#8197;A. Black et&#8197;al.
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Mengjun Xue, 
+Roy A. Black, 
+Caitlin E. Cornell, 
+Gary P. Drobny, 
+Sarah L. Keller
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000638?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/2e9e555c-d6f2-46be-9fb2-c6b17bad49f2/cbic202000638-toc-0001-m.png"
+     alt="A Step toward Molecular Evolution of RNA: Ribose Binds to Prebiotic Fatty Acid Membranes, and Nucleosides Bind Better than Individual Bases Do"/&gt;
+&lt;p&gt;&lt;b&gt;Membranes set the stage for RNA formation&lt;/b&gt;. RNA is a polymer of bases, sugar (ribose), and phosphate. Binding of these building blocks to prebiotic, fatty&#8208;acid membranes may have facilitated RNA's formation. On their own, some bases bind weakly to membranes, whereas a base linked to ribose or phosphoribose binds more strongly. Thus, simple membranes could have selected and concentrated linked versions of RNA's building blocks prior to their polymerization. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000260communication by R.&#8197;A. Black et&#8197;al.&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>A Step toward Molecular Evolution of RNA: Ribose Binds to Prebiotic Fatty Acid Membranes, and Nucleosides Bind Better than Individual Bases Do</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000638</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-17T05:30:32-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000638</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000638?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Cover Picture</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000526?af=R">
       <title>Engineering of Thermostable &#946;&#8208;Hydroxyacid Dehydrogenase for the Asymmetric Reduction of Imines</title>
       <dc:description>
@@ -223,28 +260,6 @@ Doris Riether
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000551</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000551?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000651?af=R">
-      <title>Facile Stereoselective Reduction of Prochiral Ketones using an F420&#8208;dependent alcohol dehydrogenase</title>
-      <dc:description>Effective procedures for the synthesis of optically pure alcohols are highly valuable. A commonly employed method involves the biocatalytic reduction of prochiral ketones. This is typically achieved using nicotinamide cofactor&#8208;dependent reductases. In this work we demonstrate that a rather unexplored class of enzymes can also be used for this. We used an F  420  &#8208;dependent alcohol dehydrogenase (ADF) from  Methanoculleus thermophilicus  which was found to reduce various ketones into enantiopure alcohols. The respective  S  &#8208;alcohols were obtained in excellent enantiopurity (&gt;99%  e.e.  ). Furthermore, we discovered that the deazaflavoenzyme can be used as a self&#8208;sufficient system by merely using a sacrificial cosubstrate (isopropanol) and a catalytic amount of cofactor F  420  or the unnatural cofactor FOP to achieve full conversions. This study reveals that deaza&#173;flavo&#173;enzymes complement the biocatalytic toolbox for enantio&#173;selective ketone reductions.</dc:description>
-      <dc:creator>
-Caterina Martin, 
-Gwen Tjallinks, 
-Milos Trajkovic, 
-Marco Fraaije
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000651?af=R</link>
-      <content:encoded>&lt;p&gt;Effective procedures for the synthesis of optically pure alcohols are highly valuable. A commonly employed method involves the biocatalytic reduction of prochiral ketones. This is typically achieved using nicotinamide cofactor&#8208;dependent reductases. In this work we demonstrate that a rather unexplored class of enzymes can also be used for this. We used an F  420  &#8208;dependent alcohol dehydrogenase (ADF) from  Methanoculleus thermophilicus  which was found to reduce various ketones into enantiopure alcohols. The respective  S  &#8208;alcohols were obtained in excellent enantiopurity (&amp;gt;99%  e.e.  ). Furthermore, we discovered that the deazaflavoenzyme can be used as a self&#8208;sufficient system by merely using a sacrificial cosubstrate (isopropanol) and a catalytic amount of cofactor F  420  or the unnatural cofactor FOP to achieve full conversions. This study reveals that deaza&#173;flavo&#173;enzymes complement the biocatalytic toolbox for enantio&#173;selective ketone reductions.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Facile Stereoselective Reduction of Prochiral Ketones using an F420&#8208;dependent alcohol dehydrogenase</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000651</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-16T04:01:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000651</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000651?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
