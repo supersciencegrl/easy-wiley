@@ -9,6 +9,11 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010171?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011339?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011318?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011569?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010099?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012218?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012133?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011727?af=R" />
@@ -18,6 +23,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010768?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008765?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008075?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010746?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010436?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012276?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008350?af=R" />
@@ -182,12 +188,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010835?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011750?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011696?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009031?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009991?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009828?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008369?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008175?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011480?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008962?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009781?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008916?af=R" />
@@ -208,6 +208,140 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202010171?af=R">
+      <title>Precise alkoxyamine&#8208;design enables automated tandem mass spectrometry sequencing of digital poly(phosphodiester)s</title>
+      <dc:description>Increasing data storage density is one of the major challenges of the information industry. To be widely applicable, writing and reading information have to be dense, convenient and fast. A major step towards reliable reading of information coded in the sequence of long poly(phosphodiester)s was previously achieved by introducing an alkoxyamine spacer between information sub&#8208;segments. However, MS/MS decoding had to be performed manually to safely identify useful fragments of low abundance compared to side&#8208;products induced by the amide&#8208;based alkoxyamine used. Here, alternative alkoxyamines were designed to prevent these side&#8208;reactions and enable automated MS/MS sequencing. Different styryl&#8208;TEMPO spacers were prepared to increase radical delocalization and stiffness of the structure. Their dissociation behavior was investigated by EPR and best MS/MS data were recorded for polymers with alkoxyamines containing in&#8208;chain benzyl ring, avoiding all side&#8208;reactions during synthesis or sequencing. As a result, automated decoding of these polymers can be achieved using the MS&#8208;DECODER software, which performs interpretation of fragmentation data recorded for each sub&#8208;segment prior to align the so&#8208;obtained digital sequences in their original order based on the mass tag defining the initial location of each sub&#8208;segment.</dc:description>
+      <dc:creator>
+K&#233;vin Launay, 
+Jean-Arthur Amalian, 
+Eline Laurent, 
+Laurence Oswald, 
+Abdelaziz Al Ouahabi, 
+Alexandre Burel, 
+Florent Dufour, 
+Christine Carapito, 
+Jean-Louis Cl&#233;ment, 
+Jean-Fran&#231;ois Lutz, 
+Laurence Charles, 
+Didier Gigmes
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010171?af=R</link>
+      <content:encoded>&lt;p&gt;Increasing data storage density is one of the major challenges of the information industry. To be widely applicable, writing and reading information have to be dense, convenient and fast. A major step towards reliable reading of information coded in the sequence of long poly(phosphodiester)s was previously achieved by introducing an alkoxyamine spacer between information sub&#8208;segments. However, MS/MS decoding had to be performed manually to safely identify useful fragments of low abundance compared to side&#8208;products induced by the amide&#8208;based alkoxyamine used. Here, alternative alkoxyamines were designed to prevent these side&#8208;reactions and enable automated MS/MS sequencing. Different styryl&#8208;TEMPO spacers were prepared to increase radical delocalization and stiffness of the structure. Their dissociation behavior was investigated by EPR and best MS/MS data were recorded for polymers with alkoxyamines containing in&#8208;chain benzyl ring, avoiding all side&#8208;reactions during synthesis or sequencing. As a result, automated decoding of these polymers can be achieved using the MS&#8208;DECODER software, which performs interpretation of fragmentation data recorded for each sub&#8208;segment prior to align the so&#8208;obtained digital sequences in their original order based on the mass tag defining the initial location of each sub&#8208;segment.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Precise alkoxyamine&#8208;design enables automated tandem mass spectrometry sequencing of digital poly(phosphodiester)s</dc:title>
+      <dc:identifier>doi:10.1002/anie.202010171</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-22T11:28:33-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202010171</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010171?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011339?af=R">
+      <title>Regio&#8208; and Enantioselective Ni&#8208;Catalyzed Formal Hydroalkylation, Hydrobenzylation and Hydropropargylation of Acrylamides to &#945;&#8208;Tertiary Amides</title>
+      <dc:description>To develop enantioselective alkyl&#8208;alkyl cross&#8208;couplings with coinstantaneous formation of a stereogenic center without the use of sensitive organometallic species is attractive yet challenging. Herein, we report the intermolecular regio&#8208; and enantioselective formal hydrofunctionalizations of acrylamides, forging a stereogenic center  &#945;  &#8208;position to the newly formed C  sp3  &#8208;C  sp3  bond for the first time. The use of a new developed chiral ligand enables the electronically&#8208;reversed formal hydrofunctionalizations, including hydroalkylation, hydrobenzylation, and hydropropargylation, offering an efficient way to access diverse enantioenriched amides with a tertiary  &#945;  &#8208;stereogenic carbon center which is facile to racemize. This operationally simple protocol allows for the anti&#8208;Markovnikov enantioselective hydroalkylation, and unprecedented hydrobenzylation, hydropropargylation under mild conditions with excellent functional group compatibility, delivering a wide range of amides with excellent levels of enantioselectivity.</dc:description>
+      <dc:creator>
+Wei Shu, 
+Lou Shi
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011339?af=R</link>
+      <content:encoded>&lt;p&gt;To develop enantioselective alkyl&#8208;alkyl cross&#8208;couplings with coinstantaneous formation of a stereogenic center without the use of sensitive organometallic species is attractive yet challenging. Herein, we report the intermolecular regio&#8208; and enantioselective formal hydrofunctionalizations of acrylamides, forging a stereogenic center  &#945;  &#8208;position to the newly formed C  sp3  &#8208;C  sp3  bond for the first time. The use of a new developed chiral ligand enables the electronically&#8208;reversed formal hydrofunctionalizations, including hydroalkylation, hydrobenzylation, and hydropropargylation, offering an efficient way to access diverse enantioenriched amides with a tertiary  &#945;  &#8208;stereogenic carbon center which is facile to racemize. This operationally simple protocol allows for the anti&#8208;Markovnikov enantioselective hydroalkylation, and unprecedented hydrobenzylation, hydropropargylation under mild conditions with excellent functional group compatibility, delivering a wide range of amides with excellent levels of enantioselectivity.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Regio&#8208; and Enantioselective Ni&#8208;Catalyzed Formal Hydroalkylation, Hydrobenzylation and Hydropropargylation of Acrylamides to &#945;&#8208;Tertiary Amides</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011339</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-22T11:14:15-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011339</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011339?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011318?af=R">
+      <title>Phase&#8208;junction Electrocatalysts towards Enhanced Hydrogen Evolution Reaction in Alkaline Media</title>
+      <dc:description>To ensure the sustainable hydrogen production via water electrolysis technique, robust, earth&#8208;abundant and high&#8208;efficient electrocatalyst is highly required. Nowadays, to overcome the limitation of conventional single&#8208;phase  component  , constructing hybrid system could lead to further improvement in electrocatalytic activity. Interface engineering in composite catalysts is thus critical to determine the performance, and phase&#8208;junction interface is supposed to obviously improve the catalytic activity. Here, as a proof&#8208;of&#8208;concept, we presented a combination of theoretical and experimental investigation to certify that nickel diphosphide phase&#8208;junction (c&#8208;NiP  2  /m&#8208;NiP2  ) is an effective electrocatalyst for hydrogen production in alkaline media. The overpotential (at 10 mA cm  &#8208;2  ) for NiP2&#8208;650 (c/m  ) in alkaline media could be significantly reduced by 26% and 96% compared with  c&#8208;NiP2  and  m&#8208;NiP2  , respectively. The enhancement of&#160;catalytic activity should be attributed to the strong water dissociation ability and the rearrangement of electrons around the phase&#8208;junction, which markedly improved the Volmer step and benefited the reduction process of adsorbed protons.</dc:description>
+      <dc:creator>
+Qiang Fu, 
+Xianjie Wang, 
+Jiecai Han, 
+Jun Zhong, 
+Zhang Tongrui, 
+Tai Yao, 
+Chengyan Xu, 
+Tangling Gao, 
+Shibo Xi, 
+Ce Liang, 
+Lingling Xu, 
+Ping Xu, 
+Bo Song
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011318?af=R</link>
+      <content:encoded>&lt;p&gt;To ensure the sustainable hydrogen production via water electrolysis technique, robust, earth&#8208;abundant and high&#8208;efficient electrocatalyst is highly required. Nowadays, to overcome the limitation of conventional single&#8208;phase  component  , constructing hybrid system could lead to further improvement in electrocatalytic activity. Interface engineering in composite catalysts is thus critical to determine the performance, and phase&#8208;junction interface is supposed to obviously improve the catalytic activity. Here, as a proof&#8208;of&#8208;concept, we presented a combination of theoretical and experimental investigation to certify that nickel diphosphide phase&#8208;junction (c&#8208;NiP  2  /m&#8208;NiP2  ) is an effective electrocatalyst for hydrogen production in alkaline media. The overpotential (at 10 mA cm  &#8208;2  ) for NiP2&#8208;650 (c/m  ) in alkaline media could be significantly reduced by 26% and 96% compared with  c&#8208;NiP2  and  m&#8208;NiP2  , respectively. The enhancement of&#160;catalytic activity should be attributed to the strong water dissociation ability and the rearrangement of electrons around the phase&#8208;junction, which markedly improved the Volmer step and benefited the reduction process of adsorbed protons.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Phase&#8208;junction Electrocatalysts towards Enhanced Hydrogen Evolution Reaction in Alkaline Media</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011318</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-22T11:10:41-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011318</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011318?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011569?af=R">
+      <title>Antioxidative Stannous Oxalate Derived Lead&#8208;Free Stable CsSnX3&#160;(X = Cl, Br, and I) Perovskite Nanocrystals</title>
+      <dc:description>The current research on all&#8208;inorganic perovskite NCs is mainly focused on Pb&#8208;based materials (CsPbX3, X = Cl, Br, and I). However, the toxicity of Pb has become a major obstacle to its application. Correspondingly, lead&#8208;free CsSnX3 perovskite NCs are becoming a promising alternative, but suffer from extremely poor stability. Herein, we highlight the significant effect of Sn(II) precursors used in the synthesis on the stability of the resultant CsSnX3 NCs. A new method is proposed for synthesizing CsSnX3 NCs using Cs2CO3, SnC2O4, and NH4X as corresponding constituent precursors, wherein the ratio of reactants can be facilely adjusted. Stable CsSnX3 NCs can be obtained with the use of antioxidative SnC2O4 as the Sn(II) precursor. Experimental results show that the improvement of NCs stability is mainly ascribed to the role of oxalate in the SnC2O4 precursor. Oxalate ion has a strong antioxidative ability and can effectively inhibit the oxidation of Sn(II) during the synthesis. Besides, oxalate as a bidentate capping ligand is demonstrated to be coordinated on the surface of formed NCs. This can not only passivate the uncoordinated Sn on the surface but also prevent the oxidation of the NCs.</dc:description>
+      <dc:creator>
+Cuiting Kang, 
+Huashang Rao, 
+Yueping Fang, 
+Jiejun Zeng, 
+Zhenxiao Pan, 
+Xinhua Zhong
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011569?af=R</link>
+      <content:encoded>&lt;p&gt;The current research on all&#8208;inorganic perovskite NCs is mainly focused on Pb&#8208;based materials (CsPbX3, X = Cl, Br, and I). However, the toxicity of Pb has become a major obstacle to its application. Correspondingly, lead&#8208;free CsSnX3 perovskite NCs are becoming a promising alternative, but suffer from extremely poor stability. Herein, we highlight the significant effect of Sn(II) precursors used in the synthesis on the stability of the resultant CsSnX3 NCs. A new method is proposed for synthesizing CsSnX3 NCs using Cs2CO3, SnC2O4, and NH4X as corresponding constituent precursors, wherein the ratio of reactants can be facilely adjusted. Stable CsSnX3 NCs can be obtained with the use of antioxidative SnC2O4 as the Sn(II) precursor. Experimental results show that the improvement of NCs stability is mainly ascribed to the role of oxalate in the SnC2O4 precursor. Oxalate ion has a strong antioxidative ability and can effectively inhibit the oxidation of Sn(II) during the synthesis. Besides, oxalate as a bidentate capping ligand is demonstrated to be coordinated on the surface of formed NCs. This can not only passivate the uncoordinated Sn on the surface but also prevent the oxidation of the NCs.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Antioxidative Stannous Oxalate Derived Lead&#8208;Free Stable CsSnX3&#160;(X = Cl, Br, and I) Perovskite Nanocrystals</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011569</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-22T11:06:37-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011569</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011569?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202010099?af=R">
+      <title>Shear stress&#8208;responsive polymersome nanoreactors inspired by the marine bioluminescence of dinoflagellates</title>
+      <dc:description>Some marine plankton called dinoflagellates emit light in response to the movement of surrounding water, resulting in a phenomenon called milky seas or sea sparkle. The underlying concept, a shear&#8208;stress induced permeabilisation of biocatalytic reaction compartments, is transferred to polymer&#8208;based nanoreactors. Amphiphilic block copolymers that carry nucleobases in their hydrophobic block are self&#8208;assembled into polymersomes. The membrane of the vesicles can be transiently switched between an impermeable to a semipermeble state by shear forces occurring in flow or during turbulent mixing of polymersome dispersions. Nucleobase pairs in the hydrophobic leaflet separate when mechanical force is applied, exposing their hydrogen bonding motifs and therefore making the membrane less hydrophobic and more permeable for water soluble compounds. This polarity switch is used to release payload of the polymersomes on demand, and to activate biocatalytic reactions in the interior of the polymersomes, such as luminescence reactions or radical polymerizations catalysed by the enzyme horseradish peroxidase. Such bio&#8208;inspired shear stress&#8209;responsive nanoreactors have potential for applications ranging from gel&#8208;formation on demand, to three&#8208;dimensional inkjet printing, and shear&#8208;stress triggered drug delivery.</dc:description>
+      <dc:creator>
+Omar Rifaie-Graham, 
+Nikolas  F.B. Galensowske, 
+Charlie Dean, 
+Jonas Pollard, 
+Sandor Balog, 
+Micael  G. Gouveia, 
+Mohamed Chami, 
+Antoine Vian, 
+Esther Amstad, 
+Marco Lattuada, 
+Nico Bruns
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010099?af=R</link>
+      <content:encoded>&lt;p&gt;Some marine plankton called dinoflagellates emit light in response to the movement of surrounding water, resulting in a phenomenon called milky seas or sea sparkle. The underlying concept, a shear&#8208;stress induced permeabilisation of biocatalytic reaction compartments, is transferred to polymer&#8208;based nanoreactors. Amphiphilic block copolymers that carry nucleobases in their hydrophobic block are self&#8208;assembled into polymersomes. The membrane of the vesicles can be transiently switched between an impermeable to a semipermeble state by shear forces occurring in flow or during turbulent mixing of polymersome dispersions. Nucleobase pairs in the hydrophobic leaflet separate when mechanical force is applied, exposing their hydrogen bonding motifs and therefore making the membrane less hydrophobic and more permeable for water soluble compounds. This polarity switch is used to release payload of the polymersomes on demand, and to activate biocatalytic reactions in the interior of the polymersomes, such as luminescence reactions or radical polymerizations catalysed by the enzyme horseradish peroxidase. Such bio&#8208;inspired shear stress&#8209;responsive nanoreactors have potential for applications ranging from gel&#8208;formation on demand, to three&#8208;dimensional inkjet printing, and shear&#8208;stress triggered drug delivery.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Shear stress&#8208;responsive polymersome nanoreactors inspired by the marine bioluminescence of dinoflagellates</dc:title>
+      <dc:identifier>doi:10.1002/anie.202010099</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-22T11:04:12-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202010099</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010099?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012218?af=R">
       <title>Frustrated Lewis Pair Chelation as a Vehicle for Low Temperature Semiconductor Element and Polymer Deposition</title>
       <dc:description>The stabilization of silicon(II) and germanium(II) dihydrides by an intramolecular Frustrated Lewis Pair (FLP) ligand, PB,  i Pr&#173;2P(C6H4)BCy2 (Cy = cyclohexyl) is reported. The resulting hydride complexes [PB{SiH2}] and [PB{GeH2}] are indefinitely stable at room temperature, yet can deposit films of silicon and germanium, respectively, upon mild thermolysis in solution. Hallmarks of this work include: (1) the ability to recycle the FLP phosphine&#8208;borane ligand (PB) after element deposition, and (2) the single&#8208;source precursor [PB{SiH2}] deposits Si films at a record low temperature from solution (110 &#176;C). The dialkylsilicon(II) adduct [PB{SiMe2}] was also prepared, and shown to release poly(dimethylsilane) [SiMe2]n upon heating. Overall, this study introduces a &#8220;closed loop&#8221; deposition strategy for semiconductors that steers materials science away from the use of harsh reagents or high temperatures.</dc:description>
@@ -438,6 +572,33 @@ Sofia  Ioana Pascu
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008075?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202010746?af=R">
+      <title>NIR&#8208;Sensitized Cationic and Hybrid Radical/Cationic Polymerization and Crosslinking</title>
+      <dc:description>NIR sensitized cationic polymerization proceeded with good efficiency as studied with epoxides, vinyl ether, and oxetanes.&#160; A heptacyanine functioned as sensitizer while iodonium salts served as coinitiator.&#160; The anion uptakes a special function as concluded by a series selected from fluorinated phosphates (a: [PF6]&#8208;, b: [PF3(C2F5)3]&#8208;, c: [PF3(n&#8208;C4F9)3]), aluminates (d: [Al(O&#8208;t&#8208;C4F9)4]&#8208;, e: [Al(O(C3F6)CH3)4]&#8208; , and methide [C(O&#8208;SO2CF3)3]&#8208; (f).&#160; Vinyl ether showed the best cationic polymerization efficiency followed by oxetanes and oxiranes.&#160; Density functional theory calculations provided a rough pattern regarding the electrostatic potential of each anion where d exhibited a rather better performance compared to e.&#160; The more efficient shielding of all CF3&#8208;groups can explain these findings.&#160; Anion d also better performed as b, which was introduced as alternative to a.&#160; In addition, formation of interpenetrating polymer networks (IPNs) using trimethylpropane triacrylate and either oxetane or epoxide&#8208;based monomer successfully proceeded in the case of NIR sensitized polymerization were anion d served as anion for the sensitizer and the iodonium salt.&#160; No successful IPN formation occurred in the case of UV&#8208;LED initiation using the same monomers but the photoinitiating system comprised of thioxanthone/iodonium salt.&#160; Exposure was carried out with new NIR&#8208;LED devices emitting at either 805 nm or 870 nm.</dc:description>
+      <dc:creator>
+Yulian Pang, 
+Atsushi Shiraishi, 
+Dietmar Keil, 
+Sergey Popov, 
+Veronika Strehmel, 
+Hongjun Jao, 
+Jochen  S. Gutmann, 
+Yinquan Zou, 
+Bernd Strehmel
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010746?af=R</link>
+      <content:encoded>&lt;p&gt;NIR sensitized cationic polymerization proceeded with good efficiency as studied with epoxides, vinyl ether, and oxetanes.&#160; A heptacyanine functioned as sensitizer while iodonium salts served as coinitiator.&#160; The anion uptakes a special function as concluded by a series selected from fluorinated phosphates (a: [PF6]&#8208;, b: [PF3(C2F5)3]&#8208;, c: [PF3(n&#8208;C4F9)3]), aluminates (d: [Al(O&#8208;t&#8208;C4F9)4]&#8208;, e: [Al(O(C3F6)CH3)4]&#8208; , and methide [C(O&#8208;SO2CF3)3]&#8208; (f).&#160; Vinyl ether showed the best cationic polymerization efficiency followed by oxetanes and oxiranes.&#160; Density functional theory calculations provided a rough pattern regarding the electrostatic potential of each anion where d exhibited a rather better performance compared to e.&#160; The more efficient shielding of all CF3&#8208;groups can explain these findings.&#160; Anion d also better performed as b, which was introduced as alternative to a.&#160; In addition, formation of interpenetrating polymer networks (IPNs) using trimethylpropane triacrylate and either oxetane or epoxide&#8208;based monomer successfully proceeded in the case of NIR sensitized polymerization were anion d served as anion for the sensitizer and the iodonium salt.&#160; No successful IPN formation occurred in the case of UV&#8208;LED initiation using the same monomers but the photoinitiating system comprised of thioxanthone/iodonium salt.&#160; Exposure was carried out with new NIR&#8208;LED devices emitting at either 805 nm or 870 nm.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>NIR&#8208;Sensitized Cationic and Hybrid Radical/Cationic Polymerization and Crosslinking</dc:title>
+      <dc:identifier>doi:10.1002/anie.202010746</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-22T12:00:00-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202010746</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010746?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202010436?af=R">
       <title>Pentacyclic Nano&#8208;Trefoil</title>
@@ -1628,140 +1789,6 @@ Natacha Rochel
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202008992</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008992?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009991?af=R">
-      <title>Turning on Zn 4s Electrons in a N2&#8208;Zn&#8208;B2 Configuration to Stimulate Remarkable ORR Performance</title>
-      <dc:description>Zn based single atom catalyst has been recently explored with distinguished stability, of which the fully occupied Zn  2+  3d  10  4s  2  electronic configuration is Fenton reaction inactive, but the catalytic activity is thus inferior. Herein, we report a new approach to manipulate the s&#8208;band by constructing a state&#8208;of&#8208;the&#8208;art B, N co&#8208;coordinated Zn&#8208;B/N&#8208;C catalyst. We confirm both experimentally and theoretically that the unique N2&#8208;Zn&#8208;B2 configuration is crucial, in which Zn  +  (3d  10  4s  1  ) can hold enough delocalized electrons to generate suitable binding strength for key reaction intermediates and promote the charge transfer between catalytic surface and ORR reactants. This exclusive effect is not found in the other transition metal counterparts such as M&#8208;B/N&#8208;C (M=Mn, Fe, Co, Ni and Cu). &#160;Consequently, the as obtained catalyst demonstrate impressive ORR activity, along with remarkable long&#8208;term stability in both alkaline and acid media. This work presents a new concept in the further design of electrocatalyst.</dc:description>
-      <dc:creator>
-Jing Wang, 
-Hongguan Li, 
-Shuhu Liu, 
-Yongfeng Hu, 
-Jing Zhang, 
-Meirong Xia, 
-Yanglong Hou, 
-John Tse, 
-Jiujun Zhang, 
-Yufeng Zhao
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009991?af=R</link>
-      <content:encoded>&lt;p&gt;Zn based single atom catalyst has been recently explored with distinguished stability, of which the fully occupied Zn  2+  3d  10  4s  2  electronic configuration is Fenton reaction inactive, but the catalytic activity is thus inferior. Herein, we report a new approach to manipulate the s&#8208;band by constructing a state&#8208;of&#8208;the&#8208;art B, N co&#8208;coordinated Zn&#8208;B/N&#8208;C catalyst. We confirm both experimentally and theoretically that the unique N2&#8208;Zn&#8208;B2 configuration is crucial, in which Zn  +  (3d  10  4s  1  ) can hold enough delocalized electrons to generate suitable binding strength for key reaction intermediates and promote the charge transfer between catalytic surface and ORR reactants. This exclusive effect is not found in the other transition metal counterparts such as M&#8208;B/N&#8208;C (M=Mn, Fe, Co, Ni and Cu). &#160;Consequently, the as obtained catalyst demonstrate impressive ORR activity, along with remarkable long&#8208;term stability in both alkaline and acid media. This work presents a new concept in the further design of electrocatalyst.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Turning on Zn 4s Electrons in a N2&#8208;Zn&#8208;B2 Configuration to Stimulate Remarkable ORR Performance</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009991</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-15T11:37:21-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009991</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009991?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009828?af=R">
-      <title>Generation of Glycosyl Radicals from Glycosyl Sulfoxides and Its Use in the Synthesis of C&#8208;linked Glycoconjugates</title>
-      <dc:description>We here report glycosyl sulfoxides appended with an aryl iodide moiety as readily available, air and moisture stable precursors to glycosyl radicals. These glycosyl sulfoxides could be converted to glycosyl radicals by way of a rapid and efficient intramolecular radical substitution event. The use of this type of precursors enabled the synthesis of various complex&#160;  C  &#8208;linked glycoconjugates under mild conditions. This reaction could be performed in aqueous media and is amenable to the synthesis of glycopeptidomimetics and carbohydrate&#8208;DNA conjugates.</dc:description>
-      <dc:creator>
-Weidong Shang, 
-Sheng-Nan Su, 
-Rong Shi, 
-Ze-Dong Mou, 
-Guo-Qiang Yu, 
-Xia Zhang, 
-Dawen Niu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009828?af=R</link>
-      <content:encoded>&lt;p&gt;We here report glycosyl sulfoxides appended with an aryl iodide moiety as readily available, air and moisture stable precursors to glycosyl radicals. These glycosyl sulfoxides could be converted to glycosyl radicals by way of a rapid and efficient intramolecular radical substitution event. The use of this type of precursors enabled the synthesis of various complex&#160;  C  &#8208;linked glycoconjugates under mild conditions. This reaction could be performed in aqueous media and is amenable to the synthesis of glycopeptidomimetics and carbohydrate&#8208;DNA conjugates.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Generation of Glycosyl Radicals from Glycosyl Sulfoxides and Its Use in the Synthesis of C&#8208;linked Glycoconjugates</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009828</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-15T11:35:51-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009828</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009828?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008369?af=R">
-      <title>Carbene&#8208;Catalyzed Enantioselective Aldol Reaction: Post&#8208;Aldol Stereochemistry Control and Formation of Quaternary Stereogenic Centers</title>
-      <dc:description>The dominated approaches for asymmetric aldol reactions have primarily focused on the aldol carbon&#8208;carbon bond forming events. Here we postulate and develop a new catalytic strategy that seeks to modulate the reaction thermodynamics and control the product enantioselectivities via post&#8208;aldol processes. Specifically, a NHC catalyst is used to activate a masked enolate substrate (vinyl carbonate) to promote the aldol reaction in a non&#8208;enantioselective manner. This aldol event is subsequently followed by a dynamic kinetic resolution process that is mediated by the same (chiral) NHC catalyst without introducing any additional substance. This post&#8208;aldol process takes care of the enantioselectivity issues and drives the otherwise reversible aldol reaction toward a complete conversion. The acylated aldol products bearing quaternary/tetrasubstituted carbon stereogenic centers are formed in good yields and high optical purities.</dc:description>
-      <dc:creator>
-Xing Yang, 
-Pankaj Kumar Majhi, 
-Huifang Chai, 
-Bin Liu, 
-Jun Sun, 
-Ting Liu, 
-Yonggui Liu, 
-Liejin Zhou, 
-Jun Xu, 
-Jiawei Liu, 
-Dongdong Wang, 
-Yanli Zhao, 
-Zhichao Jin, 
-Yonggui Robin Chi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008369?af=R</link>
-      <content:encoded>&lt;p&gt;The dominated approaches for asymmetric aldol reactions have primarily focused on the aldol carbon&#8208;carbon bond forming events. Here we postulate and develop a new catalytic strategy that seeks to modulate the reaction thermodynamics and control the product enantioselectivities via post&#8208;aldol processes. Specifically, a NHC catalyst is used to activate a masked enolate substrate (vinyl carbonate) to promote the aldol reaction in a non&#8208;enantioselective manner. This aldol event is subsequently followed by a dynamic kinetic resolution process that is mediated by the same (chiral) NHC catalyst without introducing any additional substance. This post&#8208;aldol process takes care of the enantioselectivity issues and drives the otherwise reversible aldol reaction toward a complete conversion. The acylated aldol products bearing quaternary/tetrasubstituted carbon stereogenic centers are formed in good yields and high optical purities.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Carbene&#8208;Catalyzed Enantioselective Aldol Reaction: Post&#8208;Aldol Stereochemistry Control and Formation of Quaternary Stereogenic Centers</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008369</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-15T11:16:47-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008369</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008369?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008175?af=R">
-      <title>Quantitative Protein Corona Composition and Dynamics on Carbon Nanotubes in Biological Environments</title>
-      <dc:description>When nanoparticles enter biological environments, proteins adsorb to form the &#8220;protein corona&#8221; which causes significant changes in biodistribution and toxicity. Herein, we measure protein corona formation on DNA&#8208;functionalized single&#8208;walled carbon nanotubes (ssDNA&#8208;SWCNTs), a nanoparticle ideal for sensing and delivery, in blood plasma and cerebrospinal fluid. We characterize corona composition by mass spectrometry, revealing high&#8208;abundance corona proteins involved in lipid binding, complement activation, and coagulation. We investigate roles of electrostatic and entropic interactions driving selective corona formation. Lastly, we study real&#8208;time protein binding on ssDNA&#8208;SWCNTs, obtaining agreement between enriched proteins binding strongly and depleted proteins binding marginally, while highlighting cooperative adsorption mechanisms. Knowledge of protein corona composition, formation mechanisms, and dynamics informs nanoparticle translation from  in vitro  design to  in vivo  application.</dc:description>
-      <dc:creator>
-Rebecca  L Pinals, 
-Darwin Yang, 
-Daniel  J Rosenberg, 
-Tanya Chaudhary, 
-Andrew  R Crothers, 
-Anthony  T Iavarone, 
-Michal Hammel, 
-Markita Landry
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008175?af=R</link>
-      <content:encoded>&lt;p&gt;When nanoparticles enter biological environments, proteins adsorb to form the &#8220;protein corona&#8221; which causes significant changes in biodistribution and toxicity. Herein, we measure protein corona formation on DNA&#8208;functionalized single&#8208;walled carbon nanotubes (ssDNA&#8208;SWCNTs), a nanoparticle ideal for sensing and delivery, in blood plasma and cerebrospinal fluid. We characterize corona composition by mass spectrometry, revealing high&#8208;abundance corona proteins involved in lipid binding, complement activation, and coagulation. We investigate roles of electrostatic and entropic interactions driving selective corona formation. Lastly, we study real&#8208;time protein binding on ssDNA&#8208;SWCNTs, obtaining agreement between enriched proteins binding strongly and depleted proteins binding marginally, while highlighting cooperative adsorption mechanisms. Knowledge of protein corona composition, formation mechanisms, and dynamics informs nanoparticle translation from  in vitro  design to  in vivo  application.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Quantitative Protein Corona Composition and Dynamics on Carbon Nanotubes in Biological Environments</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008175</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-15T10:48:09-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008175</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202008175?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011480?af=R">
-      <title>Molecular Zinc Hydride Cations [ZnH]+: Synthesis, Structure, and CO2 Hydrosilylation Catalysis</title>
-      <dc:description>Protonolysis of thermally unstable and insoluble [ZnH2]n with the conjugated Br&#248;nsted acid of the bidentate diamine TMEDA (N,N,N&#8242;,N&#8242;&#8208;tetramethylethane&#8208;1,2&#8208;diamine) and TEEDA (N,N,N&#8242;,N&#8242;&#8208;tetraethylethane&#8208;1,2&#8208;diamine) gave the zinc hydride cation [(L2)ZnH]+, isolable either as the mononuclear THF adduct [(L2)ZnH(thf)]+[BArF4]&#8208; (L2 = TMEDA; BArF4&#8208; = [B(3,5&#8208;(CF3)2&#8208;C6H3)4]&#8208;) or as the dimer [{(L2)Zn)}2(&#956;&#8208;H)2]2+[BArF4]&#8208;2 (L2 = TEEDA). In contrast to [ZnH2]n, the cationic zinc hydrides are thermally stable and soluble in THF. [(L2)ZnH]+ was also shown to form di&#8208; and trinuclear adducts of the elusive neutral [(L2)ZnH2] containing both terminal and bridging hydrido ligands. All hydride&#8208;containing cations readily inserted CO2 to give the corresponding formate complexes. [(TMEDA)ZnH]+[BArF4]&#8208; catalyzed the hydrosilylation of CO2 with tertiary hydrosilanes to give stepwise formoxy silane, methyl formate, and methoxy silane. The unexpected formation of methyl formate was shown to result from the zinc&#8208;catalyzed transesterification of methoxy silane with formoxy silane, which was eventually converted into methoxy silane as well.</dc:description>
-      <dc:creator>
-Jun Okuda, 
-Florian Ritter, 
-Thomas  P. Spaniol, 
-Iskander Douair, 
-Laurent Maron
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011480?af=R</link>
-      <content:encoded>&lt;p&gt;Protonolysis of thermally unstable and insoluble [ZnH2]n with the conjugated Br&#248;nsted acid of the bidentate diamine TMEDA (N,N,N&#8242;,N&#8242;&#8208;tetramethylethane&#8208;1,2&#8208;diamine) and TEEDA (N,N,N&#8242;,N&#8242;&#8208;tetraethylethane&#8208;1,2&#8208;diamine) gave the zinc hydride cation [(L2)ZnH]+, isolable either as the mononuclear THF adduct [(L2)ZnH(thf)]+[BArF4]&#8208; (L2 = TMEDA; BArF4&#8208; = [B(3,5&#8208;(CF3)2&#8208;C6H3)4]&#8208;) or as the dimer [{(L2)Zn)}2(&#956;&#8208;H)2]2+[BArF4]&#8208;2 (L2 = TEEDA). In contrast to [ZnH2]n, the cationic zinc hydrides are thermally stable and soluble in THF. [(L2)ZnH]+ was also shown to form di&#8208; and trinuclear adducts of the elusive neutral [(L2)ZnH2] containing both terminal and bridging hydrido ligands. All hydride&#8208;containing cations readily inserted CO2 to give the corresponding formate complexes. [(TMEDA)ZnH]+[BArF4]&#8208; catalyzed the hydrosilylation of CO2 with tertiary hydrosilanes to give stepwise formoxy silane, methyl formate, and methoxy silane. The unexpected formation of methyl formate was shown to result from the zinc&#8208;catalyzed transesterification of methoxy silane with formoxy silane, which was eventually converted into methoxy silane as well.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Molecular Zinc Hydride Cations [ZnH]+: Synthesis, Structure, and CO2 Hydrosilylation Catalysis</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011480</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-15T10:48:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011480</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011480?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
