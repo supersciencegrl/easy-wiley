@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000597?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000373?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000579?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000605?af=R" />
@@ -143,7 +144,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000344?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000510?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000457?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000370?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000378?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000297?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000291?af=R" />
@@ -159,6 +159,32 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000597?af=R">
+      <title>The peculiar structure of Acetobacter pasteurianus CIP103108 LPS core oligosaccharide</title>
+      <dc:description>Acetobacter pasteurianus, a member of Alphaproteobacteria, is an acetic acid&#8208;producing bacterium present on sugar&#8208;rich substrates such as such as fruits, flowers and vegetables and traditionally used in the production of fermented food. The preferred living habitat associated to acid conditions makes the structure of the bacterial cell wall interesting to study, due to expectable uncommon features. We here used a combination of chemical, analytical and NMR spectroscopy approaches to define the complete structure of the core oligosaccharide from Acetobacter pasteurianus CIP103108 LPS. Interestingly, the core oligosaccharide displays a high concentration of negatively charged groups, structural features that might contribute to reinforce the bacterial membrane</dc:description>
+      <dc:creator>
+Roberta Marchetti, 
+Ferran  Nieto Fabregat, 
+Mateusz Pallach, 
+Djamel Gully, 
+Eric Giraud, 
+Antonio Molinaro, 
+Katarzyna  A. Duda, 
+Alba Silipo
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000597?af=R</link>
+      <content:encoded>&lt;p&gt;Acetobacter pasteurianus, a member of Alphaproteobacteria, is an acetic acid&#8208;producing bacterium present on sugar&#8208;rich substrates such as such as fruits, flowers and vegetables and traditionally used in the production of fermented food. The preferred living habitat associated to acid conditions makes the structure of the bacterial cell wall interesting to study, due to expectable uncommon features. We here used a combination of chemical, analytical and NMR spectroscopy approaches to define the complete structure of the core oligosaccharide from Acetobacter pasteurianus CIP103108 LPS. Interestingly, the core oligosaccharide displays a high concentration of negatively charged groups, structural features that might contribute to reinforce the bacterial membrane&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>The peculiar structure of Acetobacter pasteurianus CIP103108 LPS core oligosaccharide</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000597</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-23T05:34:34-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000597</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000597?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000579?af=R">
       <title>Microbial cell factories for tetrahydroisoquinoline alkaloids production</title>
       <dc:description>For decades, plants have represented an inexhaustible source of natural products used in various sectors such as health and industry. One of the recurring problems is the low accumulation of these compounds  in planta  and therefore their production costs and supply. In recent years, unprecedented hopes have been brought by the metabolic engineering of microorganisms, which opens up prospects for the supply at lower cost of these molecules with high added value. However, many of these productions remained at a laboratory scale. In a recent article published in  Nature Communication  , Vincent JJ Martin's team has developed an optimized yeast strain capable of synthesizing not only a huge amount of (  S  )&#8208;reticuline, a major precursor of the plant tetrahydroisoquinoline alkaloid series, but also a whole range of new&#8208;to&#8208;nature compounds from this prominent family of natural products. This synthesis reaching industrial scales thus paves the way to efficient production in microbial cell factories.</dc:description>
@@ -2082,31 +2108,5 @@ Nicholas  V. Hud
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000370?af=R">
-      <title>Simple analysis of primary and secondary bile salt hydrolysis in mouse and human gut microbiome samples using fluorogenic substrates</title>
-      <dc:description>Animals produce bile to maximize absorption of lipophilic nutrients in the gut. The physical properties of bile are largely dictated by amphipathic bile salt molecules, which also participate in signalling pathways by modulating physiological processes upon binding host receptors. Upon excretion of bile salts from the gall bladder into the intestine, the gut microbiome can create metabolites with modified signaling capabilities. The category and magnitude of bile salt metabolism can have positive or negative effects on the host. A key modification is bile salt hydrolysis, which is a prerequisite for all additional microbial transformations. We have synthesized five different fluorogenic bile salts for simple and continuous reporting of hydrolysis in both murine and human fecal samples. Our data demonstrate that most gut microbiomes have the highest capacity for hydrolysis of host&#8208;produced primary bile salts, but some microbially modified secondary bile salts also display significant turnover.</dc:description>
-      <dc:creator>
-Agne Sveistyte, 
-Teresa Gibbins, 
-Kimberly  J. Tyrrell, 
-Carson  J. Miller, 
-Matt  H. Foley, 
-Andrew  E. Plymale, 
-Aaron  T. Wright, 
-Kristoffer  National Brandvold
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000370?af=R</link>
-      <content:encoded>&lt;p&gt;Animals produce bile to maximize absorption of lipophilic nutrients in the gut. The physical properties of bile are largely dictated by amphipathic bile salt molecules, which also participate in signalling pathways by modulating physiological processes upon binding host receptors. Upon excretion of bile salts from the gall bladder into the intestine, the gut microbiome can create metabolites with modified signaling capabilities. The category and magnitude of bile salt metabolism can have positive or negative effects on the host. A key modification is bile salt hydrolysis, which is a prerequisite for all additional microbial transformations. We have synthesized five different fluorogenic bile salts for simple and continuous reporting of hydrolysis in both murine and human fecal samples. Our data demonstrate that most gut microbiomes have the highest capacity for hydrolysis of host&#8208;produced primary bile salts, but some microbially modified secondary bile salts also display significant turnover.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Simple analysis of primary and secondary bile salt hydrolysis in mouse and human gut microbiome samples using fluorogenic substrates</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000370</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-05T07:07:08-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000370</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000370?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    </rdf:RDF>
