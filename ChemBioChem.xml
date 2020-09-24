@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000577?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000597?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000373?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000579?af=R" />
@@ -142,7 +143,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000459?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000254?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000344?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000510?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000457?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000378?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000297?af=R" />
@@ -159,6 +159,34 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000577?af=R">
+      <title>Fc&#8208;binding antibody&#8208;recruiting molecules targeting prostate&#8208;specific membrane antigen:&#160;defucosylation of antibody for efficacy improvement</title>
+      <dc:description>Synthetic small molecules that redirect endogenous antibodies to target cells are promising drug candidates because they overcome the potential shortcomings of therapeutic antibodies, such as immunogenicity&#160;and the need for intravenous delivery. Previously, we reported a novel class of bispecific molecules targeting the antibody Fc region and folate receptor, named Fc&#8208;binding antibody&#8208;recruiting molecules (Fc&#8208;ARMs). Fc&#8208;ARMs can theoretically recruit most endogenous antibodies, inducing cancer cell elimination via antibody&#8208;dependent cell&#8208;mediated cytotoxicity (ADCC). Here, we describe new Fc&#8208;ARMs that target prostate cancer (Fc&#8208;ARM&#8208;Ps). Fc&#8208;ARM&#8208;Ps recruited antibodies to cancer cells expressing&#160;prostate&#8208;specific membraneantigen but did so with lower efficiency compared with Fc&#8208;ARMs targeting folate receptor. Upon recruitment by Fc&#8208;ARM&#8208;P, defucosylated antibodies efficiently activated natural killer cells and induced ADCC, whereas antibodies with intact N&#8208;glycans did not. The results suggest that the affinity between recruited antibodies and CD16a, a type of Fc receptor expressed on immune cells, could be a key factor controlling immune activation in the Fc&#8208;ARM strategy.</dc:description>
+      <dc:creator>
+Koichi Sasaki, 
+Minori Harada, 
+Takuma Yoshikawa, 
+Hiroshi Tagawa, 
+Yui Harada, 
+Yoshikazu Yonemitsu, 
+Takaaki Ryujin, 
+Akihiro Kishimura, 
+Takeshi Mori, 
+Yoshiki Katayama
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000577?af=R</link>
+      <content:encoded>&lt;p&gt;Synthetic small molecules that redirect endogenous antibodies to target cells are promising drug candidates because they overcome the potential shortcomings of therapeutic antibodies, such as immunogenicity&#160;and the need for intravenous delivery. Previously, we reported a novel class of bispecific molecules targeting the antibody Fc region and folate receptor, named Fc&#8208;binding antibody&#8208;recruiting molecules (Fc&#8208;ARMs). Fc&#8208;ARMs can theoretically recruit most endogenous antibodies, inducing cancer cell elimination via antibody&#8208;dependent cell&#8208;mediated cytotoxicity (ADCC). Here, we describe new Fc&#8208;ARMs that target prostate cancer (Fc&#8208;ARM&#8208;Ps). Fc&#8208;ARM&#8208;Ps recruited antibodies to cancer cells expressing&#160;prostate&#8208;specific membraneantigen but did so with lower efficiency compared with Fc&#8208;ARMs targeting folate receptor. Upon recruitment by Fc&#8208;ARM&#8208;P, defucosylated antibodies efficiently activated natural killer cells and induced ADCC, whereas antibodies with intact N&#8208;glycans did not. The results suggest that the affinity between recruited antibodies and CD16a, a type of Fc receptor expressed on immune cells, could be a key factor controlling immune activation in the Fc&#8208;ARM strategy.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Fc&#8208;binding antibody&#8208;recruiting molecules targeting prostate&#8208;specific membrane antigen:&#160;defucosylation of antibody for efficacy improvement</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000577</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-23T06:54:34-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000577</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000577?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000597?af=R">
       <title>The peculiar structure of Acetobacter pasteurianus CIP103108 LPS core oligosaccharide</title>
       <dc:description>Acetobacter pasteurianus, a member of Alphaproteobacteria, is an acetic acid&#8208;producing bacterium present on sugar&#8208;rich substrates such as such as fruits, flowers and vegetables and traditionally used in the production of fermented food. The preferred living habitat associated to acid conditions makes the structure of the bacterial cell wall interesting to study, due to expectable uncommon features. We here used a combination of chemical, analytical and NMR spectroscopy approaches to define the complete structure of the core oligosaccharide from Acetobacter pasteurianus CIP103108 LPS. Interestingly, the core oligosaccharide displays a high concentration of negatively charged groups, structural features that might contribute to reinforce the bacterial membrane</dc:description>
@@ -2084,29 +2112,5 @@ George  M Burslem
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000459?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000510?af=R">
-      <title>Prebiotic origin of pre&#8208;RNA building blocks in a urea &#8220;warm little pond&#8221; scenario.</title>
-      <dc:description>Urea appears to be a key intermediate of important prebiotic synthetic pathways. Concentrated pools of urea likely existed on the surface of the early Earth, as urea is synthesized in significant quantities from hydrogen cyanide or cyanamide (widely accepted prebiotic molecules), it has extremely high water solubility, and it can concentrate to form eutectics from aqueous solutions. The dual nucleophilic&#8208;electrophilic character of urea makes it an ideal precursor for the formation of nitrogenous bases. We propose a model for the origin of a variety of canonical and non&#8208;canonical nucleobases, including some known to form supramolecular assemblies that contain Watson&#8208;Crick&#8208;like base pairs. These reactions involve urea condensation with other prebiotic molecules (e.g., malonic acid) that could be driven by environmental cycles (e.g., freezing/thawing, drying/wetting). The resulting heterocycle assemblies are compatible with the formation of nucleosides and, possibly, the chemical evolution of molecular precursors to RNA. We show that urea eutectics at moderate temperature represent a robust prebiotic source of nitrogenous heterocycles. The simplicity of these pathways, and their independence from specific or rare geological events, support the idea of urea being of fundamental importance to the prebiotic chemistry that gave rise to life on Earth.</dc:description>
-      <dc:creator>
-Cesar Menor-Salvan, 
-Marcos Bouza, 
-David  M. Fialho, 
-Bradley  T. Burcar, 
-Facundo  M. Fern&#225;ndez, 
-Nicholas  V. Hud
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</link>
-      <content:encoded>&lt;p&gt;Urea appears to be a key intermediate of important prebiotic synthetic pathways. Concentrated pools of urea likely existed on the surface of the early Earth, as urea is synthesized in significant quantities from hydrogen cyanide or cyanamide (widely accepted prebiotic molecules), it has extremely high water solubility, and it can concentrate to form eutectics from aqueous solutions. The dual nucleophilic&#8208;electrophilic character of urea makes it an ideal precursor for the formation of nitrogenous bases. We propose a model for the origin of a variety of canonical and non&#8208;canonical nucleobases, including some known to form supramolecular assemblies that contain Watson&#8208;Crick&#8208;like base pairs. These reactions involve urea condensation with other prebiotic molecules (e.g., malonic acid) that could be driven by environmental cycles (e.g., freezing/thawing, drying/wetting). The resulting heterocycle assemblies are compatible with the formation of nucleosides and, possibly, the chemical evolution of molecular precursors to RNA. We show that urea eutectics at moderate temperature represent a robust prebiotic source of nitrogenous heterocycles. The simplicity of these pathways, and their independence from specific or rare geological events, support the idea of urea being of fundamental importance to the prebiotic chemistry that gave rise to life on Earth.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Prebiotic origin of pre&#8208;RNA building blocks in a urea &#8220;warm little pond&#8221; scenario.</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000510</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-07T07:15:59-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000510</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    </rdf:RDF>
