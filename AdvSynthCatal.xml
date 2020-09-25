@@ -9,6 +9,14 @@
       <prism:publicationName>Advanced Synthesis &amp; Catalysis (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000936?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000942?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000985?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000848?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000730?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000537?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000558?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000726?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000762?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000820?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000811?af=R" />
@@ -39,10 +47,10 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000826?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000896?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000849?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000859?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000813?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000842?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000778?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000859?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000865?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000861?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001016?af=R" />
@@ -84,7 +92,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000370?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000795?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000587?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000537?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000968?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000796?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000633?af=R" />
@@ -92,8 +99,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000742?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000427?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000747?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000726?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000730?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000549?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000831?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000499?af=R" />
@@ -113,7 +118,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000718?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000635?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000709?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000558?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000541?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000679?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000540?af=R" />
@@ -127,10 +131,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000548?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000536?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000852?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000586?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000531?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000608?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000501?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -139,6 +139,105 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/16154169.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/16154169?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adsc.202000936?af=R">
+      <title>Optimization of Catalyst Structure for Asymmetric Propargylation of Aldehydes with Allenyltrichlorosilane</title>
+      <dc:description>Abstract. The design of catalysts for asymmetric propargylations remains a challenging task, with only a handful of methods providing access to enantioenriched homopropargylic alcohols. In this work, guided by previously reported computational predictions, a set of atropisomeric bipyridine N,N&#8217;&#8208;dioxides was tested as Lewis base catalysts for the asymmetric propargylation of aldehydes with trichloroallenylsilane. The catalysts are easily prepared in four simple steps starting from readily available methyl ketones. Aryl&#8208;substituted derivatives proved to be highly active and showed a high level of enantiocontrol even at 1 mol% loading. The reaction scope includes a wide range of aromatic, heteroaromatic and unsaturated aldehydes. New computations confirm that the key stereodetermining transition state structures for the synthesized catalysts are similar to those previously reported for the model structure.</dc:description>
+      <dc:creator>
+Vladimir Vaganov, 
+Yasuaki Fukazawa, 
+Nikolay Kondratyev, 
+Sergei Shipilovskikh, 
+Steven Wheeler, 
+Aleksandr Rubtsov, 
+Andrei V. Malkov
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000936?af=R</link>
+      <content:encoded>&lt;p&gt;Abstract. The design of catalysts for asymmetric propargylations remains a challenging task, with only a handful of methods providing access to enantioenriched homopropargylic alcohols. In this work, guided by previously reported computational predictions, a set of atropisomeric bipyridine N,N&#8217;&#8208;dioxides was tested as Lewis base catalysts for the asymmetric propargylation of aldehydes with trichloroallenylsilane. The catalysts are easily prepared in four simple steps starting from readily available methyl ketones. Aryl&#8208;substituted derivatives proved to be highly active and showed a high level of enantiocontrol even at 1 mol% loading. The reaction scope includes a wide range of aromatic, heteroaromatic and unsaturated aldehydes. New computations confirm that the key stereodetermining transition state structures for the synthesized catalysts are similar to those previously reported for the model structure.&lt;/p&gt;</content:encoded>
+      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
+      <dc:title>Optimization of Catalyst Structure for Asymmetric Propargylation of Aldehydes with Allenyltrichlorosilane</dc:title>
+      <dc:identifier>doi:10.1002/adsc.202000936</dc:identifier>
+      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
+      <dc:date>2020-09-24T07:30:55-07:00</dc:date>
+      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
+      <prism:doi>10.1002/adsc.202000936</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000936?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adsc.202000942?af=R">
+      <title>Dienolate&#8208;Mediated, Regioselective C2&#8208;Polarity Reversal of Chromone&#8208;based Reactants and Their Application in Nucleophilic Strategies</title>
+      <dc:description>Inspired by the chemistry and biology of chromone, a method for the construction of spirooxindole&#8208;based tetrahydrocyclopenta[b]chromanones was reported with a regio&#8208;, diastereo&#8208;selectivity (all cases &gt;20:1 dr) and moderate yields (up to 67%). This method constructs four contiguous stereogenic tertiary centers and one spiro quaternary center via a one&#8208;step &#947;&#8208;regioselective cascade [3+2] cycloaddition of oxindole&#8208;chromone synthon with 3&#8208;methyl&#8208;4&#8208;nitro&#8208;5&#8208;alkenyl&#8208;isoxazole.</dc:description>
+      <dc:creator>
+Zhen Yao, 
+Xiong-Wei Liu, 
+Zheng Li, 
+Sheng-Wen Xu, 
+Lijin Xu, 
+Xiong-Li Liu
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000942?af=R</link>
+      <content:encoded>&lt;p&gt;Inspired by the chemistry and biology of chromone, a method for the construction of spirooxindole&#8208;based tetrahydrocyclopenta[b]chromanones was reported with a regio&#8208;, diastereo&#8208;selectivity (all cases &amp;gt;20:1 dr) and moderate yields (up to 67%). This method constructs four contiguous stereogenic tertiary centers and one spiro quaternary center via a one&#8208;step &#947;&#8208;regioselective cascade [3+2] cycloaddition of oxindole&#8208;chromone synthon with 3&#8208;methyl&#8208;4&#8208;nitro&#8208;5&#8208;alkenyl&#8208;isoxazole.&lt;/p&gt;</content:encoded>
+      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
+      <dc:title>Dienolate&#8208;Mediated, Regioselective C2&#8208;Polarity Reversal of Chromone&#8208;based Reactants and Their Application in Nucleophilic Strategies</dc:title>
+      <dc:identifier>doi:10.1002/adsc.202000942</dc:identifier>
+      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
+      <dc:date>2020-09-24T07:29:28-07:00</dc:date>
+      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
+      <prism:doi>10.1002/adsc.202000942</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000942?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adsc.202000985?af=R">
+      <title>Combinatorial Nickel&#8208;Catalyzed Direct Trifluoroethylation of Aryl Iodides with 1,1,1&#8208;Trifluoro&#8208;2&#8208;Iodoethane via Reductive Coupling</title>
+      <dc:description>A combinatorial nickel&#8208;catalyzed direct trifluoroethylation of aryl iodides with an industrial raw material CF3CH2I has been developed, demonstrating high efficiency, excellent functional&#8208;group compatibility, especially with large sterically hindered groups. The key to success is the combination of nickel with readily available nitrogen and phosphine ligands. The powerful potential of this strategy is further demonstrated by the late&#8208;stage modification of several derived bioactive molecules.</dc:description>
+      <dc:creator>
+Han Li, 
+Jie Sheng, 
+Guang-Xu Liao, 
+Bing-Bing Wu, 
+Hui-Qi Ni, 
+Yan Li, 
+Xi-Sheng Wang
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000985?af=R</link>
+      <content:encoded>&lt;p&gt;A combinatorial nickel&#8208;catalyzed direct trifluoroethylation of aryl iodides with an industrial raw material CF3CH2I has been developed, demonstrating high efficiency, excellent functional&#8208;group compatibility, especially with large sterically hindered groups. The key to success is the combination of nickel with readily available nitrogen and phosphine ligands. The powerful potential of this strategy is further demonstrated by the late&#8208;stage modification of several derived bioactive molecules.&lt;/p&gt;</content:encoded>
+      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
+      <dc:title>Combinatorial Nickel&#8208;Catalyzed Direct Trifluoroethylation of Aryl Iodides with 1,1,1&#8208;Trifluoro&#8208;2&#8208;Iodoethane via Reductive Coupling</dc:title>
+      <dc:identifier>doi:10.1002/adsc.202000985</dc:identifier>
+      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
+      <dc:date>2020-09-24T07:27:34-07:00</dc:date>
+      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
+      <prism:doi>10.1002/adsc.202000985</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000985?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adsc.202000848?af=R">
+      <title>Asymmetric Fluorination Reactions Promoted by Chiral Hydrogen&#8208;Bonding&#8208;Based Organocatalysts</title>
+      <dc:description>Fluorinated compounds can exhibit interesting biological properties. The importance of these species has made that the chemistry of fluorine has experienced a great development. On this review, the recent advances on asymmetric fluorination reactions promoted by chiral hydrogen&#8208;bonding&#8208;based organocatalysts are discussed. Hence, examples using phosphoric acid, carboxylic acid, (thio)urea and squaramide derivatives are illustrated. The growth of this field is amazing. We have only considered pivotal works in which direct fluorination takes place using a fluorinating agent, leaving aside the reactions where a fluorine atom is incorporated from the beginning as part of other reactants.
+Herein, the scarce existing examples on this field of research have been compiled</dc:description>
+      <dc:creator>
+Fernando Auria-Luna, 
+Somayeh Mohammadi, 
+Masoumeh Divar, 
+M. Concepci&#243;n Gimeno, 
+Raquel Herrera
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000848?af=R</link>
+      <content:encoded>&lt;p&gt;Fluorinated compounds can exhibit interesting biological properties. The importance of these species has made that the chemistry of fluorine has experienced a great development. On this review, the recent advances on asymmetric fluorination reactions promoted by chiral hydrogen&#8208;bonding&#8208;based organocatalysts are discussed. Hence, examples using phosphoric acid, carboxylic acid, (thio)urea and squaramide derivatives are illustrated. The growth of this field is amazing. We have only considered pivotal works in which direct fluorination takes place using a fluorinating agent, leaving aside the reactions where a fluorine atom is incorporated from the beginning as part of other reactants.
+Herein, the scarce existing examples on this field of research have been compiled&lt;/p&gt;</content:encoded>
+      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
+      <dc:title>Asymmetric Fluorination Reactions Promoted by Chiral Hydrogen&#8208;Bonding&#8208;Based Organocatalysts</dc:title>
+      <dc:identifier>doi:10.1002/adsc.202000848</dc:identifier>
+      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
+      <dc:date>2020-09-24T07:27:20-07:00</dc:date>
+      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
+      <prism:doi>10.1002/adsc.202000848</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000848?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202000762?af=R">
       <title>Recent Advancements on Transition&#8208;Metal&#8208;Catalyzed, Chelation&#8208;Induced &lt;i&gt;ortho&lt;/i&gt;&#8208;Hydroxylation of Arenes</title>
       <dc:description>Abstract: The phenols are key intermediates as well as desired products in many target oriented syntheses. The conversion of C&#8208;H bond to C&#8208;O bond is one of the most challenging tasks in organic synthesis. In last few decades, the hydroxylation of aromatic compounds has drawn a considerable attention because of their importance in Pharmaceutical industry, material chemistry, polymers and in agrochemicals. Indeed, transition metal catalysed coordination assisted regio&#8208; and chemoselective ortho&#8208;hydroxylation of arenes has become very efficient and popular strategy to obtain good yields of phenols with tolerance of a wide range of functional groups. This review is the comprehensive summary of recent advancement on Pd, Ru, Rh, Cu and Ir catalyzed chelation controlled regioselective ortho&#8208;C&#8208;H bond hydroxylation of aromatic compounds in presence of diverse hydroxylating agents. The Review has been classified on the sources of hydroxylating agents used in reaction. 
@@ -398,27 +497,6 @@ Kevin Cariou
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000849?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000859?af=R">
-      <title>Semi&#8208;Synthetic Sialic Acid Probes for Challenging the Substrate Promiscuity of Enzymes in the Sialoconjugation Pathway</title>
-      <dc:description>A series of unusual sialic acid analogs were prepared using an unprecedented semi&#8208;synthetic strategy. Truncation of natural N&#8208;acetylneuraminic acid was followed by diastereoselective carbon backbone reconstruction using Barbier&#8208;type carboligations as well as different functional group interconversions, which provided access to a variety of functional motifs in the terminal carbon backbone, including examples of saturated and unsaturated, linear and branched alkyl chains, partially deoxygenated sialic acids, sialic diacids and a first truncated legionaminic acid analog. The synthetic sialic acid probes were studied for nucleotide activation by the CMP&#8208;sialic acid synthetase from Neisseria meningitidis using a universal pH&#8208;shift assay for kinetic analysis. One&#8208;pot enzymatic nucleotide activation and sialyltransfer to lactose was performed using a selection of five probes together with an engineered &#945;2,3&#8208;sialyltransferase from Photobacterium phosphoreum to furnish five new&#8208;to&#8208;nature analogs of the GM3 trisaccharide, which were finally utilized to test the substrate tolerance of two bacterial sialidases. The obtained set of sialic acid analogs and neo&#8208;sialocojugates provides interesting opportunities for further glycobiology studies.</dc:description>
-      <dc:creator>
-Alexander Mertsch, 
-Silvan Poschenrieder, 
-Wolf-Dieter Fessner
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000859?af=R</link>
-      <content:encoded>&lt;p&gt;A series of unusual sialic acid analogs were prepared using an unprecedented semi&#8208;synthetic strategy. Truncation of natural N&#8208;acetylneuraminic acid was followed by diastereoselective carbon backbone reconstruction using Barbier&#8208;type carboligations as well as different functional group interconversions, which provided access to a variety of functional motifs in the terminal carbon backbone, including examples of saturated and unsaturated, linear and branched alkyl chains, partially deoxygenated sialic acids, sialic diacids and a first truncated legionaminic acid analog. The synthetic sialic acid probes were studied for nucleotide activation by the CMP&#8208;sialic acid synthetase from Neisseria meningitidis using a universal pH&#8208;shift assay for kinetic analysis. One&#8208;pot enzymatic nucleotide activation and sialyltransfer to lactose was performed using a selection of five probes together with an engineered &#945;2,3&#8208;sialyltransferase from Photobacterium phosphoreum to furnish five new&#8208;to&#8208;nature analogs of the GM3 trisaccharide, which were finally utilized to test the substrate tolerance of two bacterial sialidases. The obtained set of sialic acid analogs and neo&#8208;sialocojugates provides interesting opportunities for further glycobiology studies.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>Semi&#8208;Synthetic Sialic Acid Probes for Challenging the Substrate Promiscuity of Enzymes in the Sialoconjugation Pathway</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000859</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-09-18T07:09:20-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000859</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000859?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202000813?af=R">
       <title>Organocatalytic Enantioselective [3+2] Cycloaddition of Azomethine Ylides with 2,4&#8208;Dienals: Construction of Remote Stereogenic Centers via 1,6&#8208;Addition Reaction</title>
@@ -966,29 +1044,6 @@ Phil Ho Lee
       <prism:copyright />
       <prism:section>Update</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000537?af=R">
-      <title>Palladium&#8208;Catalyzed Regioselective Domino Spirocyclization of Carbamoyl Chlorides with Alkynes and Benzynes</title>
-      <dc:description>A palladium&#8208;catalyzed domino spiro&#8208;cyclization of carbamoyl chlorides with alkynes and benzynes embracing intramolecular C&#8211;H activation to afford the valuable oxindole scaffolds bearing spiro quaternary stereocenters has been developed. This one&#8208;step synthesis of spirooxindole is both step&#8208; and atom&#8208;economic, proceeding with high regioselectivity in moderate to excellent yields.</dc:description>
-      <dc:creator>
-Chenchen Wang, 
-Wenyu Zhao, 
-Xianqing Wu, 
-Jingping Qu, 
-Yifeng Chen
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000537?af=R</link>
-      <content:encoded>&lt;p&gt;A palladium&#8208;catalyzed domino spiro&#8208;cyclization of carbamoyl chlorides with alkynes and benzynes embracing intramolecular C&#8211;H activation to afford the valuable oxindole scaffolds bearing spiro quaternary stereocenters has been developed. This one&#8208;step synthesis of spirooxindole is both step&#8208; and atom&#8208;economic, proceeding with high regioselectivity in moderate to excellent yields.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>Palladium&#8208;Catalyzed Regioselective Domino Spirocyclization of Carbamoyl Chlorides with Alkynes and Benzynes</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000537</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-09-07T07:35:12-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000537</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000537?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202000968?af=R">
       <title>Zinc/Indium Lewis Acid Relay Catalysis for Constructing 1,1&#8208;Disilylalkenes</title>
       <dc:description>
@@ -1044,29 +1099,6 @@ Abudureheman Wusiman
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000796?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000730?af=R">
-      <title>Stereoselective Construction of (E,Z)&#8208;1,3&#8208;Dienes and Its Application in Natural Product Synthesis</title>
-      <dc:description>The E,Z&#8208;configured 1,3&#8208;diene unit is a common motif in numerous bioactive natural products. Although several powerful methods are available to produce these motifs with high levels of selectivity, their construction within a complex, polyfunctionalised structure, such as a natural product, requires well&#8208;defined strategies to avoid undesirable reactions and low&#8208;to&#8208;moderate selectivities. The aim of this review is to provide a full account of the stereoselective strategies for building E,Z&#8208;configured 1,3&#8208;dienes, as well as to highlight selected total syntheses that employ them.</dc:description>
-      <dc:creator>
-Pierre Hubert, 
-Elena Seibel, 
-Christine Beemelmanns, 
-Jean-Marc Campagne, 
-Renata Marcia de Figueiredo
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000730?af=R</link>
-      <content:encoded>&lt;p&gt;The E,Z&#8208;configured 1,3&#8208;diene unit is a common motif in numerous bioactive natural products. Although several powerful methods are available to produce these motifs with high levels of selectivity, their construction within a complex, polyfunctionalised structure, such as a natural product, requires well&#8208;defined strategies to avoid undesirable reactions and low&#8208;to&#8208;moderate selectivities. The aim of this review is to provide a full account of the stereoselective strategies for building E,Z&#8208;configured 1,3&#8208;dienes, as well as to highlight selected total syntheses that employ them.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>Stereoselective Construction of (E,Z)&#8208;1,3&#8208;Dienes and Its Application in Natural Product Synthesis</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000730</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-08-31T07:25:12-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000730</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adsc.202000730?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202000782?af=R">
       <title>Tris(benzhydryl) and cationic bis(benzhydryl) Ln(III) complexes: exceptional thermostability and catalytic activity in olefin hydroarylation and hydrobenzylation with substituted pyridines</title>
@@ -1251,4 +1283,4 @@ Ming Lu
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
-   </rdf:RDF>
+</rdf:RDF>
