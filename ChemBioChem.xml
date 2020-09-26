@@ -9,6 +9,12 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000517?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000630?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000610?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000465?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000419?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000476?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000298?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000555?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000424?af=R" />
@@ -137,20 +143,14 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000508?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000405?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000326?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000476?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000437?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000398?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000449?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000442?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000473?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000460?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000254?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000344?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000510?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000457?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000378?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000297?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000291?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -159,6 +159,105 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000517?af=R">
+      <title>OCRE Domains of Splicing Factors RBM5 and RBM10: Tyrosine Ring Flip Frequencies by Integrated Use of 1H&#8208;NMR and Molecular Dynamics Simulations</title>
+      <dc:description>Abstract:&#160;  &#160;The 55&#8208;residue OCRE domains of the splicing factors RBM5 and RBM10 contain 15 tyrosines in compact, globular folds. At 25&#730;C all 15 tyrosines show symmetric  1  H&#8208;NMR spectra, with averaged signals for the pairs of &#948;&#8208; and &#949;&#8208;ring hydrogens.&#160; At 4&#730;C two tyrosines were identified as showing  1  H&#8208;NMR line&#8208;broadening due to lowered frequency of the ring&#8208;flipping.&#160; For the other 13 tyrosine rings it was thus left open, from the  1  H&#8208;NMR data alone, whether they were either all flipping at high frequencies, or whether slowed flipping went undetected due to small chemical shift differences between pairs of exchanging ring hydrogen atoms.&#160; Here, we integrate  1  H&#8208;NMR spectroscopy and molecular dynamics (MD) simulations to determine the tyrosine ring&#8208;flip frequencies. In the RBM10&#8208; OCRE domain we thus found for 11 of the 15 tyrosines that these frequencies are in the range from 2.0&#8729;10  6&#160;&#160;  to 1.3&#8729;10  8  s  &#8208;1  , and we established an upper limit of &lt; 1.0&#8729;10  6  s  &#8208;1  for the remaining four residues. The experimental data and the MD simulation are mutually supportive, and their combined use extends the analysis of aromatic ring&#8208;flip events beyond the limitations of routine  1  H&#8208;NMR line shape analysis into the nanosecond frequency range.</dc:description>
+      <dc:creator>
+Bryan  T. Martin, 
+Robert  D. Malmstrom, 
+Rommie  E. Amaro, 
+Kurt W&#252;thrich
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000517?af=R</link>
+      <content:encoded>&lt;p&gt;Abstract:&#160;  &#160;The 55&#8208;residue OCRE domains of the splicing factors RBM5 and RBM10 contain 15 tyrosines in compact, globular folds. At 25&#730;C all 15 tyrosines show symmetric  1  H&#8208;NMR spectra, with averaged signals for the pairs of &#948;&#8208; and &#949;&#8208;ring hydrogens.&#160; At 4&#730;C two tyrosines were identified as showing  1  H&#8208;NMR line&#8208;broadening due to lowered frequency of the ring&#8208;flipping.&#160; For the other 13 tyrosine rings it was thus left open, from the  1  H&#8208;NMR data alone, whether they were either all flipping at high frequencies, or whether slowed flipping went undetected due to small chemical shift differences between pairs of exchanging ring hydrogen atoms.&#160; Here, we integrate  1  H&#8208;NMR spectroscopy and molecular dynamics (MD) simulations to determine the tyrosine ring&#8208;flip frequencies. In the RBM10&#8208; OCRE domain we thus found for 11 of the 15 tyrosines that these frequencies are in the range from 2.0&#8729;10  6&#160;&#160;  to 1.3&#8729;10  8  s  &#8208;1  , and we established an upper limit of &amp;lt; 1.0&#8729;10  6  s  &#8208;1  for the remaining four residues. The experimental data and the MD simulation are mutually supportive, and their combined use extends the analysis of aromatic ring&#8208;flip events beyond the limitations of routine  1  H&#8208;NMR line shape analysis into the nanosecond frequency range.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>OCRE Domains of Splicing Factors RBM5 and RBM10: Tyrosine Ring Flip Frequencies by Integrated Use of 1H&#8208;NMR and Molecular Dynamics Simulations</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000517</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-25T08:30:07-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000517</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000517?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000630?af=R">
+      <title>Oligomers of Cyclic Oligochalcogenides for Enhanced Cellular Uptake</title>
+      <dc:description>Monomeric cyclic oligochalcogenides (COCs) are emerging as attractive transporters to deliver substrates of interest into the cytosol through thiol&#8208;mediated uptake . &#160; The objective of this study was to explore COC oligomers. &#160; We report a systematic evaluation of monomers, dimers, and trimers of asparagusic, lipoic, and diselenolipoic acid as well as their supramolecular monomers, dimers, trimers, and tetramers. &#160; COC dimers were more than twice more active than the monomers on the covalent and the non&#8208;covalent level, while COC trimers were not much better than dimers. &#160; These trends might suggest that thiol&#8208;mediated uptake of COCs is synergistic over both short and long distances, i.e., involves more than two COCs and more than one membrane protein, although other interpretations cannot be excluded at this level of complexity. &#160; These results thus provide attractive perspectives for structural evolution as well as imminent use in practice. &#160; Moreover, they validate automated HC&#8208;CAPA as an invaluable method to collect comprehensive data on cytosolic delivery within a reasonable time at a level of confidence that is otherwise inconceivable.</dc:description>
+      <dc:creator>
+R&#233;mi Martinent, 
+Dongchen Du, 
+Javier L&#243;pez-Andarias, 
+Naomi Sakai, 
+Stefan Matile
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000630?af=R</link>
+      <content:encoded>&lt;p&gt;Monomeric cyclic oligochalcogenides (COCs) are emerging as attractive transporters to deliver substrates of interest into the cytosol through thiol&#8208;mediated uptake . &#160; The objective of this study was to explore COC oligomers. &#160; We report a systematic evaluation of monomers, dimers, and trimers of asparagusic, lipoic, and diselenolipoic acid as well as their supramolecular monomers, dimers, trimers, and tetramers. &#160; COC dimers were more than twice more active than the monomers on the covalent and the non&#8208;covalent level, while COC trimers were not much better than dimers. &#160; These trends might suggest that thiol&#8208;mediated uptake of COCs is synergistic over both short and long distances, i.e., involves more than two COCs and more than one membrane protein, although other interpretations cannot be excluded at this level of complexity. &#160; These results thus provide attractive perspectives for structural evolution as well as imminent use in practice. &#160; Moreover, they validate automated HC&#8208;CAPA as an invaluable method to collect comprehensive data on cytosolic delivery within a reasonable time at a level of confidence that is otherwise inconceivable.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Oligomers of Cyclic Oligochalcogenides for Enhanced Cellular Uptake</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000630</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-25T06:29:22-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000630</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000630?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000610?af=R">
+      <title>Molecular basis of the antiangiogenic action of rosmarinic acid, a natural compound targeting Fibroblast Growth Factor&#8208;2/FGFR interactions</title>
+      <dc:description>Fibroblast growth factor (FGF2)/Fibroblast growth factor Receptor (FGFR) signalling plays a major role both in physiology and in several pathologies, including cancer development, metastasis formation and resistance to therapy. The development of small molecules, acting extracellularly to target FGF2/FGFR interactions, has the advantage of limiting adverse effects associated to the current intracellular FGFR inhibitors. Here we discuss the ability of the natural compound rosmarinic acid (RA) to induce FGF2/FGFR complex dissociation. The molecular level description of FGF2/FGFR/RA system, by NMR and docking, clearly demonstrates that RA binds to FGFR&#8208;D2 domain and directly competes with FGF2 for the same binding site. Both direct and allosteric perturbations concur to destabilize the complex. The proposed molecular mechanism is validated by cellular studies showing that RA inhibits FGF2&#8208;induced endothelial cells proliferation and FGFR activation. Our results can serve as the basis for the development of new extracellular inhibitors of the FGF/FGFR pathways.</dc:description>
+      <dc:creator>
+Katiuscia Pagano, 
+Laura Carminati, 
+Simona Tomaselli, 
+Henriette Molinari, 
+Giulia Taraboletti, 
+Laura Ragona
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000610?af=R</link>
+      <content:encoded>&lt;p&gt;Fibroblast growth factor (FGF2)/Fibroblast growth factor Receptor (FGFR) signalling plays a major role both in physiology and in several pathologies, including cancer development, metastasis formation and resistance to therapy. The development of small molecules, acting extracellularly to target FGF2/FGFR interactions, has the advantage of limiting adverse effects associated to the current intracellular FGFR inhibitors. Here we discuss the ability of the natural compound rosmarinic acid (RA) to induce FGF2/FGFR complex dissociation. The molecular level description of FGF2/FGFR/RA system, by NMR and docking, clearly demonstrates that RA binds to FGFR&#8208;D2 domain and directly competes with FGF2 for the same binding site. Both direct and allosteric perturbations concur to destabilize the complex. The proposed molecular mechanism is validated by cellular studies showing that RA inhibits FGF2&#8208;induced endothelial cells proliferation and FGFR activation. Our results can serve as the basis for the development of new extracellular inhibitors of the FGF/FGFR pathways.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Molecular basis of the antiangiogenic action of rosmarinic acid, a natural compound targeting Fibroblast Growth Factor&#8208;2/FGFR interactions</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000610</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-25T03:53:59-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000610</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000610?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000465?af=R">
+      <title>Photocaged Hoechst enables subnuclear visualization and cell selective staining of DNA in vivo</title>
+      <dc:description>Selective targeting of DNA by means of fluorescent labelling has become a mainstay in the life sciences. While genetic engineering serves as a powerful technique and allows for the visualization of nucleic acid by using DNA&#8208;targeting fluorescent fusion proteins in a cell&#8208;type and subcellular specific manner, it relies on the introduction of foreign genes. On the other hand, DNA&#8208;binding small fluorescent molecules can be used without genetic engineering but they are not spatially restricted. Here, we report a photocaged version of the DNA dye Hoechst33342 (pcHoechst), which can be uncaged using UV to blue light for the selective staining of chromosomal DNA in subnuclear regions of live cells. Expanding its application to a vertebrate model organism, we demonstrate uncaging in epithelial cells and short&#8208;term cell tracking&#160;  in vivo&#160;  in zebrafish. We envision pcHoechst as a valuable tool for targeting and interrogating DNA with precise spatiotemporal resolution in living cells and wild&#8208;type organisms.</dc:description>
+      <dc:creator>
+Carina  A. L&#228;mmle, 
+Adam Varady, 
+Thorsten  G. M&#252;ller, 
+Caterina Sturtzel, 
+Michael Riepl, 
+Bettina Mathes, 
+Jenny Eichhorst, 
+Anje Sporbert, 
+Martin Lehmann, 
+Hans-Georg Kr&#228;usslich, 
+Martin Distel, 
+Johannes Broichhagen
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000465?af=R</link>
+      <content:encoded>&lt;p&gt;Selective targeting of DNA by means of fluorescent labelling has become a mainstay in the life sciences. While genetic engineering serves as a powerful technique and allows for the visualization of nucleic acid by using DNA&#8208;targeting fluorescent fusion proteins in a cell&#8208;type and subcellular specific manner, it relies on the introduction of foreign genes. On the other hand, DNA&#8208;binding small fluorescent molecules can be used without genetic engineering but they are not spatially restricted. Here, we report a photocaged version of the DNA dye Hoechst33342 (pcHoechst), which can be uncaged using UV to blue light for the selective staining of chromosomal DNA in subnuclear regions of live cells. Expanding its application to a vertebrate model organism, we demonstrate uncaging in epithelial cells and short&#8208;term cell tracking&#160;  in vivo&#160;  in zebrafish. We envision pcHoechst as a valuable tool for targeting and interrogating DNA with precise spatiotemporal resolution in living cells and wild&#8208;type organisms.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Photocaged Hoechst enables subnuclear visualization and cell selective staining of DNA in vivo</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000465</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-25T01:09:53-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000465</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000465?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000298?af=R">
       <title>Characterization of apo&#8208;form selective inhibition of indoleamine 2,3&#8208;dioxygenase.</title>
       <dc:description>Indoleamine&#8208;2,3&#8208;dioxygenase 1 (IDO1) is a heme&#8208;containing enzyme that catalyzes the rate&#8208;limiting step in the kynurenine pathway of tryptophan (TRP) metabolism. As an inflammation&#8208;induced immunoregulatory enzyme, pharmacological inhibition of IDO1 activity is currently being pursued as a potential therapeutic tool for the treatment of cancer and other disease states. As such, a detailed understanding of the mechanism of action of established and novel IDO1 inhibitors remains of great interest. Comparison of a newly&#8208;developed IDO1 inhibitor (GSK5628) to the existing best&#8208;in&#8208;class compound, epacadostat (Incyte), allows us to report on a unique inhibition mechanism for IDO1. Here, we demonstrate that GSK5628 inhibits IDO1 by competing with heme for binding to a heme&#8208;free conformation of the enzyme (apo&#8208;IDO1) while epacadostat coordinates its binding with the iron atom of the IDO1 heme cofactor. Comparison of these two compounds in cellular systems reveals a long&#8208;lasting inhibitory effect of GSK5628, undescribed for other known IDO1 inhibitors. Detailed characterization of this apo&#8208;binding mechanism for IDO1 inhibition may help design superior inhibitors or may confer a unique competitive advantage over other IDO1 inhibitors vis&#8208;&#225;&#8208;vis specificity and pharmacokinetic parameters.</dc:description>
@@ -855,7 +954,7 @@ Adrienne L. Edkins,
 Setshaba D. Khanye
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000132?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/928f975d-2ae3-4b2e-8f93-31c889fae79a/cbic202000132-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/928f975d-2ae3-4b2e-8f93-31c889fae79a/cbic202000132-toc-0001-m.png"
      alt="The in Vitro Antiplasmodial and Antiproliferative Activity of New Ferrocene&#8208;Based &#945;&#8208;Aminocresols Targeting Hemozoin Inhibition and DNA Interaction"/&gt;
 &lt;p&gt;&lt;b&gt;Multitarget attack&lt;/b&gt;: Compounds incorporating ferrocene in a aminocresol scaffold showed antiplasmodial and anticancer activity. SAR studies revealed that an OH group and rotatable C&#8211;NH bond are vital for biological activity, with spectrophotometric techniques and docking simulations suggesting a dual mode of action involving hemozoin inhibition and DNA interaction. Targeting multiple pathways could delay the development of clinical resistance.
 
@@ -1199,7 +1298,7 @@ Chaoyi Gu,
 Andrew G. Ewing
 </dc:creator>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000639?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/5bbdae9a-116a-4fa4-b0ec-4f115dd0670c/cbic202000639-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5bbdae9a-116a-4fa4-b0ec-4f115dd0670c/cbic202000639-toc-0001-m.png"
      alt="Zinc Deficiency Leads to Lipid Changes in Drosophila Brain Similar to Cognitive&#8208;Impairing Drugs: An Imaging Mass Spectrometry Study"/&gt;
 &lt;p&gt;&lt;b&gt;The cover feature picture shows&lt;/b&gt; the importance of zinc in altering lipid composition in cellular membranes, which affects signal transduction inside the brain. Mass spectrometry imaging was used to show that zinc deficiency changes lipid composition and lipid abundance in the brain of &lt;i&gt;Drosophila&lt;/i&gt; and the changes are similar to those caused by cognitive&#8208;impairing drugs. More information can be found in the &lt;a&gt;https://doi.org/10.1002/cbic.202000197communication by A.&#8197;G. Ewing et&#8197;al.&lt;/a&gt;
 
@@ -2056,86 +2155,5 @@ Gerrit  J. Poelarends
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000442?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000473?af=R">
-      <title>Selective Covalent Targeting of Anti&#8208;Apoptotic BFL&#8208;1 by a Sulfonium Tethered Peptide</title>
-      <dc:description>Anti&#8208;apoptotic B cell lymphoma 2 (BCL&#8208;2) family proteins were proven targets for human cancers. Targeting the BH3&#8208;binding pockets of these anti&#8208;apoptotic proteins could reactivate apoptosis in BCL&#8208;2&#8208;depedent cancers. BFL&#8208;1 is a BCL&#8208;2 family protein overexpressed in various chemoresistant cancers. A unique cysteine at the binding interface of the BH3 and BFL&#8208;1 was previously proven as an intriguing targeting site to irreversibly inhibit BFL&#8208;1 functions with stabilized cyclic peptide bearing a covalent warhead. Recently, we developed a sulfonium tethered peptide cyclization strategy to construct peptide ligands which could selectively and efficiently react with cysteine(s) of target proteins nearby the interacting interface. Utilizing this method, we constructed a BFL&#8208;1 peptide inhibitor B4&#8208;MC, which could selectively conjugate with BFL&#8208;1 both in vitro and in cell. B4&#8208;MC showed good cellular uptake, colocalized with BFL&#8208;1 on mitochondria, and showed obvious growth inhibition of BFL&#8208;1 over&#8208;expressed cancer cell lines.</dc:description>
-      <dc:creator>
-Na Liu, 
-Dongyuan Wang, 
-Chenshan Lian, 
-Rongtong Zhao, 
-Licheng Tu, 
-Yichi Zhang, 
-Jianbo Liu, 
-Huilin Zhu, 
-Mengying Yu, 
-Chuan Wan, 
-Di Li, 
-Shuiming Li, 
-Feng Yin, 
-Zigang Li
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000473?af=R</link>
-      <content:encoded>&lt;p&gt;Anti&#8208;apoptotic B cell lymphoma 2 (BCL&#8208;2) family proteins were proven targets for human cancers. Targeting the BH3&#8208;binding pockets of these anti&#8208;apoptotic proteins could reactivate apoptosis in BCL&#8208;2&#8208;depedent cancers. BFL&#8208;1 is a BCL&#8208;2 family protein overexpressed in various chemoresistant cancers. A unique cysteine at the binding interface of the BH3 and BFL&#8208;1 was previously proven as an intriguing targeting site to irreversibly inhibit BFL&#8208;1 functions with stabilized cyclic peptide bearing a covalent warhead. Recently, we developed a sulfonium tethered peptide cyclization strategy to construct peptide ligands which could selectively and efficiently react with cysteine(s) of target proteins nearby the interacting interface. Utilizing this method, we constructed a BFL&#8208;1 peptide inhibitor B4&#8208;MC, which could selectively conjugate with BFL&#8208;1 both in vitro and in cell. B4&#8208;MC showed good cellular uptake, colocalized with BFL&#8208;1 on mitochondria, and showed obvious growth inhibition of BFL&#8208;1 over&#8208;expressed cancer cell lines.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Selective Covalent Targeting of Anti&#8208;Apoptotic BFL&#8208;1 by a Sulfonium Tethered Peptide</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000473</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-12T11:13:26-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000473</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000473?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000460?af=R">
-      <title>Genetic Incorporation of Selenotyrosine Significantly Improves Enzymatic Activity of Agrobacterium radiobacter Phosphotriesterase</title>
-      <dc:description>Tyrosine plays important roles in many enzyme catalysts. To facilitate enzyme design, mechanistic studies and minimize structural perturbation in the active site, here we report the genetic incorporation of a novel unnatural amino acid selenotyrosine (SeHF), which has single atom replacement in comparison to tyrosine. The  Agrobacterium radiobacter  phosphotriesterase (  ar  PTE) Tyr309SeHF mutant exhibits a significant 12&#8208;fold increase in  k  cat  and 3.2&#8208;fold enhancement in  k  cat  /  K  m  at pH 7.0.  Molecular dynamics simulation  shows that the SeHF309 mutation results in a conformational switch which opens up the product release pocket and increases the product release rate, thereby elevating the overall enzyme activity. Significant improvement of the catalytic efficiency at neutral pH by single unnatural amino acid (UAA) mutation broadens the application of this enzyme, and provides valuable insights to the mechanism. Our method represents a new approach for designing enzymes with enhanced activities.</dc:description>
-      <dc:creator>
-Xiaojing An, 
-chao chen, 
-Tianyuan Wang, 
-Aiping Huang, 
-Dawei Zhang, 
-Ming-Jie Han, 
-Jiangyun Wang
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000460?af=R</link>
-      <content:encoded>&lt;p&gt;Tyrosine plays important roles in many enzyme catalysts. To facilitate enzyme design, mechanistic studies and minimize structural perturbation in the active site, here we report the genetic incorporation of a novel unnatural amino acid selenotyrosine (SeHF), which has single atom replacement in comparison to tyrosine. The  Agrobacterium radiobacter  phosphotriesterase (  ar  PTE) Tyr309SeHF mutant exhibits a significant 12&#8208;fold increase in  k  cat  and 3.2&#8208;fold enhancement in  k  cat  /  K  m  at pH 7.0.  Molecular dynamics simulation  shows that the SeHF309 mutation results in a conformational switch which opens up the product release pocket and increases the product release rate, thereby elevating the overall enzyme activity. Significant improvement of the catalytic efficiency at neutral pH by single unnatural amino acid (UAA) mutation broadens the application of this enzyme, and provides valuable insights to the mechanism. Our method represents a new approach for designing enzymes with enhanced activities.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Genetic Incorporation of Selenotyrosine Significantly Improves Enzymatic Activity of Agrobacterium radiobacter Phosphotriesterase</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000460</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-12T06:54:40-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000460</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000460?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000510?af=R">
-      <title>Prebiotic origin of pre&#8208;RNA building blocks in a urea &#8220;warm little pond&#8221; scenario.</title>
-      <dc:description>Urea appears to be a key intermediate of important prebiotic synthetic pathways. Concentrated pools of urea likely existed on the surface of the early Earth, as urea is synthesized in significant quantities from hydrogen cyanide or cyanamide (widely accepted prebiotic molecules), it has extremely high water solubility, and it can concentrate to form eutectics from aqueous solutions. The dual nucleophilic&#8208;electrophilic character of urea makes it an ideal precursor for the formation of nitrogenous bases. We propose a model for the origin of a variety of canonical and non&#8208;canonical nucleobases, including some known to form supramolecular assemblies that contain Watson&#8208;Crick&#8208;like base pairs. These reactions involve urea condensation with other prebiotic molecules (e.g., malonic acid) that could be driven by environmental cycles (e.g., freezing/thawing, drying/wetting). The resulting heterocycle assemblies are compatible with the formation of nucleosides and, possibly, the chemical evolution of molecular precursors to RNA. We show that urea eutectics at moderate temperature represent a robust prebiotic source of nitrogenous heterocycles. The simplicity of these pathways, and their independence from specific or rare geological events, support the idea of urea being of fundamental importance to the prebiotic chemistry that gave rise to life on Earth.</dc:description>
-      <dc:creator>
-Cesar Menor-Salvan, 
-Marcos Bouza, 
-David  M. Fialho, 
-Bradley  T. Burcar, 
-Facundo  M. Fern&#225;ndez, 
-Nicholas  V. Hud
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</link>
-      <content:encoded>&lt;p&gt;Urea appears to be a key intermediate of important prebiotic synthetic pathways. Concentrated pools of urea likely existed on the surface of the early Earth, as urea is synthesized in significant quantities from hydrogen cyanide or cyanamide (widely accepted prebiotic molecules), it has extremely high water solubility, and it can concentrate to form eutectics from aqueous solutions. The dual nucleophilic&#8208;electrophilic character of urea makes it an ideal precursor for the formation of nitrogenous bases. We propose a model for the origin of a variety of canonical and non&#8208;canonical nucleobases, including some known to form supramolecular assemblies that contain Watson&#8208;Crick&#8208;like base pairs. These reactions involve urea condensation with other prebiotic molecules (e.g., malonic acid) that could be driven by environmental cycles (e.g., freezing/thawing, drying/wetting). The resulting heterocycle assemblies are compatible with the formation of nucleosides and, possibly, the chemical evolution of molecular precursors to RNA. We show that urea eutectics at moderate temperature represent a robust prebiotic source of nitrogenous heterocycles. The simplicity of these pathways, and their independence from specific or rare geological events, support the idea of urea being of fundamental importance to the prebiotic chemistry that gave rise to life on Earth.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Prebiotic origin of pre&#8208;RNA building blocks in a urea &#8220;warm little pond&#8221; scenario.</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000510</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-07T07:15:59-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000510</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000510?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    </rdf:RDF>
