@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010917?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012513?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010035?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011368?af=R" />
@@ -189,7 +190,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006366?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003375?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004305?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011138?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009467?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009569?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008110?af=R" />
@@ -208,6 +208,27 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202010917?af=R">
+      <title>Salt to Taste: The Critical Roles Played by Inorganic Salts in Organozinc Formation and in the Negishi Reaction</title>
+      <dc:description>The first cross&#8208;coupling of organozinc nucleophiles with aryl halides was reported in 1977 by Negishi. Unknown to all at the time was the importance of salt additives that were often present as a byproduct from the organozinc preparation. For decades, these salt additives were overlooked until 2006 when it was discovered that two different, yet effective methods for preparing organozinc solutions (i.e. one with salt and one without) provided drastically different results. Since this finding, the exact role of salt additives in cross&#8208;coupling has been debated in the catalysis community. In this review we highlight all the major discoveries regarding the influence of salt additives on the formation of organozinc reagents and their use in the Negishi reaction. These effects include solubilizing key intermediates, the formation of higher order zincates, product inhibition, catalyst protection and solvent effects.</dc:description>
+      <dc:creator>
+Michael  G Organ, 
+Philip Eckert, 
+Sepideh Sharif
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010917?af=R</link>
+      <content:encoded>&lt;p&gt;The first cross&#8208;coupling of organozinc nucleophiles with aryl halides was reported in 1977 by Negishi. Unknown to all at the time was the importance of salt additives that were often present as a byproduct from the organozinc preparation. For decades, these salt additives were overlooked until 2006 when it was discovered that two different, yet effective methods for preparing organozinc solutions (i.e. one with salt and one without) provided drastically different results. Since this finding, the exact role of salt additives in cross&#8208;coupling has been debated in the catalysis community. In this review we highlight all the major discoveries regarding the influence of salt additives on the formation of organozinc reagents and their use in the Negishi reaction. These effects include solubilizing key intermediates, the formation of higher order zincates, product inhibition, catalyst protection and solvent effects.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Salt to Taste: The Critical Roles Played by Inorganic Salts in Organozinc Formation and in the Negishi Reaction</dc:title>
+      <dc:identifier>doi:10.1002/anie.202010917</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-28T05:45:17-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202010917</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010917?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012513?af=R">
       <title>A Gold Nanoparticle Nanonuclease Relying on a Zn(II) Mononuclear Complex</title>
       <dc:description>Similarly to enzymes, functionalized gold nanoparticles efficiently catalyze chemical reactions, hence the term nanozymes. Here we present our results showing how surface&#8208;passivated gold nanoparticles behave as synthetic nanonucleases, able to cleave pBR322 plasmid DNA with the highest efficiency reported so far for catalysts based on a single metal ion mechanism. Experimental and computational data indicate that we have been successful in creating a catalytic site precisely mimicking that suggested for natural metallonucleases relying on a single metal ion for their activity. It comprises one Zn(II) ion to which a phosphate diester of DNA is coordinated. Importantly, as in nucleic acids&#8208;processing enzymes, a positively charged arginine plays a key role by assisting with transition state stabilization and by reducing the  pK  a of the nucleophilic alcohol of a serine. Our results also show how designing a catalyst for a model substrate (bis&#8208;  p  &#8208;nitrophenylphosphate) may provide wrong indications as for its efficiency when it is tested against the real target (plasmid DNA).</dc:description>
@@ -1820,27 +1841,6 @@ Hans&#8208;Achim Wagenknecht
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202084061?af=R</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011138?af=R">
-      <title>Hydroxylamine&#8208;derived Reagent as a Dual Oxidant and Amino Group Donor for the Iron Catalyzed Preparation of Unprotected Sulfinamides from Thiols</title>
-      <dc:description>An iron catalyzed reaction for the selective transformation of thiols (&#8208;SH) to sulfinamides (&#8208;SONH  2  ) by a direct transfer of &#8208;  O  and free &#8208;  NH  2  groups has been developed. The reaction operates under mild conditions using a bench stable hydroxylamine derived reagent, exhibits broad functional group tolerance, is scalable and proceeds without the use of any precious metal catalyst or additional oxidant. This novel, practical reaction leads to the formation of two distinct new bonds (S=O and S&#8211;N) in a single step to chemoselectively form valuable, unprotected sulfinamide products. Preliminary mechanistic studies implicate the role of the alcoholic solvent as an oxygen atom donor.</dc:description>
-      <dc:creator>
-Sayanti Chatterjee, 
-Szabolcs Makai, 
-Bill Morandi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011138?af=R</link>
-      <content:encoded>&lt;p&gt;An iron catalyzed reaction for the selective transformation of thiols (&#8208;SH) to sulfinamides (&#8208;SONH  2  ) by a direct transfer of &#8208;  O  and free &#8208;  NH  2  groups has been developed. The reaction operates under mild conditions using a bench stable hydroxylamine derived reagent, exhibits broad functional group tolerance, is scalable and proceeds without the use of any precious metal catalyst or additional oxidant. This novel, practical reaction leads to the formation of two distinct new bonds (S=O and S&#8211;N) in a single step to chemoselectively form valuable, unprotected sulfinamide products. Preliminary mechanistic studies implicate the role of the alcoholic solvent as an oxygen atom donor.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Hydroxylamine&#8208;derived Reagent as a Dual Oxidant and Amino Group Donor for the Iron Catalyzed Preparation of Unprotected Sulfinamides from Thiols</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011138</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-21T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011138</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011138?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007575?af=R">
       <title>Transcription Factor Based Small&#8208;Molecule Sensing with a Rapid Cell Phone Enabled Fluorescent Bead Assay</title>
