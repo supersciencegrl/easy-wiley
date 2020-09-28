@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012513?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010035?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011368?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009194?af=R" />
@@ -189,7 +190,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202003375?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004305?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011138?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011466?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009467?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009569?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008110?af=R" />
@@ -208,6 +208,34 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202012513?af=R">
+      <title>A Gold Nanoparticle Nanonuclease Relying on a Zn(II) Mononuclear Complex</title>
+      <dc:description>Similarly to enzymes, functionalized gold nanoparticles efficiently catalyze chemical reactions, hence the term nanozymes. Here we present our results showing how surface&#8208;passivated gold nanoparticles behave as synthetic nanonucleases, able to cleave pBR322 plasmid DNA with the highest efficiency reported so far for catalysts based on a single metal ion mechanism. Experimental and computational data indicate that we have been successful in creating a catalytic site precisely mimicking that suggested for natural metallonucleases relying on a single metal ion for their activity. It comprises one Zn(II) ion to which a phosphate diester of DNA is coordinated. Importantly, as in nucleic acids&#8208;processing enzymes, a positively charged arginine plays a key role by assisting with transition state stabilization and by reducing the  pK  a of the nucleophilic alcohol of a serine. Our results also show how designing a catalyst for a model substrate (bis&#8208;  p  &#8208;nitrophenylphosphate) may provide wrong indications as for its efficiency when it is tested against the real target (plasmid DNA).</dc:description>
+      <dc:creator>
+Paolo  M Scrimin, 
+Joanna Czescik, 
+Susanna Zamolo, 
+Tamis Darbre, 
+Riccardo Rigo, 
+Claudia Sissi, 
+Adam Pecina, 
+Laura Riccardi, 
+Marco De Vivo, 
+Fabrizio Mancin
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012513?af=R</link>
+      <content:encoded>&lt;p&gt;Similarly to enzymes, functionalized gold nanoparticles efficiently catalyze chemical reactions, hence the term nanozymes. Here we present our results showing how surface&#8208;passivated gold nanoparticles behave as synthetic nanonucleases, able to cleave pBR322 plasmid DNA with the highest efficiency reported so far for catalysts based on a single metal ion mechanism. Experimental and computational data indicate that we have been successful in creating a catalytic site precisely mimicking that suggested for natural metallonucleases relying on a single metal ion for their activity. It comprises one Zn(II) ion to which a phosphate diester of DNA is coordinated. Importantly, as in nucleic acids&#8208;processing enzymes, a positively charged arginine plays a key role by assisting with transition state stabilization and by reducing the  pK  a of the nucleophilic alcohol of a serine. Our results also show how designing a catalyst for a model substrate (bis&#8208;  p  &#8208;nitrophenylphosphate) may provide wrong indications as for its efficiency when it is tested against the real target (plasmid DNA).&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Gold Nanoparticle Nanonuclease Relying on a Zn(II) Mononuclear Complex</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012513</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-09-28T04:11:01-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012513</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012513?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202010035?af=R">
       <title>H2&#8208;free Re&#8208;based catalytic dehydroxylation of aldaric acid to muconic and adipic acid esters</title>
       <dc:description>Being one of the most demanded dicarboxylic acids, adipic acid can be directly produced from renewable sources. Hexoses from (hemi)cellulose are oxidized to aldaric acids and subsequently catalytically dehydroxylated. Hitherto performed homogeneously, we present the first heterogeneous catalytic process for converting an aldaric acid into muconic and adipic acid. The contribution of leached Re from the solid pre&#8208;reduced catalyst was also investigated with hot&#8208;filtration test and found to be inactive for dehydroxylation. Corrosive or hazardous (HBr/H  2  ) reagents are eschewed in lieu of simple alcohols and solid Re/C catalysts in an inert atmosphere. At 120 &#176;C, the carboxylic groups are protected by esterification, which prevents lactonisation in the absence of water or acidic sites. Dehydroxylation and partial hydrogenation yield monohexenoates (93%). For complete hydrogenation to adipate, a 16% higher activation barrier necessitates higher temperatures. The mechanism of selective removal of adjacent OH* groups on Re(0001) and the role of methanol in hydrogen transfer are elucidated by DFT calculations as well as XPS, chemisorption and HR&#8208;TEM experiments.</dc:description>
@@ -1813,27 +1841,6 @@ Bill Morandi
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011138?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011466?af=R">
-      <title>A Simple Homoleptic Ga+&#8208;Olefin Complex: Mimicking Transition Metal Chemistry at a Main Group Metal?</title>
-      <dc:description>The earth&#8208;metal olefin complex [Ga  I  (COD)  2  ]  +  [Al(OR  F  )  4  ]  &#8211;  (COD = 1,5&#8208;cyclooctadiene; R  F  = C(CF  3  )  3  ) constitutes the first homoleptic olefin complex of any main&#8208;group metal accessible as a bulk compound. It is straight forward to prepare in good yield and constitutes an olefin complex of a main&#8208;group metal that &#8211; similar to many transition&#8208;metals &#8211; may adopt the +1 and +3 oxidation states opening potential applications. Crystallographic&#8208;, vibrational&#8208; and computational investigations give an insight to the atypical bonding between an olefin and a main&#8208;group metal. They are compared to classical transition&#8208;metal relatives.</dc:description>
-      <dc:creator>
-Ingo Krossing, 
-Kim Glootz, 
-Antoine Barth&#233;lemy
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011466?af=R</link>
-      <content:encoded>&lt;p&gt;The earth&#8208;metal olefin complex [Ga  I  (COD)  2  ]  +  [Al(OR  F  )  4  ]  &#8211;  (COD = 1,5&#8208;cyclooctadiene; R  F  = C(CF  3  )  3  ) constitutes the first homoleptic olefin complex of any main&#8208;group metal accessible as a bulk compound. It is straight forward to prepare in good yield and constitutes an olefin complex of a main&#8208;group metal that &#8211; similar to many transition&#8208;metals &#8211; may adopt the +1 and +3 oxidation states opening potential applications. Crystallographic&#8208;, vibrational&#8208; and computational investigations give an insight to the atypical bonding between an olefin and a main&#8208;group metal. They are compared to classical transition&#8208;metal relatives.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Simple Homoleptic Ga+&#8208;Olefin Complex: Mimicking Transition Metal Chemistry at a Main Group Metal?</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011466</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-21T12:00:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011466</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011466?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202007575?af=R">
       <title>Transcription Factor Based Small&#8208;Molecule Sensing with a Rapid Cell Phone Enabled Fluorescent Bead Assay</title>
