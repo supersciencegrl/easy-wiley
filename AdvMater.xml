@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002736?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002092?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001866?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005037?af=R" />
@@ -146,7 +147,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003263?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002266?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003800?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.201906751?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002341?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002171?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002246?af=R" />
@@ -222,6 +222,53 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202002736?af=R">
+      <title>Metal Halide Perovskite Nanorods: Shape Matters</title>
+      <dc:description>
+Metal halide perovskite nanorods show strong polarized emission, high optical gain, and improved charge transport, and thus hold promising applications in solar cells, light&#8208;emitting diodes (LEDs), photodetectors, photodetectors/phototransistors, and lasers. Recent advances in the synthetic strategies, growth mechanism, and optical and electronic properties of these materials are discussed, and the emerging applications are highlighted.
+
+
+
+
+
+
+
+
+Abstract
+Quasi&#8208;1D metal halide perovskite nanorods (NRs) are emerging as a type of materials with remarkable optical and electronic properties. Research into this field is rapidly expanding and growing in the past several years, with significant advances in both mechanistic studies of their growth and widespread possible applications. Here, the recent advances in 1D metal halide perovskite nanocrystals (NCs) are reviewed, with a particular emphasis on NRs. At first, the crystal structures of perovskites are elaborated, which is followed by a review of the major synthetic approaches toward perovskite NRs, such as wet&#8208;chemical synthesis, substrate&#8208;assisted growth, and anion exchange reactions, and discussion of the growth mechanisms associated with each synthetic method. Then, thermal and aqueous stability and the linear polarized luminescence of perovskite NRs are considered, followed by highlighting their applications in solar cells, light&#8208;emitting diodes, photodetectors/phototransistors, and lasers. Finally, challenges and future opportunities in this rapidly developing research area are summarized.
+</dc:description>
+      <dc:creator>
+Chengxi Zhang, 
+Jiayi Chen, 
+Sheng Wang, 
+Lingmei Kong, 
+Simon W. Lewis, 
+Xuyong Yang, 
+Andrey L. Rogach, 
+Guohua Jia
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002736?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/84a689a4-b59a-40cd-9604-77efeb45defe/adma202002736-gra-0001-m.png"
+     alt="Metal Halide Perovskite Nanorods: Shape Matters"/&gt;
+&lt;p&gt;Metal halide perovskite nanorods show strong polarized emission, high optical gain, and improved charge transport, and thus hold promising applications in solar cells, light&#8208;emitting diodes (LEDs), photodetectors, photodetectors/phototransistors, and lasers. Recent advances in the synthetic strategies, growth mechanism, and optical and electronic properties of these materials are discussed, and the emerging applications are highlighted.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Quasi&#8208;1D metal halide perovskite nanorods (NRs) are emerging as a type of materials with remarkable optical and electronic properties. Research into this field is rapidly expanding and growing in the past several years, with significant advances in both mechanistic studies of their growth and widespread possible applications. Here, the recent advances in 1D metal halide perovskite nanocrystals (NCs) are reviewed, with a particular emphasis on NRs. At first, the crystal structures of perovskites are elaborated, which is followed by a review of the major synthetic approaches toward perovskite NRs, such as wet&#8208;chemical synthesis, substrate&#8208;assisted growth, and anion exchange reactions, and discussion of the growth mechanisms associated with each synthetic method. Then, thermal and aqueous stability and the linear polarized luminescence of perovskite NRs are considered, followed by highlighting their applications in solar cells, light&#8208;emitting diodes, photodetectors/phototransistors, and lasers. Finally, challenges and future opportunities in this rapidly developing research area are summarized.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Metal Halide Perovskite Nanorods: Shape Matters</dc:title>
+      <dc:identifier>doi:10.1002/adma.202002736</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-09-28T12:33:01-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202002736</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202002736?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Progress Report</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002092?af=R">
       <title>Memristors Based on 2D Materials as an Artificial Synapse for Neuromorphic Electronics</title>
       <dc:description>
@@ -3624,61 +3671,6 @@ Qun&#8208;Dong Shen
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202003800</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003800?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.201906751?af=R">
-      <title>Creating an Eco&#8208;Friendly Building Coating with Smart Subambient Radiative Cooling</title>
-      <dc:description>
-A waterborne building coating with smart subambient radiative cooling (SSRC) is created based on a new design concept, which combines particle scattering, sunlight&#8208;excited fluorescence and mid&#8208;infrared broadband radiation. Consequently, conventional building&#8208;coating materials can be engineered at low cost to realize SSRC, facilitating an eco&#8208;friendly solution for widespread applications of the SSRC technology in buildings for improved human comfort.
-
-
-
-
-
-
-
-
-Abstract
-Subambient daytime radiative cooling (SDRC) provides a promising electricity&#8208; and cryogen&#8208;free pathway for global energy&#8208;efficiency. However, current SDRC systems require stringent surface designs, which are neither cost&#8208;effective nor eco&#8208;friendly, to selectively emit thermal radiation to outer space and simultaneously maximize solar reflectance. Here, a generic method is developed to upgrade the conventional building&#8208;coating materials with a peculiar self&#8208;adaptive SDRC effect through combining particle scattering, sunlight&#8208;excited fluorescence, and mid&#8208;infrared broadband radiation. It is also theoretically proved that heat exchange with the sky can eliminate the use of resonant microstructures and noble metal mirrors in conventional SDRC, and also leads to enhanced daytime cooling yet suppressed nighttime overcooling. When exposed to direct sunlight, the upgraded coating over an aluminum plate can achieve 6 &#176;C (7 &#176;C on a scale&#8208;model building) below the ambient temperature under a solar intensity of 744 W m&#8722;2 (850 W m&#8722;2), yielding a cooling power of 84.2 W m&#8722;2. The results pave the way for practical large&#8208;scale applications of high&#8208;performance SDRC for human thermal comfort in buildings.
-</dc:description>
-      <dc:creator>
-Xiao Xue, 
-Meng Qiu, 
-Yanwen Li, 
-Q. M. Zhang, 
-Siqi Li, 
-Zhuo Yang, 
-Chi Feng, 
-Weidong Zhang, 
-Jian&#8208;Guo Dai, 
-Dangyuan Lei, 
-Wei Jin, 
-Lijin Xu, 
-Tao Zhang, 
-Jie Qin, 
-Huiqun Wang, 
-Shanhui Fan
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201906751?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c9c868f8-cd7c-482d-a75b-53c85543f780/adma201906751-gra-0001-m.png"
-     alt="Creating an Eco&#8208;Friendly Building Coating with Smart Subambient Radiative Cooling"/&gt;
-&lt;p&gt;A waterborne building coating with smart subambient radiative cooling (SSRC) is created based on a new design concept, which combines particle scattering, sunlight&#8208;excited fluorescence and mid&#8208;infrared broadband radiation. Consequently, conventional building&#8208;coating materials can be engineered at low cost to realize SSRC, facilitating an eco&#8208;friendly solution for widespread applications of the SSRC technology in buildings for improved human comfort.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Subambient daytime radiative cooling (SDRC) provides a promising electricity&#8208; and cryogen&#8208;free pathway for global energy&#8208;efficiency. However, current SDRC systems require stringent surface designs, which are neither cost&#8208;effective nor eco&#8208;friendly, to selectively emit thermal radiation to outer space and simultaneously maximize solar reflectance. Here, a generic method is developed to upgrade the conventional building&#8208;coating materials with a peculiar self&#8208;adaptive SDRC effect through combining particle scattering, sunlight&#8208;excited fluorescence, and mid&#8208;infrared broadband radiation. It is also theoretically proved that heat exchange with the sky can eliminate the use of resonant microstructures and noble metal mirrors in conventional SDRC, and also leads to enhanced daytime cooling yet suppressed nighttime overcooling. When exposed to direct sunlight, the upgraded coating over an aluminum plate can achieve 6 &#176;C (7 &#176;C on a scale&#8208;model building) below the ambient temperature under a solar intensity of 744 W m&lt;sup&gt;&#8722;2&lt;/sup&gt; (850 W m&lt;sup&gt;&#8722;2&lt;/sup&gt;), yielding a cooling power of 84.2 W m&lt;sup&gt;&#8722;2&lt;/sup&gt;. The results pave the way for practical large&#8208;scale applications of high&#8208;performance SDRC for human thermal comfort in buildings.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Creating an Eco&#8208;Friendly Building Coating with Smart Subambient Radiative Cooling</dc:title>
-      <dc:identifier>doi:10.1002/adma.201906751</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-09-13T11:01:46-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.201906751</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201906751?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
