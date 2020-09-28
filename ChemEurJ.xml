@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003678?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202000586?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202001881?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003925?af=R" />
@@ -159,7 +160,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003613?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003541?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003685?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003793?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -168,6 +168,34 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202003678?af=R">
+      <title>Temperature as an extra dimension in multidimensional protein NMR.</title>
+      <dc:description>Nuclear magnetic resonance spectroscopy (NMR) is a particularly informative method for studying protein structure and dynamics in solution; however, it is also one of the most time&#8208;consuming. Modern approaches to biomolecular NMR are based on lengthy multidimensional (ND) experiments whose duration grows exponentially with the number of dimensions. The experimental time may even be several days in the case of 3D and 4D spectra. Moreover, the experiment often has to be repeated in several different conditions, for example in order to measure the temperature&#8208;dependent effects in a spectrum (temperature coefficients, TCs). In this paper we propose a new approach that involves joint sampling of indirect evolution times and temperature. This allows us to measure TCs with 3D spectra in even less time than is needed to acquire a single spectrum using the conventional approach. We propose two signal processing methods that are complementary in terms of sensitivity and resolution: a) dividing the data into overlapping subsets followed by compressed sensing reconstruction, and b) treating the complete data set with a variant of the Radon transform. The temperature&#8208;swept 3D HNCO spectra of two intrinsically disordered proteins&#8208;&#8208;&#8208;osteopontin and CD44 cytoplasmic tail&#8208;&#8208;&#8208;show that our new approach makes it possible to determine TCs and their non&#8208;linearities effectively. Non&#8208;linearities, which indicate the presence of a compact state, are particularly interesting. We provide the complete package of data acquisition and processing software for this new approach.</dc:description>
+      <dc:creator>
+Alexandra Shchukina, 
+Pawe&#322; Ma&#322;ecki, 
+Borja Mateos, 
+Micha&#322; Nowakowski, 
+Mateusz Urba&#324;czyk, 
+Georg Kontaxis, 
+Pawe&#322; Kasprzak, 
+Clara Conrad-Billroth, 
+Robert Konrat, 
+Krzysztof Kazimierczuk
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003678?af=R</link>
+      <content:encoded>&lt;p&gt;Nuclear magnetic resonance spectroscopy (NMR) is a particularly informative method for studying protein structure and dynamics in solution; however, it is also one of the most time&#8208;consuming. Modern approaches to biomolecular NMR are based on lengthy multidimensional (ND) experiments whose duration grows exponentially with the number of dimensions. The experimental time may even be several days in the case of 3D and 4D spectra. Moreover, the experiment often has to be repeated in several different conditions, for example in order to measure the temperature&#8208;dependent effects in a spectrum (temperature coefficients, TCs). In this paper we propose a new approach that involves joint sampling of indirect evolution times and temperature. This allows us to measure TCs with 3D spectra in even less time than is needed to acquire a single spectrum using the conventional approach. We propose two signal processing methods that are complementary in terms of sensitivity and resolution: a) dividing the data into overlapping subsets followed by compressed sensing reconstruction, and b) treating the complete data set with a variant of the Radon transform. The temperature&#8208;swept 3D HNCO spectra of two intrinsically disordered proteins&#8208;&#8208;&#8208;osteopontin and CD44 cytoplasmic tail&#8208;&#8208;&#8208;show that our new approach makes it possible to determine TCs and their non&#8208;linearities effectively. Non&#8208;linearities, which indicate the presence of a compact state, are particularly interesting. We provide the complete package of data acquisition and processing software for this new approach.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Temperature as an extra dimension in multidimensional protein NMR.</dc:title>
+      <dc:identifier>doi:10.1002/chem.202003678</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-09-28T03:12:15-07:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202003678</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003678?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202003925?af=R">
       <title>B&#8592;N&#8208;Incorporated Dibenzo&#8208;azaacene with Selective Near&#8208;Infrared Absorption and Visible Transparency</title>
       <dc:description>Organic compounds with selective near&#8208;infrared absorption and visible transparency are very desirable for fabrication of transparent/semi&#8208;transparent opto&#8208;electronic devices. Herein, we develop a molecule with selective near&#8208;infrared absorption property, QBNA&#8208;O, in which four B&#8592;N units are incorporated to the core and two benzodioxin groups are introduced at the termini of the dibenzo&#8208;azaacene skeleton. QBNA&#8208;O exhibits a small optical gap of 1.39 eV due to the strong electron&#8208;donating benzodioxin groups and the strong electron&#8208;withdrawing B&#8592;N units. In toluene solution, QBNA&#8208;O shows a strong absorption peak at 856 nm with the full width at half maximum (FWHM) of only 41 nm as well as very weak absorption in the visible range from 380 nm to 760 nm. Thin films of QBNA&#8208;O exhibit the average visible transparency (AVT) of 78% at the thickness of 205 nm and 90% at the thickness of 45 nm. Solution&#8208;processed organic field&#8208;effect transistors (OFETs) of QBNA&#8208;O display ambipolar transporting behavior with the electron mobility of 0.52 cm2 V&#8211;1 s&#8211;1 and the hole mobility of 0.013 cm2 V&#8211;1 s&#8211;1 together with excellent air&#8208;stability. The selective NIR absorbing property and excellent charge transporting property imply that QBNA&#8208;O can be used to fabricate transparent organic opto&#8208;electronic devices.</dc:description>
@@ -1867,30 +1895,5 @@ Basudev Sahoo
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003685?af=R</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003793?af=R">
-      <title>MOF&#8208;derived electron&#8208;transfer enhanced homogeneous PdO&#8208;rich Co3O4 as a highly efficient bifunctional catalyst for sodium borohydride hydrolysis and 4&#8208;nitrophenol reduction</title>
-      <dc:description>Developing a bifunctional catalyst with low cost and high catalytic performance in NaBH4  hydrolysis for H2  generation and selective reduction of nitroaromatics will make a significant impact in the field of sustainable energy and water purification. Herein, we report a homogeneously dispersed high&#8208;valence Pd oxide&#8208;rich Co3O4  polyhedral catalyst (PdO&#8208;Co3O4  ) with concave structure by metal&#8208;organic frameworks templated synthesis method. The results show that the PdO&#8208;Co3O4  catalyst has an exceptional turnover frequency (3325.6 molH2  min&#8208;1  molPd&#8208;1  ), low activation energy (43.2 kJ mol&#8208;1  ), and reasonable reusability in catalytic H2  generation from NaBH4  hydrolysis. Moreover, the optimized catalyst also shows excellent catalytic performance in NaBH4  selective reduction of 4&#8208;nitrophenol to 4&#8208;aminiphenol with a high first&#8208;order reaction rate of  ca  . 1.31 min&#8208;1  . These excellent catalytic properties mainly ascribe to the porous concave structure, monodispersed Pd&#8208;oxide, as well as the unique synergy between PdO and Co3O4  species that result in a large specific surface area, high conductivity, and fast solute transport and gas emissions.</dc:description>
-      <dc:creator>
-Shasha Dou, 
-Shuqing Zhou, 
-Hexiu Huang, 
-Puxuan Yan, 
-Elvis Shoko, 
-Tayirjan  Taylor Isimjan, 
-Xiulin Yang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003793?af=R</link>
-      <content:encoded>&lt;p&gt;Developing a bifunctional catalyst with low cost and high catalytic performance in NaBH4  hydrolysis for H2  generation and selective reduction of nitroaromatics will make a significant impact in the field of sustainable energy and water purification. Herein, we report a homogeneously dispersed high&#8208;valence Pd oxide&#8208;rich Co3O4  polyhedral catalyst (PdO&#8208;Co3O4  ) with concave structure by metal&#8208;organic frameworks templated synthesis method. The results show that the PdO&#8208;Co3O4  catalyst has an exceptional turnover frequency (3325.6 molH2  min&#8208;1  molPd&#8208;1  ), low activation energy (43.2 kJ mol&#8208;1  ), and reasonable reusability in catalytic H2  generation from NaBH4  hydrolysis. Moreover, the optimized catalyst also shows excellent catalytic performance in NaBH4  selective reduction of 4&#8208;nitrophenol to 4&#8208;aminiphenol with a high first&#8208;order reaction rate of  ca  . 1.31 min&#8208;1  . These excellent catalytic properties mainly ascribe to the porous concave structure, monodispersed Pd&#8208;oxide, as well as the unique synergy between PdO and Co3O4  species that result in a large specific surface area, high conductivity, and fast solute transport and gas emissions.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>MOF&#8208;derived electron&#8208;transfer enhanced homogeneous PdO&#8208;rich Co3O4 as a highly efficient bifunctional catalyst for sodium borohydride hydrolysis and 4&#8208;nitrophenol reduction</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003793</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-09-15T04:14:48-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003793</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003793?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
