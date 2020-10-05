@@ -9,9 +9,24 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011157?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012428?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010335?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009027?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009294?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006874?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008415?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010634?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010089?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010638?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010166?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011097?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009359?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011342?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011903?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010889?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011666?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010780?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011666?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012445?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012631?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010696?af=R" />
@@ -101,12 +116,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010252?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009479?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010613?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010722?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009501?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009279?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012182?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009238?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009983?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011914?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010782?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012665?af=R" />
@@ -193,19 +202,10 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007241?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004679?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011140?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009912?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009115?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010019?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006420?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010917?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012513?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010035?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011368?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009194?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012120?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011604?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012477?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010192?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -214,6 +214,190 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202011157?af=R">
+      <title>Disease&#8208;associated tau phosphorylation hinders tubulin assembly within tau condensates</title>
+      <dc:description>Cellular condensation of intrinsically disordered proteins (IDPs) through liquid&#8208;liquid phase separation (LLPS) allows dynamic compartmentalization and regulation of biological processes. The IDP tau, which promotes the assembly of microtubules and is hyperphosphorylated in Alzheimer&#8217;s disease, undergoes LLPS in solution and on the surface of microtubules. Little is known, however, about the influence of tau phosphorylation on its ability to nucleate microtubule bundles in conditions of tau LLPS.&#160;We here show that unmodified tau as well as tau phosphorylated at disease&#8208;associated epitopes condenses into liquid&#8208;like droplets. Although tubulin partitioned into and reached high concentrations inside all tau droplets, it was unable to grow into microtubules form the inside of droplets formed by tau phosphorylated at the AT180 epitope (T231/S235). In contrast, neither phosphorylation of tau in the repeat domain nor at its tyrosine residues inhibited the assembly of tubulin from tau droplets. &#160; Because LLPS of IDPs has been shown to promote different types of cytoskeletal assembly, &#160;our study suggests that IDP phosphorylation might be a broadly used mechanism for the modulation of condensate&#8208;mediated&#160;cytoskeletal assembly.</dc:description>
+      <dc:creator>
+Adriana Savastano, 
+David Flores, 
+Harindranath Kadavath, 
+Jacek Biernat, 
+Eckhard Mandelkow, 
+Markus Zweckstetter
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011157?af=R</link>
+      <content:encoded>&lt;p&gt;Cellular condensation of intrinsically disordered proteins (IDPs) through liquid&#8208;liquid phase separation (LLPS) allows dynamic compartmentalization and regulation of biological processes. The IDP tau, which promotes the assembly of microtubules and is hyperphosphorylated in Alzheimer&#8217;s disease, undergoes LLPS in solution and on the surface of microtubules. Little is known, however, about the influence of tau phosphorylation on its ability to nucleate microtubule bundles in conditions of tau LLPS.&#160;We here show that unmodified tau as well as tau phosphorylated at disease&#8208;associated epitopes condenses into liquid&#8208;like droplets. Although tubulin partitioned into and reached high concentrations inside all tau droplets, it was unable to grow into microtubules form the inside of droplets formed by tau phosphorylated at the AT180 epitope (T231/S235). In contrast, neither phosphorylation of tau in the repeat domain nor at its tyrosine residues inhibited the assembly of tubulin from tau droplets. &#160; Because LLPS of IDPs has been shown to promote different types of cytoskeletal assembly, &#160;our study suggests that IDP phosphorylation might be a broadly used mechanism for the modulation of condensate&#8208;mediated&#160;cytoskeletal assembly.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Disease&#8208;associated tau phosphorylation hinders tubulin assembly within tau condensates</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011157</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-05T06:33:20-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011157</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011157?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202012428?af=R">
+      <title>Energy efficient, ultrahigh&#8208;flux separation of oily pollutants from water with superhydrophilic nanoscale metal&#8208;organic framework architectures</title>
+      <dc:description>The rising demand for clean water for a growing and increasingly urban global population is one of the most urgent issues of our time. Particularly, the increasing generation of wastewater by cities and industrial sources requires the development of novel platforms for separating contaminants such as oils. Here, we introduce the synthesis of a unique nanoscale architecture of pillar&#8208;like Co&#8208;CAT&#8208;1 metal&#8208;organic framework (MOF) crystallites on gold&#8208;coated woven stainless steel meshes with large, 50 &#181;m apertures. These nanostructured mesh surfaces feature superhydrophilic and underwater superoleophobic wetting properties, allowing for gravity&#8208;driven, highly efficient oil&#8208;water separation featuring water fluxes of up to nearly one million L m&#8208;2 h&#8208;1. Water physisorption experiments reveal the hydrophilic nature of Co&#8208;CAT&#8208;1 with a total water uptake at room temperature of 470 cm3 g&#8208;1.&#160; Furthermore, semiempirical molecular orbital calculations shed light on water affinity of the inner and outer pore surfaces. The MOF&#8208;based membranes enable high separation efficiencies for a number of liquids tested, including the notorious water pollutant, crude oil, affording chemical oxygen demand (COD) concentrations below 25 mg L&#8208;1 of the effluent. Our results demonstrate the great impact of suitable nanoscale surface architectures as a means of encoding on&#8208;surface extreme wetting properties, yielding energy&#8208;efficient water&#8208;selective large&#8208;aperture membranes. The extremely low resistance to flow and the resulting enormous flux capabilities hold great promise for water cleanup on a massive scale and for the design of practical, low&#8208;cost water purification devices that can be operated without external power source and without moving parts.</dc:description>
+      <dc:creator>
+Andre M&#228;hringer, 
+Matthias Hennemann, 
+Timothy Clark, 
+Thomas Bein, 
+Dana Medina
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012428?af=R</link>
+      <content:encoded>&lt;p&gt;The rising demand for clean water for a growing and increasingly urban global population is one of the most urgent issues of our time. Particularly, the increasing generation of wastewater by cities and industrial sources requires the development of novel platforms for separating contaminants such as oils. Here, we introduce the synthesis of a unique nanoscale architecture of pillar&#8208;like Co&#8208;CAT&#8208;1 metal&#8208;organic framework (MOF) crystallites on gold&#8208;coated woven stainless steel meshes with large, 50 &#181;m apertures. These nanostructured mesh surfaces feature superhydrophilic and underwater superoleophobic wetting properties, allowing for gravity&#8208;driven, highly efficient oil&#8208;water separation featuring water fluxes of up to nearly one million L m&#8208;2 h&#8208;1. Water physisorption experiments reveal the hydrophilic nature of Co&#8208;CAT&#8208;1 with a total water uptake at room temperature of 470 cm3 g&#8208;1.&#160; Furthermore, semiempirical molecular orbital calculations shed light on water affinity of the inner and outer pore surfaces. The MOF&#8208;based membranes enable high separation efficiencies for a number of liquids tested, including the notorious water pollutant, crude oil, affording chemical oxygen demand (COD) concentrations below 25 mg L&#8208;1 of the effluent. Our results demonstrate the great impact of suitable nanoscale surface architectures as a means of encoding on&#8208;surface extreme wetting properties, yielding energy&#8208;efficient water&#8208;selective large&#8208;aperture membranes. The extremely low resistance to flow and the resulting enormous flux capabilities hold great promise for water cleanup on a massive scale and for the design of practical, low&#8208;cost water purification devices that can be operated without external power source and without moving parts.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Energy efficient, ultrahigh&#8208;flux separation of oily pollutants from water with superhydrophilic nanoscale metal&#8208;organic framework architectures</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012428</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-05T01:53:05-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012428</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012428?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202010335?af=R">
+      <title>Host&#8208;Guest Exchange of Viologen Guests in Porphyrin Cage Compounds as Studied by Selective Exchange Spectroscopy (1D EXSY) NMR</title>
+      <dc:description>Dynamics in complexes of porphyrin cage compounds and viologen&#8208;derived guest molecules are investigated by selective exchange NMR spectroscopy (1D EXSY). Exchange rates were found to be independent of excess guest concentration, revealing a dissociative exchange mechanism, which is accompanied by negative activation entropies. The latter indicates significant reorganization of the host&#8208;guest complex during dissociation. Dissymmetric viologen guests bearing bulky head groups exhibited more unidirectional binding and slower exchange rates than guests with less bulky head groups. Thermodynamic and kinetic studies revealed that the exchange process is primarily driven by the thermodynamics of binding. Overall, guest binding can be influenced by introducing steric and electronic groups on the host, which for small substituents that make the cavity sidewalls more electron&#8208;rich, results in stronger binding. Exchange studies with guests bearing a polymer chain revealed that both slippage and full dissociation takes place and the rate constants for both processes were determined. The slippage rate constant corresponded to the exchange rate constants of smaller guests, which further revealed that for smaller guests exchange takes place nearly exclusively under thermodynamic control.</dc:description>
+      <dc:creator>
+Roeland  J.M. Nolte, 
+Anne Swartjes, 
+Paul  B. White, 
+Marijn Lammertink, 
+Johannes  A. A. W. Elemans
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010335?af=R</link>
+      <content:encoded>&lt;p&gt;Dynamics in complexes of porphyrin cage compounds and viologen&#8208;derived guest molecules are investigated by selective exchange NMR spectroscopy (1D EXSY). Exchange rates were found to be independent of excess guest concentration, revealing a dissociative exchange mechanism, which is accompanied by negative activation entropies. The latter indicates significant reorganization of the host&#8208;guest complex during dissociation. Dissymmetric viologen guests bearing bulky head groups exhibited more unidirectional binding and slower exchange rates than guests with less bulky head groups. Thermodynamic and kinetic studies revealed that the exchange process is primarily driven by the thermodynamics of binding. Overall, guest binding can be influenced by introducing steric and electronic groups on the host, which for small substituents that make the cavity sidewalls more electron&#8208;rich, results in stronger binding. Exchange studies with guests bearing a polymer chain revealed that both slippage and full dissociation takes place and the rate constants for both processes were determined. The slippage rate constant corresponded to the exchange rate constants of smaller guests, which further revealed that for smaller guests exchange takes place nearly exclusively under thermodynamic control.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Host&#8208;Guest Exchange of Viologen Guests in Porphyrin Cage Compounds as Studied by Selective Exchange Spectroscopy (1D EXSY) NMR</dc:title>
+      <dc:identifier>doi:10.1002/anie.202010335</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-05T12:00:00-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202010335</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010335?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202010638?af=R">
+      <title>Towards a Single Chemical Model for Understanding Lanthanide Hexaborides</title>
+      <dc:description>
+Lanthanide hexaborides (LnB6) have a plethora of seemingly mutually incompatible properties. We propose a chemical bonding model that rationalizes the entire LnB6 series. The boron atoms can access different bonding states with the Ln, and in some LnB6 switch between them through phonon motion. The new paradigm allows predictions of new properties of mixed alloys.
+
+
+
+
+
+
+
+Abstract
+Lanthanide hexaborides (LnB6) have disparate and often anomalous properties, from structurally homogeneous mixed valency, to superconductivity, spectral anomalies, and unexplained phase transitions. It is unclear how such a diversity of properties may arise in the solids of identical crystal structures and seemingly very similar electronic structures. Building on our previous model for SmB6 (mixed valent, with a peak in specific heat, and pressure induced magnetic phase transitions), we present a unifying dynamic bonding model for LnB6 that explains simultaneously EuB6 (possessing an anomalous peak in specific heat at low T, magnetic phase transitions, and no mixed valency), YbB6 (mixed valent topological insulator), and rather ordinary LaB6. We show that Ln can engage in covalent bonding with boron, and, in some members of the LnB6 family, also easily access alternative bonding states through the electron&#8211;phonon coupling. The accessibility, relative energetics, and bonding nature of the states involved dictate the properties.
+</dc:description>
+      <dc:creator>
+Julen Munarriz, 
+Paul J. Robinson, 
+Anastassia N. Alexandrova
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010638?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c19e579a-30b0-4bb9-a2c9-b9475417ba78/anie202010638-toc-0001-m.png"
+     alt="Towards a Single Chemical Model for Understanding Lanthanide Hexaborides"/&gt;
+&lt;p&gt;Lanthanide hexaborides (LnB&lt;sub&gt;6&lt;/sub&gt;) have a plethora of seemingly mutually incompatible properties. We propose a chemical bonding model that rationalizes the entire LnB&lt;sub&gt;6&lt;/sub&gt; series. The boron atoms can access different bonding states with the Ln, and in some LnB&lt;sub&gt;6&lt;/sub&gt; switch between them through phonon motion. The new paradigm allows predictions of new properties of mixed alloys.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Lanthanide hexaborides (LnB&lt;sub&gt;6&lt;/sub&gt;) have disparate and often anomalous properties, from structurally homogeneous mixed valency, to superconductivity, spectral anomalies, and unexplained phase transitions. It is unclear how such a diversity of properties may arise in the solids of identical crystal structures and seemingly very similar electronic structures. Building on our previous model for SmB&lt;sub&gt;6&lt;/sub&gt; (mixed valent, with a peak in specific heat, and pressure induced magnetic phase transitions), we present a unifying dynamic bonding model for LnB&lt;sub&gt;6&lt;/sub&gt; that explains simultaneously EuB&lt;sub&gt;6&lt;/sub&gt; (possessing an anomalous peak in specific heat at low T, magnetic phase transitions, and no mixed valency), YbB&lt;sub&gt;6&lt;/sub&gt; (mixed valent topological insulator), and rather ordinary LaB&lt;sub&gt;6&lt;/sub&gt;. We show that Ln can engage in covalent bonding with boron, and, in some members of the LnB&lt;sub&gt;6&lt;/sub&gt; family, also easily access alternative bonding states through the electron&#8211;phonon coupling. The accessibility, relative energetics, and bonding nature of the states involved dictate the properties.&lt;/p&gt;
+</content:encoded>
+      <description>Angewandte Chemie International Edition, EarlyView. </description>
+      <dc:title>Towards a Single Chemical Model for Understanding Lanthanide Hexaborides</dc:title>
+      <dc:identifier>doi:10.1002/anie.202010638</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-04T11:30:55-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202010638</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010638?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202009359?af=R">
+      <title>Synthesis and Characterization of Bidentate (P^N)Gold(III) Fluoride Complexes: Reactivity Platforms for Reductive Elimination Studies</title>
+      <dc:description>A new family of cationic, bidentate (P^N)gold(III) fluoride complexes has been prepared and a detailed characterization of the gold&#8208;fluoride bond has been carried out. Our results correlate with the observed reactivity of the fluoro ligand, which undergoes facile exchange with both cyano and acetylene nucleophiles. The resulting (P^N)arylgold(III)C(sp) complexes have enabled the first study of reductive elimination on (P^N)gold(III) systems demonstrating that C(sp  2  )&#8208;C(sp) bond formation occurs at higher rates than those reported for analogous phosphine&#8208;based monodentate systems.</dc:description>
+      <dc:creator>
+Cristina Nevado, 
+Alexandre Genoux, 
+Micha&#322; Biedrzycki, 
+Est&#237;baliz Merino, 
+Eva Rivera, 
+Anthony Linden
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009359?af=R</link>
+      <content:encoded>&lt;p&gt;A new family of cationic, bidentate (P^N)gold(III) fluoride complexes has been prepared and a detailed characterization of the gold&#8208;fluoride bond has been carried out. Our results correlate with the observed reactivity of the fluoro ligand, which undergoes facile exchange with both cyano and acetylene nucleophiles. The resulting (P^N)arylgold(III)C(sp) complexes have enabled the first study of reductive elimination on (P^N)gold(III) systems demonstrating that C(sp  2  )&#8208;C(sp) bond formation occurs at higher rates than those reported for analogous phosphine&#8208;based monodentate systems.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Synthesis and Characterization of Bidentate (P^N)Gold(III) Fluoride Complexes: Reactivity Platforms for Reductive Elimination Studies</dc:title>
+      <dc:identifier>doi:10.1002/anie.202009359</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-04T07:10:38-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202009359</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009359?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011342?af=R">
+      <title>Nickel&#8208;Catalyzed Asymmetric Synthesis of &#945;&#8208;Arylbenzamides</title>
+      <dc:description>A nickel&#8208;catalyzed asymmetric reductive hydroarylation of vinyl amides to produce enantioenriched &#945;&#8208;arylbenzamides is reported. The use of a chiral bisimidazoline (BIm) ligand, in combination with diethoxymethylsilane and aryl halides, enables regioselective introduction of aryl groups to the internal position of the olefin, forging a new stereogenic center &#945; to the N atom. The use of neutral reagents and mild reaction conditions provides simple access to pharmacologically relevant motifs present in anticancer, SARS&#8208;CoV PLpro inhibitors and KCNQ channel openers.</dc:description>
+      <dc:creator>
+Sergio Cuesta-Galisteo, 
+Johannes Sch&#246;rgenhumer, 
+Xiaofeng Wei, 
+Estibaliz Merino, 
+Cristina Nevado
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011342?af=R</link>
+      <content:encoded>&lt;p&gt;A nickel&#8208;catalyzed asymmetric reductive hydroarylation of vinyl amides to produce enantioenriched &#945;&#8208;arylbenzamides is reported. The use of a chiral bisimidazoline (BIm) ligand, in combination with diethoxymethylsilane and aryl halides, enables regioselective introduction of aryl groups to the internal position of the olefin, forging a new stereogenic center &#945; to the N atom. The use of neutral reagents and mild reaction conditions provides simple access to pharmacologically relevant motifs present in anticancer, SARS&#8208;CoV PLpro inhibitors and KCNQ channel openers.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Nickel&#8208;Catalyzed Asymmetric Synthesis of &#945;&#8208;Arylbenzamides</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011342</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-04T07:09:13-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011342</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011342?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011903?af=R">
+      <title>Rapid and Nondestructive Histopathological Analysis for Intraoperative Cancer Diagnosis Using an Enzyme&#8208;Activated NIR&#8208;II Nanoprobe</title>
+      <dc:description>Accurate intraoperative histopathological analysis is critical to the tumor surgery. However, conventional methods are labor&#8208; and time&#8208;intensive, which greatly delay the intraoperative decision&#8208;making. Herein, a matrix metalloproteinase (MMP)14&#8208;activated NIR&#8208;II nanoprobe (A&amp;MMP@Ag  2  S&#8208;AF7P) is presented for rapid and nondestructive histopathological analysis for  ex vivo  and  in vivo  neuroblastoma diagnosis. A&amp;MMP@Ag  2  S&#8208;AF7P displays the negligible fluorescence in normal tissues but is activated quickly by inhibiting the fluorescence resonance energy transfer (FRET) process between Ag  2  S QDs and A1094 mediated by MMP14 overexpressed in neuroblastoma, meanwhile, the exposure of the membrane penetrating peptide R9 (TAT&#8208;peptide) results in efficient internalization of nanoprobes in the cancer cells, providing superior tumor&#8208;to&#8208;normal (T/N) tissue ratio. Instant illumination of the lesion and well&#8208;defined tumor margins make the nanoprobes adequate as rapid diagnostic reagent for incorporation into cancer surgical or tissue biopsy procedures.</dc:description>
+      <dc:creator>
+Qiangbin Wang, 
+Yang Zhan, 
+Sisi Ling, 
+Haoying Huang, 
+Yejun Zhang, 
+Guangcun Chen, 
+Shungen Huang, 
+Chunyan Li, 
+Wanliang Guo
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011903?af=R</link>
+      <content:encoded>&lt;p&gt;Accurate intraoperative histopathological analysis is critical to the tumor surgery. However, conventional methods are labor&#8208; and time&#8208;intensive, which greatly delay the intraoperative decision&#8208;making. Herein, a matrix metalloproteinase (MMP)14&#8208;activated NIR&#8208;II nanoprobe (A&amp;MMP@Ag  2  S&#8208;AF7P) is presented for rapid and nondestructive histopathological analysis for  ex vivo  and  in vivo  neuroblastoma diagnosis. A&amp;MMP@Ag  2  S&#8208;AF7P displays the negligible fluorescence in normal tissues but is activated quickly by inhibiting the fluorescence resonance energy transfer (FRET) process between Ag  2  S QDs and A1094 mediated by MMP14 overexpressed in neuroblastoma, meanwhile, the exposure of the membrane penetrating peptide R9 (TAT&#8208;peptide) results in efficient internalization of nanoprobes in the cancer cells, providing superior tumor&#8208;to&#8208;normal (T/N) tissue ratio. Instant illumination of the lesion and well&#8208;defined tumor margins make the nanoprobes adequate as rapid diagnostic reagent for incorporation into cancer surgical or tissue biopsy procedures.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Rapid and Nondestructive Histopathological Analysis for Intraoperative Cancer Diagnosis Using an Enzyme&#8208;Activated NIR&#8208;II Nanoprobe</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011903</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-04T07:05:28-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011903</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011903?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202010889?af=R">
       <title>Selective Synthesis of Non&#8208;Aromatic Five&#8208;Membered Sulfur Heterocycles from Alkynes with a Proton Acid/N&#8208;Chlorophthalimide System</title>
       <dc:description>Described here is a multicomponent strategy to achieve two different regioselectivities from alkynes, isothiocyanates and H  2  O with a proton acid/N&#8208;chlorophthalimide (NCPI) system, selectively obtaining non&#8208;aromatic five&#8208;membered sulfur heterocycles: 1,3&#8208;oxathiol&#8208;2&#8208;imines/thiazol&#8208;2(3H)&#8208;one derivatives through multiple bond formations. The process features readily available starting materials, mild reaction conditions, broad substrate scope, good functional group tolerance, high regio&#8208; and chemo&#8208; selectivities,   gram&#8208;scale synthesis and late&#8208;stage modifications. Mechanistic studies support that the transformation process includes a combination of H  2  O and isothiocyanate, free radical formation, carbonation and intramolecular cyclization to give the products. Furthermore, the 1,3&#8208;oxathiol&#8208;2&#8208;imine derivatives with unique fluorescence characteristics, can be served as metal ions Pd  2+  sensor with &#8220;turn&#8208;off&#8221; response, showing potential applications in environmental and biological fields.</dc:description>
@@ -235,29 +419,6 @@ Fuxing Shi
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202010889</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010889?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011666?af=R">
-      <title>Cationic Group VI Metal Imido Alkylidene N&#8208;Heterocyclic Carbene Nitrile Complexes: Bench&#8208;Stable, Functional&#8208;Group&#8208;Tolerant Olefin Metathesis Catalysts</title>
-      <dc:description>Despite their excellent selectivities and activities, Mo&#8208;and W&#8208;based catalysts for olefin metathesis have not gained the same widespread use as Ru&#8208;based systems, mainly due to their inherent air&#8208;sensitivity. Here we describe the synthesis of cationic&#8208;at&#8208;metal molybdenum and tungsten imido alkylidene NHC nitrile complexes that are long&#8208;time stable in air. They catalyze olefin metathesis reactions of substrates containing functional groups such as (thio&#8208;) esters, (thio&#8208;) ethers and alcohols without the need for prior activation, e.g. by a Lewis acid. The presence of a nitrile ligand was found to be essential for their stability towards air, while no decrease in activity and productivity could be observed upon coordination of a nitrile. Variations of the imido and anionic ligand revealed that alkoxide complexes with electron&#8208;withdrawing imido ligands offer the highest reactivities and excellent stability compared to analogous triflate and halide complexes. The molybdenum imido alkylidene NHC nitrile complexes maintain their selectivity for the formation of  trans  &#8208;isotactic poly(norbornene)s.</dc:description>
-      <dc:creator>
-Mathis Benedikter, 
-Janis Musso, 
-Wolfgang Frey, 
-Roman Schowner, 
-Michael  Rudolf Buchmeiser
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011666?af=R</link>
-      <content:encoded>&lt;p&gt;Despite their excellent selectivities and activities, Mo&#8208;and W&#8208;based catalysts for olefin metathesis have not gained the same widespread use as Ru&#8208;based systems, mainly due to their inherent air&#8208;sensitivity. Here we describe the synthesis of cationic&#8208;at&#8208;metal molybdenum and tungsten imido alkylidene NHC nitrile complexes that are long&#8208;time stable in air. They catalyze olefin metathesis reactions of substrates containing functional groups such as (thio&#8208;) esters, (thio&#8208;) ethers and alcohols without the need for prior activation, e.g. by a Lewis acid. The presence of a nitrile ligand was found to be essential for their stability towards air, while no decrease in activity and productivity could be observed upon coordination of a nitrile. Variations of the imido and anionic ligand revealed that alkoxide complexes with electron&#8208;withdrawing imido ligands offer the highest reactivities and excellent stability compared to analogous triflate and halide complexes. The molybdenum imido alkylidene NHC nitrile complexes maintain their selectivity for the formation of  trans  &#8208;isotactic poly(norbornene)s.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Cationic Group VI Metal Imido Alkylidene N&#8208;Heterocyclic Carbene Nitrile Complexes: Bench&#8208;Stable, Functional&#8208;Group&#8208;Tolerant Olefin Metathesis Catalysts</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011666</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-10-03T04:32:00-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011666</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011666?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -1455,41 +1616,6 @@ Matthew G. Cowan
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012182?af=R">
-      <title>Pb18O8Cl15I5: A Polar Lead Mixed Oxyhalide with Unprecedented Architecture and Excellent Infrared Nonlinear Optical Properties</title>
-      <dc:description>
-A polar lead mixed oxyhalide, Pb18O8Cl15I5, representing the first synthetic metal oxyhalide combining both Cl&#8722; and I&#8722; featuring two types of oxo&#8208;centered Pb&#8211;O units with different dimensionality is reported by K.&#8197;M. Ok et&#8197;al. in their Communication (DOI: 10.1002/anie.202009541). Characterizations based on the centimeter&#8208;sized single crystals reveal that Pb18O8Cl15I5 satisfies all fundamental yet rigorous criteria for high&#8208;performance IR NLO materials.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Xinglong Chen, 
-Qun Jing, 
-Kang Min Ok
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012182?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/67576aaa-3061-41d6-97c8-90ba9b0af391/anie202012182-toc-0001-m.png"
-     alt="Pb18O8Cl15I5: A Polar Lead Mixed Oxyhalide with Unprecedented Architecture and Excellent Infrared Nonlinear Optical Properties"/&gt;
-&lt;p&gt;A polar lead mixed oxyhalide, Pb&lt;sub&gt;18&lt;/sub&gt;O&lt;sub&gt;8&lt;/sub&gt;Cl&lt;sub&gt;15&lt;/sub&gt;I&lt;sub&gt;5&lt;/sub&gt;, representing the first synthetic metal oxyhalide combining both Cl&lt;sup&gt;&#8722;&lt;/sup&gt; and I&lt;sup&gt;&#8722;&lt;/sup&gt; featuring two types of oxo&#8208;centered Pb&#8211;O units with different dimensionality is reported by K.&#8197;M. Ok et&#8197;al. in their Communication (DOI: &lt;a&gt;https://doi.org/10.1002/anie.20200954110.1002/anie.202009541&lt;/a&gt;). Characterizations based on the centimeter&#8208;sized single crystals reveal that Pb&lt;sub&gt;18&lt;/sub&gt;O&lt;sub&gt;8&lt;/sub&gt;Cl&lt;sub&gt;15&lt;/sub&gt;I&lt;sub&gt;5&lt;/sub&gt; satisfies all fundamental yet rigorous criteria for high&#8208;performance IR NLO materials.
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>Angewandte Chemie International Edition, EarlyView. </description>
-      <dc:title>Pb18O8Cl15I5: A Polar Lead Mixed Oxyhalide with Unprecedented Architecture and Excellent Infrared Nonlinear Optical Properties</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012182</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-29T06:13:48-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012182</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012182?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202011914?af=R">
       <title>Polymethine&#8208;Based Semiconducting Polymer Dots with Narrow&#8208;Band Emission and Absorption/Emission Maxima at NIR&#8208;II for Bioimaging</title>
       <dc:description>Deep&#8208;penetration fluorescence imaging in the second near&#8208;infrared (NIR&#8208;II) window heralds a new era of clinical surgery, in which high&#8208;resolution vascular/lymphatic anatomy and detailed cancerous tissues can be visualized in real time. Although several types of fluorescent agents, including inorganic nanostructures and small organic dyes have been extensively developed recently, only a few successful examples of NIR&#8208;II fluorescing polymers with much enhanced fluorescence brightness and photo/colloidal stability have been reported. Here we describe a series of polymethine&#8208;based semiconducting polymers with intrinsic emission maxima in the NIR&#8208;IIa (1300&#8208;1400 nm) window and absorption maxima ranging from 1082 to 1290 nm. We prepared these polymers as semiconducting polymer dots (Pdots) in aqueous solutions with fluorescence quantum yields of 0.05&#8208;0.18 %, and demonstrated their promising applications in noninvasive through&#8208;skull brain imaging in live mice with remarkable spatial resolution as well as signal&#8208;to&#8208;background contrast. This study offers a universal platform for future designing NIR&#8208;IIa or even NIR&#8208;IIb emitting Pdots.</dc:description>
@@ -1848,143 +1974,6 @@ Bla&#382; Likozar
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202010035</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010035?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202009194?af=R">
-      <title>Elemental sulfur enabled divergent synthesis of disulfides, diselenides and polythiophenes from &#946;&#8208;CF3&#8208;1,3&#8208;enynes</title>
-      <dc:description>Divergent synthesis for precise constructions of cyclic unsymmetrical diaryl disulfides or diselenides and polythiophenes from CF 3  &#8208;containing 1,3&#8208;enynes and S 8  was developed when the ortho group is F, Cl, Br and NO 2  on aromatic rings. Meanwhile, disulfides (diselenides) were also quickly constructed when the ortho group is H. These transformations undergo cascade thiophene construction/selective C 3  &#8208;position thiolation process, featuring simple operations, divergent synthesis, broad substrate scope, readily available starting materials as well as valuable products. A novel plausible radical annulation process was proposed and validated by DFT calculations for the first time. A series of derivatizations about the thiophene (TBT) and disulfides were also well represented.</dc:description>
-      <dc:creator>
-Shengnan Jin, 
-Shi-Jun Li, 
-Xingxing Ma, 
-Jianke Su, 
-Haohua Chen, 
-Yu Lan, 
-Qiuling Song
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009194?af=R</link>
-      <content:encoded>&lt;p&gt;Divergent synthesis for precise constructions of cyclic unsymmetrical diaryl disulfides or diselenides and polythiophenes from CF 3  &#8208;containing 1,3&#8208;enynes and S 8  was developed when the ortho group is F, Cl, Br and NO 2  on aromatic rings. Meanwhile, disulfides (diselenides) were also quickly constructed when the ortho group is H. These transformations undergo cascade thiophene construction/selective C 3  &#8208;position thiolation process, featuring simple operations, divergent synthesis, broad substrate scope, readily available starting materials as well as valuable products. A novel plausible radical annulation process was proposed and validated by DFT calculations for the first time. A series of derivatizations about the thiophene (TBT) and disulfides were also well represented.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Elemental sulfur enabled divergent synthesis of disulfides, diselenides and polythiophenes from &#946;&#8208;CF3&#8208;1,3&#8208;enynes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202009194</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-27T07:06:25-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202009194</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202009194?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012120?af=R">
-      <title>Synthesis and Properties of a Cyclohexa&#8208;2,7&#8208;Anthrylene Ethynylene Derivative</title>
-      <dc:description>The synthesis of a&#160;cyclohexa&#8208;2,7&#8208;(4,5&#8208;diaryl)anthrylene ethynylene&#160;1&#160;was achieved&#160;for the first time&#160;by using 1,8&#8208;diaryl&#8208;3,6&#8208;diborylanthracene and 1,8&#8208;diaryl&#8208;3,6&#8208;diiodoanthracene as key synthetic intermediates. Macrocycle&#160;1&#160;possesses a planar conformation of&#160;approximately&#160;D6h&#160;symmetry, because of the triple bond linker between the anthracene units at the&#160;2,7&#8208;positions.&#160;It was confirmed that macrocycle&#160;1, bearing bulky substituents at the outer peripheral positions, behaves as a monomeric form&#160;in solution&#160;without&#160;&#960;&#8208;stacking&#160;self&#8208;association.&#160;Macrocycle&#160;1&#160;has an inner cavity size that allows specific inclusion of [9]cycloparaphenylene ([9]CPP), but not [8]CPP or [10]CPP,&#160;through aromatic edge&#8208;to&#8208;face CH&#8208;&#960;&#160;interaction.</dc:description>
-      <dc:creator>
-Hironori Matsuki, 
-Keisuke Okubo, 
-Yuta Takaki, 
-Yoshiki Niihori, 
-Masaaki Mitsui, 
-Eiichi Kayahara, 
-Shigeru Yamago, 
-Kenji Kobayashi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012120?af=R</link>
-      <content:encoded>&lt;p&gt;The synthesis of a&#160;cyclohexa&#8208;2,7&#8208;(4,5&#8208;diaryl)anthrylene ethynylene&#160;1&#160;was achieved&#160;for the first time&#160;by using 1,8&#8208;diaryl&#8208;3,6&#8208;diborylanthracene and 1,8&#8208;diaryl&#8208;3,6&#8208;diiodoanthracene as key synthetic intermediates. Macrocycle&#160;1&#160;possesses a planar conformation of&#160;approximately&#160;D6h&#160;symmetry, because of the triple bond linker between the anthracene units at the&#160;2,7&#8208;positions.&#160;It was confirmed that macrocycle&#160;1, bearing bulky substituents at the outer peripheral positions, behaves as a monomeric form&#160;in solution&#160;without&#160;&#960;&#8208;stacking&#160;self&#8208;association.&#160;Macrocycle&#160;1&#160;has an inner cavity size that allows specific inclusion of [9]cycloparaphenylene ([9]CPP), but not [8]CPP or [10]CPP,&#160;through aromatic edge&#8208;to&#8208;face CH&#8208;&#960;&#160;interaction.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Synthesis and Properties of a Cyclohexa&#8208;2,7&#8208;Anthrylene Ethynylene Derivative</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012120</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-27T04:05:48-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012120</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012120?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011604?af=R">
-      <title>Discovery of Self&#8208;Assembling Small Molecules as Vaccine Adjuvants</title>
-      <dc:description>Immune potentiators, termed adjuvant, trigger early innate immune responses to ensure the generation of robust and long&#8208;lasting adaptive immune responses of vaccines. Here we present study that takes advantage of a self&#8208;assembling small molecule library for the development of a novel vaccine adjuvant. Cell&#8208;based screening of the library and subsequent structural optimization led to the discovery of a simple, chemically tractable deoxycholate derivative (molecule  6  , also named cholicamide) whose well&#8208;defined nano&#8208;assembly potently elicits innate immune responses in macrophages and dendritic cells. Functional and mechanistic analyses indicate that the virus&#8208;like assembly is engulfed inside cells and stimulates the innate immune response through toll&#8208;like receptor 7 (TLR7), an endosomal TLR that detects single&#8208;stranded viral RNA. As an influenza vaccine adjuvant in mice, molecule  6  was as potent as Alum, a clinically used adjuvant. The studies described here paves the way for a new approach to discovering and designing self&#8208;assembling small&#8208;molecule adjuvants against pathogens, including emerging viruses.</dc:description>
-      <dc:creator>
-Shuyu Jin, 
-Hue  Thi Vu, 
-Kou Hioki, 
-Naotaka Noda, 
-Hiroki Yoshida, 
-Toru Shimane, 
-Shigenari Ishizuka, 
-Ippei Takashima, 
-Yoshiyuki Mizuhata, 
-Kathleen  Beverly Pe, 
-Tetsuya Ogawa, 
-Naoya Nishimura, 
-Daniel Packwood, 
-Norihiro Tokitoh, 
-Hiroki Kurata, 
-Sho Yamasaki, 
-Ken  J Ishii, 
-Motonari Uesugi
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011604?af=R</link>
-      <content:encoded>&lt;p&gt;Immune potentiators, termed adjuvant, trigger early innate immune responses to ensure the generation of robust and long&#8208;lasting adaptive immune responses of vaccines. Here we present study that takes advantage of a self&#8208;assembling small molecule library for the development of a novel vaccine adjuvant. Cell&#8208;based screening of the library and subsequent structural optimization led to the discovery of a simple, chemically tractable deoxycholate derivative (molecule  6  , also named cholicamide) whose well&#8208;defined nano&#8208;assembly potently elicits innate immune responses in macrophages and dendritic cells. Functional and mechanistic analyses indicate that the virus&#8208;like assembly is engulfed inside cells and stimulates the innate immune response through toll&#8208;like receptor 7 (TLR7), an endosomal TLR that detects single&#8208;stranded viral RNA. As an influenza vaccine adjuvant in mice, molecule  6  was as potent as Alum, a clinically used adjuvant. The studies described here paves the way for a new approach to discovering and designing self&#8208;assembling small&#8208;molecule adjuvants against pathogens, including emerging viruses.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Discovery of Self&#8208;Assembling Small Molecules as Vaccine Adjuvants</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011604</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-26T02:30:05-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011604</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011604?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012477?af=R">
-      <title>Self&#8208;Degradable Supramolecular Photosensitizer with High Photodynamic Therapeutic Efficiency and Improved Safety</title>
-      <dc:description>Concerning that the residues of photosensitizers (PS) may cause serious side effects under light, it is of great significant to timely &#8216;switch off&#8217; PS after photodynamic therapy (PDT). Herein, we proposed a supramolecular strategy to regulate the activity of PS, fabricating a supramolecular PS with improved reactive oxygen species (ROS) generation efficiency and accelerated self&#8208;degradation ability. During PDT treatment, the supramolecular PS exhibited good therapeutic efficiency as well as reduced dark toxicity. Moreover, the supramolecular PS could be degraded by ROS generated by itself and lose its PDT activities once PDT treatment finished. In this way, the side effects of PDT can be reduced without sacrificing the therapeutic efficiency. This work provides a novel strategy for smarter PDT beacon to further improve the safety of PDT treatment.</dc:description>
-      <dc:creator>
-Bin Yuan, 
-Han Wu, 
-Hua Wang, 
-Bohan Tang, 
-Jiang-Fei Xu, 
-Xi Zhang
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012477?af=R</link>
-      <content:encoded>&lt;p&gt;Concerning that the residues of photosensitizers (PS) may cause serious side effects under light, it is of great significant to timely &#8216;switch off&#8217; PS after photodynamic therapy (PDT). Herein, we proposed a supramolecular strategy to regulate the activity of PS, fabricating a supramolecular PS with improved reactive oxygen species (ROS) generation efficiency and accelerated self&#8208;degradation ability. During PDT treatment, the supramolecular PS exhibited good therapeutic efficiency as well as reduced dark toxicity. Moreover, the supramolecular PS could be degraded by ROS generated by itself and lose its PDT activities once PDT treatment finished. In this way, the side effects of PDT can be reduced without sacrificing the therapeutic efficiency. This work provides a novel strategy for smarter PDT beacon to further improve the safety of PDT treatment.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Self&#8208;Degradable Supramolecular Photosensitizer with High Photodynamic Therapeutic Efficiency and Improved Safety</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012477</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-25T11:01:53-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012477</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012477?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202010192?af=R">
-      <title>Photodriven Disproportionation of Nitrogen and Its Change to Reductive Nitrogen Photofixation</title>
-      <dc:description>Nitrogen fixation is an essential process for sustaining life. Tremendous efforts have been made on the photodriven fixation of nitrogen into ammonia. However, the disproportionation of dinitrogen to ammonia and nitrate under ambient conditions has yet remained a grand challenge. In this work, the photodriven disproportionation of nitrogen is realized in water under visible light and ambient conditions using Fe&#8208;doped TiO  2  microspheres. The oxygen vacancies associated with the Fe dopants activate chemisorbed N  2  molecules, which can then be fixed into NH  3  with H  2  O  2  as the oxidation product. The generated H  2  O  2  thereafter oxidizes NH  3  into nitrate. This disproportionation reaction can be turned to the reductive one by loading plasmonic Au nanoparticles in the doped TiO  2  microspheres. The generated H  2  O  2  can be effectively decomposed by the Au nanoparticles, resulting in the transformation of the disproportionation reaction to the completely reductive nitrogen photofixation.</dc:description>
-      <dc:creator>
-Jianhua Yang, 
-Haoyuan Bai, 
-Yanzhen Guo, 
-Han Zhang, 
-Ruibin Jiang, 
-Baocheng Yang, 
-Jianfang Wang, 
-Jimmy  C. Yu
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010192?af=R</link>
-      <content:encoded>&lt;p&gt;Nitrogen fixation is an essential process for sustaining life. Tremendous efforts have been made on the photodriven fixation of nitrogen into ammonia. However, the disproportionation of dinitrogen to ammonia and nitrate under ambient conditions has yet remained a grand challenge. In this work, the photodriven disproportionation of nitrogen is realized in water under visible light and ambient conditions using Fe&#8208;doped TiO  2  microspheres. The oxygen vacancies associated with the Fe dopants activate chemisorbed N  2  molecules, which can then be fixed into NH  3  with H  2  O  2  as the oxidation product. The generated H  2  O  2  thereafter oxidizes NH  3  into nitrate. This disproportionation reaction can be turned to the reductive one by loading plasmonic Au nanoparticles in the doped TiO  2  microspheres. The generated H  2  O  2  can be effectively decomposed by the Au nanoparticles, resulting in the transformation of the disproportionation reaction to the completely reductive nitrogen photofixation.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Photodriven Disproportionation of Nitrogen and Its Change to Reductive Nitrogen Photofixation</dc:title>
-      <dc:identifier>doi:10.1002/anie.202010192</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-09-25T10:20:48-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202010192</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202010192?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
