@@ -15,8 +15,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004331?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003479?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003911?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002054?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002366?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004555?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004120?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004741?af=R" />
@@ -27,10 +25,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004452?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004147?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004210?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070300?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070301?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070302?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070303?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003276?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003534?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000231?af=R" />
@@ -45,11 +39,17 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003361?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004017?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003404?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001668?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070298?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070299?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003730?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003801?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070301?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070300?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070302?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070303?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070298?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070299?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002054?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002366?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001668?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002640?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003826?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002217?af=R" />
@@ -483,27 +483,6 @@ Ifor D. W. Samuel
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202070300?af=R">
-      <title>Contents: (Adv. Mater. 40/2020)</title>
-      <dc:description />
-      <dc:creator />
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070300?af=R</link>
-      <content:encoded />
-      <description>Advanced Materials, Volume 32, Issue 40, October 8, 2020. </description>
-      <dc:title>Contents: (Adv. Mater. 40/2020)</dc:title>
-      <dc:identifier>doi:10.1002/adma.202070300</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-10-07T02:54:08-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:volume>32</prism:volume>
-      <prism:number>40</prism:number>
-      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
-      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
-      <prism:doi>10.1002/adma.202070300</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070300?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Contents</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070301?af=R">
       <title>Masthead: (Adv. Mater. 40/2020)</title>
       <dc:description />
@@ -524,6 +503,27 @@ Ifor D. W. Samuel
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070301?af=R</prism:url>
       <prism:copyright />
       <prism:section>Masthead</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070300?af=R">
+      <title>Contents: (Adv. Mater. 40/2020)</title>
+      <dc:description />
+      <dc:creator />
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070300?af=R</link>
+      <content:encoded />
+      <description>Advanced Materials, Volume 32, Issue 40, October 8, 2020. </description>
+      <dc:title>Contents: (Adv. Mater. 40/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070300</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-10-07T02:54:08-07:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>40</prism:number>
+      <prism:coverDate>2020-10-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-10-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070300</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202070300?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Contents</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/adma.202070302?af=R">
       <title>Sodium&#8208;Ion Batteries: Toward Rapid&#8208;Charging Sodium&#8208;Ion Batteries using Hybrid&#8208;Phase Molybdenum Sulfide Selenide&#8208;Based Anodes (Adv. Mater. 40/2020)</title>
