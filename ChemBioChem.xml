@@ -9,6 +9,8 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000641?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000600?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000712?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000616?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000571?af=R" />
@@ -151,8 +153,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000376?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000450?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000316?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000458?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000513?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -161,6 +161,56 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000641?af=R">
+      <title>Stabilizing AqdC, a Pseudomonas Quinolone Signal&#8208;Cleaving Dioxygenase from Mycobacteria, by FRESCO&#8208;based Protein Engineering</title>
+      <dc:description>The mycobacterial PQS dioxygenase AqdC, a cofactor&#8208;less protein with an &#945;/&#946;&#8208;hydrolase fold, inactivates the virulence&#8208;associated quorum sensing signal molecule 2&#8208;heptyl&#8208;3&#8208;hydroxy&#8208;4(1H)&#8208;quinolone (PQS) produced by the opportunistic pathogen Pseudomonas aeruginosa and therefore is a potential anti&#8208;virulence tool. Here, we used computational library design to predict stabilizing amino acid replacements in AqdC. While 57 out of 91 tested single substitutions throughout the protein led to stabilization as judged by increases in Tmapp of &gt;2 &#176;C, they all impaired catalytic activity. Combining substitutions, the proteins AqdC&#8208;G40K&#8208;A134L&#8208;G220D&#8208;Y238W and AqdC&#8208;G40K&#8208;G220D&#8208;Y238W showed extended half&#8208;lives and the best trade&#8208;off between stability and activity, with increases in Tmapp by 11.8 &#176;C and 6.1 &#176;C and relative activities of 22% and 72%, respectively, compared to AqdC. Molecular dynamics simulations and principal component analysis suggested that stabilized proteins are less flexible than AqdC, and loss of catalytic activity likely correlates with inability to effectively open the entrance to the active site.</dc:description>
+      <dc:creator>
+Sandra  C. Wullich, 
+Hein  J. Wijma, 
+Dick  B. Janssen, 
+Susanne Fetzner
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000641?af=R</link>
+      <content:encoded>&lt;p&gt;The mycobacterial PQS dioxygenase AqdC, a cofactor&#8208;less protein with an &#945;/&#946;&#8208;hydrolase fold, inactivates the virulence&#8208;associated quorum sensing signal molecule 2&#8208;heptyl&#8208;3&#8208;hydroxy&#8208;4(1H)&#8208;quinolone (PQS) produced by the opportunistic pathogen Pseudomonas aeruginosa and therefore is a potential anti&#8208;virulence tool. Here, we used computational library design to predict stabilizing amino acid replacements in AqdC. While 57 out of 91 tested single substitutions throughout the protein led to stabilization as judged by increases in Tmapp of &amp;gt;2 &#176;C, they all impaired catalytic activity. Combining substitutions, the proteins AqdC&#8208;G40K&#8208;A134L&#8208;G220D&#8208;Y238W and AqdC&#8208;G40K&#8208;G220D&#8208;Y238W showed extended half&#8208;lives and the best trade&#8208;off between stability and activity, with increases in Tmapp by 11.8 &#176;C and 6.1 &#176;C and relative activities of 22% and 72%, respectively, compared to AqdC. Molecular dynamics simulations and principal component analysis suggested that stabilized proteins are less flexible than AqdC, and loss of catalytic activity likely correlates with inability to effectively open the entrance to the active site.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Stabilizing AqdC, a Pseudomonas Quinolone Signal&#8208;Cleaving Dioxygenase from Mycobacteria, by FRESCO&#8208;based Protein Engineering</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000641</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-14T10:32:57-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000641</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000641?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000600?af=R">
+      <title>Metal Ion Promiscuity and Structure of 2,3&#8208;Dihydroxybenzoic Acid Decarboxylase of Aspergillus oryzae</title>
+      <dc:description>Broad substrate tolerance and excellent regioselectivity, as well as independence from sensitive cofactors established benzoic acid decarboxylases from microbial sources as efficient biocatalysts. Robustness under process conditions makes them particularly attractive for preparative&#8208;scale applications. The divalent metal&#8208;dependent enzymes are capable of catalyzing the reversible non&#8208;oxidative (de)carboxylation of a variety of electron&#8208;rich (hetero)aromatic substrates analogously to the chemical Kolbe&#8208;Schmitt reaction. Elemental mass spectrometry supported by crystal structure elucidation and quantum chemical calculations verified the presence of a catalytically relevant Mg  2+  complexed in the active site of 2,3&#8208;dihydroxybenoic acid decarboxylase from  Aspergillus oryzae  (2,3&#8208;DHBD_  Ao  ). This unique example with respect to the nature of the metal is in contrast to mechanistically related decarboxylases, which generally bear Zn  2+  or Mn  2+  as the catalytically active metal.</dc:description>
+      <dc:creator>
+Gerhard Hofer, 
+Xiang Sheng, 
+Simone Braeuer, 
+Stefan  E. Payer, 
+Katharina Plasch, 
+Walter Goessler, 
+Kurt Faber, 
+Walter Keller, 
+Fahmi Himo, 
+Silvia  M. Glueck
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000600?af=R</link>
+      <content:encoded>&lt;p&gt;Broad substrate tolerance and excellent regioselectivity, as well as independence from sensitive cofactors established benzoic acid decarboxylases from microbial sources as efficient biocatalysts. Robustness under process conditions makes them particularly attractive for preparative&#8208;scale applications. The divalent metal&#8208;dependent enzymes are capable of catalyzing the reversible non&#8208;oxidative (de)carboxylation of a variety of electron&#8208;rich (hetero)aromatic substrates analogously to the chemical Kolbe&#8208;Schmitt reaction. Elemental mass spectrometry supported by crystal structure elucidation and quantum chemical calculations verified the presence of a catalytically relevant Mg  2+  complexed in the active site of 2,3&#8208;dihydroxybenoic acid decarboxylase from  Aspergillus oryzae  (2,3&#8208;DHBD_  Ao  ). This unique example with respect to the nature of the metal is in contrast to mechanistically related decarboxylases, which generally bear Zn  2+  or Mn  2+  as the catalytically active metal.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Metal Ion Promiscuity and Structure of 2,3&#8208;Dihydroxybenzoic Acid Decarboxylase of Aspergillus oryzae</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000600</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-14T06:59:32-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000600</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000600?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000712?af=R">
       <title>Enhancing nucleolytic resistance and bioactivity of functional nucleic acids by diverse nanostructures via in situ polymerization&#8208;induced self&#8208;assembly</title>
       <dc:description>Functional nucleic acids (FNAs) are garnering tremendous interest owing to their high modularity and unique bioactivity. Three&#8208;dimensional FNAs have been developed to overcome the issues of nuclease degradation and limited cell uptake. We herein developed a new facile approach to the synthesis of multiple three&#8208;dimensional FNA nanostructures by harnessing photo&#8208;polymerization&#8208;induced self&#8208;assembly. Sgc8 aptamer and CpG oligonucleotide were modified as macro chain transfer reagents to mediate in situ polymerization and self&#8208;assembly. Diverse structures, including micelles, rods, and short worms, afford these two FNAs with higher nuclease resistance from serum, greater cellular uptake efficiency, and increased bioactivity.</dc:description>
@@ -1620,46 +1670,5 @@ A. Jalila Simaan
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000316?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000458?af=R">
-      <title>Enhancing Biosynthesis and Manipulating Flux in Whole Cells with Abiotic Catalysis</title>
-      <dc:description>Metabolic engineering uses genetic strategies to drive flux through desired pathways. Recent work with electrochemical, photochemical, and chemocatalytic setups has revealed that these systems can also expand metabolic pathways and manipulate flux in whole cells. Electrochemical systems add or remove electrons from metabolic pathways to direct flux to more or less reduced products. Photochemical systems act as synthetic light harvesting complexes and yield artificial photosynthetic organisms. Biocompatible chemocatalysis increases product scope, streamlines syntheses, and yields single&#8208;flask processes that deliver products that would be challenging to synthesize through biosynthetic means alone. Here, we exclusively highlight systems that combine abiotic systems with living whole cells, taking particular note of strategies that enable the merger of these typically disparate systems.</dc:description>
-      <dc:creator>
-Kelsey  N. Stewart, 
-Dylan  W. Domaille
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000458?af=R</link>
-      <content:encoded>&lt;p&gt;Metabolic engineering uses genetic strategies to drive flux through desired pathways. Recent work with electrochemical, photochemical, and chemocatalytic setups has revealed that these systems can also expand metabolic pathways and manipulate flux in whole cells. Electrochemical systems add or remove electrons from metabolic pathways to direct flux to more or less reduced products. Photochemical systems act as synthetic light harvesting complexes and yield artificial photosynthetic organisms. Biocompatible chemocatalysis increases product scope, streamlines syntheses, and yields single&#8208;flask processes that deliver products that would be challenging to synthesize through biosynthetic means alone. Here, we exclusively highlight systems that combine abiotic systems with living whole cells, taking particular note of strategies that enable the merger of these typically disparate systems.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Enhancing Biosynthesis and Manipulating Flux in Whole Cells with Abiotic Catalysis</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000458</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-26T07:00:48-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000458</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000458?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000513?af=R">
-      <title>Evaluation of i&#8208;Motif Formation in the Serotonin Transporter&#8208;Linked Polymorphic Region</title>
-      <dc:description>Neuropsychiatric disorders such as major depressive disorder (MDD) arise from a complex set of genetic and environmental factors. The serotonin transporter (SERT) is a key regulator of synaptic serotonin (5&#8208;HT) and its inhibition is an important pharmacological target for treating MDD. The serotonin transporter&#8208;linked polymorphic region (5&#8208;HTTLPR) contains two major variants (short and long) which have been implicated in modulating the susceptibility to MDD by altering the level of expression of SERT. Both variants contain C&#8208;rich repeats that conform to consensus i&#8208;motif folding sequences. i&#8208;Motifs are quadruplex DNA structures that have been proposed to have a role in transcriptional regulation. With spectroscopic techniques, we demonstrate that both alleles are able to form i&#8208;motifs at acidic pH, and at neutral pH under conditions of molecular crowding. This highlights the potential for i&#8208;motif formation to contribute to transcriptional regulation of the serotonin transporter, with a potential role in the pathophysiology of neuropsychiatric disorders.</dc:description>
-      <dc:creator>
-Bryony  N. Thorne, 
-Bart  A. Ellenbroek, 
-Darren  J Day
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000513?af=R</link>
-      <content:encoded>&lt;p&gt;Neuropsychiatric disorders such as major depressive disorder (MDD) arise from a complex set of genetic and environmental factors. The serotonin transporter (SERT) is a key regulator of synaptic serotonin (5&#8208;HT) and its inhibition is an important pharmacological target for treating MDD. The serotonin transporter&#8208;linked polymorphic region (5&#8208;HTTLPR) contains two major variants (short and long) which have been implicated in modulating the susceptibility to MDD by altering the level of expression of SERT. Both variants contain C&#8208;rich repeats that conform to consensus i&#8208;motif folding sequences. i&#8208;Motifs are quadruplex DNA structures that have been proposed to have a role in transcriptional regulation. With spectroscopic techniques, we demonstrate that both alleles are able to form i&#8208;motifs at acidic pH, and at neutral pH under conditions of molecular crowding. This highlights the potential for i&#8208;motif formation to contribute to transcriptional regulation of the serotonin transporter, with a potential role in the pathophysiology of neuropsychiatric disorders.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Evaluation of i&#8208;Motif Formation in the Serotonin Transporter&#8208;Linked Polymorphic Region</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000513</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-24T07:22:16-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000513</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000513?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
