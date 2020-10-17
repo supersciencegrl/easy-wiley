@@ -9,6 +9,11 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000711?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000643?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000513?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000429?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000441?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000697?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000659?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000187?af=R" />
@@ -38,9 +43,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000600?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000641?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000616?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000571?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000257?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000508?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000571?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000696?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000466?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000595?af=R" />
@@ -133,7 +138,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000507?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000589?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000505?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000441?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000477?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000402?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000516?af=R" />
@@ -146,11 +150,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000490?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000494?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000567?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000332?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000376?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000450?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000351?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000445?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -159,6 +159,53 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000711?af=R">
+      <title>Magnetic Resonance Signal Amplification by Reversible Exchange of Selective PyFALGEA Oligopeptide Ligands Towards Epidermal Growth Factor Receptors</title>
+      <dc:description>The biorelevant selective PyFALGEA oligopeptide ligand towards epidermal growth factor receptor (EGFR) is successfully employed as substrate in magnetic resonance signal amplification by reversible exchange (SABRE) experiments. It is demonstrated that PyFALGEA and the iridium catalyst &#8208; IMes form a PyFALGEA:IMes molecular complex. The interaction between PyFALGEA:IMes and H  2  results in a ternary SABRE complex. Selective 1D EXSY experiments reveal that this complex is labile, which is an essential condition for successful hyperpolarization via SABRE. Polarization transfer from parahydrogen to PyFALGEA is observed leading to significant enhancement of the  1  H NMR signals of PyFALGEA. Different iridium catalysts and peptides are inspected to discuss the influence of their molecular structures on the efficiency of hyperpolarization. It is observed that the PyFALGEA oligopeptide hyperpolarization is more efficient when an iridium catalyst with a sterically less demanding NHC&#8208;ligand system such as IMesBn is employed. Experiments with shorter analogues of PyFALGEA i.e. PyLGEA and PyEA, show that the bulky phenylalanine from the PyFALGEA oligopeptide causes sterical hindrance in the SABRE complex, which hampers hyperpolarization with IMes. Finally, the single&#8208;scan  1  H NMR SABRE experiment of PyFALGEA with IMesBn revealed a unique pattern of NMR lines in the hydride region, which can be treated as a fingerprint of this important oligopeptide.</dc:description>
+      <dc:creator>
+Tomasz Ratajczyk, 
+Gerd Buntkowsky, 
+Torsten Gutmann, 
+Bart&#322;omiej Fedorczyk, 
+Adam Mames, 
+Mariusz Pietrzak, 
+Piotr Szkudlarek, 
+Zuzanna Puzio
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000711?af=R</link>
+      <content:encoded>&lt;p&gt;The biorelevant selective PyFALGEA oligopeptide ligand towards epidermal growth factor receptor (EGFR) is successfully employed as substrate in magnetic resonance signal amplification by reversible exchange (SABRE) experiments. It is demonstrated that PyFALGEA and the iridium catalyst &#8208; IMes form a PyFALGEA:IMes molecular complex. The interaction between PyFALGEA:IMes and H  2  results in a ternary SABRE complex. Selective 1D EXSY experiments reveal that this complex is labile, which is an essential condition for successful hyperpolarization via SABRE. Polarization transfer from parahydrogen to PyFALGEA is observed leading to significant enhancement of the  1  H NMR signals of PyFALGEA. Different iridium catalysts and peptides are inspected to discuss the influence of their molecular structures on the efficiency of hyperpolarization. It is observed that the PyFALGEA oligopeptide hyperpolarization is more efficient when an iridium catalyst with a sterically less demanding NHC&#8208;ligand system such as IMesBn is employed. Experiments with shorter analogues of PyFALGEA i.e. PyLGEA and PyEA, show that the bulky phenylalanine from the PyFALGEA oligopeptide causes sterical hindrance in the SABRE complex, which hampers hyperpolarization with IMes. Finally, the single&#8208;scan  1  H NMR SABRE experiment of PyFALGEA with IMesBn revealed a unique pattern of NMR lines in the hydride region, which can be treated as a fingerprint of this important oligopeptide.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Magnetic Resonance Signal Amplification by Reversible Exchange of Selective PyFALGEA Oligopeptide Ligands Towards Epidermal Growth Factor Receptors</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000711</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-16T05:06:01-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000711</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000711?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000643?af=R">
+      <title>Enzymatic modification of cellulose to unlock its exploitation in advanced materials</title>
+      <dc:description>Nowadays natural biopolymers have a wide variety of uses in various industrial applications, such as food, adhesives and composite materials. Among them, cellulose has attracted the interest of researchers due to its properties: high strength and flexibility, biocompatibility and non&#8208;toxicity. Despite that, in many cases its practical use is limited because of poor solubility and/or unsuitable hydrophilic/hydrophobic balance. In this context, enzymatic modification appears as a powerful strategy to overcome these problems through selective, green and environmentally friendly processes. This mini review discusses the different methods developed for the enzymatic modification of cellulose, emphasizing the type of reaction, the enzymes used (laccases, esterases, lipases, hexokinases, etc.), the properties and the applications of cellulose derivatives obtained. Considering that cellulose is the most abundant natural polymer on the Earth and can be derived from residual lignocellulosic biomass, the impact of its use in biobased process following the logic of circular economy is relevant.</dc:description>
+      <dc:creator>
+Paola Branduardi, 
+Luca Giannini, 
+Andrea Martinelli
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000643?af=R</link>
+      <content:encoded>&lt;p&gt;Nowadays natural biopolymers have a wide variety of uses in various industrial applications, such as food, adhesives and composite materials. Among them, cellulose has attracted the interest of researchers due to its properties: high strength and flexibility, biocompatibility and non&#8208;toxicity. Despite that, in many cases its practical use is limited because of poor solubility and/or unsuitable hydrophilic/hydrophobic balance. In this context, enzymatic modification appears as a powerful strategy to overcome these problems through selective, green and environmentally friendly processes. This mini review discusses the different methods developed for the enzymatic modification of cellulose, emphasizing the type of reaction, the enzymes used (laccases, esterases, lipases, hexokinases, etc.), the properties and the applications of cellulose derivatives obtained. Considering that cellulose is the most abundant natural polymer on the Earth and can be derived from residual lignocellulosic biomass, the impact of its use in biobased process following the logic of circular economy is relevant.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Enzymatic modification of cellulose to unlock its exploitation in advanced materials</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000643</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-16T04:17:57-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000643</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000643?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Minireview</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000697?af=R">
       <title>Probing the Interaction between HIV&#8208;1 Protease and the Homodimeric p66/p66&#8242; Reverse Transcriptase Precursor by Double Electron&#8211;Electron Resonance EPR Spectroscopy</title>
       <dc:description>
@@ -382,32 +429,6 @@ Aaron Wright
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000616</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000616?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000571?af=R">
-      <title>Challenges of using Expansion Microscopy for super&#8208;resolved imaging of cellular organelles</title>
-      <dc:description>Expansion Microscopy (ExM) has been successfully used to improve the spatial resolution when imaging tissues by optical microscopy. In ExM, proteins of a fixed sample are crosslinked to a swellable acrylamide gel, which enlarges when incubated in water. Therefore, ExM allows to resolve enlarged subcellular structures, otherwise hidden to standard confocal microscopy. Here we aim to validate ExM for the study of peroxisomes, mitochondria, nuclei and the plasma membrane. Upon comparison of the expansion factors of these cellular compartments in HEK293 cells within the same gel, we found significant differences in expansion factors of a factor of above 2. For peroxisomes, the expansion factor differed even between peroxisomal membrane and matrix marker, which underlines the need for a thorough validation of expansion factors of this powerful technique. We further give an overview of possible quantification methods for the determination of expansion factors of intracellular organelles, and we highlight some potentials and challenges.</dc:description>
-      <dc:creator>
-Maximilian B&#252;ttner, 
-Christoffer  B Lagerholm, 
-Dominic Waithe, 
-Silvia Galiani, 
-Wolfgang Schliebs, 
-Ralf Erdmann, 
-Christian Eggeling, 
-Katharina Reglinski
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000571?af=R</link>
-      <content:encoded>&lt;p&gt;Expansion Microscopy (ExM) has been successfully used to improve the spatial resolution when imaging tissues by optical microscopy. In ExM, proteins of a fixed sample are crosslinked to a swellable acrylamide gel, which enlarges when incubated in water. Therefore, ExM allows to resolve enlarged subcellular structures, otherwise hidden to standard confocal microscopy. Here we aim to validate ExM for the study of peroxisomes, mitochondria, nuclei and the plasma membrane. Upon comparison of the expansion factors of these cellular compartments in HEK293 cells within the same gel, we found significant differences in expansion factors of a factor of above 2. For peroxisomes, the expansion factor differed even between peroxisomal membrane and matrix marker, which underlines the need for a thorough validation of expansion factors of this powerful technique. We further give an overview of possible quantification methods for the determination of expansion factors of intracellular organelles, and we highlight some potentials and challenges.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Challenges of using Expansion Microscopy for super&#8208;resolved imaging of cellular organelles</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000571</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-10-13T09:40:00-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000571</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000571?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1461,32 +1482,6 @@ Yasuo Ohnishi
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000441?af=R">
-      <title>A &#8220;three&#8208;in&#8208;one&#8221; multi&#8208;functional probe for Bcl&#8208;2/Mcl&#8208;1 profiling and visualizing in situ</title>
-      <dc:description>Bcl&#8208;2 and Mcl&#8208;1, the two arms of the anti&#8208;apoptotic Bcl&#8208;2 family proteins, have been identified as key regulators of apoptosis and  effective therapeutic targets of cancer. However, no  small molecular probe  is capable of profiling and visualizing both Bcl&#8208;2 and Mcl&#8208;1 simultaneously  in situ  . Herein, we reported a multi&#8208;functional molecular probe (  BnN  3  &#8208;OPD&#8208;Alk  ) by a &#8220;three&#8208;in&#8208;one&#8221; molecular designing strategy, which integrated the Bcl&#8208;2/Mcl&#8208;1 binding ligand, fluorescent reporter group and photoreactive group azido into the same scaffold.  BnN  3  &#8208;OPD&#8208;Alk  exhibited  sub&#8208;&#956;M affinities  to Bcl&#8208;2/Mcl&#8208;1 and bright green self&#8208;fluorescence. It was then successfully applied for Bcl&#8208;2/Mcl&#8208;1 labelling, capturing, enriching, and bioimaging both  in vitro  and in cells. This strategy could facilitate the precise early diagnosis and effective therapy of dual Bcl&#8208;2/Mcl&#8208;1&#8208;related diseases.</dc:description>
-      <dc:creator>
-Xiaodong Zhang, 
-Ziqian Wang, 
-Zongwei Guo, 
-Ting Song, 
-Nianzhe He, 
-Junjie Zhu, 
-Keke Cao, 
-Zhichao Zhang
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000441?af=R</link>
-      <content:encoded>&lt;p&gt;Bcl&#8208;2 and Mcl&#8208;1, the two arms of the anti&#8208;apoptotic Bcl&#8208;2 family proteins, have been identified as key regulators of apoptosis and  effective therapeutic targets of cancer. However, no  small molecular probe  is capable of profiling and visualizing both Bcl&#8208;2 and Mcl&#8208;1 simultaneously  in situ  . Herein, we reported a multi&#8208;functional molecular probe (  BnN  3  &#8208;OPD&#8208;Alk  ) by a &#8220;three&#8208;in&#8208;one&#8221; molecular designing strategy, which integrated the Bcl&#8208;2/Mcl&#8208;1 binding ligand, fluorescent reporter group and photoreactive group azido into the same scaffold.  BnN  3  &#8208;OPD&#8208;Alk  exhibited  sub&#8208;&#956;M affinities  to Bcl&#8208;2/Mcl&#8208;1 and bright green self&#8208;fluorescence. It was then successfully applied for Bcl&#8208;2/Mcl&#8208;1 labelling, capturing, enriching, and bioimaging both  in vitro  and in cells. This strategy could facilitate the precise early diagnosis and effective therapy of dual Bcl&#8208;2/Mcl&#8208;1&#8208;related diseases.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>A &#8220;three&#8208;in&#8208;one&#8221; multi&#8208;functional probe for Bcl&#8208;2/Mcl&#8208;1 profiling and visualizing in situ</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000441</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-03T12:29:03-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000441</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000441?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000477?af=R">
       <title>Short RNA Universal Coding for Topological Transformation Nanobarcoding Application</title>
       <dc:description>With the advent of innovative genomic discovery toolkits such as RT&#8208;PCR, genetic information can be quickly decrypted, which has resulted in significant progress in overcoming diseases. However, RT&#8208;PCR has the serious problem of frequent errors, and the demand for a new gene diagnostic system is emerging. Here, we propose a universal coding system for effective detection of short single stranded DNA or RNA using a Topological transformation&#8208;based Nanobarcoding Technique (TNT). Our goal was to develop a dedicated diagnostic device which unifies the other gene groups resulting in minimum testing. In a universal coding system consisting of two separate circulation structures, different gene groups  become generalized into specific single genes with the same sequence via the strand displacement reaction and are then amplified, eventually being quickly detected in one TNT system. Simple gene diagnostic systems like this are high&#8208;speed and point&#8208;of&#8208;care diagnostic technologies, and we are very confident that these will provide clinical gene detection in the near future.</dc:description>
@@ -1642,26 +1637,5 @@ Xiang Zhou
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000567?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000332?af=R">
-      <title>Nucleosomes and epigenetics from a chemical perspective</title>
-      <dc:description>Nucleosomes, which are the fundamental building blocks of chromatin, are highly dynamic and play vital roles in the formation of higher&#8208;order chromatin structures and orchestrate gene regulation. Nucleosome structures, histone modifications, nucleosome&#8208;binding proteins, and their functions are being gradually unravelled with the development of epigenetics. &#160; With continuous development of research approaches such as cryo&#8208;EM, FRET and next generation sequencing for genome wide analysis of nucleosomes, &#160;understanding of nucleosome is getting wider and deeper.&#160; Here, we review recent progress in the researches on nucleosomes and epigenetics, from nucleosome structure to chromatin formation with a focus on chemical aspects. Basic knowledge of nucleosome (nucleosome structure, nucleosome position sequence, nucleosome assembly and remodelling), epigenetic modifications, chromatin structure, chemical biology methods and nucleosome, observation nucleosome by AFM, phase separation and nucleosome are described in this review.</dc:description>
-      <dc:creator>
-Yihong Feng, 
-Masayuki Endo, 
-Hiroshi Sugiyama
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000332?af=R</link>
-      <content:encoded>&lt;p&gt;Nucleosomes, which are the fundamental building blocks of chromatin, are highly dynamic and play vital roles in the formation of higher&#8208;order chromatin structures and orchestrate gene regulation. Nucleosome structures, histone modifications, nucleosome&#8208;binding proteins, and their functions are being gradually unravelled with the development of epigenetics. &#160; With continuous development of research approaches such as cryo&#8208;EM, FRET and next generation sequencing for genome wide analysis of nucleosomes, &#160;understanding of nucleosome is getting wider and deeper.&#160; Here, we review recent progress in the researches on nucleosomes and epigenetics, from nucleosome structure to chromatin formation with a focus on chemical aspects. Basic knowledge of nucleosome (nucleosome structure, nucleosome position sequence, nucleosome assembly and remodelling), epigenetic modifications, chromatin structure, chemical biology methods and nucleosome, observation nucleosome by AFM, phase separation and nucleosome are described in this review.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Nucleosomes and epigenetics from a chemical perspective</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000332</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-30T07:12:01-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000332</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000332?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
    </rdf:RDF>
