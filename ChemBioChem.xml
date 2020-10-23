@@ -9,6 +9,12 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000552?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000575?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000583?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000551?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000651?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000612?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000669?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000591?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000682?af=R" />
@@ -111,17 +117,16 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000407?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000372?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000602?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000452?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000553?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000518?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000587?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000585?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000645?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000416?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000557?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000491?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000551?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000525?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000495?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000503?af=R" />
@@ -131,9 +136,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000439?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000382?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000526?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000651?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000544?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000552?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000430?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000422?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000377?af=R" />
@@ -142,15 +145,12 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000564?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000371?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000369?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000397?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000305?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000354?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000335?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000507?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000589?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000505?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000477?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000406?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000541?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000332?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -159,6 +159,75 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000583?af=R">
+      <title>Quest for the Crypto&#8208;phosphoproteome</title>
+      <dc:description>
+Hidden gems: Despite the recent advances in phosphoproteomics, a chemically labile subset of the phosphoproteome has remained &#8220;hidden&#8221; for a long time. Here we discuss current search efforts and future directions.
+
+
+
+
+
+
+
+Abstract
+Protein phosphorylation is one of the most studied post&#8208;translational modifications (PTMs). Despite the remarkable advances in phosphoproteomics, a chemically less&#8208;stable subset of the phosphosites, which we call the crypto&#8208;phosphoproteome, has remained underexplored due to technological challenges. In this Viewpoint, we briefly summarize the current understanding of these elusive protein phosphorylations and identify the missing pieces for future studies.
+</dc:description>
+      <dc:creator>
+Seungmin Ahn, 
+Hoyoung Jung, 
+Jung&#8208;Min Kee
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000583?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/16a75592-50b1-4ccf-b622-41955cee1939/cbic202000583-toc-0001-m.png"
+     alt="Quest for the Crypto&#8208;phosphoproteome"/&gt;
+&lt;p&gt;&lt;b&gt;Hidden gems&lt;/b&gt;: Despite the recent advances in phosphoproteomics, a chemically labile subset of the phosphoproteome has remained &#8220;hidden&#8221; for a long time. Here we discuss current search efforts and future directions.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Protein phosphorylation is one of the most studied post&#8208;translational modifications (PTMs). Despite the remarkable advances in phosphoproteomics, a chemically less&#8208;stable subset of the phosphosites, which we call the crypto&#8208;phosphoproteome, has remained underexplored due to technological challenges. In this Viewpoint, we briefly summarize the current understanding of these elusive protein phosphorylations and identify the missing pieces for future studies.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Quest for the Crypto&#8208;phosphoproteome</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000583</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-23T02:03:48-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000583</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000583?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Viewpoint</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000612?af=R">
+      <title>Machine Learning Enables Selection of Epistatic Enzyme Mutants for Stability Against Unfolding and Detrimental Aggregation</title>
+      <dc:description>Machine learning (ML) has pervaded most areas of protein engineering, including stability and stereoselectivity. Using limonene epoxide hydrolase as the model enzyme and innov&#8217;SAR as the ML platform, comprising a digital signal process, we achieved high protein robustness that may resist unfolding with concomitant detrimental aggregation. Fourier transform (FT) allows to take into account the order of the protein sequence and the non&#8208;linear interactions between positions, and thus to grasp epistatic phenomena. The innov'SAR approach is interpolative, extrapolative and predicts out&#8208;of&#8208;the&#8208;box, not found in other state&#8208;of&#8208;the&#8208;art ML or Deep Learning approaches. Equally significant is the finding that our approach to ML in the present context, flanked by advanced molecular dynamics simulations, uncovers the connection between epistatic mutational interactions and protein robustness.</dc:description>
+      <dc:creator>
+Guangyue Li, 
+Youcai Qin, 
+Nicolas  T. Fontaine, 
+Matthieu  Ng Fuk Chong, 
+Miguel  Angel Maria-Solano, 
+Ferran Feixas, 
+Xavier  F. Cadet, 
+Rudy Pandjaitan, 
+Marc Garcia-Borr&#224;s, 
+Frederic Cadet, 
+Manfred  T. Reetz
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000612?af=R</link>
+      <content:encoded>&lt;p&gt;Machine learning (ML) has pervaded most areas of protein engineering, including stability and stereoselectivity. Using limonene epoxide hydrolase as the model enzyme and innov&#8217;SAR as the ML platform, comprising a digital signal process, we achieved high protein robustness that may resist unfolding with concomitant detrimental aggregation. Fourier transform (FT) allows to take into account the order of the protein sequence and the non&#8208;linear interactions between positions, and thus to grasp epistatic phenomena. The innov'SAR approach is interpolative, extrapolative and predicts out&#8208;of&#8208;the&#8208;box, not found in other state&#8208;of&#8208;the&#8208;art ML or Deep Learning approaches. Equally significant is the finding that our approach to ML in the present context, flanked by advanced molecular dynamics simulations, uncovers the connection between epistatic mutational interactions and protein robustness.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Machine Learning Enables Selection of Epistatic Enzyme Mutants for Stability Against Unfolding and Detrimental Aggregation</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000612</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-22T07:10:51-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000612</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000612?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000669?af=R">
       <title>Towards dissecting the mechanism of protein phosphatase&#8208;1 inhibition by its C&#8208;terminal phosphorylation</title>
       <dc:description>Phosphoprotein Phosphatase&#8208;1 (PP1) is a key player in the regulation of phospho&#8208;serine (pSer) and phospho&#8208;threonine (pThr) dephosphorylation and is involved in a large fraction of cellular signaling pathways. Aberrant activity of PP1 has been linked to many diseases, including cancer and heart failure. Besides a well&#8208;established activity control by regulatory proteins, an inhibitory function for phosphorylation (p) of a Thr residue in the&#160;  C  &#8208;terminal intrinsically disordered tail of PP1 has been demonstrated. The associated phenotype of cell&#8208;cycle arrest was repeatedly proposed to be due to autoinhibition of PP1 through either conformational changes or substrate competition. Here, we use PP1 variants created by mutations and protein semisynthesis to differentiate between these hypotheses. Our data supports that pThr exerts its inhibitory function by mediating protein complex formation rather than by a direct mechanism of structural changes or substrate competition.</dc:description>
@@ -1219,30 +1288,6 @@ Armin Geyer
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000551?af=R">
-      <title>Epigenetic modification 6&#8208;methyladenosine can impact the potency and specificity of siRNA,</title>
-      <dc:description>The introduction of N6&#8208;methyladenosine (m6A) into siRNA targeting Factor VII impacts its potency in cells and has significant influence on the selectivity of siRNA, including reduced off&#8208;targeting. These effects are dependent on the position of m6A in the siRNA duplex, with some of the sequences identified as more potent and/or selective than their non&#8208;methylated counterpart. These findings broaden a repertoire of available chemical modifications for siRNA therapeutics and imply potential regulatory role of N6&#8208;methyladenosine in the RNAi pathways.</dc:description>
-      <dc:creator>
-Anna  Maria Rydzik, 
-Dirk Gottschling, 
-Eric Simon, 
-Wioletta Skronska-Wasek, 
-J&#246;rg  F Rippmann, 
-Doris Riether
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000551?af=R</link>
-      <content:encoded>&lt;p&gt;The introduction of N6&#8208;methyladenosine (m6A) into siRNA targeting Factor VII impacts its potency in cells and has significant influence on the selectivity of siRNA, including reduced off&#8208;targeting. These effects are dependent on the position of m6A in the siRNA duplex, with some of the sequences identified as more potent and/or selective than their non&#8208;methylated counterpart. These findings broaden a repertoire of available chemical modifications for siRNA therapeutics and imply potential regulatory role of N6&#8208;methyladenosine in the RNAi pathways.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Epigenetic modification 6&#8208;methyladenosine can impact the potency and specificity of siRNA,</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000551</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-16T08:38:25-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000551</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000551?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000525?af=R">
       <title>Bioorthogonal reactions in animals</title>
       <dc:description>The advent of bioorthogonal chemistry has led to the development of powerful chemical tools enabling increasingly ambitious applications. In particular, these tools have made possible to achieve what is considered as the holy grail of many researchers involved in chemical biology: to perform non&#8208;natural chemical reactions within living organisms. In this minireview, we present an update of bioorthogonal reactions that have been carried out in animals for various applications. We outline the advances made in the understanding of fundamental biological processes and the development of innovative imaging and therapeutic strategies using bioorthogonal chemistry.</dc:description>
@@ -1326,30 +1371,6 @@ Kottari Naresh
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000552?af=R">
-      <title>Simultaneous Visualization of Wet Cells and Nanostructured Biomaterials in SEM using Ionic Liquids</title>
-      <dc:description>This work presents a successful methodology to image mammalian cells adhered to nanostructured titanium using scanning electron microscopy (SEM) operating in low&#8208;vacuum mode following ionic liquid treatment. Human osteoblast&#8208;like Saos&#8208;2 cells were treated with a room&#8208;temperature ionic liquid, 1&#8208;ethyl&#8208;3&#8208;methylimidazolium tetrafluoroborate, and subsequently imaged on titanium utilizing SEM. Titanium substrates were modified to create laser&#8208;induced periodic surface structures (LIPSS) for visualizing at the sub&#8208;micron scale. Using a combination of fluorescence&#8208;based cell metabolism along with light microscopy and SEM image analysis, the shape and location of irradiated cells were confirmed to be unchanged after multiple irradiation sessions while the viability of minimally irradiated cells was unaltered. The wet imaging conditions combined with a rapid facile protocol using ionic liquid allows this technique to fulfill a niche in examining cellular behavior on biomaterials with sub&#8208;micron surface features. The demonstrated method to track observed cell adhesion to sub&#8208;micron surface features with SEM has great implications for the understanding of cell migration on nanostructured surfaces as well as on the exploration of simpler SEM preparation methods for cellular imaging.</dc:description>
-      <dc:creator>
-Bryan  E. J. Lee, 
-Liza-Anastasia DiCecco, 
-Hourieh Exir, 
-Arnaud Weck, 
-Kyla  N. Sask, 
-Kathryn Grandfield
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000552?af=R</link>
-      <content:encoded>&lt;p&gt;This work presents a successful methodology to image mammalian cells adhered to nanostructured titanium using scanning electron microscopy (SEM) operating in low&#8208;vacuum mode following ionic liquid treatment. Human osteoblast&#8208;like Saos&#8208;2 cells were treated with a room&#8208;temperature ionic liquid, 1&#8208;ethyl&#8208;3&#8208;methylimidazolium tetrafluoroborate, and subsequently imaged on titanium utilizing SEM. Titanium substrates were modified to create laser&#8208;induced periodic surface structures (LIPSS) for visualizing at the sub&#8208;micron scale. Using a combination of fluorescence&#8208;based cell metabolism along with light microscopy and SEM image analysis, the shape and location of irradiated cells were confirmed to be unchanged after multiple irradiation sessions while the viability of minimally irradiated cells was unaltered. The wet imaging conditions combined with a rapid facile protocol using ionic liquid allows this technique to fulfill a niche in examining cellular behavior on biomaterials with sub&#8208;micron surface features. The demonstrated method to track observed cell adhesion to sub&#8208;micron surface features with SEM has great implications for the understanding of cell migration on nanostructured surfaces as well as on the exploration of simpler SEM preparation methods for cellular imaging.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Simultaneous Visualization of Wet Cells and Nanostructured Biomaterials in SEM using Ionic Liquids</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000552</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-11T07:04:28-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000552</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000552?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000364?af=R">
       <title>In vivo  &#160;targeting of DNA vaccines to dendritic cells via the mannose receptor induces long&#8208;lasting immunity against melanoma</title>
       <dc:description>Herein, we report on an effective, C&#8208;type lectin mannose receptor (MR)&#8208;selective  in vivo  &#160;DC&#8208;targeting lipid nanoparticles (LNPs) of a novel lipid&#8208;containing mannose&#8208;mimicking di&#8208;shikimoyl&#8208; and guanidine head&#8208;group and two n&#8208;hexadecyl hydrophobic tails (DSG). Subcutaneous administration of LNPs of DSG/p&#8208;CMV&#8208;GFP complex showed a significant expression of green fluorescence protein in the CD11c  +  DCs of the neighboring lymph nodes compared to the control LNPs of BBG/p&#8208;CMV&#8208;GFP complex. Mannose receptor&#8208;facilitated  in vivo  &#160;DC&#8208;targeted vaccination (s.c.) with the electrostatic complex of LNPs of DSG/pCMV&#8208;MART1 stimulated long&#8208;lasting (270 days post&#160;B16F10&#160;tumor challenge) anti&#8208;melanoma immunity under prophylactic conditions. Remarkably, under therapeutic settings vaccination (s.c.) with the LNPs of DSG/pCMV&#8208;MART1 complex significantly delayed melanoma growth and improved the survival&#160;of mice with melanoma. These findings demonstrate that this non&#8208;viral delivery system offers a resilient and potential approach to deliver DNA vaccines encoding tumor antigens to DCs  in vivo  &#160;with high efficacy.</dc:description>
@@ -1395,44 +1416,6 @@ Mark Nitz
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000369?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000397?af=R">
-      <title>Combining Inorganic Chemistry and Biology: The Underestimated Potential of Metal Complexes in Medicine</title>
-      <dc:description>
-Metals in medicine: Metal complexes offer unique properties in comparison to organic drugs. Herein, the generally underestimated potential of metal&#8208;containing compounds in comparison to organic compounds, as exemplified by photodynamic therapy, is highlighted.
-
-
-
-
-
-
-
-Abstract
-The vast majority of investigated compounds in modern medicine are based on organic molecules. Within the last decades, the field of medicinial chemistry is shifting towards the application of metal complexes. These compounds offer different mechanisms of action in comparison to organic molecules due to their unique properties, making them novel drug candidates. Herein, the successful combination of metal containing compounds and medicine is highlighted by their application for photodynamic therapy.
-</dc:description>
-      <dc:creator>
-Johannes Karges
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000397?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/95c584d1-fca4-4162-9a94-1b906eeefc0a/cbic202000397-toc-0001-m.png"
-     alt="Combining Inorganic Chemistry and Biology: The Underestimated Potential of Metal Complexes in Medicine"/&gt;
-&lt;p&gt;&lt;b&gt;Metals in medicine&lt;/b&gt;: Metal complexes offer unique properties in comparison to organic drugs. Herein, the generally underestimated potential of metal&#8208;containing compounds in comparison to organic compounds, as exemplified by photodynamic therapy, is highlighted.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The vast majority of investigated compounds in modern medicine are based on organic molecules. Within the last decades, the field of medicinial chemistry is shifting towards the application of metal complexes. These compounds offer different mechanisms of action in comparison to organic molecules due to their unique properties, making them novel drug candidates. Herein, the successful combination of metal containing compounds and medicine is highlighted by their application for photodynamic therapy.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Combining Inorganic Chemistry and Biology: The Underestimated Potential of Metal Complexes in Medicine</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000397</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-08T05:24:46-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000397</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000397?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Viewpoint</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000589?af=R">
       <title>Pyrrolidinyl peptide nucleic acid probes capable of cross&#8208;linking with DNA: Effects of terminal and internal modifications on cross&#8208;link efficiency</title>
@@ -1517,6 +1500,27 @@ Martin  Anthony Fascione
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000406</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000406?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000332?af=R">
+      <title>Nucleosomes and epigenetics from a chemical perspective</title>
+      <dc:description>Nucleosomes, which are the fundamental building blocks of chromatin, are highly dynamic and play vital roles in the formation of higher&#8208;order chromatin structures and orchestrate gene regulation. Nucleosome structures, histone modifications, nucleosome&#8208;binding proteins, and their functions are being gradually unravelled with the development of epigenetics. &#160; With continuous development of research approaches such as cryo&#8208;EM, FRET and next generation sequencing for genome wide analysis of nucleosomes, &#160;understanding of nucleosome is getting wider and deeper.&#160; Here, we review recent progress in the researches on nucleosomes and epigenetics, from nucleosome structure to chromatin formation with a focus on chemical aspects. Basic knowledge of nucleosome (nucleosome structure, nucleosome position sequence, nucleosome assembly and remodelling), epigenetic modifications, chromatin structure, chemical biology methods and nucleosome, observation nucleosome by AFM, phase separation and nucleosome are described in this review.</dc:description>
+      <dc:creator>
+Yihong Feng, 
+Masayuki Endo, 
+Hiroshi Sugiyama
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000332?af=R</link>
+      <content:encoded>&lt;p&gt;Nucleosomes, which are the fundamental building blocks of chromatin, are highly dynamic and play vital roles in the formation of higher&#8208;order chromatin structures and orchestrate gene regulation. Nucleosome structures, histone modifications, nucleosome&#8208;binding proteins, and their functions are being gradually unravelled with the development of epigenetics. &#160; With continuous development of research approaches such as cryo&#8208;EM, FRET and next generation sequencing for genome wide analysis of nucleosomes, &#160;understanding of nucleosome is getting wider and deeper.&#160; Here, we review recent progress in the researches on nucleosomes and epigenetics, from nucleosome structure to chromatin formation with a focus on chemical aspects. Basic knowledge of nucleosome (nucleosome structure, nucleosome position sequence, nucleosome assembly and remodelling), epigenetic modifications, chromatin structure, chemical biology methods and nucleosome, observation nucleosome by AFM, phase separation and nucleosome are described in this review.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Nucleosomes and epigenetics from a chemical perspective</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000332</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-08-30T07:12:01-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000332</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000332?af=R</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
