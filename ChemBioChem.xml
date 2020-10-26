@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000660?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000634?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000704?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000633?af=R" />
@@ -150,7 +151,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000477?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000406?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000541?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000316?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -159,6 +159,28 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000660?af=R">
+      <title>A FRET&#8208;based fluorescent probe to screen anti&#8208;cancer drugs, inhibiting p73 binding to MDM2.</title>
+      <dc:description>The protein p73 acts as a transcription factor, resulting in tumor suppression. MDM2, an oncogenic protein, can negatively influence p73&#8208;mediated apoptosis by binding to p73 transactivation domains (TAD). The inhibition of protein&#8211;protein interaction between p73 and oncogenic proteins is an attractive strategy for promoting p73&#8208;mediated apoptosis. Herein, we describe the use of a modified p73&#8208;TAD peptide for the FRET&#8208;based assay of the binding of p73&#8208;TAD to MDM2. The FRET probe equipped with 1&#8208;naphthylamine (&#955;  ex  = 330 nm, &#955;  em  = 445 nm) serves as a FRET acceptor, and the tryptophan (Trp) of the protein acts as FRET donor (Trp, &#955;  ex  = 280 nm, &#955;  em  = 340 nm). Sensitized emission of the FRET probe was observed upon excitation of the protein&#8208;FRET&#8208;probe complex at the excitation wavelength of Trp. Furthermore, addition of the MDM2 inhibitor Nutiln&#8208;3 drastically reduced the FRET signal, indicating that the FRET probe competes with Nutiln&#8208;3 for MDM2 binding. The developed FRET binding assay may be applicable in high&#8208;throughput screening of novel drugs that inhibit interactions between p73 and MDM2.</dc:description>
+      <dc:creator>
+A Ro Han, 
+Trishaladevi Durgannavar, 
+Dohee Ahn, 
+Sang Jeon Chung
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000660?af=R</link>
+      <content:encoded>&lt;p&gt;The protein p73 acts as a transcription factor, resulting in tumor suppression. MDM2, an oncogenic protein, can negatively influence p73&#8208;mediated apoptosis by binding to p73 transactivation domains (TAD). The inhibition of protein&#8211;protein interaction between p73 and oncogenic proteins is an attractive strategy for promoting p73&#8208;mediated apoptosis. Herein, we describe the use of a modified p73&#8208;TAD peptide for the FRET&#8208;based assay of the binding of p73&#8208;TAD to MDM2. The FRET probe equipped with 1&#8208;naphthylamine (&#955;  ex  = 330 nm, &#955;  em  = 445 nm) serves as a FRET acceptor, and the tryptophan (Trp) of the protein acts as FRET donor (Trp, &#955;  ex  = 280 nm, &#955;  em  = 340 nm). Sensitized emission of the FRET probe was observed upon excitation of the protein&#8208;FRET&#8208;probe complex at the excitation wavelength of Trp. Furthermore, addition of the MDM2 inhibitor Nutiln&#8208;3 drastically reduced the FRET signal, indicating that the FRET probe competes with Nutiln&#8208;3 for MDM2 binding. The developed FRET binding assay may be applicable in high&#8208;throughput screening of novel drugs that inhibit interactions between p73 and MDM2.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>A FRET&#8208;based fluorescent probe to screen anti&#8208;cancer drugs, inhibiting p73 binding to MDM2.</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000660</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-25T08:18:55-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000660</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000660?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000634?af=R">
       <title>Cysteine&#8208;rich peptides: hyperstable scaffolds for protein engineering</title>
       <dc:description>Cysteine&#8208;rich peptides (CRPs) are small proteins of less than 100 amino acids in length characterized by the presence of disulfide bridges and common end&#8208;to&#8208;end macrocyclization. These properties confer hyperstability against high temperatures, salt concentration, serum presence, and protease degradation to CRPs. Besides, their inter&#8208;cysteine domains (loops) are susceptible to residue hypervariability. CRPs have been successfully applied as stable scaffolds for molecular grafting, a protein engineering process where cysteine&#8208;rich structures provide higher thermodynamic and metabolic stability to an epitope and acquire new biological function(s). This review describes successes and limitations for six cysteine&#8208;rich scaffolds, their bioactive epitopes, and the resulting grafted peptides.</dc:description>
@@ -1529,26 +1551,4 @@ Martin  Anthony Fascione
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000316?af=R">
-      <title>Artificial enzymes for Diels&#8208;Alder reactions</title>
-      <dc:description>Diels&#8208;Alder (DA) reaction is a cycloaddition of a conjugated diene and an alkene (dienophile) leading to the formation of a cyclohexene derivative&#160;  via  &#160;a concerted mechanism.&#160; As DA reaction generally proceeds with a high degree of regio&#8208; and stereoselectivity, it is widely used in synthetic organic chemistry. &#160;Considering eco&#8208;conscious public and governmental movements, efforts are directed towards the development of industrial processes that meet environmental&#160; concern s. Artificial enzymes, that can be developed to catalyze abiotic reactions, appear as important synthetic tools of synthetic biology field. This review describes the different strategies used for developing protein &#8208;based artificial enzymes for DA reaction, including for&#160;  in cellulo  &#160;  or in vivo  &#160;approaches.</dc:description>
-      <dc:creator>
-Wadih Ghattas, 
-Jean-Pierre Mahy, 
-Marius R&#233;glier, 
-A. Jalila Simaan
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000316?af=R</link>
-      <content:encoded>&lt;p&gt;Diels&#8208;Alder (DA) reaction is a cycloaddition of a conjugated diene and an alkene (dienophile) leading to the formation of a cyclohexene derivative&#160;  via  &#160;a concerted mechanism.&#160; As DA reaction generally proceeds with a high degree of regio&#8208; and stereoselectivity, it is widely used in synthetic organic chemistry. &#160;Considering eco&#8208;conscious public and governmental movements, efforts are directed towards the development of industrial processes that meet environmental&#160; concern s. Artificial enzymes, that can be developed to catalyze abiotic reactions, appear as important synthetic tools of synthetic biology field. This review describes the different strategies used for developing protein &#8208;based artificial enzymes for DA reaction, including for&#160;  in cellulo  &#160;  or in vivo  &#160;approaches.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Artificial enzymes for Diels&#8208;Alder reactions</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000316</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-08-27T05:12:45-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000316</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000316?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
