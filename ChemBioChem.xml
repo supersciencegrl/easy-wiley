@@ -9,6 +9,8 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000632?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000647?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000611?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000678?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000730?af=R" />
@@ -87,7 +89,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000466?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000595?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000700?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000632?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000370?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000681?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000617?af=R" />
@@ -147,7 +148,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000491?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000525?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000495?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000503?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000564?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000369?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000477?af=R" />
@@ -159,6 +159,26 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000647?af=R">
+      <title>Similar but still different &#8211; which amino acid residues are responsible for varying activities in type&#8208;III copper enzymes?</title>
+      <dc:description>Type&#8208;III copper enzymes like polyphenol oxidases (PPOs) are omnipresent among organisms and play a significant role in the formation of pigments. PPOs comprise different enzyme groups, including tyrosinases (TYRs) and catechol oxidases (COs). TYRs catalyze the  o  &#8208;hydroxylation of monophenols and the oxidation of  o  &#8208;diphenols to the corresponding  o  &#8208;quinones (EC 1.14.18.1). In contrast, COs only catalyze the oxidation of  o  &#8208;diphenols to the corresponding  o  &#8208;quinones (EC 1.10.3.1). To date (August 2020), 102 PDB entries enclosing 18 different proteins from 16 organisms and several mutants have been reported, identifying key residues in tyrosinase activity. The structural similarity between TYRs and COs, especially within and around the active center, complicates the elucidation of their modes of action on a structural basis. However, mutagenesis studies illuminate residues which influence the two activities and prove that crystallography on its own cannot  solve  elucidate the enzymatic activity mode. Several amino acid residues around the dicopper active center have been proposed to play an essential role in the two different activities. Herein, we critically review the role of all residues identified so far that putatively affect the two activities of PPOs.</dc:description>
+      <dc:creator>
+Ioannis Kampatsikas, 
+Annette Rompel
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000647?af=R</link>
+      <content:encoded>&lt;p&gt;Type&#8208;III copper enzymes like polyphenol oxidases (PPOs) are omnipresent among organisms and play a significant role in the formation of pigments. PPOs comprise different enzyme groups, including tyrosinases (TYRs) and catechol oxidases (COs). TYRs catalyze the  o  &#8208;hydroxylation of monophenols and the oxidation of  o  &#8208;diphenols to the corresponding  o  &#8208;quinones (EC 1.14.18.1). In contrast, COs only catalyze the oxidation of  o  &#8208;diphenols to the corresponding  o  &#8208;quinones (EC 1.10.3.1). To date (August 2020), 102 PDB entries enclosing 18 different proteins from 16 organisms and several mutants have been reported, identifying key residues in tyrosinase activity. The structural similarity between TYRs and COs, especially within and around the active center, complicates the elucidation of their modes of action on a structural basis. However, mutagenesis studies illuminate residues which influence the two activities and prove that crystallography on its own cannot  solve  elucidate the enzymatic activity mode. Several amino acid residues around the dicopper active center have been proposed to play an essential role in the two different activities. Herein, we critically review the role of all residues identified so far that putatively affect the two activities of PPOs.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Similar but still different &#8211; which amino acid residues are responsible for varying activities in type&#8208;III copper enzymes?</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000647</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-27T08:55:01-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000647</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000647?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Minireview</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000611?af=R">
       <title>Quinone methide based organophosphate hydrolases inhibitors: Trans proximity labelers versus Cis labeling activity&#8208;based probes</title>
       <dc:description>Quinone methide (QM) chemistry is widely applied including in enzyme inhibitors. Typically, enzyme&#8208;mediated bond&#8208;breaking releases a phenol product that rearranges into an electrophilic QM that in turn covalently modifies protein side&#8208;chains. However, the factors that govern the reactivity of QM&#8208;based inhibitors, and their mode of inhibition, have not been systematically explored. Foremost, enzyme inactivation may occur in  cis  , whereby one of the QM molecules inactivates the very same enzyme molecule that released it, or by  trans  , if the released QMs diffuse away and inactivate other enzyme molecules. We examined QM&#8208;based inhibitors for enzymes exhibiting phosphoester hydrolase activity. We tested different phenolic substituents and benzylic leaving groups, thereby modulating the rates of enzymatic hydrolysis, phenolate&#8208;to&#8208;QM rearrangement, and the electrophilicity of the resulting QM. By developing assays that distinguish between  cis  versus trans inhibition, we have identified certain combinations of leaving groups and phenyl substituents that lead to inhibition in the  cis  mode, while other combinations led to  trans  inhibition. Our results suggest that  cis  acting QM&#8208;based substrates may be used as activity&#8208;based probes for identifying various phospho&#8208; and phosphono&#8208;ester hydrolases, and potentially other hydrolases.</dc:description>
@@ -459,35 +479,6 @@ Jung&#8208;Min Kee
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000583?af=R</prism:url>
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000612?af=R">
-      <title>Machine Learning Enables Selection of Epistatic Enzyme Mutants for Stability Against Unfolding and Detrimental Aggregation</title>
-      <dc:description>Machine learning (ML) has pervaded most areas of protein engineering, including stability and stereoselectivity. Using limonene epoxide hydrolase as the model enzyme and innov&#8217;SAR as the ML platform, comprising a digital signal process, we achieved high protein robustness that may resist unfolding with concomitant detrimental aggregation. Fourier transform (FT) allows to take into account the order of the protein sequence and the non&#8208;linear interactions between positions, and thus to grasp epistatic phenomena. The innov'SAR approach is interpolative, extrapolative and predicts out&#8208;of&#8208;the&#8208;box, not found in other state&#8208;of&#8208;the&#8208;art ML or Deep Learning approaches. Equally significant is the finding that our approach to ML in the present context, flanked by advanced molecular dynamics simulations, uncovers the connection between epistatic mutational interactions and protein robustness.</dc:description>
-      <dc:creator>
-Guangyue Li, 
-Youcai Qin, 
-Nicolas  T. Fontaine, 
-Matthieu  Ng Fuk Chong, 
-Miguel  Angel Maria-Solano, 
-Ferran Feixas, 
-Xavier  F. Cadet, 
-Rudy Pandjaitan, 
-Marc Garcia-Borr&#224;s, 
-Frederic Cadet, 
-Manfred  T. Reetz
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000612?af=R</link>
-      <content:encoded>&lt;p&gt;Machine learning (ML) has pervaded most areas of protein engineering, including stability and stereoselectivity. Using limonene epoxide hydrolase as the model enzyme and innov&#8217;SAR as the ML platform, comprising a digital signal process, we achieved high protein robustness that may resist unfolding with concomitant detrimental aggregation. Fourier transform (FT) allows to take into account the order of the protein sequence and the non&#8208;linear interactions between positions, and thus to grasp epistatic phenomena. The innov'SAR approach is interpolative, extrapolative and predicts out&#8208;of&#8208;the&#8208;box, not found in other state&#8208;of&#8208;the&#8208;art ML or Deep Learning approaches. Equally significant is the finding that our approach to ML in the present context, flanked by advanced molecular dynamics simulations, uncovers the connection between epistatic mutational interactions and protein robustness.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Machine Learning Enables Selection of Epistatic Enzyme Mutants for Stability Against Unfolding and Detrimental Aggregation</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000612</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-10-22T07:10:51-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000612</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000612?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000591?af=R">
       <title>Repressor&#8208;like on&#8208;off regulation of protein expression by the DNA&#8208;binding transcription activator&#8208;like effector in T7 promoter&#8208;based cell&#8208;free protein synthesis</title>
@@ -925,29 +916,6 @@ Gy&#246;rgy  M. Keser&#369;
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000700?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000632?af=R">
-      <title>Probing the secondary structure of individual A&#946;40 amorphous aggregates and fibrils by AFM&#8208;IR spectroscopy</title>
-      <dc:description>Structural characterization of aggregates and fibrils of the A&#946; protein is pivotal to the molecular level elucidation of Alzheimer&#8217;s disease (AD). AFM&#8208;IR provides nanoscale resolution, and thus allows for spectroscopic interrogation of individual aggregates and fibrils. During aggregation of A&#946; we observed mainly disordered A&#946; at t=15 min, substantial structural diversity including co&#8208;existence of parallel and antiparallel &#946;&#8208;sheets within a large amorphous aggregate at t=2 hours, while fibrils exhibited the expected signature of parallel &#946;&#8208;sheets at t=1 week. The resonance observed for parallel &#946;&#8208;sheets at t=2 hours coincides with that observed for fibrils (at 1634 cm&#8208;1), indicating that fibril&#8208;like species exist within the large aggregates. Thus, nucleation might occur within such species, in analogy to current theories of protein crystallization where nucleation occurs within large protein clusters. Cu2+ perturbs A&#946; aggregation, catalysing rapid formation of amorphous aggregates with diverse secondary structure, but inhibiting fibril growth.</dc:description>
-      <dc:creator>
-Mikkel Herzberg, 
-Daniel Szunyogh, 
-Peter  W. Thulstrup, 
-Tue Hassenkam, 
-Lars Hemmingsen
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000632?af=R</link>
-      <content:encoded>&lt;p&gt;Structural characterization of aggregates and fibrils of the A&#946; protein is pivotal to the molecular level elucidation of Alzheimer&#8217;s disease (AD). AFM&#8208;IR provides nanoscale resolution, and thus allows for spectroscopic interrogation of individual aggregates and fibrils. During aggregation of A&#946; we observed mainly disordered A&#946; at t=15 min, substantial structural diversity including co&#8208;existence of parallel and antiparallel &#946;&#8208;sheets within a large amorphous aggregate at t=2 hours, while fibrils exhibited the expected signature of parallel &#946;&#8208;sheets at t=1 week. The resonance observed for parallel &#946;&#8208;sheets at t=2 hours coincides with that observed for fibrils (at 1634 cm&#8208;1), indicating that fibril&#8208;like species exist within the large aggregates. Thus, nucleation might occur within such species, in analogy to current theories of protein crystallization where nucleation occurs within large protein clusters. Cu2+ perturbs A&#946; aggregation, catalysing rapid formation of amorphous aggregates with diverse secondary structure, but inhibiting fibril growth.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Probing the secondary structure of individual A&#946;40 amorphous aggregates and fibrils by AFM&#8208;IR spectroscopy</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000632</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-10-07T02:09:48-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000632</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000632?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000617?af=R">
       <title>Regulation of the peroxidase&#8208;like activity of nGO, MoS2and WS2&#160;nanozymes using metal cations</title>
