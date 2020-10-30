@@ -9,6 +9,9 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000744?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000477?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000597?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000732?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000734?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000733?af=R" />
@@ -18,11 +21,11 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000632?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000647?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000611?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000678?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000730?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000364?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000529?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000531?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000678?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000660?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000634?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000704?af=R" />
@@ -37,9 +40,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000670?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000552?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000575?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000583?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000551?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000651?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000583?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000612?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000591?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000682?af=R" />
@@ -133,7 +136,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000609?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000424?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000577?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000597?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000373?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000579?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000605?af=R" />
@@ -145,11 +147,9 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000452?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000553?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000518?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000379?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000587?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000585?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000645?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000416?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000525?af=R" />
          </rdf:Seq>
       </items>
@@ -159,6 +159,28 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000744?af=R">
+      <title>Optical Biosensors for Virus Detection: Prospects for COVID&#8208;19</title>
+      <dc:description>The recent pandemic of the novel coronavirus disease 2019 (COVID&#8208;19) caused massive worldwide disruptions due to the lack of available testing locations and equipment. The use of optical techniques for viral detection has flourished in the past 15 years, providing more reliable, inexpensive, and accurate detection methods. In the current minireview, optical phenomena including fluorescence, surface plasmons, surface&#8208;enhanced Raman scattering (SERS), and colorimetry are discussed in the context of detecting virus pathogens. The sensitivity of a viral detection method can be dramatically improved by utilizing materials that exhibit surface plasmons or SERS, but often it requires advanced instrumentation for detection. Although fluorescence and colorimetry lack high sensitivities, they show promise as point&#8208;of&#8208;care diagnostics because of their relatively less complicated instrumentation, ease of use, lower costs, and they do not require nucleic acid amplification. Advantages and disadvantages of each optical detection method are presented, and prospects for applying optical biosensors in COVID&#8208;19 detection are discussed.</dc:description>
+      <dc:creator>
+Hemanth Maddali, 
+Catherine  E Miles, 
+Joachim Kohn, 
+Deirdre  Marie O'Carroll
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000744?af=R</link>
+      <content:encoded>&lt;p&gt;The recent pandemic of the novel coronavirus disease 2019 (COVID&#8208;19) caused massive worldwide disruptions due to the lack of available testing locations and equipment. The use of optical techniques for viral detection has flourished in the past 15 years, providing more reliable, inexpensive, and accurate detection methods. In the current minireview, optical phenomena including fluorescence, surface plasmons, surface&#8208;enhanced Raman scattering (SERS), and colorimetry are discussed in the context of detecting virus pathogens. The sensitivity of a viral detection method can be dramatically improved by utilizing materials that exhibit surface plasmons or SERS, but often it requires advanced instrumentation for detection. Although fluorescence and colorimetry lack high sensitivities, they show promise as point&#8208;of&#8208;care diagnostics because of their relatively less complicated instrumentation, ease of use, lower costs, and they do not require nucleic acid amplification. Advantages and disadvantages of each optical detection method are presented, and prospects for applying optical biosensors in COVID&#8208;19 detection are discussed.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Optical Biosensors for Virus Detection: Prospects for COVID&#8208;19</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000744</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-10-29T09:54:32-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000744</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000744?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Minireview</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000732?af=R">
       <title>Human Cellular Retinol Binding Protein II Forms a Domain&#8208;Swapped Trimer Representing a Novel Fold and a New Template for Protein Engineering</title>
       <dc:description>
@@ -398,29 +420,6 @@ Dan Tawfik
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000678?af=R">
-      <title>Hybridization Networks of mRNA and Branched RNA Hybrids</title>
-      <dc:description>Messenger RNA (mRNA) is emerging as an attractive biopolymer for therapy and vaccination.&#160; To become suitable for vaccination, mRNA is usually converted to a biomaterial, using cationic peptides, polymers or lipids.&#160; An alternative form of converting mRNA into a material is demonstrated that uses branched oligoribonucleotide hybrids with the ability to hybridize with one or more regions of the mRNA sequence.&#160; Two such hybrids with hexamer arms and adamantane tetraol as branching element were prepared by solution&#8208;phase synthesis.&#160; When a rabies mRNA was treated with the branched hybrids at 1 M NaCl concentration, biomaterials formed that contained both of the nucleic acids. These results show that branched oligoribonucleotides are an alternative to the often toxic reagents commonly used to formulate mRNA for medical applications.</dc:description>
-      <dc:creator>
-Vassiliki Damakoudi, 
-Tobias Feldner, 
-Edina Dilji, 
-Andrey Belkin, 
-Clemens Richert
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000678?af=R</link>
-      <content:encoded>&lt;p&gt;Messenger RNA (mRNA) is emerging as an attractive biopolymer for therapy and vaccination.&#160; To become suitable for vaccination, mRNA is usually converted to a biomaterial, using cationic peptides, polymers or lipids.&#160; An alternative form of converting mRNA into a material is demonstrated that uses branched oligoribonucleotide hybrids with the ability to hybridize with one or more regions of the mRNA sequence.&#160; Two such hybrids with hexamer arms and adamantane tetraol as branching element were prepared by solution&#8208;phase synthesis.&#160; When a rabies mRNA was treated with the branched hybrids at 1 M NaCl concentration, biomaterials formed that contained both of the nucleic acids. These results show that branched oligoribonucleotides are an alternative to the often toxic reagents commonly used to formulate mRNA for medical applications.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Hybridization Networks of mRNA and Branched RNA Hybrids</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000678</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-10-26T09:51:54-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000678</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000678?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000730?af=R">
       <title>Structural insights into the interaction of heme with protein tyrosine kinase JAK2</title>
       <dc:description>Janus kinase 2 (JAK2) is the most important signal transducing tyrosine kinase in erythropoietic precursor cells. Its malfunction drives several myeloproliferative disorders. Heme is a small metal ion&#8208;carrying molecule, which is incorporated into hemoglobin in erythroid precursor cells to transport oxygen. In addition, heme is a signaling molecule and regulator of various biochemical processes. Here we show that heme exposure leads to hyperphosphorylation of JAK2 in a myeloid cancer cell line. Two peptides identified in JAK2 represent heme&#8208;regulatory motifs and show low micromolar affinities for heme. These peptides map to the kinase domain of JAK2, which is essential for downstream signaling. We suggest these motifs to be the interaction sites of heme with JAK2, which drive the heme&#8208;induced hyperphosphorylation. The results presented herein may facilitate the development of heme&#8208;related pharmacological tools to perspectively combat myeloproliferative disorders.</dc:description>
@@ -631,46 +630,6 @@ Carles Mas-Moruno
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000670?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000583?af=R">
-      <title>Quest for the Crypto&#8208;phosphoproteome</title>
-      <dc:description>
-Hidden gems: Despite the recent advances in phosphoproteomics, a chemically labile subset of the phosphoproteome has remained &#8220;hidden&#8221; for a long time. Here we discuss current search efforts and future directions.
-
-
-
-
-
-
-
-Abstract
-Protein phosphorylation is one of the most studied post&#8208;translational modifications (PTMs). Despite the remarkable advances in phosphoproteomics, a chemically less&#8208;stable subset of the phosphosites, which we call the crypto&#8208;phosphoproteome, has remained underexplored due to technological challenges. In this Viewpoint, we briefly summarize the current understanding of these elusive protein phosphorylations and identify the missing pieces for future studies.
-</dc:description>
-      <dc:creator>
-Seungmin Ahn, 
-Hoyoung Jung, 
-Jung&#8208;Min Kee
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000583?af=R</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/16a75592-50b1-4ccf-b622-41955cee1939/cbic202000583-toc-0001-m.png"
-     alt="Quest for the Crypto&#8208;phosphoproteome"/&gt;
-&lt;p&gt;&lt;b&gt;Hidden gems&lt;/b&gt;: Despite the recent advances in phosphoproteomics, a chemically labile subset of the phosphoproteome has remained &#8220;hidden&#8221; for a long time. Here we discuss current search efforts and future directions.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Protein phosphorylation is one of the most studied post&#8208;translational modifications (PTMs). Despite the remarkable advances in phosphoproteomics, a chemically less&#8208;stable subset of the phosphosites, which we call the crypto&#8208;phosphoproteome, has remained underexplored due to technological challenges. In this Viewpoint, we briefly summarize the current understanding of these elusive protein phosphorylations and identify the missing pieces for future studies.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Quest for the Crypto&#8208;phosphoproteome</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000583</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-10-23T02:03:48-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000583</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000583?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Viewpoint</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000591?af=R">
       <title>Repressor&#8208;like on&#8208;off regulation of protein expression by the DNA&#8208;binding transcription activator&#8208;like effector in T7 promoter&#8208;based cell&#8208;free protein synthesis</title>
@@ -1460,32 +1419,6 @@ Yoshiki Katayama
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000577</prism:doi>
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000577?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000597?af=R">
-      <title>The peculiar structure of Acetobacter pasteurianus CIP103108 LPS core oligosaccharide</title>
-      <dc:description>Acetobacter pasteurianus, a member of Alphaproteobacteria, is an acetic acid&#8208;producing bacterium present on sugar&#8208;rich substrates such as such as fruits, flowers and vegetables and traditionally used in the production of fermented food. The preferred living habitat associated to acid conditions makes the structure of the bacterial cell wall interesting to study, due to expectable uncommon features. We here used a combination of chemical, analytical and NMR spectroscopy approaches to define the complete structure of the core oligosaccharide from Acetobacter pasteurianus CIP103108 LPS. Interestingly, the core oligosaccharide displays a high concentration of negatively charged groups, structural features that might contribute to reinforce the bacterial membrane</dc:description>
-      <dc:creator>
-Roberta Marchetti, 
-Ferran  Nieto Fabregat, 
-Mateusz Pallach, 
-Djamel Gully, 
-Eric Giraud, 
-Antonio Molinaro, 
-Katarzyna  A. Duda, 
-Alba Silipo
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000597?af=R</link>
-      <content:encoded>&lt;p&gt;Acetobacter pasteurianus, a member of Alphaproteobacteria, is an acetic acid&#8208;producing bacterium present on sugar&#8208;rich substrates such as such as fruits, flowers and vegetables and traditionally used in the production of fermented food. The preferred living habitat associated to acid conditions makes the structure of the bacterial cell wall interesting to study, due to expectable uncommon features. We here used a combination of chemical, analytical and NMR spectroscopy approaches to define the complete structure of the core oligosaccharide from Acetobacter pasteurianus CIP103108 LPS. Interestingly, the core oligosaccharide displays a high concentration of negatively charged groups, structural features that might contribute to reinforce the bacterial membrane&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>The peculiar structure of Acetobacter pasteurianus CIP103108 LPS core oligosaccharide</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000597</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-23T05:34:34-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000597</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000597?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
