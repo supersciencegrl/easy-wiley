@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011927?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012734?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011992?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013975?af=R" />
@@ -28,7 +29,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012876?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011588?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013171?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011741?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012224?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013531?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012379?af=R" />
@@ -49,6 +49,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010833?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010839?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010752?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011741?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012487?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010937?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009991?af=R" />
@@ -206,7 +207,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013333?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013015?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011702?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013017?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -215,6 +215,28 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202011927?af=R">
+      <title>Platinum(II) Complexes with Bis(pyrazolyl)borate Ligands: Increased Molecular Rigidity for Bidentate Ligand Systems</title>
+      <dc:description>The structural motif of platinum(II) complexes bearing cyclometalating  N  &#8208;heterocyclic carbene ligands can be used to design deep&#8208;blue phosphors for application in organic light&#8208;emitting diodes. However, the photophysical properties of the resulting molecules are also highly dependent on the auxiliary ligand. These often allow molecular deformations in the excited state which contribute to non&#8208;radiative decay processes that diminish the attainable quantum yield. The use of bis(pyrazolyl)borate based auxiliary ligands enforces a high molecular rigidity due to their unique geometry. The steric crowding in the coordination sphere inhibits deformation processes and results in highly efficient deep&#8208;blue platinum(II) emitters with CIE coordinates below (0.15; 0,15).</dc:description>
+      <dc:creator>
+Johannes Soellner, 
+Piermaria Pinter, 
+Sergej Stipurin, 
+Thomas Stra&#223;ner
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011927?af=R</link>
+      <content:encoded>&lt;p&gt;The structural motif of platinum(II) complexes bearing cyclometalating  N  &#8208;heterocyclic carbene ligands can be used to design deep&#8208;blue phosphors for application in organic light&#8208;emitting diodes. However, the photophysical properties of the resulting molecules are also highly dependent on the auxiliary ligand. These often allow molecular deformations in the excited state which contribute to non&#8208;radiative decay processes that diminish the attainable quantum yield. The use of bis(pyrazolyl)borate based auxiliary ligands enforces a high molecular rigidity due to their unique geometry. The steric crowding in the coordination sphere inhibits deformation processes and results in highly efficient deep&#8208;blue platinum(II) emitters with CIE coordinates below (0.15; 0,15).&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Platinum(II) Complexes with Bis(pyrazolyl)borate Ligands: Increased Molecular Rigidity for Bidentate Ligand Systems</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011927</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-10-31T12:29:42-07:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011927</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011927?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012734?af=R">
       <title>Atomic sandwiched p&#8208;n homojunctions</title>
       <dc:description>The semiconductor p&#8208;n junctions have been explored and applied in photoelectrochemical (PEC) water splitting, but serious carrier recombination and sluggish oxygen evolution reaction (OER) dynamics have demanded further progress in p&#8208;n junction photoelectrode design. Here, via a controllable NH  3  treatment, we construct sandwiched p&#8208;n homojunctions in three&#8208;unit&#8208;cells n&#8208;type SnS  2  (n&#8208;SnS  2  ) nanosheet arrays using nitrogen (N) as acceptor dopants. The optimal N&#8208;doped n&#8208;SnS  2  (pnp&#8208;SnS  2  ) with such unique structure achieves a record photocurrent density of 3.28 mA cm  &#8208;2  , which is 21 times as high as that of n&#8208;SnS  2  and the highest value among all the SnS  2  photoanodes reported so far. Moreover, the stoichiometric O  2  and H  2  evolution from water was achieved with Faradaic efficiencies close to 100%. The superior performance could be attributed to the facilitated electron&#8208;hole separation/transfer, accelerated surface OER kinetics, prolonged carrier lifetime, and improved structural stability.</dc:description>
@@ -651,30 +673,6 @@ Harald Gr&#246;ger
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202013171</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202013171?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011741?af=R">
-      <title>An Unexpected Split&#8208;Merge Pathway to the Symmetric Nonribosomal Peptide Antibiotic Closthioamide</title>
-      <dc:description>Closthioamide (CTA) is a symmetric nonribosomal peptide (NRP) comprised of two diaminopropane&#8208;linked polythioamidated monomers. CTA is biosynthesized by Ruminiclostridium cellulolyticum via an atypical NRP synthetase (NRPS)&#8208;independent biosynthetic pathway. Although the logic for monomer assembly was recently elucidated, the strategy for the biosynthesis and incorporation of the diamine linker remained a mystery. By means of genome editing, synthesis, and in vitro biochemical assays, we demonstrate that the final steps in CTA maturation proceed through a surprising split&#8208;merge pathway involving the dual use of a thiotemplated intermediate. This pathway includes the first examples of an aldo&#8208;keto reductase catalyzing the reductive release of a thiotemplated product, and of a transthioamidating transglutaminase. In addition to clarifying the remaining steps in CTA assembly, our data shed light on largely unexplored pathways for NRPS&#8208;independent peptide biosynthesis.</dc:description>
-      <dc:creator>
-Kyle  L. Dunbar, 
-Maria Dell, 
-Evelyn  M. Molloy, 
-Hannah B&#252;ttner, 
-Jana Kumpfm&#252;ller, 
-Christian Hertweck
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011741?af=R</link>
-      <content:encoded>&lt;p&gt;Closthioamide (CTA) is a symmetric nonribosomal peptide (NRP) comprised of two diaminopropane&#8208;linked polythioamidated monomers. CTA is biosynthesized by Ruminiclostridium cellulolyticum via an atypical NRP synthetase (NRPS)&#8208;independent biosynthetic pathway. Although the logic for monomer assembly was recently elucidated, the strategy for the biosynthesis and incorporation of the diamine linker remained a mystery. By means of genome editing, synthesis, and in vitro biochemical assays, we demonstrate that the final steps in CTA maturation proceed through a surprising split&#8208;merge pathway involving the dual use of a thiotemplated intermediate. This pathway includes the first examples of an aldo&#8208;keto reductase catalyzing the reductive release of a thiotemplated product, and of a transthioamidating transglutaminase. In addition to clarifying the remaining steps in CTA assembly, our data shed light on largely unexplored pathways for NRPS&#8208;independent peptide biosynthesis.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>An Unexpected Split&#8208;Merge Pathway to the Symmetric Nonribosomal Peptide Antibiotic Closthioamide</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011741</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-10-29T09:54:39-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011741</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011741?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
@@ -2109,29 +2107,6 @@ Yue-Sheng Li
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202011702</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202011702?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013017?af=R">
-      <title>Safe, Scalable, Inexpensive, and Mild Nickel&#8208;Catalyzed Migita&#8208;like C&#8211;S Cross&#8208;Couplings in Recyclable Water</title>
-      <dc:description>A new approach to C&#8211;S couplings is reported that relies on nickel catalysis under mild conditions, enabled by micellar catalysis in recyclable water as reaction medium. The protocol tolerates a wide range of heteroaromatic halides and thiols, including alkyl and heteroaryl thiols, leading to a variety of thioethers in good isolated yields. The method is scalable, results in low residual metal in the products, and is applicable to syntheses of targets in the pharmaceutical area. The procedure also features an associated low E Factor, suggesting a far more attractive entry than is otherwise currently available, especially those based on unsustainable loadings of Pd catalysts.</dc:description>
-      <dc:creator>
-Bruce  Howard Lipshutz, 
-Tzu-Yu Yu, 
-Haobo Pang, 
-Yilin Cao, 
-Fabrice Gallou
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202013017?af=R</link>
-      <content:encoded>&lt;p&gt;A new approach to C&#8211;S couplings is reported that relies on nickel catalysis under mild conditions, enabled by micellar catalysis in recyclable water as reaction medium. The protocol tolerates a wide range of heteroaromatic halides and thiols, including alkyl and heteroaryl thiols, leading to a variety of thioethers in good isolated yields. The method is scalable, results in low residual metal in the products, and is applicable to syntheses of targets in the pharmaceutical area. The procedure also features an associated low E Factor, suggesting a far more attractive entry than is otherwise currently available, especially those based on unsustainable loadings of Pd catalysts.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Safe, Scalable, Inexpensive, and Mild Nickel&#8208;Catalyzed Migita&#8208;like C&#8211;S Cross&#8208;Couplings in Recyclable Water</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013017</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-10-23T12:17:42-07:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013017</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202013017?af=R</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
