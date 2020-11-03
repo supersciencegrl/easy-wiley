@@ -9,6 +9,11 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000698?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000671?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000500?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000585?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000465?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000316?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000602?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000406?af=R" />
@@ -137,11 +142,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000630?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000610?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000419?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000476?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000465?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000298?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000555?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000408?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000609?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000577?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000605?af=R" />
@@ -149,7 +150,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000511?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000372?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000587?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000585?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000645?af=R" />
          </rdf:Seq>
       </items>
@@ -159,6 +159,90 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000698?af=R">
+      <title>Millisecond Allosteric Dynamics of Activated Ras Reproduced with a Slowly Hydrolyzable GTP Analogue</title>
+      <dc:description>The millisecond timescale dynamics of activated Ras transiently sample a low&#8208;populated conformational state that has distinct surface property from the major state and represents a promising target for binding of small&#8208;molecule compounds. To avoid complications of hydrolysis, dynamics and other properties of active Ras have so far been routinely investigated using non&#8208;hydrolyzable GTP analogues, which, however, were previously reported to alter both the kinetics and distribution of the conformational exchange. In this study, we quantitatively measure and validate the internal dynamics of Ras complexed with a slowly hydrolyzable GTP analogue, GTP&#947;S, which increases the lifetime of active Ras by 23 times relative to that of native GTP. It is found that GTP&#947;S, in addition to its better mimicking of the exchange kinetics than the commonly used non&#8208;hydrolyzable analogues GppNHp and GppCH  2  p, can rigorously reproduce the natural dynamics network in active Ras, indicating its fitness for use in the development of allosteric inhibitors.</dc:description>
+      <dc:creator>
+Xiaomin Chen, 
+Hexuan Gao, 
+Dong Long
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000698?af=R</link>
+      <content:encoded>&lt;p&gt;The millisecond timescale dynamics of activated Ras transiently sample a low&#8208;populated conformational state that has distinct surface property from the major state and represents a promising target for binding of small&#8208;molecule compounds. To avoid complications of hydrolysis, dynamics and other properties of active Ras have so far been routinely investigated using non&#8208;hydrolyzable GTP analogues, which, however, were previously reported to alter both the kinetics and distribution of the conformational exchange. In this study, we quantitatively measure and validate the internal dynamics of Ras complexed with a slowly hydrolyzable GTP analogue, GTP&#947;S, which increases the lifetime of active Ras by 23 times relative to that of native GTP. It is found that GTP&#947;S, in addition to its better mimicking of the exchange kinetics than the commonly used non&#8208;hydrolyzable analogues GppNHp and GppCH  2  p, can rigorously reproduce the natural dynamics network in active Ras, indicating its fitness for use in the development of allosteric inhibitors.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Millisecond Allosteric Dynamics of Activated Ras Reproduced with a Slowly Hydrolyzable GTP Analogue</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000698</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-02T11:00:15-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000698</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000698?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000671?af=R">
+      <title>Microenvironment&#8208;Sensitive Fluorescent Ligand Binds Ascaris Telomere Antiparallel G&#8208;Quadruplex DNA with Blue&#8208;Shift and Enhanced Emission</title>
+      <dc:description>The development of small molecules, which can selectively target G4 DNAs has drawn considerable attention due to their unique physiological and pathological functions. However, only a few molecules were found to selective binding of a particular G4 DNA structure. Herein, we have developed a fluorescence ligand  Q1  , a molecular scaffold of carbazole&#8208;pyridine core bridged with a phenylboronic acid side chain, exhibited as a selective ascaris telomere antiparallel G4 DNA ASC20 ligand with about 18 nm blue&#8208;shifted and enhanced fluorescence intensity. Photophysical properties revealed that  Q1  was sensitive to the microenvironment and gave the best selectivity to ASC20 with equilibrium binding constant (  K  a  = 6.04 &#180; 10  5  M  &#8208;1  ). The time&#8208;resolved fluorescence studies also demonstrated that  Q1  showed a longer fluorescence lifetime in the presence of ASC20. The binding characteristics of  Q1  with ASC20 were described in detail by &#64258;uorescent intercalator displacement (FID) assay, 2&#8208;Ap titration experiment and molecular docking. Ligand  Q1  could adopt an appropriate pose at terminal G&#8208;quartets of ASC20 via the multiple interactions including &#960;&#8208;&#960; stacking between aromatic rings, thus led to a strong fluorescence enhancement. In addition, co&#8208;staining image showed  Q1  mainly distributed in the cytoplasm area. According, this work provides insights for the development of ligands that selectively targeting a specific G4 DNA structure.</dc:description>
+      <dc:creator>
+Quan-Qi Yu, 
+Juan-Juan Gao, 
+Xue-Xian Lang, 
+Hong-Yao Li, 
+Ming-Qi Wang
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000671?af=R</link>
+      <content:encoded>&lt;p&gt;The development of small molecules, which can selectively target G4 DNAs has drawn considerable attention due to their unique physiological and pathological functions. However, only a few molecules were found to selective binding of a particular G4 DNA structure. Herein, we have developed a fluorescence ligand  Q1  , a molecular scaffold of carbazole&#8208;pyridine core bridged with a phenylboronic acid side chain, exhibited as a selective ascaris telomere antiparallel G4 DNA ASC20 ligand with about 18 nm blue&#8208;shifted and enhanced fluorescence intensity. Photophysical properties revealed that  Q1  was sensitive to the microenvironment and gave the best selectivity to ASC20 with equilibrium binding constant (  K  a  = 6.04 &#180; 10  5  M  &#8208;1  ). The time&#8208;resolved fluorescence studies also demonstrated that  Q1  showed a longer fluorescence lifetime in the presence of ASC20. The binding characteristics of  Q1  with ASC20 were described in detail by &#64258;uorescent intercalator displacement (FID) assay, 2&#8208;Ap titration experiment and molecular docking. Ligand  Q1  could adopt an appropriate pose at terminal G&#8208;quartets of ASC20 via the multiple interactions including &#960;&#8208;&#960; stacking between aromatic rings, thus led to a strong fluorescence enhancement. In addition, co&#8208;staining image showed  Q1  mainly distributed in the cytoplasm area. According, this work provides insights for the development of ligands that selectively targeting a specific G4 DNA structure.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Microenvironment&#8208;Sensitive Fluorescent Ligand Binds Ascaris Telomere Antiparallel G&#8208;Quadruplex DNA with Blue&#8208;Shift and Enhanced Emission</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000671</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-02T07:13:20-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000671</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000671?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000500?af=R">
+      <title>Evolutionary History of Bioessential Elements Can Guide the Search for Life in the Universe</title>
+      <dc:description>
+Astrobiology, origins of life and metals: The environmental availabilities of biologically useful elements such as transition metals might influence natural selection. Understanding the evolution of life's essential chemical elements is also critical for detecting and interpreting potential biological signatures elsewhere in the universe.
+
+
+
+
+
+
+
+Abstract
+Our understanding of life in the universe comes from one sample, life on Earth. Current and next&#8208;generation space missions will target exoplanets as well as planets and moons in our own solar system with the primary goal of detecting, interpreting and characterizing indications of possible biological activity. Thus, understanding life's fundamental characteristics is increasingly critical for detecting and interpreting potential biological signatures elsewhere in the universe. Astrobiologists have outlined the essential roles of carbon and water for life, but we have yet to decipher the rules governing the evolution of how living organisms use bioessential elements. Does the suite of life's essential chemical elements on Earth constitute only one possible evolutionary outcome? Are some elements so essential for biological functions that evolution will select for them despite low availability? How would this play out on other worlds that have different relative element abundances? When we look for life in the universe, or the conditions that could give rise to life, we must learn how to recognize it in extremely different chemical and environmental conditions from those on Earth. We argue that by exposing self&#8208;organizing biotic chemistries to different combinations of abiotic materials, and by mapping the evolutionary history of metalloenzyme biochemistry onto geological availabilities of metals, alternative element choices that are very different from life's present&#8208;day molecular structure might result. A greater understanding of the paleomolecular evolutionary history of life on Earth will create a predictive capacity for detecting and assessing life's existence on worlds where alternate evolutionary paths might have been taken.
+</dc:description>
+      <dc:creator>
+Betul Kacar, 
+Amanda K. Garcia, 
+Ariel D. Anbar
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000500?af=R</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/4b6c884b-1caf-4680-9dac-205db07c3a74/cbic202000500-toc-0001-m.png"
+     alt="Evolutionary History of Bioessential Elements Can Guide the Search for Life in the Universe"/&gt;
+&lt;p&gt;&lt;b&gt;Astrobiology, origins of life and metals&lt;/b&gt;: The environmental availabilities of biologically useful elements such as transition metals might influence natural selection. Understanding the evolution of life's essential chemical elements is also critical for detecting and interpreting potential biological signatures elsewhere in the universe.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Our understanding of life in the universe comes from one sample, life on Earth. Current and next&#8208;generation space missions will target exoplanets as well as planets and moons in our own solar system with the primary goal of detecting, interpreting and characterizing indications of possible biological activity. Thus, understanding life's fundamental characteristics is increasingly critical for detecting and interpreting potential biological signatures elsewhere in the universe. Astrobiologists have outlined the essential roles of carbon and water for life, but we have yet to decipher the rules governing the evolution of how living organisms use bioessential elements. Does the suite of life's essential chemical elements on Earth constitute only one possible evolutionary outcome? Are some elements so essential for biological functions that evolution will select for them despite low availability? How would this play out on other worlds that have different relative element abundances? When we look for life in the universe, or the conditions that could give rise to life, we must learn how to recognize it in extremely different chemical and environmental conditions from those on Earth. We argue that by exposing self&#8208;organizing biotic chemistries to different combinations of abiotic materials, and by mapping the evolutionary history of metalloenzyme biochemistry onto geological availabilities of metals, alternative element choices that are very different from life's present&#8208;day molecular structure might result. A greater understanding of the paleomolecular evolutionary history of life on Earth will create a predictive capacity for detecting and assessing life's existence on worlds where alternate evolutionary paths might have been taken.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Evolutionary History of Bioessential Elements Can Guide the Search for Life in the Universe</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000500</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-02T06:38:51-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000500</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000500?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Viewpoint</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000642?af=R">
       <title>An animal able to tolerate D2O</title>
       <dc:description>It is possible to gain a deeper insight on the role of water on biology by using physicochemical variant molecules, as deuterium oxide (D2O); however, D2O is toxic to multicellular organisms in high concentrations. By using a unique desiccation&#8208;rehydration process, we demonstrate that the anhydrobiotic nematode  Panagrolaimus superbus  is able to tolerate and proliferate in 99% D2O. Moreover, we analysed  P. superbus&#8217; water channel protein (aquaporin &#8208; AQP), associated with dehydration/rehydration, by comparing its primary structure and modelling its tertiary structure  in silico  . Our data evidence that  P. superbus&#8217; AQP is an aquaglyceroporin, a class of water channels known to display a wider pore, which help to explain the rapid and successful organismal influx of D2O in this species. This is the first demonstration of an animal able to withstand high D2O levels, thus paving a way for the investigation of the effects D2O on higher levels of biological organization.</dc:description>
