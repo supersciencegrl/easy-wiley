@@ -9,10 +9,11 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000659?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000369?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000699?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000658?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000535?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000674?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000577?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000511?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000517?af=R" />
@@ -39,6 +40,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000229?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000262?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000263?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000674?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000667?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000626?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000698?af=R" />
@@ -109,7 +111,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000513?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000441?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000429?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000659?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000594?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000712?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000600?af=R" />
@@ -143,14 +144,13 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000537?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000601?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000618?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000488?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000523?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000630?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000610?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000298?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000609?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000605?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000556?af=R" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000372?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -243,27 +243,6 @@ Joseph A. Buonomo
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000535?af=R</prism:url>
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000674?af=R">
-      <title>On the Use of Side&#8208;Chain NMR Relaxation Data to Derive Structural and Dynamical Information on Proteins: A Case Study using Hen Lysozyme</title>
-      <dc:description>Values of S2CH and S2NH order parameters derived from NMR relaxation measurements on proteins cannot straightforwardly be used to determine protein structure, because they cannot be related to a single protein structure, but are defined in terms of an average over a conformational ensemble. MD simulation can generate a conformational ensemble and thus be used to restrain S2CH and S2NH order parameters towards experimentally derived target values S2CH(exp) and S2NH(exp). Application of S2CH and S2NH order&#8208;parameter restraining MD simulation to bond vectors in 63 side chains of the protein hen egg white lysozyme using 51 S2CH(exp) target values and 28 S2NH(exp) target values shows that a conformational ensemble compatible with the experimentally derived data can be obtained using this technique. It is observed that S2CH order&#8208;parameter restraining of C&#8208;H bonds in methyl groups is less reliable than S2NH order&#8208;parameter restraining, because of possibly less valid assumptions and approximations used to derive experimental S2CH(exp)&#8208;values from NMR relaxation measurements and the necessity to adopt the assumption of uniform rotational motion of methyl C&#8208;H bonds around their symmetry axis and of the independence of these motions from each other. The restrained simulations demonstrate that side chains on the protein surface are highly dynamic. Any hydrogen bonds they form and that appear in any of four different crystal structures, are fluctuating with short lifetimes in solution.</dc:description>
-      <dc:creator>
-Lorna  J Smith, 
-Wilfred  F van Gunsteren, 
-Niels Hansen
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000674?af=R</link>
-      <content:encoded>&lt;p&gt;Values of S2CH and S2NH order parameters derived from NMR relaxation measurements on proteins cannot straightforwardly be used to determine protein structure, because they cannot be related to a single protein structure, but are defined in terms of an average over a conformational ensemble. MD simulation can generate a conformational ensemble and thus be used to restrain S2CH and S2NH order parameters towards experimentally derived target values S2CH(exp) and S2NH(exp). Application of S2CH and S2NH order&#8208;parameter restraining MD simulation to bond vectors in 63 side chains of the protein hen egg white lysozyme using 51 S2CH(exp) target values and 28 S2NH(exp) target values shows that a conformational ensemble compatible with the experimentally derived data can be obtained using this technique. It is observed that S2CH order&#8208;parameter restraining of C&#8208;H bonds in methyl groups is less reliable than S2NH order&#8208;parameter restraining, because of possibly less valid assumptions and approximations used to derive experimental S2CH(exp)&#8208;values from NMR relaxation measurements and the necessity to adopt the assumption of uniform rotational motion of methyl C&#8208;H bonds around their symmetry axis and of the independence of these motions from each other. The restrained simulations demonstrate that side chains on the protein surface are highly dynamic. Any hydrogen bonds they form and that appear in any of four different crystal structures, are fluctuating with short lifetimes in solution.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>On the Use of Side&#8208;Chain NMR Relaxation Data to Derive Structural and Dynamical Information on Proteins: A Case Study using Hen Lysozyme</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000674</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-11-04T04:17:33-08:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000674</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000674?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000735?af=R">
       <title>CYP154C5 Regioselectivity in Steroid Hydroxylation Explored by Substrate Modifications and Protein Engineering</title>
@@ -1141,31 +1120,6 @@ Andrea Martinelli
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000659?af=R">
-      <title>17O NMR studies of yeast ubiquitin in aqueous solution and in the solid state</title>
-      <dc:description>We report a general method for amino acid&#8208;type specific 17 O&#8208;labeling of recombinant proteins in Escherichia coli. In particular, we have prepared several [1&#8208; 13 C, 17 O]&#8208;labeled yeast ubiquitin (Ub) samples including Ub&#8208;[1&#8208; 13 C, 17 O]Gly, Ub&#8208;[1&#8208; 13 C, 17 O]Tyr, and Ub&#8208;[1&#8208; 13 C, 17 O]Phe using the auxotrophic E. coli strain DL39 GlyA l DE3 ( asp C &#8211; tyr B &#8211; ilv E &#8211; gly A &#8211; l DE3). We have also produced Ub&#8208;[ h &#8208; 17 O]Tyr, where the phenolic group of Tyr59 is 17 O&#8208;labeled. We showed for the first time that 17 O NMR signals from protein terminal residues and sidechains can be readily detected in aqueous solution. We also reported solid&#8208;state 17 O NMR spectra for Ub&#8208;[1&#8208; 13 C, 17 O]Tyr and Ub&#8208;[1&#8208; 13 C, 17 O]Phe obtained at an ultrahigh magnetic field, 35.2 T (1.5 GHz for 1 H). This work represents a significant advance in the field of 17 O NMR studies of proteins.</dc:description>
-      <dc:creator>
-Binyang Lin, 
-Ivan Hung, 
-Zhehong Gan, 
-Po-Hisu Chien, 
-Holly Spencer, 
-Steven Smith, 
-Gang Wu
-</dc:creator>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000659?af=R</link>
-      <content:encoded>&lt;p&gt;We report a general method for amino acid&#8208;type specific 17 O&#8208;labeling of recombinant proteins in Escherichia coli. In particular, we have prepared several [1&#8208; 13 C, 17 O]&#8208;labeled yeast ubiquitin (Ub) samples including Ub&#8208;[1&#8208; 13 C, 17 O]Gly, Ub&#8208;[1&#8208; 13 C, 17 O]Tyr, and Ub&#8208;[1&#8208; 13 C, 17 O]Phe using the auxotrophic E. coli strain DL39 GlyA l DE3 ( asp C &#8211; tyr B &#8211; ilv E &#8211; gly A &#8211; l DE3). We have also produced Ub&#8208;[ h &#8208; 17 O]Tyr, where the phenolic group of Tyr59 is 17 O&#8208;labeled. We showed for the first time that 17 O NMR signals from protein terminal residues and sidechains can be readily detected in aqueous solution. We also reported solid&#8208;state 17 O NMR spectra for Ub&#8208;[1&#8208; 13 C, 17 O]Tyr and Ub&#8208;[1&#8208; 13 C, 17 O]Phe obtained at an ultrahigh magnetic field, 35.2 T (1.5 GHz for 1 H). This work represents a significant advance in the field of 17 O NMR studies of proteins.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>17O NMR studies of yeast ubiquitin in aqueous solution and in the solid state</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000659</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-10-15T08:00:46-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000659</prism:doi>
-      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000659?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000594?af=R">
       <title>SynBio&#8208;SynChem Approaches to Diversifying the Pacidamycins through the Exploitation of an Observed Pictet&#8208;Spengler Reaction</title>
       <dc:description>A spontaneous Pictet&#8208;Spengler reaction has been postulated to give rise to a subset of uridyl peptide antibiotics (UPAs) naturally. The bioactivity of these compounds may be seen to be attenuated. Here, using a combination of strain engineering and synthetic chemistry, we demonstrate that Pictet&#8208;Spengler chemistry may be employed to generate even greater diversity in the UPAs. We use an engineered strain to afford access to&#160;  meta&#8208;  tyrosine containing pacidamycin 4, then apply Pictet&#8208;Spengler diversification of this compound utilising a small series of aryl&#8208;aldehydes with some Pictet&#8208;Spengler diversifications affording remarkable diastereomeric control.</dc:description>
@@ -1679,5 +1633,26 @@ Erin Carlson
       <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000556?af=R</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000372?af=R">
+      <title>Self&#8208;assembled, programmable DNA nanodevices for biological and biomedical applications</title>
+      <dc:description>The broad field of Structural DNA Nanotechnology has diverged into various areas of applications ranging from computing, photonics, synthetic biology, biosensing to in&#8208;vivo bioimaging and therapeutic delivery to name a few. Though the field began to exploit DNA to build various nanoscale architectures, it has now taken a new path to diverge from structural DNA nanotechnology to functional or applied DNA nanotechnology. More recently a third sub&#8208;branch has emerged &#8211; biologically oriented DNA nanotechnology, which seeks to explore the functionalities of combinatorial DNA devices in various biological systems. In this review, we summarize the key developments in DNA nanotechnology revealing a current trend, which merges the functionality of DNA devices with the specificity of biomolecules to access a range of functions in biological systems. This review seeks to provide a perspective on evolution and biological applications of DNA nanotechnology, where integration of DNA structures with biomolecules can now uncover phenomena of interests to biologists and biomedical scientists. Finally, we conclude with the challenges, limitations, and perspectives of DNA nanodevices in fundamental and applied research.</dc:description>
+      <dc:creator>
+Dhiraj  Devidas Bhatia, 
+Christian Wunder, 
+Ludger Johannes
+</dc:creator>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000372?af=R</link>
+      <content:encoded>&lt;p&gt;The broad field of Structural DNA Nanotechnology has diverged into various areas of applications ranging from computing, photonics, synthetic biology, biosensing to in&#8208;vivo bioimaging and therapeutic delivery to name a few. Though the field began to exploit DNA to build various nanoscale architectures, it has now taken a new path to diverge from structural DNA nanotechnology to functional or applied DNA nanotechnology. More recently a third sub&#8208;branch has emerged &#8211; biologically oriented DNA nanotechnology, which seeks to explore the functionalities of combinatorial DNA devices in various biological systems. In this review, we summarize the key developments in DNA nanotechnology revealing a current trend, which merges the functionality of DNA devices with the specificity of biomolecules to access a range of functions in biological systems. This review seeks to provide a perspective on evolution and biological applications of DNA nanotechnology, where integration of DNA structures with biomolecules can now uncover phenomena of interests to biologists and biomedical scientists. Finally, we conclude with the challenges, limitations, and perspectives of DNA nanodevices in fundamental and applied research.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Self&#8208;assembled, programmable DNA nanodevices for biological and biomedical applications</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000372</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-09-22T01:08:17-07:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000372</prism:doi>
+      <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000372?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
    </item>
 </rdf:RDF>
