@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000701?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000609?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000564?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000645?af=R" />
@@ -156,6 +157,28 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/14397633?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000701?af=R">
+      <title>A methionine chemical shift based order parameter characterizing global protein dynamics.</title>
+      <dc:description>Coupling of side chain dynamics over long distances is an important component of allosterism. Methione side chains show the largest intrinsic flexibility among methyl containing residues but the actual degree of conformational averaging depends on the proximity and mobility of neighbor residues.Carbon 13 NMR chemical shifts of methyl groups of methionine residues located at long distances in the same protein show a similar scaling with respect to the values predicted from the static X&#8208;ray structure by quantum methods. This results in a good linear correlation between calculated and observed chemical shifts.&#160;The slope is protein dependent and ranges from zero for the highly flexible calmodulin to 0.7 for the much more rigid calcineurin catalytic domain. The linear correlation is indicative of a similar level of side chain conformational averaging over long distances and the slope of the correlation line can be interpreted as an order parameter of the global side chain flexibility.</dc:description>
+      <dc:creator>
+Saeed Chashmniam, 
+Jo&#227;o  M.C. Teixeria, 
+Juan Carlos Paniagua, 
+Miquel Pons
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000701?af=R</link>
+      <content:encoded>&lt;p&gt;Coupling of side chain dynamics over long distances is an important component of allosterism. Methione side chains show the largest intrinsic flexibility among methyl containing residues but the actual degree of conformational averaging depends on the proximity and mobility of neighbor residues.Carbon 13 NMR chemical shifts of methyl groups of methionine residues located at long distances in the same protein show a similar scaling with respect to the values predicted from the static X&#8208;ray structure by quantum methods. This results in a good linear correlation between calculated and observed chemical shifts.&#160;The slope is protein dependent and ranges from zero for the highly flexible calmodulin to 0.7 for the much more rigid calcineurin catalytic domain. The linear correlation is indicative of a similar level of side chain conformational averaging over long distances and the slope of the correlation line can be interpreted as an order parameter of the global side chain flexibility.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>A methionine chemical shift based order parameter characterizing global protein dynamics.</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000701</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-09T04:13:59-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000701</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/cbic.202000701?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000658?af=R">
       <title>A High&#8208;throughput Screening Method for the Directed Evolution of Hydroxynitrile Lyase towards Cyanohydrin Synthesis</title>
       <dc:description>Chiral cyanohydrins are useful intermediates in pharmaceutical and agricultural industries. In nature, hydroxynitrile lyases (HNLs) represent a kind of elegant tool for enantioselective hydrocyanation of carbonyl compounds. Currently available methods for demonstration of hydrocyanation reaction still stalled at precise but low throughput GC or HPLC analyses. Herein we report a chromogenic high&#8208;throughput screening (HTS) method feasible for cyanohydrin synthesis reaction. This method was highly anti&#8208;interference and sensitive, and could be used to directly profile the substrate scope of HNLs neither in cell&#8208;free extract or fermentation clear broth. This HTS method was also validated by generating of new variants of  Pc  HNL5 which presented higher catalytic efficiency and stronger acidic tolerance in variant libraries.</dc:description>
