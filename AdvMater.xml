@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003610?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002450?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004385?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003387?af=R" />
@@ -94,7 +95,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001854?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003598?af=R" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004941?af=R" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004111?af=R" />
          </rdf:Seq>
       </items>
    </channel>
@@ -103,6 +103,52 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202003610?af=R">
+      <title>Neuromorphic Engineering: From Biological to Spike&#8208;Based Hardware Nervous Systems</title>
+      <dc:description>
+Spiking neural networks based on neuromorphic computing platforms simulate the architecture and information processing of the brain, providing a new insight for building machines having artificial intelligence. A comprehensive overview on the development of neuromorphic engineering from biological nervous systems to spike&#8208;based neuromorphic computing platforms is provided.
+
+
+
+
+
+
+
+
+Abstract
+The human brain is a sophisticated, high&#8208;performance biocomputer that processes multiple complex tasks in parallel with high efficiency and remarkably low power consumption. Scientists have long been pursuing an artificial intelligence (AI) that can rival the human brain. Spiking neural networks based on neuromorphic computing platforms simulate the architecture and information processing of the intelligent brain, providing new insights for building AIs. The rapid development of materials engineering, device physics, chip integration, and neuroscience has led to exciting progress in neuromorphic computing with the goal of overcoming the von Neumann bottleneck. Herein, fundamental knowledge related to the structures and working principles of neurons and synapses of the biological nervous system is reviewed. An overview is then provided on the development of neuromorphic hardware systems, from artificial synapses and neurons to spike&#8208;based neuromorphic computing platforms. It is hoped that this review will shed new light on the evolution of brain&#8208;like computing.
+</dc:description>
+      <dc:creator>
+Jia&#8208;Qin Yang, 
+Ruopeng Wang, 
+Yi Ren, 
+Jing&#8208;Yu Mao, 
+Zhan&#8208;Peng Wang, 
+Ye Zhou, 
+Su&#8208;Ting Han
+</dc:creator>
+      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003610?af=R</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ec82167c-d092-4ec1-921a-00b754d8f3ba/adma202003610-gra-0001-m.png"
+     alt="Neuromorphic Engineering: From Biological to Spike&#8208;Based Hardware Nervous Systems"/&gt;
+&lt;p&gt;Spiking neural networks based on neuromorphic computing platforms simulate the architecture and information processing of the brain, providing a new insight for building machines having artificial intelligence. A comprehensive overview on the development of neuromorphic engineering from biological nervous systems to spike&#8208;based neuromorphic computing platforms is provided.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The human brain is a sophisticated, high&#8208;performance biocomputer that processes multiple complex tasks in parallel with high efficiency and remarkably low power consumption. Scientists have long been pursuing an artificial intelligence (AI) that can rival the human brain. Spiking neural networks based on neuromorphic computing platforms simulate the architecture and information processing of the intelligent brain, providing new insights for building AIs. The rapid development of materials engineering, device physics, chip integration, and neuroscience has led to exciting progress in neuromorphic computing with the goal of overcoming the von Neumann bottleneck. Herein, fundamental knowledge related to the structures and working principles of neurons and synapses of the biological nervous system is reviewed. An overview is then provided on the development of neuromorphic hardware systems, from artificial synapses and neurons to spike&#8208;based neuromorphic computing platforms. It is hoped that this review will shed new light on the evolution of brain&#8208;like computing.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Neuromorphic Engineering: From Biological to Spike&#8208;Based Hardware Nervous Systems</dc:title>
+      <dc:identifier>doi:10.1002/adma.202003610</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-09T03:35:17-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202003610</prism:doi>
+      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003610?af=R</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202002450?af=R">
       <title>Preintercalation Strategy in Manganese Oxides for Electrochemical Energy Storage: Review and Prospects</title>
       <dc:description>
@@ -3229,61 +3275,6 @@ Raffaele Mezzenga
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202004941</prism:doi>
       <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004941?af=R</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202004111?af=R">
-      <title>Perovskite&#8208;Derivative Valleytronics</title>
-      <dc:description>
-An atomically thin all&#8208;inorganic lead&#8208;free perovskite derivative, Cs3Bi2I9, which exhibits strong light&#8211;matter interaction, is synthesized by the chemical vapor deposition method. Robust optical helicity is observed in all odd&#8208;layer&#8208;number crystals with inversion symmetry breaking, indicating excitonic coherence extending well beyond 11 layers. The excellent optical and valley properties of Cs3Bi2I9 arise from the unique parallel bands, according to first&#8208;principles calculations.
-
-
-
-
-
-
-
-
-Abstract
-Halide perovskites are revolutionizing the renewable energy sector owing to their high photovoltaic efficiency, low manufacturing cost, and flexibility. Their remarkable mobility and long carrier lifetime are also valuable for information technology, but fundamental challenges like poor stability under an electric field prevent realistic applications of halide perovskites in electronics. Here, it is discovered that valleytronics is a promising route to leverage the advantages of halide perovskites and derivatives for information storage and processing. The synthesized all&#8208;inorganic lead&#8208;free perovskite derivative, Cs3Bi2I9, exhibits strong light&#8211;matter interaction and parity&#8208;dependent optically addressable valley degree of freedom. Robust optical helicity in all odd&#8208;layer&#8208;number crystals with inversion symmetry breaking is observed, indicating excitonic coherence extending well beyond 11 layers. The excellent optical and valley properties of Cs3Bi2I9 arise from the unique parallel bands, according to first principles calculations. This discovery points to new materials design principles for scalable valleytronic devices and demonstrates the promise of perovskite derivatives beyond energy applications.
-</dc:description>
-      <dc:creator>
-Jia Liang, 
-Qiyi Fang, 
-Hua Wang, 
-Rui Xu, 
-Shuai Jia, 
-Yuxuan Guan, 
-Qing Ai, 
-Guanhui Gao, 
-Hua Guo, 
-Kaijun Shen, 
-Xiewen Wen, 
-Tanguy Terlier, 
-Gary P. Wiederrecht, 
-Xiaofeng Qian, 
-Hanyu Zhu, 
-Jun Lou
-</dc:creator>
-      <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004111?af=R</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1fb8c8f0-082a-45be-baef-bc9aa3753251/adma202004111-gra-0001-m.png"
-     alt="Perovskite&#8208;Derivative Valleytronics"/&gt;
-&lt;p&gt;An atomically thin all&#8208;inorganic lead&#8208;free perovskite derivative, Cs&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;, which exhibits strong light&#8211;matter interaction, is synthesized by the chemical vapor deposition method. Robust optical helicity is observed in all odd&#8208;layer&#8208;number crystals with inversion symmetry breaking, indicating excitonic coherence extending well beyond 11 layers. The excellent optical and valley properties of Cs&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt; arise from the unique parallel bands, according to first&#8208;principles calculations.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Halide perovskites are revolutionizing the renewable energy sector owing to their high photovoltaic efficiency, low manufacturing cost, and flexibility. Their remarkable mobility and long carrier lifetime are also valuable for information technology, but fundamental challenges like poor stability under an electric field prevent realistic applications of halide perovskites in electronics. Here, it is discovered that valleytronics is a promising route to leverage the advantages of halide perovskites and derivatives for information storage and processing. The synthesized all&#8208;inorganic lead&#8208;free perovskite derivative, Cs&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt;, exhibits strong light&#8211;matter interaction and parity&#8208;dependent optically addressable valley degree of freedom. Robust optical helicity in all odd&#8208;layer&#8208;number crystals with inversion symmetry breaking is observed, indicating excitonic coherence extending well beyond 11 layers. The excellent optical and valley properties of Cs&lt;sub&gt;3&lt;/sub&gt;Bi&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;9&lt;/sub&gt; arise from the unique parallel bands, according to first principles calculations. This discovery points to new materials design principles for scalable valleytronic devices and demonstrates the promise of perovskite derivatives beyond energy applications.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Perovskite&#8208;Derivative Valleytronics</dc:title>
-      <dc:identifier>doi:10.1002/adma.202004111</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-10-25T11:33:57-07:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202004111</prism:doi>
-      <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004111?af=R</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
