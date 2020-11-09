@@ -83,7 +83,10 @@ def updaterss(journal, shortname, url, cdate):
 
     # Create new RSS feed
     with open(f'{shortname}.xml', 'wb') as fout:
-        fout.write(ET.tostring(root).replace(b'www.', b'')) # Deals with Wiley constantly changing links
+        newstring = ET.tostring(root).replace(b'pericles.pericles-prod.literatumonline.com', b'onlinelibrary.wiley.com')
+        newstring = newstring.replace(b'onlinelibrary.wiley.com/doi/abs', b'doi.org')
+        newstring = newstring.replace(b'www.', b'').replace(b'?af=R', b'')
+        fout.write(newstring)) # Deals with Wiley constantly changing links
 
     # Update old article list
     with open(f'{shortname.lower()}_old.csv'.lower(), 'wt', newline = '') as fout:
