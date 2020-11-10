@@ -1,14 +1,24 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://w3.org/1999/02/22-rdf-syntax-ns#">
-   <channel rdf:about="https://onlinelibrary.wiley.com/journal/15213765">
+   <channel rdf:about="https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765">
       <title>Chemistry &#8212; A European Journal (no repeats)</title>
       <description>Table of Contents for Chemistry &#8211; A European Journal. List of articles from both the latest and EarlyView issues.</description>
-      <link>https://onlinelibrary.wiley.com/journal/15213765</link>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765</link>
       <dc:title>Chemistry &#8212; A European Journal (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004408" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002059" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004496" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002942" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004618" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004878" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004535" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004879" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004553" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004335" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004516" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004371" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002952" />
@@ -129,8 +139,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004657" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004273" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004459" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002449" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202002724" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004793" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004311" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004798" />
@@ -161,22 +169,208 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004003" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004712" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003763" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004158" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004682" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003875" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004300" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003950" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003886" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004298" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003700" />
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg">
+   <image rdf:about="https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg">
       <title>Chemistry &#8211; A European Journal</title>
-      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
-      <link>https://onlinelibrary.wiley.com/journal/15213765</link>
+      <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
+      <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202004408">
+      <title>Partnering a three&#8208;coordinate gallium cation with a hydroborate counter&#8208;ion for the catalytic hydrosilylation of CO2</title>
+      <dc:description>A novel &#946;&#8208;diketiminate stabilized gallium hydride, (DippL)Ga(Ad)H (where (DippL) = {HC(MeCDippN)2}, Dipp = 2,6&#8208;diisopropylphenyl and Ad = 1&#8208;adamantyl), has been synthesized and shown to undergo insertion of CO2&#160;into the Ga&#8208;H bond under mild conditions. In this case, treatment of the resulting &#954;1&#8208;formate complex with Et3SiH does not lead to regeneration of the hydride precursor. However, when combined with B(C6F5)3, (DippL)Ga(Ad)H catalyses the reductive hydrosilylation of CO2&#160;. Under stoichiometric conditions, the addition of one equivalent of B(C6F5)3&#160;to (DippL)Ga(Ad)H leads to the formation of a 3&#8208;coordinate cationic gallane complex, partnered with a hydroborate anion, [(DippL)Ga(Ad)][HB(C6F5)3]. This complex rapidly hydrometallates carbon dioxide and catalyses the selective reduction of CO2&#160;to the formaldehyde oxidation level in the presence of Et3SiH (yielding H2C(OSiEt3)2). When catalysis is undertaken in the presence of excess B(C6F5)3, appreciable enhancement in the activity of the system is observed, with a corresponding reduction in selectivity. While this system represents proof&#8208;of&#8208;concept in CO2&#160;hydrosilylation by a gallium hydride system, the TOF values obtained are relatively modest (max. 10 h&#8208;1). This is attributed to the strength of binding of the formatoborate anion to the Ga centre in the intermediate (DippL)Ga(Ad){HC(O)OB(C6F5)3}, and the correspondingly slow rate of the turnover&#8208;limiting hydrosilylation step. In turn, this strength of binding can be related to the relatively high Lewis acidity measured for the [(DippL)Ga(Ad)]+&#160;cation (AN = 69.8).</dc:description>
+      <dc:creator>
+Alexa Caise, 
+Jamie Hicks, 
+M &#193;ngeles Fuentes, 
+Jose Goicoechea, 
+Simon Aldridge
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004408</link>
+      <content:encoded>&lt;p&gt;A novel &#946;&#8208;diketiminate stabilized gallium hydride, (DippL)Ga(Ad)H (where (DippL) = {HC(MeCDippN)2}, Dipp = 2,6&#8208;diisopropylphenyl and Ad = 1&#8208;adamantyl), has been synthesized and shown to undergo insertion of CO2&#160;into the Ga&#8208;H bond under mild conditions. In this case, treatment of the resulting &#954;1&#8208;formate complex with Et3SiH does not lead to regeneration of the hydride precursor. However, when combined with B(C6F5)3, (DippL)Ga(Ad)H catalyses the reductive hydrosilylation of CO2&#160;. Under stoichiometric conditions, the addition of one equivalent of B(C6F5)3&#160;to (DippL)Ga(Ad)H leads to the formation of a 3&#8208;coordinate cationic gallane complex, partnered with a hydroborate anion, [(DippL)Ga(Ad)][HB(C6F5)3]. This complex rapidly hydrometallates carbon dioxide and catalyses the selective reduction of CO2&#160;to the formaldehyde oxidation level in the presence of Et3SiH (yielding H2C(OSiEt3)2). When catalysis is undertaken in the presence of excess B(C6F5)3, appreciable enhancement in the activity of the system is observed, with a corresponding reduction in selectivity. While this system represents proof&#8208;of&#8208;concept in CO2&#160;hydrosilylation by a gallium hydride system, the TOF values obtained are relatively modest (max. 10 h&#8208;1). This is attributed to the strength of binding of the formatoborate anion to the Ga centre in the intermediate (DippL)Ga(Ad){HC(O)OB(C6F5)3}, and the correspondingly slow rate of the turnover&#8208;limiting hydrosilylation step. In turn, this strength of binding can be related to the relatively high Lewis acidity measured for the [(DippL)Ga(Ad)]+&#160;cation (AN = 69.8).&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Partnering a three&#8208;coordinate gallium cation with a hydroborate counter&#8208;ion for the catalytic hydrosilylation of CO2</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004408</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-10T05:14:53-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004408</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004408</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004496">
+      <title>Bifunctional Hydrogen Bond Donor&#8208;Catalyzed Diels&#8208;Alder Reactions:&#160;Origin of Stereoselectivity and Rate Enhancement</title>
+      <dc:description>The selectivity and rate enhancement of bifunctional hydrogen bond donor&#8208;catalyzed Diels&#8208;Alder reactions between cyclopentadiene and acrolein were quantum chemically studied using density functional theory in combination with coupled&#8208;cluster theory. (Thio)ureas render the studied Diels&#8208;Alder cycloaddition reactions&#160;  exo  &#160;selective and induce a significant acceleration of this process by lowering the reaction barrier by up to 7 kcal mol  &#8208;1  . Our activation strain and Kohn&#8208;Sham molecular orbital analyses uncover that these organocatalysts enhance the Diels&#8208;Alder reactivity by reducing the Pauli repulsion between the closed&#8208;shell filled&#160; &#960; &#8208;orbitals of the diene and dienophile, by polarizing the&#160; &#960; &#8208;orbitals away from the reactive center and not by making the orbital interactions between the reactants stronger. In addition, we establish that the unprecedented&#160;  exo  &#160;selectivity of the hydrogen bond donor&#8208;catalyzed Diels&#8208;Alder reactions is directly related to the larger degree of asynchronicity along this reaction pathway, which is manifested in a relief of destabilizing activation strain and Pauli repulsion.</dc:description>
+      <dc:creator>
+Pascal Vermeeren, 
+Trevor  A. Hamlin, 
+F.  Matthias Bickelhaupt, 
+Israel Fern&#225;ndez
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004496</link>
+      <content:encoded>&lt;p&gt;The selectivity and rate enhancement of bifunctional hydrogen bond donor&#8208;catalyzed Diels&#8208;Alder reactions between cyclopentadiene and acrolein were quantum chemically studied using density functional theory in combination with coupled&#8208;cluster theory. (Thio)ureas render the studied Diels&#8208;Alder cycloaddition reactions&#160;  exo  &#160;selective and induce a significant acceleration of this process by lowering the reaction barrier by up to 7 kcal mol  &#8208;1  . Our activation strain and Kohn&#8208;Sham molecular orbital analyses uncover that these organocatalysts enhance the Diels&#8208;Alder reactivity by reducing the Pauli repulsion between the closed&#8208;shell filled&#160; &#960; &#8208;orbitals of the diene and dienophile, by polarizing the&#160; &#960; &#8208;orbitals away from the reactive center and not by making the orbital interactions between the reactants stronger. In addition, we establish that the unprecedented&#160;  exo  &#160;selectivity of the hydrogen bond donor&#8208;catalyzed Diels&#8208;Alder reactions is directly related to the larger degree of asynchronicity along this reaction pathway, which is manifested in a relief of destabilizing activation strain and Pauli repulsion.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Bifunctional Hydrogen Bond Donor&#8208;Catalyzed Diels&#8208;Alder Reactions:&#160;Origin of Stereoselectivity and Rate Enhancement</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004496</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-10T03:04:07-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004496</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004496</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004618">
+      <title>Synergetic effect of Mo6 clusters and gold nanoparticles on photophysical properties of both components</title>
+      <dc:description>Photodynamic (PDT) and photothermal (PTT) therapies are very promising candidates for multimodal anticancer therapies (i.e. combination of therapies) since their action is based on almost irresistible by cancer cells mechanisms, namely on generation of highly oxidizing oxygen species or high temperature, respectively. In present work, we report hybrid materials that combine octahedral molybdenum clusters as potential PDT agents and plasmonic spherical gold nanoparticles (AuNPs) as PTT agents. Partial overlap of the clusters&#8217; photoemission spectra and AuNPs surface plasmon resonance band facilitate energy transfer between the photoactive components, which resulted in synergetic enhancement of their photophysical properties. Specifically, by careful selection of spacing between the cluster and the gold nanoparticle, we achieved significant increase in luminescence and photosensitizing properties of the cluster in comparison to similar, but gold&#8208;free particles. On the other hand, cluster complex facilitated the energy conversion into heat by gold particles leading to the increase in heating rate under laser irradiation.</dc:description>
+      <dc:creator>
+Evgeniya  D. Novikova, 
+Yuri  A. Vorotnikov, 
+Nazar  A. Nikolaev, 
+Alphiya  R. Tsygankova, 
+Michael  A. Shestopalov, 
+Olga  A. Efremova
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004618</link>
+      <content:encoded>&lt;p&gt;Photodynamic (PDT) and photothermal (PTT) therapies are very promising candidates for multimodal anticancer therapies (i.e. combination of therapies) since their action is based on almost irresistible by cancer cells mechanisms, namely on generation of highly oxidizing oxygen species or high temperature, respectively. In present work, we report hybrid materials that combine octahedral molybdenum clusters as potential PDT agents and plasmonic spherical gold nanoparticles (AuNPs) as PTT agents. Partial overlap of the clusters&#8217; photoemission spectra and AuNPs surface plasmon resonance band facilitate energy transfer between the photoactive components, which resulted in synergetic enhancement of their photophysical properties. Specifically, by careful selection of spacing between the cluster and the gold nanoparticle, we achieved significant increase in luminescence and photosensitizing properties of the cluster in comparison to similar, but gold&#8208;free particles. On the other hand, cluster complex facilitated the energy conversion into heat by gold particles leading to the increase in heating rate under laser irradiation.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Synergetic effect of Mo6 clusters and gold nanoparticles on photophysical properties of both components</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004618</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-10T02:35:18-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004618</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004618</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004878">
+      <title>An Aldehyde Responsive, Cleavable Linker for Glucose Responsive Insulins</title>
+      <dc:description>A glucose responsive insulin (GRI) that responds to changes&#160; in blood glucose concentrations&#160;has&#160;remained an elusive goal. Here we describe the development of glucose cleavable linkers based on hydrazone and&#160;thiazolidine structures. We developed linkers withlow levels of spontaneous hydrolysis but increased level of hydrolysis with rising concentrations of glucose, which demonstrated their glucose responsiveness&#160; in vitro . Lipidated hydrazones and thiazolidines were conjugated to the LysB29 side&#8208;chain of HI by pH&#8208;controlled acylations providing GRIs with glucose responsiveness confirmed&#160; in vitro for thiazolidines. Clamp studies showed increased glucose infusion at hyperglycemic conditions for one GRI indicative of a true glucose response. The glucose responsive cleavable linker in these GRIs allow changes in glucose levels to drive the release of active insulin from a circulating depot. We have demonstrated an unprecedented, chemically responsive linker concept for biopharmaceuticals.</dc:description>
+      <dc:creator>
+Knud  J. Jensen, 
+Karin Mannerstedt, 
+Narendra  Kumar MIshra, 
+Ebbe Engholm, 
+Morten Lundh, 
+Charlotte  Stahl Madsen, 
+Philip  J Pedersen, 
+Priska Le-Huu, 
+S&#248;ren  L Pedersen, 
+Nina Buch-M&#229;nson, 
+Bj&#246;rn Borgstr&#246;m, 
+Thomas Brimert, 
+Lisbeth  N Fink, 
+Keld Fosgerau, 
+Niels Vrang
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004878</link>
+      <content:encoded>&lt;p&gt;A glucose responsive insulin (GRI) that responds to changes&#160; in blood glucose concentrations&#160;has&#160;remained an elusive goal. Here we describe the development of glucose cleavable linkers based on hydrazone and&#160;thiazolidine structures. We developed linkers withlow levels of spontaneous hydrolysis but increased level of hydrolysis with rising concentrations of glucose, which demonstrated their glucose responsiveness&#160; in vitro . Lipidated hydrazones and thiazolidines were conjugated to the LysB29 side&#8208;chain of HI by pH&#8208;controlled acylations providing GRIs with glucose responsiveness confirmed&#160; in vitro for thiazolidines. Clamp studies showed increased glucose infusion at hyperglycemic conditions for one GRI indicative of a true glucose response. The glucose responsive cleavable linker in these GRIs allow changes in glucose levels to drive the release of active insulin from a circulating depot. We have demonstrated an unprecedented, chemically responsive linker concept for biopharmaceuticals.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>An Aldehyde Responsive, Cleavable Linker for Glucose Responsive Insulins</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004878</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-10T01:11:57-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004878</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004878</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004535">
+      <title>N,S&#8208;Codoped Porous Carbon Nanofiber Films Derived from Fullerenes (C60) as Efficient Electrocatalysts for Oxygen Reduction and Zn&#8208;Air Battery</title>
+      <dc:description>Developing highly efficient metal&#8208;free electrocatalysts for oxygen reduction reaction (ORR) has attracted great attention for creation of electrochemical energy devices. In this study, one&#8208;dimensional (1D) fullerene nanofibers prepared from liquid&#8208;liquid interfacial precipitation were first fabricated into fullerene&#8208;derived carbon nanofiber films (FCNFs) via a simple filtration procedure, and then pyrolysis of FCNFs in the presence of ammonia and sulfur produced N&#8208; and S&#8208; co&#8208;doped porous carbon nanofiber films (N,S&#8208;PCNFs). As excellent metal&#8208;free electrocatalysts for ORR, N,S&#8208;PCNFs exhibit remarkable catalytic activity, superior stability and excellent methanol tolerance in both alkaline and acidic solution. Such a high ORR performance benefits from the robust porous nanofiber network structure with high concentrations of active N&#8208; and S&#8208; groups and abundant defects. Notably, when N,S&#8208;PCNFs are practically used as catalysts in a Zn&#8208;air battery, a high power density and a large operating voltage have been achieved, a performance comparable to that of the commercial Pt/C catalyst. This work presents a facile strategy for the creation of a new class of energy nanomaterials based on fullerenes, demonstrating their practical uses in electrocatalytic ORR processes and Zn&#8208;air batteries.</dc:description>
+      <dc:creator>
+Xing Lu, 
+Zhimin He, 
+Peng Wei, 
+Ning Chen, 
+Jiantao Han
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004535</link>
+      <content:encoded>&lt;p&gt;Developing highly efficient metal&#8208;free electrocatalysts for oxygen reduction reaction (ORR) has attracted great attention for creation of electrochemical energy devices. In this study, one&#8208;dimensional (1D) fullerene nanofibers prepared from liquid&#8208;liquid interfacial precipitation were first fabricated into fullerene&#8208;derived carbon nanofiber films (FCNFs) via a simple filtration procedure, and then pyrolysis of FCNFs in the presence of ammonia and sulfur produced N&#8208; and S&#8208; co&#8208;doped porous carbon nanofiber films (N,S&#8208;PCNFs). As excellent metal&#8208;free electrocatalysts for ORR, N,S&#8208;PCNFs exhibit remarkable catalytic activity, superior stability and excellent methanol tolerance in both alkaline and acidic solution. Such a high ORR performance benefits from the robust porous nanofiber network structure with high concentrations of active N&#8208; and S&#8208; groups and abundant defects. Notably, when N,S&#8208;PCNFs are practically used as catalysts in a Zn&#8208;air battery, a high power density and a large operating voltage have been achieved, a performance comparable to that of the commercial Pt/C catalyst. This work presents a facile strategy for the creation of a new class of energy nanomaterials based on fullerenes, demonstrating their practical uses in electrocatalytic ORR processes and Zn&#8208;air batteries.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>N,S&#8208;Codoped Porous Carbon Nanofiber Films Derived from Fullerenes (C60) as Efficient Electrocatalysts for Oxygen Reduction and Zn&#8208;Air Battery</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004535</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-09T11:39:15-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004535</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004535</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004879">
+      <title>Indol&#8208;2&#8208;ylidene (IdY): Ambiphilic N&#8208;heterocyclic Carbene Derived from Indole</title>
+      <dc:description>The synthesis of ambiphilic N&#8208;heterocyclic carbene ligand, indol&#8208;2&#8208;ylidene (IdY, A ), is described, as a series of indolenium precursors ( 2a &#8208; f ) were prepared on a gram scale in good yields. Trapping experiments with elemental selenium, [RhCl(cod)] 2 and CuCl provided the expected carbene adducts. Further computational and spectroscopic studies supported the ambiphilicity of IdY, which lies between Cyclic (alkyl)(amino)carbenes (CAAC&#8208;5) and cyclic (Amino)(aryl)carbene (CAArC). The copper complexes ( 6 ) show high percent buried volume (%V bur = 58.1) and allow for carboboration of terminal alkynes within 30 minutes in a demonstration of synthetic utility with good yields and high regioselectivity.</dc:description>
+      <dc:creator>
+Hyunho Kim, 
+Minseop Kim, 
+Hayoung Song, 
+Eunsung Lee
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004879</link>
+      <content:encoded>&lt;p&gt;The synthesis of ambiphilic N&#8208;heterocyclic carbene ligand, indol&#8208;2&#8208;ylidene (IdY, A ), is described, as a series of indolenium precursors ( 2a &#8208; f ) were prepared on a gram scale in good yields. Trapping experiments with elemental selenium, [RhCl(cod)] 2 and CuCl provided the expected carbene adducts. Further computational and spectroscopic studies supported the ambiphilicity of IdY, which lies between Cyclic (alkyl)(amino)carbenes (CAAC&#8208;5) and cyclic (Amino)(aryl)carbene (CAArC). The copper complexes ( 6 ) show high percent buried volume (%V bur = 58.1) and allow for carboboration of terminal alkynes within 30 minutes in a demonstration of synthetic utility with good yields and high regioselectivity.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Indol&#8208;2&#8208;ylidene (IdY): Ambiphilic N&#8208;heterocyclic Carbene Derived from Indole</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004879</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-09T10:06:08-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004879</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004879</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004553">
+      <title>Organocatalytic Cascade Reactions for the Diversification of Thiopyrano&#8208;Piperidone Fused Rings via Trienamine Activation.</title>
+      <dc:description>We report an Aminocatalytic privileged Diversity&#8208;Oriented Synthesis (ApDOS) strategy via trienamine catalysis for the construction of diverse and complex thiopyrans&#8208;piperidone fused rings through a thia&#8208;Diels&#8211;Alder/nucleophilic ring closing sequence by using dithioamides as activated heterodienophiles. Following this strategy, a super cascade reaction to assemble nine fused rings can be achieved by employing a bis&#8208;dithioamide. Additionally, by linking an indole moiety on the dithioamide, a Pictet&#8208;Spengler type reaction can be promoted once the cascade sequence has been achieved, leading to more complex penta&#8208; hexa&#8208; and heptacyclic fused ring derivatives in a one&#8208;pot process. This investigation, open new perspectives for the synthesis of a new class of complex and diverse thiopyrans, which contribute to populate new relevant regions in the chemical space.</dc:description>
+      <dc:creator>
+Suhas  Balasaheb Mitkari, 
+Alberto Medina-Ort&#237;z, 
+Jos&#233;  Luis Olivares-Romero, 
+Miguel  A. V&#225;zquez, 
+Eduardo Pe&#241;a-Cabrera, 
+Clarisa Villegas G&#243;mez, 
+David Cruz Cruz
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004553</link>
+      <content:encoded>&lt;p&gt;We report an Aminocatalytic privileged Diversity&#8208;Oriented Synthesis (ApDOS) strategy via trienamine catalysis for the construction of diverse and complex thiopyrans&#8208;piperidone fused rings through a thia&#8208;Diels&#8211;Alder/nucleophilic ring closing sequence by using dithioamides as activated heterodienophiles. Following this strategy, a super cascade reaction to assemble nine fused rings can be achieved by employing a bis&#8208;dithioamide. Additionally, by linking an indole moiety on the dithioamide, a Pictet&#8208;Spengler type reaction can be promoted once the cascade sequence has been achieved, leading to more complex penta&#8208; hexa&#8208; and heptacyclic fused ring derivatives in a one&#8208;pot process. This investigation, open new perspectives for the synthesis of a new class of complex and diverse thiopyrans, which contribute to populate new relevant regions in the chemical space.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Organocatalytic Cascade Reactions for the Diversification of Thiopyrano&#8208;Piperidone Fused Rings via Trienamine Activation.</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004553</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-09T07:12:38-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004553</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004553</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004335">
+      <title>Construction of Hyaluronic Acid Covered Hierarchically Porous MIL&#8208;nanoMOF for Loading and Controlled Release of Doxorubicin</title>
+      <dc:description>The porous nano&#8208;sized metal organic framework (nanoMOF) and its proper surface modification could greatly promote the drug loading capability and introduce biocompatibility, biodegradability, and targeting functions into nano&#8208;drug delivery systems. Herein, the HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P nanoparticle was successfully fabricated through supramolecular and coordination interactions from three building blocks, including hierarchically porous MIL&#8208;101_NH2 (Fe)&#8208;P nanoMOF, phosphite modified adamantane (ADA&#8208;PA), and &#946;&#8208;cyclodextrin modified hyaluronic acid (HACD). The obtained HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P nanoparticle was nano&#8208;sized and highly stable in physiological fluids. Then, the porous structure of HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P nanoparticle could effectively load commercial chemotherapeutic drug doxorubicin (DOX) with encapsulation rate as 41.20% and loading rate as 48.84%. The obtained drug loaded HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P@DOX nanoparticle was pH&#8208;sensitive and relatively stable at neutral condition (pH = 7.2), but could release DOX in controlled way at subacid solution at pH = 5.7. The simulated in vitroDOX release experiment signified that the HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P@DOX nanoparticle could realize the controlled release of DOX in tumor issues.</dc:description>
+      <dc:creator>
+Yang Yang, 
+Yi-Ran Yao, 
+Ya-Jun Jin, 
+Xin Jia
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004335</link>
+      <content:encoded>&lt;p&gt;The porous nano&#8208;sized metal organic framework (nanoMOF) and its proper surface modification could greatly promote the drug loading capability and introduce biocompatibility, biodegradability, and targeting functions into nano&#8208;drug delivery systems. Herein, the HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P nanoparticle was successfully fabricated through supramolecular and coordination interactions from three building blocks, including hierarchically porous MIL&#8208;101_NH2 (Fe)&#8208;P nanoMOF, phosphite modified adamantane (ADA&#8208;PA), and &#946;&#8208;cyclodextrin modified hyaluronic acid (HACD). The obtained HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P nanoparticle was nano&#8208;sized and highly stable in physiological fluids. Then, the porous structure of HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P nanoparticle could effectively load commercial chemotherapeutic drug doxorubicin (DOX) with encapsulation rate as 41.20% and loading rate as 48.84%. The obtained drug loaded HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P@DOX nanoparticle was pH&#8208;sensitive and relatively stable at neutral condition (pH = 7.2), but could release DOX in controlled way at subacid solution at pH = 5.7. The simulated in vitroDOX release experiment signified that the HACD@ADA&#8208;PA/MIL&#8208;101_NH2 (Fe)&#8208;P@DOX nanoparticle could realize the controlled release of DOX in tumor issues.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Construction of Hyaluronic Acid Covered Hierarchically Porous MIL&#8208;nanoMOF for Loading and Controlled Release of Doxorubicin</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004335</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-11-09T07:10:07-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004335</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004335</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202004516">
       <title>Selective formation of polyaniline confined in the nanopores of a metal&#8211;organic framework for supercapacitors</title>
       <dc:description>In this study, a strategy that can result in the polyaniline (PANI) solely confined within the nanopores of a metal&#8211;organic framework (MOF) without forming obvious bulk PANI between MOF crystals is developed. A water&#8208;stable zirconium&#8208;based MOF, UiO&#8208;66&#8208;NH  2  , is selected as the MOF material. The polymerization of aniline is initiated in the acidic suspension of UiO&#8208;66&#8208;NH  2  nanocrystals in the presence of excess poly(sodium 4&#8208;styrenesulfonate) (PSS). Since the pore size of UiO&#8208;66&#8208;NH  2  is too small to enable the insertion of the bulky PSS, the quick formation of pore&#8208;confined solid PANI and the slower formation of well dispersed PANI:PSS occur within the MOF crystals and in the bulk solution, respectively. By taking advantage of the resulting homogeneous PANI:PSS polymer solution, the bulk PANI:PSS can be removed from the PANI/UiO&#8208;66&#8208;NH  2  solid by successive washing the sample with fresh acidic solutions through centrifugation. As this is the first time reporting the PANI solely confined in the pores of a MOF, as a demonstration, the obtained PANI/UiO&#8208;66&#8208;NH  2  composite material is applied as the electrode material for supercapacitors. The PANI/UiO&#8208;66&#8208;NH  2  thin films exhibit a pseudocapacitive electrochemical characteristic, and their resulting electrochemical activity and charge&#8208;storage capacities are remarkably higher than those of the bulk PANI thin films.</dc:description>
@@ -190,7 +384,7 @@ Yu-Juan Gu,
 Cheng-Hsun Chuang, 
 Chung-Wei Kung
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004516</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004516</link>
       <content:encoded>&lt;p&gt;In this study, a strategy that can result in the polyaniline (PANI) solely confined within the nanopores of a metal&#8211;organic framework (MOF) without forming obvious bulk PANI between MOF crystals is developed. A water&#8208;stable zirconium&#8208;based MOF, UiO&#8208;66&#8208;NH  2  , is selected as the MOF material. The polymerization of aniline is initiated in the acidic suspension of UiO&#8208;66&#8208;NH  2  nanocrystals in the presence of excess poly(sodium 4&#8208;styrenesulfonate) (PSS). Since the pore size of UiO&#8208;66&#8208;NH  2  is too small to enable the insertion of the bulky PSS, the quick formation of pore&#8208;confined solid PANI and the slower formation of well dispersed PANI:PSS occur within the MOF crystals and in the bulk solution, respectively. By taking advantage of the resulting homogeneous PANI:PSS polymer solution, the bulk PANI:PSS can be removed from the PANI/UiO&#8208;66&#8208;NH  2  solid by successive washing the sample with fresh acidic solutions through centrifugation. As this is the first time reporting the PANI solely confined in the pores of a MOF, as a demonstration, the obtained PANI/UiO&#8208;66&#8208;NH  2  composite material is applied as the electrode material for supercapacitors. The PANI/UiO&#8208;66&#8208;NH  2  thin films exhibit a pseudocapacitive electrochemical characteristic, and their resulting electrochemical activity and charge&#8208;storage capacities are remarkably higher than those of the bulk PANI thin films.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Selective formation of polyaniline confined in the nanopores of a metal&#8211;organic framework for supercapacitors</dc:title>
@@ -199,7 +393,7 @@ Chung-Wei Kung
       <dc:date>2020-11-09T08:34:32-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004516</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004516</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004516</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -218,7 +412,7 @@ Sheng Han,
 Fan Zhang, 
 Xiaodong Zhuang
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004371</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004371</link>
       <content:encoded>&lt;p&gt;Transition metal&#8211;based nanoparticle&#8208;embedded carbon materials have received increasing attention for constructing next&#8208;generation electrochemical catalysts for energy storage and conversion. However, designing hybrid carbon materials with controllable hierarchical micro/mesoporous structures, excellent dispersion of metal nanoparticles, and multiple heteroatom&#8208;doping remains challenging. Here, a novel pyridinium&#8208;containing ionic hypercrosslinked micellar frameworks (IHMFs) prepared from the core&#8211;shell unimicelle of  s  &#8208;poly(tert&#8208;butyl acrylate)&#8208;  b  &#8208;poly(4&#8208;bromomethyl) styrene (  s  &#8208;PtBA&#8208;  b  &#8208;PBMS) and linear poly(4&#8208;vinylpyridine) were used as self&#8208;sacrificial templates for confined growth of molybdenum disulfide (MoS  2  ) inside cationic IHMFs through electrostatic interaction. After pyrolysis, MoS  2  &#8208;anchored nitrogen&#8208;doped porous carbons possessing tunable hierarchical micro/mesoporous structures and favorable distributions of MoS  2  nanoparticles exhibited excellent electrocatalytic activity for hydrogen evolution reaction as well as small Tafel slope of 66.7 mV dec  &#8722;1  , low onset potential, and excellent cycling stability under acidic condition. Crucially, hierarchical micro/mesoporous structure and high surface area could boost their catalytic hydrogen evolution performance. Our approach provides a novel route for preparation of micro/mesoporous hybrid carbon materials with confined transition metal nanoparticles for electrochemical energy conversion.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Self&#8208;Assembly Approach towards MoS2&#8208;Embedded Hierarchical Porous Carbons for Enhanced Electrocatalytic Hydrogen Evolution</dc:title>
@@ -227,7 +421,7 @@ Xiaodong Zhuang
       <dc:date>2020-11-09T06:45:00-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004371</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004371</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004371</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -251,8 +445,8 @@ Siowwoon Ng,
 Christian Iffelsberger, 
 Martin Pumera
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004250</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c7827d9d-7bbc-4c6a-b9d1-3212ce78350c/chem202004250-toc-0001-m.png"
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004250</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/c7827d9d-7bbc-4c6a-b9d1-3212ce78350c/chem202004250-toc-0001-m.png"
      alt="Inherent Impurities in Graphene/Polylactic Acid Filament Strongly Influence on the Capacitive Performance of 3D&#8208;Printed Electrode"/&gt;
 &lt;p&gt;&lt;b&gt;Positive impurities&lt;/b&gt;: Inherent impurities, TiO&lt;sub&gt;2&lt;/sub&gt; and Fe&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; were found in commercial conductive graphene/PLA filaments used in the printing of 3D&#8208;electrodes by a fused deposition modeling technique. These additives contributed towards pseudocapacitive charge storage kinetics of the 3D&#8208;printed electrodes and dramatically enhanced the overall capacitance.
 
@@ -268,7 +462,7 @@ Martin Pumera
       <dc:date>2020-11-09T06:28:07-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004250</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004250</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004250</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -289,8 +483,8 @@ Lochmann&#8211;Schlosser superbases (LSB) are a standard reagent in synthetic ch
       <dc:creator>
 Jan Klett
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202002812</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6f64b620-bf2b-4c33-b7e5-fc85b0a1e7a1/chem202002812-toc-0001-m.png"
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202002812</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/6f64b620-bf2b-4c33-b7e5-fc85b0a1e7a1/chem202002812-toc-0001-m.png"
      alt="Structural Motifs of Alkali Metal Superbases in Non&#8208;coordinating Solvents"/&gt;
 &lt;p&gt;&lt;b&gt;Navigating&lt;/b&gt; in treacherous but treasure&#8208;laden seas where alkyllithium and potassium alkoxides were discovered by Lochmann and Schlosser mix. Little is known about the uncharted areas away from the well&#8208;known coastal regions of the starting materials. Many molecular vessels were precipitated and lost here. Progress was finally made by careful hopping from molecular island to island.
 
@@ -306,7 +500,7 @@ Jan Klett
       <dc:date>2020-11-09T06:24:17-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202002812</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202002812</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202002812</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -320,7 +514,7 @@ Shunsuke Hirose,
 Yasuyuki Ueda, 
 Hidehiro Uekusa
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004510</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004510</link>
       <content:encoded>&lt;p&gt;T hermal isomerization of cyclobutaphenanthrene to&#160; o &#8208; quinodimethane was investigated. Sterically congested substituents or electron&#8208;donating substituents on the four&#8208;membered ring promoted the ring&#8208;opening, affording&#160; o &#8208; quinodimethane in a relatively stable form. Isolation of the newly prepared&#160; o &#8208; quinodimethane allowed its structural elucidation and investigation of its potential reactivities. Dual [4+2] cycloaddition of an aryne and&#160; o &#8208; quinodimethane afforded tetrabenzopentacene, demonstrating the synthetic application of the isolated compound.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Thermodynamically Stable&#160;o&#8208;Quinodimethane: Synthesis, Structure, and Reactivity</dc:title>
@@ -329,7 +523,7 @@ Hidehiro Uekusa
       <dc:date>2020-11-06T11:25:32-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004510</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004510</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004510</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -343,7 +537,7 @@ Sho Fujii,
 Kosei Ueno, 
 Masaya Sawamura
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004053</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004053</link>
       <content:encoded>&lt;p&gt;Newly developed&#160;2,2&#8217;&#8208;bipyridine ligands (dsbpys) having dumbbell&#8208;like shapes with differently substituted triarylmethyl groups at the C5 and C5&#8217; positions&#160;showed high ligand performance in the Ni&#8208;catalyzed cross&#8208;electrophile coupling and the&#160;Ni/photoredox&#8208;synergistically catalyzed&#160;decarboxylative coupling reactions. The superior ligand effects of dsbpys compared to the conventional bpy ligands were attributed to the monochelating nature of dsbpys.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Dumbbell&#8208;Shaped 2,2&#8217;&#8208;Bipyridines: Controlled Metal Monochelation and Application to Ni&#8208;Catalyzed Cross&#8208;Couplings</dc:title>
@@ -352,7 +546,7 @@ Masaya Sawamura
       <dc:date>2020-11-06T10:56:37-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004053</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004053</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004053</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -365,7 +559,7 @@ Yulong Kuang,
 Jie Wu, 
 Shao  Q. Yao
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004373</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004373</link>
       <content:encoded>&lt;p&gt;Comprehensive investigation of target interactions from native cellular environments is of paramount importance for natural products and related bioactive compounds in drug discovery and chemical biology. Current chemoproteomic tools such as in situ proteome profiling can do so effectively, but rely heavily on &#8220;tagged&#8217; probes accessible through traditional organic synthesis at a compound&#8217;s reactive sites required for target binding. Late&#8208;stage functionalization may resolve such limitations by &#8220;tagging&#8221; compounds in a single step at biologically inert C&#8208;H bonds. In this viewpoint, we summarize recent advancements in late&#8208;stage C(sp  2  )&#8208;H functionalization of (hetero)arenes, which are present in many natural products, followed by suggesting new toolkits for more wide&#8208;spread use of such strategies to install natural products with next&#8208;generation &#8220;minimalist&#8221; linkers for in situ proteome profiling.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Late&#8208;stage C(sp2)&#8208;H Functionalization: A Powerful Toolkit to Arm Natural Products for In Situ Proteome Profiling?</dc:title>
@@ -374,7 +568,7 @@ Shao  Q. Yao
       <dc:date>2020-11-06T02:54:07-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004373</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004373</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004373</prism:url>
       <prism:copyright />
       <prism:section>Concept</prism:section>
    </item>
@@ -388,7 +582,7 @@ Helena Armendol-Relats,
 Hanna Bruss, 
 Maria Besora
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004237</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004237</link>
       <content:encoded>&lt;p&gt;The nature of cyclopropyl gold(I) carbene&#8208;type intermediates has been reexamined as part of a mechanistic study on the formation of&#160;  cis  &#8208; or&#160;  trans  &#8208;fused bicyclo[5.1.0]octanes in a gold(I)&#8208;catalyzed cascade reaction. Benchmark of DFT methods together with QTAIM theory and NBO analysis confirms the formation of distinct intermediates with carbenic or carbocationic structures in the cycloisomerizations of 1,6&#8208;enynes.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>On the Structure of Intermediates in Enyne Gold(I)&#8208;Catalyzed Cyclizations: Formation of&#160;trans&#8208;Fused Bicyclo[5.1.0]octanes&#160;as a Case Study</dc:title>
@@ -397,7 +591,7 @@ Maria Besora
       <dc:date>2020-11-06T01:21:00-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004237</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004237</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004237</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -412,7 +606,7 @@ Zitao Chen,
 Miaofang Chi, 
 Younan Xia
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004104</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004104</link>
       <content:encoded>&lt;p&gt;Noble&#8208;metal nanocrystals with anisotropic shapes have received increasing interest owing to their unique properties. Here we report a facile route to the preparation of Pt nanobars with aspect ratios tunable up to 2.1 by simply reducing a Pt  (IV)  precursor in  N,N  &#8208;dimethylformamide (DMF) at 160 &#176;C in the presence of poly (vinyl pyrrolidone) (PVP). In addition to its commonly observed roles as a solvent and a reductant, DMF could also decompose to generate CO, a capping agent capable of selectively passivating Pt{100} facets to promote the formation of nanobars. The size and aspect ratio of the nanobars could be tuned by varying the amount of Pt  (IV)  precursor involved in the synthesis, as well as the concentration of PVP because of its dual roles as a stabilizer and a co&#8208;reductant. Our mechanistic study indicated that the anisotropic growth resulted from both particle coalescence and localized oxidative etching followed by preferential growth.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>A Simple Route to the Synthesis of Pt Nanobars and the Mechanistic Understanding of Symmetry Reduction</dc:title>
@@ -421,7 +615,7 @@ Younan Xia
       <dc:date>2020-11-05T11:44:17-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004104</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004104</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004104</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -440,7 +634,7 @@ Susana  S. Braga,
 Jo&#227;o Rocha, 
 Filipe  A. Almeida Paz
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004529</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004529</link>
       <content:encoded>&lt;p&gt;Osteoporosis, Paget&#8217;s disease and osteosarcoma are a few examples of bone tissue disorders that affect millions of people worldwide. These conditions can strictly limit the lifestyle of patients and may even lead to their demise. To prevent this or, at least, try to manage the situation, there are several treatments available on the market. Notwithstanding, research has been driven by the possibility to improve the existing therapies, as well as to find new approaches that could better respond to these diseases.
 
 In this review it is shown the path through which, in recent years, coordination compounds have been prepared and manufactured to be applied in the management of bone tissue disorders. Starting with the design and preparation of the coordination compounds with various dimensionalities, two approaches have been used: (1) they are prepared as three&#8208;dimensional cages that can act as delivery systems for therapeutic substances, or (2) they are constructed/prepared from compounds with intrinsic therapeutic properties. Following this, several strategies have been explored to manufacture the effective delivery to the patients. The versatility of coordination compounds has allowed their use in the preparation of drug tablets, coatings for titanium implants, or even scaffolds for bone tissue engineering. In the end, it becomes clear that these compounds can be a valuable approach to reach a better treatment for bone tissue disorders. Nonetheless, along the road, a few bumps have appeared concerning the therapeutic profile, such as the effect of the structural arrangement or particle size.&lt;/p&gt;</content:encoded>
@@ -451,7 +645,7 @@ In this review it is shown the path through which, in recent years, coordination
       <dc:date>2020-11-05T07:46:38-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004529</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004529</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004529</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -469,7 +663,7 @@ Zhifang Chai,
 Changming Nie, 
 Wei-Qun Shi
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004344</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004344</link>
       <content:encoded>&lt;p&gt;Starting from a bifunctional ligand Hcptpy (  4&#8217;&#8208;(4&#8208;carboxyphenyl)&#8208;2,2&#8217;:6&#8217;,2&#8217;&#8217;&#8208;terpyridine  ), we report six novel hybrid bimetallic uranyl compounds [UO  2  Ni(cptpy)  2  (HCOO)  2  (DMF)(H  2  O)] (  1  ), [UO  2  Ni(cptpy)  2  (BTPA)  2  ] (  2  ), [UO  2  Fe(cptpy)  2  (HCOO)  2  (DMF)(H  2  O)] (  3  ), [UO  2  Fe(cptpy)  2  (BTPA)  2  ] (  4  ), [UO  2  Co(cptpy)  2  (HCOO)  2  (DMF)(H  2  O)] (  5  ), [UO  2  Co(cptpy)  2  (BTPA)  2  ] (  6  ), all of which feature a terpyridine&#8208;metalloligand M(cptpy)  2  with varying metal node (M = Ni, Fe, Co) resembling a lengthened linear dicarboxylic ligand with distance of 22.12 &#197;. Compounds  1  ,  3  and  5  are isomorphic compounds with one&#8208;dimensional (1D) chain structures. The adjacent 1D chains are connected together via hydrogen bonds and &#960;&#8208;&#960; interactions to form a 3D porous structure, which is filled with solvent molecules and can be exchanged by I  2  . Similarly, compounds  2  ,  4  and  6  are also isomers featuring 2D honeycomb (6, 3) networks with the size of each hexagonal unit of 41.91 &#215; 26.89 &#197;, recording the largest one among the uranyl compounds with regard to honeycomb network. The large aperture allows two sets of equivalent networks which are entangled together, resulting in a 2D + 2D &#8594; 3D polycatenated framework. Remarkably, these uranyl compounds exhibits a high catalytic activity for cycloaddition of carbon dioxide. Moreover, the geometric and electronic structures of compounds  1  and  2  are systematically discussed through density functional theory (DFT) calculations.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Construction of Hybrid Bimetallic Uranyl Compounds Based on a Preassembled Terpyridine&#8208;Metalloligand</dc:title>
@@ -478,7 +672,7 @@ Wei-Qun Shi
       <dc:date>2020-11-05T06:17:51-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004344</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004344</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004344</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -493,7 +687,7 @@ Jiwei Tong,
 Wei Wang, 
 Yuqiao Wang
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004225</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004225</link>
       <content:encoded>&lt;p&gt;The behavior of electron transfer and ion transport plays a significant role in the electrocatalytic activity. However, the improvement of CuCo  2  S  4  electrocatalytic activity has been a difficult problem lacking of effective electron transfer and ion transport. Herein, the unique structure connects CuCo  2  S  4  nanosheets and carbon cloth (CC) with Fe  2  O  3  nanoparticles to form CuCo  2  S  4  /Fe  2  O  3  /CC. Compared with CuCo  2  S  4  /CC, the resistances of electron transfer and ion transport are decreased by 65% and 84% respectively. The electrochemical surface area of CuCo  2  S  4  /Fe  2  O  3  /CC is 2.76 times larger than that of CuCo  2  S  4  /CC due to the high double layer capacitance. For an oxygen evolution reaction, CuCo  2  S  4  /Fe  2  O  3  /CC can achieve an overpotential of 273 mV and a Tafel slope of 67 mV&#183;dec  &#8208;1  in alkaline solution.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Enhanced electron transfer and ion transport by binary and multidimensional CuCo2S4/Fe2O3 on carbon cloth for water oxidation</dc:title>
@@ -502,7 +696,7 @@ Yuqiao Wang
       <dc:date>2020-11-05T03:33:07-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004225</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004225</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004225</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -517,7 +711,7 @@ Andrea Maranzana,
 Vito Capriati, 
 Marco Blangetti
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004840</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004840</link>
       <content:encoded>&lt;p&gt;We report that the nucleophilic acyl substitution reaction of aliphatic and (hetero)aromatic amides by organolithium reagents proceeds quickly (20 s reaction time), efficiently, and chemoselectively with a broad substrate scope in the environmentally responsible cyclopentyl methyl ether, at ambient temperature and under air, to provide ketones in up to 93% yield with an effective suppression of the notorious over&#8208;addition reaction. Detailed DFT calculations and NMR investigations support the experimental results. The described methodology was proven to be amenable to scale&#8208;up and recyclability protocols. Contrasting classical procedures carried out under inert atmospheres, this work lays the foundation for a profound paradigm shift of the reactivity of carboxylic acid amides with organolithiums, with ketones being straightforwardly obtained by simply combining the reagents under aerobic conditions and with no need of using previously modified or pre&#8208;activated amides, as recommended.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>A&#160;Fast, Green and General Route to Ketones from Amides and Organolithium Compounds under Aerobic Conditions: Synthetic and Mechanistic Aspects</dc:title>
@@ -526,7 +720,7 @@ Marco Blangetti
       <dc:date>2020-11-05T03:31:50-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004840</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004840</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004840</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -554,7 +748,7 @@ Franck daligault,
 Julie Bouckaert, 
 S&#233;bastien  G. Gouin
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004672</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004672</link>
       <content:encoded>&lt;p&gt;Bacterial sialidases (SA) are validated drug targets expressed by common human pathogens such as Streptococcus pneumoniae, Vibrio cholerae or Clostridium perfringens. Non&#8208;covalent inhibitors of bacterial SA capable of reaching the submicromolar level are rarely reported. We developed multi&#8208; and polyvalent compounds based on the transition state analogue 2&#8208;deoxy&#8208;2,3&#8208;didehydro&#8208;N&#8208;acetylneuraminic (DANA). Poly&#8208;DANA inhibits the catalytic activity of SA from S. pneumoniae (NanA) and the symbiotic microorganism B. thetaiotaomicron (BtSA) at the picomolar and low nanomolar levels when expressed in moles of molecules and of DANA, respectively. Each DANA grafted to the polymer surpasses the inhibitory potential of the monovalent analogue by more than four orders of magnitude, which represents the highest multivalent effect reported so far for an enzyme inhibition. The synergistic interaction was shown to operate in the catalytic domain exclusively, and not in the flanked carbohydrate&#8208;binding module (CBM). These results offers interesting perspectives for the multivalent inhibition of other SA families lacking a CBM, such as viral, parasitic or human SA..&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Polyvalent transition&#8208;state analogues of sialyl substrates strongly inhibit bacterial sialidases.</dc:title>
@@ -563,7 +757,7 @@ S&#233;bastien  G. Gouin
       <dc:date>2020-11-05T03:31:32-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004672</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004672</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004672</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -582,7 +776,7 @@ Hyeonho Choi,
 Jo&#227;o Carlos Lima, 
 Laura Rodr&#237;guez
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004051</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004051</link>
       <content:encoded>&lt;p&gt;The synthesis of two series of gold(I) complexes containing the general formulae PR  3  &#8208;Au&#8208;C&#8801;C&#8208;phenanthrene (PR  3  = PPh  3  (  1a  /  2a  ), PMe  3  (  1b  /  2b  ), PNaph  3  (  1c  /  2c  )) or (diphos)(Au&#8208;C&#8801;C&#8208;phenanthrene)  2  (diphos = 1,1&#8208;  bis  (diphenylphosphino)methane, dppm (  1d  /  2d  ); 1,4&#8208;  bis  (diphenylphosphino)butane, dppb (  1e  /  2e  )) have been synthesized. The two series differ on the position of the alkynyl substituent on the phenanthrene chromophore, being at the 9&#8208;position (9&#8208;ethynylphenanthrene) for the  L1  &#8208;series and at the 2&#8208;position (2&#8208;ethynylphenanthrene) for the  L2  &#8208;series. The compounds have been fully characterized by  1  H and  31  P NMR and IR spectroscopy, mass spectrometry and single crystal X&#8208;ray diffraction resolution in the case of compounds  1a  ,  1e  ,  2a  , and  2c  .
 The emissive properties of the uncoordinated ligands and corresponding complexes have been studied in solution and within organic matrixes of different polarity (PMMA and Zeonex). We have observed room temperature phosphorescence (RTP) for all gold(I) complexes while only fluorescence can be detected for the pure organic chromophore. In particular, the  L2  &#8208;series present better luminescent properties regarding intensity of emission, quantum yields and RTP effect. Additionally, while the inclusion of all the compounds in organic matrixes induces an enhancement of the observed RTP due to the decrease in non&#8208;radiative deactivation, only the  L2  &#8208;series completely supress fluorescence giving rise to pure phosphorescent materials.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
@@ -592,7 +786,7 @@ The emissive properties of the uncoordinated ligands and corresponding complexes
       <dc:date>2020-11-05T02:03:17-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004051</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004051</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004051</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -606,7 +800,7 @@ Rafik Kalfat,
 Yves Chevalier, 
 Souhaira Hbaieb
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004580</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004580</link>
       <content:encoded>&lt;p&gt;A new way to freeze molecular imprints in a polymer material is reported. So far, molecular imprinted polymers (MIP) involve copolymerization of a functional monomer and large amounts of cross&#8208;linking agent that keeps the template shape memory in rigid molecular imprints. MIP materials are presently prepared without cross&#8208;linking agent. Stiff chains of polyaniline grafted on a solid support as a brush&#8208;like material achieve the necessary rigidity. Differential adsorption to imprinted and non&#8208;imprinted materials provides evidence of molecular imprints. A correct adsorption isotherm for mobile adsorbed layers (Volmer isotherm) is introduced instead of the popular but inadequate Langmuir isotherm. Non&#8208;selective adsorption is entropic, whereas adsorption to molecular imprints has an enthalpic contribution coming from specific interactions. Fast adsorption kinetics is a definite benefit with regards to applications such as chromatographic separations and chemical sensors.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Molecular Imprints Frozen by Strong Intermolecular Interactions in Place of Cross&#8208;linking</dc:title>
@@ -615,7 +809,7 @@ Souhaira Hbaieb
       <dc:date>2020-11-04T08:40:16-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004580</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004580</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004580</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -629,7 +823,7 @@ Pia Bruhnke,
 Elizabeth Skellam, 
 Russell  John Cox
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004444</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004444</link>
       <content:encoded>&lt;p&gt;A key step during the biosynthesis of cytochalasans is a proposed Knoevenagel condensation to form the pyrrolone core, enabling the subsequent 4+2 cycloaddition reaction that results in the characteristic octahydroisoindolone motif of all cytochalasans. Here we investigate the role of the highly conserved alpha&#8208;beta &#8208;hydrolase enzymes PyiE and ORFZ during the biosynthesis of pyrichalasin H and the ACE1 metabolite respectively, using gene knockout and complementation techniques. Using synthetic aldehyde models we demonstrate that the Knoevenagel condensation proceeds spontaneously but results in the 1,3&#8208;dihydro&#8208;2H&#8208;pyrrol&#8208;2&#8208;one tautomer, rather than the required 1,5&#8208;dihydro&#8208;2H&#8208;pyrrol&#8208;2&#8208;one tautomer. Taken together our results suggest that the alpha&#8208;beta &#8208;hydrolase enzymes are essential for first ring cyclisation, but the precise nature of the intermediates remains to be determined .&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Chemical and Genetic Studies on the Formation of Pyrrolones During the Biosynthesis of Cytochalasans</dc:title>
@@ -638,7 +832,7 @@ Russell  John Cox
       <dc:date>2020-11-04T05:42:58-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004444</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004444</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004444</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -657,7 +851,7 @@ Yong-jian Ai,
 Qiong-lin Liang, 
 Hongbin Sun
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003857</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003857</link>
       <content:encoded>&lt;p&gt;A novel armour&#8208;type composite of metal organic framework&#8208;capsulated CoCu nanoparticles with Fe3O4 core (Fe3O4@SiO2&#8208;NH2&#8208;CoCu@UiO&#8208;66) has been designed and synthesized by the half&#8208;way injection method, which successfully serves as an efficient and recyclable catalyst for the selective transfer hydrogenation. In this half&#8208;way injection approach, the pre&#8208;synthetic Fe3O4@SiO2&#8208;NH2&#8208;CoCu was injected into the UiO&#8208;66 precursors solution halfway through the MOF budding period. The formed MOF armour could play a role of providing momentous additional catalytic sites besides CoCu nanoparticles, protecting CoCu nanoparticles and improving the catalyst stability, thus facilitating the selective transfer hydrogenation of nitrobenzaldehydes into corresponding nitrobenzyl alcohols in high selectivity (99%) and conversion (99%) rather than nitro group reduction products. Notably, this method achieves the precise assembly of MOF&#8208;capsulated composite, and the ingenious combination of MOF and nanoparticles exhibits excellent catalytic performance in the selective hydrogen transfer reaction, implementing a &#8220;1+1&amp;gt;2&#8221; strategy in catalysis.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Metal organic framework&#8208;capsulated CoCu nanoparticles for the selective transfer hydrogenation of nitrobenzaldehydes: engineering active armour by half&#8208;way injection method</dc:title>
@@ -666,7 +860,7 @@ Hongbin Sun
       <dc:date>2020-11-04T03:18:20-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003857</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003857</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003857</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -687,7 +881,7 @@ Pengchao Liu,
 Lianshan Li, 
 Zhiyong Tang
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202086161</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202086161</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a590011f-27a1-4e2e-91af-10d5a969518e/chem202086161-toc-0001-m.png"
      alt="Frontispiece: Light&#8208;Driven Active Ion Transport"/&gt;
 &lt;p&gt;&lt;b&gt;Man&#8208;made membrane&#8208;based solar energy&lt;/b&gt; harvest systems for active ion transport have been increasingly developed in recent years, however, a great challenge still remains in developing highly effective synthetic all&#8208;solid systems. During the past decades, artificial photo&#8208;induced active transport systems defined as &#8220;chemical&#8221; and &#8220;physical&#8221; modes that are capable of transporting protons or metal ions have been successfully constructed. This Concept article discusses these, as well as the challenges in the field for creating practical light&#8208;driven artificial ion pumps. For more information, see the Concept by L. Li and Z. Tang et&#8197;al. on &lt;a href="https://doi.org/10.1002/chem.202001929"&gt;page&#8197;13748&#8197;ff.&lt;/a&gt;
@@ -706,7 +900,7 @@ Zhiyong Tang
       <prism:coverDate>2020-11-02T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-11-02T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/chem.202086161</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202086161</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202086161</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -728,7 +922,7 @@ Xue&#8208;Tian Li,
 Gong&#8208;Jun Chen, 
 Yu&#8208;Bin Dong
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202086162</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202086162</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1280422b-e236-45f1-8145-08875bc2cc60/chem202086162-toc-0001-m.png"
      alt="Frontispiece: Homochiral Covalent Organic Frameworks for Asymmetric Catalysis"/&gt;
 &lt;p&gt;&lt;b&gt;As newly emerged crystalline porous materials&lt;/b&gt;, covalent organic frameworks (COFs) recently exhibit a new trend in asymmetric catalytic application. Despite significant advances have been made, some challenges and blank research areas still remain to be addressed and explored to promote further development in this young but promising field. Read more about the latest developments and findings of homochiral COFs (HCCOFs) in asymmetric catalysis, including the design and synthesis of HCCOF&#8208;based catalysts, and their application in asymmetric organic transformations in the Minireview by Y.&#8208;B. Dong, G.&#8208;J. Chen et&#8197;al. on &lt;a href="https://doi.org/10.1002/chem.202001006"&gt;page&#8197;13754&#8197;ff.&lt;/a&gt;
@@ -747,7 +941,7 @@ Yu&#8208;Bin Dong
       <prism:coverDate>2020-11-02T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-11-02T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/chem.202086162</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202086162</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202086162</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -773,7 +967,7 @@ Sarah Cianf&#233;rani,
 Alain Wagner, 
 Guilhem Chaubet
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202086163</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202086163</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1faa81f5-0e66-4e1c-88e1-37f3cbef3f10/chem202086163-toc-0001-m.png"
      alt="Frontispiece: Investigating Ugi/Passerini Multicomponent Reactions for the Site&#8208;Selective Conjugation of Native Trastuzumab"/&gt;
 &lt;p&gt;&lt;b&gt;Gemini reactions&lt;/b&gt;: In their Full Paper on &lt;a href="https://doi.org/10.1002/chem.202002432"&gt;page&#8197;13797&#8197;ff.&lt;/a&gt;, G. Chaubet et al. have investigated the potential of Ugi and Passerini multicomponent reactions for the site&#8208;selective conjugation of native trastuzumab. The conjugation proved to tolerate various aldehyde and isocyanide, and a plug&#8208;and&#8208;play approach was devised, allowing the facile generation of doubly labelled conjugates and antibody&#8211;drug conjugates.
@@ -792,7 +986,7 @@ Guilhem Chaubet
       <prism:coverDate>2020-11-02T08:00:00Z</prism:coverDate>
       <prism:coverDisplayDate>2020-11-02T08:00:00Z</prism:coverDisplayDate>
       <prism:doi>10.1002/chem.202086163</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202086163</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202086163</prism:url>
       <prism:copyright />
       <prism:section>Frontispiece</prism:section>
    </item>
@@ -807,7 +1001,7 @@ Fu-Qiang Zhang,
 Linfeng Liang, 
 Xian-Ming Zhang
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004111</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004111</link>
       <content:encoded>&lt;p&gt;Dimethyl sulfoxide (DMSO) is a universally used solvent in various synthetic reactions, and trace amount of DMSO residual is often seen on the surface of chemical product. It is difficult to quickly determine whether the residual DMSO is washed completely. This work reports a Cd(II) metal&#8208;organic framework (MOF) SXU&#8208;4   which can detect trace amount of DMSO in various solvents. Fluorescence experiments reveal its turn on fluorescence effect toward DMSO with high selectivity and sensitivity, indicating that it can be used as an effective luminescent probe for rapid chemical product purity detection by testing the washing solution. Crystallographically characterized DMSO loaded SXU&#8208;4   (DMSO@ SXU&#8208;4  ), in combination with computational results uncover that the enhanced DMSO&#8208;MOF conjugation through multiple DMSO&#8208;MOF supramolecule interactions and charge rearrangement are the main causes of fluorescence intensification.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Cd&#8208;Based Metal&#8208;Organic Framework for Selective Turn&#8208;On Fluorescent DMSO Residual Sensing</dc:title>
@@ -816,7 +1010,7 @@ Xian-Ming Zhang
       <dc:date>2020-11-03T07:14:26-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004111</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004111</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004111</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -829,7 +1023,7 @@ Yuki Hirose,
 Kaori Hashiya, 
 Toshikazu Bando
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004421</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004421</link>
       <content:encoded>&lt;p&gt;Hairpin pyrrole&#8211;imidazole polyamides (hPIPs) and their chlorambucil (Chb) conjugates (hPIP&#8211;Chbs) can alkylate DNA in a sequence&#8208;specific manner, and have been studied as anticancer drugs. Here we conjugated Chb to a cyclic PIP (cPIP), which is known to have a higher binding affinity than the corresponding hPIP, and investigated the DNA alkylation properties of the cPIP&#8211;Chb using the optimized capillary electrophoresis method and conventional HPLC product analysis. cPIP&#8211;Chb conjugate  3  showed higher alkylation activity at its binding sites than did hPIP&#8211;Chb conjugates  1  and  2  . Subsequent HPLC analysis revealed that the alkylation site of conjugate  3  , which was identified by capillary electrophoresis, was reliable and that conjugate  3  alkylates the N3 position of adenine as do hPIP&#8211;Chbs. Moreover, conjugate  3  showed higher cytotoxicity against LNCaP prostate cancer cells than did conjugate  1  and cytotoxicity comparable to that of conjugate  2  . These results suggest that cPIP&#8211;Chbs could be novel DNA alkylating anticancer drugs.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Evaluation of the DNA Alkylation Property of a Chlorambucil&#8208;Conjugated Cyclic Pyrrole&#8211;Imidazole Polyamide</dc:title>
@@ -838,7 +1032,7 @@ Toshikazu Bando
       <dc:date>2020-11-03T07:13:30-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004421</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004421</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004421</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -853,7 +1047,7 @@ Leonardo Tensi,
 Cristiano Zuccaccia, 
 Paola Belanzoni
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003911</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003911</link>
       <content:encoded>&lt;p&gt;The degradation pathways of highly active [Cp*Ir(&#954; 2 &#8208; N,N &#8208;R&#8208;pica)Cl] catalysts (pica = picolinamidate; 1 R = H, 2 R = Me) for formic acid (FA) dehydrogenation were investigated by NMR spectroscopy and DFT calculations. Under acidic conditions (1 eq. of HNO 3 ), 2 undergoes partial protonation of the amide moiety, inducing rapid &#954; 2 &#8208; N,N to &#954; 2 &#8208; N,O ligand isomerization. Consistently, DFT modelling on the simpler complex 1 showed that the &#954; 2 &#8208; N,N key intermediate of FA dehydrogenation ( I NH ), bearing a N&#8208;protonated pica, can easily transform into the &#954; 2 &#8208; N,O analogue ( I NH2 ; &#916; G # &#8776; 11 kcal/mol, &#916; G &#8776; &#8208;5 kcal/mol). Intramolecular hydrogen liberation from I NH2 is predicted to be rather prohibitive (&#916; G # &#8776; 26 kcal/mol, &#916; G &#8776; 23 kcal/mol), indicating that FA dehydrogenation should involve mostly &#954; 2 &#8208; N,N intermediates, at least at relatively high pH. Under FA dehydrogenation conditions, 2 was progressively consumed, and the vast majority of the Ir centers (58%) was eventually found in the form of Cp*&#8208;complexes with a pyridine&#8208;amine ligand. This likely derived from hydrogenation of the pyridine&#8208;carboxiamide via a hemiaminal intermediate, which could be also detected. Clear evidence for ligand hydrogenation being the main degradation pathway also for 1 was obtained, as further confirmed by spectroscopic and catalytic tests on the independently synthesized degradation product 1c . DFT calculations confirmed that this side reaction is kinetically and thermodynamically accessible.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Understanding the Deactivation Pathways of Iridium(III) Pyridine&#8208;Carboxiamide Catalysts for Formic Acid Dehydrogenation</dc:title>
@@ -862,7 +1056,7 @@ Paola Belanzoni
       <dc:date>2020-11-03T10:22:35-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003911</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003911</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003911</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -873,7 +1067,7 @@ Paola Belanzoni
 Zuzanna Wojdyla, 
 Tomasz  Maciej Borowski
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004426</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004426</link>
       <content:encoded>&lt;p&gt;Clavaminate synthase from Streptomyces clavuligerus is an Fe(II)/2&#8208;oxoglutarate dependent dioxygenase, crucial for the biosynthesis of the &#946;&#8208;lactamase inhibitor clavulanic acid. It catalyses three consecutive oxidative reactions, i.e. hydroxylation, cyclisation and desaturation in a single binding cavity. As follows from the results of this QM/MM study, CAS versatility and selectivity depends on the binding cavity, which interplays differently with substrate for each reaction. The enzyme&#8208;substrate interactions affect the substrate&#8217;s ability to re&#8208;position during the reaction, either constraining it in its primary position, which impedes processes other than oxygen rebound, or allowing change, which facilitates double bond formation. This differential effect originates from two aspartate residues, which strongly interact with the guanidine group of the hydroxylation substrate and stabilise orientation of the molecule. These residues interact less effectively with a smaller amine group of the desaturation substrate(s), aiding their repositioning and subsequent formation of a double bond.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Enzyme multifunctionality via control of substrate positioning within the catalytic cycle &#8208; a QM/MM study for clavaminic acid synthase</dc:title>
@@ -882,7 +1076,7 @@ Tomasz  Maciej Borowski
       <dc:date>2020-11-03T10:10:27-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004426</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004426</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004426</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -909,7 +1103,7 @@ J&#233;r&#244;me Long,
 Yannick Guari, 
 Joulia Larionova
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004206</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004206</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/fd9e3591-008b-467b-ab09-c92431091c91/chem202004206-toc-0001-m.png"
      alt="New Luminescent Tetranuclear Lanthanide&#8208;Based Silsesquioxane Cage&#8208;Like Architectures"/&gt;
 &lt;p&gt;&lt;b&gt;Luminescent lanthanide&#8208;based silsesquioxane cages&lt;/b&gt;: An association of coordination and sol&#8208;gel chemistries is a powerful tool to design new functional materials. A new family of tetranuclear lanthanide&#8208;based cage&#8208;like silsesquioxanes with unusual prism&#8208;like topology was readily obtained. They exhibit efficient Eu&lt;sup&gt;3+&lt;/sup&gt; or Tb&lt;sup&gt;3+&lt;/sup&gt; characteristic emissions in solid state, which makes them the first luminescent cage&#8208;like silsesquioxanes. More information can be found in the Communication by A.&#8197;N.&#8197;Bilyachenko, J.&#8197;Larionova et&#8197;al. (DOI: &lt;a href="https://doi.org/10.1002/chem.202003351"&gt;10.1002/chem.202003351&lt;/a&gt;).
@@ -924,7 +1118,7 @@ Joulia Larionova
       <dc:date>2020-11-03T07:56:02-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004206</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004206</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004206</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -948,7 +1142,7 @@ Evelio Francisco,
 &#193;ngel Mart&#237;n Pend&#225;s, 
 Tom&#225;s Rocha Rinza
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004292</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004292</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/16e16364-076b-4f8d-affd-103bdcdb5798/chem202004292-toc-0001-m.png"
      alt="Photochemistry in Real Space: Batho&#8208; and Hypsochromism in the Water Dimer"/&gt;
 &lt;p&gt;&lt;b&gt;Red and blue&#8208;shifts&lt;/b&gt; (depicted by the light intensity of the chandeliers and the background curtain) are explained in this work via real&#8208;space methods and (H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;2&lt;/sub&gt; as an archetype. Two interatomic isosurfaces support the ground (down) and excited states (up) of (H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;2&lt;/sub&gt;. These states are linked by ribbons whose torsion represents the inversion of the dipole moment due to photoexcitations. The water containers (bottom) denote the H&#8208;bond responsible for these shifts. The artwork is due to Dr. Victor&#8197;Duarte Alaniz. More information can be found in the Full Paper by T. Rocha&#8197;Rinza et&#8197;al. (DOI: &lt;a href="https://doi.org/10.1002/chem.202002854"&gt;10.1002/chem.202002854&lt;/a&gt;).
@@ -963,7 +1157,7 @@ Tom&#225;s Rocha Rinza
       <dc:date>2020-11-03T07:55:36-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004292</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004292</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004292</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -984,7 +1178,7 @@ Paul Niklas Ruth,
 Regine Herbst&#8208;Irmer, 
 Dietmar Stalke
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004508</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004508</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/76585301-6a5d-4983-b31b-24bc65be0cd8/chem202004508-toc-0001-m.png"
      alt="Analysis of Solid&#8208;State Luminescence Emission Amplification at Substituted Anthracenes by Host&#8211;Guest Complex Formation"/&gt;
 &lt;p&gt;&lt;b&gt;The amplification of the solid&#8208;state quantum yield&lt;/b&gt; of a thiophosphoranyl anthracene has been achieved by simple host&#8211;guest complex formation with small arenes. Weak interactions between the chromophore and the aromatic guest molecule led to a change in the solid&#8208;state structure and an enhancement of the overall rigidity. The increased order resulted in less non&#8208;radiative decay pathways and therefore in a brighter emission in the solid&#8208;state. More information can be found in the Full Paper by D.&#8197;Stalke et&#8197;al. (DOI: &lt;a href="https://doi.org/10.1002/chem.202003017"&gt;10.1002/chem.202003017&lt;/a&gt;).
@@ -999,7 +1193,7 @@ Dietmar Stalke
       <dc:date>2020-11-03T07:55:35-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004508</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004508</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004508</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1023,7 +1217,7 @@ Paul Niklas Ruth,
 Regine Herbst&#8208;Irmer, 
 Dietmar Stalke
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004509</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004509</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/dfd817da-bd8e-4259-9e89-c42bb07684b8/chem202004509-toc-0001-m.png"
      alt="Analysis of Solid&#8208;State Luminescence Emission Amplification at Substituted Anthracenes by Host&#8211;Guest Complex Formation"/&gt;
 &lt;p&gt;&#8220;&lt;i&gt;Modern information technology like long&#8208;distance signal transfer in glass fibre cables, screens and sensors is in heavy demand for luminescent materials as they can switch or amplify the light signal. Those material need to be robust, long&#8208;lasting and cheap. The ideal platform would be anthracene, a natural product from crude oil and most stable. Unfortunately, predominantly it emits only UV&#8208; or blue light when being stimulated. Our work makes green&#8208;emitting anthracene available&lt;/i&gt;.&#8221; Read more about the story behind the cover in the Cover Profile and about the research itself on page&#8197;&#9642;&#9642;&#8197;ff. (DOI: &lt;a href="https://doi.org/10.1002/chem.202003017"&gt;10.1002/chem.202003017&lt;/a&gt;).
@@ -1041,7 +1235,7 @@ Dietmar Stalke
       <dc:date>2020-11-03T07:51:06-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004509</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004509</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004509</prism:url>
       <prism:copyright />
       <prism:section>Cover Profile</prism:section>
    </item>
@@ -1068,7 +1262,7 @@ Evelio Francisco,
 &#193;ngel Mart&#237;n Pend&#225;s, 
 Tom&#225;s Rocha Rinza
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004293</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004293</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/3a4822fa-2766-4263-9bc7-16360251ef1f/chem202004293-toc-0001-m.png"
      alt="Photochemistry in Real Space: Batho&#8208; and Hypsochromism in the Water Dimer"/&gt;
 &lt;p&gt;&#8220;&lt;i&gt;The method IQA/EOM&#8208;CCSD permits the identification of the atoms and chemical interactions wherein the effects of photoexcitation are most notorious. In this work, we investigate how non&#8208;covalent interactions, e.g. hydrogen bonds, affect the photoabsorption energy of a given system. We illustrate this possibility via the double red and blue shift of (H&lt;sub&gt;2&lt;/sub&gt;O)&lt;sub&gt;2&lt;/sub&gt; which correspond to mostly localized excitations in the H&#8208;bond donor and acceptors in the cluster respectively&lt;/i&gt;.&#8221; Read more about the story behind the cover in the Cover Profile and about the research itself on page&#8197;&#9642;&#9642;&#8197;ff. (DOI: &lt;a href="https://doi.org/10.1002/chem.202002854"&gt;10.1002/chem.202002854&lt;/a&gt;).
@@ -1086,7 +1280,7 @@ Tom&#225;s Rocha Rinza
       <dc:date>2020-11-03T07:48:13-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004293</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004293</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004293</prism:url>
       <prism:copyright />
       <prism:section>Cover Profile</prism:section>
    </item>
@@ -1102,7 +1296,7 @@ Dmytro Volyniuk,
 Algirdas Lazauskas, 
 Juozas  Vidas Grazulevicius
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004657</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004657</link>
       <content:encoded>&lt;p&gt;Three new quinoline and di&#8208;  tert  &#8208;butyl phenothiazine isomeric derivatives were synthesized and characterized towards applications for oxygen sensing and optical information multi&#8208;coding. The compounds with phenylene linker showed outstanding phase&#8208;dependent reversibility between ON/OFF stages (low and high emission intensity, drastic shifting of emission colors, short&#8208; and long&#8208;lived fluorescence) under systematic grinding&#8208;fuming cycles required for multichannel memory devices based on optical information multi&#8208;coding. The conformational diversity of phenothiazine unit endowed dual emission of the doped films implemented by the different luminescent mechanisms with peaks located at 414/530 nm, 416/540 nm and 440/582 nm. The presence of phenylene linker and thus two rotational degrees of freedom resulted in quenching of delayed fluorescence of quasi&#8208;equatorial conformers in the solid state. The compound containing no phenylene bridge was characterized by two different driving photoluminescence mechanisms of the doped films: short fluorescence of quasi&#8208;axial conformer and TADF of quasi&#8208;equatorial form. This compound showed oxygen sensitivity with the Stern&#8211;Volmer constant of 7.5&#183;10  &#8208;4  pmm  &#8208;1  .&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Reversibly Switchable Phase&#8208;Dependent Emission of Quinoline and Phenothiazine Derivatives Towards Applications in Optical Sensing and Information Multi&#8208;Coding</dc:title>
@@ -1111,7 +1305,7 @@ Juozas  Vidas Grazulevicius
       <dc:date>2020-11-03T02:30:36-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004657</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004657</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004657</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1127,7 +1321,7 @@ Norbert Jux,
 Dirk Guldi, 
 Andreas Hirsch
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004273</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004273</link>
       <content:encoded>&lt;p&gt;The synthesis and characterization of a series of rylene&#8208;diimide substituted hexaphenylbenzenes (HPBs) is presented. The direct connection of the rylene&#8208;diimide units to the HPBs  via  the imide&#8208;N&#8208;position without any linkers as well as the use of naphthalene&#8208;diimides (NDIs) next to perylene&#8208;diimides (PDIs) is unprecedented. While mono&#8208;substituted products were obtained by imidization reactions with amino&#8208;HPB and the respective rylene&#8208;monoimides, key step for the formation of tri&#8208; and hexa&#8208;substituted HPBs is the Co&#8208;catalysed cyclotrimerization. Particular emphasis of the photophysical characterization was the influence of the number of the NDI/PDI units per HPB and the overall substitution pattern. Lastly, Scholl oxidation was applied to generate the corresponding hexa&#8208;  peri  &#8208;hexabenzocoronenes (HBCs). Importantly, the efficiency of the transformation strongly depends on the number of NDI/PDI units. While three rylene&#8208;diimide units already hinder the Scholl reaction, successful synthesis of mono&#8208;substituted HBCs is possible.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>A Functional Hexaphenylbenzene Library Comprising of One, Three and Six Peripheral Rylene&#8208;Diimide Substituents</dc:title>
@@ -1136,7 +1330,7 @@ Andreas Hirsch
       <dc:date>2020-11-03T02:29:13-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004273</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004273</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004273</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1165,7 +1359,7 @@ Gunda Koellensperger,
 Angela Casini, 
 Christopher Gerner
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004459</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004459</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4376d26d-fd3b-4458-8509-c9117786503d/chem202004459-toc-0001-m.png"
      alt="An Organometallic Gold(I) Bis&#8208;N&#8208;Heterocyclic Carbene Complex with Multimodal Activity in Ovarian Cancer Cells"/&gt;
 &lt;p&gt;&lt;b&gt;A cationic Au&lt;sup&gt;I&lt;/sup&gt; N&#8208;heterocyclic carbene complex&lt;/b&gt; featuring caffeine&#8208;based ligands has shown potent and selective anticancer effects in ovarian cancer cells. This organogold compound is remarkably stable in physiological conditions. Therefore, the observed therapeutic effects are mainly due to non&#8208;covalent interactions of the gold compound with its pharmacological targets. Among the latter, DNA secondary structures&#8212;G&#8208;quadruplexes&#8212;play a pivotal role in the mechanisms of anticancer action. More information can be found in the Full Paper by S.&#8197;M. Meier&#8208;Menches, A. Casini, C. Gerner, et&#8197;al. (DOI: &lt;a href="https://doi.org/10.1002/chem.202003495"&gt;10.1002/chem.202003495&lt;/a&gt;).
@@ -1180,7 +1374,7 @@ Christopher Gerner
       <dc:date>2020-11-03T12:30:51-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004459</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004459</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004459</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1193,7 +1387,7 @@ Ryan  R Maar,
 Viktor  N Staroverov, 
 Joe  B. Gilroy
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004793</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004793</link>
       <content:encoded>&lt;p&gt;Near&#8208;infrared (NIR) dyes are sought after for their utility in light harvesting, bioimaging, and light&#8208;mediated therapies. Since long&#8208;wavelength photoluminescence typically involves extensive p&#8208;conjugated systems of double bonds and aromatic rings, it is often assumed that NIR dyes have to be large molecules that require complex syntheses. We challenge this assumption by demonstrating that facile incorporation of tertiary amine groups into readily available 3&#8208;cyanoformazans affords efficient production of relatively simple NIR&#8208;active BF  2  formazanate dyes (&#955;  abs  = 691&#8722;760 nm, &#955;  PL  = 834&#8722;904 nm in toluene). Cyclic voltammetry experiments on these compounds reveal multiple reversible redox waves linked to the interplay between the tertiary amine and BF  2  formazanate moieties. Density&#8208;functional calculations indicate that the NIR electronic transitions in BF  2  formazanates are of &#960;&#8208;&#960;*&#8208;type, but do not always involve strong charge transfer.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Near&#8208;Infrared Boron Difluoride Formazanate Dyes</dc:title>
@@ -1202,7 +1396,7 @@ Joe  B. Gilroy
       <dc:date>2020-11-02T07:12:20-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004793</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004793</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004793</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1220,7 +1414,7 @@ Fatima  Ezzahra Hibti,
 Alessia Quatela, 
 Yves Janin
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004311</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004311</link>
       <content:encoded>&lt;p&gt;In our work on the design and studies of luciferins related to the blue&#8208;hued coelenterazine, we undertook the synthesis of heterocyclic analogues susceptible to produce a photon, possibly at a different wavelength. We describe here the synthesis of O&#8208;acetylated derivatives of imidazo[1,2&#8208;b]pyridazin&#8208;3(5H)&#8208;one, imidazo[2,1&#8208;f][1,2,4]triazin&#8208;7(1H)&#8208;one, imidazo[1,2&#8208;a]pyridin&#8208;3&#8208;ol, imidazo[1,2&#8208;a]quinoxalin&#8208;1(5H)&#8208;one, benzo[f]imidazo[1,2&#8208;a]quinoxalin&#8208;3(11H)&#8208;one, imidazo[1',2':1,6]pyrazino[2,3&#8208;c]quinolin&#8208;3(11H)&#8208;one and 5,11&#8208;dihydro&#8208;3H&#8208;chromeno[4,3&#8208;e]imidazo[1,2&#8208;a]pyrazin&#8208;3&#8208;one thanks to an extensive use of the Buchwald&#8208;Hartwig N&#8208;arylation. The acidic hydrolysis of these derivatives then gave solutions of the corresponding luciferin analogues which we studied. Not too unexpectedly, even if these were &#8220;dressed&#8221; with substituents found in actual substrates of the nanoKAZ/NanoLuc luciferase, no bioluminescence was observed with these compounds. However, in a phosphate buffer, all produced a light signal, by chemiluminescence, with extensive variations in their respective intensity and this could be increased by adding a quaternary ammonium salt in the buffer. This aspect was actually instrumental to determine the emission spectra of many of these luciferin analogs.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Core&#8208;modified coelenterazine luciferin analogues, synthesis and chemiluminescence properties</dc:title>
@@ -1229,7 +1423,7 @@ Yves Janin
       <dc:date>2020-11-02T09:44:40-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004311</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004311</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004311</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1242,7 +1436,7 @@ Zheng-Wang Qu,
 Jiliang Zhou, 
 Douglas  Wade Stephan
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004798</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004798</link>
       <content:encoded>&lt;p&gt;Alkylation of spiro[fluorene&#8208;9,3&#8217;&#8208;indazole] at N(1) and N(2) with t BuCl affords the nitrenium cations [C 6 H 4 N 2 ( t Bu)C(C 12 H 8 )][BF 4 ], 1 and 2 , respectively. Compound 1 converts to 2 over the temperature range 303&#8208;323 K, with a free energy barrier of 28 &#177; 5 kcal/mol. Reaction of 1 with PMe 3 afforded the N&#8208;bound phosphine adduct [C 6 H 4 N( t Bu)N(PMe 3 )C(C 12 H 8 )]BF 4 ] 3 . However, phosphines attack 2 at the para&#8208; carbon atom of the aryl group with concurrent cleavage of N(2)&#8208;C(1) bond and proton migration to C(1) affording [(R 3 P)C 6 H 3 NN( t Bu)CH(C 12 H 8 )][BF 4 ] (R = Me 4 , n Bu 5 ). Analogous reactions of 1 and 2 with the carbene SIMes prompt attack at the para&#8208; carbon with concurrent loss of H&#8226; affording the radical cation salts [(SIMes)C 6 H 3 N( t Bu)NC(C 12 H 8 )&#8226;][BF 4 ] 6 and [(SIMes)C 6 H 3 NN( t Bu)C(C 12 H 8 )&#8226;][BF 4 ] 7 , whereas reaction of 2 with BAC gives the Lewis acid&#8208;base adduct, [C 6 H 4 N(BAC)N( t Bu)C(C 12 H 8 )][BF 4 ] 8 . Finally, reactions of 1 and 2 with KPPh 2 result in electron transfer affording (PPh 2 ) 2 and the persistent radicals C 6 H 4 N( t Bu)NC(C 12 H 8 )&#8226; and C 6 H 4 NN( t Bu)C(C 12 H 8 )&#8226;. The detailed reaction mechanisms are also explored by extensive DFT calculations.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>The Reactivity of Isomeric Nitrenium Lewis Acids with Phosphines, Carbenes and Phosphide</dc:title>
@@ -1251,7 +1445,7 @@ Douglas  Wade Stephan
       <dc:date>2020-11-02T09:43:56-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004798</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004798</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004798</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1267,7 +1461,7 @@ Yu Feng,
 Guolong Xing, 
 Long Chen
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004727</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004727</link>
       <content:encoded>&lt;p&gt;Open 1D channels found in covalent organic frameworks are unique and promising to serve as pathways for proton conduction; how to develop high&#8208;rate yet stable transporting systems remains a substantial challenge. Herein, we report a strategy for exploring proton&#8208;conducting frameworks by engineering pore walls and installing proton&#8208;containing polymers into the pores. Amide&#8208;linked and sulfonated frameworks were synthesized from imine&#8208;linked precursors via sequentially engineering to oxidize into amide linkages and to further anchor sulfonic acid groups onto the pore walls, enabling the creation of sulfonated frameworks with high crystallinity and channel ordering. Integrating sulfonated polyether ether ketone chains into the open channels enables proton hopping to across the channels, greatly increases proton conductivity and enables a stable continuous run. These results suggest a way to explore proton&#8208;conducting COFs via systematic engineering of wall and space of the open nanochannels.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Sulfonated 2D Covalent Organic Frameworks for Efficient Proton Conduction</dc:title>
@@ -1276,7 +1470,7 @@ Long Chen
       <dc:date>2020-11-02T09:43:14-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004727</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004727</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004727</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1287,7 +1481,7 @@ Long Chen
 Kristina Ilina, 
 Maged Henary
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003697</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003697</link>
       <content:encoded>&lt;p&gt;Cyanine dyes carrying quinoline moieties are an important class of organic molecules having a great interest and applications in many fields like medicine, pharmacology, and engineering. Despite their exceptional properties, such as stability, high molar extinction coefficients, and high pH&#8208;sensitivity, this class of dyes has been less analyzed and reviewed for the last decades. Therefore, this review article is focusing on discussing the history of quinoline compounds, various synthetic routes to prepare quinolinium salts and symmetrical and asymmetrical mono&#8208;, di&#8208;, tri&#8208;, penta&#8208; and heptamethine cyanine dyes, containing quinoline moieties, together with their optical properties and applications as photosensitizers in photodynamic therapy, probes in biomolecules labeling of nucleic acids, as well as imaging agents.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Cyanine Dyes Containing Quinoline Moieties: History, Synthesis, Optical Properties and Applications</dc:title>
@@ -1296,7 +1490,7 @@ Maged Henary
       <dc:date>2020-11-02T09:34:39-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003697</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003697</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003697</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1311,7 +1505,7 @@ Chunzhong Wang,
 Gang Chen, 
 Fei Du
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004069</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004069</link>
       <content:encoded>&lt;p&gt;As the low&#8208;cost and natural abundant alternatives for lithium&#8208;ion batteries, sodium &#160;and&#160; potassium &#8208; ion batteries recently attract intensive attention. However, the&#160; large&#160; ionic radii of Na  +  &#160;and K  +  render&#160;slow mobility and lead to sluggish diffusion in host materials. To address these issues, herein, hierarchical&#160; FeSe  2  &#160;microspheres assembled by&#160; closely packed nano/microrods &#160; are&#160; rationally &#160;designed and synthesized via a facile solvothermal method.&#160; Without&#160;carbonaceous material incorporation, the electrode delivers a reversible Na  +  &#160;storage capacity of 559 mAh g  &#8208;1  &#160;at a current rate of 0.1 A g  &#8208;1  &#160;and remarkable rate performance with capacity of 525 mAh g  &#8208;1  &#160;at 20 A g  &#8208;1  . As for K  +  &#160;storage, FeSe  2  &#160;anode delivers a high reversible capacity of 393 mAh g  &#8208;1  &#160;at 0.4 A g  &#8208;1  . Even at a high current density of 5 A g  &#8208;1  , a discharge capacity of 322 mAh g  &#8208;1  &#160;can be achieved that is among the best high&#8208;rate anodes for K  +  &#160;storage. The excellent electrochemical performance can be attributable to the&#160; favorable&#160; morphology &#160;structure&#160; and the use of&#160; ether&#8208;based electrolyte &#160; d uring cycling. Moreover, quantitative study suggests a strong pseudocapacitive contribution that boosts fast kinetic and interfacial storage.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Self&#8208;assembled FeSe2 microspheres with high&#8208;rate capability and long&#8208;term stability as anode material for sodium and potassium ion batteries</dc:title>
@@ -1320,7 +1514,7 @@ Fei Du
       <dc:date>2020-11-01T08:32:17-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004069</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004069</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004069</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1343,7 +1537,7 @@ Alan Robinson,
 Jean-Philippe Krieger, 
 Jason  M. Lynam
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004568</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004568</link>
       <content:encoded>&lt;p&gt;Manganese&#8208;mediated borylation of aryl/heteroaryl diazonium salts emerges as a general and versatile synthetic methodology for the synthesis of the corresponding boronate esters. The reaction proved an ideal testing ground for delineating the Mn species responsible for the photochemical reaction processes, i.e. involving either Mn radical or Mn cationic species, which is dependent on the presence of a suitably strong oxidant. Our findings are important for a plethora of processes employing Mn&#8208;containing carbonyl species as initiators and/or catalysts, which have much potential in synthetic applications.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Light&#8208; and Manganese&#8208;Initiated Borylation of Aryl Diazonium Salts: Mechanistic Insight on the Ultrafast Time&#8208;Scale Revealed by Time&#8208;Resolved Spectroscopic Analysis</dc:title>
@@ -1352,7 +1546,7 @@ Jason  M. Lynam
       <dc:date>2020-11-01T07:09:18-08:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004568</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004568</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004568</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1368,7 +1562,7 @@ Kyosuke Katagiri,
 Atsuki Tsuboi, 
 Narihito Ogawa
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004413</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004413</link>
       <content:encoded>&lt;p&gt;The regioselectivity (r.s.) and enantiospecificity (e.s.) of the substitution reactions of secondary propargylic alcohol derivatives using reagents derived from ArMgBr and Cu salts were studied. First, the picolinate, 3&#8208;methylpicolinate, and diethylphosphonate derivatives of Ph(CH  2  )  2  CH(OH)C&#8801;CTMS were reacted with PhMgBr/CuCN in ratios of 2.5:2.7&#8211;2.5:0.25. The use of 2.5:0.25 ratio in THF/DME (6:1) at 0 &#176;C for 1 h afforded the &#945;&#8208;substitution product from the phosphate with&#160; &#8805; 98% r.s. and 99% e.s. CuBr&#183;Me  2  S gave similar selectivity. The reaction system was then applied to phosphates derived from R  1  CH(OH)C&#8801;CR  2  &#160;and ArMgBr to obtain synthetically sufficient r.s. and e.s. values with R  2  &#160;= TMS, Ph, whereas&#160;  i  &#8208;Pr was borderline in terms of size as an R  1  &#160;substituent. The presence of a substituent at the&#160;  o  &#8208;position of Ar marginally affected the selectivity. We also found that the use of PhMgBr/Cu(acac)  2  &#160;in a 2:1 ratio in THF produced the &#947;&#8208;substitution products (allenes) with high r.s. and e.s.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>&#945;&#8208; and &#947;&#8208;Regiocontrol and Enantiospecificity in the Copper&#8208;catalyzed Substitution Reaction of Propargylic Phosphates with Grignard Reagents</dc:title>
@@ -1377,7 +1571,7 @@ Narihito Ogawa
       <dc:date>2020-10-30T10:56:09-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004413</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004413</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004413</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1388,7 +1582,7 @@ Narihito Ogawa
 Risto Savela, 
 Carolina M&#233;ndez-G&#225;lvez
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004375</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004375</link>
       <content:encoded>&lt;p&gt;Isoindolinone structure is an important privileged scaffold found in a large variety of naturally occurring as well as synthetic, biologically and pharmaceutically active compounds. Owing to its crucial role in a number of applications, the synthetic methodologies for accessing this heterocyclic skeleton have received significant attention during the past decade. In general, the synthetic strategies can be divided into two categories: First, direct utilization of phthalimides or phthalimidines as starting materials for the synthesis of isoindolinones; and second, construction of the lactam and/or aromatic rings by different catalytic methods, including C&#8208;H activation, cross&#8208;coupling, carbonylation, condensation, addition and formal cycloaddition reactions. Especially in the last mentioned, utilization of transition metal catalysts provides access to a broad range of substituted isoindolinones. Herein, the recent advances (2010&#8208;2020) in transition metal catalyzed synthetic methodologies via formation of new C&#8208;C bonds for isoindolinones are reviewed.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Isoindolinone Synthesis via One&#8208;Pot Type Transition Metal Catalyzed C&#8208;C Bond Forming Reactions</dc:title>
@@ -1397,7 +1591,7 @@ Carolina M&#233;ndez-G&#225;lvez
       <dc:date>2020-10-30T09:55:23-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004375</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004375</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004375</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -1416,7 +1610,7 @@ Robert  M. Reich,
 Alexander P&#246;thig, 
 Fritz  Elmar K&#252;hn
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004758</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004758</link>
       <content:encoded>&lt;p&gt;The first dicobalt(III) &#181;2&#8208;peroxo N&#8208;heterocyclic carbene (NHC) complex is reported. It can be quantitatively generated from a cobalt(II) compound bearing a 16&#8208;membered macrocyclic tetra&#8208;NHC ligand via facile activation of dioxygen from air at ambient conditions. The reaction proceeds via an end&#8208;on superoxo intermediate as demonstrated by EPR studies and DFT. The peroxo moiety can be cleaved upon addition of acetic acid, yielding the corresponding Co(III) acetate complex going along with H2O2 formation. In contrast, both Co(II) and Co(III) complexes are also studied as catalysts to utilize air for olefin and alkane oxidation reactions, however not resulting in product formation. The observations are rationalized by DFT&#8209;calculations, suggesting a nucleophilic nature of the dicobalt(III) &#181;2&#8208;peroxo complex. All isolated compounds are characterized by NMR, ESI&#8208;MS, elemental analysis, EPR and SC&#8208;XRD.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Activation of Molecular Oxygen by a Cobalt(II) tetra&#8208;NHC Complex</dc:title>
@@ -1425,7 +1619,7 @@ Fritz  Elmar K&#252;hn
       <dc:date>2020-10-30T09:50:54-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004758</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004758</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004758</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1444,7 +1638,7 @@ Yu Jin Lee,
 Seongsoo Kang, 
 Dongho Kim
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003327</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003327</link>
       <content:encoded>&lt;p&gt;Self&#8208;assembly of porphyrins is a fascinating topic not only for mimicking chlorophyll assemblies in photosynthetic organisms but also for the potential of creating molecular&#8208;level devices. Herein we have prepared zinc porphyrin derivatives bearing a&#160;meta&#8208;pyridyl group at the&#160;meso&#8208;position and studied their assemblies in chloroform. Among porphyrins studied, one with a carbamoylpyridyl moiety (ZnPPyC) gave distinct&#160;1H NMR spectrum in CDCl3, which allowed us to probe the supramolecular structure in solution in detail. Ring&#8208;current induced chemical shift changes in&#160;1H NMR, together with vapor pressure osmometry and diffusion&#8208;ordered NMR spectroscopy, among other evidence, suggested that the porphyrin molecules form a trimer in a triangular cone structure. Further incorporation of a directly&#8208;linked porphyrin&#8208;ferrocene dyads with the same assembling properties in the assemblies lead to a rare light&#8208;harvesting/charge&#8208;separation model, in which an energy gradient is incorporated and reductive quenching occurs.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>A Light&#8208;Harvesting/Charge&#8208;Separation Model with Energy Gradient Made of Assemblies of meta&#8208;pyridyl&#160;Zinc Porphyrins</dc:title>
@@ -1453,7 +1647,7 @@ Dongho Kim
       <dc:date>2020-10-29T10:31:37-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003327</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003327</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003327</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1465,7 +1659,7 @@ Yi Ding,
 Qingwen Li, 
 Guang He
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003921</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003921</link>
       <content:encoded>&lt;p&gt;Low melting&#8208;point (LMP) metals represent an interesting family of electrode materials due to their high ionic conductivity, good ductility or fluidity, low hardness and/or superior alloying capability, all of which are crucial characteristics to address battery challenges such as interfacial incompatibility, electrode pulverization and dendrite growth. This minireview summarizes recent research progress of typical LMP metals including In, Ga, Hg and their alloys in rechargeable metal batteries. And emphasis is placed on mainstream electrochemical storage devices of Li, Na and K batteries as well as the representative multi&#8208;valent metal batteries. We attempt to highlight the fundamental correlations between unique physiochemical properties of LMP metals and the battery performance. In addition, this article also provides insights into future development and potential directions of LMP metals/alloys for practical applications.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Applications of Low Melting&#8208;Point Metals in Rechargeable Metal Batteries</dc:title>
@@ -1474,7 +1668,7 @@ Guang He
       <dc:date>2020-10-29T08:28:43-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003921</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003921</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003921</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1493,7 +1687,7 @@ Raquel Ledezma,
 Ronald  F. Ziolo, 
 Juio Gonz&#225;lez-Torres
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004481</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004481</link>
       <content:encoded>&lt;p&gt;Two series of 2,5&#8208;di(butoxy)phenyleneethynylenes: one halogenated (  n=  2,3,4  PEC4&#8208;X  ) and the other BODIPY (By) terminated (  n=  3,4,5  PEC4&#8208;By  ), were synthesized monodirectionally by the step&#8208;by&#8208;step approach and the molecular structure was corroborated by NMR (  1  H,  13  C&#8208;DEPTQ&#8208;135, COSY, HSQC, HMBC,  11  B,  19  F) and MALDI&#8208;TOF mass spectrometry. The multiplicity and J&#8208;coupling constants of  1  H,  11  B  19  F/  11  B NMR signals revealed, in the  nPEC4&#8208;By  series, that the phenyl in meso position of the BODIPY becomes electronically part of the conjugation of the phenyleneethynylene chain, while By is electronically isolated. The photophysical, electrochemical and theoretical studies confirm this finding as the properties of  nPEC4&#8208;By  are comparable to those of the  nPEC4&#8208;X  oligomers and  By  , indicating negligible electron communication between BODIPy and the nPEC4 moieties. Yet, Energy Transfer (ET) from nPEC4 to By was rationalized by spectroscopy and theoretical calculations. Its yield decreases with the nPEC4 conjugation length according to the increase in distance between the two chromophores, resulting in dual emission for the longest oligomer where ET is quenched.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Dual emission of meso&#8208;phenyleneethynylene&#8208;BODIPY oligomers. Synthesis, photophysics and theoretical optoelectronic study</dc:title>
@@ -1502,7 +1696,7 @@ Juio Gonz&#225;lez-Torres
       <dc:date>2020-10-29T12:55:46-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004481</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004481</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004481</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1521,7 +1715,7 @@ Nina Smirnova,
 Oleg Kravchenko, 
 Valentine  P. Ananikov
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003643</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003643</link>
       <content:encoded>&lt;p&gt;Development of sustainable bio&#8208;based materials for removal of toxic contaminants from water is a high priority goal. Novel bio&#8208;based binary and ternary copolymers with enhanced ion&#8208;exchange, adsorption and antibacterial properties were obtained using plant biomass&#8208;derived diallyl esters of furandicarboxylic acid (FDCA) as crosslinking agents and easily available vinyl monomers. The synthesized copolymer materials showed higher sorption capacities for Ni(II), Co(II) and Cu(II) compared to the commercial ion&#8208;exchange resins and maintained their high metal adsorption capacities for over 10 cycles of regeneration. The synthesized copolymer gels containing 1&#8211;5 wt% of the crosslinker showed excellent water absorption capacities. The synthesized copolymers with 1% crosslinker content showed swelling ratios high enough to also act as moisture absorbents. The synthesized copolymers with crosslinker content of 10 wt% performed as contact&#8208;active antibacterials by inhibiting the growth of Gram&#8208;positive (S. aureus) and Gram&#8208;negative bacteria (E. coli, K. pneumonia) in suspension tests.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>New bio&#8208;based furanic materials effectively absorb metals from water and exert antimicrobial activity</dc:title>
@@ -1530,7 +1724,7 @@ Valentine  P. Ananikov
       <dc:date>2020-10-29T11:58:12-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003643</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003643</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003643</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1549,7 +1743,7 @@ Martin Weiter,
 Ale&#353; Imramovsk&#253;, 
 Martin Vala
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004419</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004419</link>
       <content:encoded>&lt;p&gt;The synthesis, XRD single crystal structure, powder XRD and solid&#8208;state fluorescence of two new DPA&#8208;DPS&#8208;EWG derivatives (DPA = diphenylamino, DPS = 2,5&#8208;diphenyl&#8208;stilbene, EWG = carbaldehyde or dicyanovinylene) is described. Absorption and fluorescence maxima in solvents of various polarity show bathochromic shift with respect to parent DPA&#8208;stilbene&#8208;EWGs. Electronic coupling in dimers and potential twist elasticity of monomers were studied by density functional theory. Both polymorphs of CHO derivative emit green fluorescence (527 and 550 nm) of moderate intensity (10 % and 5 %) in polycrystalline powder form. Moderate (5 %) red (672 nm) monomer&#8208;like emission was also observed for the first polymorph of DCV derivative, while more intense (32 %) infrared (733 nm) emission of the second polymorph was ascribed to the excimer fluorescence.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Green, red and infrared emitting polymorphs of sterically hindered push&#8208;pull substituted stilbenes</dc:title>
@@ -1558,7 +1752,7 @@ Martin Vala
       <dc:date>2020-10-29T11:29:02-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004419</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004419</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004419</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1572,7 +1766,7 @@ Aeri  J. Gosselin,
 Kyle  J. Korman, 
 Eric Bloch
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003864</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003864</link>
       <content:encoded>&lt;p&gt;Molecules with permanent porosity in the solid state have been studied for decades. Porosity in these systems is governed by intrinsic pore space, as in cages or macrocycles, and extrinsic void space, created through loose, intermolecular solid&#8208;state packing. The development of permanently porous molecular materials, especially cages with organic or metal&#8208;organic composition, has seen increased interest over the past decade and as such, incredibly high surface areas have been reported for these solids. Despite this, examples where these materials have been explored for gas storage applications are relatively limited. This minireview outlines existing molecular systems that have been investigated for gas storage and highlights strategies that have been used to understand adsorption mechanisms in porous molecular materials.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Gas Storage in Porous Molecular Materials</dc:title>
@@ -1581,7 +1775,7 @@ Eric Bloch
       <dc:date>2020-10-28T08:19:47-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003864</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003864</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003864</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1600,7 +1794,7 @@ Igor  V. Koptyug,
 Juri  G. Gelovani, 
 Eduard  Y Chekmenev
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004168</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004168</link>
       <content:encoded>&lt;p&gt;Many MRI contrast agents formed with the parahydrogen&#8208;induced polarization (PHIP) technique exhibit biocompatible profiles. In the context of respiratory imaging with inhalable molecular contrast agents, the development of nonflammable contrast agents would nonetheless be highly beneficial for the biomedical translation of this sensitive, high&#8208;throughput and affordable hyperpolarization technique. Pointing the way in this direction, we assess the hydrogenation kinetics, the polarization levels and the lifetimes of PHIP hyperpolarized products (acids, ethers and esters) at various degrees of fluorine substitution. The results highlight important trends as a function of molecular structure that are instrumental to design new, safe contrast agents for  in vivo  imaging applications of the PHIP technique, with an emphasis on the highly volatile group of ethers used as inhalable anesthetics.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Low&#8208;Flammable Parahydrogen&#8208;Polarized MRI Contrast Agents</dc:title>
@@ -1609,7 +1803,7 @@ Eduard  Y Chekmenev
       <dc:date>2020-10-28T06:50:40-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004168</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004168</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004168</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1625,7 +1819,7 @@ Alexander Bukvic,
 Stuart Macgregor, 
 Andrew  S. Weller
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004585</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004585</link>
       <content:encoded>&lt;p&gt;By using single&#8208;crystal to single&#8208;crystal solid&#8208;state molecular organometallic (SMOM) techniques, the&#160; &#963; &#8208;alkane complex [Rh(  t  Bu  2  PCH  2  CH  2  CH  2  P  t  Bu  2  )( &#951;  2  , &#951;  2  &#8208;C  7  H  12  )][BAr  F  4  ] (Ar  F&#160;  = 3,5&#8208;(CF  3  )  2  C  6  H  3  ) is synthesized and structurally characterized, in which the alkane (norbornane) binds through two&#160;  exo  &#8208;C&#8211;H&#183;&#183;&#183;Rh interactions. In contrast, the bis&#8208;cyclohexyl phosphine analogue shows&#160;  endo  &#8208;alkane binding. Comparison of the two systems, supported by periodic DFT calculations, NCI plots and Hirshfeld surface analyses, trace this different regioselectivity to subtle changes in the local microenvironment surrounding the alkane ligand. A tertiary periodic structure supporting a secondary microenvironment that controls binding at the metal site has parallels with enzymes. The new&#160; &#963; &#8208;alkane complex is also a catalyst for solid/gas 1&#8208;butene isomerization, and catalyst resting states are identified for this.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Selectivity of Rh&#183;&#183;&#183;H&#8211;C Binding in a&#160;&#963;&#8208;Alkane Complex Controlled by the Secondary Microenvironment in the Solid&#8208;State.</dc:title>
@@ -1634,7 +1828,7 @@ Andrew  S. Weller
       <dc:date>2020-10-28T04:24:08-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004585</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004585</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004585</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1644,7 +1838,7 @@ Andrew  S. Weller
       <dc:creator>
 Oliver  S. Wenger
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003974</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003974</link>
       <content:encoded>&lt;p&gt;Transition metal catalyzed cross coupling reactions are important in chemical synthesis for the formation of C&#8208;C and C&#8208;heteroatom bonds. Suitable catalysts are frequently based on palladium or nickel, and lately the cheaper and more abundant first&#8208;row transition metal element has been much in focus. The combination of nickel catalysis with photoredox chemistry has opened new synthetic possibilities, and in some cases electronically excited states of nickel complexes play a key role. This is a remarkable finding, because photo&#8208;excited metal complexes are underexplored in the context of organic bond&#8208;forming reactions, and because the photophysics and the photochemistry of first&#8208;row transition metal complexes are underdeveloped in comparison to their precious metal&#8208;based congeners. Consequently, there is much potential for innovation at the interface of synthetic&#8208;organic and physical&#8208;inorganic chemistry. This minireview highlights recent key findings in light&#8208;driven nickel catalysis and identifies essential concepts for the exploitation of photoactive nickel complexes in organic synthesis.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Photoactive nickel complexes in cross coupling catalysis</dc:title>
@@ -1653,7 +1847,7 @@ Oliver  S. Wenger
       <dc:date>2020-10-28T02:49:02-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003974</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003974</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003974</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1667,7 +1861,7 @@ Akira Saito,
 Naoya Kumagai, 
 Masakatsu Shibasaki
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004743</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004743</link>
       <content:encoded>&lt;p&gt;A fluorine&#8208;containing tetrasubstituted stereogenic center is a highly valued structural feature in medicinal chemistry. Herein, we describe the direct coupling of achiral &#945;&#8208;fluoronitriles and aldehydes promoted by a chiral Cu(I)/Barton&#8217;s base catalytic system, delivering &#945;&#8208;tetrasubstituted &#945;&#8208;fluoro&#8208;&#946;&#8208;hydroxynitriles with satisfactory stereoselection. The stereochemical course was positively biased by the combined use of asymmetrical achiral thiourea as a supplementary ligand for Cu(I), which significantly enhanced the stereoselectivity. Both aromatic and aliphatic aldehydes were implemented to provide densely and stereoselectively functionalized chiral building blocks with aliphatic and aromatic tails.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Direct Catalytic Asymmetric Addition of &#945;&#8208;Fluoronitriles to Aldehydes</dc:title>
@@ -1676,7 +1870,7 @@ Masakatsu Shibasaki
       <dc:date>2020-10-28T02:24:55-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004743</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004743</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004743</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1689,7 +1883,7 @@ Tobias Betke,
 Yasuhisa Asano, 
 Harald Gr&#246;ger
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202001647</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202001647</link>
       <content:encoded>&lt;p&gt;While belonging to the most fundamental functional groups, nitriles represent a class of compound still raising challenges in terms of an efficient, cost&#8208;effective and at the same time sustainable way for their synthesis. Complementing existing chemical routes recently a cyanide&#8208;free enzymatic process technology based on the use of an aldoxime dehydratase (Oxd) as biocatalyst component has been developed and successfully applied for a range of nitrile products. In these biotransformations, these Oxd enzymes catalyze the dehydration of aldoximes as readily available substrates to the desired nitrile products. Within this concept article these developments with such enzymes are summarized with a strong focus on the synthetic application side. By means of the achieved synthetic examples, it will be demonstrated that this biocatalytic technology has the potential to &#8220;cross the bridge&#8221; between the production of fine chemicals and pharmaceuticals on the one hand and bulk and commodity chemicals on the other hand. For example, Oxd enzymes were found to give high enantioselectivities and can give access to both enantiomers when starting either from the (  E  )&#8208; or (  Z  )&#8208;aldoxime racemate. However, besides their high potential towards stereoselective synthesis making the attractive for the area of fine chemicals and pharmaceuticals, Oxd enzymes also turned out to suitable for the dehydration of a range of aldoximes derived from aliphatic achiral commodity chemicals, leading to the corresponding nitriles, e.g., adiponitrile and fatty nitriles, with high substrate loading up to the Kg per L range as a required criteria for the field of bulk chemicals production.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Synthetic processes towards nitriles without cyanide: A biocatalytic concept based on dehydration of aldoximes in water</dc:title>
@@ -1698,7 +1892,7 @@ Harald Gr&#246;ger
       <dc:date>2020-10-28T12:00:00-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202001647</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202001647</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202001647</prism:url>
       <prism:copyright />
       <prism:section>Concept</prism:section>
    </item>
@@ -1713,7 +1907,7 @@ Anastasia Karioti,
 Georgia Sotiropoulou, 
 Georgios Pampalakis
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004018</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004018</link>
       <content:encoded>&lt;p&gt;Saturn&#8217;s satellite Enceladus is proposed to have a soda type subsurface ocean with temperature able to support life and an iron ore&#8208;based core. Here, we demonstrate that ocean chemistry related to Enceladus can support the development of Fe&#8208;based hydrothermal vents, one of the places suggested to be the cradle of life. The Fe&#8208;based chemical gardens were characterized with FT&#8208;IR spectroscopy and XRD. The developed chemobrionic structures catalyzed the condensation polymerization of simple organic prebiotic molecules to kerogens. Further, they could passively catalyze the condensation of the prebiotic molecule formamide to larger polymers suggesting that elementary biochemical precursors could have emerged in Enceladus.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Plausible emergence of biochemistry in Enceladus based on chemobrionics</dc:title>
@@ -1722,7 +1916,7 @@ Georgios Pampalakis
       <dc:date>2020-10-27T08:21:51-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004018</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004018</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004018</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1739,7 +1933,7 @@ Anjali Mahadevan,
 Sudha Devi, 
 Saonli Roy
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004620</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004620</link>
       <content:encoded>&lt;p&gt;Light&#8208;responsive molecular systems with multiple photoswitches in  C  3  symmetric designs have enormous application potential. The design part of such molecular systems is critical due to its influence in several properties associated with the photoswitches. In order to tune, and in the evaluation of the design&#8208;property relationship, we synthesized 18 tripodal systems with variations in the core, linkers, connectivity, and azo(hetero)arene photoswitches. Through extensive spectroscopic and computational studies, we envisaged the factors controlling near&#8208;quantitative photoisomerization in both the directions (bistability) and the thermal stability of the metastable states. Furthermore, we also evaluated the impact of designs in obtaining reversible photo&#8208;responsive sol&#8208;gel phase transitions, solvatochromism, photo&#8208; and thermochromism.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Tuning of Bistability, Thermal Stability of the Metastable States and Application Prospects in the C3 Symmetric Designs of Multiple Azo(hetero)arenes Systems</dc:title>
@@ -1748,7 +1942,7 @@ Saonli Roy
       <dc:date>2020-10-27T06:57:23-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004620</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004620</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004620</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1763,7 +1957,7 @@ Barbara Biondi,
 Raffaella Lettieri, 
 Marta De Zotti
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004527</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004527</link>
       <content:encoded>&lt;p&gt;External stimuli are potent tools that Nature uses to control protein function and activity. For instance, during viral entry and exit, pH variations are known to trigger large protein conformational changes. In Nature, also the electron transfer (ET) properties of ET proteins are influenced by pH&#8208;induced conformational changes. In this work, a pH&#8208;controlled, reversible 3  10  &#8208;helix to &#945;&#8208;helix conversion (from acidic to highly basic pH values and  vice versa  ) of a peptide supramolecular system built on a gold surface is described. The effect of pH on the ability of the peptide SAM to generate a photocurrent was investigated, with particular focus on the effect of the pH&#8208;induced conformational change on photocurrent efficiency. The films were characterized by electrochemical and spectroscopic techniques, and were found to be very stable over time, also in contact with a solution. They were also able to generate current under illumination, with an efficiency that is the highest recorded so far with biomolecular systems.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>A pH&#8208;Induced, Reversible Conformational Switch able to control the Photocurrent Efficiency in a Peptide Supramolecular System</dc:title>
@@ -1772,7 +1966,7 @@ Marta De Zotti
       <dc:date>2020-10-27T03:00:52-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004527</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004527</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004527</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1785,7 +1979,7 @@ Deepak Badgurjar,
 Sairaman Seetharaman, 
 Francis D'Souza
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004262</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004262</link>
       <content:encoded>&lt;p&gt;A panchromatic triad, consisting of benzothiazole (BTZ), boron dipyrromethene (BODIPY) moieties covalently linked to zinc porphyrin (ZnP) core is reported. Absorption and electrochemical studies of BTZ&#8208;BODIPY&#8208;ZnP revealed characteristic peaks corresponding to individual chromophores. Selective excitation of BTZ moiety resulted in the fluorescence quenching, due to PEnT from 1BTZ* to BODIPY moiety, followed by the quenching of the BODIPY emission due to sequential PEnT from 1BODIPY* moiety to ZnP. Further, supramolecular tetrad was formed by axially coordinating triad with ImC60, and the parallel steady&#8208;state measurements revealed diminished ZnP emission indicating the occurrence of PET from 1ZnP* to ImC60. Finally, femtosecond transient absorption studies provided evidence for the sequential occurrence of PEnT and PET events, viz., 1BTZ*&#8208;BODIPY&#8208;ZnP:ImC60 &#224; BTZ&#8208;1BODIPY*&#8208;ZnP:ImC60 &#224; BTZ&#8208;BODIPY&#8208;1ZnP*:ImC60 &#224; BTZ&#8208;BODIPY&#8208;ZnP+&#9642;:ImC60&#8722;&#9642; in the supramolecular tetrad. The evaluated rate of energy transfer, kEnT was found to be 3&#8208;5 &#215; 1010 s&#8208;1, slightly faster than that observed in the case of BODIPY&#8208;ZnP and BTZ&#8208;BODIPY&#8208;ZnP lacking the coordinated ImC60. The rate constants for charge separation and recombination, kCS and kCR, calculated by monitoring the rise and decay of the C60&#8722;&#9642; were found to be 5.5 &#215; 1010 s&#8208;1 and 4.4 &#215; 108 s&#8208;1 for BODIPY&#8208;ZnP:ImC60 triad, and 3.1 &#215; 1010 s&#8208;1 and 4.9 &#215; 108 s&#8208;1 for BTZ&#8208;BODIPY&#8208;ZnP:ImC60 tetrad. Initial excitation of tetrad promoting two&#8208;step energy transfer and a final electron transfer event has been successfully demonstrated in the present study.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>One&#8208;Photon Excitation Followed by a Three&#8208;Step Sequential Energy&#8208;Energy&#8208;Electron Transfer Leading To a&#160;Charge Separation in Supramolecular Tetrad Benzothiazole&#8208;Boron Dipyrromethene&#8208;Zinc Porphyrin&#8208;C60</dc:title>
@@ -1794,7 +1988,7 @@ Francis D'Souza
       <dc:date>2020-10-27T02:47:30-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004262</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004262</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004262</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -1815,7 +2009,7 @@ Ruibing Wang,
 Xiancai Lu, 
 Leyong Wang
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004003</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004003</link>
       <content:encoded>&lt;p&gt;Chiral &#945;&#8208;amino acids play critical roles in the metabolic process in nearly all life forms. So far, chiral recognitions of &#945;&#8208;amino acids have mainly focused on the determination of  L  /  D  enantiomers. Herein, selection of planar chiral conformations between water&#8208;soluble pillar[5]arene  WP5  and pillar[6]arene  WP6  was observed due to  &#945;  &#8208;side chain or ethyl ester moieties of  L  &#8208;  &#945;  &#8208;amino acid ethyl ester hydrochlorides binding with  WP5  and  WP6  , respectively. Therefore,  &#945;  &#8208;side chain and ethyl ester moieties of  L  &#8208;  &#945;  &#8208;amino acid ethyl ester hydrochlorides were recognized by observing the induced CD signal and its inversion. It is the rare example that the chiral region around  &#945;  &#8208;carbon of a chiral  &#945;  &#8208;amino acid molecule could be detected.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Selection of Planar Chiral Conformations between Pillar[5, 6]arenes Induced by Amino Acid Derivatives in Aqueous Media</dc:title>
@@ -1824,7 +2018,7 @@ Leyong Wang
       <dc:date>2020-10-27T02:46:30-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004003</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004003</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004003</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1837,7 +2031,7 @@ Rezisha Maskey,
 Christoph Bendel, 
 Jonas Malzacher
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202004712</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004712</link>
       <content:encoded>&lt;p&gt;Quinones are mild oxidants, whose redox potentials can be increased by supramolecular interactions. Whereas this goal has been achieved by hydrogen bonding or molecular encapsulation, a Lewis acid&#8208;binding strategy for redox amplification of quinones is unexplored. Herein, we study the redox chemistry of silicon tris(perchloro)dioxolene 1 &#8211; the formal adduct of ortho&#8208;perchloroquinone QCl with the Lewis superacid bis(perchlorocatecholato)silane 2. By isolating the single&#8208;electron reduced product of 1, the anionic monoradical 1&#9679;&#8208;, we complete the redox&#8208;series of a century&#8208;old class of compounds. Cyclic voltammetry measurements reveal that the redox potential in 1 is shifted by more than 1 V into the anodic direction compared to QCl, reaching that of "magic blue" or NO+. It allows oxidation of challenging substrates such as aromatic hydrocarbons and can be applied as an efficient redox catalyst. Remarkably, this powerful reagent forms in situ by combining the two commercially available precursors SiI4 and QCl.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Completing the Redox&#8208;Series of Silicon Trisdioxolene: ortho&#8208;Quinone and Lewis Superacid Make a Powerful Redox Catalyst</dc:title>
@@ -1846,7 +2040,7 @@ Jonas Malzacher
       <dc:date>2020-10-27T12:00:00-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202004712</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004712</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004712</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1861,7 +2055,7 @@ Mercedes &#193;lvaro,
 Sergio Naval&#243;n, 
 Hermenegildo Garc&#237;a
 </dc:creator>
-      <link>https://doi.org/10.1002/chem.202003763</link>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202003763</link>
       <content:encoded>&lt;p&gt;Defect engineering in metal&#8208;organic frameworks is commonly performed by using thermal or chemical treatments. Herein, it is reported that oxygen plasma treatment generates structural defects on MIL&#8208;125(Ti)&#8208;NH  2  leading to an increase of its photocatalytic activity. Characterization data indicates that plasma&#8208;treated materials retain most of their initial crystallinity, while exhibiting somewhat lower surface area and pore volume. XPS and FT&#8208;IR spectroscopy reveal that oxygen plasma induces MIL&#8208;125(Ti)&#8208;NH  2  partial terephthalate decarboxylation and an increase of the Ti&#8208;OH population. Thermogravimetric analyses confirm the generation of structural defects by oxygen plasma and allowed an estimation of the resulting experimental formula of the treated MIL&#8208;125(Ti)&#8208;NH  2  solids. SEM analyses show that the oxygen plasma treatment of MIL&#8208;125(Ti)&#8208;NH  2  gradually decreases its particle size. Importantly, diffuse reflectance UV&#8208;Vis spectroscopy and valence band measurements demonstrate that oxygen&#8208;plasma treatment alters MIL&#8208;125(Ti)&#8208;NH  2  band gap and, more significantly, the alignment of highest occupy and lowest unoccupied crystal orbitals. An optimal oxygen plasma treatment to achieve the highest efficiency in water splitting with or without methanol as sacrificial electron donor under UV&#8208;Vis or simulated sunlight was determined. The optimized plasma&#8208;treated MIL&#8208;125(Ti)&#8208;NH  2  photocatalyst acts as truly heterogeneous photocatalysts and retains most of its initial photoactivity and crystallinity upon reuse.&lt;/p&gt;</content:encoded>
       <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
       <dc:title>Plasma&#8208;induced defects enhance the visible&#8208;light photocatalytic activity of MIL&#8208;125(Ti)&#8208;NH2 for overall water splitting</dc:title>
@@ -1870,167 +2064,8 @@ Hermenegildo Garc&#237;a
       <dc:date>2020-10-26T08:23:27-07:00</dc:date>
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202003763</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003763</prism:url>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202003763</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004158">
-      <title>Chemical Synthesis Based Approach to Glycoprotein Functions in the Endoplasmic Reticulum</title>
-      <dc:description>The introduction of Asn&#8208;linked glycans to nascent polypeptides occurs in the lumen of the endoplasmic reticulum of eukaryotic cells. After the removal of specific sugar residues, glycoproteins acquire signals in the glycoprotein quality control (GPQC) system and enter the folding cycle composed of lectin&#8208;chaperones calnexin (CNX) and calreticulin (CRT), glucosidase II (G&#8208;II), and UDP&#8208;Glc:glycoprotein glucosyltransferase (UGGT). G&#8208;II initiates glycoproteins&#8217; entry and exit from the cycle, and UGGT serves as the &#8220;folding sensor&#8221;.</dc:description>
-      <dc:creator>
-Yukishige Ito, 
-Yasuhiro Kajihara, 
-Yoichi Takeda
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202004158</link>
-      <content:encoded>&lt;p&gt;The introduction of Asn&#8208;linked glycans to nascent polypeptides occurs in the lumen of the endoplasmic reticulum of eukaryotic cells. After the removal of specific sugar residues, glycoproteins acquire signals in the glycoprotein quality control (GPQC) system and enter the folding cycle composed of lectin&#8208;chaperones calnexin (CNX) and calreticulin (CRT), glucosidase II (G&#8208;II), and UDP&#8208;Glc:glycoprotein glucosyltransferase (UGGT). G&#8208;II initiates glycoproteins&#8217; entry and exit from the cycle, and UGGT serves as the &#8220;folding sensor&#8221;.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Chemical Synthesis Based Approach to Glycoprotein Functions in the Endoplasmic Reticulum</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004158</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-26T08:22:58-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004158</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004158</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004682">
-      <title>Glycine&#8208;Functionalized CsPbBr3 Nanocrystals for Efficient Visible&#8208;Light Photocatalysis of CO2 Reduction</title>
-      <dc:description>Capping ligands are indispensable for the preparation of metal&#8208;halide&#8208;perovskite (MHP) nanocrystals (NCs) with good stability; however, the long alkyl&#8208;chain capping ligands in conventional MHP NCs will be unfavourable for the CO2 adsorption and hinder the efficient carrier separation on the surface of MHP NCs, leading to inferior catalytic activity in artificial photosynthesis. Herein, we construct CsPbBr3 nanocrystals with short&#8208;chain glycine as ligand based on a facile ligand&#8208;exchange strategy. Owing to the reduced hindrance of glycine and the presence of amine group in glycine, the photogenerated carrier separation and CO2 uptake capacity can be noticeably improved without compromising stability of MHP NCs. CsPbBr3 nanocrystals with glycine ligands exhibit significantly increased yield of 27.7 &#956;mol g&#8210;1 h&#8210;1 for photocatalytic CO2&#8208;to&#8208;CO conversion without any organic sacrificial reagents, which is over 5 times higher than that of control CsPbBr3 NCs with conventional long alkyl&#8208;chain capping ligands.</dc:description>
-      <dc:creator>
-Min Zhang, 
-Ying Xu, 
-Wen Zhang, 
-Ke Su, 
-You-Xiang Feng, 
-Yan-Fei Mu, 
-Tong-Bu Lu
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202004682</link>
-      <content:encoded>&lt;p&gt;Capping ligands are indispensable for the preparation of metal&#8208;halide&#8208;perovskite (MHP) nanocrystals (NCs) with good stability; however, the long alkyl&#8208;chain capping ligands in conventional MHP NCs will be unfavourable for the CO2 adsorption and hinder the efficient carrier separation on the surface of MHP NCs, leading to inferior catalytic activity in artificial photosynthesis. Herein, we construct CsPbBr3 nanocrystals with short&#8208;chain glycine as ligand based on a facile ligand&#8208;exchange strategy. Owing to the reduced hindrance of glycine and the presence of amine group in glycine, the photogenerated carrier separation and CO2 uptake capacity can be noticeably improved without compromising stability of MHP NCs. CsPbBr3 nanocrystals with glycine ligands exhibit significantly increased yield of 27.7 &#956;mol g&#8210;1 h&#8210;1 for photocatalytic CO2&#8208;to&#8208;CO conversion without any organic sacrificial reagents, which is over 5 times higher than that of control CsPbBr3 NCs with conventional long alkyl&#8208;chain capping ligands.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Glycine&#8208;Functionalized CsPbBr3 Nanocrystals for Efficient Visible&#8208;Light Photocatalysis of CO2 Reduction</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004682</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-26T08:22:55-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004682</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004682</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003875">
-      <title>Assessing the key photophysical properties of triangulenium dyes for DNA binding by alteration of the fluorescent core</title>
-      <dc:description>Four&#8208;stranded G&#8208;quadruplex (G4) DNA is a non&#8208;canonical DNA topology that has been proposed to form in cells and play key roles in how the genome is read and used by the cellular machinery. Previously, a fluorescent triangulenium probe (DAOTA&#8208;M2) was used to visualise G4s in cellulo, thanks to its distinct fluorescence lifetimes when bound to different DNA topologies. Herein, we expand the library of available triangulenium probes to explore how modifications to the fluorescent core of the molecule affect its photophysical characteristics, interaction with DNA and cellular localisation. The benzo&#8208;bridged and isopropyl&#8208;bridged diazatriangulenium dyes, BDATA&#8208;M2 and CDATA&#8208;M2 respectively, featuring ethyl&#8208;morpholino substituents, were synthesised and characterised. The interactions of these molecules with different DNA topologies were studied to determine their binding affinity, fluorescence enhancement and fluorescence lifetime response. Finally, the cellular uptake and localisation of these optical probes were investigated. Whilst structural modifications to the triangulenium core only slightly alter the binding affinity to DNA, BDATA&#8208;M2 and CDATA&#8208;M2 cannot distinguish between DNA topologies through their fluorescence lifetime. This work presents valuable new evidence into the critical role of PET quenching when using the fluorescence lifetime of triangulenium dyes to discriminate G4 DNA from duplex DNA, highlighting the importance of fine tuning redox and spectral properties when developing new triangulenium&#8208;based G4 probes.</dc:description>
-      <dc:creator>
-Ramon Vilar, 
-Benjamin  W. Lewis, 
-Niels Bisballe, 
-Marco Santella, 
-Peter  A. Summers, 
-Jean-Baptiste Vannier, 
-Marina  K. Kuimova, 
-Bo  W. Laursen
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202003875</link>
-      <content:encoded>&lt;p&gt;Four&#8208;stranded G&#8208;quadruplex (G4) DNA is a non&#8208;canonical DNA topology that has been proposed to form in cells and play key roles in how the genome is read and used by the cellular machinery. Previously, a fluorescent triangulenium probe (DAOTA&#8208;M2) was used to visualise G4s in cellulo, thanks to its distinct fluorescence lifetimes when bound to different DNA topologies. Herein, we expand the library of available triangulenium probes to explore how modifications to the fluorescent core of the molecule affect its photophysical characteristics, interaction with DNA and cellular localisation. The benzo&#8208;bridged and isopropyl&#8208;bridged diazatriangulenium dyes, BDATA&#8208;M2 and CDATA&#8208;M2 respectively, featuring ethyl&#8208;morpholino substituents, were synthesised and characterised. The interactions of these molecules with different DNA topologies were studied to determine their binding affinity, fluorescence enhancement and fluorescence lifetime response. Finally, the cellular uptake and localisation of these optical probes were investigated. Whilst structural modifications to the triangulenium core only slightly alter the binding affinity to DNA, BDATA&#8208;M2 and CDATA&#8208;M2 cannot distinguish between DNA topologies through their fluorescence lifetime. This work presents valuable new evidence into the critical role of PET quenching when using the fluorescence lifetime of triangulenium dyes to discriminate G4 DNA from duplex DNA, highlighting the importance of fine tuning redox and spectral properties when developing new triangulenium&#8208;based G4 probes.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Assessing the key photophysical properties of triangulenium dyes for DNA binding by alteration of the fluorescent core</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003875</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-26T02:15:30-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003875</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003875</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004300">
-      <title>Synthesis and coordination ability of a donor&#8208;stabilised bis&#8208;phosphinidene</title>
-      <dc:description>Chelating phosphines have long been a mainstay as efficient directing ligands in transition&#8208;metal catalysis. Low&#8208;valent derivatives, namely chelating phosphinidenes, are to date unknown, and could lead to chelating complexes containing more than one metal centre due to the intrisic capacity of phosphinidenes to bind two metal fragments at one P&#8208;centre. Here we describe the synthesis of the first such chelating bis&#8208;phosphinidene ligand, XantP  2  (  2  ), generated by the reduction of a diphosphino xanthene derivative, Xant(PH  2  )  2  (  1  ) with  iPr  NHC (  iPr  NHC = [:C{N(Pr  i  )C(H)}  2  ]). Initial studies have shown that this novel chelating ligand can act as a bidentate ligand towards element dihalides (  i.e.  FeCl  2  , ZnI  2  , GeCl  2  , SnBr  2  ), forming cationic complexes with the tetryl elements. In contrast, XantP  2  demonstrates an ability to bind multiple metal centres in the reaction with CuCl, leading to a cationic Cu  3  P  3  ring complex, with Cu centres bridged by phosphinidene arms. Density Functional Theory calculations show that  2  indeed holds 4 lone pairs of electrons, shedding further light on the coordination capacity for this novel ligand class through observation of directionality and hybridisation of these electron pairs.</dc:description>
-      <dc:creator>
-Terrance  John Hadlington, 
-Matthias Driess, 
-Arseni Kostenko
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202004300</link>
-      <content:encoded>&lt;p&gt;Chelating phosphines have long been a mainstay as efficient directing ligands in transition&#8208;metal catalysis. Low&#8208;valent derivatives, namely chelating phosphinidenes, are to date unknown, and could lead to chelating complexes containing more than one metal centre due to the intrisic capacity of phosphinidenes to bind two metal fragments at one P&#8208;centre. Here we describe the synthesis of the first such chelating bis&#8208;phosphinidene ligand, XantP  2  (  2  ), generated by the reduction of a diphosphino xanthene derivative, Xant(PH  2  )  2  (  1  ) with  iPr  NHC (  iPr  NHC = [:C{N(Pr  i  )C(H)}  2  ]). Initial studies have shown that this novel chelating ligand can act as a bidentate ligand towards element dihalides (  i.e.  FeCl  2  , ZnI  2  , GeCl  2  , SnBr  2  ), forming cationic complexes with the tetryl elements. In contrast, XantP  2  demonstrates an ability to bind multiple metal centres in the reaction with CuCl, leading to a cationic Cu  3  P  3  ring complex, with Cu centres bridged by phosphinidene arms. Density Functional Theory calculations show that  2  indeed holds 4 lone pairs of electrons, shedding further light on the coordination capacity for this novel ligand class through observation of directionality and hybridisation of these electron pairs.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Synthesis and coordination ability of a donor&#8208;stabilised bis&#8208;phosphinidene</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004300</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-26T11:14:14-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004300</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004300</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003950">
-      <title>Dirhodium Complexes as Panchromatic Sensitizers, Electrocatalysts, and Photocatalysts</title>
-      <dc:description>Dinuclear rhodium complexes are attractive candidates as homogeneous panchromatic photosensitizers and photocatalysts. Modification of the coordination sphere of the Rh  2  (II,II) compounds results in photophysical and redox properties that are highly desirable for electro&#8208; and photocatalysis. Specifically, Rh  2  (II,II) complexes have shown promising catalytic activity towards proton reduction to generate H  2  , a clean fuel, and for the selective reduction of CO  2  to HCOOH. In addition, paddlewheel Rh  2  (II,II) complexes provide robust platforms for the design of efficient and stable single&#8208;component photocatalysts. Optimization of the Rh  2  (II,II) catalysts is crucial to realize their future application in devices or systems designed for the production of fuels from sunlight.</dc:description>
-      <dc:creator>
-Shaoyang Lin, 
-Claudia Turro
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202003950</link>
-      <content:encoded>&lt;p&gt;Dinuclear rhodium complexes are attractive candidates as homogeneous panchromatic photosensitizers and photocatalysts. Modification of the coordination sphere of the Rh  2  (II,II) compounds results in photophysical and redox properties that are highly desirable for electro&#8208; and photocatalysis. Specifically, Rh  2  (II,II) complexes have shown promising catalytic activity towards proton reduction to generate H  2  , a clean fuel, and for the selective reduction of CO  2  to HCOOH. In addition, paddlewheel Rh  2  (II,II) complexes provide robust platforms for the design of efficient and stable single&#8208;component photocatalysts. Optimization of the Rh  2  (II,II) catalysts is crucial to realize their future application in devices or systems designed for the production of fuels from sunlight.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Dirhodium Complexes as Panchromatic Sensitizers, Electrocatalysts, and Photocatalysts</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003950</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-26T08:46:29-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003950</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003950</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004298">
-      <title>Planar Tetracoordinate Silicons in Organic Molecules As Carbenoid&#8208;Type Amphoteric Centers: A Computational Study</title>
-      <dc:description>Designing and synthesizing a stable compound with a planar tetracoordinate silicon (ptSi) center is a challenging goal for chemists. Here, we theoretically designed and computationally verified a series of potential aromatic ptSi compounds composed of four conjugated rings shared by a centrally embedded Si atom. Both Born&#8208;Oppenheimer molecular dynamics (BOMD) simulations and computations of decomposition pathways indicate the high stability and likely existence of these compounds particularly Si&#8208;5555 (SiN  4  C  8  H  8  ) with 16 &#960; electrons under normal temperature and pressure. Notably, the H&#252;ckel aromaticity rule which works well for single rings seems inconsistent with the high stability of Si&#8208;5555 where the 16 &#960; electrons are spread over four rings fused together. Bonding analyses show that the strong electron donation from the peripheral conjugated ring of 16 &#960; electrons to the vacant central atomic orbital Si 3p  z  leads to the stabilization for both the ptSi coordination and planar aromaticity. The partial occupation of Si 3p  z  results in the peculiar  carbenoid&#8208;type  behaviors of the amphoteric center. By modulating the electron density on the ring with substituent groups, we can regulate the nucleophilic and electrophilic properties of the central Si.</dc:description>
-      <dc:creator>
-Yuwei Zhang, 
-Caiyun Zhang, 
-Zexing Cao, 
-Yirong Mo
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202004298</link>
-      <content:encoded>&lt;p&gt;Designing and synthesizing a stable compound with a planar tetracoordinate silicon (ptSi) center is a challenging goal for chemists. Here, we theoretically designed and computationally verified a series of potential aromatic ptSi compounds composed of four conjugated rings shared by a centrally embedded Si atom. Both Born&#8208;Oppenheimer molecular dynamics (BOMD) simulations and computations of decomposition pathways indicate the high stability and likely existence of these compounds particularly Si&#8208;5555 (SiN  4  C  8  H  8  ) with 16 &#960; electrons under normal temperature and pressure. Notably, the H&#252;ckel aromaticity rule which works well for single rings seems inconsistent with the high stability of Si&#8208;5555 where the 16 &#960; electrons are spread over four rings fused together. Bonding analyses show that the strong electron donation from the peripheral conjugated ring of 16 &#960; electrons to the vacant central atomic orbital Si 3p  z  leads to the stabilization for both the ptSi coordination and planar aromaticity. The partial occupation of Si 3p  z  results in the peculiar  carbenoid&#8208;type  behaviors of the amphoteric center. By modulating the electron density on the ring with substituent groups, we can regulate the nucleophilic and electrophilic properties of the central Si.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Planar Tetracoordinate Silicons in Organic Molecules As Carbenoid&#8208;Type Amphoteric Centers: A Computational Study</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004298</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-25T08:21:53-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004298</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004298</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202003700">
-      <title>The synthesis of warfarin using a reconfigurable&#8208;reactor platform integrated to a multiple variable optimization tool.</title>
-      <dc:description>Optimization of the asymmetric synthesis of warfarin, an important anticoagulant, has been evaluated using a reconfigurable reaction platform capable of performing batch, continuous flow, and plug&#8208;flow synthesis. Further, this platform has been integrated with a novel, multidimensional, multiple variable analysis tool that can evaluate multiple critical quality attributes (CQA), percent conversion and enantiomeric excess in this case, from a single injection that is repeatedly recycled in a closed loop of chromatography columns, a detector and a heart&#8208;cut valve. Further, the new, integrated analysis system also facilitates validation of each QA, providing a high&#8208;level of confidence in analytical measurements, which are obtained without operator intervention.</dc:description>
-      <dc:creator>
-Michael  G Organ, 
-Jee Seong Kwak, 
-Nour Bizarri, 
-Sepideh Sharif, 
-Debasis Mallik, 
-Wenyao Zhang
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202003700</link>
-      <content:encoded>&lt;p&gt;Optimization of the asymmetric synthesis of warfarin, an important anticoagulant, has been evaluated using a reconfigurable reaction platform capable of performing batch, continuous flow, and plug&#8208;flow synthesis. Further, this platform has been integrated with a novel, multidimensional, multiple variable analysis tool that can evaluate multiple critical quality attributes (CQA), percent conversion and enantiomeric excess in this case, from a single injection that is repeatedly recycled in a closed loop of chromatography columns, a detector and a heart&#8208;cut valve. Further, the new, integrated analysis system also facilitates validation of each QA, providing a high&#8208;level of confidence in analytical measurements, which are obtained without operator intervention.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>The synthesis of warfarin using a reconfigurable&#8208;reactor platform integrated to a multiple variable optimization tool.</dc:title>
-      <dc:identifier>doi:10.1002/chem.202003700</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-10-24T01:51:55-07:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202003700</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202003700</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
