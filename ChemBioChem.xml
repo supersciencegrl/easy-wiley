@@ -9,6 +9,9 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000718" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000562" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000540" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000586" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000622" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000595" />
@@ -124,7 +127,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000455" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000661" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000598" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000567" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000581" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000711" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000594" />
@@ -150,6 +152,87 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000718">
+      <title>Trypsiligase&#8208;catalyzed labeling of proteins on living cells</title>
+      <dc:description>Fluorescent fusion proteins are powerful tools for studying biological processes in living cells, but universal application is limited due to the voluminous size of those tags which may impact the folding, localization or even the biological function of the target protein. The designed biocatalyst Trypsiligase enables site&#8208;directed linkage of small&#8208;sized fluorescence dyes on the N&#8208;terminus of integral target proteins located in the outer membrane of living cells via a stable native peptide bond. The function of the approach was tested using the examples of covalent derivatization of the transmembrane proteins CD147 as well as the EGF receptor, both presented on human HeLa cells. Specific Trypsiligase recognition of the site of linkage was mediated by the dipeptide sequence Arg&#8208;His added to the proteins&#8217; native N&#8208;termini, pointing outside the cell membrane. The labeling procedure takes only about 5 minutes, as demonstrated for couplings of the fluorescence dye tetramethyl rhodamine and the affinity label biotin as well.</dc:description>
+      <dc:creator>
+Sandra Liebscher, 
+Sebastian Mathea, 
+Tobias Aum&#252;ller, 
+Andreas Pech, 
+Frank Bordusa
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000718</link>
+      <content:encoded>&lt;p&gt;Fluorescent fusion proteins are powerful tools for studying biological processes in living cells, but universal application is limited due to the voluminous size of those tags which may impact the folding, localization or even the biological function of the target protein. The designed biocatalyst Trypsiligase enables site&#8208;directed linkage of small&#8208;sized fluorescence dyes on the N&#8208;terminus of integral target proteins located in the outer membrane of living cells via a stable native peptide bond. The function of the approach was tested using the examples of covalent derivatization of the transmembrane proteins CD147 as well as the EGF receptor, both presented on human HeLa cells. Specific Trypsiligase recognition of the site of linkage was mediated by the dipeptide sequence Arg&#8208;His added to the proteins&#8217; native N&#8208;termini, pointing outside the cell membrane. The labeling procedure takes only about 5 minutes, as demonstrated for couplings of the fluorescence dye tetramethyl rhodamine and the affinity label biotin as well.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Trypsiligase&#8208;catalyzed labeling of proteins on living cells</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000718</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-11T05:21:23-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000718</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000718</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000562">
+      <title>Computational Hot&#8208;Spot Analysis of the SARS&#8208;CoV&#8208;2 Receptor Binding Domain / ACE2 Complex</title>
+      <dc:description>Infection and replication of SARS CoV&#8208;2 (the virus that causes COVID&#8208;19) requires entryto the interior of host cells. In humans, a Protein&#8208;Protein Interaction (PPI) between theSARS CoV&#8208;2 Receptor&#8208;Binding Domain (RBD) and the extracellular peptidase domain ofACE2, on the surface of cells in the lower respiratory tract, is an initial step in the entrypathway. Inhibition of the SARS CoV&#8208;2 RBD / ACE2 PPI is currently being evaluated asa target for therapeutic and/or prophylactic intervention. However, relatively little is knownabout the molecular underpinnings of this complex. Employing multiple computationalplatforms, we predicted &#8216;hot&#8208;spot&#8217; residues in a positive control PPI (PMI / MDM2) and theCoV&#8208;2 RBD/ACE2 complex. Computational alanine scanning mutagenesis wasperformed to predict changes in Gibbs&#8217; free energy that are associated with mutatingresidues at the positive control (PMI/MDM2) or SARS RBD/ACE2 binding interface toalanine. Additionally, we used the Adaptive Poisson&#8208;Boltzmann Solver to calculatemacromolecular electrostatic surfaces at the interface of the positive control PPI andSARS CoV&#8208;2 / ACE2 PPI. Finally, a comparative analysis of hot&#8208;spot residues for SARSCoVand SARS&#8208;CoV&#8208;2, in complex with ACE2, is provided. Collectively, this studyilluminates predicted hot&#8208;spot residues, and clusters, at the SARS CoV&#8208;2 RBD / ACE2binding interface, potentially guiding the development of reagents capable of disruptingthis complex and halting COVID&#8208;19.</dc:description>
+      <dc:creator>
+Brian McNaughton, 
+Pedro  A. Rosario
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000562</link>
+      <content:encoded>&lt;p&gt;Infection and replication of SARS CoV&#8208;2 (the virus that causes COVID&#8208;19) requires entryto the interior of host cells. In humans, a Protein&#8208;Protein Interaction (PPI) between theSARS CoV&#8208;2 Receptor&#8208;Binding Domain (RBD) and the extracellular peptidase domain ofACE2, on the surface of cells in the lower respiratory tract, is an initial step in the entrypathway. Inhibition of the SARS CoV&#8208;2 RBD / ACE2 PPI is currently being evaluated asa target for therapeutic and/or prophylactic intervention. However, relatively little is knownabout the molecular underpinnings of this complex. Employing multiple computationalplatforms, we predicted &#8216;hot&#8208;spot&#8217; residues in a positive control PPI (PMI / MDM2) and theCoV&#8208;2 RBD/ACE2 complex. Computational alanine scanning mutagenesis wasperformed to predict changes in Gibbs&#8217; free energy that are associated with mutatingresidues at the positive control (PMI/MDM2) or SARS RBD/ACE2 binding interface toalanine. Additionally, we used the Adaptive Poisson&#8208;Boltzmann Solver to calculatemacromolecular electrostatic surfaces at the interface of the positive control PPI andSARS CoV&#8208;2 / ACE2 PPI. Finally, a comparative analysis of hot&#8208;spot residues for SARSCoVand SARS&#8208;CoV&#8208;2, in complex with ACE2, is provided. Collectively, this studyilluminates predicted hot&#8208;spot residues, and clusters, at the SARS CoV&#8208;2 RBD / ACE2binding interface, potentially guiding the development of reagents capable of disruptingthis complex and halting COVID&#8208;19.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Computational Hot&#8208;Spot Analysis of the SARS&#8208;CoV&#8208;2 Receptor Binding Domain / ACE2 Complex</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000562</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-11T05:21:17-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000562</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000562</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000540">
+      <title>Unleashing the Power of Biocatalysts</title>
+      <dc:description>
+Simple and selective: A standing challenge in modern drug development is to simplify synthetic routes to complex molecules. Capitalizing on their exquisite selectivity, biocatalysts provide a complementary solution to traditional chemical synthesis. This viewpoint highlights the strategic application of biocatalyst to enable efficient access to complex drug molecules.
+
+
+
+
+
+
+
+Abstract
+Biocatalysis is a continuously expanding subfield in chemical biology. Herein, I describe two categories of biocatalysts, the LEGO&#8208;brick&#8208;like and game&#8208;console&#8208;like type, both of which can streamline the synthetic routes to therapeutics. A multi&#8208;disciplinary approach to expand the biocatalytic toolkit will open up opportunities to develop new therapeutics.
+</dc:description>
+      <dc:creator>
+Mengbin Chen
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000540</link>
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/9d077f96-d18d-4909-a5e1-da4680761c8e/cbic202000540-toc-0001-m.png"
+     alt="Unleashing the Power of Biocatalysts"/&gt;
+&lt;p&gt;&lt;b&gt;Simple and selective&lt;/b&gt;: A standing challenge in modern drug development is to simplify synthetic routes to complex molecules. Capitalizing on their exquisite selectivity, biocatalysts provide a complementary solution to traditional chemical synthesis. This viewpoint highlights the strategic application of biocatalyst to enable efficient access to complex drug molecules.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Biocatalysis is a continuously expanding subfield in chemical biology. Herein, I describe two categories of biocatalysts, the LEGO&#8208;brick&#8208;like and game&#8208;console&#8208;like type, both of which can streamline the synthetic routes to therapeutics. A multi&#8208;disciplinary approach to expand the biocatalytic toolkit will open up opportunities to develop new therapeutics.&lt;/p&gt;
+</content:encoded>
+      <description>ChemBioChem, EarlyView. </description>
+      <dc:title>Unleashing the Power of Biocatalysts</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000540</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-11T04:57:16-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000540</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000540</prism:url>
+      <prism:copyright />
+      <prism:section>Viewpoint</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000622">
       <title>Electrochemical Quantification of Neurotransmitters in Single Live Cell Vesicles Shows Exocytosis is Predominantly Partial</title>
       <dc:description>
