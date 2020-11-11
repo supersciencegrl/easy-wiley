@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014265" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006970" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011318" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014392" />
@@ -208,7 +209,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012027" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011278" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011887" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013681" />
          </rdf:Seq>
       </items>
    </channel>
@@ -217,6 +217,33 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202014265">
+      <title>A Multilayer Ceramic Electrolyte for All&#8208;solid&#8208;state Li Batteries</title>
+      <dc:description>Garnet structured solid&#8208;state electrolytes Li  6.75  La  3  Zr  1.75  Ta  0.25  O  12  (LLZTO), despite of the advantages of good chemical stability with Li&#8208;metal and high ionic conductivity, suffers from large interfacial resistance and quick short circuit owing to a poor wettability with Li&#8208;metal and severe Li&#8208;metal growth on both interface and inside. To address these issues, a dual layer ceramic electrolyte of Ti&#8208;doped LLZTO(Ti&#8208;LLZTO)/LLZTO electrolyte was developed with the electrochemically reducible Ti&#8208;LLZTO layer contacting the Li&#8208;metal and the LLZTO layer contacting the cathode. The employment of the identical crystal structures of Ti&#8208;LLZTO with LLZTO enables a seamless contact and a barrier less Li  +  transport between them. In the same preparation condition, the densities of Ti&#8208;LLZTO pellets are obviously higher than that of the undoped LLZTO. In addition, with an  in&#8208;situ  reduction of Ti&#8208;LLZTO by Li&#8208;metal, the interfacial wettability was improved and a mixed ion&#8208;electron conducting layer was established. Both features would not only reduce defects/pores on interface, but also homogenizes the interfacial ionic/electronic flux, facilitating the reduction of interfacial resistance and suppression of dendrites. With the help of Ti&#8208;LLZTO layer, long&#8208;term stable lithium plating/stripping was reached for a large areal capacity of 3.0 mAh cm  &#8208;2  .</dc:description>
+      <dc:creator>
+Jianxun Zhu, 
+XiaoLei Li, 
+Changwei Wu, 
+Jian Gao, 
+Henghui Xu, 
+Yutao Li, 
+Xiangxin Guo, 
+Hong Li, 
+Weidong Zhou
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014265</link>
+      <content:encoded>&lt;p&gt;Garnet structured solid&#8208;state electrolytes Li  6.75  La  3  Zr  1.75  Ta  0.25  O  12  (LLZTO), despite of the advantages of good chemical stability with Li&#8208;metal and high ionic conductivity, suffers from large interfacial resistance and quick short circuit owing to a poor wettability with Li&#8208;metal and severe Li&#8208;metal growth on both interface and inside. To address these issues, a dual layer ceramic electrolyte of Ti&#8208;doped LLZTO(Ti&#8208;LLZTO)/LLZTO electrolyte was developed with the electrochemically reducible Ti&#8208;LLZTO layer contacting the Li&#8208;metal and the LLZTO layer contacting the cathode. The employment of the identical crystal structures of Ti&#8208;LLZTO with LLZTO enables a seamless contact and a barrier less Li  +  transport between them. In the same preparation condition, the densities of Ti&#8208;LLZTO pellets are obviously higher than that of the undoped LLZTO. In addition, with an  in&#8208;situ  reduction of Ti&#8208;LLZTO by Li&#8208;metal, the interfacial wettability was improved and a mixed ion&#8208;electron conducting layer was established. Both features would not only reduce defects/pores on interface, but also homogenizes the interfacial ionic/electronic flux, facilitating the reduction of interfacial resistance and suppression of dendrites. With the help of Ti&#8208;LLZTO layer, long&#8208;term stable lithium plating/stripping was reached for a large areal capacity of 3.0 mAh cm  &#8208;2  .&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A Multilayer Ceramic Electrolyte for All&#8208;solid&#8208;state Li Batteries</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014265</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-11T10:10:44-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014265</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014265</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014392">
       <title>Direct Imaging of Atomic Permeation Through a Vacancy Defect in the Carbon Lattice</title>
       <dc:description>
@@ -1828,32 +1855,6 @@ Piet Herdewijn
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202011887</prism:doi>
       <prism:url>https://doi.org/10.1002/anie.202011887</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013681">
-      <title>A 34&#8208;Electron Superatom Ag78 Cluster with Regioselective Ternary Ligands Shells and Its 2D Rhombic Superlattice Assembly</title>
-      <dc:description>The coverage of surface ligands has important influence on the formation, structure and properties of atomically precise metal nanoclusters.  Herein, we report a 78&#8208;nuclei silver nanocluster [Ag  78  (  i  PrPhS)  30  (dppm)  10  Cl  10  ]  4+  (  SD/Ag78a  ; dppm = bis&#8208;(diphenyphosphino)methane) that is synthesized by one&#8208;pot reaction using [Ag(pz)]  n  as precursor (Hpz = pyrazole) and further characterized by X&#8208;ray crystallography.  SD/Ag78a  shows a core&#8208;shell structure comprised of an all&#8208;metallic Ag  53  kernel surrounded by an Ag  25  discontinuous metal&#8208;organic shell. The Ag  53  kernel is an Ag  13  Inodecahedron encaged by an Ag  40  drum&#8208;like shell, while the Ag  25  shell consists of two Ag  10  S  10  P  10  Cl  5  rings and five S&#8208;Ag&#8208;S staples. Three types of ligands regioselectively cap on the surface of the Ag  78  nanocluster, forming diverse metal&#8208;ligand interfacial structures such as  S&#8208;Ag&#8208;S staples, Cl&#8208;capped Ag  3  trigons and S&#8208;capped Ag  4  tetragons.  This nanocluster is a closed&#8208;shell 34&#8208;electron superatom with +4 charge state and shows highly featured molecule&#8208;like absorption spectra in the ultraviolet&#8208;visible region with a maximum around 493 nm. The rhombic superlattice assembled from  SD/Ag78a  through intercluster C&#8208;H&#183;&#183;&#183;&#960; interactions can be formed by a simple drop&#8208;casting treatment. This work not only reveals the complicated surface chemistry of silver nanocluster but also provides a promising ternary ligand strategy for the syntheses of them.</dc:description>
-      <dc:creator>
-WEN-JING Zhang, 
-zhen LIU, 
-kepeng Song, 
-Christine M. Aikens, 
-shanshan Zhang, 
-zhi WANG, 
-CHEN-HO TUNG, 
-Di Sun
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013681</link>
-      <content:encoded>&lt;p&gt;The coverage of surface ligands has important influence on the formation, structure and properties of atomically precise metal nanoclusters.  Herein, we report a 78&#8208;nuclei silver nanocluster [Ag  78  (  i  PrPhS)  30  (dppm)  10  Cl  10  ]  4+  (  SD/Ag78a  ; dppm = bis&#8208;(diphenyphosphino)methane) that is synthesized by one&#8208;pot reaction using [Ag(pz)]  n  as precursor (Hpz = pyrazole) and further characterized by X&#8208;ray crystallography.  SD/Ag78a  shows a core&#8208;shell structure comprised of an all&#8208;metallic Ag  53  kernel surrounded by an Ag  25  discontinuous metal&#8208;organic shell. The Ag  53  kernel is an Ag  13  Inodecahedron encaged by an Ag  40  drum&#8208;like shell, while the Ag  25  shell consists of two Ag  10  S  10  P  10  Cl  5  rings and five S&#8208;Ag&#8208;S staples. Three types of ligands regioselectively cap on the surface of the Ag  78  nanocluster, forming diverse metal&#8208;ligand interfacial structures such as  S&#8208;Ag&#8208;S staples, Cl&#8208;capped Ag  3  trigons and S&#8208;capped Ag  4  tetragons.  This nanocluster is a closed&#8208;shell 34&#8208;electron superatom with +4 charge state and shows highly featured molecule&#8208;like absorption spectra in the ultraviolet&#8208;visible region with a maximum around 493 nm. The rhombic superlattice assembled from  SD/Ag78a  through intercluster C&#8208;H&#183;&#183;&#183;&#960; interactions can be formed by a simple drop&#8208;casting treatment. This work not only reveals the complicated surface chemistry of silver nanocluster but also provides a promising ternary ligand strategy for the syntheses of them.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A 34&#8208;Electron Superatom Ag78 Cluster with Regioselective Ternary Ligands Shells and Its 2D Rhombic Superlattice Assembly</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013681</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-03T07:01:51-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013681</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013681</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
