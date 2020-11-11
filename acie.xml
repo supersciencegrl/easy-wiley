@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012469" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014265" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006970" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011318" />
@@ -208,7 +209,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012552" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012027" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011278" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011887" />
          </rdf:Seq>
       </items>
    </channel>
@@ -217,6 +217,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202012469">
+      <title>Ultra&#8208;Low Loading Pt/CeO2 Catalysts: Ceria Facet Effect Affords Improved Pairwise Selectivity for Parahydrogen Enhanced NMR</title>
+      <dc:description>Oxide supports with well&#8208;defined shapes are beneficial in catalysis studies as they enable investigations on the effects of surface structure on metal&#8208;support interactions as well as correlations to catalytic activity and selectivity. Here, a modified atomic layer deposition technique was developed to achieve ultra&#8208;low loadings (8&#8208;16 ppm) of Pt on shaped ceria nanocrystals. By using octahedra and cubes, which expose exclusively (111) and (100) surfaces respectively, the effect of CeO2  surface facet on the Pt&#8208;CeO2  interactions under reducing conditions was revealed. Strong electronic interactions were found to result in electron&#8208;deficient Pt species on the CeO2  (111) after reduction, which increased the stability of the atomically dispersed Pt and afforded significantly higher NMR signal enhancement compared with the electron&#8208;rich platinum on the CeO  2  (100), and a factor of two higher pairwise selectivity (6.1 %) than previously reported for a monometallic heterogeneous Pt catalyst.</dc:description>
+      <dc:creator>
+Bochuan Song, 
+Diana Choi, 
+Yan Xin, 
+Clifford  R Bowers, 
+Helena Hagelin Weaver
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202012469</link>
+      <content:encoded>&lt;p&gt;Oxide supports with well&#8208;defined shapes are beneficial in catalysis studies as they enable investigations on the effects of surface structure on metal&#8208;support interactions as well as correlations to catalytic activity and selectivity. Here, a modified atomic layer deposition technique was developed to achieve ultra&#8208;low loadings (8&#8208;16 ppm) of Pt on shaped ceria nanocrystals. By using octahedra and cubes, which expose exclusively (111) and (100) surfaces respectively, the effect of CeO2  surface facet on the Pt&#8208;CeO2  interactions under reducing conditions was revealed. Strong electronic interactions were found to result in electron&#8208;deficient Pt species on the CeO2  (111) after reduction, which increased the stability of the atomically dispersed Pt and afforded significantly higher NMR signal enhancement compared with the electron&#8208;rich platinum on the CeO  2  (100), and a factor of two higher pairwise selectivity (6.1 %) than previously reported for a monometallic heterogeneous Pt catalyst.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Ultra&#8208;Low Loading Pt/CeO2 Catalysts: Ceria Facet Effect Affords Improved Pairwise Selectivity for Parahydrogen Enhanced NMR</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012469</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-11T10:40:52-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012469</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202012469</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014265">
       <title>A Multilayer Ceramic Electrolyte for All&#8208;solid&#8208;state Li Batteries</title>
       <dc:description>Garnet structured solid&#8208;state electrolytes Li  6.75  La  3  Zr  1.75  Ta  0.25  O  12  (LLZTO), despite of the advantages of good chemical stability with Li&#8208;metal and high ionic conductivity, suffers from large interfacial resistance and quick short circuit owing to a poor wettability with Li&#8208;metal and severe Li&#8208;metal growth on both interface and inside. To address these issues, a dual layer ceramic electrolyte of Ti&#8208;doped LLZTO(Ti&#8208;LLZTO)/LLZTO electrolyte was developed with the electrochemically reducible Ti&#8208;LLZTO layer contacting the Li&#8208;metal and the LLZTO layer contacting the cathode. The employment of the identical crystal structures of Ti&#8208;LLZTO with LLZTO enables a seamless contact and a barrier less Li  +  transport between them. In the same preparation condition, the densities of Ti&#8208;LLZTO pellets are obviously higher than that of the undoped LLZTO. In addition, with an  in&#8208;situ  reduction of Ti&#8208;LLZTO by Li&#8208;metal, the interfacial wettability was improved and a mixed ion&#8208;electron conducting layer was established. Both features would not only reduce defects/pores on interface, but also homogenizes the interfacial ionic/electronic flux, facilitating the reduction of interfacial resistance and suppression of dendrites. With the help of Ti&#8208;LLZTO layer, long&#8208;term stable lithium plating/stripping was reached for a large areal capacity of 3.0 mAh cm  &#8208;2  .</dc:description>
@@ -1836,26 +1859,4 @@ Yitzhak Apeloig
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011887">
-      <title>The Network of Replication, Transcription, and Reverse Transcription of a Synthetic Genetic Cassette</title>
-      <dc:description>Synthetic nucleic acids, with four non&#8208;canonical nucleobases, can function as genetic materials. A comprehensive analysis of PCR amplification, transcription, reverse transcription, and cloning was done to screen for alternative genetic monomers. A small library of six modified nucleobases was selected: the modified 2&#8242;&#8208;deoxyribonucleoside (dZTPs) and ribonucleoside (rZTPs) triphosphates of 7&#8208;deaza&#8208;adenine, 5&#8208;chlorouracil, 7&#8208;deaza&#8208;guanine or inosine together with 5&#8208;fluorocytosine or 5&#8208;bromocytosine. The fragments composed of one to four modified nucleotides (denoted as DZA) have been successfully recognised and transcribed to natural or modified RNA (denoted as RZA) by T7 RNA polymerase. The fully modified RZA fragment could be reverse transcribed and then amplified in the presence of various dZTPs. Noticeably, modified fragments could function as genetic templates  in vivo  by encoding the 678 base pair gene of a fluorescent protein in bacteria. These results demonstrate the existence of a fully simulated genetic circuit that uses synthetic materials.</dc:description>
-      <dc:creator>
-Hui Yang, 
-Elena Eremeeva, 
-Mikhail Abramov, 
-Piet Herdewijn
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202011887</link>
-      <content:encoded>&lt;p&gt;Synthetic nucleic acids, with four non&#8208;canonical nucleobases, can function as genetic materials. A comprehensive analysis of PCR amplification, transcription, reverse transcription, and cloning was done to screen for alternative genetic monomers. A small library of six modified nucleobases was selected: the modified 2&#8242;&#8208;deoxyribonucleoside (dZTPs) and ribonucleoside (rZTPs) triphosphates of 7&#8208;deaza&#8208;adenine, 5&#8208;chlorouracil, 7&#8208;deaza&#8208;guanine or inosine together with 5&#8208;fluorocytosine or 5&#8208;bromocytosine. The fragments composed of one to four modified nucleotides (denoted as DZA) have been successfully recognised and transcribed to natural or modified RNA (denoted as RZA) by T7 RNA polymerase. The fully modified RZA fragment could be reverse transcribed and then amplified in the presence of various dZTPs. Noticeably, modified fragments could function as genetic templates  in vivo  by encoding the 678 base pair gene of a fluorescent protein in bacteria. These results demonstrate the existence of a fully simulated genetic circuit that uses synthetic materials.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>The Network of Replication, Transcription, and Reverse Transcription of a Synthetic Genetic Cassette</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011887</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-03T09:17:29-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011887</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202011887</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
