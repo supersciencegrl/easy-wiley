@@ -9,6 +9,9 @@
       <prism:publicationName>Advanced Synthesis &amp; Catalysis (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000886" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000975" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001040" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000866" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000848" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000956" />
@@ -90,7 +93,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000964" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001091" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001003" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000975" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000961" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001000" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001047" />
@@ -110,10 +112,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202001033" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000859" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000762" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000887" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000936" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000896" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adsc.202000886" />
          </rdf:Seq>
       </items>
    </channel>
@@ -122,6 +121,31 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/16154169.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/16154169</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adsc.202001040">
+      <title>Recent Achievements in the Rhodium&#8208;Catalyzed Concise Construction of Medium N&#8208;Heterocycles, Azepines and Azocines</title>
+      <dc:description>Medium N&#8208;heterocycles, azepines and azocines, serve as important skeletons that occurred widely in natural products, however, due to the lack of efficient synthetic methodologies, their application potential in biologically active molecules, pharmaceuticals and agrochemicals remained to be explored. In this context, rhodium catalysis in this field featured good reactivity and functional group tolerance, with readily available starting materials, and enabled rapid access to the azepines and azocines. Delightfully, great achievements in the concise construction of these 7 and 8&#8208;membered N&#8208;heterocycles under Rh&#8208;catalysis have been made, which mainly included cycloisomerization of unsaturated C&#8210;X bonds (which might also combine the ring&#8208;opening strategy on strained rings), metal carbenoid or nitrene insertion involved transformations, and direct C&#8210;H activation reactions. Considering the great performance of rhodium catalyst in the synthesis of azepines and azocines, herein, we summarized the recent results in this field, and wish to give further insight and inspired more encouraging methodologies and new drug discovery based on these 7 and 8&#8208;membered N&#8208;heterocycles.</dc:description>
+      <dc:creator>
+Wensen Ouyang, 
+Jianhang Rao, 
+Yibiao Li, 
+Xiaohang Liu, 
+Yanping Huo, 
+Qian Chen, 
+Xianwei Li
+</dc:creator>
+      <link>https://doi.org/10.1002/adsc.202001040</link>
+      <content:encoded>&lt;p&gt;Medium N&#8208;heterocycles, azepines and azocines, serve as important skeletons that occurred widely in natural products, however, due to the lack of efficient synthetic methodologies, their application potential in biologically active molecules, pharmaceuticals and agrochemicals remained to be explored. In this context, rhodium catalysis in this field featured good reactivity and functional group tolerance, with readily available starting materials, and enabled rapid access to the azepines and azocines. Delightfully, great achievements in the concise construction of these 7 and 8&#8208;membered N&#8208;heterocycles under Rh&#8208;catalysis have been made, which mainly included cycloisomerization of unsaturated C&#8210;X bonds (which might also combine the ring&#8208;opening strategy on strained rings), metal carbenoid or nitrene insertion involved transformations, and direct C&#8210;H activation reactions. Considering the great performance of rhodium catalyst in the synthesis of azepines and azocines, herein, we summarized the recent results in this field, and wish to give further insight and inspired more encouraging methodologies and new drug discovery based on these 7 and 8&#8208;membered N&#8208;heterocycles.&lt;/p&gt;</content:encoded>
+      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
+      <dc:title>Recent Achievements in the Rhodium&#8208;Catalyzed Concise Construction of Medium N&#8208;Heterocycles, Azepines and Azocines</dc:title>
+      <dc:identifier>doi:10.1002/adsc.202001040</dc:identifier>
+      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
+      <dc:date>2020-11-12T07:14:40-08:00</dc:date>
+      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
+      <prism:doi>10.1002/adsc.202001040</prism:doi>
+      <prism:url>https://doi.org/10.1002/adsc.202001040</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202001320">
       <title>Palladium&#8208;Catalyzed Selective Carbofunctionalization of Inert &#947;&#8208;C(sp3)&#8208;O Bonds with 4&#8208;Hydroxypyridin&#8208;2(1H)&#8208;ones and 4&#8208;Hydroxy&#8208;2H&#8208;pyran&#8208;2&#8208;ones</title>
       <dc:description>
@@ -586,29 +610,6 @@ Peng Huang
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000975">
-      <title>Free&#8208;radical Initialized Cyclization of 2&#8208;(3&#8208;Arylpropioloyl)benzaldehydes with Toluene Derivatives: Access to Benzylated 1,4&#8208;Naphthoquinones via Copper&#8208;Catalyzed Cascade Reaction</title>
-      <dc:description>A copper&#8208;catalyzed cyclization reaction of 2&#8208;(3&#8208;arylpropioloyl)benzaldehydes was developed, leading to benzylated 1,4&#8208;naphthoquinones via radical&#8208;triggered cascade cyclization. This example of an acylbenzylation involving internal alkynes could be carried out with a broad substrate scope and wide functional group tolerance.</dc:description>
-      <dc:creator>
-Bingbin Zhu, 
-Hang Han, 
-Weike Su, 
-Chuanming Yu, 
-Xinpeng Jiang
-</dc:creator>
-      <link>https://doi.org/10.1002/adsc.202000975</link>
-      <content:encoded>&lt;p&gt;A copper&#8208;catalyzed cyclization reaction of 2&#8208;(3&#8208;arylpropioloyl)benzaldehydes was developed, leading to benzylated 1,4&#8208;naphthoquinones via radical&#8208;triggered cascade cyclization. This example of an acylbenzylation involving internal alkynes could be carried out with a broad substrate scope and wide functional group tolerance.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>Free&#8208;radical Initialized Cyclization of 2&#8208;(3&#8208;Arylpropioloyl)benzaldehydes with Toluene Derivatives: Access to Benzylated 1,4&#8208;Naphthoquinones via Copper&#8208;Catalyzed Cascade Reaction</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000975</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-10-28T08:28:14-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000975</prism:doi>
-      <prism:url>https://doi.org/10.1002/adsc.202000975</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/adsc.202000961">
       <title>Recent Advances in Asymmetric Organomulticatalysis</title>
       <dc:description>Asymmetric multi&#8208;catalysis, designed to mimic catalytic processes in nature, is a powerful instrument to fulfil fascinating transformations. As a result, this area of research has attracted considerable interests within chemistry communities. Although there are numerous reviews involving multi&#8208;catalysis, reviews describing asymmetric organomulticatalysis remain rare. Taking into consideration that organocatalysts possess the superiorities of effortless availability, inexpensiveness, hypotoxicity, facile handling and hyposensitivity to moisture and oxygen, they have definite advantage in their own distinct modes of activation when utilized in multi&#8208;catalytic reactions. Organomulticatalysis refers to the synthetic strategies of modular combination of organo&#8208;catalyzed reactions into one synthetic operation with minimum workup or change in conditions. It is apparent that a variety reports utilizing the concept of enantioselective organomulticatalysis have substantially surfaced in the past few years. Hence, it is indispensable to succinctly present all such reports by means of disclosing the mechanistic analysis, as well as the challenges and issues associated in the development of the asymmetric catalytic system. Additionally, this review will introduce some of the unsettled conundrums and possible innovations in this field.</dc:description>
@@ -714,29 +715,5 @@ Very recently, propargylic alcohols were appointed as valuable archetypes in are
       <prism:url>https://doi.org/10.1002/adsc.202000896</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adsc.202000886">
-      <title>Stereospecific Synthesis of Glycoside Mimics Through Migita&#8211;Kosugi&#8211;Stille Cross&#8208;Coupling Reactions of Chemically and Configurationally Stable 1&#8208;C&#8208;Tributylstannyl Iminosugars</title>
-      <dc:description>A process for the de novo synthesis of imino&#8208;C&#8208;glycosides is described. The methodology is based on the reaction of 1&#8208;C&#8208;stannylated iminosugars with various electrophiles under the conditions of Migita&#8211;Kosugi&#8211;Stille cross&#8208;couplings, which gives 1&#8208;C&#8208;substituted iminosugar derivatives in a stereoretentive process. The required iminoglycosyl stannanes are obtained by way of the highly stereoselective addition of tributylstannyllithium to (SR)&#8208; or (SS)&#8208;N&#8208;tert&#8208;butanesulfinyl glycosylamines, followed by an activation cyclization sequence.	Most interestingly, the methodology is tunable: the configuration of the tin adduct is controlled exclusively by the tert&#8208;butanesulfinyl auxiliary, thus giving access after ring formation to &#8216;&#945;&#8217;&#8208;configured or &#8216;&#946;&#8217;&#8208;configured iminoglycosyl stannanes. With the subsequent stereoretentive C&#8210;C bond&#8208;forming process, the methodology allows the synthesis of pseudo anomers of imino&#8208;C&#8208;glycosyl compounds in a controlled fashion.</dc:description>
-      <dc:creator>
-Cyril NICOLAS, 
-Sizhe Li, 
-Justyna Jaszczyk, 
-Thomas Poisson, 
-Xavier Pannecoucke, 
-Olivier R. Martin
-</dc:creator>
-      <link>https://doi.org/10.1002/adsc.202000886</link>
-      <content:encoded>&lt;p&gt;A process for the de novo synthesis of imino&#8208;C&#8208;glycosides is described. The methodology is based on the reaction of 1&#8208;C&#8208;stannylated iminosugars with various electrophiles under the conditions of Migita&#8211;Kosugi&#8211;Stille cross&#8208;couplings, which gives 1&#8208;C&#8208;substituted iminosugar derivatives in a stereoretentive process. The required iminoglycosyl stannanes are obtained by way of the highly stereoselective addition of tributylstannyllithium to (SR)&#8208; or (SS)&#8208;N&#8208;tert&#8208;butanesulfinyl glycosylamines, followed by an activation cyclization sequence.	Most interestingly, the methodology is tunable: the configuration of the tin adduct is controlled exclusively by the tert&#8208;butanesulfinyl auxiliary, thus giving access after ring formation to &#8216;&#945;&#8217;&#8208;configured or &#8216;&#946;&#8217;&#8208;configured iminoglycosyl stannanes. With the subsequent stereoretentive C&#8210;C bond&#8208;forming process, the methodology allows the synthesis of pseudo anomers of imino&#8208;C&#8208;glycosyl compounds in a controlled fashion.&lt;/p&gt;</content:encoded>
-      <description>Advanced Synthesis &amp; Catalysis, Accepted Article. </description>
-      <dc:title>Stereospecific Synthesis of Glycoside Mimics Through Migita&#8211;Kosugi&#8211;Stille Cross&#8208;Coupling Reactions of Chemically and Configurationally Stable 1&#8208;C&#8208;Tributylstannyl Iminosugars</dc:title>
-      <dc:identifier>doi:10.1002/adsc.202000886</dc:identifier>
-      <dc:source>Advanced Synthesis &amp; Catalysis</dc:source>
-      <dc:date>2020-09-09T07:25:58-07:00</dc:date>
-      <prism:publicationName>Advanced Synthesis &amp; Catalysis</prism:publicationName>
-      <prism:doi>10.1002/adsc.202000886</prism:doi>
-      <prism:url>https://doi.org/10.1002/adsc.202000886</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
