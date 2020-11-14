@@ -9,6 +9,13 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012547" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012444" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011513" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011460" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013885" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011593" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012643" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010870" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010101" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012237" />
@@ -202,13 +209,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012066" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010987" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013227" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014328" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014670" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008691" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014133" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013169" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012687" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008231" />
          </rdf:Seq>
       </items>
    </channel>
@@ -217,6 +217,187 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202012547">
+      <title>Reshaping the Cathodic Catalyst Layer for Anion Exchange Membrane Fuel Cells: from Heterogeneous Catalysis to Homogeneous Catalysis</title>
+      <dc:description>In anion exchange membrane fuel cells, catalytic reactions occur at a well&#8208;defined three&#8208;phase interface, wherein conventional heterogeneous catalyst layer structures exacerbate problems such as low catalyst utilization and limited mass transfer. We developed a structural engineering strategy to immobilize a molecular catalyst tetrakis(4&#8208;methoxyphenyl)porphyrin cobalt(II) (TMPPCo) on the side chains of an ionomer (polyfluorene, PF) to obtain a composite material (PF&#8208;TMPPCo), thereby achieving a homogeneous catalysis environment inside ion flow channels, with greatly improved mass transfer and turnover frequency due to 100% utilization of the catalyst molecules. The unique brand&#8208;new structure of the homogeneous catalysis system comprising interconnected nanoreactors exhibits advantages of low overpotential and high fuel cell power density. This strategy of reshaping of the catalyst layer structure may serve as a new platform for applications of many molecular catalysts in fuel cells.</dc:description>
+      <dc:creator>
+Rong Ren, 
+Xiaojiang Wang, 
+Hengquan Chen, 
+Hamish  Andrew Miller, 
+Ihtasham Salam, 
+John  Robert Varcoe, 
+Liang Wu, 
+Youhu Chen, 
+Hong-Gang Liao, 
+Ershuai Liu, 
+Francesco Bartoli, 
+Francesco Vizza, 
+Qingying Jia, 
+Qinggang He
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202012547</link>
+      <content:encoded>&lt;p&gt;In anion exchange membrane fuel cells, catalytic reactions occur at a well&#8208;defined three&#8208;phase interface, wherein conventional heterogeneous catalyst layer structures exacerbate problems such as low catalyst utilization and limited mass transfer. We developed a structural engineering strategy to immobilize a molecular catalyst tetrakis(4&#8208;methoxyphenyl)porphyrin cobalt(II) (TMPPCo) on the side chains of an ionomer (polyfluorene, PF) to obtain a composite material (PF&#8208;TMPPCo), thereby achieving a homogeneous catalysis environment inside ion flow channels, with greatly improved mass transfer and turnover frequency due to 100% utilization of the catalyst molecules. The unique brand&#8208;new structure of the homogeneous catalysis system comprising interconnected nanoreactors exhibits advantages of low overpotential and high fuel cell power density. This strategy of reshaping of the catalyst layer structure may serve as a new platform for applications of many molecular catalysts in fuel cells.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Reshaping the Cathodic Catalyst Layer for Anion Exchange Membrane Fuel Cells: from Heterogeneous Catalysis to Homogeneous Catalysis</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012547</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T11:44:08-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012547</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202012547</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202012444">
+      <title>Selection and Characterization of an RNA&#8208;cleaving DNAzyme Specifically Activated by Legionella pneumophila</title>
+      <dc:description>Legionella pneumophila  is a deadly bacterial pathogen that has caused numerous Legionnaires&#8217; disease outbreaks, where cooling towers were the most common source of exposure. Bacterial culturing is used for  L. pneumophila  detection, but this method takes approximately 10 days to complete. In this work, we isolated an RNA&#8208;cleaving fluorogenic DNAzyme, named LP1. Extensive characterization revealed that LP1 is reactive with multiple infectious isolates of  L. pneumophila  but inactive with 25 other common bacterial species. It is likely activated by a protein target, is capable of generating a detectable signal in the presence of as few as 10 colony forming units of  L. pneumophila  , and is able to maintain its activity in cooling tower water from diverse sources. Given that similar DNAzymes have been incorporated into many sensitive assays for bacterial detection, LP1 holds the potential for the development of biosensors for monitoring the contamination of  L. pneumophila  in exposure sources.</dc:description>
+      <dc:creator>
+Meghan Rothenbroker, 
+Erin  M. McConnell, 
+Jimmy Gu, 
+Malene  L. Urbanus, 
+Sahar  Esmaeili Samani, 
+Alex  W. Ensminger, 
+Carlos  D. M. Filipe, 
+Yingfu Li
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202012444</link>
+      <content:encoded>&lt;p&gt;Legionella pneumophila  is a deadly bacterial pathogen that has caused numerous Legionnaires&#8217; disease outbreaks, where cooling towers were the most common source of exposure. Bacterial culturing is used for  L. pneumophila  detection, but this method takes approximately 10 days to complete. In this work, we isolated an RNA&#8208;cleaving fluorogenic DNAzyme, named LP1. Extensive characterization revealed that LP1 is reactive with multiple infectious isolates of  L. pneumophila  but inactive with 25 other common bacterial species. It is likely activated by a protein target, is capable of generating a detectable signal in the presence of as few as 10 colony forming units of  L. pneumophila  , and is able to maintain its activity in cooling tower water from diverse sources. Given that similar DNAzymes have been incorporated into many sensitive assays for bacterial detection, LP1 holds the potential for the development of biosensors for monitoring the contamination of  L. pneumophila  in exposure sources.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Selection and Characterization of an RNA&#8208;cleaving DNAzyme Specifically Activated by Legionella pneumophila</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012444</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T07:19:53-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012444</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202012444</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011513">
+      <title>A novel class of 1H&#8208;MRI Contrast Agents based on the relaxation enhancement induced on water protons by 14N imidazole moieties</title>
+      <dc:description>This study aims at developing a completely new class of MRI contrast agents, displaying remarkable relaxation effects in the absence of paramagnetic metal ions. Their detection requires the acquisition of images at variable magnetic field strength as provided by Fast Field Cycling imaging scanners. They contain poly&#8208;histidine chains (poly&#8208;His), whose imidazole groups generate  14  N&#8208;Quadrupolar&#8208;Peaks that cause a relaxation enhancement of water protons at a frequency (1.38&#177;0.3MHz) that is well distinct from the frequencies associated with endogenous proteins. The poly&#8208;His QPs are detectable only when the polymer is in a solid&#8208;like form, i.e. at pH&gt;6.6. Above this value their intensity is pH dependent and can be used to report on the occurring pH changes. On this basis, the poly&#8208;His moieties were conjugated to biocompatible polymers such as polylactic and glycolic acid, in order to form stable nanoparticles able to encapsulate structured water in their core. FFC images were acquired to assess their contrast&#8208;generating ability.</dc:description>
+      <dc:creator>
+Simonetta Geninatti Crich, 
+Simona Baroni, 
+Rachele Stefania, 
+Lionel  M. Broche, 
+Nicholas Senn, 
+David  J. Lurie, 
+James  J. Ross, 
+Silvio Aime
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202011513</link>
+      <content:encoded>&lt;p&gt;This study aims at developing a completely new class of MRI contrast agents, displaying remarkable relaxation effects in the absence of paramagnetic metal ions. Their detection requires the acquisition of images at variable magnetic field strength as provided by Fast Field Cycling imaging scanners. They contain poly&#8208;histidine chains (poly&#8208;His), whose imidazole groups generate  14  N&#8208;Quadrupolar&#8208;Peaks that cause a relaxation enhancement of water protons at a frequency (1.38&#177;0.3MHz) that is well distinct from the frequencies associated with endogenous proteins. The poly&#8208;His QPs are detectable only when the polymer is in a solid&#8208;like form, i.e. at pH&amp;gt;6.6. Above this value their intensity is pH dependent and can be used to report on the occurring pH changes. On this basis, the poly&#8208;His moieties were conjugated to biocompatible polymers such as polylactic and glycolic acid, in order to form stable nanoparticles able to encapsulate structured water in their core. FFC images were acquired to assess their contrast&#8208;generating ability.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>A novel class of 1H&#8208;MRI Contrast Agents based on the relaxation enhancement induced on water protons by 14N imidazole moieties</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011513</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T11:25:00-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011513</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202011513</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011460">
+      <title>Rapid and selective chemical editing of Ribosomally synthesized and Post&#8208;translationally modified Peptides (RiPPs) via Cu(II)&#8208;catalyzed &#946;&#8208;borylation of dehydroamino acids</title>
+      <dc:description>We report the fast and selective chemical editing of ribosomally synthesized and post&#8208;translationally modified peptides (RiPPs) by &#946;&#8208;borylation of dehydroalanine residues. The thiopeptide thiostrepton was modified efficiently using Cu(II)&#8208;catalysis under mild conditions and 1D/2D NMR of the purified product showed site&#8208;selective borylation of the terminal Dha residues. Using similar conditions, the thiopeptide nosiheptide, lanthipeptide nisin Z and protein SUMO_G98Dha were also modified efficiently. Borylated thiostrepton showed an up to 84&#8208;fold increase in water solubility, and MIC assays showed that antimicrobial activity was maintained in thiostrepton and nosiheptide. The introduced boronic acid functionalities were shown to be valuable handles for chemical mutagenesis and in a reversible click reaction with triols for the pH&#8208;controlled labeling of RiPPs.</dc:description>
+      <dc:creator>
+Reinder  H. de Vries, 
+Jakob  H. Viel, 
+Oscar  P. Kuipers, 
+Gerard Roelfes
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202011460</link>
+      <content:encoded>&lt;p&gt;We report the fast and selective chemical editing of ribosomally synthesized and post&#8208;translationally modified peptides (RiPPs) by &#946;&#8208;borylation of dehydroalanine residues. The thiopeptide thiostrepton was modified efficiently using Cu(II)&#8208;catalysis under mild conditions and 1D/2D NMR of the purified product showed site&#8208;selective borylation of the terminal Dha residues. Using similar conditions, the thiopeptide nosiheptide, lanthipeptide nisin Z and protein SUMO_G98Dha were also modified efficiently. Borylated thiostrepton showed an up to 84&#8208;fold increase in water solubility, and MIC assays showed that antimicrobial activity was maintained in thiostrepton and nosiheptide. The introduced boronic acid functionalities were shown to be valuable handles for chemical mutagenesis and in a reversible click reaction with triols for the pH&#8208;controlled labeling of RiPPs.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Rapid and selective chemical editing of Ribosomally synthesized and Post&#8208;translationally modified Peptides (RiPPs) via Cu(II)&#8208;catalyzed &#946;&#8208;borylation of dehydroamino acids</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011460</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T08:52:04-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011460</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202011460</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202013885">
+      <title>Induction of chirality in a metal&#8208;organic framework (MOF) built from achiral precursors</title>
+      <dc:description>Induction of chirality from achiral assembly system remains a huge challenge related to the origin of life and rational design of chiral materials. Here, both origin and control of chirality in a MOF built from achiral precursors have been realized. Assembling achiral H  3  BTB ligands and Zn(II)/Cd(II) clusters leads to a 2D coordination polymer (  FJI&#8208;H16  ), while introduction of achiral pyridine into such assembly system leads to a 3D chiral MOF (  FJI&#8208;H27  (  M  ) or (  P  )). The driven force for chiral origin of  FJI&#8208;H27  has been proved to be a pyridine participated kinetic&#8208;control assembly process, which can be controlled by changing the amount of pyridine and temperature, from no induction to partial induction to complete induction. The chiral generation and amplification process has been identified in detail through a pyridine&#8208;involved key intermediate (  FJI&#8208;H28  ). The targeted modification of pyridine can selectively lead to  FJI&#8208;H27  (  M  ) or  FJI&#8208;H27  (  P  ), making the chiral orientation and distribution of bulk  FJI&#8208;H27  samples can be controlled. Our work not only represents a new and highly controllable chiral induction process that may relate to the chiral origin in nature, but also firstly reveals how achiral external stimuli generate chirality from achiral precursors, and offers a guide for rational preparation of chiral MOFs.</dc:description>
+      <dc:creator>
+Dong Wu, 
+Kang Zhou, 
+Jindou Tian, 
+Caiping Liu, 
+Jiayue Tian, 
+Feilong Jiang, 
+Daqiang Yuan, 
+Jian Zhang, 
+Qihui Chen, 
+Maochun Hong
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202013885</link>
+      <content:encoded>&lt;p&gt;Induction of chirality from achiral assembly system remains a huge challenge related to the origin of life and rational design of chiral materials. Here, both origin and control of chirality in a MOF built from achiral precursors have been realized. Assembling achiral H  3  BTB ligands and Zn(II)/Cd(II) clusters leads to a 2D coordination polymer (  FJI&#8208;H16  ), while introduction of achiral pyridine into such assembly system leads to a 3D chiral MOF (  FJI&#8208;H27  (  M  ) or (  P  )). The driven force for chiral origin of  FJI&#8208;H27  has been proved to be a pyridine participated kinetic&#8208;control assembly process, which can be controlled by changing the amount of pyridine and temperature, from no induction to partial induction to complete induction. The chiral generation and amplification process has been identified in detail through a pyridine&#8208;involved key intermediate (  FJI&#8208;H28  ). The targeted modification of pyridine can selectively lead to  FJI&#8208;H27  (  M  ) or  FJI&#8208;H27  (  P  ), making the chiral orientation and distribution of bulk  FJI&#8208;H27  samples can be controlled. Our work not only represents a new and highly controllable chiral induction process that may relate to the chiral origin in nature, but also firstly reveals how achiral external stimuli generate chirality from achiral precursors, and offers a guide for rational preparation of chiral MOFs.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Induction of chirality in a metal&#8208;organic framework (MOF) built from achiral precursors</dc:title>
+      <dc:identifier>doi:10.1002/anie.202013885</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T07:29:39-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202013885</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202013885</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202011593">
+      <title>Efficient conjugation approach for coupling drugs to native antibodies via the Pt(II)&#8209;linker Lx&#174; for improved manufacturability of antibody&#8209;drug conjugates (ADCs)</title>
+      <dc:description>The Pt(II)&#8209;linker [ethylenediamineplatinum(II)]  2+  , coined  &#8220;Lx&#8221;  &#174;  , has emerged as a novel non&#8208;conventional approach to antibody&#8208;drug conjugates (ADCs) and has shown its potential in preclinical  in vitro  and  in vivo  benchmark studies. A crucial improvement of the  Lx  &#8209;conjugation reaction from initially &lt;15% to ~75&#8209;90% conjugation efficiency is described, resulting from a systematic screening of all relevant reaction parameters. The main unexpected and counterintuitive finding was that NaI, a strikingly simple inorganic salt additive, greatly improves&#160;the conjugation efficiency as well as the conjugation selectivity simply by exchanging the leaving chloride ligand on Cl&#8209;  Lx  &#8209;drug complexes &#8211; which are direct precursors for  Lx  &#8209;ADCs &#8211; for iodide, thus generating I&#8209;  Lx  &#8209;drug complexes as more reactive species. Using this &#8220;iodide effect&#8221;, we developed a general and highly practical conjugation procedure which was shown to be perfectly scalable: our lead  Lx  &#8209;ADC was produced on a 5 g scale with an outstanding conjugation efficiency of 89%. This unique metal&#8208;based conjugation approach will no doubt show its true value in future clinical trials.</dc:description>
+      <dc:creator>
+Eugen Merkul, 
+Joey  A. Muns, 
+Niels  J. Sijbrandi, 
+Hendrik-Jan Houthoff, 
+Bart Nijmeijer, 
+Gerro van Rheenen, 
+Jan Reedijk, 
+Guus  A.M.S. van Dongen
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202011593</link>
+      <content:encoded>&lt;p&gt;The Pt(II)&#8209;linker [ethylenediamineplatinum(II)]  2+  , coined  &#8220;Lx&#8221;  &#174;  , has emerged as a novel non&#8208;conventional approach to antibody&#8208;drug conjugates (ADCs) and has shown its potential in preclinical  in vitro  and  in vivo  benchmark studies. A crucial improvement of the  Lx  &#8209;conjugation reaction from initially &amp;lt;15% to ~75&#8209;90% conjugation efficiency is described, resulting from a systematic screening of all relevant reaction parameters. The main unexpected and counterintuitive finding was that NaI, a strikingly simple inorganic salt additive, greatly improves&#160;the conjugation efficiency as well as the conjugation selectivity simply by exchanging the leaving chloride ligand on Cl&#8209;  Lx  &#8209;drug complexes &#8211; which are direct precursors for  Lx  &#8209;ADCs &#8211; for iodide, thus generating I&#8209;  Lx  &#8209;drug complexes as more reactive species. Using this &#8220;iodide effect&#8221;, we developed a general and highly practical conjugation procedure which was shown to be perfectly scalable: our lead  Lx  &#8209;ADC was produced on a 5 g scale with an outstanding conjugation efficiency of 89%. This unique metal&#8208;based conjugation approach will no doubt show its true value in future clinical trials.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Efficient conjugation approach for coupling drugs to native antibodies via the Pt(II)&#8209;linker Lx&#174; for improved manufacturability of antibody&#8209;drug conjugates (ADCs)</dc:title>
+      <dc:identifier>doi:10.1002/anie.202011593</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T06:19:01-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202011593</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202011593</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202012643">
+      <title>Connecting hydrophobic surfaces in cyclic peptides increases membrane permeability</title>
+      <dc:description>N&#8208;methylation or C&#8208;methylation in natural and synthetic cyclic peptides can increase membrane permeability, but it remains unclear why this happens in some cases but not others. Here we compare three&#8208;dimensional structures for cyclic peptides from six families, including isomers differing only in the location of a single N&#8208; or Ca&#8208;methyl substituent. We show that a single methyl group only increases membrane permeability when it connects or expands hydrophobic surface patches. Positional isomers, with the same molecular weight, hydrogen bond donors/acceptors, rotatable bonds, calculated LogP, topological polar surface area and total hydrophobic surface area, can still have different membrane permeabilities that correlate with the size of the largest continuous hydrophobic surface patch. The results illuminate a key local molecular determinant of membrane permeability.</dc:description>
+      <dc:creator>
+David  P Fairlie, 
+Huy  N Hoang, 
+Timothy  A Hill
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202012643</link>
+      <content:encoded>&lt;p&gt;N&#8208;methylation or C&#8208;methylation in natural and synthetic cyclic peptides can increase membrane permeability, but it remains unclear why this happens in some cases but not others. Here we compare three&#8208;dimensional structures for cyclic peptides from six families, including isomers differing only in the location of a single N&#8208; or Ca&#8208;methyl substituent. We show that a single methyl group only increases membrane permeability when it connects or expands hydrophobic surface patches. Positional isomers, with the same molecular weight, hydrogen bond donors/acceptors, rotatable bonds, calculated LogP, topological polar surface area and total hydrophobic surface area, can still have different membrane permeabilities that correlate with the size of the largest continuous hydrophobic surface patch. The results illuminate a key local molecular determinant of membrane permeability.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Connecting hydrophobic surfaces in cyclic peptides increases membrane permeability</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012643</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-13T06:09:05-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012643</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202012643</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014538">
       <title>Controllable Distribution of Oxygen Vacancies in Grain Boundaries of p&#8208;Si/TiO2 Heterojunction Photocathodes for Solar Water Splitting</title>
       <dc:description>Silicon is a promising photocathode in photoelectrochemical water splitting for hydrogen production, but it is primarily limited by photocorrosion in aqueous electrolytes. As an extensively used protective material, crystalline TiO2 could protect Si photoelectrode against corrosion. However, a large number of grain boundaries (GBs) in polycrystalline TiO2 would induce excessive recombination centers, impeding the carrier transport. This paper describes the introduction of oxygen vacancies (Ovac) with controllable spatial distribution for GBs to promote carrier transport. Two kinds of Ovac distribution, Ovac along GBs and Ovac inside grains,&#160; are compared, where the latter one is demonstrated to facilitate carrier transport owing to the formation of tunneling paths across GBs. Consequently, a simple p&#8208;Si/TiO2/Pt heterojunction photocathode with controllable Ovac distribution in TiO2 shows a +400 mV onset potential shift and yields an applied bias photon&#8208;to&#8208;current efficiency of 5.9%, which is the best efficiency reported among silicon photocathodes except for silicon homojunction.</dc:description>
@@ -2066,81 +2247,5 @@ Lars Heinke
       <prism:url>https://doi.org/10.1002/anie.202013227</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013169">
-      <title>Strain&#8208;Driven Dyotropic Rearrangement: A Unified Ring&#8208;Expansion Approach to &#945;&#8208;Methylene&#8208;&#947;&#8208;butyrolactones</title>
-      <dc:description>An unprecedented strain&#8208;driven dyotropic rearrangement of &#945;&#8208;methylene&#8208;&#946;&#8208;lactones has been realized, which enables the efficient access of a wide range of &#945;&#8208;methylene&#8208;&#947;&#8208;butyrolactones displaying remarkable structural diversity. Several appealing features of the reaction, including excellent efficiency, high stereospecificity, predictable chemoselectivity and broad substrate scope, render it a powerful tool for the synthesis of MBL&#8208;containing molecules of either natural or synthetic origin. Both experimental and computational evidences suggest that the new variant of dyotropic rearrangements proceed in a dualistic pattern: while an asynchronous concerted mechanism most likely accounts for the reactions featuring hydrogen migration, a stepwise process involving phenonium ion intermediate is favored in the cases of aryl migration. The great synthetic potential of the title reaction is exemplified by its application to the efficient construction of several natural products and relevant scaffolds.</dc:description>
-      <dc:creator>
-Yefeng Tang, 
-Xiaoqiang Lei, 
-Yuanhe Li, 
-Yang Lai, 
-Shengkun Hu, 
-Chen Qi, 
-Gelin Wang
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013169</link>
-      <content:encoded>&lt;p&gt;An unprecedented strain&#8208;driven dyotropic rearrangement of &#945;&#8208;methylene&#8208;&#946;&#8208;lactones has been realized, which enables the efficient access of a wide range of &#945;&#8208;methylene&#8208;&#947;&#8208;butyrolactones displaying remarkable structural diversity. Several appealing features of the reaction, including excellent efficiency, high stereospecificity, predictable chemoselectivity and broad substrate scope, render it a powerful tool for the synthesis of MBL&#8208;containing molecules of either natural or synthetic origin. Both experimental and computational evidences suggest that the new variant of dyotropic rearrangements proceed in a dualistic pattern: while an asynchronous concerted mechanism most likely accounts for the reactions featuring hydrogen migration, a stepwise process involving phenonium ion intermediate is favored in the cases of aryl migration. The great synthetic potential of the title reaction is exemplified by its application to the efficient construction of several natural products and relevant scaffolds.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Strain&#8208;Driven Dyotropic Rearrangement: A Unified Ring&#8208;Expansion Approach to &#945;&#8208;Methylene&#8208;&#947;&#8208;butyrolactones</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013169</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-05T10:49:19-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013169</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013169</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012687">
-      <title>An Ethacrynic Acid&#8208;Brominated BODIPY Photosensitizer
-(EA&#8208;BPS) Construct Enhances the Lethality of Reactive Oxygen Species in Hypoxic Tumor&#8208;Targeted Photodynamic Therapy</title>
-      <dc:description>Despite being a clinically approved intervention for cancer, photodynamic therapy (PDT) still suffers from limitations. Prime among these is a therapeutic response that is mostly oxygen dependent. This limits the utility of PDT in treating hypoxic tumors since lower levels of cytotoxic reactive oxygen species (ROS) are generated in regions of low oxygen tension. Glutathione&#8208;pi (GST&#8208;pi) is a key enzyme that militates against ROS&#8208;mediated apoptosis. We report here a new construct, EA&#8208;BPS, that contains both a brominated BODIPY photosensitizer (BPS) and an ethacrynic acid (EA) GST&#8208;pi inhibitor. Photoirradiation of EA&#8208;BPS induces a synergistic antitumor effect that results from the combination of ROS production and GST&#8208;pi inhibition. Relative to BPS alone, an enhanced cell&#8208;killing effect is seen under hypoxic conditions both&#160;in vitro&#160;and&#160;in vivo. We conclude that by making better use of the available oxygen in tumor environments, improved therapeutic PDT outcomes should be achievable even under hypoxic conditions.</dc:description>
-      <dc:creator>
-Jonathan  L. Sessler, 
-Miae Won, 
-Seyoung Koo, 
-Hao Li, 
-Jin Yong Lee, 
-Amit Sharma, 
-Jong Sung Kim
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202012687</link>
-      <content:encoded>&lt;p&gt;Despite being a clinically approved intervention for cancer, photodynamic therapy (PDT) still suffers from limitations. Prime among these is a therapeutic response that is mostly oxygen dependent. This limits the utility of PDT in treating hypoxic tumors since lower levels of cytotoxic reactive oxygen species (ROS) are generated in regions of low oxygen tension. Glutathione&#8208;pi (GST&#8208;pi) is a key enzyme that militates against ROS&#8208;mediated apoptosis. We report here a new construct, EA&#8208;BPS, that contains both a brominated BODIPY photosensitizer (BPS) and an ethacrynic acid (EA) GST&#8208;pi inhibitor. Photoirradiation of EA&#8208;BPS induces a synergistic antitumor effect that results from the combination of ROS production and GST&#8208;pi inhibition. Relative to BPS alone, an enhanced cell&#8208;killing effect is seen under hypoxic conditions both&#160;in vitro&#160;and&#160;in vivo. We conclude that by making better use of the available oxygen in tumor environments, improved therapeutic PDT outcomes should be achievable even under hypoxic conditions.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>An Ethacrynic Acid&#8208;Brominated BODIPY Photosensitizer
-(EA&#8208;BPS) Construct Enhances the Lethality of Reactive Oxygen Species in Hypoxic Tumor&#8208;Targeted Photodynamic Therapy</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012687</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-05T07:22:00-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012687</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202012687</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202008231">
-      <title>Fabrication of Aptamer&#8208;Modified Paper Electrochemical Devices for On&#8208;site Biosensing</title>
-      <dc:description>Electrochemical aptamer&#8208;based (E&#8208;AB) sensors offer a powerful and general means for analyte detection in complex samples for various applications. Paper&#8208;based E&#8208;AB sensors could enable portable, low&#8208;cost, and rapid detection of a broad range of targets, but it has proven challenging to fabricate suitable three&#8208;electrode systems on paper. Here, we demonstrate a simple, economic, and environmentally&#8208;friendly strategy for fabricating aptamer&#8208;modified paper electrochemical devices (PEDs) via ambient vacuum filtration. The electrode material, shape, size, and thickness of the three&#8208;electrode PED system can be fully customized. We developed aptamer&#8208;modified PEDs that enable sensitive and specific detection of small molecules in minimally processed biosamples. The sensitivity and stability of the PEDs is comparable to E&#8208;AB sensors based on commercial gold electrodes. We believe our fabrication strategy can lead to the development of high performance PEDs that enable on&#8208;site detection of a variety of analytes, simplifying the development of portable sensors for real&#8208;world applications.</dc:description>
-      <dc:creator>
-Haixiang Yu, 
-Zhimin Chen, 
-Yingzhu Liu, 
-Obtin Alkhamis, 
-Zhiping Song, 
-Yi Xiao
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202008231</link>
-      <content:encoded>&lt;p&gt;Electrochemical aptamer&#8208;based (E&#8208;AB) sensors offer a powerful and general means for analyte detection in complex samples for various applications. Paper&#8208;based E&#8208;AB sensors could enable portable, low&#8208;cost, and rapid detection of a broad range of targets, but it has proven challenging to fabricate suitable three&#8208;electrode systems on paper. Here, we demonstrate a simple, economic, and environmentally&#8208;friendly strategy for fabricating aptamer&#8208;modified paper electrochemical devices (PEDs) via ambient vacuum filtration. The electrode material, shape, size, and thickness of the three&#8208;electrode PED system can be fully customized. We developed aptamer&#8208;modified PEDs that enable sensitive and specific detection of small molecules in minimally processed biosamples. The sensitivity and stability of the PEDs is comparable to E&#8208;AB sensors based on commercial gold electrodes. We believe our fabrication strategy can lead to the development of high performance PEDs that enable on&#8208;site detection of a variety of analytes, simplifying the development of portable sensors for real&#8208;world applications.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Fabrication of Aptamer&#8208;Modified Paper Electrochemical Devices for On&#8208;site Biosensing</dc:title>
-      <dc:identifier>doi:10.1002/anie.202008231</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-05T01:14:34-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202008231</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202008231</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
 </rdf:RDF>
