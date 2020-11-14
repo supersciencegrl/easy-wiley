@@ -9,11 +9,12 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000613" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000760" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000759" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000520" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000687" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000715" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000687" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000768" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000605" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000718" />
@@ -154,6 +155,28 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000613">
+      <title>Site Directed Mutagenesis of Modular Polyketide Synthase Ketoreductase Domains for Altered Stereochemical Control</title>
+      <dc:description>Bacterial modular type I polyketide synthases (PKSs) are complex multidomain assembly line proteins that produce a range of pharmaceutically relevant molecules with a high degree of stereochemical control. Due to their colinear properties, they have been considerable targets for rational biosynthetic pathway engineering.&#160; Among the domains harbored within these complex assembly lines, ketoreductase (KR) domains have been extensively studied with the goal of altering their stereoselectivity via site directed mutagenesis, as they confer much of the stereochemical complexity present in pharmaceutically active reduced polyketide scaffolds.&#160; Here we review all efforts to date to perform site directed mutagenesis on PKS KRs, most of which have been done in the context of excised KR domains on model diffusible substrates such as &#946;&#8208;keto N&#8208;acetyl cysteamine thioesters.&#160; We also discuss the challenges around translating the findings of these studies to alter stereocontrol in the context of a complex multidomain enzymatic assembly line.</dc:description>
+      <dc:creator>
+Erin  E. Drufva, 
+Nolan  R Spengler, 
+Elijah  G. Hix, 
+Constance  B Bailey
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000613</link>
+      <content:encoded>&lt;p&gt;Bacterial modular type I polyketide synthases (PKSs) are complex multidomain assembly line proteins that produce a range of pharmaceutically relevant molecules with a high degree of stereochemical control. Due to their colinear properties, they have been considerable targets for rational biosynthetic pathway engineering.&#160; Among the domains harbored within these complex assembly lines, ketoreductase (KR) domains have been extensively studied with the goal of altering their stereoselectivity via site directed mutagenesis, as they confer much of the stereochemical complexity present in pharmaceutically active reduced polyketide scaffolds.&#160; Here we review all efforts to date to perform site directed mutagenesis on PKS KRs, most of which have been done in the context of excised KR domains on model diffusible substrates such as &#946;&#8208;keto N&#8208;acetyl cysteamine thioesters.&#160; We also discuss the challenges around translating the findings of these studies to alter stereocontrol in the context of a complex multidomain enzymatic assembly line.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Site Directed Mutagenesis of Modular Polyketide Synthase Ketoreductase Domains for Altered Stereochemical Control</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000613</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-13T08:51:34-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000613</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000613</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000760">
       <title>Self&#8208;Emergent Protocells Generated in an Aqueous Solution with Binary Macromolecules through Liquid&#8208;Liquid Phase Separation</title>
       <dc:description>
@@ -265,40 +288,6 @@ Daniel P. Downes
       <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000520</prism:url>
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000687">
-      <title>Simplified monopalmitoyl Toll&#8208;like receptor 2 ligand mini&#8208;UPam for self&#8208;adjuvanting neoantigen&#8208;based synthetic cancer vaccines</title>
-      <dc:description>Synthetic vaccines from antigenic peptides that comprise MHC&#8208;I and MHC&#8208;II T&#8208;cell epitopes expressed by tumors, show great promise for cancer immunotherapy. For optimal immunogenicity, the synthetic peptides (SPs) should be adjuvanted with suitable immunostimulatory additives. Previously, we have shown that improved immunogenicity  in vivo  is obtained with vaccine modalities in which an SP is covalently connected to an adjuvanting moiety, typically a ligand to Toll&#8208;like receptor 2 (TLR2). The SPs were covalently attached to UPam, a derivative of the classic TLR2 ligand Pam3CysSK4. A disadvantage of the triply palmitoylated UPam is its high lipophilicity that precludes a universal adoption of this adjuvant for covalent modification of variable antigenic peptides rendering the synthetic vaccine insoluble in several cases. Here, we report a novel conjugatable TLR2 ligand, mini&#8208;UPam, containing only one instead of three palmitoyl chains with less impact on the solubility and other physicochemical properties of the conjugate. In this study, we used SPs containing the clinically relevant neoepitopes identified in a melanoma patient who obtained a complete response after T&#8208;cell therapy. Homogeneous mini&#8208;UPam&#8208;SP conjugates have been prepared in good yields by solid&#8208;phase synthesis using mini&#8208;UPam building block prepared in solution and a standard set of Fmoc&#8208;amino acids. The immunogenicity of the novel mini&#8208;UPam&#8208;SP conjugates was demonstrated using the cancer patient&#8217;s T&#8208;cells.</dc:description>
-      <dc:creator>
-Thomas van den Ende, 
-Jeroen Heuts, 
-Geoffroy Gential, 
-Marten Visser, 
-Michel van de Graaff, 
-Nataschja Ho, 
-Wim Jiskoot, 
-Rob Valentijn, 
-Nico Meeuwenoord, 
-Herman Overkleeft, 
-Jeroen Cod&#233;e, 
-Sjoerd van der Burg, 
-Gijsbert van der Marel, 
-Els Verdegaal, 
-Ferry Ossendorp, 
-Dmitri Filippov
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000687</link>
-      <content:encoded>&lt;p&gt;Synthetic vaccines from antigenic peptides that comprise MHC&#8208;I and MHC&#8208;II T&#8208;cell epitopes expressed by tumors, show great promise for cancer immunotherapy. For optimal immunogenicity, the synthetic peptides (SPs) should be adjuvanted with suitable immunostimulatory additives. Previously, we have shown that improved immunogenicity  in vivo  is obtained with vaccine modalities in which an SP is covalently connected to an adjuvanting moiety, typically a ligand to Toll&#8208;like receptor 2 (TLR2). The SPs were covalently attached to UPam, a derivative of the classic TLR2 ligand Pam3CysSK4. A disadvantage of the triply palmitoylated UPam is its high lipophilicity that precludes a universal adoption of this adjuvant for covalent modification of variable antigenic peptides rendering the synthetic vaccine insoluble in several cases. Here, we report a novel conjugatable TLR2 ligand, mini&#8208;UPam, containing only one instead of three palmitoyl chains with less impact on the solubility and other physicochemical properties of the conjugate. In this study, we used SPs containing the clinically relevant neoepitopes identified in a melanoma patient who obtained a complete response after T&#8208;cell therapy. Homogeneous mini&#8208;UPam&#8208;SP conjugates have been prepared in good yields by solid&#8208;phase synthesis using mini&#8208;UPam building block prepared in solution and a standard set of Fmoc&#8208;amino acids. The immunogenicity of the novel mini&#8208;UPam&#8208;SP conjugates was demonstrated using the cancer patient&#8217;s T&#8208;cells.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Simplified monopalmitoyl Toll&#8208;like receptor 2 ligand mini&#8208;UPam for self&#8208;adjuvanting neoantigen&#8208;based synthetic cancer vaccines</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000687</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-11-12T09:15:52-08:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000687</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000687</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000715">
       <title>Metabolic Glycoengineering with Azide&#8208; and Alkene&#8208;Modified Hexosamines: Quantification of Sialic Acid Levels</title>
