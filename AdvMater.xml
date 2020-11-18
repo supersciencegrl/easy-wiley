@@ -9,6 +9,50 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005713" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202006986" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003879" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005346" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004207" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003537" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002974" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002853" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002929" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003484" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003983" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202000013" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005059" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005433" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002990" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002873" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002014" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004875" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004206" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003577" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002467" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004080" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004398" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004270" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003479" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003805" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005353" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002741" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004055" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004553" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003511" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004456" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070344" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202006053" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070343" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070341" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070342" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070345" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070346" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070347" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070348" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202002736" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001866" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004142" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003938" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202006274" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005652" />
@@ -97,11 +141,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005348" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.201906070" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004900" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005431" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004208" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004747" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004898" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005386" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202006277" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070330" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202070329" />
@@ -136,6 +175,609 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202005713">
+      <title>Machine Learning Predictions of Block Copolymer Self&#8208;Assembly</title>
+      <dc:description>
+Machine learning is used to analyze the self&#8208;assembly of block copolymer thin films. The neural networks predict the effect of process parameters on morphology and defectivity during solvent annealing, and a ridge regression model identifies the critical parameters that determine the quality of line/space patterns. These results illustrate the potential of machine learning to inform nanomanufacturing processes.
+
+
+
+
+
+
+
+
+Abstract
+Directed self&#8208;assembly of block copolymers is a key enabler for nanofabrication of devices with sub&#8208;10 nm feature sizes, allowing patterning far below the resolution limit of conventional photolithography. Among all the process steps involved in block copolymer self&#8208;assembly, solvent annealing plays a dominant role in determining the film morphology and pattern quality, yet the interplay of the multiple parameters during solvent annealing, including the initial thickness, swelling, time, and solvent ratio, makes it difficult to predict and control the resultant self&#8208;assembled pattern. Here, machine learning tools are applied to analyze the solvent annealing process and predict the effect of process parameters on morphology and defectivity. Two neural networks are constructed and trained, yielding accurate prediction of the final morphology in agreement with experimental data. A ridge regression model is constructed to identify the critical parameters that determine the quality of line/space patterns. These results illustrate the potential of machine learning to inform nanomanufacturing processes.
+</dc:description>
+      <dc:creator>
+Kun&#8208;Hua Tu, 
+Hejin Huang, 
+Sangho Lee, 
+Wonmoo Lee, 
+Zehao Sun, 
+Alfredo Alexander&#8208;Katz, 
+Caroline A. Ross
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202005713</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/34f18fc3-615a-4abf-99d4-3e180a5461ab/adma202005713-gra-0001-m.png"
+     alt="Machine Learning Predictions of Block Copolymer Self&#8208;Assembly"/&gt;
+&lt;p&gt;Machine learning is used to analyze the self&#8208;assembly of block copolymer thin films. The neural networks predict the effect of process parameters on morphology and defectivity during solvent annealing, and a ridge regression model identifies the critical parameters that determine the quality of line/space patterns. These results illustrate the potential of machine learning to inform nanomanufacturing processes.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Directed self&#8208;assembly of block copolymers is a key enabler for nanofabrication of devices with sub&#8208;10 nm feature sizes, allowing patterning far below the resolution limit of conventional photolithography. Among all the process steps involved in block copolymer self&#8208;assembly, solvent annealing plays a dominant role in determining the film morphology and pattern quality, yet the interplay of the multiple parameters during solvent annealing, including the initial thickness, swelling, time, and solvent ratio, makes it difficult to predict and control the resultant self&#8208;assembled pattern. Here, machine learning tools are applied to analyze the solvent annealing process and predict the effect of process parameters on morphology and defectivity. Two neural networks are constructed and trained, yielding accurate prediction of the final morphology in agreement with experimental data. A ridge regression model is constructed to identify the critical parameters that determine the quality of line/space patterns. These results illustrate the potential of machine learning to inform nanomanufacturing processes.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Machine Learning Predictions of Block Copolymer Self&#8208;Assembly</dc:title>
+      <dc:identifier>doi:10.1002/adma.202005713</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-18T06:12:28-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202005713</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202005713</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202006986">
+      <title>Self&#8208;Strengthening Adhesive Force Promotes Cell Mechanotransduction</title>
+      <dc:description>
+Benefiting from the spontaneous merocyanine&#8208;to&#8208;spiropyran isomerization, a coating displays dynamic self&#8208;strengthening of the interfacial adhesive force. Cells enable remodeling of the underlaying interfaces to meet their demand for adhesion when the ligand anchoring strength is weak. The subsequent self&#8208;strengthening process offers progressive force stimulation following the adaptation step to mediate cell behaviors and ultimately drive cell fate specification.
+
+
+
+
+
+
+
+
+Abstract
+The extracellular matrix (ECM) undergoes dynamic remodeling and progressive stiffening during tissue regeneration and disease progression. However, most of the artificial ECMs and in vitro disease models are mechanically static. Here, a self&#8208;strengthening polymer coating mimicking the dynamic nature of native ECM is designed to study the cellular response to dynamic biophysical cues and promote cell mechanical sensitive response. Spiropyran (SP) is utilized as dynamic anchor group to regulate the strength of cell adhesive peptide ligands. Benefiting from spontaneous thermal merocyanine&#8208;to&#8208;spiropyran (MC&#8211;SP) isomerization, the resulting self&#8208;responsive coating displays dynamic self&#8208;strengthening of interfacial interactions. Comparing with the static and all of the previous dynamic artificial ECMs, cells on this self&#8208;responsive surface remodel the weakly bonded MC&#8208;based coatings to activate &#945;5&#946;1 integrin and Rac signaling in the early adhesion stage. The subsequent MC&#8208;to&#8208;SP conversion strengthens the ligand&#8211;integrin interaction to further activate &#945;v&#946;3 integrin and RhoA/ROCK signaling in the latter stage. This sequential process enhances cellular mechanotransduction as well as the osteogenic differentiation of mesenchymal stem cells (MSCs). It is worth emphasizing that the self&#8208;strengthening occurs spontaneously in the absence of any stimulus, making it especially useful for implanted scaffolds in regenerative medicine.
+</dc:description>
+      <dc:creator>
+Leixiao Yu, 
+Yong Hou, 
+Wenyan Xie, 
+Jose Luis Cuellar&#8208;Camacho, 
+Qiang Wei, 
+Rainer Haag
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202006986</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/338c116a-4a86-4ba2-b031-2bb8228f5182/adma202006986-gra-0001-m.png"
+     alt="Self&#8208;Strengthening Adhesive Force Promotes Cell Mechanotransduction"/&gt;
+&lt;p&gt;Benefiting from the spontaneous merocyanine&#8208;to&#8208;spiropyran isomerization, a coating displays dynamic self&#8208;strengthening of the interfacial adhesive force. Cells enable remodeling of the underlaying interfaces to meet their demand for adhesion when the ligand anchoring strength is weak. The subsequent self&#8208;strengthening process offers progressive force stimulation following the adaptation step to mediate cell behaviors and ultimately drive cell fate specification.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The extracellular matrix (ECM) undergoes dynamic remodeling and progressive stiffening during tissue regeneration and disease progression. However, most of the artificial ECMs and in vitro disease models are mechanically static. Here, a self&#8208;strengthening polymer coating mimicking the dynamic nature of native ECM is designed to study the cellular response to dynamic biophysical cues and promote cell mechanical sensitive response. Spiropyran (SP) is utilized as dynamic anchor group to regulate the strength of cell adhesive peptide ligands. Benefiting from spontaneous thermal merocyanine&#8208;to&#8208;spiropyran (MC&#8211;SP) isomerization, the resulting self&#8208;responsive coating displays dynamic self&#8208;strengthening of interfacial interactions. Comparing with the static and all of the previous dynamic artificial ECMs, cells on this self&#8208;responsive surface remodel the weakly bonded MC&#8208;based coatings to activate &#945;5&#946;1 integrin and Rac signaling in the early adhesion stage. The subsequent MC&#8208;to&#8208;SP conversion strengthens the ligand&#8211;integrin interaction to further activate &#945;v&#946;3 integrin and RhoA/ROCK signaling in the latter stage. This sequential process enhances cellular mechanotransduction as well as the osteogenic differentiation of mesenchymal stem cells (MSCs). It is worth emphasizing that the self&#8208;strengthening occurs spontaneously in the absence of any stimulus, making it especially useful for implanted scaffolds in regenerative medicine.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Self&#8208;Strengthening Adhesive Force Promotes Cell Mechanotransduction</dc:title>
+      <dc:identifier>doi:10.1002/adma.202006986</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-18T06:11:48-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202006986</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202006986</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202003879">
+      <title>Unraveling the Nature of Excellent Potassium Storage in Small&#8208;Molecule Se@Peapod&#8208;Like N&#8208;Doped Carbon Nanofibers</title>
+      <dc:description>
+Small&#8208;molecule Se embedded in freestanding N&#8208;doped porous carbon nanofibers thin film is prepared as the cathode for K&#8211;Se batteries. The short&#8208;chain Se confined in the micropores is eventually transformed to K2Se by a two&#8208;step conversion reaction via an &#8220;all&#8208;solid&#8208;state&#8221; electrochemical process which hinders the generation of polyselenides and promotes complete conversion thus enhancing the utilization of Se.
+
+
+
+
+
+
+
+
+Abstract
+The potassium&#8211;selenium (K&#8211;Se) battery is considered as an alternative solution for stationary energy storage because of abundant resource of K. However, the detailed mechanism of the energy storage process is yet to be unraveled. Herein, the findings in probing the working mechanism of the K&#8208;ion storage in Se cathode are reported using both experimental and computational approaches. A flexible K&#8211;Se battery is prepared by employing the small&#8208;molecule Se embedded in freestanding N &#8208;doped porous carbon nanofibers thin film (Se@NPCFs) as cathode. The reaction mechanisms are elucidated by identifying the existence of short&#8208;chain molecular Se encapsulated inside the microporous host, which transforms to K2Se by a two&#8208;step conversion reaction via an &#8220;all&#8208;solid&#8208;state&#8221; electrochemical process in the carbonate electrolyte system. Through the whole reaction, the generation of polyselenides (K2Sen, 3&#160;&#8804;&#160;n&#160;&#8804;&#160;8) is effectively suppressed by electrochemical reaction dominated by Se2 molecules, thus significantly enhancing the utilization of Se and effecting the voltage platform of the K&#8211;Se battery. This work offers a practical pathway to optimize the K&#8211;Se battery performance through structure engineering and manipulation of selenium chemistry for the formation of selective species and reveal its internal reaction mechanism in the carbonate electrolyte.
+</dc:description>
+      <dc:creator>
+Rui Xu, 
+Yu Yao, 
+Haiyun Wang, 
+Yifei Yuan, 
+Jiawei Wang, 
+Hai Yang, 
+Yu Jiang, 
+Pengcheng Shi, 
+Xiaojun Wu, 
+Zhangquan Peng, 
+Zhong&#8208;Shuai Wu, 
+Jun Lu, 
+Yan Yu
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202003879</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/29d3a96d-cd5d-43e4-b6b8-cb26c12c285c/adma202003879-gra-0001-m.png"
+     alt="Unraveling the Nature of Excellent Potassium Storage in Small&#8208;Molecule Se@Peapod&#8208;Like N&#8208;Doped Carbon Nanofibers"/&gt;
+&lt;p&gt;Small&#8208;molecule Se embedded in freestanding N&#8208;doped porous carbon nanofibers thin film is prepared as the cathode for K&#8211;Se batteries. The short&#8208;chain Se confined in the micropores is eventually transformed to K&lt;sub&gt;2&lt;/sub&gt;Se by a two&#8208;step conversion reaction via an &#8220;all&#8208;solid&#8208;state&#8221; electrochemical process which hinders the generation of polyselenides and promotes complete conversion thus enhancing the utilization of Se.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The potassium&#8211;selenium (K&#8211;Se) battery is considered as an alternative solution for stationary energy storage because of abundant resource of K. However, the detailed mechanism of the energy storage process is yet to be unraveled. Herein, the findings in probing the working mechanism of the K&#8208;ion storage in Se cathode are reported using both experimental and computational approaches. A flexible K&#8211;Se battery is prepared by employing the small&#8208;molecule Se embedded in freestanding N &#8208;doped porous carbon nanofibers thin film (Se@NPCFs) as cathode. The reaction mechanisms are elucidated by identifying the existence of short&#8208;chain molecular Se encapsulated inside the microporous host, which transforms to K&lt;sub&gt;2&lt;/sub&gt;Se by a two&#8208;step conversion reaction via an &#8220;all&#8208;solid&#8208;state&#8221; electrochemical process in the carbonate electrolyte system. Through the whole reaction, the generation of polyselenides (K&lt;sub&gt;2&lt;/sub&gt;Se&lt;i&gt;
+   &lt;sub&gt;n&lt;/sub&gt;
+&lt;/i&gt;, 3&#160;&#8804;&#160;&lt;i&gt;n&lt;/i&gt;&#160;&#8804;&#160;8) is effectively suppressed by electrochemical reaction dominated by Se&lt;sub&gt;2&lt;/sub&gt; molecules, thus significantly enhancing the utilization of Se and effecting the voltage platform of the K&#8211;Se battery. This work offers a practical pathway to optimize the K&#8211;Se battery performance through structure engineering and manipulation of selenium chemistry for the formation of selective species and reveal its internal reaction mechanism in the carbonate electrolyte.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Unraveling the Nature of Excellent Potassium Storage in Small&#8208;Molecule Se@Peapod&#8208;Like N&#8208;Doped Carbon Nanofibers</dc:title>
+      <dc:identifier>doi:10.1002/adma.202003879</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-18T06:11:26-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202003879</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202003879</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202005346">
+      <title>High&#8208;Definition Single&#8208;Cell Printing: Cell&#8208;by&#8208;Cell Fabrication of Biological Structures</title>
+      <dc:description>
+Conventional bioprinting methods cannot reliably print single cells. A novel microfluidic bioprinting technology with a highly miniaturized cell sorter is presented to accurately print single cells. Through selective cell&#8208;by&#8208;cell printing, intricate cell patterns at single&#8208;cell resolution and uniform spheroids with defined composition and morphology are fabricated.
+
+
+
+
+
+
+
+
+Abstract
+Bioprinting is a powerful technology with the potential to transform medical device manufacturing, organ replacement, and the treatment of diseases and physiologic malformations. However, current bioprinters are unable to reliably print the fundamental unit of all living things, single cells. A high&#8208;definition single&#8208;cell printing, a novel microfluidic technology, is presented here that can accurately print single cells from a mixture of multiple candidates. The bioprinter employs a highly miniaturized microfluidic sorter to deterministically select single cells of interest for printing, achieving an accuracy of &#8776;10&#160;&#181;m and speed of &#8776;100&#160;Hz. This approach is demonstrated by fabricating intricate cell patterns with pre&#8208;defined features through selective single&#8208;cell printing. The approach is used to synthesize well&#8208;defined spheroids with controlled composition and morphology. The speed, accuracy, and flexibility of the approach will advance bioprinting to enable new studies in organoid science, tissue engineering, and spatially targeted cell therapies.
+</dc:description>
+      <dc:creator>
+Pengfei Zhang, 
+Adam R. Abate
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202005346</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a6429076-3e86-411d-83d4-23622040eb33/adma202005346-gra-0001-m.png"
+     alt="High&#8208;Definition Single&#8208;Cell Printing: Cell&#8208;by&#8208;Cell Fabrication of Biological Structures"/&gt;
+&lt;p&gt;Conventional bioprinting methods cannot reliably print single cells. A novel microfluidic bioprinting technology with a highly miniaturized cell sorter is presented to accurately print single cells. Through selective cell&#8208;by&#8208;cell printing, intricate cell patterns at single&#8208;cell resolution and uniform spheroids with defined composition and morphology are fabricated.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bioprinting is a powerful technology with the potential to transform medical device manufacturing, organ replacement, and the treatment of diseases and physiologic malformations. However, current bioprinters are unable to reliably print the fundamental unit of all living things, single cells. A high&#8208;definition single&#8208;cell printing, a novel microfluidic technology, is presented here that can accurately print single cells from a mixture of multiple candidates. The bioprinter employs a highly miniaturized microfluidic sorter to deterministically select single cells of interest for printing, achieving an accuracy of &#8776;10&#160;&#181;m and speed of &#8776;100&#160;Hz. This approach is demonstrated by fabricating intricate cell patterns with pre&#8208;defined features through selective single&#8208;cell printing. The approach is used to synthesize well&#8208;defined spheroids with controlled composition and morphology. The speed, accuracy, and flexibility of the approach will advance bioprinting to enable new studies in organoid science, tissue engineering, and spatially targeted cell therapies.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>High&#8208;Definition Single&#8208;Cell Printing: Cell&#8208;by&#8208;Cell Fabrication of Biological Structures</dc:title>
+      <dc:identifier>doi:10.1002/adma.202005346</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-18T06:09:13-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202005346</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202005346</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202004207">
+      <title>Fully Light&#8208;Controlled Memory and Neuromorphic Computation in Layered Black Phosphorus</title>
+      <dc:description>
+An all&#8208;optically tunable neuromorphic imaging element based on black phosphorus (BP) is demonstrated. Unusual wavelength&#8208;dependent photocurrent in BP is harnessed to optically program and erase visual memory elements. Concurrently, the same elements are capable of in&#8208;pixel image pre&#8208;processing in an array and optoelectronic machine learning for image recognition through artificial neural networks.
+
+
+
+
+
+
+
+
+Abstract
+Imprinting vision as memory is a core attribute of human cognitive learning. Fundamental to artificial intelligence systems are bioinspired neuromorphic vision components for the visible and invisible segments of the electromagnetic spectrum. Realization of a single imaging unit with a combination of in&#8208;built memory and signal processing capability is imperative to deploy efficient brain&#8208;like vision systems. However, the lack of a platform that can be fully controlled by light without the need to apply alternating polarity electric signals has hampered this technological advance. Here, a neuromorphic imaging element based on a fully light&#8208;modulated 2D semiconductor in a simple reconfigurable phototransistor structure is presented. This standalone device exhibits inherent characteristics that enable neuromorphic image pre&#8208;processing and recognition. Fundamentally, the unique photoresponse induced by oxidation&#8208;related defects in 2D black phosphorus (BP) is exploited to achieve visual memory, wavelength&#8208;selective multibit programming, and erasing functions, which allow in&#8208;pixel image pre&#8208;processing. Furthermore, all&#8208;optically driven neuromorphic computation is demonstrated by machine learning to classify numbers and recognize images with an accuracy of over 90%. The devices provide a promising approach toward neurorobotics, human&#8211;machine interaction technologies, and scalable bionic systems with visual data storage/buffering and processing.
+</dc:description>
+      <dc:creator>
+Taimur Ahmed, 
+Muhammad Tahir, 
+Mei Xian Low, 
+Yanyun Ren, 
+Sherif Abdulkader Tawfik, 
+Edwin L. H. Mayes, 
+Sruthi Kuriakose, 
+Shahid Nawaz, 
+Michelle J. S. Spencer, 
+Hua Chen, 
+Madhu Bhaskaran, 
+Sharath Sriram, 
+Sumeet Walia
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202004207</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9da1d52e-f41b-43ac-9638-1279b2a83d44/adma202004207-gra-0001-m.png"
+     alt="Fully Light&#8208;Controlled Memory and Neuromorphic Computation in Layered Black Phosphorus"/&gt;
+&lt;p&gt;An all&#8208;optically tunable neuromorphic imaging element based on black phosphorus (BP) is demonstrated. Unusual wavelength&#8208;dependent photocurrent in BP is harnessed to optically program and erase visual memory elements. Concurrently, the same elements are capable of in&#8208;pixel image pre&#8208;processing in an array and optoelectronic machine learning for image recognition through artificial neural networks.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Imprinting vision as memory is a core attribute of human cognitive learning. Fundamental to artificial intelligence systems are bioinspired neuromorphic vision components for the visible and invisible segments of the electromagnetic spectrum. Realization of a single imaging unit with a combination of in&#8208;built memory and signal processing capability is imperative to deploy efficient brain&#8208;like vision systems. However, the lack of a platform that can be fully controlled by light without the need to apply alternating polarity electric signals has hampered this technological advance. Here, a neuromorphic imaging element based on a fully light&#8208;modulated 2D semiconductor in a simple reconfigurable phototransistor structure is presented. This standalone device exhibits inherent characteristics that enable neuromorphic image pre&#8208;processing and recognition. Fundamentally, the unique photoresponse induced by oxidation&#8208;related defects in 2D black phosphorus (BP) is exploited to achieve visual memory, wavelength&#8208;selective multibit programming, and erasing functions, which allow in&#8208;pixel image pre&#8208;processing. Furthermore, all&#8208;optically driven neuromorphic computation is demonstrated by machine learning to classify numbers and recognize images with an accuracy of over 90%. The devices provide a promising approach toward neurorobotics, human&#8211;machine interaction technologies, and scalable bionic systems with visual data storage/buffering and processing.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Fully Light&#8208;Controlled Memory and Neuromorphic Computation in Layered Black Phosphorus</dc:title>
+      <dc:identifier>doi:10.1002/adma.202004207</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:43:29-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202004207</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202004207</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070344">
+      <title>Masthead: (Adv. Mater. 46/2020)</title>
+      <dc:description />
+      <dc:creator />
+      <link>https://doi.org/10.1002/adma.202070344</link>
+      <content:encoded />
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Masthead: (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070344</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070344</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070344</prism:url>
+      <prism:copyright />
+      <prism:section>Masthead</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202006053">
+      <title>Flat Lenses Based on 2D Perovskite Nanosheets</title>
+      <dc:description />
+      <dc:creator>
+Ziyu Wang, 
+Tieshan Yang, 
+Yupeng Zhang, 
+Qingdong Ou, 
+Han Lin, 
+Qianhui Zhang, 
+Huanyang Chen, 
+Hui Ying Hoh, 
+Baohua Jia, 
+Qiaoliang Bao
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202006053</link>
+      <content:encoded />
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Flat Lenses Based on 2D Perovskite Nanosheets</dc:title>
+      <dc:identifier>doi:10.1002/adma.202006053</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202006053</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202006053</prism:url>
+      <prism:copyright />
+      <prism:section>Correction</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070343">
+      <title>Contents: (Adv. Mater. 46/2020)</title>
+      <dc:description />
+      <dc:creator />
+      <link>https://doi.org/10.1002/adma.202070343</link>
+      <content:encoded />
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Contents: (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070343</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070343</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070343</prism:url>
+      <prism:copyright />
+      <prism:section>Contents</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070341">
+      <title>Catalytic Materials: Continuous Synthesis of Hollow High&#8208;Entropy Nanoparticles for Energy and Catalysis Applications (Adv. Mater. 46/2020)</title>
+      <dc:description>
+Combining multiple precious&#8208; and nonprecious&#8208;metal elements in a hollow high&#8208;entropy alloy (HEA) structure as catalysts can efficiently improve the usage of active sites, enhance activity, and achieve high stability. In article number 2002853, Liangbing Hu and co&#8208;workers report a rapid and continuous high&#8208;temperature nanomanufacturing method for hollow HEA nanoparticles through a &#8220;droplet&#8208;to&#8208;particle&#8221; transformation.
+
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Xizheng Wang, 
+Qi Dong, 
+Haiyu Qiao, 
+Zhennan Huang, 
+Mahmoud Tamadoni Saray, 
+Geng Zhong, 
+Zhiwei Lin, 
+Mingjin Cui, 
+Alexandra Brozena, 
+Min Hong, 
+Qinqin Xia, 
+Jinlong Gao, 
+Gang Chen, 
+Reza Shahbazian&#8208;Yassar, 
+Dunwei Wang, 
+Liangbing Hu
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202070341</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ec0e38a3-8aef-4e3b-b6d2-991bb7f030e5/adma202070341-gra-0001-m.png"
+     alt="Catalytic Materials: Continuous Synthesis of Hollow High&#8208;Entropy Nanoparticles for Energy and Catalysis Applications (Adv. Mater. 46/2020)"/&gt;
+&lt;p&gt;Combining multiple precious&#8208; and nonprecious&#8208;metal elements in a hollow high&#8208;entropy alloy (HEA) structure as catalysts can efficiently improve the usage of active sites, enhance activity, and achieve high stability. In article number &lt;a href="https://doi.org/10.1002/adma.202002853"&gt;2002853&lt;/a&gt;, Liangbing Hu and co&#8208;workers report a rapid and continuous high&#8208;temperature nanomanufacturing method for hollow HEA nanoparticles through a &#8220;droplet&#8208;to&#8208;particle&#8221; transformation.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Catalytic Materials: Continuous Synthesis of Hollow High&#8208;Entropy Nanoparticles for Energy and Catalysis Applications (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070341</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070341</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070341</prism:url>
+      <prism:copyright />
+      <prism:section>Cover Picture</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070342">
+      <title>Catalytic Materials: Dopant&#8208;Driven Positive Reinforcement in Ex&#8208;Solution Process: New Strategy to Develop Highly Capable and Durable Catalytic Materials (Adv. Mater. 46/2020)</title>
+      <dc:description>
+In article number 2003983, Bong&#8208;Joong Kim, Jeong Woo Han, WooChul Jung, Il&#8208;Doo Kim, and co&#8208;workers report the in situ growth of Ir nanoparticles on a binary oxide as a new class in ex&#8208;solution phenomena. The Ir nanoparticles are uniformly anchored on 2D WO3 host oxides and their formation mechanism is demonstrated by in situ analysis and simulations. The Ir&#8208;catalyst&#8208;loaded WO3 shows high selectivity to hazardous H2S with outstanding stability.
+
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Ji&#8208;Soo Jang, 
+Jun Kyu Kim, 
+Kyeounghak Kim, 
+Wan&#8208;Gil Jung, 
+Chaesung Lim, 
+Sangwoo Kim, 
+Dong&#8208;Ha Kim, 
+Bong&#8208;Joong Kim, 
+Jeong Woo Han, 
+WooChul Jung, 
+Il&#8208;Doo Kim
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202070342</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/54207d6c-444d-4398-b295-b0b162d84ef5/adma202070342-gra-0001-m.png"
+     alt="Catalytic Materials: Dopant&#8208;Driven Positive Reinforcement in Ex&#8208;Solution Process: New Strategy to Develop Highly Capable and Durable Catalytic Materials (Adv. Mater. 46/2020)"/&gt;
+&lt;p&gt;In article number &lt;a href="https://doi.org/10.1002/adma.202003983"&gt;2003983&lt;/a&gt;, Bong&#8208;Joong Kim, Jeong Woo Han, WooChul Jung, Il&#8208;Doo Kim, and co&#8208;workers report the in situ growth of Ir nanoparticles on a binary oxide as a new class in ex&#8208;solution phenomena. The Ir nanoparticles are uniformly anchored on 2D WO&lt;sub&gt;3&lt;/sub&gt; host oxides and their formation mechanism is demonstrated by in situ analysis and simulations. The Ir&#8208;catalyst&#8208;loaded WO&lt;sub&gt;3&lt;/sub&gt; shows high selectivity to hazardous H&lt;sub&gt;2&lt;/sub&gt;S with outstanding stability.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Catalytic Materials: Dopant&#8208;Driven Positive Reinforcement in Ex&#8208;Solution Process: New Strategy to Develop Highly Capable and Durable Catalytic Materials (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070342</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070342</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070342</prism:url>
+      <prism:copyright />
+      <prism:section>Inside Front Cover</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070345">
+      <title>Microfluidics: IFlowPlate&#8212;A Customized 384&#8208;Well Plate for the Culture of Perfusable Vascularized Colon Organoids (Adv. Mater. 46/2020)</title>
+      <dc:description>
+Human stem&#8208;cell&#8208;derived organoids have provided new opportunities to model biological processes and recapitulate organ development. However, organoid systems lack perfusable vascular networks to deliver nutrients and drugs. In article number 2002974, Boyang Zhang and co&#8208;workers introduce IFlowPlate&#8212;a microfluidic system with an &#8220;open&#8208;well&#8221; design in a 384&#8208;well plate format that can be used to vascularize and intravascularly perfuse organoids. This image shows three independently perfused microvascular networks in an IFlowPlate.
+
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Shravanthi Rajasekar, 
+Dawn S. Y. Lin, 
+Lyan Abdul, 
+Amy Liu, 
+Alexander Sotra, 
+Feng Zhang, 
+Boyang Zhang
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202070345</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/081b7ce5-c2bb-432a-b3c0-b3b9c110afcf/adma202070345-gra-0001-m.png"
+     alt="Microfluidics: IFlowPlate&#8212;A Customized 384&#8208;Well Plate for the Culture of Perfusable Vascularized Colon Organoids (Adv. Mater. 46/2020)"/&gt;
+&lt;p&gt;Human stem&#8208;cell&#8208;derived organoids have provided new opportunities to model biological processes and recapitulate organ development. However, organoid systems lack perfusable vascular networks to deliver nutrients and drugs. In article number &lt;a href="https://doi.org/10.1002/adma.202002974"&gt;2002974&lt;/a&gt;, Boyang Zhang and co&#8208;workers introduce IFlowPlate&#8212;a microfluidic system with an &#8220;open&#8208;well&#8221; design in a 384&#8208;well plate format that can be used to vascularize and intravascularly perfuse organoids. This image shows three independently perfused microvascular networks in an IFlowPlate.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Microfluidics: IFlowPlate&#8212;A Customized 384&#8208;Well Plate for the Culture of Perfusable Vascularized Colon Organoids (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070345</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070345</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070345</prism:url>
+      <prism:copyright />
+      <prism:section>Frontispiece</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070346">
+      <title>Optical Patterning: Direct Optical Patterning of Quantum Dot Light&#8208;Emitting Diodes via In Situ Ligand Exchange (Adv. Mater. 46/2020)</title>
+      <dc:description>
+In article number 2003805, Dmitri V. Talapin and co&#8208;workers demonstrate photoresist&#8208;free, high&#8208;resolution optical patterning of quantum dot (QD) light&#8208;emitting diodes by using photoacid generators that induce photochemical reactions and in situ ligand exchange in QD films. Uniform electroluminescence patterns of QDs are produced with feature size down to 1.5 &#956;m while preserving the structural, optical, and electronic properties of the patterned QDs. This advanced patterning method can boost the realization of not only QD electroluminescence displays but also other integrated optoelectronic devices using colloidal QDs. 
+
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Himchan Cho, 
+Jia&#8208;Ahn Pan, 
+Haoqi Wu, 
+Xinzheng Lan, 
+Igor Coropceanu, 
+Yuanyuan Wang, 
+Wooje Cho, 
+Ethan A. Hill, 
+John S. Anderson, 
+Dmitri V. Talapin
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202070346</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/516115a4-89c8-45e6-9ffb-e41f04336e57/adma202070346-gra-0001-m.png"
+     alt="Optical Patterning: Direct Optical Patterning of Quantum Dot Light&#8208;Emitting Diodes via In Situ Ligand Exchange (Adv. Mater. 46/2020)"/&gt;
+&lt;p&gt;In article number &lt;a href="https://doi.org/10.1002/adma.202003805"&gt;2003805&lt;/a&gt;, Dmitri V. Talapin and co&#8208;workers demonstrate photoresist&#8208;free, high&#8208;resolution optical patterning of quantum dot (QD) light&#8208;emitting diodes by using photoacid generators that induce photochemical reactions and in situ ligand exchange in QD films. Uniform electroluminescence patterns of QDs are produced with feature size down to 1.5 &#956;m while preserving the structural, optical, and electronic properties of the patterned QDs. This advanced patterning method can boost the realization of not only QD electroluminescence displays but also other integrated optoelectronic devices using colloidal QDs. 
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Optical Patterning: Direct Optical Patterning of Quantum Dot Light&#8208;Emitting Diodes via In Situ Ligand Exchange (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070346</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070346</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070346</prism:url>
+      <prism:copyright />
+      <prism:section>Frontispiece</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070347">
+      <title>Hyperbolic Phonon Polaritons: Broad&#8208;Spectral&#8208;Range Sustainability and Controllable Excitation of Hyperbolic Phonon Polaritons in &#945;&#8208;MoO3 (Adv. Mater. 46/2020)</title>
+      <dc:description>
+In article number 2002014, Peng Gao and co&#8208;workers use an electron probe to selectively excite hyperbolic phonon polaritons in multiple frequency bands covering both the mid&#8208; and far&#8208;infrared in &#945;&#8208;MoO3. The broad&#8208;spectral&#8208;range sustainability together with highly anisotropic excitation and propagation behavior of these polaritons may find potential applications in nanoscale confinement and manipulation of light.
+
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Weikang Dong, 
+Ruishi Qi, 
+Tiansheng Liu, 
+Yi Li, 
+Ning Li, 
+Ze Hua, 
+Zirui Gao, 
+Shuyuan Zhang, 
+Kaihui Liu, 
+Jiandong Guo, 
+Peng Gao
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202070347</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7e30de07-01a6-4538-abc7-87588a7cd0dd/adma202070347-gra-0001-m.png"
+     alt="Hyperbolic Phonon Polaritons: Broad&#8208;Spectral&#8208;Range Sustainability and Controllable Excitation of Hyperbolic Phonon Polaritons in &#945;&#8208;MoO3 (Adv. Mater. 46/2020)"/&gt;
+&lt;p&gt;In article number &lt;a href="https://doi.org/10.1002/adma.202002014"&gt;2002014&lt;/a&gt;, Peng Gao and co&#8208;workers use an electron probe to selectively excite hyperbolic phonon polaritons in multiple frequency bands covering both the mid&#8208; and far&#8208;infrared in &#945;&#8208;MoO&lt;sub&gt;3&lt;/sub&gt;. The broad&#8208;spectral&#8208;range sustainability together with highly anisotropic excitation and propagation behavior of these polaritons may find potential applications in nanoscale confinement and manipulation of light.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Hyperbolic Phonon Polaritons: Broad&#8208;Spectral&#8208;Range Sustainability and Controllable Excitation of Hyperbolic Phonon Polaritons in &#945;&#8208;MoO3 (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070347</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070347</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070347</prism:url>
+      <prism:copyright />
+      <prism:section>Inside Back Cover</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/adma.202070348">
+      <title>Metal Halide Perovskites: Metal Halide Perovskite Nanorods: Shape Matters (Adv. Mater. 46/2020)</title>
+      <dc:description>
+Metal&#8208;halide&#8208;perovskite nanocrystals display shape&#8208;dependent optoelectronic properties that underpin a wide range of stimulating applications. In article number 2002736, Xuyong Yang, Andrey L. Rogach, Guohua Jia, and co&#8208;workers review the recent advances in metal&#8208;halide&#8208;perovskite nanorods, spanning the crystal structures, growth mechanisms, enhanced properties, and widespread applications in solar cells, light&#8208;emitting diodes, photodetectors/phototransistors, and lasers.
+
+
+
+
+
+
+
+</dc:description>
+      <dc:creator>
+Chengxi Zhang, 
+Jiayi Chen, 
+Sheng Wang, 
+Lingmei Kong, 
+Simon W. Lewis, 
+Xuyong Yang, 
+Andrey L. Rogach, 
+Guohua Jia
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202070348</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/023b89e5-72a6-49bd-afbe-5ae3e3dd90b7/adma202070348-gra-0001-m.png"
+     alt="Metal Halide Perovskites: Metal Halide Perovskite Nanorods: Shape Matters (Adv. Mater. 46/2020)"/&gt;
+&lt;p&gt;Metal&#8208;halide&#8208;perovskite nanocrystals display shape&#8208;dependent optoelectronic properties that underpin a wide range of stimulating applications. In article number &lt;a href="https://doi.org/10.1002/adma.202002736"&gt;2002736&lt;/a&gt;, Xuyong Yang, Andrey L. Rogach, Guohua Jia, and co&#8208;workers review the recent advances in metal&#8208;halide&#8208;perovskite nanorods, spanning the crystal structures, growth mechanisms, enhanced properties, and widespread applications in solar cells, light&#8208;emitting diodes, photodetectors/phototransistors, and lasers.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+      <description>Advanced Materials, Volume 32, Issue 46, November 19, 2020. </description>
+      <dc:title>Metal Halide Perovskites: Metal Halide Perovskite Nanorods: Shape Matters (Adv. Mater. 46/2020)</dc:title>
+      <dc:identifier>doi:10.1002/adma.202070348</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-11-17T10:16:25-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:volume>32</prism:volume>
+      <prism:number>46</prism:number>
+      <prism:coverDate>2020-11-01T07:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-11-01T07:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1002/adma.202070348</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202070348</prism:url>
+      <prism:copyright />
+      <prism:section>Back Cover</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202003938">
       <title>Relationship between the Processing, Structure, and Properties of Microfibrillar Composites</title>
       <dc:description>
@@ -3108,260 +3750,6 @@ Zhongwei Chen
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202004900</prism:doi>
       <prism:url>https://doi.org/10.1002/adma.202004900</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202005431">
-      <title>Structural Insight in the Interfacial Effect in Ferroelectric Polymer Nanocomposites</title>
-      <dc:description>
-Using atomic force microscopy&#8211;infrared spectroscopy together with first&#8208;principles calculations and phase field simulations, a spatial structure analysis of the filler&#8211;matrix interfaces in ferroelectric polymer nanocomposites is provided. The unprecedented insights into the interfacial coupling effect at the molecular level would enable interfacial engineering strategies to realize improved properties and unlock new functionalities of the nanocomposites.
-
-
-
-
-
-
-
-
-Abstract
-Both experimental results and theoretical models suggest the decisive role of the filler&#8211;matrix interfaces on the dielectric, piezoelectric, pyroelectric, and electrocaloric properties of ferroelectric polymer nanocomposites. However, there remains a lack of direct structural evidence to support the so&#8208;called interfacial effect in dielectric nanocomposites. Here, a chemical mapping of the interfacial coupling between the nanofiller and the polymer matrix in ferroelectric polymer nanocomposites by combining atomic force microscopy&#8211;infrared spectroscopy (AFM&#8211;IR) with first&#8208;principles calculations and phase&#8208;field simulations is provided. The addition of ceramic fillers into a ferroelectric polymer leads to augmentation of the local conformational disorder in the vicinity of the interface, resulting in the local stabilization of the all&#8208;trans conformation (i.e., the polar &#946; phase). The formation of highly polar and inhomogeneous interfacial regions, which is further enhanced with a decrease of the filler size, has been identified experimentally and verified by phase&#8208;field simulations and density functional theory (DFT) calculations. This work offers unprecedented structural insights into the configurational disorder&#8208;induced interfacial effect and will enable rational design and molecular engineering of the filler&#8211;matrix interfaces of electroactive polymer nanocomposites to boost their collective properties.
-</dc:description>
-      <dc:creator>
-Yang Liu, 
-Tiannan Yang, 
-Bing Zhang, 
-Teague Williams, 
-Yen&#8208;Ting Lin, 
-Li Li, 
-Yao Zhou, 
-Wenchang Lu, 
-Seong H. Kim, 
-Long&#8208;Qing Chen, 
-J. Bernholc, 
-Qing Wang
-</dc:creator>
-      <link>https://doi.org/10.1002/adma.202005431</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a182e2a8-15eb-4005-acd5-47ace47779af/adma202005431-gra-0001-m.png"
-     alt="Structural Insight in the Interfacial Effect in Ferroelectric Polymer Nanocomposites"/&gt;
-&lt;p&gt;Using atomic force microscopy&#8211;infrared spectroscopy together with first&#8208;principles calculations and phase field simulations, a spatial structure analysis of the filler&#8211;matrix interfaces in ferroelectric polymer nanocomposites is provided. The unprecedented insights into the interfacial coupling effect at the molecular level would enable interfacial engineering strategies to realize improved properties and unlock new functionalities of the nanocomposites.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Both experimental results and theoretical models suggest the decisive role of the filler&#8211;matrix interfaces on the dielectric, piezoelectric, pyroelectric, and electrocaloric properties of ferroelectric polymer nanocomposites. However, there remains a lack of direct structural evidence to support the so&#8208;called interfacial effect in dielectric nanocomposites. Here, a chemical mapping of the interfacial coupling between the nanofiller and the polymer matrix in ferroelectric polymer nanocomposites by combining atomic force microscopy&#8211;infrared spectroscopy (AFM&#8211;IR) with first&#8208;principles calculations and phase&#8208;field simulations is provided. The addition of ceramic fillers into a ferroelectric polymer leads to augmentation of the local conformational disorder in the vicinity of the interface, resulting in the local stabilization of the all&#8208;&lt;i&gt;trans&lt;/i&gt; conformation (i.e., the polar &#946; phase). The formation of highly polar and inhomogeneous interfacial regions, which is further enhanced with a decrease of the filler size, has been identified experimentally and verified by phase&#8208;field simulations and density functional theory (DFT) calculations. This work offers unprecedented structural insights into the configurational disorder&#8208;induced interfacial effect and will enable rational design and molecular engineering of the filler&#8211;matrix interfaces of electroactive polymer nanocomposites to boost their collective properties.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Structural Insight in the Interfacial Effect in Ferroelectric Polymer Nanocomposites</dc:title>
-      <dc:identifier>doi:10.1002/adma.202005431</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-11-04T11:30:57-08:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202005431</prism:doi>
-      <prism:url>https://doi.org/10.1002/adma.202005431</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202004208">
-      <title>Nanomaterials with Supramolecular Assembly Based on AIE Luminogens for Theranostic Applications</title>
-      <dc:description>
-Nanotheranostics, constructed from aggregation&#8208;induced emission luminogens via supramolecular assembly, have been extensively studied during the past decades and exhibit great potential in personalized and precision medicine. This advanced strategy also facilitates the development of integrated systems combining diagnosis and therapy.
-
-
-
-
-
-
-
-
-Abstract
-One of the major pursuits of biomedical science is to develop advanced strategies for theranostics, which is expected to be an effective approach for achieving the transition from conventional medicine to precision medicine. Supramolecular assembly can serve as a powerful tool in the development of nanotheranostics with accurate imaging of tumors and real&#8208;time monitoring of the therapeutic process upon the incorporation of aggregation&#8208;induced emission (AIE) ability. AIE luminogens (AIEgens) will not only enable fluorescence imaging but will also aid in improving the efficacy of therapies. Furthermore, the fluorescent signals and therapeutic performance of these nanomaterials can be manipulated precisely owing to the reversible and stimuli&#8208;responsive characteristics of the supramolecular systems. Inspired by rapid advances in this field, recent research conducted on nanotheranostics with the AIE effect based on supramolecular assembly is summarized. Here, three representative strategies for supramolecular nanomaterials are presented as follows: a) supramolecular self&#8208;assembly of AIEgens, b) the loading of AIEgens within nanocarriers with supramolecular assembly, and c) supramolecular macrocycle&#8208;guided assembly via host&#8211;guest interactions. Meanwhile, the diverse applications of such nanomaterials in diagnostics and therapeutics have also been discussed in detail. Finally, the challenges of this field are listed in this review.
-</dc:description>
-      <dc:creator>
-Nan Song, 
-Zhijun Zhang, 
-Peiying Liu, 
-Ying&#8208;Wei Yang, 
-Lei Wang, 
-Dong Wang, 
-Ben Zhong Tang
-</dc:creator>
-      <link>https://doi.org/10.1002/adma.202004208</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/04814a19-841f-4420-b327-da2e43fd81a9/adma202004208-gra-0001-m.png"
-     alt="Nanomaterials with Supramolecular Assembly Based on AIE Luminogens for Theranostic Applications"/&gt;
-&lt;p&gt;Nanotheranostics, constructed from aggregation&#8208;induced emission luminogens via supramolecular assembly, have been extensively studied during the past decades and exhibit great potential in personalized and precision medicine. This advanced strategy also facilitates the development of integrated systems combining diagnosis and therapy.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;One of the major pursuits of biomedical science is to develop advanced strategies for theranostics, which is expected to be an effective approach for achieving the transition from conventional medicine to precision medicine. Supramolecular assembly can serve as a powerful tool in the development of nanotheranostics with accurate imaging of tumors and real&#8208;time monitoring of the therapeutic process upon the incorporation of aggregation&#8208;induced emission (AIE) ability. AIE luminogens (AIEgens) will not only enable fluorescence imaging but will also aid in improving the efficacy of therapies. Furthermore, the fluorescent signals and therapeutic performance of these nanomaterials can be manipulated precisely owing to the reversible and stimuli&#8208;responsive characteristics of the supramolecular systems. Inspired by rapid advances in this field, recent research conducted on nanotheranostics with the AIE effect based on supramolecular assembly is summarized. Here, three representative strategies for supramolecular nanomaterials are presented as follows: a) supramolecular self&#8208;assembly of AIEgens, b) the loading of AIEgens within nanocarriers with supramolecular assembly, and c) supramolecular macrocycle&#8208;guided assembly via host&#8211;guest interactions. Meanwhile, the diverse applications of such nanomaterials in diagnostics and therapeutics have also been discussed in detail. Finally, the challenges of this field are listed in this review.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Nanomaterials with Supramolecular Assembly Based on AIE Luminogens for Theranostic Applications</dc:title>
-      <dc:identifier>doi:10.1002/adma.202004208</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-11-04T11:29:24-08:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202004208</prism:doi>
-      <prism:url>https://doi.org/10.1002/adma.202004208</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202004747">
-      <title>Metal&#8211;Organic&#8208;Framework&#8208;Based Photocatalysts Optimized by Spatially Separated Cocatalysts for Overall Water Splitting</title>
-      <dc:description>
-A heterostructured photocatalyst, Pt@NH2&#8208;UiO&#8208;66@MnOx (PUM), is constructed based on the rational optimization of NH2&#8208;UiO&#8208;66 with spatially separated Pt and MnOx nanoparticles as cocatalysts. The optimization results in a long lifetime of the photogenerated electrons and holes in the composite, which can drive overall water splitting in the absence of sacrificial agents.
-
-
-
-
-
-
-
-
-Abstract
-Efficient charge separation and utilization are critical factors in photocatalysis. Herein, it is demonstrated that the complete spatial separation of oxidation and reduction cocatalysts enhances the efficacy of charge separation and surface reaction. Specifically, a Pt@NH2&#8208;UiO&#8208;66@MnOx (PUM) heterostructured photocatalyst with Pt and MnOx as cocatalysts is designed for the optimization of the NH2&#8208;UiO&#8208;66 photocatalyst. Compared with the pristine NH2&#8208;UiO&#8208;66, Pt@NH2&#8208;UiO&#8208;66 (PU), and NH2&#8208;UiO&#8208;66@MnOx (UM) samples, the PUM sample exhibits the highest hydrogen production activity. As cocatalysts, Pt favors trapping of electrons, while MnOx tends to collect holes. Upon generation from NH2&#8208;UiO&#8208;66, electrons and holes flow inward and outward of the metal&#8211;organic framework photocatalyst, accumulating on the corresponding cocatalysts, and then take part in the redox reactions. The PUM photocatalyst greatly prolongs the lifetime of the photogenerated electrons and holes, which favors the electron&#8211;hole separation. Furthermore, the PUM sample facilitates overall water splitting in the absence of sacrificial agents, thereby demonstrating its potential as a modification method of MOF&#8208;type semiconductors for the overall water&#8208;splitting reaction.
-</dc:description>
-      <dc:creator>
-Jijie Zhang, 
-Tianyu Bai, 
-Hui Huang, 
-Mei&#8208;Hui Yu, 
-Xiaobin Fan, 
-Ze Chang, 
-Xian&#8208;He Bu
-</dc:creator>
-      <link>https://doi.org/10.1002/adma.202004747</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/0f41a67e-657b-4363-9192-2757d6fdd008/adma202004747-gra-0001-m.png"
-     alt="Metal&#8211;Organic&#8208;Framework&#8208;Based Photocatalysts Optimized by Spatially Separated Cocatalysts for Overall Water Splitting"/&gt;
-&lt;p&gt;A heterostructured photocatalyst, Pt@NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66@MnO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; (PUM), is constructed based on the rational optimization of NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66 with spatially separated Pt and MnO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; nanoparticles as cocatalysts. The optimization results in a long lifetime of the photogenerated electrons and holes in the composite, which can drive overall water splitting in the absence of sacrificial agents.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Efficient charge separation and utilization are critical factors in photocatalysis. Herein, it is demonstrated that the complete spatial separation of oxidation and reduction cocatalysts enhances the efficacy of charge separation and surface reaction. Specifically, a Pt@NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66@MnO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; (PUM) heterostructured photocatalyst with Pt and MnO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; as cocatalysts is designed for the optimization of the NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66 photocatalyst. Compared with the pristine NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66, Pt@NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66 (PU), and NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66@MnO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; (UM) samples, the PUM sample exhibits the highest hydrogen production activity. As cocatalysts, Pt favors trapping of electrons, while MnO&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; tends to collect holes. Upon generation from NH&lt;sub&gt;2&lt;/sub&gt;&#8208;UiO&#8208;66, electrons and holes flow inward and outward of the metal&#8211;organic framework photocatalyst, accumulating on the corresponding cocatalysts, and then take part in the redox reactions. The PUM photocatalyst greatly prolongs the lifetime of the photogenerated electrons and holes, which favors the electron&#8211;hole separation. Furthermore, the PUM sample facilitates overall water splitting in the absence of sacrificial agents, thereby demonstrating its potential as a modification method of MOF&#8208;type semiconductors for the overall water&#8208;splitting reaction.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Metal&#8211;Organic&#8208;Framework&#8208;Based Photocatalysts Optimized by Spatially Separated Cocatalysts for Overall Water Splitting</dc:title>
-      <dc:identifier>doi:10.1002/adma.202004747</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-11-04T11:27:44-08:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202004747</prism:doi>
-      <prism:url>https://doi.org/10.1002/adma.202004747</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202004898">
-      <title>Designing Advanced In Situ Electrode/Electrolyte Interphases for Wide Temperature Operation of 4.5 V Li||LiCoO2 Batteries</title>
-      <dc:description>
-High&#8208;voltage LiCoO2 cathodes are highly desirable for various energy&#8208;storage applications, especially when coupled with lithium metal anodes. Fluorine&#8208;rich electrode/electrolyte interphases in situ formed in an advanced ether electrolyte is found to enable highly stable cell cycling under elevated temperatures. Those interphases effectively suppress electrolyte side reactions and preserve the integrity of both cathode and anode materials.
-
-
-
-
-
-
-
-
-Abstract
-High&#8208;energy&#8208;density batteries with a LiCoO2 (LCO) cathode are of significant importance to the energy&#8208;storage market, especially for portable electronics. However, their development is greatly limited by the inferior performance under high voltages and challenging temperatures. Here, highly stable lithium (Li) metal batteries with LCO cathode, through the design of in situ formed, stable electrode/electrolyte interphases on both the Li anode and the LCO cathode, with an advanced electrolyte, are reported. The LCO cathode can deliver a high specific capacity of &#8776;190 mAh g&#8722;1 and show greatly improved cell performances under a high charge voltage of 4.5&#160;V (even up to 4.55&#160;V) and a wide temperature range from &#8722;30 to 55&#160;&#176;C. This work points out a promising approach for developing Li||LCO batteries for practical applications. This approach can also be used to improve the high&#8208;voltage performance of other batteries in a broad temperature range.
-</dc:description>
-      <dc:creator>
-Xiaodi Ren, 
-Xianhui Zhang, 
-Zulipiya Shadike, 
-Lianfeng Zou, 
-Hao Jia, 
-Xia Cao, 
-Mark H. Engelhard, 
-Bethany E. Matthews, 
-Chongmin Wang, 
-Bruce W. Arey, 
-Xiao&#8208;Qing Yang, 
-Jun Liu, 
-Ji&#8208;Guang Zhang, 
-Wu Xu
-</dc:creator>
-      <link>https://doi.org/10.1002/adma.202004898</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7fbb2467-542d-4258-9b5b-895efcccadfe/adma202004898-gra-0001-m.png"
-     alt="Designing Advanced In Situ Electrode/Electrolyte Interphases for Wide Temperature Operation of 4.5 V Li||LiCoO2 Batteries"/&gt;
-&lt;p&gt;High&#8208;voltage LiCoO&lt;sub&gt;2&lt;/sub&gt; cathodes are highly desirable for various energy&#8208;storage applications, especially when coupled with lithium metal anodes. Fluorine&#8208;rich electrode/electrolyte interphases in situ formed in an advanced ether electrolyte is found to enable highly stable cell cycling under elevated temperatures. Those interphases effectively suppress electrolyte side reactions and preserve the integrity of both cathode and anode materials.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;High&#8208;energy&#8208;density batteries with a LiCoO&lt;sub&gt;2&lt;/sub&gt; (LCO) cathode are of significant importance to the energy&#8208;storage market, especially for portable electronics. However, their development is greatly limited by the inferior performance under high voltages and challenging temperatures. Here, highly stable lithium (Li) metal batteries with LCO cathode, through the design of in situ formed, stable electrode/electrolyte interphases on both the Li anode and the LCO cathode, with an advanced electrolyte, are reported. The LCO cathode can deliver a high specific capacity of &#8776;190 mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; and show greatly improved cell performances under a high charge voltage of 4.5&#160;V (even up to 4.55&#160;V) and a wide temperature range from &#8722;30 to 55&#160;&#176;C. This work points out a promising approach for developing Li||LCO batteries for practical applications. This approach can also be used to improve the high&#8208;voltage performance of other batteries in a broad temperature range.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Designing Advanced In Situ Electrode/Electrolyte Interphases for Wide Temperature Operation of 4.5 V Li||LiCoO2 Batteries</dc:title>
-      <dc:identifier>doi:10.1002/adma.202004898</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-11-04T11:24:08-08:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202004898</prism:doi>
-      <prism:url>https://doi.org/10.1002/adma.202004898</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202005386">
-      <title>Thermodynamic Properties and Molecular Packing Explain Performance and Processing Procedures of Three D18:NFA Organic Solar Cells</title>
-      <dc:description>
-Molecular packing and thermodynamic properties of D18&#8208;based fullerene&#8208;free organic solar cells are studied. The D18 polymer exhibits strong chain extension in films, which is beneficial to charge transport. Miscibility and other characterizations explain the disparate performance of three systems and the processing procedures.
-
-
-
-
-
-
-
-
-Abstract
-Organic solar cells (OSCs) based on D18:Y6 have recently exhibited a record power conversion efficiency of over 18%. The initial work is extended and the device performance of D18&#8208;based OSCs is compared with three non&#8208;fullerene acceptors, Y6, IT&#8208;4F, and IEICO&#8208;4Cl, and their molecular packing characteristics and miscibility are studied. The D18 polymer shows unusually strong chain extension and excellent backbone ordering in all films, which likely contributes to the excellent hole&#8208;transporting properties. Thermodynamic characterization indicates a room&#8208;temperature miscibility for D18:Y6 and D18:IT&#8208;4F near the percolation threshold. This corresponds to an ideal quench depth and explains the use of solvent vapor annealing rather than thermal annealing. In contrast, D18:IEICO&#8208;4Cl is a low&#8208;miscibility system with a deep quench depth during casting and poor morphology control and low performance. A failure of ternary blends with PC71BM is likely due to the near&#8208;ideal miscibility of Y6 to begin with and indicates that strategies for developing successful ternary or quaternary solar cells are likely very different for D18 than for other high&#8208;performing donors. This work reveals several unique property&#8211;performance relations of D18&#8208;based photovoltaic devices and helps guide design or fabrication of yet higher efficiency OSCs.
-</dc:description>
-      <dc:creator>
-Zhen Wang, 
-Zhengxing Peng, 
-Zuo Xiao, 
-Dovletgeldi Seyitliyev, 
-Kenan Gundogdu, 
-Liming Ding, 
-Harald Ade
-</dc:creator>
-      <link>https://doi.org/10.1002/adma.202005386</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/fd43d2fd-3cb9-4761-b0d8-3b9dca593dfe/adma202005386-gra-0001-m.png"
-     alt="Thermodynamic Properties and Molecular Packing Explain Performance and Processing Procedures of Three D18:NFA Organic Solar Cells"/&gt;
-&lt;p&gt;Molecular packing and thermodynamic properties of D18&#8208;based fullerene&#8208;free organic solar cells are studied. The D18 polymer exhibits strong chain extension in films, which is beneficial to charge transport. Miscibility and other characterizations explain the disparate performance of three systems and the processing procedures.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Organic solar cells (OSCs) based on D18:Y6 have recently exhibited a record power conversion efficiency of over 18%. The initial work is extended and the device performance of D18&#8208;based OSCs is compared with three non&#8208;fullerene acceptors, Y6, IT&#8208;4F, and IEICO&#8208;4Cl, and their molecular packing characteristics and miscibility are studied. The D18 polymer shows unusually strong chain extension and excellent backbone ordering in all films, which likely contributes to the excellent hole&#8208;transporting properties. Thermodynamic characterization indicates a room&#8208;temperature miscibility for D18:Y6 and D18:IT&#8208;4F near the percolation threshold. This corresponds to an ideal quench depth and explains the use of solvent vapor annealing rather than thermal annealing. In contrast, D18:IEICO&#8208;4Cl is a low&#8208;miscibility system with a deep quench depth during casting and poor morphology control and low performance. A failure of ternary blends with PC&lt;sub&gt;71&lt;/sub&gt;BM is likely due to the near&#8208;ideal miscibility of Y6 to begin with and indicates that strategies for developing successful ternary or quaternary solar cells are likely very different for D18 than for other high&#8208;performing donors. This work reveals several unique property&#8211;performance relations of D18&#8208;based photovoltaic devices and helps guide design or fabrication of yet higher efficiency OSCs.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>Thermodynamic Properties and Molecular Packing Explain Performance and Processing Procedures of Three D18:NFA Organic Solar Cells</dc:title>
-      <dc:identifier>doi:10.1002/adma.202005386</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-11-04T11:24:07-08:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202005386</prism:doi>
-      <prism:url>https://doi.org/10.1002/adma.202005386</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
