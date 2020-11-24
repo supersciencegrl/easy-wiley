@@ -9,9 +9,14 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014581" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014310" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012611" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013843" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013854" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012986" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013450" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014501" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014431" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012916" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010837" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011839" />
@@ -31,6 +36,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012470" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011256" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010429" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014431" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011384" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013562" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014425" />
@@ -49,7 +55,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014993" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011617" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013964" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013172" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012673" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012861" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011956" />
@@ -63,8 +68,8 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011780" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010618" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013275" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013172" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202007899" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013921" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012504" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202000451" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010957" />
@@ -81,6 +86,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010745" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012796" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014384" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013921" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013915" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013361" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013373" />
@@ -123,12 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012550" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008562" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011006" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011109" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012921" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012392" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013069" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013618" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012722" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202004550" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009975" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009110" />
@@ -217,6 +217,146 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202014581">
+      <title>Catalytic Synthesis of Potassium Acyltrifluoroborates (KATs) from Boronic Acids and the Thioimidate KAT Transfer Reagent</title>
+      <dc:description>We report the synthesis of potassium acyltrifluoroborates (KATs) by a palladium&#8208;catalyzed cross&#8208;coupling of boronic acids and the thioimidate KAT transfer reagent. The combination of widely available aryl&#8208; and vinylboronic acids with commercially available thioimidate&#160;  1  &#160;using catalytic Pd  II  &#160; and a Cu  II  &#160;additive&#160; enables the preparation of KATs in high yields and with good functional group tolerance. This formal insertion of CO into organoboronic acids can also be applied to boronic acid pinacol esters and potassium organotrifluoroborates using a slightly modified procedure. The cross&#8208;coupling can be telescoped into the one&#8208;pot synthesis of amides and&#160; a &#8208;aminotrifluoroborates by exploiting the unique chemistry of KATs and their trifluoroborate iminium (TIM) derivatives.</dc:description>
+      <dc:creator>
+Anne Schuhmacher, 
+Sarah  J. Ryab, 
+Jeffrey  W. Bode
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014581</link>
+      <content:encoded>&lt;p&gt;We report the synthesis of potassium acyltrifluoroborates (KATs) by a palladium&#8208;catalyzed cross&#8208;coupling of boronic acids and the thioimidate KAT transfer reagent. The combination of widely available aryl&#8208; and vinylboronic acids with commercially available thioimidate&#160;  1  &#160;using catalytic Pd  II  &#160; and a Cu  II  &#160;additive&#160; enables the preparation of KATs in high yields and with good functional group tolerance. This formal insertion of CO into organoboronic acids can also be applied to boronic acid pinacol esters and potassium organotrifluoroborates using a slightly modified procedure. The cross&#8208;coupling can be telescoped into the one&#8208;pot synthesis of amides and&#160; a &#8208;aminotrifluoroborates by exploiting the unique chemistry of KATs and their trifluoroborate iminium (TIM) derivatives.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Catalytic Synthesis of Potassium Acyltrifluoroborates (KATs) from Boronic Acids and the Thioimidate KAT Transfer Reagent</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014581</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-24T04:46:55-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014581</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014581</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202014310">
+      <title>Cu&#8208;mediated Dichotomic Borylation of Alkyne Carbonates: Stereoselective Access to (E)&#8208;1,2&#8208;Diborylated 1,3&#8208;Dienes versus Traceless Monoborylation affording &#945;&#8208;Hydroxyallenes</title>
+      <dc:description>A mild copper mediated borylation protocol of alkynyl cyclic carbonates has been developed. Depending on the nature of the borylating reaction partner, either stereoselective diborylation of the propargylic surrogate takes place providing convenient access to (E)&#8208;1,2&#8208;borylated 1,3&#8208;dienes, or traceless mono&#8208;borylation that leads to &#945;&#8208;hydroxyallenes as the principal product. The dichotomy in this borylation protocol has been scrutinized by several control experiments illustrating that a relatively small change in the diboron(4)
+
+reagent allows for competitive alcohol&#8208;assisted protodemetalation to forge an &#945;&#8208;hydroxyallene product under ambient conditions.</dc:description>
+      <dc:creator>
+Kun Guo, 
+Arjan  Willem Kleij
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014310</link>
+      <content:encoded>&lt;p&gt;A mild copper mediated borylation protocol of alkynyl cyclic carbonates has been developed. Depending on the nature of the borylating reaction partner, either stereoselective diborylation of the propargylic surrogate takes place providing convenient access to (E)&#8208;1,2&#8208;borylated 1,3&#8208;dienes, or traceless mono&#8208;borylation that leads to &#945;&#8208;hydroxyallenes as the principal product. The dichotomy in this borylation protocol has been scrutinized by several control experiments illustrating that a relatively small change in the diboron(4)
+
+reagent allows for competitive alcohol&#8208;assisted protodemetalation to forge an &#945;&#8208;hydroxyallene product under ambient conditions.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Cu&#8208;mediated Dichotomic Borylation of Alkyne Carbonates: Stereoselective Access to (E)&#8208;1,2&#8208;Diborylated 1,3&#8208;Dienes versus Traceless Monoborylation affording &#945;&#8208;Hydroxyallenes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014310</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-24T12:21:32-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014310</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014310</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202012611">
+      <title>Gold&#8208;catalyzed [3+2]&#8208;Annulations of &#945;&#8208;Aryl Diazoketones with the Tetrasubstituted Alkenes of Cyclopentadienes: High Stereoselectivity and Enantioselectivity</title>
+      <dc:description>This work reports gold&#8208;catalyzed [3+2]&#8208;annulations of &#945;&#8208;diazo ketones with highly substituted cyclopentadienes, affording bicyclic 2,3&#8208;dihydrofurans with high regio&#8208; and stereoselectivity. The reactions highlights the first success of tetrasubstituted alkenes to undergo [3+2]&#8208;annulations with &#945;&#8208;diazo carbonyls. The enantioselective annulations are also achieved with high enantioselectivity using chiral forms of gold and phosphoric acid. Our mechanistic analysis supports that cyclopentadienes serve as nucleophiles to attack gold carbenes at the more substituted alkenes, yielding gold enolates that complex with chiral phosphoric acid to enhance the enantioselectivity.</dc:description>
+      <dc:creator>
+Ching-Nung Chen, 
+Wei-Min Cheng, 
+Jian-Kai Wang, 
+Tzu&#8208;Hsuan Chao, 
+Mu-Jeng Cheng, 
+Rai-Shung Liu
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202012611</link>
+      <content:encoded>&lt;p&gt;This work reports gold&#8208;catalyzed [3+2]&#8208;annulations of &#945;&#8208;diazo ketones with highly substituted cyclopentadienes, affording bicyclic 2,3&#8208;dihydrofurans with high regio&#8208; and stereoselectivity. The reactions highlights the first success of tetrasubstituted alkenes to undergo [3+2]&#8208;annulations with &#945;&#8208;diazo carbonyls. The enantioselective annulations are also achieved with high enantioselectivity using chiral forms of gold and phosphoric acid. Our mechanistic analysis supports that cyclopentadienes serve as nucleophiles to attack gold carbenes at the more substituted alkenes, yielding gold enolates that complex with chiral phosphoric acid to enhance the enantioselectivity.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Gold&#8208;catalyzed [3+2]&#8208;Annulations of &#945;&#8208;Aryl Diazoketones with the Tetrasubstituted Alkenes of Cyclopentadienes: High Stereoselectivity and Enantioselectivity</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012611</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-23T10:26:29-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012611</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202012611</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202013843">
+      <title>Efficient Catalysts for Green Synthesis of Adipic Acid from Biomass</title>
+      <dc:description>Green synthesis of adipic acid from renewable biomass is a very attractive goal of sustainable chemistry. Herein, we report efficient catalysts for a two&#8208;step transformation of cellulose&#8208;derived glucose into adipic acid via glucaric acid. Carbon nanotube&#8208;supported platinum nanoparticles are found to work efficiently for the oxidation of glucose to glucaric acid. An activated carbon&#8208;supported bifunctional catalyst composed of rhenium oxide and palladium is discovered to be powerful for the removal of four hydroxyl groups in glucaric acid, affording adipic acid with a 99% yield. Rhenium oxide functions for the deoxygenation but is less efficient for four hydroxyl&#8208;group removal. The co&#8208;presence of palladium not only catalyzes the hydrogenation of olefin intermediates but also synergistically facilitates the deoxygenation. This work presents a green route for adipic acid synthesis, and offers a bifunctional&#8208;catalysis strategy for efficient deoxygenation.</dc:description>
+      <dc:creator>
+Ye Wang, 
+Weiping Deng, 
+Longfei Yan, 
+Binju Wang, 
+Qihui Zhang, 
+Haiyan Song, 
+Shanshan Wang, 
+Qinghong Zhang
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202013843</link>
+      <content:encoded>&lt;p&gt;Green synthesis of adipic acid from renewable biomass is a very attractive goal of sustainable chemistry. Herein, we report efficient catalysts for a two&#8208;step transformation of cellulose&#8208;derived glucose into adipic acid via glucaric acid. Carbon nanotube&#8208;supported platinum nanoparticles are found to work efficiently for the oxidation of glucose to glucaric acid. An activated carbon&#8208;supported bifunctional catalyst composed of rhenium oxide and palladium is discovered to be powerful for the removal of four hydroxyl groups in glucaric acid, affording adipic acid with a 99% yield. Rhenium oxide functions for the deoxygenation but is less efficient for four hydroxyl&#8208;group removal. The co&#8208;presence of palladium not only catalyzes the hydrogenation of olefin intermediates but also synergistically facilitates the deoxygenation. This work presents a green route for adipic acid synthesis, and offers a bifunctional&#8208;catalysis strategy for efficient deoxygenation.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Efficient Catalysts for Green Synthesis of Adipic Acid from Biomass</dc:title>
+      <dc:identifier>doi:10.1002/anie.202013843</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-23T07:39:52-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202013843</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202013843</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202013854">
+      <title>2,4,6&#8208;Triphenylpyridinium: A Bulky, Highly Electron&#8208;Withdrawing Substituent Which Enhances Properties of Nickel(II) Ethylene Polymerization Catalysts</title>
+      <dc:description>The reactivity of Ni(II) and Pd(II) olefin polymerization catalysts can be enhanced by introduction of electron&#8208;withdrawing substituents on the supporting ligands rendering the metal centers more electrophilic. Reported here is a comparison of ethylene polymerization activity of a classical salicyliminato nickel catalyst substituted with the powerful electron&#8208;withdrawing 2,4,6&#8208;triphenylpyridinium (trippy) group to its&#8217; &#8211;CF  3  analog. The trippy substituent is substantially more electron&#8208;withdrawing (&#963;  meta  = 0.63) than the trifluoromethyl group (&#963;  meta  = 0.43) which results in a ca. 8&#8208;fold increase in catalytic turnover frequency. An additional advantage of trippy is its&#8217; high steric bulk relative to the trifluoromethyl group. This feature results in a four&#8208;fold increase in polymer molecular weight due to enhanced retardation of chain transfer. A significant increase in catalyst lifetime is observed as well.</dc:description>
+      <dc:creator>
+Olafs Daugulis, 
+Maurice Brookhart, 
+Mateusz Janeta, 
+Julius  X. Heidlas
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202013854</link>
+      <content:encoded>&lt;p&gt;The reactivity of Ni(II) and Pd(II) olefin polymerization catalysts can be enhanced by introduction of electron&#8208;withdrawing substituents on the supporting ligands rendering the metal centers more electrophilic. Reported here is a comparison of ethylene polymerization activity of a classical salicyliminato nickel catalyst substituted with the powerful electron&#8208;withdrawing 2,4,6&#8208;triphenylpyridinium (trippy) group to its&#8217; &#8211;CF  3  analog. The trippy substituent is substantially more electron&#8208;withdrawing (&#963;  meta  = 0.63) than the trifluoromethyl group (&#963;  meta  = 0.43) which results in a ca. 8&#8208;fold increase in catalytic turnover frequency. An additional advantage of trippy is its&#8217; high steric bulk relative to the trifluoromethyl group. This feature results in a four&#8208;fold increase in polymer molecular weight due to enhanced retardation of chain transfer. A significant increase in catalyst lifetime is observed as well.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>2,4,6&#8208;Triphenylpyridinium: A Bulky, Highly Electron&#8208;Withdrawing Substituent Which Enhances Properties of Nickel(II) Ethylene Polymerization Catalysts</dc:title>
+      <dc:identifier>doi:10.1002/anie.202013854</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-23T07:17:16-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202013854</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202013854</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202012986">
+      <title>Self&#8208;Regeneration and Self&#8208;Healing in DNA Origami Nanostructures</title>
+      <dc:description>DNA nanotechnology and advances in the DNA origami technique have enabled facile design and synthesis of complex and functional nanostructures. Molecular devices are, however, prone to rapid functional and structural degradation due to the high proportion of surface atoms at the nanoscale and due to complex working environments. Besides stabilizing mechanisms, approach for the self&#8208;repair of functional molecular devices are desirable. Here we exploit the self&#8208;assembly and reconfigurability of DNA origami nanostructures to induce the self&#8208;repair of defects of photoinduced and enzymatic damage. With different examples of repair in DNA nanostructures, we distinguish between unspecific self&#8208;regeneration and damage specific self&#8208;healing mechanisms. Using DNA origami nanorulers studied by atomic force and superresolution DNA PAINT microscopy, quantitative preservation of fluorescence properties is demonstrated with direct potential for improving nanoscale calibration samples.</dc:description>
+      <dc:creator>
+J&#252;rgen  Michael Scheckenbach, 
+Philip Tinnefeld, 
+Viktorija Glembockyte, 
+Tom Schubert, 
+Carsten Forthmann
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202012986</link>
+      <content:encoded>&lt;p&gt;DNA nanotechnology and advances in the DNA origami technique have enabled facile design and synthesis of complex and functional nanostructures. Molecular devices are, however, prone to rapid functional and structural degradation due to the high proportion of surface atoms at the nanoscale and due to complex working environments. Besides stabilizing mechanisms, approach for the self&#8208;repair of functional molecular devices are desirable. Here we exploit the self&#8208;assembly and reconfigurability of DNA origami nanostructures to induce the self&#8208;repair of defects of photoinduced and enzymatic damage. With different examples of repair in DNA nanostructures, we distinguish between unspecific self&#8208;regeneration and damage specific self&#8208;healing mechanisms. Using DNA origami nanorulers studied by atomic force and superresolution DNA PAINT microscopy, quantitative preservation of fluorescence properties is demonstrated with direct potential for improving nanoscale calibration samples.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Self&#8208;Regeneration and Self&#8208;Healing in DNA Origami Nanostructures</dc:title>
+      <dc:identifier>doi:10.1002/anie.202012986</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-23T07:15:55-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202012986</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202012986</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202013450">
       <title>Copper(I)&#8208;Catalyzed Asymmetric Interrupted Kinugasa Reaction: Synthesis of &#945;&#8208;Thiofunctional Chiral &#946;&#8208;Lactams</title>
       <dc:description>A copper(I)&#8208;catalyzed asymmetric, three&#8208;component interrupted Kinugasa reaction has been developed. Diverse chiral sulfur&#8208;containing  chiral  &#946;  &#8208;lactams  with two consecutive stereogenic centers were synthesized in one step from readily available starting materials in good yields and with excellent diastereo&#8208; and enantioselectivity. The key is the interception of in situ formed chiral four membered copper(I) enolate intermediate with sulfur electrophiles.</dc:description>
@@ -265,26 +405,6 @@ Tian-Lu Sheng
       <prism:url>https://doi.org/10.1002/anie.202014501</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202014431">
-      <title>Highly Potent MRI Contrast Agent Displaying Outstanding Sensitivity to Zinc Ions</title>
-      <dc:description>Zinc ions play an important role in numerous crucial biological processes in the human body. The ability to&#160; image the function of Zn  2+  would be a significant asset to biomedical research for monitoring various physiopathologies dependent on its fate. To this end, we developed a novel Gd  3+  chelate that can selectively recognize Zn  2+  over other abundant endogenous metal ions and alter its paramagnetic properties. More specifically, this lanthanide chelate displayed an extraordinary increase in longitudinal relaxivity (  r  1  ) of over 400% upon interaction with Zn  2+  at 7 T and 25 &#176;C, which is the greatest  r  1  enhancement observed for any of the metal ion&#8208;responsive Gd&#8208;based complexes at high magnetic field. A &#8220;turn&#8208;on&#8221; mechanism responsible for these massive changes was confirmed through NMR and&#160; luminescence lifetime studies on a  13  C&#8208;labeled Eu  3+  analogue. This molecular platform represents a new momentum in developing highly suitable magnetic resonance imaging contrast agents for functional molecular imaging studies of Zn  2+  .</dc:description>
-      <dc:creator>
-Gaoji Wang, 
-Goran Angelovski
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202014431</link>
-      <content:encoded>&lt;p&gt;Zinc ions play an important role in numerous crucial biological processes in the human body. The ability to&#160; image the function of Zn  2+  would be a significant asset to biomedical research for monitoring various physiopathologies dependent on its fate. To this end, we developed a novel Gd  3+  chelate that can selectively recognize Zn  2+  over other abundant endogenous metal ions and alter its paramagnetic properties. More specifically, this lanthanide chelate displayed an extraordinary increase in longitudinal relaxivity (  r  1  ) of over 400% upon interaction with Zn  2+  at 7 T and 25 &#176;C, which is the greatest  r  1  enhancement observed for any of the metal ion&#8208;responsive Gd&#8208;based complexes at high magnetic field. A &#8220;turn&#8208;on&#8221; mechanism responsible for these massive changes was confirmed through NMR and&#160; luminescence lifetime studies on a  13  C&#8208;labeled Eu  3+  analogue. This molecular platform represents a new momentum in developing highly suitable magnetic resonance imaging contrast agents for functional molecular imaging studies of Zn  2+  .&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Highly Potent MRI Contrast Agent Displaying Outstanding Sensitivity to Zinc Ions</dc:title>
-      <dc:identifier>doi:10.1002/anie.202014431</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-23T07:17:22-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202014431</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202014431</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012916">
       <title>Genetically Encoded and Biologically Produced All&#8208;DNA Nanomedicine Based on One&#8208;Pot Assembly of DNA Dendrimers for Targeted Gene Regulation</title>
@@ -751,28 +871,6 @@ Chen-Yu Yeh
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013172">
-      <title>A bidentate iodine(III)&#8208;based halogen&#8208;bond donor as a powerful organocatalyst</title>
-      <dc:description>In contrast to iodine(I)&#8208;based halogen bond donors, iodine(III)&#8208;derived ones have only been used as Lewis acidic organocatalysts in a handful of examples, and in all cases they acted in a monodentate fashion. Herein, we report the first application of a bidentate bis(iodolium) salt as organocatalyst in a Michael and a nitro&#8208;Michael addition reaction as well as in a Diels&#8208;Alder reaction that had not been activated by noncovalent organocatalysts before. In all cases, the performance of this bidentate XB donor distinctly surpassed the one of arguably the currently strongest iodine(I)&#8208;based organocatalyst. Bidentate coordination to the substrate was corroborated by a structural analysis and by DFT calculations of the transition states. Overall, the catalytic activity of the bis(iodolium) system approaches that of strong Lewis acids like BF  3  .</dc:description>
-      <dc:creator>
-Flemming Heinen, 
-Dominik Reinhard, 
-Elric Engelage, 
-Stefan  Matthias Huber
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013172</link>
-      <content:encoded>&lt;p&gt;In contrast to iodine(I)&#8208;based halogen bond donors, iodine(III)&#8208;derived ones have only been used as Lewis acidic organocatalysts in a handful of examples, and in all cases they acted in a monodentate fashion. Herein, we report the first application of a bidentate bis(iodolium) salt as organocatalyst in a Michael and a nitro&#8208;Michael addition reaction as well as in a Diels&#8208;Alder reaction that had not been activated by noncovalent organocatalysts before. In all cases, the performance of this bidentate XB donor distinctly surpassed the one of arguably the currently strongest iodine(I)&#8208;based organocatalyst. Bidentate coordination to the substrate was corroborated by a structural analysis and by DFT calculations of the transition states. Overall, the catalytic activity of the bis(iodolium) system approaches that of strong Lewis acids like BF  3  .&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A bidentate iodine(III)&#8208;based halogen&#8208;bond donor as a powerful organocatalyst</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013172</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-20T04:35:04-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013172</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013172</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012673">
       <title>The pH&#8208;Induced Selectivity Between Cysteine or Histidine Coordinated Heme in an Artificial &#945;&#8208;Helical Metalloprotein</title>
       <dc:description>De Novo  metalloprotein design assesses the relationship between metal active site architecture and catalytic reactivity. Herein, we use an &#945;&#8208;helical scaffold to control the iron coordination geometry when a heme cofactor is allowed to bind to either histidine or cysteine ligands, within a single artificial protein. Consequently, we uncovered a reversible pH&#8208;induced switch of the heme axial ligation within this simplified scaffold. Characterization of the specific heme coordination modes was done by using UV&#8208;Vis and Electron Paramagnetic Resonance spectroscopies. The penta&#8208; or hexa&#8208;coordinate thiolate heme (9 &#8804; pH &#8804; 11) and the penta&#8208;coordinate imidazole heme (6 &#8804; pH &#8804; 8.5) reproduces well the heme ligation in chloroperoxidases or cyt P450 monooxygenases and peroxidases, respectively. The stability of heme coordination upon ferric/ferrous redox cycling is a crucial property of the construct. At basic pHs, the thiolate mini&#8208;heme protein can catalyze O  2  reduction when adsorbed onto a pyrolytic graphite electrode .</dc:description>
@@ -847,33 +945,6 @@ Massimo Bietti
       <prism:url>https://doi.org/10.1002/anie.202007899</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013921">
-      <title>Generation and Characterization of the C3O2&#8208; Anion with an Unexpected Unsymmetrical Structure</title>
-      <dc:description>The carbon suboxide anion C  3  O  2  &#8208;  is generated in solid neon matrix. It is characterized by infrared absorption spectroscopy as well as quantum chemical calculations to have a planar  C  s  structure where two CO groups with significantly different bond lengths and angles are attached in a zigzag fashion to the central carbon atom. Bonding analysis indicates that it is best described by the bonding interactions between a neutral CO in a triplet excited state and a doublet excited state of CCO  &#8208;  .</dc:description>
-      <dc:creator>
-Gernot Frenking, 
-Lina Wang, 
-Sudip Pan, 
-Bo Lu, 
-Xuelin Dong, 
-Hongmin Li, 
-Guohai Deng, 
-Xiaoqing Zeng, 
-Mingfei Zhou
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013921</link>
-      <content:encoded>&lt;p&gt;The carbon suboxide anion C  3  O  2  &#8208;  is generated in solid neon matrix. It is characterized by infrared absorption spectroscopy as well as quantum chemical calculations to have a planar  C  s  structure where two CO groups with significantly different bond lengths and angles are attached in a zigzag fashion to the central carbon atom. Bonding analysis indicates that it is best described by the bonding interactions between a neutral CO in a triplet excited state and a doublet excited state of CCO  &#8208;  .&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Generation and Characterization of the C3O2&#8208; Anion with an Unexpected Unsymmetrical Structure</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013921</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-19T05:04:12-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013921</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013921</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012504">
       <title>Rational Construction of Borromean Linked Crystalline Organic Polymers</title>
@@ -1550,99 +1621,5 @@ Carsten Strohmann
       <prism:url>https://doi.org/10.1002/anie.202013731</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011109">
-      <title>Observation of the Reaction Intermediates of Methanol Dehydrogenation by Cationic Vanadium Clusters</title>
-      <dc:description>Detection and characterization of fleeting reaction intermediates and active sites are crucial for molecular&#8208;level knowledge of catalysis; insight that is required to understand the catalytic mechanisms, and to design novel high performance catalysts. We report a mass spectrometric study of the reactions of 3d early transition metal (vanadium, [Ar]3d  3  4s  2  ) cationic clusters with methanol in a low&#8208;pressure collision cell. For comparison, the reaction of methanol with 3d late transition metal (cobalt, [Ar]3d  7  4s  2  ) cationic clusters were studied as well. In the vanadium case, the main reaction products are fully dehydrogenated species, and partial dehydrogenation and non&#8208;dehydrogenation species are observed as minors, for which the relative intensities increase with cluster size and also at low cluster source temperature cooled by liquid nitrogen; while no dehydrogenation products have been observed for cobalt clusters. That demonstrates the strikingly different reactivity of vanadium and cobalt cationic clusters towards methanol. Quantum chemical calculations explored the reaction pathways and revealed that the fully dehydrogenation products of the reaction between V  n  +  and methanol are V  n  (C)(O)  +  , in which C and O are separated due to the high oxophilicity of vanadium. The partial dehydrogenation and non&#8208;dehydrogenation species observed in the experiment are verified to be reaction intermediates along the reaction pathway, and their most probable structures have been proposed.</dc:description>
-      <dc:creator>
-Gao-Lei Hou, 
-Endre Farag&#243;, 
-D&#225;niel Buzs&#225;ki, 
-L&#225;szl&#243; Nyul&#225;szi, 
-Tibor H&#246;ltzl, 
-Ewald Janssens
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202011109</link>
-      <content:encoded>&lt;p&gt;Detection and characterization of fleeting reaction intermediates and active sites are crucial for molecular&#8208;level knowledge of catalysis; insight that is required to understand the catalytic mechanisms, and to design novel high performance catalysts. We report a mass spectrometric study of the reactions of 3d early transition metal (vanadium, [Ar]3d  3  4s  2  ) cationic clusters with methanol in a low&#8208;pressure collision cell. For comparison, the reaction of methanol with 3d late transition metal (cobalt, [Ar]3d  7  4s  2  ) cationic clusters were studied as well. In the vanadium case, the main reaction products are fully dehydrogenated species, and partial dehydrogenation and non&#8208;dehydrogenation species are observed as minors, for which the relative intensities increase with cluster size and also at low cluster source temperature cooled by liquid nitrogen; while no dehydrogenation products have been observed for cobalt clusters. That demonstrates the strikingly different reactivity of vanadium and cobalt cationic clusters towards methanol. Quantum chemical calculations explored the reaction pathways and revealed that the fully dehydrogenation products of the reaction between V  n  +  and methanol are V  n  (C)(O)  +  , in which C and O are separated due to the high oxophilicity of vanadium. The partial dehydrogenation and non&#8208;dehydrogenation species observed in the experiment are verified to be reaction intermediates along the reaction pathway, and their most probable structures have been proposed.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Observation of the Reaction Intermediates of Methanol Dehydrogenation by Cationic Vanadium Clusters</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011109</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-17T01:28:27-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011109</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202011109</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012921">
-      <title>Silver in the Center Enhances Room&#8208;Temperature Phosphorescence of Platinum Sub&#8208;nanocluster by 18 times</title>
-      <dc:description>There has been a controversy surrounding the roles of the metal core (metal&#8208;metal interaction) and the shell (metal&#8208;ligand interaction) in photoluminescence of ligand&#8208;protected metal nanoclusters. Our group has discovered aggregation&#8208;induced room&#8208;temperature phosphorescence of platinum&#8208;thiolate complex and its silver ion inclusion complex (i.e. silver doped platinum sub&#8208;nanocluster). The inclusion of silver ion has boosted photoluminescent quantum yield by 18 times. The results of photophysical measurements indicated that the rate of nonradiative decay was slower for silver doped platinum sub&#8208;nanocluster. Density functional theory calculations showed that the LUMO, which had the main contribution from Ag  s  &#8208;orbital and Pt  d  &#8208;orbitals, played a critical role in suppressing the structural distortion at the excited state. This work is hoped to stimulate more experimental and theoretical research on the designing strategies based on molecular orbitals of atomicity&#8208;precise luminescent multimetallic nanoclusters.</dc:description>
-      <dc:creator>
-Kimihisa Yamamoto, 
-Yuki Akanuma, 
-Takane Imaoka, 
-Hiroyasu Sato
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202012921</link>
-      <content:encoded>&lt;p&gt;There has been a controversy surrounding the roles of the metal core (metal&#8208;metal interaction) and the shell (metal&#8208;ligand interaction) in photoluminescence of ligand&#8208;protected metal nanoclusters. Our group has discovered aggregation&#8208;induced room&#8208;temperature phosphorescence of platinum&#8208;thiolate complex and its silver ion inclusion complex (i.e. silver doped platinum sub&#8208;nanocluster). The inclusion of silver ion has boosted photoluminescent quantum yield by 18 times. The results of photophysical measurements indicated that the rate of nonradiative decay was slower for silver doped platinum sub&#8208;nanocluster. Density functional theory calculations showed that the LUMO, which had the main contribution from Ag  s  &#8208;orbital and Pt  d  &#8208;orbitals, played a critical role in suppressing the structural distortion at the excited state. This work is hoped to stimulate more experimental and theoretical research on the designing strategies based on molecular orbitals of atomicity&#8208;precise luminescent multimetallic nanoclusters.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Silver in the Center Enhances Room&#8208;Temperature Phosphorescence of Platinum Sub&#8208;nanocluster by 18 times</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012921</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-17T12:29:23-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012921</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202012921</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012392">
-      <title>Effective enantioselective recognition by chiral amino&#8208;phosphonium salts</title>
-      <dc:description>The research on chiral recognition and selection is not only fundamental in deciding the mystery of homochirality, but also informative in terms of substrate recognition in biological processes and asymmetric catalysis. We report an enantiomeric pair of phosphonium salts having chiral (R and S) amino substituents that are utilized&#160;towards the enantioselective recognition of a variety of chiral compounds having functional groups such as carboxylic acid, amine, and alcohol. These simple phosphonium salts are found to exhibit an extremely high enantiomeric discrimination for 1&#8208;cyclohexylethylamine (CY). A remarkable guest selectivity (&#958;) value of 5.3 X 10  8  for the enantiomer of  S  &#8208;CY over  R  &#8208;CY is achieved by using the R&#8208;isomer of the aminophosphonium salt . Such high binding selectivities and discrimination capabilities may be attributed to&#160; multiple non&#8208;covalent interactions between the host and guest molecules as inferred from the DFT optimized structures of the host&#8208;guest pairs.</dc:description>
-      <dc:creator>
-Prabhakaran Rajasekar, 
-Cavya Jose, 
-Meghamala Sarkar, 
-Ramamoorthy Boomishankar
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202012392</link>
-      <content:encoded>&lt;p&gt;The research on chiral recognition and selection is not only fundamental in deciding the mystery of homochirality, but also informative in terms of substrate recognition in biological processes and asymmetric catalysis. We report an enantiomeric pair of phosphonium salts having chiral (R and S) amino substituents that are utilized&#160;towards the enantioselective recognition of a variety of chiral compounds having functional groups such as carboxylic acid, amine, and alcohol. These simple phosphonium salts are found to exhibit an extremely high enantiomeric discrimination for 1&#8208;cyclohexylethylamine (CY). A remarkable guest selectivity (&#958;) value of 5.3 X 10  8  for the enantiomer of  S  &#8208;CY over  R  &#8208;CY is achieved by using the R&#8208;isomer of the aminophosphonium salt . Such high binding selectivities and discrimination capabilities may be attributed to&#160; multiple non&#8208;covalent interactions between the host and guest molecules as inferred from the DFT optimized structures of the host&#8208;guest pairs.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Effective enantioselective recognition by chiral amino&#8208;phosphonium salts</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012392</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-17T12:28:48-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012392</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202012392</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013069">
-      <title>Efficient Suppression of Chain Transfer and Branching via Cs&#8208;Type Shielding in a Neutral Ni(II) Catalyst</title>
-      <dc:description>An effective shielding of both apical positions of a neutral Ni(II) active site is achieved by dibenzosuberyl groups, both attached via the same donors&#8217;  N  &#8208;aryl group in a  C  s  &#8208;type arrangement. The key aniline building block is accessible in a single step from commercially available dibenzosuberol. This shielding approach suppresses chain transfer and branch formation to such an extent that ultrahigh molecular weight polyethylenes (5 &#215; 10  6  g mol  &#8208;1  ) are accessible, with a strictly linear microstructure (&lt; 0.1 branches/1000C). Key features of this highly active (4.3 &#215; 10  5  turnovers h  &#8208;1  ) catalyst are an exceptionally facile preparation, thermal robustness (up to 90  o  C polymerization temperature), ability for living polymerization and compatibility with THF as a polar reaction medium.</dc:description>
-      <dc:creator>
-Chaoqun Wang, 
-Xiaohui Kang, 
-Shengyu Dai, 
-Fengchao Cui, 
-Yunqi Li, 
-Hongliang Mu, 
-Stefan Mecking, 
-Zhongbao Jian
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013069</link>
-      <content:encoded>&lt;p&gt;An effective shielding of both apical positions of a neutral Ni(II) active site is achieved by dibenzosuberyl groups, both attached via the same donors&#8217;  N  &#8208;aryl group in a  C  s  &#8208;type arrangement. The key aniline building block is accessible in a single step from commercially available dibenzosuberol. This shielding approach suppresses chain transfer and branch formation to such an extent that ultrahigh molecular weight polyethylenes (5 &#215; 10  6  g mol  &#8208;1  ) are accessible, with a strictly linear microstructure (&amp;lt; 0.1 branches/1000C). Key features of this highly active (4.3 &#215; 10  5  turnovers h  &#8208;1  ) catalyst are an exceptionally facile preparation, thermal robustness (up to 90  o  C polymerization temperature), ability for living polymerization and compatibility with THF as a polar reaction medium.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Efficient Suppression of Chain Transfer and Branching via Cs&#8208;Type Shielding in a Neutral Ni(II) Catalyst</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013069</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-17T12:00:00-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013069</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013069</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    </rdf:RDF>
