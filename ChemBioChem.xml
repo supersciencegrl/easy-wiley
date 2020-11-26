@@ -9,6 +9,9 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000773" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000791" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000688" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000705" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000642" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000650" />
@@ -62,11 +65,11 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000751" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000466" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000675" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000641" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000618" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000556" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000298" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000614" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000641" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000613" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000760" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000759" />
@@ -139,6 +142,79 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000773">
+      <title>&#946;&#8208;Cyclodextrin encapsulation of synthetic AHLs: drug delivery implications and quorum&#8208;quenching exploits.</title>
+      <dc:description>Many bacteria, such as Pseudomonas aeruginosa, regulate phenotypic switching in a population density&#8208;dependent manner through a phenomenon known as quorum sensing (QS). For Gram&#8208;negative bacteria, QS relies on the synthesis, transmission, and perception of low molecular weight signal molecules that are predominantly N&#8208;acyl&#8208;L&#8208;homoserine lactones (AHLs). Efforts to disrupt AHL&#8208;mediated QS have largely focused on the development of synthetic AHL analogues (SAHLAs) that are structurally similar to native AHLs. However, like AHLs, these molecules tend to be hydrophobic and are poorly soluble under aqueous conditions. Water&#8208;soluble macrocycles, such as cyclodextrins (CDs), that encapsulate hydrophobic guests, have long been used by both agricultural and pharmaceutical industries to overcome solubility issues associated with hydrophobic compounds of interest. Conveniently, CDs have also demonstrated anti&#8208;AHL&#8208;mediated QS effects. Here, using fluorescence spectroscopy, nuclear magnetic resonance spectrometry, and mass spectrometry, we evaluate the affinity of SAHLAs, as well as their hydrolysis products, for &#946;&#8208;CD inclusion. We also evaluated the ability of these complexes to inhibit wildtype P. aeruginosa virulence in a Caenorhabditis elegans host infection study, for the first time. Our efforts confirm the potential of &#946;&#8208;CDs for the improved delivery of SAHLAs at the host:microbial interface, expanding the utility of this approach as a strategy for probing and controlling QS.</dc:description>
+      <dc:creator>
+Eric  W Ziegler, 
+Alan  B Brown, 
+Nasri Nesnas, 
+Chris Chouinard, 
+Anil  K Mehta, 
+Andrew  George Palmer
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000773</link>
+      <content:encoded>&lt;p&gt;Many bacteria, such as Pseudomonas aeruginosa, regulate phenotypic switching in a population density&#8208;dependent manner through a phenomenon known as quorum sensing (QS). For Gram&#8208;negative bacteria, QS relies on the synthesis, transmission, and perception of low molecular weight signal molecules that are predominantly N&#8208;acyl&#8208;L&#8208;homoserine lactones (AHLs). Efforts to disrupt AHL&#8208;mediated QS have largely focused on the development of synthetic AHL analogues (SAHLAs) that are structurally similar to native AHLs. However, like AHLs, these molecules tend to be hydrophobic and are poorly soluble under aqueous conditions. Water&#8208;soluble macrocycles, such as cyclodextrins (CDs), that encapsulate hydrophobic guests, have long been used by both agricultural and pharmaceutical industries to overcome solubility issues associated with hydrophobic compounds of interest. Conveniently, CDs have also demonstrated anti&#8208;AHL&#8208;mediated QS effects. Here, using fluorescence spectroscopy, nuclear magnetic resonance spectrometry, and mass spectrometry, we evaluate the affinity of SAHLAs, as well as their hydrolysis products, for &#946;&#8208;CD inclusion. We also evaluated the ability of these complexes to inhibit wildtype P. aeruginosa virulence in a Caenorhabditis elegans host infection study, for the first time. Our efforts confirm the potential of &#946;&#8208;CDs for the improved delivery of SAHLAs at the host:microbial interface, expanding the utility of this approach as a strategy for probing and controlling QS.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>&#946;&#8208;Cyclodextrin encapsulation of synthetic AHLs: drug delivery implications and quorum&#8208;quenching exploits.</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000773</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-25T11:43:55-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000773</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000773</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000791">
+      <title>Synthesis and Evaluation of a Cyanine&#8208;Bridged Somatostatin Hybrid Probe for Multimodal SSTR2&#8208;Imaging In Vitro and In Vivo</title>
+      <dc:description>Multimodal imaging probes have attracted the interest of ongoing research, e.g. for surgical removal of tumors. Modular synthesis approaches allow for the construction of hybrid probes consisting of a radiotracer, fluorophore and targeting unit. We present the synthesis of a new asymmetric bifunctional cyanine dye, which can be used as a structural and functional linker for the construction of such hybrid probes. 68 Ga&#8208;DOTATATE, a well&#8208;characterized radiopeptide targeting the overexpressed somatostatin receptor subtype 2 (SSTR2) in neuroendocrine tumors, was labeled with our cyanine dye, thus providing additional information along with the data obtained from the radiotracer. We tested the SSTR2&#8208;targeting and imaging properties of the resulting probe 68 Ga&#8208;DOTA&#8208;ICC&#8208;TATE in vitro and in a tumor xenograft mouse model. Despite the close proximity between dye and pharmacophore, we observed a high binding affinity towards SSTR2 as well as elevated uptake in SSTR2&#8208;overexpressing tumors in the positron emission tomography (PET) scan and histological examination.</dc:description>
+      <dc:creator>
+Isabelle Heing-Becker, 
+Carsten Gr&#246;tzinger, 
+Nicola Beindorff, 
+Sonal Prasad, 
+Sarah Erdmann, 
+Samantha Exner, 
+Rainer Haag, 
+Kai Licha
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000791</link>
+      <content:encoded>&lt;p&gt;Multimodal imaging probes have attracted the interest of ongoing research, e.g. for surgical removal of tumors. Modular synthesis approaches allow for the construction of hybrid probes consisting of a radiotracer, fluorophore and targeting unit. We present the synthesis of a new asymmetric bifunctional cyanine dye, which can be used as a structural and functional linker for the construction of such hybrid probes. 68 Ga&#8208;DOTATATE, a well&#8208;characterized radiopeptide targeting the overexpressed somatostatin receptor subtype 2 (SSTR2) in neuroendocrine tumors, was labeled with our cyanine dye, thus providing additional information along with the data obtained from the radiotracer. We tested the SSTR2&#8208;targeting and imaging properties of the resulting probe 68 Ga&#8208;DOTA&#8208;ICC&#8208;TATE in vitro and in a tumor xenograft mouse model. Despite the close proximity between dye and pharmacophore, we observed a high binding affinity towards SSTR2 as well as elevated uptake in SSTR2&#8208;overexpressing tumors in the positron emission tomography (PET) scan and histological examination.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Synthesis and Evaluation of a Cyanine&#8208;Bridged Somatostatin Hybrid Probe for Multimodal SSTR2&#8208;Imaging In Vitro and In Vivo</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000791</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-25T10:44:51-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000791</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000791</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000688">
+      <title>Release of soybean isoflavones using a &#946;&#8208;Glucosidase from Alicyclobacillus herbarius.</title>
+      <dc:description>&#946; &#8208;Glucosidases are used in the food industry to hydrolyse glycosidic bonds in complex sugars, with enzymes sourced from extremophiles better able to tolerate the process conditions. In this work, a novel &#946;&#8208;glycosidase from the acidophilic organism&#160;  Alicyclobacillus herbarius  &#160;was cloned and heterologously expressed in&#160;  E. coli  &#160;BL21 (DE3).&#160;  Ahe  GH1 was stable over a broad range of pH values (5&#8208;11) and temperatures (4 &#186;C&#8208;55 &#186;C). The enzyme exhibited excellent tolerance to fructose and good tolerance to glucose, retaining 65% activity in the presence of 10% (  w/v  ) glucose. It also tolerated organic solvents, some of which appeared to have a stimulating effect, in particular ethanol with a 1.7&#8208;fold increase in activity at 10% (  v/v  ). The enzyme was then applied for the cleavage of isoflavone from isoflavone glucosides in an ethanolic extract of soy flour, to produce soy isoflavones which constitute a valuable food supplement, achieving full conversion within 15 min at 30 &#176;C.</dc:description>
+      <dc:creator>
+Lidia Delgado, 
+Christian  M. Heckmann, 
+Flavio Di Pisa, 
+Louise Gourlay, 
+Francesca Paradisi
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000688</link>
+      <content:encoded>&lt;p&gt;&#946; &#8208;Glucosidases are used in the food industry to hydrolyse glycosidic bonds in complex sugars, with enzymes sourced from extremophiles better able to tolerate the process conditions. In this work, a novel &#946;&#8208;glycosidase from the acidophilic organism&#160;  Alicyclobacillus herbarius  &#160;was cloned and heterologously expressed in&#160;  E. coli  &#160;BL21 (DE3).&#160;  Ahe  GH1 was stable over a broad range of pH values (5&#8208;11) and temperatures (4 &#186;C&#8208;55 &#186;C). The enzyme exhibited excellent tolerance to fructose and good tolerance to glucose, retaining 65% activity in the presence of 10% (  w/v  ) glucose. It also tolerated organic solvents, some of which appeared to have a stimulating effect, in particular ethanol with a 1.7&#8208;fold increase in activity at 10% (  v/v  ). The enzyme was then applied for the cleavage of isoflavone from isoflavone glucosides in an ethanolic extract of soy flour, to produce soy isoflavones which constitute a valuable food supplement, achieving full conversion within 15 min at 30 &#176;C.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Release of soybean isoflavones using a &#946;&#8208;Glucosidase from Alicyclobacillus herbarius.</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000688</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2020-11-25T07:49:12-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000688</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000688</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000705">
       <title>Advanced understanding of electron transfer pathway of cytochrome P450s</title>
       <dc:description>Cytochrome P450s (P450s) are heme&#8208;thiolate enzymes that participate in carbon source assimilation, natural compound biosynthesis and xenobiotics metabolism in all kingdoms of life. P450s can catalyze various reactions using a wide range of organic compounds, thus exhibiting great potentials in biotechnological applications. The catalytic reactions of P450s are driven by electron equivalents that are sourced from pyridine nucleotides and delivered by cognate or matching redox partners (RPs). The electron transfer (ET) route from RPs to P450s involves one or more redox center&#8208;containing domain. As ET rate is one of the main determinants of P450 efficacy, the in&#8208;depth understanding of P450 ET pathway should increase our knowledge of these important enzymes and benefit their further applications. Here, the various P450 RP systems along with current understanding of their ET routes will be reviewed. Notably, the state&#8208;of&#8208;the&#8208;art structural studies of two main types of self&#8208;sufficient P450 will also be summarized.</dc:description>
