@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014610" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012601" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011977" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013962" />
@@ -205,7 +206,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014425" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013315" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014472" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013349" />
          </rdf:Seq>
       </items>
    </channel>
@@ -214,6 +214,28 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202014610">
+      <title>Biomimetic Amino Acid Functionalized Phenazine Flow Batteries with Long Lifetime at Near&#8208;Neutral pH</title>
+      <dc:description>Aqueous organic redox flow battery is a promising electrochemical technology for large&#8208;scale energy storage. Here we report a biomimetic, ultra&#8208;stable AORFB utilizing an amino acid functionalized phenazine (AFP). A series of AFPs with various commercial amino acids at different substituted positions were synthesized and studied. 1,6&#8208;amino acid substituted phenazines display much higher stability during cycling when compared to 2,7&#8208; and 1,8&#8208;substituted AFPs. Mechanism investigations reveal that the reduced 2,7&#8208; and 1,8&#8208;AFPs tend to tautomerize and lose their reversible redox activities, while 1,6&#8208;AFPs possess ultra&#8208;high stability both in their oxidized and reduced states. By pairing 3,3'&#8208;(phenazine&#8208;1,6&#8208;diylbis(azanediyl))dipropionic acid (  1,6&#8208;DPAP  ) with ferrocyanide at pH 8 with 1.0 M electron concentration, this flow battery exhibits an OCV of 1.15 V and an extremely low capacity fade rate of 0.5% per year. These results show the importance of molecular engineering of redox&#8208;active organics for robust redox&#8208;flow batteries.</dc:description>
+      <dc:creator>
+Shuai Pang, 
+Xinyi Wang, 
+Pan Wang, 
+Yunlong Ji
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014610</link>
+      <content:encoded>&lt;p&gt;Aqueous organic redox flow battery is a promising electrochemical technology for large&#8208;scale energy storage. Here we report a biomimetic, ultra&#8208;stable AORFB utilizing an amino acid functionalized phenazine (AFP). A series of AFPs with various commercial amino acids at different substituted positions were synthesized and studied. 1,6&#8208;amino acid substituted phenazines display much higher stability during cycling when compared to 2,7&#8208; and 1,8&#8208;substituted AFPs. Mechanism investigations reveal that the reduced 2,7&#8208; and 1,8&#8208;AFPs tend to tautomerize and lose their reversible redox activities, while 1,6&#8208;AFPs possess ultra&#8208;high stability both in their oxidized and reduced states. By pairing 3,3'&#8208;(phenazine&#8208;1,6&#8208;diylbis(azanediyl))dipropionic acid (  1,6&#8208;DPAP  ) with ferrocyanide at pH 8 with 1.0 M electron concentration, this flow battery exhibits an OCV of 1.15 V and an extremely low capacity fade rate of 0.5% per year. These results show the importance of molecular engineering of redox&#8208;active organics for robust redox&#8208;flow batteries.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Biomimetic Amino Acid Functionalized Phenazine Flow Batteries with Long Lifetime at Near&#8208;Neutral pH</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014610</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-11-28T08:55:29-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014610</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014610</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012601">
       <title>Exploring a Fatigue&#8208;Free Layered Hybrid Perovskite Ferroelectric for Photovoltaic Non&#8208;Volatile Memories</title>
       <dc:description>Ferroelectric materials, equipping a striking bulk photovoltaic effect (BPVE), have shown great potential for the next generation photovoltaic non&#8208;volatile memories. However, further applications of conventional ferroelectric materials are hindered by their poor performance. The family of hybrid perovskite ferroelectrics combining fascinating polarization and striking semiconducting properties presents significant possibilities. Herein, through a functional unit&#8208;transmutation strategy, a fatigue&#8208;free layered hybrid perovskite ferroelectric (C  6  H  5  CH  2  NH  3  )  2  CsPb  2  Br  7&#160;  (  BCPB  ) has been developed, which demonstrates stable spontaneous polarization (  P  s  ) of 6.5 &#956;C/cm  2  and high Curie temperature up to 425 K. Meanwhile,  BCPB  shows splendid BPVE properties with noticeable zero&#8208;bias photocurrent density (5 &#956;A/cm  2  ), and high on/off switching ratio of current (over 3&#215;10  5  ); these merits even overmatch the most known ferroelectric semiconductor BiFeO  3  . Particularly, the unique structure with self&#8208;regulated net electrical charged layers gives rise to the fatigue&#8208;free feature of  P  s  and BPVE (no significant fatigue after 10  8  polarity switching cycles), promoting the potential applications of  BCPB  in photovoltaic non&#8208;volatile memories. As a pioneering work, it offers an efficient approach for exploring fatigue&#8208;free semiconducting ferroelectrics as well as excavates their further applications in next&#8208;generation electronic devices.</dc:description>
@@ -1822,26 +1844,5 @@ Sihui Zhan
       <prism:url>https://doi.org/10.1002/anie.202014472</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013349">
-      <title>Synthesis of Anthracene&#8208;Based Cyclic &#960;&#8208;Clusters and Elucidation of their Properties Originating from Congested Aromatic Planes</title>
-      <dc:description>Synthesis and properties of anthracene&#8208;based cyclic &#960;&#8208;clusters  1  and  2  , which possess two and four anthracene units, respectively, are discussed. The optimal cyclization conditions were determined based on a nickel(0)&#8208;mediated reaction that afforded  1  as the major product. Bringing two anthracene planes in close proximity in a face&#8208;to&#8208;face manner resulted in red&#8208;shifted absorption owing to the narrowing of the HOMO&#8208;LUMO gap. Cyclic &#960;&#8208;cluster  1  exhibits multi&#8208;stimuli responsiveness due to high &#960;&#8208;congestion. For example, photoirradiation on  1  affords its photoisomer  1  &#8217; having C&#8211;C bonds that are longer than 1.65 &#197;, which can undergo thermal reversion to  1  under gentle heating. This enabled mechanochromism of photoisomer  1  &#8217; (colorless) to  1  (red). Photoisomerization was also observed in the crystalline state, accompanied by crystal jumping or collapsing, that is, the photosalient effect.</dc:description>
-      <dc:creator>
-Tomohiko Nishiuchi, 
-Kazuki Kisaka, 
-Takashi Kubo
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013349</link>
-      <content:encoded>&lt;p&gt;Synthesis and properties of anthracene&#8208;based cyclic &#960;&#8208;clusters  1  and  2  , which possess two and four anthracene units, respectively, are discussed. The optimal cyclization conditions were determined based on a nickel(0)&#8208;mediated reaction that afforded  1  as the major product. Bringing two anthracene planes in close proximity in a face&#8208;to&#8208;face manner resulted in red&#8208;shifted absorption owing to the narrowing of the HOMO&#8208;LUMO gap. Cyclic &#960;&#8208;cluster  1  exhibits multi&#8208;stimuli responsiveness due to high &#960;&#8208;congestion. For example, photoirradiation on  1  affords its photoisomer  1  &#8217; having C&#8211;C bonds that are longer than 1.65 &#197;, which can undergo thermal reversion to  1  under gentle heating. This enabled mechanochromism of photoisomer  1  &#8217; (colorless) to  1  (red). Photoisomerization was also observed in the crystalline state, accompanied by crystal jumping or collapsing, that is, the photosalient effect.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Synthesis of Anthracene&#8208;Based Cyclic &#960;&#8208;Clusters and Elucidation of their Properties Originating from Congested Aromatic Planes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013349</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-11-20T10:35:13-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013349</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013349</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
 </rdf:RDF>
