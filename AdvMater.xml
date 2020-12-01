@@ -9,6 +9,7 @@
       <prism:publicationName>Advanced Materials (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202006415" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005723" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004732" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005607" />
@@ -142,7 +143,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005394" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202007012" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202005979" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/adma.202006839" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202001942" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202003708" />
             <rdf:li rdf:resource="/doi/abs/10.1002/adma.202004331" />
@@ -210,6 +210,51 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15214095</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/adma.202006415">
+      <title>Graphene Oxide for Integrated Photonics and Flat Optics</title>
+      <dc:description>
+The advances in the field of integrated graphene oxide (GO) photonics is reviewed. First, an overview of GO's optical properties as well as methods for its on&#8208;chip integration is provided. Next, the main achievements made in GO hybrid integrated photonic devices for diverse applications are summarized. Finally, the open challenges as well as the potential for future improvement are discussed.
+
+
+
+
+
+
+
+
+Abstract
+With superior optical properties, high flexibility in engineering its material properties, and strong capability for large&#8208;scale on&#8208;chip integration, graphene oxide (GO) is an attractive solution for on&#8208;chip integration of 2D materials to implement functional integrated photonic devices capable of new features. Over the past decade, integrated GO photonics, representing an innovative merging of integrated photonic devices and thin GO films, has experienced significant development, leading to a surge in many applications covering almost every field of optical sciences such as photovoltaics, optical imaging, sensing, nonlinear optics, and light emitting. This paper reviews the recent advances in this emerging field, providing an overview of the optical properties of GO as well as methods for the on&#8208;chip integration of GO. The main achievements made in GO hybrid integrated photonic devices for diverse applications are summarized. The open challenges as well as the potential for future improvement are also discussed.
+</dc:description>
+      <dc:creator>
+Jiayang Wu, 
+Linnan Jia, 
+Yuning Zhang, 
+Yang Qu, 
+Baohua Jia, 
+David J. Moss
+</dc:creator>
+      <link>https://doi.org/10.1002/adma.202006415</link>
+      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b347126a-d472-4ac7-bde2-18649130b5e8/adma202006415-gra-0001-m.png"
+     alt="Graphene Oxide for Integrated Photonics and Flat Optics"/&gt;
+&lt;p&gt;The advances in the field of integrated graphene oxide (GO) photonics is reviewed. First, an overview of GO's optical properties as well as methods for its on&#8208;chip integration is provided. Next, the main achievements made in GO hybrid integrated photonic devices for diverse applications are summarized. Finally, the open challenges as well as the potential for future improvement are discussed.
+
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With superior optical properties, high flexibility in engineering its material properties, and strong capability for large&#8208;scale on&#8208;chip integration, graphene oxide (GO) is an attractive solution for on&#8208;chip integration of 2D materials to implement functional integrated photonic devices capable of new features. Over the past decade, integrated GO photonics, representing an innovative merging of integrated photonic devices and thin GO films, has experienced significant development, leading to a surge in many applications covering almost every field of optical sciences such as photovoltaics, optical imaging, sensing, nonlinear optics, and light emitting. This paper reviews the recent advances in this emerging field, providing an overview of the optical properties of GO as well as methods for the on&#8208;chip integration of GO. The main achievements made in GO hybrid integrated photonic devices for diverse applications are summarized. The open challenges as well as the potential for future improvement are also discussed.&lt;/p&gt;
+</content:encoded>
+      <description>Advanced Materials, EarlyView. </description>
+      <dc:title>Graphene Oxide for Integrated Photonics and Flat Optics</dc:title>
+      <dc:identifier>doi:10.1002/adma.202006415</dc:identifier>
+      <dc:source>Advanced Materials</dc:source>
+      <dc:date>2020-12-01T12:57:52-08:00</dc:date>
+      <prism:publicationName>Advanced Materials</prism:publicationName>
+      <prism:doi>10.1002/adma.202006415</prism:doi>
+      <prism:url>https://doi.org/10.1002/adma.202006415</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/adma.202005723">
       <title>A Low&#8208;Swelling Polymeric Mixed Conductor Operating in Aqueous Electrolytes</title>
       <dc:description>
@@ -3725,50 +3770,6 @@ Weihua Zhang
       <prism:publicationName>Advanced Materials</prism:publicationName>
       <prism:doi>10.1002/adma.202005979</prism:doi>
       <prism:url>https://doi.org/10.1002/adma.202005979</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/adma.202006839">
-      <title>A Superhydrophobic Droplet&#8208;Based Magnetoelectric Hybrid System to Generate Electricity and Collect Water Simultaneously</title>
-      <dc:description>
-The fabrication of a miniature, flexible, and superhydrophobic droplet&#8208;based magnetoelectric system (SDMS) capable of generating electricity is demonstrated. Furthermore, the SDMS is incorporated with a cactus&#8208;like superhydrophobic pattern, allowing simultaneous electricity generation and water collection from fog. It is believed that the magnetoelectric strategy can enhance and extend functions in a range of energy&#8208;harvesting fields.
-
-
-
-
-
-
-
-
-Abstract
-Traditional electromagnetic generators used in hydraulic power generation are heavy, bulky, and immovable, and are thus unsuitable for low water supply. A portable miniature electromagnetic system that can harvest energy from rainwater is critical for developing a sustainable energy strategy. In this study, a superhydrophobic droplet&#8208;based magnetoelectric hybrid system is fabricated, that can generate electricity from tiny water droplets. The magnetoelectric system (MS) comprises three parts: a superhydrophobic surface containing a conductive coil, liquid droplets, and a superhydrophobic magnetic powders/Ecoflex base. The mechanical impact of a falling water droplet onto the assembled system is transformed into electricity. Maxwell numerical simulation is used to analyze the related mechanism; the magnetoelectric performance is further improved by modifying the process parameters such as droplet falling velocity and magnetic powder contents. Furthermore, a model is developed, comprising the MS and a cactus&#8208;like superhydrophobic patterned plate that can generate electricity and collect water from fog, simultaneously. The described magnetoelectric strategy is believed to enhance and extend functions in energy harvesting and provide a generalized method to exploit new systems toward sustainable energy development.
-</dc:description>
-      <dc:creator>
-Zheng Ma, 
-Jingwei Ai, 
-Yunsong Shi, 
-Kun Wang, 
-Bin Su
-</dc:creator>
-      <link>https://doi.org/10.1002/adma.202006839</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f6b4f1a9-19de-4825-bddd-f35ef1c44259/adma202006839-gra-0001-m.png"
-     alt="A Superhydrophobic Droplet&#8208;Based Magnetoelectric Hybrid System to Generate Electricity and Collect Water Simultaneously"/&gt;
-&lt;p&gt;The fabrication of a miniature, flexible, and superhydrophobic droplet&#8208;based magnetoelectric system (SDMS) capable of generating electricity is demonstrated. Furthermore, the SDMS is incorporated with a cactus&#8208;like superhydrophobic pattern, allowing simultaneous electricity generation and water collection from fog. It is believed that the magnetoelectric strategy can enhance and extend functions in a range of energy&#8208;harvesting fields.
-
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Traditional electromagnetic generators used in hydraulic power generation are heavy, bulky, and immovable, and are thus unsuitable for low water supply. A portable miniature electromagnetic system that can harvest energy from rainwater is critical for developing a sustainable energy strategy. In this study, a superhydrophobic droplet&#8208;based magnetoelectric hybrid system is fabricated, that can generate electricity from tiny water droplets. The magnetoelectric system (MS) comprises three parts: a superhydrophobic surface containing a conductive coil, liquid droplets, and a superhydrophobic magnetic powders/Ecoflex base. The mechanical impact of a falling water droplet onto the assembled system is transformed into electricity. Maxwell numerical simulation is used to analyze the related mechanism; the magnetoelectric performance is further improved by modifying the process parameters such as droplet falling velocity and magnetic powder contents. Furthermore, a model is developed, comprising the MS and a cactus&#8208;like superhydrophobic patterned plate that can generate electricity and collect water from fog, simultaneously. The described magnetoelectric strategy is believed to enhance and extend functions in energy harvesting and provide a generalized method to exploit new systems toward sustainable energy development.&lt;/p&gt;
-</content:encoded>
-      <description>Advanced Materials, EarlyView. </description>
-      <dc:title>A Superhydrophobic Droplet&#8208;Based Magnetoelectric Hybrid System to Generate Electricity and Collect Water Simultaneously</dc:title>
-      <dc:identifier>doi:10.1002/adma.202006839</dc:identifier>
-      <dc:source>Advanced Materials</dc:source>
-      <dc:date>2020-11-12T12:32:08-08:00</dc:date>
-      <prism:publicationName>Advanced Materials</prism:publicationName>
-      <prism:doi>10.1002/adma.202006839</prism:doi>
-      <prism:url>https://doi.org/10.1002/adma.202006839</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
