@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015352" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015910" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014839" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013271" />
@@ -212,7 +213,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013725" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013806" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014506" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013951" />
          </rdf:Seq>
       </items>
    </channel>
@@ -221,6 +221,30 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202015352">
+      <title>Prebiotic Peptide Synthesis and Spontaneous Amyloid Formation Inside a Proto&#8208;Cellular Compartment</title>
+      <dc:description>Cellular life requires a high degree of molecular complexity and self&#8208;organization, some of which must have originated in a prebiotic context. Here, we demonstrate how both of these features can emerge in a plausibly prebiotic system. We found that chemical gradients in simple mixtures of activated amino acids and fatty acids can lead to the formation of amyloid&#8208;like peptide fibrils that are localized inside of a proto&#8208;cellular compartment. In this process, the fatty acid or lipid vesicles act both as a filter, allowing the selective passage of activated amino acids, and as a barrier, blocking the diffusion of the amyloidogenic peptides that form spontaneously inside the vesicles. This synergy between two distinct building blocks of life induces a significant increase in molecular complexity and spatial order thereby providing a route for the early molecular evolution that could give rise to a living cell.</dc:description>
+      <dc:creator>
+Witek Kwiatkowski, 
+Radoslaw Bomba, 
+Pavel Afanasyev, 
+Daniel Boehringer, 
+Roland Riek, 
+Jason Greenwald
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202015352</link>
+      <content:encoded>&lt;p&gt;Cellular life requires a high degree of molecular complexity and self&#8208;organization, some of which must have originated in a prebiotic context. Here, we demonstrate how both of these features can emerge in a plausibly prebiotic system. We found that chemical gradients in simple mixtures of activated amino acids and fatty acids can lead to the formation of amyloid&#8208;like peptide fibrils that are localized inside of a proto&#8208;cellular compartment. In this process, the fatty acid or lipid vesicles act both as a filter, allowing the selective passage of activated amino acids, and as a barrier, blocking the diffusion of the amyloidogenic peptides that form spontaneously inside the vesicles. This synergy between two distinct building blocks of life induces a significant increase in molecular complexity and spatial order thereby providing a route for the early molecular evolution that could give rise to a living cell.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Prebiotic Peptide Synthesis and Spontaneous Amyloid Formation Inside a Proto&#8208;Cellular Compartment</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015352</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-16T02:54:06-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202015352</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015352</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202015910">
       <title>Prebiotic Phosphorylation and Concomitant Oligomerization of Deoxynucleosides to form DNA</title>
       <dc:description>Recent demonstrations of RNA&#8208;DNA chimeras enabling RNA and DNA replication, coupled with prebiotic co&#8208;synthesis of deoxyribo&#8208; and ribo&#8208;nucleotides, have resurrected the hypothesis of co&#8208;emergence of RNA and DNA. As further support, we show that diamidophosphate (DAP) with 2&#8208;aminoimidazole (amido)phosphorylates and oligomerizes deoxynucleosides to form DNA &#8211; under conditions similar to those of ribonucleosides. The pyrimidine 5&#8217;&#8208;O&#8208;amidophosphates are formed in good (&#8776; 60%) yields. Intriguingly, the presence of pyrimidine nucleos(t)ides increased the yields of purine&#8208;deoxynucleotides (&#8776; 20%). Concomitantly, oligomerization (&#8776; 18&#8208;31%) is observed with predominantly 3',5'&#8208;phosphodiester DNA linkages, and some (&lt;5%) pyrophosphates. Combined with previous observations of DAP mediated chemistries and the constructive role of RDNA chimeras, the results reported here help set the stage for systematic investigation of a systems chemistry approach of RNA&#8208;DNA coevolution.</dc:description>
@@ -2161,31 +2185,5 @@ Xiaoming Zhou
       <prism:url>https://doi.org/10.1002/anie.202014506</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013951">
-      <title>MgO&#8208;Template Synthesis of Extremely High Capacity Hard Carbon for Na&#8208;Ion Battery</title>
-      <dc:description>Extremely high capacity hard carbon for Na&#8208;ion battery, delivering 478 mAh g  &#8208;1  , is successfully synthesized by heating a freeze&#8208;dried mixture of magnesium gluconate and glucose via a MgO&#8208;template technique. Influences of synthetic conditions and nano&#8208;structures on electrochemical Na storage properties in the hard carbon are systematically studied to maximize the reversible capacity. Nano&#8208;sized MgO particles are formed in a carbon matrix prepared by pre&#8208;treatment of the mixture at 600 &#176;C. Through acid leaching of MgO and carbonization at 1500 &#176;C, resultant hard carbon demonstrates an extraordinarily large reversible capacity of 478 mAh g  &#8208;1  with a high Coulombic efficiency of 88% at the first cycle.</dc:description>
-      <dc:creator>
-Azusa Kamiyama, 
-Kei Kubota, 
-Daisuke Igarashi, 
-Yong Youn, 
-Yoshitaka Tateyama, 
-Hideka Ando, 
-Kazuma Gotoh, 
-Shinichi Komaba
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013951</link>
-      <content:encoded>&lt;p&gt;Extremely high capacity hard carbon for Na&#8208;ion battery, delivering 478 mAh g  &#8208;1  , is successfully synthesized by heating a freeze&#8208;dried mixture of magnesium gluconate and glucose via a MgO&#8208;template technique. Influences of synthetic conditions and nano&#8208;structures on electrochemical Na storage properties in the hard carbon are systematically studied to maximize the reversible capacity. Nano&#8208;sized MgO particles are formed in a carbon matrix prepared by pre&#8208;treatment of the mixture at 600 &#176;C. Through acid leaching of MgO and carbonization at 1500 &#176;C, resultant hard carbon demonstrates an extraordinarily large reversible capacity of 478 mAh g  &#8208;1  with a high Coulombic efficiency of 88% at the first cycle.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>MgO&#8208;Template Synthesis of Extremely High Capacity Hard Carbon for Na&#8208;Ion Battery</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013951</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-09T12:00:00-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013951</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013951</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
