@@ -1,14 +1,26 @@
 <rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:rdf="http://w3.org/1999/02/22-rdf-syntax-ns#">
-   <channel rdf:about="https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690">
+   <channel rdf:about="https://onlinelibrary.wiley.com/journal/10990690">
       <title>European Journal of Chemistry (no repeats)</title>
       <description>Table of Contents for European Journal of Organic Chemistry. List of articles from both the latest and EarlyView issues.</description>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690</link>
+      <link>https://onlinelibrary.wiley.com/journal/10990690</link>
       <dc:title>European Journal of Chemistry (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <dc:language>en-US</dc:language>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001406" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001353" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001369" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001354" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001371" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001415" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001401" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001303" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001296" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001593" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001535" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001561" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001543" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001532" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001416" />
@@ -68,30 +80,21 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001373" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001499" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001451" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001353" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001354" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001406" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001369" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001401" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001209" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001343" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001194" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001397" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001402" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001303" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001261" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001396" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001178" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001371" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001326" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001313" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001328" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001342" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001317" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001104" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001415" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001344" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001296" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001376" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001183" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001132" />
@@ -113,21 +116,84 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001278" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001005" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001098" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001217" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001009" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001077" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000980" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000977" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000432" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202000351" />
          </rdf:Seq>
       </items>
    </channel>
-   <image rdf:about="https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/10990690.jpg">
+   <image rdf:about="https://onlinelibrary.wiley.com/pb-assets/journal-banners/10990690.jpg">
       <title>European Journal of Organic Chemistry</title>
-      <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/10990690.jpg</url>
-      <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690</link>
+      <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/10990690.jpg</url>
+      <link>https://onlinelibrary.wiley.com/journal/10990690</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/ejoc.202001593">
+      <title>Photochemical Reaction of N,N&#8208;Dimethylanilines with N&#8208;Substituted Maleimides Utilising Benzaldehyde as the Photoinitiator</title>
+      <dc:description>Photoorganocatalysis constitutes a powerful domain of photochemistry and organic synthesis. The scaffold of pyrrolo[3,4&#8208;c]quinolinoles exhibits interesting and potent inhibition against various enzymes, making them really promising pharmaceutical targets. Herein, we describe a photochemical methodology for the reaction of  N  ,  N  &#8208;dimethylanilines with  N  &#8208;substituted maleimides, utilizing benzaldehyde as the photoinitiator. A variety of substituted  N  ,  N  &#8208;dimethylanilines and  N  &#8208;substituted maleimides were converted into the corresponding adducts in moderate to high yields.</dc:description>
+      <dc:creator>
+Nikolaos  F. Nikitas, 
+Maria  A. Theodoropoulou, 
+Christoforos  G. Kokotos
+</dc:creator>
+      <link>https://doi.org/10.1002/ejoc.202001593</link>
+      <content:encoded>&lt;p&gt;Photoorganocatalysis constitutes a powerful domain of photochemistry and organic synthesis. The scaffold of pyrrolo[3,4&#8208;c]quinolinoles exhibits interesting and potent inhibition against various enzymes, making them really promising pharmaceutical targets. Herein, we describe a photochemical methodology for the reaction of  N  ,  N  &#8208;dimethylanilines with  N  &#8208;substituted maleimides, utilizing benzaldehyde as the photoinitiator. A variety of substituted  N  ,  N  &#8208;dimethylanilines and  N  &#8208;substituted maleimides were converted into the corresponding adducts in moderate to high yields.&lt;/p&gt;</content:encoded>
+      <description>European Journal of Organic Chemistry, Accepted Article. </description>
+      <dc:title>Photochemical Reaction of N,N&#8208;Dimethylanilines with N&#8208;Substituted Maleimides Utilising Benzaldehyde as the Photoinitiator</dc:title>
+      <dc:identifier>doi:10.1002/ejoc.202001593</dc:identifier>
+      <dc:source>European Journal of Organic Chemistry</dc:source>
+      <dc:date>2020-12-16T08:35:53-08:00</dc:date>
+      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
+      <prism:doi>10.1002/ejoc.202001593</prism:doi>
+      <prism:url>https://doi.org/10.1002/ejoc.202001593</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/ejoc.202001535">
+      <title>Regioselective Electrochemical Cyclobutanol Ring Expansion to 1&#8208;Tetralones</title>
+      <dc:description>A mild electrochemical method for the regioselective preparation of 1&#8208;tetralones under environmentally friendly conditions from readily available cyclobutanols was developed. A series of aromatic and heteroaromatic 1&#8208;tetralones was accessed through ring expansion of the functionalized cyclobutanols via electrochemical generation of alkoxy radicals and intramolecular cyclization.</dc:description>
+      <dc:creator>
+Alessia Petti, 
+Philipp Natho, 
+Kevin Lam, 
+Philip  James Parsons
+</dc:creator>
+      <link>https://doi.org/10.1002/ejoc.202001535</link>
+      <content:encoded>&lt;p&gt;A mild electrochemical method for the regioselective preparation of 1&#8208;tetralones under environmentally friendly conditions from readily available cyclobutanols was developed. A series of aromatic and heteroaromatic 1&#8208;tetralones was accessed through ring expansion of the functionalized cyclobutanols via electrochemical generation of alkoxy radicals and intramolecular cyclization.&lt;/p&gt;</content:encoded>
+      <description>European Journal of Organic Chemistry, Accepted Article. </description>
+      <dc:title>Regioselective Electrochemical Cyclobutanol Ring Expansion to 1&#8208;Tetralones</dc:title>
+      <dc:identifier>doi:10.1002/ejoc.202001535</dc:identifier>
+      <dc:source>European Journal of Organic Chemistry</dc:source>
+      <dc:date>2020-12-16T06:44:09-08:00</dc:date>
+      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
+      <prism:doi>10.1002/ejoc.202001535</prism:doi>
+      <prism:url>https://doi.org/10.1002/ejoc.202001535</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/ejoc.202001561">
+      <title>Convergent Domino Cyclization: Oxidative [3+1+1] Annulation for One&#8208;pot Synthesis of 2&#8208;Quinoline&#8208;4,5&#8208;diaryl&#8208;oxazoles from Methyl Azaarenes, Benzoins and NH4OAc</title>
+      <dc:description>An oxidative [3+1+1] convergent domino cyclization is disclosed. This protocol enables to get quinoline, quinoxaline, quinazolin&#8208;4(3H)&#8208;one and benzo[d]thiazole attached 2,4,5&#8208;trisubstituted oxazoles from methyl azaarenes, benzoins and NH  4  OAc in the presence of iodine and molecular sieves without any metal catalyst. The reaction features wide substrate scope, good functional group tolerance, mild reaction conditions, and easily available substrates.</dc:description>
+      <dc:creator>
+Yan-Ping Zhu, 
+Fei-Fei Liang, 
+Kai-Xuan Liu, 
+Cong Zhao, 
+Zhi-Hao Shang, 
+Hong-Mei Kong, 
+Ya-Qing Yin, 
+Yuan-Yuan Sun, 
+Jian-Wen Yao
+</dc:creator>
+      <link>https://doi.org/10.1002/ejoc.202001561</link>
+      <content:encoded>&lt;p&gt;An oxidative [3+1+1] convergent domino cyclization is disclosed. This protocol enables to get quinoline, quinoxaline, quinazolin&#8208;4(3H)&#8208;one and benzo[d]thiazole attached 2,4,5&#8208;trisubstituted oxazoles from methyl azaarenes, benzoins and NH  4  OAc in the presence of iodine and molecular sieves without any metal catalyst. The reaction features wide substrate scope, good functional group tolerance, mild reaction conditions, and easily available substrates.&lt;/p&gt;</content:encoded>
+      <description>European Journal of Organic Chemistry, Accepted Article. </description>
+      <dc:title>Convergent Domino Cyclization: Oxidative [3+1+1] Annulation for One&#8208;pot Synthesis of 2&#8208;Quinoline&#8208;4,5&#8208;diaryl&#8208;oxazoles from Methyl Azaarenes, Benzoins and NH4OAc</dc:title>
+      <dc:identifier>doi:10.1002/ejoc.202001561</dc:identifier>
+      <dc:source>European Journal of Organic Chemistry</dc:source>
+      <dc:date>2020-12-16T06:43:58-08:00</dc:date>
+      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
+      <prism:doi>10.1002/ejoc.202001561</prism:doi>
+      <prism:url>https://doi.org/10.1002/ejoc.202001561</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202001543">
       <title>Scalable Synthesis of Benzotriazoles via [3+2] Cycloaddition of Azides and Arynes in Flow</title>
       <dc:description>A method for the metal&#8208;free synthesis of benzotriazoles in flow is reported. Using azides and in situ generated arynes, benzotriazoles are formed in a [3+2] cycloaddition within minutes. Employing different substitution patterns of the azide and aryne coupling partners, a modular access to benzotriazoles is provided. Thermal strain of hazardous azides and accumulation of reactive intermediates is minimized by short reaction times in flow, improving the safety profile of the process. The scalability of the reaction is demonstrated.</dc:description>
@@ -137,7 +203,7 @@ Lisa Boeser,
 Linda Baranyi, 
 Philipp Heretsch
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001543</link>
+      <link>https://doi.org/10.1002/ejoc.202001543</link>
       <content:encoded>&lt;p&gt;A method for the metal&#8208;free synthesis of benzotriazoles in flow is reported. Using azides and in situ generated arynes, benzotriazoles are formed in a [3+2] cycloaddition within minutes. Employing different substitution patterns of the azide and aryne coupling partners, a modular access to benzotriazoles is provided. Thermal strain of hazardous azides and accumulation of reactive intermediates is minimized by short reaction times in flow, improving the safety profile of the process. The scalability of the reaction is demonstrated.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Scalable Synthesis of Benzotriazoles via [3+2] Cycloaddition of Azides and Arynes in Flow</dc:title>
@@ -146,7 +212,7 @@ Philipp Heretsch
       <dc:date>2020-12-15T12:59:39-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001543</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001543</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001543</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -159,7 +225,7 @@ David Jones,
 Leticia Pardo, 
 Gerard  P. McGlacken
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001416</link>
+      <link>https://doi.org/10.1002/ejoc.202001416</link>
       <content:encoded>&lt;p&gt;The C&#8211;H functionalisation approach to the synthesis of dibenzofurans is hampered by a number of problems. Herein we describe the evolution of a cheap, bench stable quinoline ligand, which obviates most of the current limitations and allows for a high yielding synthesis of a range of valuable dibenzofurans. Dibenzofurans are important motifs in natural products and compounds with wide biological activity.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Quinoline ligands improve the classic direct C&#8211;H functionalisation/intramolecular cyclisation of diaryl ethers to dibenzofurans</dc:title>
@@ -168,7 +234,7 @@ Gerard  P. McGlacken
       <dc:date>2020-12-14T07:01:23-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001416</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001416</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001416</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -180,7 +246,7 @@ Fr&#233;d&#233;ric Justaud,
 Ali Hachem, 
 Rene Gree
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001494</link>
+      <link>https://doi.org/10.1002/ejoc.202001494</link>
       <content:encoded>&lt;p&gt;The Meyer&#8208;Schuster rearrangement is an efficient method to prepare &#945;,&#946;&#8208;unsatured carbonyl compounds starting from propargylic alcohols and this review presents the remarkable progress made during the last decade in this reaction. New efficient catalytic systems have been discovered and many elegant applications have been reported for this rearrangement. To be noticed in particular are the new and efficient&#160; cascade&#160; processes affording a wide range of carbo&#8208;and heterocyclic molecules. Moreover, brilliant applications of this rearrangement have been described as well, in the total synthesis of complex natural products and&#160; their analogues. Finally, the first examples of  aza  &#8208;Meyer&#8208;Schuster rearrangements have been described also recently.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Recent developments in the Meyer&#8208;Schuster rearrangement</dc:title>
@@ -189,7 +255,7 @@ Rene Gree
       <dc:date>2020-12-12T05:23:57-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001494</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001494</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001494</prism:url>
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
@@ -202,7 +268,7 @@ Giovanni Poli,
 Julie Oble, 
 Alejandro Perez-Luna
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001458</link>
+      <link>https://doi.org/10.1002/ejoc.202001458</link>
       <content:encoded>&lt;p&gt;Organosilicon reagents are invaluable tools in the hands of the modern chemist that allow accomplishing a number of synthetically useful transformations. While some are standard reactions, other are more complex transformations, such as the Brook rearrangement and its variants. This carbon&#8208;to&#8208;oxygen silyl migration represents a privileged method to generate transient carbanionic species well suited to undergo functionalization upon electrophilic substitution in the presence of an electrophile. This minireview focuses on recent advances in C(sp  2  )&#8211;Si bond functionalization through intramolecular activation by alkoxides. The key elements of reactivity will be highlighted in the introduction to allow the proper understanding of the migration process. Then, an overview of the reactivity of substrates incorporating the C(sp  2  )&#8211;Si motif and their synthetic applications will be provided.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>C(sp2)&#8211;Si Bond Functionalization through Intramolecular Activation by Alkoxides</dc:title>
@@ -211,7 +277,7 @@ Alejandro Perez-Luna
       <dc:date>2020-12-11T01:24:14-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001458</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001458</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001458</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -224,7 +290,7 @@ Analuisa Nava,
 Andrea Frank, 
 Udo Nubbemeyer
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001591</link>
+      <link>https://doi.org/10.1002/ejoc.202001591</link>
       <content:encoded>&lt;p&gt;The synthesis of Lipoxin B4 analogs (LXB4) to gain access to stabilized inflammation resolving compounds is an actual field of research. Focusing on variation and stabilization of the conjugated E,Z,E,E C6&#8211;C13 tetraene moiety of natural LXB4, a methylene bridge introduced between C6 and C11 suppresses any Z/E isomerization of the C8&#8211;C9 olefin. Intending to enable prospective structure variations in connection with the C1&#8211;C5 and C14&#8211;C20 fragments, a convergent total synthesis has been developed. Optically active C1&#8211;C12 building blocks were build&#8208;up from cycloheptatriene 1&#8208;carbonester (C6&#8211;C11, C21) and glutaryl chloride (C1&#8211;C5) using Friedel&#8208;Crafts&#8208;type acylation and chiral HPLC. The C13&#8208;C20 segment had been generated via a five&#8208;step sequence starting from heptanoyl chloride. Horner key olefination enabled assembly of the carbon backbone. A final five step sequence including a chelate Cram reduction of the unsaturated ketone moiety afforded the target 6,11&#8208;methylene LXB4 methyl ester.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Synthesis of Enantiopure 6,11&#8208;Methylene Lipoxin B4 Methyl Ester</dc:title>
@@ -233,7 +299,7 @@ Udo Nubbemeyer
       <dc:date>2020-12-11T10:56:11-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001591</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001591</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001591</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -249,7 +315,7 @@ Val&#233;rie Heitz,
 Hiroshi Fujii-Shinomiya, 
 Takanori Suzuki
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001554</link>
+      <link>https://doi.org/10.1002/ejoc.202001554</link>
       <content:encoded>&lt;p&gt;The title nonplanar electron acceptor ( 1 ) fused with a selenadiazole ring selectively forms a crystalline charge&#8208;transfer complex (CT crystal) with 2,6&#8208;dimethylnaphthalene (2,6&#8208;DMN). On the other hand, the sulfur analogue ( 2 ) has less recognition ability and forms CT crystals with both 2,6&#8208; and 2,7&#8208;DMN. X&#8208;ray analyses of 1 , 2 , and their CT crystals revealed that the Se &#9679;&#9679;&#9679; N chalcogen bond (ChB) in 1 is strong enough to determine the crystal packing with the formation of a cavity suitable for 2,6&#8208;DMN. On the contrary, ChB through S &#9679;&#9679;&#9679; N contact in 2 competes with other weak interactions such as a C&#8208;H &#9679;&#9679;&#9679; N hydrogen bond. The stronger ChB involving Se is the key for 1 to separate 2,6&#8208;DMN (&amp;gt;97 wt%) from a complex isomer mixture containing ca. 10 wt% each of 2,6&#8208; and 2,7&#8208;DMN by a simple, efficient and straightforward mixing&#8208;filtration&#8208;heating process.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Molecular Recognition by Chalcogen Bond: Selective Charge&#8208;transfer Crystal Formation of Dimethylnaphthalene with Selenadiazolotetracyanonaphthoquinodimethane</dc:title>
@@ -258,7 +324,7 @@ Takanori Suzuki
       <dc:date>2020-12-10T07:21:03-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001554</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001554</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001554</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -271,7 +337,7 @@ Yosuke Matsuo,
 Yoshinori Saito, 
 Takashi Tanaka
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001579</link>
+      <link>https://doi.org/10.1002/ejoc.202001579</link>
       <content:encoded>&lt;p&gt;A cyclic epicatechin trimer with  C3  symmetry, connected through C&#8211;C bonds between A&#8208; and B&#8208;rings, was isolated as an oxidative coupling product of (&#8722;)&#8208;epicatechin with polyphenol oxidase. It was previously isolated as an oxidation product of epicatechin with CuCl2; however, only the 2D structure was proposed. Its stereochemistry was assigned using various spectroscopic techniques, including 1D and 2D NMR, and theoretical calculations of the NMR and ECD data. It was suggested that the less strained cyclic trimer with the (aR,aR  ,aR) configuration was formed atroposelectively in the cyclization process.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Stereochemistry of a Cyclic Epicatechin Trimer with C3 Symmetry Produced by Oxidative Coupling</dc:title>
@@ -280,7 +346,7 @@ Takashi Tanaka
       <dc:date>2020-12-10T08:49:50-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001579</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001579</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001579</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -291,7 +357,7 @@ Takashi Tanaka
 Sandeepan Maity, 
 Shmaryahu Hoz
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001438</link>
+      <link>https://doi.org/10.1002/ejoc.202001438</link>
       <content:encoded>&lt;p&gt;In trivalent nitrogen compounds, the nitrogen lone pair is highly amenable to bind to samarium iodide prior to electron transfer. As SmI  2  is more azaphilic than oxophilic, its affinity to the nitrogen lone pair is more pronounced in aza substrates than in the analogous carbonyl compounds. The impact of this binding is very large in terms of reaction rate and at the same time gives rise to unique mechanistic phenomena, which include unusual kinetic rate orders, catalysis by quantum dots, and remote functionalization. Even reduction of nitriles was found to be affected by this coordination to SmI  2  . This review focuses on the reduction mechanisms of three groups of compounds: imines, azobenzene, and nitriles.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Mechanistic Vistas of Trivalent Nitrogen Compound Reduction by Samarium Iodide</dc:title>
@@ -300,7 +366,7 @@ Shmaryahu Hoz
       <dc:date>2020-12-09T01:47:47-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001438</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001438</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001438</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -313,7 +379,7 @@ Wei Liang,
 Zhuo Chen, 
 Lin Chen
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001409</link>
+      <link>https://doi.org/10.1002/ejoc.202001409</link>
       <content:encoded>&lt;p&gt;An efficient and practical 1,3&#8208;dipolar [3+2] cycloaddition of  N  &#8208;2,2,2&#8208;trifluoroethylisatin ketimines and maleimides has been achieved through phase&#8208;transfer catalytic process by hiring the cheap quaternary ammonium salt as a catalyst. The strategy grants quite rapid generation of various architecturally complex trifluoromethyl spiro&#8208;fused[succinimide&#8208;pyrrolidine&#8208;oxindole]s in good yields and with excellent diastereoselectivities. The preparative&#8208;scale reaction in conjunction with the optimized Suzuki&#8208;Miyaura cross&#8208;coupling derivatizations of the product give prominence to application prospect of this methodology. The investigation on the reaction mechanism implies that the real catalyst in the cycloaddition might be tetrahexylammonium carbonate.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Phase&#8208;Transfer Catalytic Strategy: Rapid Synthesis of Spiro&#8208;Fused Heterocycles Integrated with Four Pharmacophores&#8208;Succinimide, Pyrrolidine, Oxindole and Trifluoromethyl Group</dc:title>
@@ -322,7 +388,7 @@ Lin Chen
       <dc:date>2020-12-09T01:27:59-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001409</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001409</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001409</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -334,7 +400,7 @@ Krishnadipti Singha,
 Subhash   Chandra Ghosh, 
 Asit  Baran Panda
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001466</link>
+      <link>https://doi.org/10.1002/ejoc.202001466</link>
       <content:encoded>&lt;p&gt;Amides were synthesized directly from alcohols and amines in high yields using an in situ generated active ester of N&#8208;hydroxyimide with our developed Cu&#8208;N&#8208;TiO2 catalyst at room temperature using oxygen as a sole oxidant under visible light. The catalyst can be easily prepared, robust, and recycled four times without a considerable change in catalytic activity. This developed protocol applies to a wide range of substrate scope and good functional group tolerance. The application of this amidation reaction has been successfully demonstrated for the synthesis moclobemide, an antidepressant drug, and an analog of the Itopride drug in gram scale.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Visible Light&#8208;Driven Efficient Synthesis of amides from alcohols using Cu&#8208;N&#8208;TiO2 heterogeneous Photocatalyst</dc:title>
@@ -343,7 +409,7 @@ Asit  Baran Panda
       <dc:date>2020-12-09T01:24:56-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001466</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001466</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001466</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -355,7 +421,7 @@ Marco  V. Mijangos,
 Yoarhy  A. Amador-S&#225;nchez, 
 Luis  D. Miranda
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001455</link>
+      <link>https://doi.org/10.1002/ejoc.202001455</link>
       <content:encoded>&lt;p&gt;A synthetic approach for the accelerated assembly of quinoline&#8208;4&#8208;carboxamide and quinoline&#8208;4&#8208;carboxylate nuclei is presented. The methodology is based on the rearrangement of  N  &#8208;vinylisatins promoted by different types of amines (or ethanol) in a Pfitzinger&#8208;type mechanism that in turn builds the quinoline ring system. The reaction took place only by heating the starting materials in ethanol, without any additive.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Synthesis of Quinoline&#8208;4&#8208;carboxamides and Quinoline&#8208;4&#8208;carboxylates via a Modified Pfitzinger Reaction of N&#8208;Vinylisatins</dc:title>
@@ -364,7 +430,7 @@ Luis  D. Miranda
       <dc:date>2020-12-08T11:44:41-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001455</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001455</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001455</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -376,7 +442,7 @@ Fabienne Seyfert,
 Mathis Mitha, 
 Hans-Achim Wagenknecht
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001533</link>
+      <link>https://doi.org/10.1002/ejoc.202001533</link>
       <content:encoded>&lt;p&gt;N  ,  N  &#8208;diisobutylaminophenyl&#8208;phenothiazine is a strongly reducing catalyst that allows &#8208;for the first time&#8208; the photoredox catalytic addition of alcohols to alkyl olefins as non&#8208;activated substrates to products with Markovnikov orientation. The irradiation at 365 nm does not require any additional reagent. Using a&#8208;methyl styrene as activated substrate we additionally show that this photoredox catalytic method tolerates other functional groups, including allyl, alkynyl, cyanide and even acid&#8208;labile Boc groups within the substrate scope.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Nucleophilic alkoxylations of unactivated alkyl olefins and alpha&#8208;methyl styrene by photoredox catalysis</dc:title>
@@ -385,7 +451,7 @@ Hans-Achim Wagenknecht
       <dc:date>2020-12-08T12:00:00-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001533</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001533</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001533</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -399,7 +465,7 @@ Hang Cheng,
 Cheng Zhong, 
 Zhao-Lin He
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001544</link>
+      <link>https://doi.org/10.1002/ejoc.202001544</link>
       <content:encoded>&lt;p&gt;An NHC&#8208;catalyzed [3+2] annulations of &#946;&#8208;halocycloenals with isatins upon a dual&#8208;activation mode was developed for the synthesis of tetracyclic 3&#8208;spirooxindoles, and DFT calculation was performed for the mechanism study.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>N&#8208;Heterocyclic Carbene Catalyzed [3+2] Annulations of &#946;&#8208;Halocycloenals with Isatins and Mechanism Study</dc:title>
@@ -408,7 +474,7 @@ Zhao-Lin He
       <dc:date>2020-12-05T06:39:36-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001544</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001544</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001544</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -421,7 +487,7 @@ Leonard John,
 Eric Sperlich, 
 Alexandra Kelling
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001418</link>
+      <link>https://doi.org/10.1002/ejoc.202001418</link>
       <content:encoded>&lt;p&gt;The replacement of oxygen by sulfur atoms of [1,3]&#8208;dioxolo[4.5&#8208;  f  ]benzodioxole (DBD) fluorescent dyes is an efficient way to adjust the photophysical properties (sulfur tuning). While previously developed S  4  &#8208;DBD dyes exhibit considerably red&#8208;shifted absorption and emission wavelength, the heavy atom effect of four sulfur atoms cause low fluorescence quantum yields and short fluorescence lifetimes. Herein we demonstrate that the replacement of less than four sulfur atoms (S  1  &#8208;DBD, 1,2&#8208;S  2  &#8208;DBD, and 1,4&#8208;S  2  &#8208;DBD dyes) permits a fine&#8208;tuning of the photophysical properties. In some cases, a similar influence on the wavelength without the detrimental effect on the quantum yields and lifetimes is observed. Furthermore, the synthetic accessibility of S  1  &#8208; and S  2  &#8208;DBD dyes is improved, compared with S  4  &#8208;DBD dyes. For coupling with biomolecules a series of reactive derivatives of the new dyes were developed (azides, OSu esters, alkynes, maleimides).&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Sulfur Tuning of [1,3]&#8208;Dioxolo[4.5&#8208;f]benzodioxole (DBD) Fluorescent Dyes</dc:title>
@@ -430,7 +496,7 @@ Alexandra Kelling
       <dc:date>2020-12-05T12:00:00-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001418</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001418</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001418</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -444,7 +510,7 @@ Xue-Rong Chen,
 Zhi-Feng Mao, 
 Yi-Feng Zhou
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001460</link>
+      <link>https://doi.org/10.1002/ejoc.202001460</link>
       <content:encoded>&lt;p&gt;Dioxazolones and isocyanides are useful synthetic building blocks, and have attracted significant attention from the researchers. However, the silver&#8208;catalyzed nitrene transfer reaction of dioxazolones has not been investigated till date. Herein, a silver&#8208;catalyzed acyl nitrene transfer reaction involving dioxazolones, isocyanides, and water was realized in the presence of Ag  2  O to afford a series of  N  &#8208;acylureas in moderate to good yields.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Silver&#8208;Catalyzed Acyl Nitrene Transfer Reactions Involving Dioxazolones: Direct Assembly of N&#8208;acylureas</dc:title>
@@ -453,7 +519,7 @@ Yi-Feng Zhou
       <dc:date>2020-12-04T11:35:29-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001460</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001460</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001460</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -465,7 +531,7 @@ David Morgan,
 Stephen  John Yarwood, 
 Graeme Barker
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001470</link>
+      <link>https://doi.org/10.1002/ejoc.202001470</link>
       <content:encoded>&lt;p&gt;Benzofurans and benzothiophenes are important pharmaceutical motifs, appearing in a broad range of small molecule therapeutic classes. Often overlooked by synthetic methodologists in favour reactions of the analogous indole bicyclic system, there are nevertheless a plurality of approaches to effecting benzofuran and benzothiophene C&#8208;H functionalisations. In this review, we summarise progress in this area over the past five years, including 1) alkylations, 2) arylations and heteroarylations, 3) carboxylations, carbamoylations and C&#8208;heteroatom bond formations and 4) cyclisations.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Recent Developments in C&#8208;H Functionalisation of Benzofurans and Benzothiophenes</dc:title>
@@ -474,7 +540,7 @@ Graeme Barker
       <dc:date>2020-12-04T12:00:00-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001470</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001470</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001470</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -493,7 +559,7 @@ Jeanne Crassous,
 Johannes  A.A.W. Elemans, 
 Roeland  J.M. Nolte
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001392</link>
+      <link>https://doi.org/10.1002/ejoc.202001392</link>
       <content:encoded>&lt;p&gt;Chiral zirconium(IV) double cage sandwich complex Zr(1)2 has been synthesized in one step from porphyrin cage H21. The zirconium compound was obtained as a racemate, which was resolved by HPLC and the enantiomers were isolated in &amp;gt;99.5% ee. Their absolute configurations were assigned on the basis of X&#8208;ray crystallography and circular dichroism spectroscopy. Vibrational circular dichroism (VCD) experiments on the enantiomers of Zr(1)2 revealed that the chirality around the zirconium center is propagated throughout the whole cage structure. The axial conformational chirality of the double cage complex displays a VCD fingerprint similar to the one observed previously for a related chiral cage compound with planar and point chirality. Zr(1)2 shows fluorescence, which is quenched when viologen guests bind in its cavities. The binding of viologen and dihydroxybenzene derivatives in the two cavities of Zr(1)2 occurs with negative allostery the cooperativity factors &#945; (= 4K1/K2) being as low as 0.0076 for the binding of N,N&#8217;&#8208;dimethylviologen. These allosteric effects are attributed to a pinching of the second cavity as a result of guest binding in the first cavity.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Allosteric guest binding in chiral zirconium(IV) double decker porphyrin cages</dc:title>
@@ -502,7 +568,7 @@ Roeland  J.M. Nolte
       <dc:date>2020-12-04T12:00:00-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001392</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001392</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001392</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -516,7 +582,7 @@ Cristina Trujillo,
 Christopher  J. Kingsbury, 
 Mathias  O. Senge
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001564</link>
+      <link>https://doi.org/10.1002/ejoc.202001564</link>
       <content:encoded>&lt;p&gt;Bicyclo[1.1.1]pentane (BCP) is studied widely as a bioisosteric component of drugs. Not found in nature, this molecular unit approximates the distance of a  p  &#8208;disubstituted benzene which is replaced in medicines as a method of improving treatments. Predicting interactions of these drugs with specific active sites requires knowledge of the non&#8208;covalent interactions engaged by this subunit. Structure determinations and computational analysis (Hirshfeld analysis, 2D fingerprint plots, DFT) of 7 BCP derivatives chosen to probe specific and directional interactions. X&#8208;ray analysis revealed the presence of various non&#8208;covalent interactions including I&#183;&#183;I, I&#183;&#183;N, N&#8208;  ..O, C&#8208;H&#183;&#183;O, and H&#8208;C&#183;&#183;H&#8208;C contacts. The preference of halogen bonding (I&#183;&#183;I or I&#183;&#183;N) in BCP  1&#8208;4  strictly depends upon the electronic nature and angle between bridgehead substituents. The transannular distance in co&#8208;crystals  2  and  4  was longer as compared to monomers  1  and  3. Stronger N&#8208;H..O and weaker C&#8208;H..O contacts were observed for BCP  5  while the O  ..  H interaction was a prominent contact for BCP  6. The presence of 3D BCP units prevented the p&#183;&#183;p stacking between phenyl rings in  3,  4,  and  7. The BCP skeleton was often rotationally averaged, indicating fewer interactions compared to bridgehead groups. Using DFT analysis, geometries were optimized and molecular electrostatic potentials were calculated on the BCP surfaces. These interaction profiles may be useful for designing BCP analogs of drugs.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>An Insight into Non&#8208;Covalent Interactions on the Bicyclo[1.1.1]pentane Scaffold</dc:title>
@@ -525,7 +591,7 @@ Mathias  O. Senge
       <dc:date>2020-12-04T12:00:00-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001564</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001564</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001564</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -541,7 +607,7 @@ Chunlei Wu,
 Runpu Shen, 
 Yuzhen Gao
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001465</link>
+      <link>https://doi.org/10.1002/ejoc.202001465</link>
       <content:encoded>&lt;p&gt;An Ag&#8208;catalyzed cyclization/demethylation of 2&#8208;alkynylthio(seleno)anisoles and 2&#8208;alkynyldimethylanilines is described and applied for the construction of valuable benzothio(seleno)phenes as well as indoles. Various 2&#8208;substituted benzothio(seleno)phenes and indoles were obtained in good to excellent yields under mild reaction conditions with low catalyst loading. An application of this new method is also exemplified with a concise synthesis of a bioactive molecule precursor.&#160;Furthermore, a conceivable reaction mechanism is proposed with supports from isotope&#8208;exchange experiments.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Synthesis of 2&#8208;Substituted Benzothio(seleno)phenes and Indoles via Ag&#8208;Catalyzed Cyclization/Demethylation of 2&#8208;Alkynylthio(seleno)anisoles and 2&#8208;Alkynyldimethylanilines</dc:title>
@@ -550,7 +616,7 @@ Yuzhen Gao
       <dc:date>2020-12-03T07:10:26-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001465</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001465</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001465</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -567,7 +633,7 @@ Yuepiao Cai,
 Guang Liang, 
 Qinqin Xia
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001510</link>
+      <link>https://doi.org/10.1002/ejoc.202001510</link>
       <content:encoded>&lt;p&gt;An efficient iodine&#8208;mediated coupling of cyclic amines with sulfonyl hydrazides is herein reported. This transformation opens a new route to the synthesis of vinyl sulfones derivatives, which is a common structural motif in natural products and pharmaceuticals. Tentative mechanistic studies suggest that this reaction is likely to involve a radical process.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Iodine&#8208;mediated coupling of cyclic amines with sulfonyl hydrazides: an efficient synthesis of vinyl sulfone derivatives</dc:title>
@@ -576,7 +642,7 @@ Qinqin Xia
       <dc:date>2020-12-02T03:45:37-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001510</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001510</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001510</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -591,7 +657,7 @@ Shaoling Cheng,
 Wei Liu, 
 Chao Chen
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001373</link>
+      <link>https://doi.org/10.1002/ejoc.202001373</link>
       <content:encoded>&lt;p&gt;The preparation of a new class of aliphatic amino iodane(III) reagents has been realized with the N&#8208;TMS&#8208;amine and acetoxybenziodazole participated in the formation of N&#8208;I bond. The amino&#8208;containing iodane(III) reagent 2d was characterized by single&#8208;crystal X&#8208;ray diffraction, which revealed the expected hypervalent iodane distorted T&#8208;shaped geometry. A practical copper&#8208;catalyzed, directed electrophilic amination of aryl amines employing amino&#8208;iodane(III) as amination agents was disclosed that proceeded smoothly without external additives.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Preparation, characterization and reactivity of aliphatic amino iodane(III) reagents</dc:title>
@@ -600,7 +666,7 @@ Chao Chen
       <dc:date>2020-12-02T12:30:51-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001373</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001373</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001373</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -619,7 +685,7 @@ Ming  Hua Hsu,
 Wen  Chieh Huang, 
 Shwu  Chen Tsay
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001499</link>
+      <link>https://doi.org/10.1002/ejoc.202001499</link>
       <content:encoded>&lt;p&gt;Synthetic application of arynes is broadened by their reactions with neutral  N  &#8208;,  S  &#8208;, and  O  &#8208;containing nucleophiles to produce three types of compounds. Accordingly, 1,2&#8208;dihydroquinolines are synthesized from Schiff bases, alkynes, and arynes through a Diels&#8208;Alder reaction. Epoxides are prepared from thioethers and arynes along with aldehydes or ketones through a Johnson&#8208;Corey&#8208;Chaykovsky reaction. Phenolic ethers are produced from allyl ethers and arynes through a Claisen&#8208;type rearrangement. These target molecules, including natural products &#947;&#8208;asarone, asaricin, and a cholesteryl phenolic ether, are formed through reactions initiated by arynes. These new reactions share a prevailing feature of domino processes, which are carried out in a single flask and afford the desired products in good to high yields  .&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Domino Processes of Arynes Reacting with Three Classes of Nucleophiles for Organic Syntheses</dc:title>
@@ -628,7 +694,7 @@ Shwu  Chen Tsay
       <dc:date>2020-11-30T08:31:08-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001499</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001499</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001499</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -641,7 +707,7 @@ Grigory Kantin,
 Dmitry Dar&#8217;in, 
 Mikhail Krasavin
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001451</link>
+      <link>https://doi.org/10.1002/ejoc.202001451</link>
       <content:encoded>&lt;p&gt;A convenient general approach towards 1,4&#8208;disubstituted &#945;&#8208;diazo glutaconimides starting from &#946;&#8208;substituted glutaconic acid anhydrides has been developed. It involves condensation with amines and subsequent diazo transfer reaction. This new class of diazocarbonyl heterocycles has been converted to a series of polysubstituted pyridine&#8208;2,6(1  H  ,3  H  )&#8208;diones and oxazolo[5,4&#8208;  b  ]pyridin&#8208;5(4  H  )&#8208;ones  via  a Rh  2  (esp)  2  &#8208;catalyzed XH&#8208;insertion reaction and [3+2] cycloaddition with nitriles, respectively.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Diazo glutaconimides: an unexplored type of heterocyclic &#945;&#8208;diazocarbonyl compounds conveniently evolved into pyridine&#8208;2,6(1H,3H)&#8208;diones and oxazolo[5,4&#8208;b]pyridin&#8208;5(4H)&#8208;ones</dc:title>
@@ -650,123 +716,7 @@ Mikhail Krasavin
       <dc:date>2020-11-26T01:18:34-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001451</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001451</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001353">
-      <title>N 1&#8208; and N3&#8208;Arylations of Hydantoins Employing Diaryliodonium Salts via Copper(I) Catalysis at Room Temperature</title>
-      <dc:description>Copper(I)&#8208;catalyzed N&#8208;arylation (both N1&#8208; and N3&#8208;) of hydantoins with diaryliodonium salts as aryl partners at room temperature is reported. The transformation allows diverse scopes on both hydantoins and diaryliodonium salts delivering functionalized N3&#8208;arylated products under mild reaction conditions. The presence of hydrogens at C5&#8208; and N1&#8208; position of the hydantoin does not lead to other side products. Chiral hydantoins can also be synthesised via this methodology. Sterically&#8208;complicated ortho&#8208;substituted diaryliodonium salts are tolerated and delivered challenging ortho&#8208;arylated products. In addition, this strategy can also be effectively extended to N1&#8208;arylation of hydantoins.</dc:description>
-      <dc:creator>
-Raktim  Abha Saikia, 
-Dhiraj  Rekha Barman, 
-Anurag Dutta, 
-Ashim  Jyoti Thakur
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001353</link>
-      <content:encoded>&lt;p&gt;Copper(I)&#8208;catalyzed N&#8208;arylation (both N1&#8208; and N3&#8208;) of hydantoins with diaryliodonium salts as aryl partners at room temperature is reported. The transformation allows diverse scopes on both hydantoins and diaryliodonium salts delivering functionalized N3&#8208;arylated products under mild reaction conditions. The presence of hydrogens at C5&#8208; and N1&#8208; position of the hydantoin does not lead to other side products. Chiral hydantoins can also be synthesised via this methodology. Sterically&#8208;complicated ortho&#8208;substituted diaryliodonium salts are tolerated and delivered challenging ortho&#8208;arylated products. In addition, this strategy can also be effectively extended to N1&#8208;arylation of hydantoins.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>N 1&#8208; and N3&#8208;Arylations of Hydantoins Employing Diaryliodonium Salts via Copper(I) Catalysis at Room Temperature</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001353</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-26T04:20:36-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001353</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001353</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001354">
-      <title>PIFA&#8208;Mediated Cross&#8208;Dehydrogenative Coupling of N&#8208;Heteroarenes with Cyclic Ethers: Ethanol as an Efficient Promoter</title>
-      <dc:description>Ethanol is typically used in organic synthesis as an environmentally benign solvent. Herein, we wish to report a mild and efficient cross&#8208;dehydrogenative coupling (CDC) reaction of N&#8208;heteroarenes with cyclic ethers by uncovering the new reactivity of ethanol as an efficient promoter in PIFA&#8208;mediated radical process. The reaction proceeds smoothly under the irradiation of visible light and features excellent functional group compatibility, which allows the expedite synthesis of a variety of medicinally valuable C  &#945;  &#8208;heteroarylated cyclic ethers in moderate to high yields.</dc:description>
-      <dc:creator>
-Xiang Li, 
-Chaoyang Liu, 
-Shixun Guo, 
-Wei Wang, 
-Yongqiang Zhang
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001354</link>
-      <content:encoded>&lt;p&gt;Ethanol is typically used in organic synthesis as an environmentally benign solvent. Herein, we wish to report a mild and efficient cross&#8208;dehydrogenative coupling (CDC) reaction of N&#8208;heteroarenes with cyclic ethers by uncovering the new reactivity of ethanol as an efficient promoter in PIFA&#8208;mediated radical process. The reaction proceeds smoothly under the irradiation of visible light and features excellent functional group compatibility, which allows the expedite synthesis of a variety of medicinally valuable C  &#945;  &#8208;heteroarylated cyclic ethers in moderate to high yields.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>PIFA&#8208;Mediated Cross&#8208;Dehydrogenative Coupling of N&#8208;Heteroarenes with Cyclic Ethers: Ethanol as an Efficient Promoter</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001354</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-25T12:21:59-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001354</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001354</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001406">
-      <title>Synthesis of Nucleobase di&#8208; and tetra&#8208;functionalized Porphyrins</title>
-      <dc:description>The synthesis of nucleobase&#8208;functionalized porphyrins was achieved  via  two strategies: substitution and Sonogashira cross coupling reactions. Following the first strategy resulted in four porphyrins having two nucleobases at the&#160;  trans meso  &#8208;positions linked by flexible methylene linkers. In order to synthesize the targeted molecules, 5,15&#8208;di(4&#8208;(bromomethyl)phenyl)&#8208;10,20&#8208;diphenylporphyrin) was reacted with thymine, cytosine, adenine and 2&#8208;amino&#8208;6&#8208;chloropurine, a precursor of guanine, in the presence of a suitable base. Thymine and cytosine were introduced to the porphyrin&#160; on their N1 site, whereas adenine and amino&#8208;6&#8208;chloropurine were introduced to the porphyrin&#160; on their N9 site. The synthesis of a porphyrin bearing four thymine moieties at its four  meso&#8208;  positions is also described. &#160;Furthermore, following the Sonogashira cross coupling reaction strategy led to the formation of&#160; four new porphyrins bearing two NBs in  trans  positions. Ethynyl&#8208;substituted nucleobases were reacted with 5,15&#8208;dibromo&#8208;10,20&#8208;dipentylporphyrin under sonogashira cross coupling conditions to result in four rigid porphyrins having two nucleobases at the  trans meso  &#8208;positions linked by rigid ethynyl linkers.&#160; All the tectons have been characterized and could be used in the formation of molecular H&#8208;bonded networks. The porphyrin bearing cytosine via ethynyl linkers self&#8208;assembled into a 2D hydrogen bonded network formed by the complementary interactions between the cytosine moieties.</dc:description>
-      <dc:creator>
-Elsa Tufenkjian, 
-Christophe Kahlfuss, 
-Nathalie Kyritsakas, 
-Mir  Wais Hosseini, 
-V&#233;ronique Bulach
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001406</link>
-      <content:encoded>&lt;p&gt;The synthesis of nucleobase&#8208;functionalized porphyrins was achieved  via  two strategies: substitution and Sonogashira cross coupling reactions. Following the first strategy resulted in four porphyrins having two nucleobases at the&#160;  trans meso  &#8208;positions linked by flexible methylene linkers. In order to synthesize the targeted molecules, 5,15&#8208;di(4&#8208;(bromomethyl)phenyl)&#8208;10,20&#8208;diphenylporphyrin) was reacted with thymine, cytosine, adenine and 2&#8208;amino&#8208;6&#8208;chloropurine, a precursor of guanine, in the presence of a suitable base. Thymine and cytosine were introduced to the porphyrin&#160; on their N1 site, whereas adenine and amino&#8208;6&#8208;chloropurine were introduced to the porphyrin&#160; on their N9 site. The synthesis of a porphyrin bearing four thymine moieties at its four  meso&#8208;  positions is also described. &#160;Furthermore, following the Sonogashira cross coupling reaction strategy led to the formation of&#160; four new porphyrins bearing two NBs in  trans  positions. Ethynyl&#8208;substituted nucleobases were reacted with 5,15&#8208;dibromo&#8208;10,20&#8208;dipentylporphyrin under sonogashira cross coupling conditions to result in four rigid porphyrins having two nucleobases at the  trans meso  &#8208;positions linked by rigid ethynyl linkers.&#160; All the tectons have been characterized and could be used in the formation of molecular H&#8208;bonded networks. The porphyrin bearing cytosine via ethynyl linkers self&#8208;assembled into a 2D hydrogen bonded network formed by the complementary interactions between the cytosine moieties.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Synthesis of Nucleobase di&#8208; and tetra&#8208;functionalized Porphyrins</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001406</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-24T08:15:43-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001406</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001406</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001369">
-      <title>A Facile Transition Metal&#8208;free Ionic Liquid [BMIM]OH Mediated Regio&#8208; and Stereoselective Hydrocarboxylation of Alkynylnitriles</title>
-      <dc:description>We report an efficient and straight forward access to nitrile substituted enol esters via ionic liquid [BMIM]OH mediated hydrocarboxylation of alkynylnitriles under mild conditions. This atom economical transition metal&#8208;free protocol gives an easy access to a variety of such enol esters with excellent regio and  Z  &#8208;stereoselectivity. Reusability of [BMIM]OH without losing of significant amount of yield is another noticeable feature of this article.</dc:description>
-      <dc:creator>
-Chandresh Kumari, 
-Avijit Goswami
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001369</link>
-      <content:encoded>&lt;p&gt;We report an efficient and straight forward access to nitrile substituted enol esters via ionic liquid [BMIM]OH mediated hydrocarboxylation of alkynylnitriles under mild conditions. This atom economical transition metal&#8208;free protocol gives an easy access to a variety of such enol esters with excellent regio and  Z  &#8208;stereoselectivity. Reusability of [BMIM]OH without losing of significant amount of yield is another noticeable feature of this article.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>A Facile Transition Metal&#8208;free Ionic Liquid [BMIM]OH Mediated Regio&#8208; and Stereoselective Hydrocarboxylation of Alkynylnitriles</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001369</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-24T12:18:00-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001369</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001369</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001401">
-      <title>Role of lipophilicity on the activity of hexameric cyclic peptoid ion carriers</title>
-      <dc:description>Two families of hexameric cyclic peptoids decorated with linear  N  &#8208;alkyl and alternated  N  &#8208;alkyl/  N  &#8208;benzyl side chains (  2a&#8208;d  and  3a&#8208;c  , respectively) were designed and synthesized in order to correlate their logP values (from 2.55 to 6.83) to their ionophoric activities. The present contribution confirms the general ability of hexameric cyclic peptoids to behave as efficient cation carriers, corroborates their preference for Na  +  ion, among the tested alkali metals, and suggests a Na  +  /H  +  antiport transport mechanism (rate limited by the transport of the proton) for these new ionophores. Our observations indicate that in order to attain an efficient ionophoric activity, a narrow range of liphophilicity is required (4&lt; logP &lt; 5). Moreover, to gain information on the solid state stucture of ionophoric cyclic peptoids with linear  N  &#8208;side chains,&#160;X&#8208;ray crystallographic studies were performed on exemplar compound  2a  . Crystal structure of compound  2a  confirms the tendency of ionophoric cyclopeptoids with linear  N  &#8208;side chains to form layered assemblies.</dc:description>
-      <dc:creator>
-Rosaria Schettini, 
-Massimo Tosolini, 
-Jawad Rehman, 
-Muhammad Raza Shah, 
-Giovanni Pierri, 
-Consiglia Tedesco, 
-Giorgio Della Sala, 
-Francesco De Riccardis, 
-Paolo Tecilla, 
-Irene Izzo
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001401</link>
-      <content:encoded>&lt;p&gt;Two families of hexameric cyclic peptoids decorated with linear  N  &#8208;alkyl and alternated  N  &#8208;alkyl/  N  &#8208;benzyl side chains (  2a&#8208;d  and  3a&#8208;c  , respectively) were designed and synthesized in order to correlate their logP values (from 2.55 to 6.83) to their ionophoric activities. The present contribution confirms the general ability of hexameric cyclic peptoids to behave as efficient cation carriers, corroborates their preference for Na  +  ion, among the tested alkali metals, and suggests a Na  +  /H  +  antiport transport mechanism (rate limited by the transport of the proton) for these new ionophores. Our observations indicate that in order to attain an efficient ionophoric activity, a narrow range of liphophilicity is required (4&amp;lt; logP &amp;lt; 5). Moreover, to gain information on the solid state stucture of ionophoric cyclic peptoids with linear  N  &#8208;side chains,&#160;X&#8208;ray crystallographic studies were performed on exemplar compound  2a  . Crystal structure of compound  2a  confirms the tendency of ionophoric cyclopeptoids with linear  N  &#8208;side chains to form layered assemblies.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Role of lipophilicity on the activity of hexameric cyclic peptoid ion carriers</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001401</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-23T04:51:42-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001401</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001401</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001451</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -785,7 +735,7 @@ Ilia  V. Eltsov,
 Oleg  N. Martyanov, 
 Nariman  F. Salakhutdinov
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001397</link>
+      <link>https://doi.org/10.1002/ejoc.202001397</link>
       <content:encoded>&lt;p&gt;A new ring opening reaction was found while attempting to isolate the imines from  ortho  &#8208;heteroatom substituted anilines and camphor&#8208;like bicyclic ketones. The benzoazoles containing a cyclopentanemethyl group at position 2 of the heterocycle were isolated instead of the expected imines. The detailed study of the transformation, including EPR experiments, revealed the most probable radical mechanism. The proposed reaction pathways were confirmed by quantum chemical calculations. The dichotomy of 1&#8209;2 and 2&#8209;3 bonds cleavage is discussed together with the evaluation of the stereochemical outcome of the reactions. The benzoazoles obtained via the new reaction are of particular interest for the medicinal chemistry.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Unexpected ring opening during the imination of camphor&#8208;type bicyclic ketones</dc:title>
@@ -794,7 +744,7 @@ Nariman  F. Salakhutdinov
       <dc:date>2020-11-19T02:14:48-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001397</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001397</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001397</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -808,7 +758,7 @@ Joop  H. ter Horst,
 Olivier Riant, 
 Tom Leyssens
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001402</link>
+      <link>https://doi.org/10.1002/ejoc.202001402</link>
       <content:encoded>&lt;p&gt;In the racemization area, the keto&#8208;enol equilibrium is a major player when it comes to racemizing &#945;&#8208;chiral carbonyl compounds. The racemization kinetics in the co&#8208;crystal induced deracemization of a fungicide precursor is complex as next to the racemization catalyst, which is a base, an acidic co&#8208;former is used to ensure the crystallization of the co&#8208;crystal. Here we show that understanding of the racemization kinetics of the target compound is of key importance for optimization of the co&#8208;crystallization based deracemization process. The racemization rates in solution as a function of solvent and base concentration were determined by measuring the decreasing enrichment of the chiral ketone due to racemization over time, using a polarimeter set&#8208;up with a continuous recycling loop through the polarimeter cell. The established racemization kinetics model aligns with the experimental data giving access to the intrinsic racemization rate constant. The proposed mechanism is first order with respect to the enantiomeric excess of the target compound and the base&#8208;catalyst concentration. The solvent is shown to affect the racemization constant, with protic solvents increasing this rate substantially. Finally, we observed the presence of the chiral acid co&#8208;former to alter the reaction mechanism albeit remaining first order with respect to the enantiomeric excess. Though more complex, the mechanism still followed Arrhenius law, providing key information on the impact of temperature.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Fungicide precursor racemization kinetics for deracemization in complex systems</dc:title>
@@ -817,35 +767,9 @@ Tom Leyssens
       <dc:date>2020-11-18T06:24:43-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001402</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001402</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001402</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001303">
-      <title>Click&#8208;connected 2&#8208;(hydroxyimino)aldehydes for the design of UV&#8208;responsive functional molecules</title>
-      <dc:description>We use click chemistry to functionalize simple lipophilic and water&#8208;soluble molecules, a complex PEGylated phospholipid (DSPE&#8208;PEG2000), and two benzylic substrates with the 2&#8208;(hydroxyimino)aldehyde (HIA) group. To this end, we synthesize two terminal alkynes bearing the HIA moiety and we couple them to different azides through copper(I)&#8208;catalyzed azide alkyne cycloaddition (CuAAC). Norrish&#8208;Yang photoisomerization (&#955;= 365 nm, LED source) is successfully obtained, with no interference by the triazole linker, except when the forbidden  n&#8208;&#960;*  carbonyl transition is screened by a remote substituent such as salicylaldehyde. UV&#8208;Vis spectrometry suggests a specific interaction of HIAs with Cu(II), whereas no such evidence is found with Cu(I). We thereby show that the CuAAC methodology can be used successfully to obtain HIA&#8208;based UV&#8208;responsive hydrophilic or lipophilic ligands, phospholipidic components for the construction of liposomes, and macrocycle precursors.</dc:description>
-      <dc:creator>
-Francesca D'Acunzo, 
-Linda Carbonaro, 
-Antonella Dalla Cort, 
-Antonio Di Sabato, 
-Dario Filippini, 
-Francesca Leonelli, 
-Laura Mancini, 
-Patrizia Gentili
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001303</link>
-      <content:encoded>&lt;p&gt;We use click chemistry to functionalize simple lipophilic and water&#8208;soluble molecules, a complex PEGylated phospholipid (DSPE&#8208;PEG2000), and two benzylic substrates with the 2&#8208;(hydroxyimino)aldehyde (HIA) group. To this end, we synthesize two terminal alkynes bearing the HIA moiety and we couple them to different azides through copper(I)&#8208;catalyzed azide alkyne cycloaddition (CuAAC). Norrish&#8208;Yang photoisomerization (&#955;= 365 nm, LED source) is successfully obtained, with no interference by the triazole linker, except when the forbidden  n&#8208;&#960;*  carbonyl transition is screened by a remote substituent such as salicylaldehyde. UV&#8208;Vis spectrometry suggests a specific interaction of HIAs with Cu(II), whereas no such evidence is found with Cu(I). We thereby show that the CuAAC methodology can be used successfully to obtain HIA&#8208;based UV&#8208;responsive hydrophilic or lipophilic ligands, phospholipidic components for the construction of liposomes, and macrocycle precursors.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Click&#8208;connected 2&#8208;(hydroxyimino)aldehydes for the design of UV&#8208;responsive functional molecules</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001303</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-18T02:01:54-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001303</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001303</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202001396">
       <title>Front Cover: Regiodivergent Synthesis of ortho&#8208; and para&#8208;Cannabinoquinones (Eur. J. Org. Chem. /2020)</title>
@@ -866,7 +790,7 @@ Laureano de la Vega,
 Diego Caprioglio, 
 Giovanni Appendino
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001396</link>
+      <link>https://doi.org/10.1002/ejoc.202001396</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a3fcb169-8bd1-4884-b423-9d988a6463b6/ejoc202001396-toc-0001-m.png"
      alt="Front Cover: Regiodivergent Synthesis of ortho&#8208; and para&#8208;Cannabinoquinones (Eur. J. Org. Chem. /2020)"/&gt;
 &lt;p&gt;&lt;b&gt;The Front Cover&lt;/b&gt; shows a crossroad, metaphorically representing the possibility of a phenol to be oxidized to an &lt;i&gt;ortho&lt;/i&gt;&#8208; or a &lt;i&gt;para&lt;/i&gt;&#8208;quinone depending on the nature of the oxidant (&#955;&lt;sup&gt;3&lt;/sup&gt;&#8208; vs &#955;&lt;sup&gt;5&lt;/sup&gt;&#8208;iodane). However, things are not so straightforward, since prototropic equilibria and valence tautomerization can provide a diversion from the selected pathway. More information can be found in the &lt;a href="https://doi.org/10.1002/ejoc.202001258"&gt;Full Paper by D.&#160;Caprioglio, G.&#160;Appendino et al.&lt;/a&gt;
@@ -881,7 +805,7 @@ Giovanni Appendino
       <dc:date>2020-11-16T06:02:55-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001396</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001396</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001396</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -900,7 +824,7 @@ Michael Kurz,
 Ana Villar-Garea, 
 Sven Ruf
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001178</link>
+      <link>https://doi.org/10.1002/ejoc.202001178</link>
       <content:encoded>&lt;p&gt;Photoredox chemistry has greatly stimulated the application of radical based transformations in medicinal chemistry and early drug discovery in recent years. Carboxylate groups have been identified as traceless leaving groups that can be converted to radical intermediates capable of undergoing 1,4&#8208;conjugate addition reactions to Michael acceptors. Here, we show the successful C&#8208;terminal derivatization of small peptide substrates by using this methodology in a parallel synthesis setting. Finally, we outline a general strategy for the &#947;&#8208;homologation of several drugs derived from &#945;&#8208;amino acids in a late stage functionalization (LSF) approach.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Photoinduced decarboxylative radical addition reactions for Late Stage Functionalization of peptide substrates</dc:title>
@@ -909,29 +833,7 @@ Sven Ruf
       <dc:date>2020-11-16T05:34:27-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001178</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001178</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001371">
-      <title>I2&#8208;promoted direct C&#8208;H sulfenylation of isoquinolin&#8208;1(2H)&#8208;ones with sulfonyl chlorides</title>
-      <dc:description>A simple, efficient, and green method for the iodine&#8208;promoted regioselective C&#8208;4 sulfenylation of isoquinolin&#8208;1(2  H  )&#8208;ones using commercially available aryl sulfonyl chlorides as the sulfur source was described under metal&#8208; and solvent&#8208;free conditions. The reaction proceeded smoothly under simple conditions to obtain 4&#8208;arylthioisoquinolin&#8208;1(2  H  )&#8208;ones in moderate to good yields, and showed high regioselectivity, broad substrate scope and good functional group tolerance. A radical reaction mechanism involving ArS&#183; radicals as key intermediates is proposed for the present transformation.</dc:description>
-      <dc:creator>
-Cai-Yun Yang, 
-Xia Li, 
-Bo Liu, 
-Guoli Huang
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001371</link>
-      <content:encoded>&lt;p&gt;A simple, efficient, and green method for the iodine&#8208;promoted regioselective C&#8208;4 sulfenylation of isoquinolin&#8208;1(2  H  )&#8208;ones using commercially available aryl sulfonyl chlorides as the sulfur source was described under metal&#8208; and solvent&#8208;free conditions. The reaction proceeded smoothly under simple conditions to obtain 4&#8208;arylthioisoquinolin&#8208;1(2  H  )&#8208;ones in moderate to good yields, and showed high regioselectivity, broad substrate scope and good functional group tolerance. A radical reaction mechanism involving ArS&#183; radicals as key intermediates is proposed for the present transformation.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>I2&#8208;promoted direct C&#8208;H sulfenylation of isoquinolin&#8208;1(2H)&#8208;ones with sulfonyl chlorides</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001371</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-15T07:27:12-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001371</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001371</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001178</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
@@ -943,7 +845,7 @@ Bhushanarao Dogga,
 C  S Ananda Kumar, 
 Jayan  T Joseph
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001328</link>
+      <link>https://doi.org/10.1002/ejoc.202001328</link>
       <content:encoded>&lt;p&gt;An efficient protocol for the reductive carbonylation of (hetero) aryl halides and triflates under CO gas&#8208;free conditions using Pd/Co2(CO)8 and triethylsilane has been developed. The mild reaction conditions, enhanced chemoselectivity and, easy access to heterocyclic and vinyl carboxaldehydes highlights its importance in organic synthesis.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Palladium&#8208;Catalyzed Reductive Carbonylation of (Hetero) Aryl halides and Triflates using Cobalt carbonyl as CO Source</dc:title>
@@ -952,7 +854,7 @@ Jayan  T Joseph
       <dc:date>2020-11-12T07:13:46-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001328</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001328</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001328</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -976,7 +878,7 @@ Alexander V. Mazepa,
 Ildar M. Rakipov, 
 Sergiy S. Mykhaylychenko
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001104</link>
+      <link>https://doi.org/10.1002/ejoc.202001104</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/641b4228-f076-4f03-b8c0-178f5e97a48a/ejoc202001104-toc-0001-m.png"
      alt="Reaction of N,N&#8208;Disubstituted Polyfluoroalkanethioamides with Diazomethane: Entry to New Thiirane Derivatives"/&gt;
 &lt;p&gt;The first examples of the reaction between polyfluoroalkanethioamides and diazomethane are presented. New fluorinated thiiranamines are smoothly converted to 1&#8208;polyfluoroalkyl enamines. Unexpected formation of functionalized 1,4&#8208;dioxanes occurs as a result of the oxidation of the obtained thiiranes and enamines with &lt;i&gt;m&lt;/i&gt;&#8208;chloroperoxybenzoic acid. Stereochemical aspects of new 1,4&#8208;dioxane derivatives are discussed.
@@ -991,35 +893,7 @@ Sergiy S. Mykhaylychenko
       <dc:date>2020-11-11T05:07:21-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001104</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001104</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001296">
-      <title>Multibranched calix[4]arene based sensitizers for efficient photocatalytic hydrogen production</title>
-      <dc:description>In the field of direct production of hydrogen from solar energy and water, photocatalytic methods hold a great potential especially when metal&#8208;free molecular components are preferred. In this work, we have developed a new class of calix[4]arene&#8208;based molecular photosensitizers to be used as antenna systems in the photocatalytic production of hydrogen. The structure of the dyes has a typical donor&#8208;&#960;&#8208;acceptor molecular architecture where a calix[4]arene scaffold is used as an embedded donor. The new materials have been fully characterized in their optical, electrochemical and photocatalytic properties. The properties conferred by the calix[4]arene donor afforded twice larger performances compared to the corresponding linear system though showing similar quantitative optical properties. The new molecular design paves the way to a new strategy for photocatalytic hydrogen production where the calix[4]arene scaffold can afford more efficient systems, and can offer the potential for host&#8208;guest supramolecular effects.</dc:description>
-      <dc:creator>
-Norberto Manfredi, 
-Cristina Decavoli, 
-Chiara  Liliana Boldrini, 
-Tarekegn  Heliso Dolla, 
-Federica Faroldi, 
-Francesco Sansone, 
-Tiziano Montini, 
-Laura Baldini, 
-Paolo Fornasiero, 
-Alessandro Abbotto
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001296</link>
-      <content:encoded>&lt;p&gt;In the field of direct production of hydrogen from solar energy and water, photocatalytic methods hold a great potential especially when metal&#8208;free molecular components are preferred. In this work, we have developed a new class of calix[4]arene&#8208;based molecular photosensitizers to be used as antenna systems in the photocatalytic production of hydrogen. The structure of the dyes has a typical donor&#8208;&#960;&#8208;acceptor molecular architecture where a calix[4]arene scaffold is used as an embedded donor. The new materials have been fully characterized in their optical, electrochemical and photocatalytic properties. The properties conferred by the calix[4]arene donor afforded twice larger performances compared to the corresponding linear system though showing similar quantitative optical properties. The new molecular design paves the way to a new strategy for photocatalytic hydrogen production where the calix[4]arene scaffold can afford more efficient systems, and can offer the potential for host&#8208;guest supramolecular effects.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Multibranched calix[4]arene based sensitizers for efficient photocatalytic hydrogen production</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001296</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-11-08T07:11:45-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001296</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001296</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001104</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1040,7 +914,7 @@ Thomas S. Moody,
 Megan Smyth, 
 Scott Wharry
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001376</link>
+      <link>https://doi.org/10.1002/ejoc.202001376</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a1b4fd53-8255-43d2-a6fa-dfd3ba92fe4e/ejoc202001376-toc-0001-m.png"
      alt="Cover Feature: Overcoming the Hurdles and Challenges Associated with Developing Continuous Industrial Processes (Eur. J. Org. Chem. /2020)"/&gt;
 &lt;p&gt;&lt;b&gt;The Cover Feature&lt;/b&gt; shows two pipes, one with product flowing through and the other which is knotted signifying a blockage obtained while performing flow chemistry. The associated Minireview discusses common hurdles faced by flow chemists including those related to cryogenic chemistry and solid handling, and the importance of navigating the pitfalls from an industrial perspective. More information can be found in the &lt;a href="https://doi.org/10.1002/ejoc.202001278"&gt;Minireview by M. Baumann, M. Smyth et al.&lt;/a&gt;
@@ -1055,7 +929,7 @@ Scott Wharry
       <dc:date>2020-11-06T05:16:51-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001376</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001376</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001376</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
@@ -1075,7 +949,7 @@ Organic compounds with geminal diazide units at sp3&#8208;hybridized carbon atom
 Ibrahim E. Celik, 
 Stefan F. Kirsch
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001020</link>
+      <link>https://doi.org/10.1002/ejoc.202001020</link>
       <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e6929041-e8b5-4d2a-9e20-ec9a8d4fbbbd/ejoc202001020-toc-0001-m.png"
      alt="Reactivity of Organic Geminal Diazides at Tetrahedral Carbons"/&gt;
 &lt;p&gt;This Minireview highlights the prominent reactivities of aliphatic geminal diazide compounds, including thermolysis, photolysis, and cycloadditions, most of which yielding unique classes of nitrogen&#8208;containing heterocycles. We also present how this, still uncommon, class of compounds can be used for amide bond formation and the degradation of a carbon framework, under the action of nucleophilic amines.
@@ -1090,7 +964,7 @@ Stefan F. Kirsch
       <dc:date>2020-11-05T02:09:41-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001020</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001020</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001020</prism:url>
       <prism:copyright />
       <prism:section>Minireview</prism:section>
    </item>
@@ -1103,7 +977,7 @@ Errika Voutyritsa,
 Petros  L. Gkizis, 
 Christoforos  G. Kokotos
 </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001387</link>
+      <link>https://doi.org/10.1002/ejoc.202001387</link>
       <content:encoded>&lt;p&gt;A simple, photochemical and metal&#8208;free protocol for the atom transfer radical addition (ATRA) of bromotrichloromethane onto various alkenes is described. Among a range of organic molecules, phenylglyoxylic acid proved to be the most suitable photoinitiator to promote a sustainable process for the addition of bromotrichloromethane to olefins. This photochemical atom transfer radical protocol can be expanded into a wide substrate scope of aliphatic olefins bearing various functional groups, leading to the corresponding products in good to excellent yields.&lt;/p&gt;</content:encoded>
       <description>European Journal of Organic Chemistry, Accepted Article. </description>
       <dc:title>Metal&#8208;free Photochemical Atom Transfer Radical Addition (ATRA) of BrCCl3 to Alkenes</dc:title>
@@ -1112,127 +986,8 @@ Christoforos  G. Kokotos
       <dc:date>2020-11-02T11:36:47-08:00</dc:date>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <prism:doi>10.1002/ejoc.202001387</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001387</prism:url>
+      <prism:url>https://doi.org/10.1002/ejoc.202001387</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001009">
-      <title>Synthesis of Spongidepsin and Analogs</title>
-      <dc:description>
-  Spongidepsin is a macrolide isolated from Spongia sp. Owing to its original structure, exhibiting a phenylalanine amino acid moiety in a macrocycle and the presence of a terminal alkyne, associated to its antiproliferative activity, the molecule has attracted synthetic chemists culminating in seven total and/or formal syntheses. The major differences in the syntheses rely on the methods used to synthesize the C1&#8211;C5, the C6&#8211;C11, or C6&#8211;13 fragments as their connectivities to access spongidepsin are similar. The different methods to synthesize spongidepsin are compared.
-  
-  
-  
-  
- 
- 
-  Seven syntheses of (&#8211;)&#8208;spongidepsin, a natural product isolated from Spongia sp. with moderate antiproliferative activity, are described and the different analogs obtained during these syntheses are reported. A comparison between the different syntheses has been achieved.
- </dc:description>
-      <dc:creator>
- Laurent Ferri&#233;, 
- Ondine Picot, 
- Amandine Gu&#233;rinot, 
- Janine Cossy
- </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001009</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/991c29e2-0b53-46d2-8c34-1320c1f0a6f2/ejoc202001009-toc-0001-m.png"
-     alt="Synthesis of Spongidepsin and Analogs"/&gt;
-  &lt;p&gt;Spongidepsin is a macrolide isolated from &lt;i&gt;Spongia&lt;/i&gt; sp. Owing to its original structure, exhibiting a phenylalanine amino acid moiety in a macrocycle and the presence of a terminal alkyne, associated to its antiproliferative activity, the molecule has attracted synthetic chemists culminating in seven total and/or formal syntheses. The major differences in the syntheses rely on the methods used to synthesize the C1&#8211;C5, the C6&#8211;C11, or C6&#8211;13 fragments as their connectivities to access spongidepsin are similar. The different methods to synthesize spongidepsin are compared.
-  &lt;/p&gt;
- &lt;br/&gt;
-  &lt;p&gt;Seven syntheses of (&#8211;)&#8208;spongidepsin, a natural product isolated from &lt;i&gt;Spongia sp&lt;/i&gt;. with moderate antiproliferative activity, are described and the different analogs obtained during these syntheses are reported. A comparison between the different syntheses has been achieved.&lt;/p&gt;
- </content:encoded>
-      <description>European Journal of Organic Chemistry, EarlyView. </description>
-      <dc:title>Synthesis of Spongidepsin and Analogs</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001009</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-09-15T06:41:34-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001009</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001009</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000432">
-      <title>Multigram Synthesis of Advanced 6,6&#8208;Difluorospiro[3.3]heptane&#8208;Derived Building Blocks</title>
-      <dc:description>
-  An approach to 6,6&#8208;difluorospiro[3.3]heptane scaffold &#8211; a conformationally restricted isostere of gem&#8208;difluorocycloalkanes &#8211; is developed. A large array of novel 2&#8208;mono&#8208; and 2,2&#8208;difunctionalized 6,6&#8208;difluorospiro[3.3]heptane building blocks was obtained in multigram scale through the convergent synthesis strategy using a common synthetic intermediate &#8211; 1,1&#8208;bis(bromomethyl)&#8208;3,3&#8208;difluorocyclobutane.
-  
-  
-  
-  
- 
- 
-  A convenient methodology for constructing 6,6&#8208;difluorospiro[3.3]heptane scaffold &#8211; a conformationally restricted isoster of gem&#8208;difluorocycloalkanes &#8211; is developed. A large array of novel 2&#8208;mono&#8208; and 2,2&#8208;bifunctionalized difluorospiro[3.3]heptane building blocks was obtained through the convergent synthesis strategy using a common synthetic precursor &#8211; 1,1&#8208;bis(bromomethyl)&#8208;3,3&#8208;difluorocyclobutane. The target compounds and intermediates were prepared by short reaction sequences (6&#8211;10 steps) on a multigram scale (up to 0.47 kg).
- </dc:description>
-      <dc:creator>
- Oleksandr S. Olifir, 
- Anton V. Chernykh, 
- Alexey V. Dobrydnev, 
- Oleksandr O. Grygorenko, 
- Yuriy S. Moroz, 
- Zoia V. Voitenko, 
- Dmytro S. Radchenko
- </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202000432</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/5844fc4f-28a6-4544-a7f4-5a8145ac678a/ejoc202000432-toc-0001-m.png"
-     alt="Multigram Synthesis of Advanced 6,6&#8208;Difluorospiro[3.3]heptane&#8208;Derived Building Blocks"/&gt;
-  &lt;p&gt;An approach to 6,6&#8208;difluorospiro[3.3]heptane scaffold &#8211; a conformationally restricted isostere of &lt;i&gt;gem&lt;/i&gt;&#8208;difluorocycloalkanes &#8211; is developed. A large array of novel 2&#8208;mono&#8208; and 2,2&#8208;difunctionalized 6,6&#8208;difluorospiro[3.3]heptane building blocks was obtained in multigram scale through the convergent synthesis strategy using a common synthetic intermediate &#8211; 1,1&#8208;bis(bromomethyl)&#8208;3,3&#8208;difluorocyclobutane.
-  &lt;/p&gt;
- &lt;br/&gt;
-  &lt;p&gt;A convenient methodology for constructing 6,6&#8208;difluorospiro[3.3]heptane scaffold &#8211; a conformationally restricted isoster of &lt;i&gt;gem&lt;/i&gt;&#8208;difluorocycloalkanes &#8211; is developed. A large array of novel 2&#8208;mono&#8208; and 2,2&#8208;bifunctionalized difluorospiro[3.3]heptane building blocks was obtained through the convergent synthesis strategy using a common synthetic precursor &#8211; 1,1&#8208;bis(bromomethyl)&#8208;3,3&#8208;difluorocyclobutane. The target compounds and intermediates were prepared by short reaction sequences (6&#8211;10 steps) on a multigram scale (up to 0.47 kg).&lt;/p&gt;
- </content:encoded>
-      <description>European Journal of Organic Chemistry, EarlyView. </description>
-      <dc:title>Multigram Synthesis of Advanced 6,6&#8208;Difluorospiro[3.3]heptane&#8208;Derived Building Blocks</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000432</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-06-05T05:43:13-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000432</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202000432</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202000351">
-      <title>Synthesis of Spirocyclic &#946;&#8208; and &#947;&#8208;Sultams by One&#8208;Pot Reductive Cyclization of Cyanoalkylsulfonyl Fluorides</title>
-      <dc:description>
-  A multigram synthesis of spirocyclic &#947;&#8208; and &#946;&#8208;sultams is reported, which are advanced building blocks for organic synthesis and drug discovery. The synthesis proceeds through a one&#8208;pot reductive cyclization of cyclic cyano sulfonyl fluorides.
-  
-  
-  
-  
- 
- 
-  One&#8208;pot intramolecular cyclization of novel sp3&#8208;enriched cyanoalkylsulfonyl fluorides into spirocyclic &#946;&#8208; or &#947;&#8208;sultams is disclosed. The method relies on nitrile group reduction followed by sulfonylation of amino group thus formed upon mild conditions (NaBH4, NiCl2&#183;6H2O in MeOH). Cyclization proceeds smoothly with considerable efficiency (48&#8211;84&#8201;%, 10 examples) on up to 30 g scale. The cyanoalkylsulfonyl fluoride intermediates can be obtained via S&#8208;nucleophilic substitution in &#946;&#8208;functionalized alkanenitriles or double alkylation of &#945;&#8208;alkylthioacetonitrile, followed by oxidative chlorination with Cl2 and further reaction with KHF2. The title mono&#8208; and bifunctional sultams are advanced sp3&#8208;enriched building blocks for drug discovery and organic synthesis providing novel substitution patterns and frameworks mimicking saturated nitrogen heterocycles such as pyrrolidine/pyrrolidone.
- </dc:description>
-      <dc:creator>
- Kateryna O. Stepannikova, 
- Bohdan V. Vashchenko, 
- Oleksandr O. Grygorenko, 
- Marian V. Gorichko, 
- Artem Yu. Cherepakha, 
- Yurii S. Moroz, 
- Yulian M. Volovenko, 
- Serhii Zhersh
- </dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202000351</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/d8dea36c-844f-44cf-9108-942678b4142c/ejoc202000351-toc-0001-m.png"
-     alt="Synthesis of Spirocyclic &#946;&#8208; and &#947;&#8208;Sultams by One&#8208;Pot Reductive Cyclization of Cyanoalkylsulfonyl Fluorides"/&gt;
-  &lt;p&gt;A multigram synthesis of spirocyclic &#947;&#8208; and &#946;&#8208;sultams is reported, which are advanced building blocks for organic synthesis and drug discovery. The synthesis proceeds through a one&#8208;pot reductive cyclization of cyclic cyano sulfonyl fluorides.
-  &lt;/p&gt;
- &lt;br/&gt;
-  &lt;p&gt;One&#8208;pot intramolecular cyclization of novel sp&lt;sup&gt;3&lt;/sup&gt;&#8208;enriched cyanoalkylsulfonyl fluorides into spirocyclic &#946;&#8208; or &#947;&#8208;sultams is disclosed. The method relies on nitrile group reduction followed by sulfonylation of amino group thus formed upon mild conditions (NaBH&lt;sub&gt;4&lt;/sub&gt;, NiCl&lt;sub&gt;2&lt;/sub&gt;
-&lt;b&gt;&#183;&lt;/b&gt;6H&lt;sub&gt;2&lt;/sub&gt;O in MeOH). Cyclization proceeds smoothly with considerable efficiency (48&#8211;84&#8201;%, 10 examples) on up to 30 g scale. The cyanoalkylsulfonyl fluoride intermediates can be obtained via S&#8208;nucleophilic substitution in &#946;&#8208;functionalized alkanenitriles or double alkylation of &#945;&#8208;alkylthioacetonitrile, followed by oxidative chlorination with Cl&lt;sub&gt;2&lt;/sub&gt; and further reaction with KHF&lt;sub&gt;2&lt;/sub&gt;. The title mono&#8208; and bifunctional sultams are advanced sp&lt;sup&gt;3&lt;/sup&gt;&#8208;enriched building blocks for drug discovery and organic synthesis providing novel substitution patterns and frameworks mimicking saturated nitrogen heterocycles such as pyrrolidine/pyrrolidone.&lt;/p&gt;
- </content:encoded>
-      <description>European Journal of Organic Chemistry, EarlyView. </description>
-      <dc:title>Synthesis of Spirocyclic &#946;&#8208; and &#947;&#8208;Sultams by One&#8208;Pot Reductive Cyclization of Cyanoalkylsulfonyl Fluorides</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202000351</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-05-20T12:00:00-07:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202000351</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202000351</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
