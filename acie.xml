@@ -9,6 +9,9 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016102" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013940" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015326" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010577" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010202" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012474" />
@@ -210,9 +213,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015116" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013927" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013117" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012021" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013610" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011429" />
          </rdf:Seq>
       </items>
    </channel>
@@ -221,6 +221,88 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202016102">
+      <title>Two Dimensional Porous Molybdenum Phosphide/Nitride Heterojunction Nanosheets for pH&#8208;Universal Hydrogen Evolution Reaction</title>
+      <dc:description>The morphology and heterojunction engineering of Mo&#8208;based catalysts are intensively pursued for effective hydrogen evolution reaction (HER), but it remains a challenge to achieve the two targets simultaneously. Herein, we show a new strategy toward the synthesis of two&#8208;dimensional (2D) porous MoP/Mo2N heterojunction nanosheets based on the pyrolysis of 2D [PMo12O40]3&#8203;&#8208;  &#8208;melamine (PMo12&#8208;MA) nanosheet precursor from a polyethylene glycol (PEG)&#8208;mediated assembly route. The heterostructure nanosheets is about 20 nm thick and has plentiful pores (&lt; 5 nm). These structure features offer several advantages to promote the HER activity, including the favourable water dissociation kinetics around heterojunction as confirmed by theoretical calculations, large accessible surface of 2D nanosheets and enhanced mass&#8208;transport ability by pores. Consequently, the 2D porous MoP/Mo2N heterojunction nanosheets exhibits excellent HER activity with low overpotentials of 89, 91 and 89 mV to achieve a current density of 10 mA cm&#8208;2  in alkaline, neutral and acidic electrolytes, respectively. In particular, its HER performance is superior to the commercial Pt/C at a current density &gt; 55 mA cm&#8208;2  in neutral medium and &gt;190 mA cm&#8208;2  in alkaline medium. This work is promising for construction of 2D porous heterostructured catalysts.</dc:description>
+      <dc:creator>
+Honggang Fu, 
+Ying Gu, 
+Aiping Wu, 
+Yanqing Jiao, 
+Huiru Zheng, 
+Xueqi Wang, 
+Ying Xie, 
+Lei Wang, 
+Chungui Tian
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202016102</link>
+      <content:encoded>&lt;p&gt;The morphology and heterojunction engineering of Mo&#8208;based catalysts are intensively pursued for effective hydrogen evolution reaction (HER), but it remains a challenge to achieve the two targets simultaneously. Herein, we show a new strategy toward the synthesis of two&#8208;dimensional (2D) porous MoP/Mo2N heterojunction nanosheets based on the pyrolysis of 2D [PMo12O40]3&#8203;&#8208;  &#8208;melamine (PMo12&#8208;MA) nanosheet precursor from a polyethylene glycol (PEG)&#8208;mediated assembly route. The heterostructure nanosheets is about 20 nm thick and has plentiful pores (&amp;lt; 5 nm). These structure features offer several advantages to promote the HER activity, including the favourable water dissociation kinetics around heterojunction as confirmed by theoretical calculations, large accessible surface of 2D nanosheets and enhanced mass&#8208;transport ability by pores. Consequently, the 2D porous MoP/Mo2N heterojunction nanosheets exhibits excellent HER activity with low overpotentials of 89, 91 and 89 mV to achieve a current density of 10 mA cm&#8208;2  in alkaline, neutral and acidic electrolytes, respectively. In particular, its HER performance is superior to the commercial Pt/C at a current density &amp;gt; 55 mA cm&#8208;2  in neutral medium and &amp;gt;190 mA cm&#8208;2  in alkaline medium. This work is promising for construction of 2D porous heterostructured catalysts.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Two Dimensional Porous Molybdenum Phosphide/Nitride Heterojunction Nanosheets for pH&#8208;Universal Hydrogen Evolution Reaction</dc:title>
+      <dc:identifier>doi:10.1002/anie.202016102</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T04:11:10-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202016102</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202016102</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202013940">
+      <title>Selective oxidation of anilines to azobenzenes and azoxybenzenes by a molecular Mo oxide catalyst</title>
+      <dc:description>Aromatic azo compounds, which play an important role in pharmaceutical and industrial applications, still face great challenges in synthesis. Herein, we report a molybdenum oxide compound, [N(C  4  H  9  )  4  ]  2  [Mo  6  O  19  ] (  1  ), catalyzed selective oxidation of anilines with hydrogen peroxide as green oxidant. The oxidation of anilines can be realized in a fully selectively fashion to afford various symmetric/asymmetric azobenzene and azoxybenzene compounds, respectively, by changing additive and solvent, avoiding the use of stoichiometric metal oxidants. Preliminary mechanistic investigations suggest the intermediacy of highly active reactive and elusive Mo imido complexes.</dc:description>
+      <dc:creator>
+Han Yu, 
+Sheng Han, 
+Ying Cheng, 
+Shanshan Liu, 
+Chaofu Tao, 
+Aiping Wang, 
+Wanguo Wei, 
+Yongge Wei
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202013940</link>
+      <content:encoded>&lt;p&gt;Aromatic azo compounds, which play an important role in pharmaceutical and industrial applications, still face great challenges in synthesis. Herein, we report a molybdenum oxide compound, [N(C  4  H  9  )  4  ]  2  [Mo  6  O  19  ] (  1  ), catalyzed selective oxidation of anilines with hydrogen peroxide as green oxidant. The oxidation of anilines can be realized in a fully selectively fashion to afford various symmetric/asymmetric azobenzene and azoxybenzene compounds, respectively, by changing additive and solvent, avoiding the use of stoichiometric metal oxidants. Preliminary mechanistic investigations suggest the intermediacy of highly active reactive and elusive Mo imido complexes.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Selective oxidation of anilines to azobenzenes and azoxybenzenes by a molecular Mo oxide catalyst</dc:title>
+      <dc:identifier>doi:10.1002/anie.202013940</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T03:40:58-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202013940</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202013940</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202015326">
+      <title>Cocrystal Engineering: toward Solution&#8208;Processed Near&#8208;Infrared 2D Organic Cocrystals for Broadband Photodetection</title>
+      <dc:description>Two&#8208;dimensional (2D) cocrystals open a new way to get 2D functional materials via  crystal engineering instead of molecular engineering. Here, large&#8208;area 2D cocrystals with length reaching several millimeters with strong near&#8208;infrared (NIR) absorption have been successfully designed and prepared. Driven by the intermolecular charge&#8208;transfer (CT) interactions, zinc tetraphenylporphyrin (donor) and C 60  (acceptor) self&#8208;assemble into a NIR cocrystals with absorption wavelength up to 1080 nm. By tailoring the growth solvents and processes, the cocrystal morphologies can be tuned from 1D nanowires, 2D nanosheets to large&#8208;area 2D cocrystal films with length reaching several millimeters. Impressively, due to the highly ordered donor&#8208;acceptor arrangement, the CT absorption in the 2D cocrystals is significantly enhanced and becomes comparable to singlet absorption. The uniform 2D cocrystals, with enhanced CT absorption in the NIR region, displays a high responsivity of 2424 mA/W to NIR light and a fast response time of 0.6 s. The excellent device performance can be attributed to the generation of long&#8208;lived free charge carriers as revealed by transient absorption spectroscopy and the optimization of device configuration. This work shows an example of controlled growth of 2D cocrystals for broadband photodetectors, which reveals the brilliant future of cocrystal films for high&#8208;performance electronics and paves their way towards large&#8208;scale, integrated, flexible, practical applications.</dc:description>
+      <dc:creator>
+Wenping Hu, 
+Yu Wang, 
+Huang Wu, 
+Weigang Zhu, 
+Xiaotao Zhang, 
+Zheyuan Liu, 
+Yishi Wu, 
+Changfu Feng, 
+Yanfeng Dang, 
+Huanli Dong, 
+Hongbing Fu
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202015326</link>
+      <content:encoded>&lt;p&gt;Two&#8208;dimensional (2D) cocrystals open a new way to get 2D functional materials via  crystal engineering instead of molecular engineering. Here, large&#8208;area 2D cocrystals with length reaching several millimeters with strong near&#8208;infrared (NIR) absorption have been successfully designed and prepared. Driven by the intermolecular charge&#8208;transfer (CT) interactions, zinc tetraphenylporphyrin (donor) and C 60  (acceptor) self&#8208;assemble into a NIR cocrystals with absorption wavelength up to 1080 nm. By tailoring the growth solvents and processes, the cocrystal morphologies can be tuned from 1D nanowires, 2D nanosheets to large&#8208;area 2D cocrystal films with length reaching several millimeters. Impressively, due to the highly ordered donor&#8208;acceptor arrangement, the CT absorption in the 2D cocrystals is significantly enhanced and becomes comparable to singlet absorption. The uniform 2D cocrystals, with enhanced CT absorption in the NIR region, displays a high responsivity of 2424 mA/W to NIR light and a fast response time of 0.6 s. The excellent device performance can be attributed to the generation of long&#8208;lived free charge carriers as revealed by transient absorption spectroscopy and the optimization of device configuration. This work shows an example of controlled growth of 2D cocrystals for broadband photodetectors, which reveals the brilliant future of cocrystal films for high&#8208;performance electronics and paves their way towards large&#8208;scale, integrated, flexible, practical applications.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Cocrystal Engineering: toward Solution&#8208;Processed Near&#8208;Infrared 2D Organic Cocrystals for Broadband Photodetection</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015326</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T02:07:20-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202015326</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015326</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202012474">
       <title>Long&#8208;range Exciton Migration in Coassemblies: Achieving High Photostability without Disrupting the Electron Donating of Fluorene Oligomers</title>
       <dc:description>In this work, photostable coassemblies from a nonphotostable fluorene oligomer (the energy donor) and a photostable oligomer (the energy acceptor) are fabricated. Long&#8208;range exciton migration over a net distance of about 370 energy donor molecules to energy acceptor is demonstrated in such coassemblies. The fast and long energy migration allows for the harvesting of the excitation energy of energy donors by embedding a small number of energy acceptors for photostability enhancement. Importantly, embedding a small number of energy acceptors in coassemblies causes a negligible negative influence on the electron donating of energy donors that are desired in practical applications. The advantages of coassemblies fabricated in this concept, i.e., high photostability without disrupting the electron donating of energy donors, are well illustrated in fluorescence detection of trace explosives where prolonged working life and improved detection capacity are achieved.</dc:description>
@@ -2042,83 +2124,5 @@ Ben  Zhong Tang
       <prism:url>https://doi.org/10.1002/anie.202013117</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202012021">
-      <title>NIR&#8208;II pH Sensor with FRET Adjustable Transition Point for In Situ Dynamic Tumor Microenvironment Visualization</title>
-      <dc:description>pH monitoring in tumor lesions provide abundant physiological information. However, currently developed pH sensors only achieve sensitive detection in the settled response region around the pH transition point (pHt). To realize tumor pH monitoring with high sensitivity in wider response region, we herein design a serial of pHt adjustable sensors (pTAS) through simply regulating the component ratio of second near&#8208;infrared (NIR&#8208;II) emission aza&#8208;BODIPY (NAB) donor and pH sensitive rhodamine&#8208;based pre&#8208;acceptor (NRh) in F&#246;rster resonance energy transfer (FRET) system. Combining the pH response regions of pTAS, a twofold widened pH detection range (6.11&#8208;7.22) is obtained compared to the pHt settled sensor (6.38&#8208;6.94). With pHt adjustable feature, in vivo tumor pH increase and decrease process could be dynamically visualized through dual&#8208;channel ratiometric bioimaging in NIR&#8208;II window with coefficient of variation under 1% compared to the standard pH meter.</dc:description>
-      <dc:creator>
-Fan Zhang, 
-Mengyao Zhao, 
-Jianbo Wang, 
-Zuhai Lei, 
-Lingfei Lu, 
-Shangfeng Wang, 
-Hongxin Zhang, 
-Benhao Li
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202012021</link>
-      <content:encoded>&lt;p&gt;pH monitoring in tumor lesions provide abundant physiological information. However, currently developed pH sensors only achieve sensitive detection in the settled response region around the pH transition point (pHt). To realize tumor pH monitoring with high sensitivity in wider response region, we herein design a serial of pHt adjustable sensors (pTAS) through simply regulating the component ratio of second near&#8208;infrared (NIR&#8208;II) emission aza&#8208;BODIPY (NAB) donor and pH sensitive rhodamine&#8208;based pre&#8208;acceptor (NRh) in F&#246;rster resonance energy transfer (FRET) system. Combining the pH response regions of pTAS, a twofold widened pH detection range (6.11&#8208;7.22) is obtained compared to the pHt settled sensor (6.38&#8208;6.94). With pHt adjustable feature, in vivo tumor pH increase and decrease process could be dynamically visualized through dual&#8208;channel ratiometric bioimaging in NIR&#8208;II window with coefficient of variation under 1% compared to the standard pH meter.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>NIR&#8208;II pH Sensor with FRET Adjustable Transition Point for In Situ Dynamic Tumor Microenvironment Visualization</dc:title>
-      <dc:identifier>doi:10.1002/anie.202012021</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-10T04:45:40-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202012021</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202012021</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013610">
-      <title>Tunable eg orbital occupancy in Heusler compounds for oxygen evolution reaction</title>
-      <dc:description>Heusler compounds have great potential in electrocatalysis due to their mechanical robustness, metallic conductivity, and wide tunability in the electronic structure and element compositions. This study reports the first application of Co  2  YZ  type Heusler compounds as electrocatalysts towards oxygen evolution reaction (OER). A range of Co  2  YZ  crystals was synthesized through the arc&#8208;melting method and the  e  g  orbital filling of Co was precisely regulated by varying  Y  and  Z  sites of the compound. A strong correlation between the  e  g  orbital filling of reactive Co sites and OER activity was found on Co  2  Mn  Z  compounds (  Z  = Ti, Al, V, and Ga) whereby higher catalytic current was achieved with  e  g  orbital filling approaching to unity. A similar trend of  e  g  orbital filling on the reactivity of cobalt sites was also observed for other set of Heusler compounds (Co  2  V  Z  ,  Z  = Sn and Ga). This work demonstrates proof of concept of application of Heusler compounds as a new class of OER electrocatalyst and the influence of the manipulation of the spin orbitals on their catalytic performances.</dc:description>
-      <dc:creator>
-Mingquan Yu, 
-Guowei Li, 
-Chenguang Fu, 
-Enke Liu, 
-Kaustuv Manna, 
-Eko Budiyanto, 
-Qun Yang, 
-Claudia Felser, 
-Harun T&#252;ys&#252;z
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013610</link>
-      <content:encoded>&lt;p&gt;Heusler compounds have great potential in electrocatalysis due to their mechanical robustness, metallic conductivity, and wide tunability in the electronic structure and element compositions. This study reports the first application of Co  2  YZ  type Heusler compounds as electrocatalysts towards oxygen evolution reaction (OER). A range of Co  2  YZ  crystals was synthesized through the arc&#8208;melting method and the  e  g  orbital filling of Co was precisely regulated by varying  Y  and  Z  sites of the compound. A strong correlation between the  e  g  orbital filling of reactive Co sites and OER activity was found on Co  2  Mn  Z  compounds (  Z  = Ti, Al, V, and Ga) whereby higher catalytic current was achieved with  e  g  orbital filling approaching to unity. A similar trend of  e  g  orbital filling on the reactivity of cobalt sites was also observed for other set of Heusler compounds (Co  2  V  Z  ,  Z  = Sn and Ga). This work demonstrates proof of concept of application of Heusler compounds as a new class of OER electrocatalyst and the influence of the manipulation of the spin orbitals on their catalytic performances.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Tunable eg orbital occupancy in Heusler compounds for oxygen evolution reaction</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013610</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-10T12:00:00-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013610</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013610</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011429">
-      <title>A Functional Chemiluminescent Probe for in vivo Imaging of Natural Killer Cell Activity against Tumours</title>
-      <dc:description>Natural killer (NK) cells are innate immune cells that can directly kill certain types of cancer cells. Adoptive transfer of NK cells represents a novel and promising immunotherapy for malignant tumours; however, there is a lack of methods to validate anti&#8208;tumour activity of NK cells reaching target sites  in vivo. Herein we report a new chemiluminescent probe to image  in situ  the granzyme B&#8208;mediated killing activity of NK cells against cancer cells. We have optimised a granzyme B&#8208;specific construct using an activatable phenoxydioxetane reporter so that enzymatic cleavage of the probe results in bright chemiluminescence in the visible range. The probe shows high selectivity for active granzyme B over other proteases and higher signal&#8208;to&#8208;noise ratios than commercial fluorophores. Finally, we demonstrate that the probe can detect activity of NK cells in preclinical mouse models, being the first chemiluminescent probe for  in vivo  imaging of NK cell activity in live tumours.</dc:description>
-      <dc:creator>
-Jamie Scott, 
-Sara Gutkin, 
-Ori Green, 
-Emily  J. Thompson, 
-Takanori Kitamura, 
-Doron Shabat, 
-Marc Vendrell
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202011429</link>
-      <content:encoded>&lt;p&gt;Natural killer (NK) cells are innate immune cells that can directly kill certain types of cancer cells. Adoptive transfer of NK cells represents a novel and promising immunotherapy for malignant tumours; however, there is a lack of methods to validate anti&#8208;tumour activity of NK cells reaching target sites  in vivo. Herein we report a new chemiluminescent probe to image  in situ  the granzyme B&#8208;mediated killing activity of NK cells against cancer cells. We have optimised a granzyme B&#8208;specific construct using an activatable phenoxydioxetane reporter so that enzymatic cleavage of the probe results in bright chemiluminescence in the visible range. The probe shows high selectivity for active granzyme B over other proteases and higher signal&#8208;to&#8208;noise ratios than commercial fluorophores. Finally, we demonstrate that the probe can detect activity of NK cells in preclinical mouse models, being the first chemiluminescent probe for  in vivo  imaging of NK cell activity in live tumours.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Functional Chemiluminescent Probe for in vivo Imaging of Natural Killer Cell Activity against Tumours</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011429</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-10T12:00:00-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011429</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202011429</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
