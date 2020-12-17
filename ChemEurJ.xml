@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005296" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004535" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003556" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003261" />
@@ -181,7 +182,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004797" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004238" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004613" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004810" />
          </rdf:Seq>
       </items>
    </channel>
@@ -190,6 +190,29 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202005296">
+      <title>Cyclo&#8208;Ketal Xanthene Dyes: A New Class of Near&#8208;Infrared Fluorophores for Super&#8208;Resolution Imaging of Live Cells</title>
+      <dc:description>Newly emerging super&#8208;resolution imaging techniques provide opportunities for precise observations on cellular microstructures. However, they also impose severe demands on fluorophores. Here, we develop a new series of NIR xanthene dyes, named as KRhs, by replacing the 10&#8208;position O of rhodamines with a cyclo&#8208;ketal. KRhs display intense NIR emission peaked at 700 nm with fluorescence quantum yields up to 0.64. More importantly, they, without the aid of any enhancing buffer, exhibit stochastic fluorescence off&#8208;on switches to support time&#8208;resolved localization of single&#8208;fluorophore. KRhs are functionalized into KRh&#8208;MitoFix, KRh&#8208;Mem and KRh&#8208;Halo that demonstrate mitochondria, plasma membrane and fusion protein targeting ability respectively. Consequently, these KRh probes demonstrate straightforward usage for super&#8208;resolution imaging of these targets in live cells. Therefore, KRhs merit future development for fluorescence labeling and super&#8208;resolution imaging in the NIR region.</dc:description>
+      <dc:creator>
+Xinfu Zhang, 
+Lingcheng Chen, 
+Zhenlong Huang, 
+Ni Ling, 
+Yi Xiao
+</dc:creator>
+      <link>https://doi.org/10.1002/chem.202005296</link>
+      <content:encoded>&lt;p&gt;Newly emerging super&#8208;resolution imaging techniques provide opportunities for precise observations on cellular microstructures. However, they also impose severe demands on fluorophores. Here, we develop a new series of NIR xanthene dyes, named as KRhs, by replacing the 10&#8208;position O of rhodamines with a cyclo&#8208;ketal. KRhs display intense NIR emission peaked at 700 nm with fluorescence quantum yields up to 0.64. More importantly, they, without the aid of any enhancing buffer, exhibit stochastic fluorescence off&#8208;on switches to support time&#8208;resolved localization of single&#8208;fluorophore. KRhs are functionalized into KRh&#8208;MitoFix, KRh&#8208;Mem and KRh&#8208;Halo that demonstrate mitochondria, plasma membrane and fusion protein targeting ability respectively. Consequently, these KRh probes demonstrate straightforward usage for super&#8208;resolution imaging of these targets in live cells. Therefore, KRhs merit future development for fluorescence labeling and super&#8208;resolution imaging in the NIR region.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Cyclo&#8208;Ketal Xanthene Dyes: A New Class of Near&#8208;Infrared Fluorophores for Super&#8208;Resolution Imaging of Live Cells</dc:title>
+      <dc:identifier>doi:10.1002/chem.202005296</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-12-16T11:10:51-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202005296</prism:doi>
+      <prism:url>https://doi.org/10.1002/chem.202005296</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202005124">
       <title>Synthesis, Characterization of Spirocyclic &#955;3&#8208;Iodanes and Their Application to Prepare 4,1&#8208;Benzoxazepine&#8208;2,5&#8208;diones and 1,3&#8208;Diynes</title>
       <dc:description>Herein, a [3+2] cycloaddition of aza&#8208;oxyallylic cations with EBXs for synthesis of new&#160;&#160;l3&#8208;iodanes containing spirocyclic 4&#8208;oxazolidinone has been developed. This cyclic l3&#8208;iodanes display stability in air and excellent solubility in organic solvent. Using them as substrate, both the 4,1&#8208;benzoxazepine&#8208;2,5&#8208;diones and symmetrical 1,3&#8208;diynes derivatives were afforded in high yield under copper(I)&#8208;catalyzed conditions.</dc:description>
@@ -1720,29 +1743,5 @@ Changkun Li
       <prism:url>https://doi.org/10.1002/chem.202004613</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004810">
-      <title>Aerobic Copper&#8208;Catalyzed Salicylaldehydic Cformyl&#8211;H Arylations with Arylboronic Acids</title>
-      <dc:description>We report a challenging copper&#8208;catalyzed Cformyl&#8722;H arylation of salicylaldehydes with arylboronic acids, which involves unique salicylaldehydic copper&#8208;species differing from reported salicylaldehydic rhodacycle and palladacycle. Also, this protocol has high chemoselectivity for the Cformyl&#8722;H bond compared to the phenolic O&#8722;H bond involving copper catalysis under high reaction temperature. This approach is compatible with a wide range of salicylaldehyde and arylboronic acid substrates, including estrone and carbazole derivatives, which leads to corresponding arylation products. Mechanistic studies show that 2&#8208;hydroxy group of salicylaldehyde substrate triggers the formation of salicylaldehydic copper complexes via Cu(I)/Cu(II)/Cu(III) catalytic cycle.</dc:description>
-      <dc:creator>
-Lin Xiao, 
-Tao-Tao Lang, 
-Ying Jiang, 
-Zhong-Lin Zang, 
-Cheng-He Zhou, 
-Gui-Xin Cai
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202004810</link>
-      <content:encoded>&lt;p&gt;We report a challenging copper&#8208;catalyzed Cformyl&#8722;H arylation of salicylaldehydes with arylboronic acids, which involves unique salicylaldehydic copper&#8208;species differing from reported salicylaldehydic rhodacycle and palladacycle. Also, this protocol has high chemoselectivity for the Cformyl&#8722;H bond compared to the phenolic O&#8722;H bond involving copper catalysis under high reaction temperature. This approach is compatible with a wide range of salicylaldehyde and arylboronic acid substrates, including estrone and carbazole derivatives, which leads to corresponding arylation products. Mechanistic studies show that 2&#8208;hydroxy group of salicylaldehyde substrate triggers the formation of salicylaldehydic copper complexes via Cu(I)/Cu(II)/Cu(III) catalytic cycle.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Aerobic Copper&#8208;Catalyzed Salicylaldehydic Cformyl&#8211;H Arylations with Arylboronic Acids</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004810</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-12-02T03:42:06-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004810</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004810</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
 </rdf:RDF>
