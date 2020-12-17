@@ -9,6 +9,10 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014780" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014196" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014449" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015790" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016102" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013940" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015326" />
@@ -209,10 +213,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014397" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014567" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013380" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013465" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015116" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013927" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013117" />
          </rdf:Seq>
       </items>
    </channel>
@@ -221,6 +221,100 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202014780">
+      <title>Photochemical Electrocyclization of Poly(phenylacetylene)s: Unwinding Helices to Elucidate their 3D&#8208;Structure in Solution</title>
+      <dc:description>Photochemical electrocyclization of poly(phenylacetylene)s (PPAs) is presented as a new tool for the structural elucidation of a polyene backbone, where important structural information such as w1 can be obtained. This new methodology allows not only the classification of PPAs in cis&#8208;cisoidal (&#969;1&lt; 90&#176;) or cis&#8208;transoidal structures (&#969;1&gt; 90&#176;), but also to obtain the approximate value of &#969;1, a crucial helical parameter. The process involves the irradiating a dilute PPA solution with visible light and monitoring the photochemical electrocyclization of the PPA helix by measuring the ECD spectra at different times. Thus, PPAs with a cis&#8208;cisoidal structure show a reduction of the ECD signal of at least 50% before 30 min of irradiation, while cis&#8208;transoidal helices need much longer time because the transoidal bond must be isomerized to cisoidal before the photochemical electrocyclization of the helix takes place. Moreover, the different cis&#8208;cisoidal and cis&#8208;transoidal helices require different times to decrease their ECD signal by 50% (t1/2), depending on the degree of compression or stretching of the helix, a fact that allows establishing a relationship between the secondary structure adopted by the PPA (&#969;1) and the time required to lose the ECD vinylic signal by light irradiation. This process also permits the detection and identification of different helical scaffolds that can coexist in some solutions of the polymers.</dc:description>
+      <dc:creator>
+Felix Freire, 
+Emilio Qui&#241;o&#225;, 
+Ricardo Riguera, 
+Rafael Rodr&#237;guez, 
+Francisco Rey-Tarr&#237;o
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014780</link>
+      <content:encoded>&lt;p&gt;Photochemical electrocyclization of poly(phenylacetylene)s (PPAs) is presented as a new tool for the structural elucidation of a polyene backbone, where important structural information such as w1 can be obtained. This new methodology allows not only the classification of PPAs in cis&#8208;cisoidal (&#969;1&amp;lt; 90&#176;) or cis&#8208;transoidal structures (&#969;1&amp;gt; 90&#176;), but also to obtain the approximate value of &#969;1, a crucial helical parameter. The process involves the irradiating a dilute PPA solution with visible light and monitoring the photochemical electrocyclization of the PPA helix by measuring the ECD spectra at different times. Thus, PPAs with a cis&#8208;cisoidal structure show a reduction of the ECD signal of at least 50% before 30 min of irradiation, while cis&#8208;transoidal helices need much longer time because the transoidal bond must be isomerized to cisoidal before the photochemical electrocyclization of the helix takes place. Moreover, the different cis&#8208;cisoidal and cis&#8208;transoidal helices require different times to decrease their ECD signal by 50% (t1/2), depending on the degree of compression or stretching of the helix, a fact that allows establishing a relationship between the secondary structure adopted by the PPA (&#969;1) and the time required to lose the ECD vinylic signal by light irradiation. This process also permits the detection and identification of different helical scaffolds that can coexist in some solutions of the polymers.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Photochemical Electrocyclization of Poly(phenylacetylene)s: Unwinding Helices to Elucidate their 3D&#8208;Structure in Solution</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014780</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T10:40:19-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014780</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014780</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202014196">
+      <title>Room&#8208;temperature Palladium&#8208;Catalyzed Deuterogenolysis of Carbon Oxygen Bonds towards Deuterated Pharmaceuticals</title>
+      <dc:description>Site&#8208;specific incorporation of deuterium into drug molecules to study and improve their biological properties is crucial for drug discovery and development. Herein, we describe a palladium&#8208;catalyzed room&#8208;temperature deuterogenolysis of carbon&#8208;oxygen bonds in alcohols and ketones with D  2  balloon for practical synthesis of deuterated pharmaceuticals and chemicals with benzyl&#8208;site (sp  3  C&#8208;H) D&#8208;incorporation. The highlights of this deoxygenative deuteration strategy are mild conditions, broad scope, practicability and high chemoselectivity. To enable the direct use of D  2  O, electrocatalytic D  2  O&#8208;splitting is adapted to  in&#8208;situ  supply D  2  on demand. With this system, the precise incorporation of deuterium in the metabolic position (benzyl&#8208;site) of ibuprofen is demonstrated in a sustainable and practical way with D  2  O.</dc:description>
+      <dc:creator>
+Wei Ou, 
+Xudong Xiang, 
+Ru Zou, 
+Qing Xu, 
+Kian  Ping Loh, 
+Chenliang Su
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014196</link>
+      <content:encoded>&lt;p&gt;Site&#8208;specific incorporation of deuterium into drug molecules to study and improve their biological properties is crucial for drug discovery and development. Herein, we describe a palladium&#8208;catalyzed room&#8208;temperature deuterogenolysis of carbon&#8208;oxygen bonds in alcohols and ketones with D  2  balloon for practical synthesis of deuterated pharmaceuticals and chemicals with benzyl&#8208;site (sp  3  C&#8208;H) D&#8208;incorporation. The highlights of this deoxygenative deuteration strategy are mild conditions, broad scope, practicability and high chemoselectivity. To enable the direct use of D  2  O, electrocatalytic D  2  O&#8208;splitting is adapted to  in&#8208;situ  supply D  2  on demand. With this system, the precise incorporation of deuterium in the metabolic position (benzyl&#8208;site) of ibuprofen is demonstrated in a sustainable and practical way with D  2  O.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Room&#8208;temperature Palladium&#8208;Catalyzed Deuterogenolysis of Carbon Oxygen Bonds towards Deuterated Pharmaceuticals</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014196</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T10:09:26-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014196</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014196</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202014449">
+      <title>[Mo3S13]2&#8211; as a Model System for Hydrogen Evolution Catalysis by MoSx: Probing Protonation Sites in the Gas Phase by Infrared Multiple Photon Dissociation Spectroscopy</title>
+      <dc:description>Molybdenum sulfide based materials are known as efficient hydrogen evolution reaction (HER) catalysts. As the binding site for H atoms on molybdenum sulfide for the catalytic process is under debate, [HMo  3  S  13  ]  &#8211;  is an interesting molecular model system to address this question. Herein, we probe the [HMo  3  S  13  ]  &#8211;  cluster in the gas phase by coupling Fourier transform ion cyclotron resonance mass spectrometry (FT&#8208;ICR MS) with infrared multiple photon dissociation (IRMPD) spectroscopy. Our investigations show one distinct S&#8208;H stretching vibration at 2450&#160;cm  &#8211;1  . Thermochemical arguments based on DFT calculations strongly suggest a terminal disulfide unit as the H adsorption site.</dc:description>
+      <dc:creator>
+Aristeidis Baloglou, 
+Manuel Plattner, 
+Milan On&#269;&#225;k, 
+Marie-Luise Grutza, 
+Philipp Kurz, 
+Martin  K. Beyer
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014449</link>
+      <content:encoded>&lt;p&gt;Molybdenum sulfide based materials are known as efficient hydrogen evolution reaction (HER) catalysts. As the binding site for H atoms on molybdenum sulfide for the catalytic process is under debate, [HMo  3  S  13  ]  &#8211;  is an interesting molecular model system to address this question. Herein, we probe the [HMo  3  S  13  ]  &#8211;  cluster in the gas phase by coupling Fourier transform ion cyclotron resonance mass spectrometry (FT&#8208;ICR MS) with infrared multiple photon dissociation (IRMPD) spectroscopy. Our investigations show one distinct S&#8208;H stretching vibration at 2450&#160;cm  &#8211;1  . Thermochemical arguments based on DFT calculations strongly suggest a terminal disulfide unit as the H adsorption site.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>[Mo3S13]2&#8211; as a Model System for Hydrogen Evolution Catalysis by MoSx: Probing Protonation Sites in the Gas Phase by Infrared Multiple Photon Dissociation Spectroscopy</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014449</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T10:02:10-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014449</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014449</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202015790">
+      <title>Trending Today in Metal&#8208;Organic and Covalent Organic Framework Membrane Materials</title>
+      <dc:description>Metal&#8208;Organic Frameworks (MOFs) and Covalent Organic Frameworks (COFs) have been thoroughly investigated on their applications in gas separation membranes throughout the years. Since then state&#8208;of&#8208;the&#8208;art preparation methods for MOFs and COFs as particles and thin film membranes, as well as for mixed matrix membranes (MMMs) have been developed. We will be highlighting novel processes and shaped materials: Zeolitic imidazolate frameworks (ZIFs) can be transformed to glasses and we will give an insight into their use for membranes. In addition, liquids with permanent porosity offer solution processability to manufacture extremely potent MMMs. Also, MOF materials influenced by external stimuli give new directions towards enhancement of performance by in&#8208;situ techniques. Presently, COFs with their large pores getting useful in quantum sieving applications, and by exploiting the stacking behaviour also molecular sieving COF membranes are possible. Similarly, porous polymers can be constructed using MOF templates, which then find use in gas separation membranes.</dc:description>
+      <dc:creator>
+Bahram Hosseini Monjezi, 
+Ksenia Kutonova, 
+Manuel Tsotsalas, 
+Sebastian Henke, 
+Alexander Knebel
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202015790</link>
+      <content:encoded>&lt;p&gt;Metal&#8208;Organic Frameworks (MOFs) and Covalent Organic Frameworks (COFs) have been thoroughly investigated on their applications in gas separation membranes throughout the years. Since then state&#8208;of&#8208;the&#8208;art preparation methods for MOFs and COFs as particles and thin film membranes, as well as for mixed matrix membranes (MMMs) have been developed. We will be highlighting novel processes and shaped materials: Zeolitic imidazolate frameworks (ZIFs) can be transformed to glasses and we will give an insight into their use for membranes. In addition, liquids with permanent porosity offer solution processability to manufacture extremely potent MMMs. Also, MOF materials influenced by external stimuli give new directions towards enhancement of performance by in&#8208;situ techniques. Presently, COFs with their large pores getting useful in quantum sieving applications, and by exploiting the stacking behaviour also molecular sieving COF membranes are possible. Similarly, porous polymers can be constructed using MOF templates, which then find use in gas separation membranes.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Trending Today in Metal&#8208;Organic and Covalent Organic Framework Membrane Materials</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015790</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-17T09:44:19-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202015790</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015790</prism:url>
+      <prism:copyright />
+      <prism:section>Minireview</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202016102">
       <title>Two Dimensional Porous Molybdenum Phosphide/Nitride Heterojunction Nanosheets for pH&#8208;Universal Hydrogen Evolution Reaction</title>
       <dc:description>The morphology and heterojunction engineering of Mo&#8208;based catalysts are intensively pursued for effective hydrogen evolution reaction (HER), but it remains a challenge to achieve the two targets simultaneously. Herein, we show a new strategy toward the synthesis of two&#8208;dimensional (2D) porous MoP/Mo2N heterojunction nanosheets based on the pyrolysis of 2D [PMo12O40]3&#8203;&#8208;  &#8208;melamine (PMo12&#8208;MA) nanosheet precursor from a polyethylene glycol (PEG)&#8208;mediated assembly route. The heterostructure nanosheets is about 20 nm thick and has plentiful pores (&lt; 5 nm). These structure features offer several advantages to promote the HER activity, including the favourable water dissociation kinetics around heterojunction as confirmed by theoretical calculations, large accessible surface of 2D nanosheets and enhanced mass&#8208;transport ability by pores. Consequently, the 2D porous MoP/Mo2N heterojunction nanosheets exhibits excellent HER activity with low overpotentials of 89, 91 and 89 mV to achieve a current density of 10 mA cm&#8208;2  in alkaline, neutral and acidic electrolytes, respectively. In particular, its HER performance is superior to the commercial Pt/C at a current density &gt; 55 mA cm&#8208;2  in neutral medium and &gt;190 mA cm&#8208;2  in alkaline medium. This work is promising for construction of 2D porous heterostructured catalysts.</dc:description>
@@ -2050,79 +2144,4 @@ Milan Kivala
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202015116">
-      <title>Activatable Polymeric Nanoprobe for Near&#8208;Infrared Fluorescence and Photoacoustic Imaging of T Lymphocytes</title>
-      <dc:description>Development of real&#8208;time non&#8208;invasive imaging probes to assess infiltration and activation of cytotoxic T cells (CTLs) is critical to predict the efficacy of cancer immunotherapy, which however remains challenging. We herein report an activatable semiconducting polymer nanoprobe (SPNP) for near&#8208;infrared florescence (NIRF) and photoacoustic (PA) imaging of a biomarker (granzyme B) associated with activation of CTLs. SPNP comprises a semiconducting polymer (SP) conjugated with a granzyme B cleavable and dye&#8208;labeled peptide as the side chain, both of which emit NIRF and PA signals. After systemic administration, SPNP passively targets the tumor and in&#8208;situ reacts with granzyme B to release the dye&#8208;labeled peptide, leading to decreased NIRF and PA signals from the dye but unchanged signals from the polymer. Such ratiometric NIRF and PA signals of SPNP correlate well with the expression level of granzyme B and intratumoral population of CTLs. Thus, this study not only presents the first PA probes for&#160;  in vivo  &#160;imaging of immune activation but also provides a molecular design strategy that can be generalized for molecular imaging of other immune&#8208;related biomarkers.</dc:description>
-      <dc:creator>
-Yan Zhang, 
-Qingqing Miao, 
-Kanyi Pu
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202015116</link>
-      <content:encoded>&lt;p&gt;Development of real&#8208;time non&#8208;invasive imaging probes to assess infiltration and activation of cytotoxic T cells (CTLs) is critical to predict the efficacy of cancer immunotherapy, which however remains challenging. We herein report an activatable semiconducting polymer nanoprobe (SPNP) for near&#8208;infrared florescence (NIRF) and photoacoustic (PA) imaging of a biomarker (granzyme B) associated with activation of CTLs. SPNP comprises a semiconducting polymer (SP) conjugated with a granzyme B cleavable and dye&#8208;labeled peptide as the side chain, both of which emit NIRF and PA signals. After systemic administration, SPNP passively targets the tumor and in&#8208;situ reacts with granzyme B to release the dye&#8208;labeled peptide, leading to decreased NIRF and PA signals from the dye but unchanged signals from the polymer. Such ratiometric NIRF and PA signals of SPNP correlate well with the expression level of granzyme B and intratumoral population of CTLs. Thus, this study not only presents the first PA probes for&#160;  in vivo  &#160;imaging of immune activation but also provides a molecular design strategy that can be generalized for molecular imaging of other immune&#8208;related biomarkers.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Activatable Polymeric Nanoprobe for Near&#8208;Infrared Fluorescence and Photoacoustic Imaging of T Lymphocytes</dc:title>
-      <dc:identifier>doi:10.1002/anie.202015116</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-10T11:59:33-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202015116</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202015116</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013927">
-      <title>A Systematic Study of Unsaturation in Lipid Nanoparticles Leads to Improved mRNA Transfection In Vivo</title>
-      <dc:description>Lipid nanoparticles (LNPs) represent the leading concept for mRNA delivery. Unsaturated lipids play important roles in nature with potential for mRNA therapeutics but are difficult to access through chemical synthesis. To systematically study the role of unsaturation, modular reactions were utilized to access a library of 91 amino lipids, enabled by the synthesis of unsaturated thiols. An ionizable lipid series (4A3) emerged from  in vitro  and  in vivo  screening, where the 4A3 core with a citronellol&#8208;based (Cit) periphery emerged as best. We studied the interaction between LNPs and a model endosomal membrane where 4A3&#8208;Cit demonstrated superior lipid fusion over saturated lipids, suggesting its unsaturated tail promotes endosomal escape. Furthermore, 4A3&#8208;Cit significantly improved mRNA delivery efficacy  in vivo  via Selective ORgan Targeting (SORT), resulting in 18&#8208;fold increased protein expression over parent LNPs. These findings provide insight into how lipid unsaturation promotes mRNA delivery and demonstrate how lipid mixing can enhance efficacy.</dc:description>
-      <dc:creator>
-Sang Lee, 
-Qiang Cheng, 
-Xueliang Yu, 
-Shuai Liu, 
-Lindsay Johnson, 
-Daniel  John Siegwart
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013927</link>
-      <content:encoded>&lt;p&gt;Lipid nanoparticles (LNPs) represent the leading concept for mRNA delivery. Unsaturated lipids play important roles in nature with potential for mRNA therapeutics but are difficult to access through chemical synthesis. To systematically study the role of unsaturation, modular reactions were utilized to access a library of 91 amino lipids, enabled by the synthesis of unsaturated thiols. An ionizable lipid series (4A3) emerged from  in vitro  and  in vivo  screening, where the 4A3 core with a citronellol&#8208;based (Cit) periphery emerged as best. We studied the interaction between LNPs and a model endosomal membrane where 4A3&#8208;Cit demonstrated superior lipid fusion over saturated lipids, suggesting its unsaturated tail promotes endosomal escape. Furthermore, 4A3&#8208;Cit significantly improved mRNA delivery efficacy  in vivo  via Selective ORgan Targeting (SORT), resulting in 18&#8208;fold increased protein expression over parent LNPs. These findings provide insight into how lipid unsaturation promotes mRNA delivery and demonstrate how lipid mixing can enhance efficacy.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Systematic Study of Unsaturation in Lipid Nanoparticles Leads to Improved mRNA Transfection In Vivo</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013927</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-10T07:24:02-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013927</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013927</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013117">
-      <title>Robust Supramolecular Nano&#8208;tunnels Built from Molecular Bricks</title>
-      <dc:description>Chemists are always seeking new methods to construct porous lattice frameworks from simple motifs. To date, the most common tectons of reported porous frameworks are predesigned multi&#8208;armed scaffolds with  C3,  C4  or  C6  symmetry. Linear two&#8208;armed tectons with  C2  symmetry are easier to synthesize but cannot form porous architectures by themself, unless combined with tectons of different symmetry. Herein we report a linear ionic molecule that assembles into a supramolecular nano&#8208;tunnel structure through synergy of trident&#8208;type ionic interactions and &#960;&#8208;&#960; stacking interactions. The nano&#8208;tunnel crystal exhibits anisotropic guest adsorption behavior. The material shows good thermal stability and undergoes multi&#8208;stage single&#8208;crystal&#8208;to&#8208;single&#8208;crystal phase transformations to a nonporous structure on heating. The material exhibits remarkable chemical stability in both acidic and basic conditions, which is rarely observed in supramolecular organic frameworks and is often related to structures with designed hydrogen bonding interactions. Because of the high polarity of the tunnels, this molecular crystal also shows a large CO2  adsorption capacity while excluding other gases at ambient temperature, leading to high CO2  /CH4  selectivity. The aggregation&#8208;induced emission feature of the molecules gives the bulk crystals vapochromic behavior.</dc:description>
-      <dc:creator>
-Peifa Wei, 
-Xuan He, 
-Zheng Zheng, 
-Donglin He, 
-Qiyao Li, 
-Junyi Gong, 
-Jun Zhang, 
-Herman  H. Y. Sung, 
-Ian  D. Williams, 
-Jacky  W. Y. Lam, 
-Ming Liu, 
-Ben  Zhong Tang
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013117</link>
-      <content:encoded>&lt;p&gt;Chemists are always seeking new methods to construct porous lattice frameworks from simple motifs. To date, the most common tectons of reported porous frameworks are predesigned multi&#8208;armed scaffolds with  C3,  C4  or  C6  symmetry. Linear two&#8208;armed tectons with  C2  symmetry are easier to synthesize but cannot form porous architectures by themself, unless combined with tectons of different symmetry. Herein we report a linear ionic molecule that assembles into a supramolecular nano&#8208;tunnel structure through synergy of trident&#8208;type ionic interactions and &#960;&#8208;&#960; stacking interactions. The nano&#8208;tunnel crystal exhibits anisotropic guest adsorption behavior. The material shows good thermal stability and undergoes multi&#8208;stage single&#8208;crystal&#8208;to&#8208;single&#8208;crystal phase transformations to a nonporous structure on heating. The material exhibits remarkable chemical stability in both acidic and basic conditions, which is rarely observed in supramolecular organic frameworks and is often related to structures with designed hydrogen bonding interactions. Because of the high polarity of the tunnels, this molecular crystal also shows a large CO2  adsorption capacity while excluding other gases at ambient temperature, leading to high CO2  /CH4  selectivity. The aggregation&#8208;induced emission feature of the molecules gives the bulk crystals vapochromic behavior.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Robust Supramolecular Nano&#8208;tunnels Built from Molecular Bricks</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013117</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-10T04:57:39-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013117</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013117</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-</rdf:RDF>
+   </rdf:RDF>
