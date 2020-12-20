@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014933" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014417" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014871" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015902" />
@@ -212,7 +213,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013027" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009479" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015238" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014609" />
          </rdf:Seq>
       </items>
    </channel>
@@ -221,6 +221,38 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202014933">
+      <title>Singlet&#8208;contrast magnetic resonance imaging: unlocking hyperpolarization with metabolism</title>
+      <dc:description>Hyperpolarization&#8208;enhanced magnetic resonance imaging can be used to study biomolecular processes in the body, but typically requires nuclei such as  13  C,  15  N, or  129  Xe due to their long spin&#8209;polarization lifetimes and the absence of a proton&#8209;background signal from water and fat in the images. Here we present a novel type of  1  H imaging, in which hyperpolarized spin order is locked in a nonmagnetic long&#8208;lived correlated (singlet) state, and is only liberated for imaging by a specific biochemical reaction. In this work we produce hyperpolarized fumarate via chemical reaction of a precursor molecule with  para  &#8208;enriched hydrogen gas, and the proton singlet order in fumarate is released as antiphase NMR signals by enzymatic conversion to malate in D  2  O. Using this model system we show two pulse sequences to rephase the NMR signals for imaging and suppress the background signals from water. The hyperpolarization&#8208;enhanced  1  H&#8209;imaging modality presented here can allow for hyperpolarized imaging without the need for low&#8209;abundance, low&#8209;sensitivity heteronuclei.</dc:description>
+      <dc:creator>
+James Eills, 
+Eleonora Cavallari, 
+Raphael Kircher, 
+Ginevra Di Matteo, 
+Carla Carrera, 
+Laurynas Dagys, 
+Malcolm  H Levitt, 
+Konstantin  L Ivanov, 
+Silvio Aime, 
+Francesca Reineri, 
+Kerstin M&#252;nnemann, 
+Dmitry Budker, 
+Gerd Buntkowsky, 
+Stephan Knecht
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014933</link>
+      <content:encoded>&lt;p&gt;Hyperpolarization&#8208;enhanced magnetic resonance imaging can be used to study biomolecular processes in the body, but typically requires nuclei such as  13  C,  15  N, or  129  Xe due to their long spin&#8209;polarization lifetimes and the absence of a proton&#8209;background signal from water and fat in the images. Here we present a novel type of  1  H imaging, in which hyperpolarized spin order is locked in a nonmagnetic long&#8208;lived correlated (singlet) state, and is only liberated for imaging by a specific biochemical reaction. In this work we produce hyperpolarized fumarate via chemical reaction of a precursor molecule with  para  &#8208;enriched hydrogen gas, and the proton singlet order in fumarate is released as antiphase NMR signals by enzymatic conversion to malate in D  2  O. Using this model system we show two pulse sequences to rephase the NMR signals for imaging and suppress the background signals from water. The hyperpolarization&#8208;enhanced  1  H&#8209;imaging modality presented here can allow for hyperpolarized imaging without the need for low&#8209;abundance, low&#8209;sensitivity heteronuclei.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Singlet&#8208;contrast magnetic resonance imaging: unlocking hyperpolarization with metabolism</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014933</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-19T11:40:21-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014933</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014933</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014417">
       <title>Chemically Fueled Volume Phase Transition of Polyacid Microgels</title>
       <dc:description>Microgels are soft colloids that show responsive behavior and are easy to functionalize for applications. They are considered key components for future smart colloidal material systems. However, so far microgel systems have almost exclusively been studied in classical responsive switching settings using external triggers, while internally organized, autonomous control mechanisms as found in supramolecular chemistry and DNA nanotechnology relying on fuel&#8208;driven out&#8208;of&#8208;equilibrium concepts have not been implemented into microgel systems. Here, we introduce chemically fueled transient volume phase transitions (VPTs) for poly(methacrylic acid) (PMAA) microgels, where the collapsed hydrophobic state can be programmed using the fuel concentration in a cyclic reaction network. We discuss details of the system behavior as a function of pH and fuel amount, unravel kinetically trapped regions and showcase transient encapsulation and time&#8208;programmed release as a first application.</dc:description>
