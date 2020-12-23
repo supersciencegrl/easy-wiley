@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013997" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016364" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015856" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015083" />
@@ -196,7 +197,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012997" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014881" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015571" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014605" />
          </rdf:Seq>
       </items>
    </channel>
@@ -205,6 +205,28 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202013997">
+      <title>Triazenation Unable Selective Reaction of Secondary Amines (TrUSS) for Tagging Monomethyl Lysine PTMs</title>
+      <dc:description>Lysine monomethylation Kme is an impactful post&#8208;translational modification PTM responsible for regulating biological processes and implicated in diseases thus there is great interest in identifying these methylation marks globally. However, the progress in this area has been challenging because the addition of a small methyl group on lysine leads to negligible change in the bulk, charge and hydrophobicity. Here, we report an empowering chemical technology  Tr  iazenation  U  nable  S  elective reaction of  S  econdary amines &#8220;TrUSS&#8221;, using arene diazonium salts to achieve highly selective, rapid, and robust tagging of Kme peptides from a complex mixture under biocompatible conditions. Although the resulting triazene&#8208;linkage with Kme is stable, we highlight the efficient decoupling of triazene&#8208;conjugate to afford unmodified starting components under mild conditions when desired. Our work establishes a unique chemoselective &#8220;traceless&#8221; bioconjugation strategy for selective enrichment of Kme PTMs.</dc:description>
+      <dc:creator>
+Monika Raj, 
+Ogonna Nwajiobi, 
+Sriram Mahesh, 
+Xavier Streety
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202013997</link>
+      <content:encoded>&lt;p&gt;Lysine monomethylation Kme is an impactful post&#8208;translational modification PTM responsible for regulating biological processes and implicated in diseases thus there is great interest in identifying these methylation marks globally. However, the progress in this area has been challenging because the addition of a small methyl group on lysine leads to negligible change in the bulk, charge and hydrophobicity. Here, we report an empowering chemical technology  Tr  iazenation  U  nable  S  elective reaction of  S  econdary amines &#8220;TrUSS&#8221;, using arene diazonium salts to achieve highly selective, rapid, and robust tagging of Kme peptides from a complex mixture under biocompatible conditions. Although the resulting triazene&#8208;linkage with Kme is stable, we highlight the efficient decoupling of triazene&#8208;conjugate to afford unmodified starting components under mild conditions when desired. Our work establishes a unique chemoselective &#8220;traceless&#8221; bioconjugation strategy for selective enrichment of Kme PTMs.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Triazenation Unable Selective Reaction of Secondary Amines (TrUSS) for Tagging Monomethyl Lysine PTMs</dc:title>
+      <dc:identifier>doi:10.1002/anie.202013997</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2020-12-22T10:50:39-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202013997</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202013997</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202016364">
       <title>Calix[4]pyrrole&#8208;Crosslinked Porous Polymeric Networks for Micropollutant Removal from Water</title>
       <dc:description>Three calix[4]pyrrole&#8208;based porous organic polymers (P1&#8208;P3) have been prepared with the goal of removing organic micropollutants from water. A bowl&#8208;shaped &#945;,&#945;,&#945;,&#945;&#8208;tetraalkynyl calix[4]pyrrole and diketopyrrolopyrrole monomer were crosslinked via Sonogashira coupling to produce a three&#8208;dimensional network polymer P1. This polymer, which proved too hydrophobic for use as an adsorbent, was converted to the corresponding neutral polymer P2 (containing carboxylic acid groups) and its anionic derivative (polymer P3 containing carboxylate anion groups) through post&#8208;polymerization structural modification of the pendent tert&#8208;butyl esters. The anionic polymer P3 outperformed its precursor neutral polymer P2 as determined from screening studies involving a variety of model organic micropollutants of different charge, hydrophilicity and functionality, including dyes, simple aromatics, and two cationic pesticides. Polymer P3 proved particularly effective for cationic micropollutants. The theoretical maximum adsorption capacity (qmax,e) of P3 determined from the corresponding Langmuir isotherms reached 454 mg g&#8208;1 for the dye methylene blue, 344 mg g&#8208;1 for the pesticide paraquat, and 495 mg g&#8208;1 for diquat, respectively. These uptake values are signi&#64257;cantly higher than those of most synthetic adsorbent materials reported to date. The present findings thus lend support to the conclusion that calix[4]pyrrole&#8208;based porous organic polymers may have a role to play in water puri&#64257;cation.</dc:description>
@@ -1795,30 +1817,5 @@ Jian-Feng Li
       <prism:url>https://doi.org/10.1002/anie.202015571</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202014605">
-      <title>Pd0&#8208;catalyzed Enantioselective Intramolecular Arylation of Enantiotopic Secondary C&#8211;H Bonds</title>
-      <dc:description>The enantioselective functionalization of nonactivated enantiotopic secondary C&#8211;H bonds is one of the greatest challenges in transition&#8208;metal&#8208;catalyzed C&#8211;H activation proceeding via an inner&#8208;sphere mechanism. Notably, such reactions have remained elusive within the realm of palladium(0)&#8208;catalysis. Here we report that&#160;  N  &#8208;heterocyclic carbene ligands from the IBiox family display a unique reactivity profile in the Pd  0  &#8208;catalyzed intramolecular arylation of such nonactivated secondary C&#8211;H bonds. Chiral C  2  &#8208;symmetric IBiox ligands allowed to achieve high enantioselectivities for a broad range of valuable indane products containig a tertiary stereocenter. Similar reaction conditions were applicable to the arylation of secondary C&#8211;H bonds adjacent to amides. Depending on the amide substituents and upon control of reaction time, indanes containing a labile tertiary stereocenters were also obtained with high enantioselectivities. Analysis of the steric maps of the IBiox ligands indicated that the level of enantioselectivity correlates with the difference between the two most occupied and the two less occupied space quadrants, and provided a blueprint for the design of even more efficient ligands.</dc:description>
-      <dc:creator>
-Romain Melot, 
-Marco Zuccarello, 
-Diana Cavalli, 
-Nadja Niggli, 
-Michael Devereux, 
-Thomas B&#252;rgi, 
-Olivier Baudoin
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202014605</link>
-      <content:encoded>&lt;p&gt;The enantioselective functionalization of nonactivated enantiotopic secondary C&#8211;H bonds is one of the greatest challenges in transition&#8208;metal&#8208;catalyzed C&#8211;H activation proceeding via an inner&#8208;sphere mechanism. Notably, such reactions have remained elusive within the realm of palladium(0)&#8208;catalysis. Here we report that&#160;  N  &#8208;heterocyclic carbene ligands from the IBiox family display a unique reactivity profile in the Pd  0  &#8208;catalyzed intramolecular arylation of such nonactivated secondary C&#8211;H bonds. Chiral C  2  &#8208;symmetric IBiox ligands allowed to achieve high enantioselectivities for a broad range of valuable indane products containig a tertiary stereocenter. Similar reaction conditions were applicable to the arylation of secondary C&#8211;H bonds adjacent to amides. Depending on the amide substituents and upon control of reaction time, indanes containing a labile tertiary stereocenters were also obtained with high enantioselectivities. Analysis of the steric maps of the IBiox ligands indicated that the level of enantioselectivity correlates with the difference between the two most occupied and the two less occupied space quadrants, and provided a blueprint for the design of even more efficient ligands.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Pd0&#8208;catalyzed Enantioselective Intramolecular Arylation of Enantiotopic Secondary C&#8211;H Bonds</dc:title>
-      <dc:identifier>doi:10.1002/anie.202014605</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-16T03:09:23-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202014605</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202014605</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
 </rdf:RDF>
