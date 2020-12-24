@@ -9,6 +9,7 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004818" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004822" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003875" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003678" />
@@ -171,7 +172,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004781" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004045" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005130" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004646" />
          </rdf:Seq>
       </items>
    </channel>
@@ -180,6 +180,28 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213765</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202004818">
+      <title>Deciphering the chemical basis of fluorescence of a selenium&#8208;labeled uracil probe when bound at the bacterial ribosomal&#160;A&#8208;site</title>
+      <dc:description>We unveil in this work the main factors that govern the turn&#8208;on/off fluorescence of a Se&#8208;modified uracil probe at the ribosomal RNA A&#8208;site. Whereas the constraint into an 'in&#8208;plane'&#160;conformation of the two rings of the fluorophore is the main driver for the observed turn&#8208;on fluorescence emission in the presence of the antibiotics paromomycin, the electrostatics of the environment plays a minor role during the emission process. Our computational strategy clearly indicates that in the absence of paramomycin, the probe prefers conformations that show a dark S1&#160;electronic state with participation of npi* electronic transition contributions between the selenium atom and the pi&#8208;system of the uracil moiety.</dc:description>
+      <dc:creator>
+Gustavo Cardenas, 
+Maximilian F. S. J. Menger, 
+Nicol&#225;s Ramos-Berdullas, 
+Pedro A. S&#225;nchez-Murcia
+</dc:creator>
+      <link>https://doi.org/10.1002/chem.202004818</link>
+      <content:encoded>&lt;p&gt;We unveil in this work the main factors that govern the turn&#8208;on/off fluorescence of a Se&#8208;modified uracil probe at the ribosomal RNA A&#8208;site. Whereas the constraint into an 'in&#8208;plane'&#160;conformation of the two rings of the fluorophore is the main driver for the observed turn&#8208;on fluorescence emission in the presence of the antibiotics paromomycin, the electrostatics of the environment plays a minor role during the emission process. Our computational strategy clearly indicates that in the absence of paramomycin, the probe prefers conformations that show a dark S1&#160;electronic state with participation of npi* electronic transition contributions between the selenium atom and the pi&#8208;system of the uracil moiety.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Deciphering the chemical basis of fluorescence of a selenium&#8208;labeled uracil probe when bound at the bacterial ribosomal&#160;A&#8208;site</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004818</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-12-23T07:19:24-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004818</prism:doi>
+      <prism:url>https://doi.org/10.1002/chem.202004818</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202004822">
       <title>Coordination Complexes to Combat Bacterial Infections: Recent Developments, Current Directions and Future Opportunities</title>
       <dc:description>Drug discovery aimed at the efficient eradication of life&#8208;threatening bacterial infections, especially in light of the emergence of multi&#8208;drug resistance of pathogenic bacteria, has remained a challenge for medicinal chemists over the past several decades. As nutrient acquisition and metabolism at the host&#8208;pathogen interface become better elucidated, new drug targets continue to emerge. Metal homeostasis is among these processes, and thus provides opportunities for medicinal inorganic chemists to alter or disrupt these processes selectively to impart bacteriostatic or bacteriotoxic effects. In this minireview, we showcase some of the recent work from the field of metal&#8208;based antibacterial agents and highlight divergent strategies and mechanisms of action.</dc:description>
@@ -1832,27 +1854,5 @@ David Maurer
       <prism:url>https://doi.org/10.1002/chem.202005130</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004646">
-      <title>From Carbohydrates to Complex Organofluorines: Synthesis, Conformation, and Lipophilicity of Multi&#8208;Vicinal Fluorine&#8208;Containing Hexitol Analogues</title>
-      <dc:description>There is growing interest in the preparation of fluorine&#8208;containing organic molecules. Multi&#8208;vicinal fluorine analogues are among the most intriguing and promising compounds but their physical and biological investigations suffer from challenging syntheses. Hence, we report on the synthesis of a large set of novel polyfluorohexitols. The determination of the dominant solution&#8208;state conformation of all trifluorohexitol was achieved, along with the comparison of solid&#8208;state conformation of some analogues. Finally, the lipophilicity of a large set of polyfluorinated hexopyranose and hexitol analogues was attributed using a log  P  determination method based on  19  F NMR spectroscopy.</dc:description>
-      <dc:creator>
-Danny Lain&#233;, 
-Olivier Lessard, 
-Jacob St-Gelais, 
-Denis Gigu&#233;re
-</dc:creator>
-      <link>https://doi.org/10.1002/chem.202004646</link>
-      <content:encoded>&lt;p&gt;There is growing interest in the preparation of fluorine&#8208;containing organic molecules. Multi&#8208;vicinal fluorine analogues are among the most intriguing and promising compounds but their physical and biological investigations suffer from challenging syntheses. Hence, we report on the synthesis of a large set of novel polyfluorohexitols. The determination of the dominant solution&#8208;state conformation of all trifluorohexitol was achieved, along with the comparison of solid&#8208;state conformation of some analogues. Finally, the lipophilicity of a large set of polyfluorinated hexopyranose and hexitol analogues was attributed using a log  P  determination method based on  19  F NMR spectroscopy.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>From Carbohydrates to Complex Organofluorines: Synthesis, Conformation, and Lipophilicity of Multi&#8208;Vicinal Fluorine&#8208;Containing Hexitol Analogues</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004646</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-12-08T09:17:30-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004646</prism:doi>
-      <prism:url>https://doi.org/10.1002/chem.202004646</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
