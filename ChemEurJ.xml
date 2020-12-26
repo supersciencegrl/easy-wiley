@@ -9,8 +9,10 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004660" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004863" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005026" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005367" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004818" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004822" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003875" />
@@ -170,8 +172,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005203" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005077" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005129" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004563" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004781" />
          </rdf:Seq>
       </items>
    </channel>
@@ -180,6 +180,32 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202004660">
+      <title>Reactivity of Single Transition Metal Atoms on a Hydroxylated&#160;Amorphous Silica Surface: A Periodic Conceptual DFT Investigation.</title>
+      <dc:description>The drive to develop maximal atom&#8208;efficient catalysts coupled to the continuous strive for more sustainable reactions has led to an ever&#8208;increasing interest in single&#8208;atom catalysis. Based on a periodic conceptual Density Functional Theory (cDFT) approach, fundamental insights into the reactivity and adsorption of single late transition metal atoms supported on a fully hydroxylated amorphous silica surface have been acquired. In particular,&#160;this investigation revealed that the influence of van der Waals dispersion forces is especially significant for a silver (98%) or gold (78%) atom, while the oxophilicity of the Group 8&#8208;10 transition metals plays a major role in the interaction strength of these atoms on the non&#8208;reducible SiO2&#160;support. The adsorption energies for the less electronegative row 4 elements (Fe, Co, Ni) ranged from &#8208;1.40 to &#8208;1.92 eV, while for the heavier row 5 and 6 metals, with the exception of Pd, these values are between &#8208;2.20 and &#8208;2.92 eV. Through a systematic analysis of cDFT descriptors determined using three different theoretical schemes, the Fermi weighted density of states approach was identified as the most suitable for describing the reactivity of the studied systems. The contribution of the energy levels to the reactivity is simultaneously scaled based on their position relative to the Fermi level. Finally, the obtained Fermi weighted density of states reactivity trends show a good agreement with the chemical characteristics of the investigated metal atoms as well as the experimental data.</dc:description>
+      <dc:creator>
+Xavier Deraet, 
+Jan Turek, 
+Mercedes Alonso, 
+Frederik Tielens, 
+Stefaan Cottenier, 
+Paul W. Ayers, 
+Bert  M. Weckhuysen, 
+Frank De Proft
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004660</link>
+      <content:encoded>&lt;p&gt;The drive to develop maximal atom&#8208;efficient catalysts coupled to the continuous strive for more sustainable reactions has led to an ever&#8208;increasing interest in single&#8208;atom catalysis. Based on a periodic conceptual Density Functional Theory (cDFT) approach, fundamental insights into the reactivity and adsorption of single late transition metal atoms supported on a fully hydroxylated amorphous silica surface have been acquired. In particular,&#160;this investigation revealed that the influence of van der Waals dispersion forces is especially significant for a silver (98%) or gold (78%) atom, while the oxophilicity of the Group 8&#8208;10 transition metals plays a major role in the interaction strength of these atoms on the non&#8208;reducible SiO2&#160;support. The adsorption energies for the less electronegative row 4 elements (Fe, Co, Ni) ranged from &#8208;1.40 to &#8208;1.92 eV, while for the heavier row 5 and 6 metals, with the exception of Pd, these values are between &#8208;2.20 and &#8208;2.92 eV. Through a systematic analysis of cDFT descriptors determined using three different theoretical schemes, the Fermi weighted density of states approach was identified as the most suitable for describing the reactivity of the studied systems. The contribution of the energy levels to the reactivity is simultaneously scaled based on their position relative to the Fermi level. Finally, the obtained Fermi weighted density of states reactivity trends show a good agreement with the chemical characteristics of the investigated metal atoms as well as the experimental data.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Reactivity of Single Transition Metal Atoms on a Hydroxylated&#160;Amorphous Silica Surface: A Periodic Conceptual DFT Investigation.</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004660</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-12-26T02:01:46-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004660</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004660</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202004863">
       <title>A Photoionization Study on the Detection of 1&#8208;Sila Glycolaldehyde (HSiOCH2OH), 2&#8208;Sila Acetic Acid (SiH3COOH), and 1,2&#8208;Disila Acetaldehyde (HSiOSiH3)</title>
       <dc:description>The identification of silicon&#8211;substituted, complex organics carrying multiple functional groups via classical infrared spectroscopy is challenging because the group frequencies of functional groups often overlap. Photoionization (PI) reflectron time&#8208;of&#8208;fight mass spectrometry (ReTOF&#8208;MS) in combination with temperature programmed desorption (TPD) holds certain advantages since molecules are identified after sublimation from the matrix into in the gas phase based on distinct ionization energies and sublimation temperatures. In this study, we reveal the detection of&#160;1&#8208;sila glycolaldehyde (HSiOCH  2  OH), 2&#8208;sila acetic acid (SiH  3  COOH), and 1,2&#8208;disilaacetaldehyde (SiH  3  SiHO) &#8211; the silicon analogues of the well&#8208;known glycolaldehyde (HCOCH  2  OH), acetic acid (CH  3  COOH), and acetaldehyde (CH  3  CHO), in the gas phase after preparation in silane (SiH  4  ) &#8211; carbon dioxide (CO  2  ) ices exposed to energetic electrons and subliming the neutral reaction products formed within the ices into the gas phase.</dc:description>
@@ -229,6 +255,32 @@ Andr&#233;s  G. Santana
       <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005026</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202005367">
+      <title>Bulky Polyfluorinated Terphenyldiphenylboranes. Water Tolerant Lewis Acids</title>
+      <dc:description>Protocols for the synthesis of the bulky polyfluorinated triarylboranes 2,6&#8208;(C 6 F 5 ) 2 C 6 F 3 B(C 6 F 5 ) 2 ( 1 ), 2,6&#8208;(C 6 F 5 ) 2 C 6 F 3 B[C 6 H 3 &#8208;3,5&#8208;(CF 3 ) 2 ] ( 2 ), 2,4,6&#8208;(C 6 F 5 ) 3 C 6 H 2 B(C 6 F 5 ) 2 ( 3 ), 2,4,6&#8208;(C 6 F 5 ) 3 C 6 H 2 B[C 6 H 3 &#8208;3,5&#8208;(CF 3 ) 2 ] ( 4 ) were developed. All boranes are water tolerant and according to the Gutmann&#8208;Beckett method, 1 &#8211; 3 display Lewis acidities larger than that of the prominent B(C 6 F 5 ) 3 .</dc:description>
+      <dc:creator>
+Corina Stoian, 
+Marian Olaru, 
+Theodor Cucuiet, 
+Krisztina Kegyes, 
+Alexandru Sava, 
+Alexey Timoshkin, 
+Ciprian Rat, 
+Jens Beckmann
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202005367</link>
+      <content:encoded>&lt;p&gt;Protocols for the synthesis of the bulky polyfluorinated triarylboranes 2,6&#8208;(C 6 F 5 ) 2 C 6 F 3 B(C 6 F 5 ) 2 ( 1 ), 2,6&#8208;(C 6 F 5 ) 2 C 6 F 3 B[C 6 H 3 &#8208;3,5&#8208;(CF 3 ) 2 ] ( 2 ), 2,4,6&#8208;(C 6 F 5 ) 3 C 6 H 2 B(C 6 F 5 ) 2 ( 3 ), 2,4,6&#8208;(C 6 F 5 ) 3 C 6 H 2 B[C 6 H 3 &#8208;3,5&#8208;(CF 3 ) 2 ] ( 4 ) were developed. All boranes are water tolerant and according to the Gutmann&#8208;Beckett method, 1 &#8211; 3 display Lewis acidities larger than that of the prominent B(C 6 F 5 ) 3 .&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Bulky Polyfluorinated Terphenyldiphenylboranes. Water Tolerant Lewis Acids</dc:title>
+      <dc:identifier>doi:10.1002/chem.202005367</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2020-12-25T12:00:00-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202005367</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005367</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/chem.202004818">
       <title>Deciphering the chemical basis of fluorescence of a selenium&#8208;labeled uracil probe when bound at the bacterial ribosomal&#160;A&#8208;site</title>
@@ -569,7 +621,7 @@ Tao Shi,
 Zhen Wang
 </dc:creator>
       <link>https://chemistry-europe.doi.org/10.1002/chem.202087261</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a3367892-57dd-4dbc-89c3-59936395c745/chem202087261-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/a3367892-57dd-4dbc-89c3-59936395c745/chem202087261-toc-0001-m.png"
      alt="Frontispiece: Recent Advances in Iodine&#8208;Promoted C&#8722;S/N&#8722;S Bonds Formation"/&gt;
 &lt;p&gt;&lt;b&gt;In modern research,&lt;/b&gt; C&#8722;S/N&#8722;S bonds are indispensable in many biological important compounds and pharmaceuticals. Given many advantages (such as inexpensive, environmentally benign, and easy&#8208;handled catalysts or reagents) of iodine and its derivatives, several new strategies, such as oxidation relay strategy, have been greatly developed and accelerated the advancement of this field. The most recent advances in iodine&#8208; and its derivatives&#8208;promoted hybridized C&#8722;S/N&#8722;S bonds formation with special emphasis on the features and mechanisms of the corresponding reactions, together with a comparison of some reactions with previous reports and an outlook to the future of this domain are discussed in the Review by T. Shi, Z. Wang et&#8197;al. on &lt;a href="https://doi.org/10.1002/chem.202001414"&gt;page 17289&lt;/a&gt;.
 
@@ -607,7 +659,7 @@ Houchao Xu,
 Jeroen S. Dickschat
 </dc:creator>
       <link>https://chemistry-europe.doi.org/10.1002/chem.202087262</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/3a5dec39-3f17-4735-a480-3fe841a060dc/chem202087262-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/3a5dec39-3f17-4735-a480-3fe841a060dc/chem202087262-toc-0001-m.png"
      alt="Frontispiece: Germacrene&#8197;A&#8211;A Central Intermediate in Sesquiterpene Biosynthesis"/&gt;
 &lt;p&gt;&lt;b&gt;Germacrene A shows a unique and interesting chemistry&lt;/b&gt; mainly characterised by its reactivity towards acid&#8208;catalysed cyclisations and its thermal lability in a Cope rearrangement to &#946;&#8208;elemene. Similar observations have been made for other germacrenes, suggesting that the high ring strain associated with the 10&#8208;membered ring in these systems may be a strong driving force for the observed reactions leading to much less strained compounds with 6&#8208;membered rings. Germacrene A is of central importance in sesquiterpene biosynthesis and this Review covers the biosynthetic derivatives, the absolute configurations and the natural sources. For more information, see the Review by Dickschat et&#8197;al. on &lt;a href="https://doi.org/10.1002/chem.202002163"&gt;page 17318&lt;/a&gt;.
 
@@ -655,7 +707,7 @@ Raquel Pereira&#8208;Cameselle,
 J. Lorenzo Alonso&#8208;G&#243;mez
 </dc:creator>
       <link>https://chemistry-europe.doi.org/10.1002/chem.202087263</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/bd76cc16-354b-4bc5-ad95-83f248d4a45e/chem202087263-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/bd76cc16-354b-4bc5-ad95-83f248d4a45e/chem202087263-toc-0001-m.png"
      alt="Frontispiece: Distinct Helical Molecular Orbitals through Conformational Lock"/&gt;
 &lt;p&gt;&lt;b&gt;Helical Molecular Orbitals&#8212;Hel&#8208;MOs&#8212;&lt;/b&gt;have been tailored theoretically through the torsion angle of diphenylbutadiynes. Experimentally, suitable conformations have been locked by the synthesis of cyclic spirobifluorenes. In addition to present distinct Hel&#8208;MOs, the developed systems are robust and feature remarkable, photophysical and chiroptical responses. Therefore, the present study may lead to integration of such derivatives in chiroptical and spintronic applications. For more information, see the Communication by L. Alonso&#8208;G&#243;mez et&#8197;al. on &lt;a href="https://doi.org/10.1002/chem.202002561"&gt;page 17342&lt;/a&gt;.
 
@@ -854,7 +906,7 @@ Hidehiro Uekusa,
 Toshiyuki Hamura
 </dc:creator>
       <link>https://chemistry-europe.doi.org/10.1002/chem.202005270</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8dcf26c4-c72f-471d-b1ce-e0b177bcb330/chem202005270-toc-0001-m.png"
+      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8dcf26c4-c72f-471d-b1ce-e0b177bcb330/chem202005270-toc-0001-m.png"
      alt="Thermodynamically Stable o&#8208;Quinodimethane: Synthesis, Structure, and Reactivity"/&gt;
 &lt;p&gt;&lt;b&gt;Thermal ring&#8208;opening of cyclobutaphenanthrenes&lt;/b&gt; into thermodynamically stable &lt;i&gt;o&lt;/i&gt;&#8208;quinodimethanes is reported in this work. In the cover artwork, the balance of the Lady Justice indicates that energy difference between the energy loss due to dearomatization of the benzene ring in cyclobutaphenanthrene and the strain energy of the four&#8208;membered ring is decisive for ring&#8208;opening. The &lt;i&gt;o&lt;/i&gt;&#8208;quinodimethanes obtained through this strategy can be used as a reactive platform to access novel polycyclic aromatic compounds. More information can be found in the Communication by T. Hamura et&#8197;al. (DOI: &lt;a href="https://doi.org/10.1002/chem.202004510"&gt;10.1002/chem.202004510&lt;/a&gt;).
 
@@ -1816,53 +1868,5 @@ Janine Cossy
       <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005129</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004563">
-      <title>Boron&#8208;Ligand Cooperation: The Concept and Applications</title>
-      <dc:description>The term boron&#8208;ligand cooperation was introduced to describe a specific mode of action by which certain metal&#8208;free systems activate chemical bonds. The main characteristic of this mode of action is that one covalently bound substituent at the boron is actively involved in the bond activation process and changes to a datively bound ligand in the course of the bond activation. Within this review, we reflect on how the term boron&#8208;ligand cooperation evolved and discuss examples of bond activation by boron&#8208;ligand cooperation. We furthermore show that systems that operate via boron&#8208;ligand cooperation can complement the reactivity of classic intramolecular frustrated Lewis pairs and summarize applications of this new concept for metal&#8208;free catalysis.</dc:description>
-      <dc:creator>
-Urs Gellrich, 
-Max Hasenbeck
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202004563</link>
-      <content:encoded>&lt;p&gt;The term boron&#8208;ligand cooperation was introduced to describe a specific mode of action by which certain metal&#8208;free systems activate chemical bonds. The main characteristic of this mode of action is that one covalently bound substituent at the boron is actively involved in the bond activation process and changes to a datively bound ligand in the course of the bond activation. Within this review, we reflect on how the term boron&#8208;ligand cooperation evolved and discuss examples of bond activation by boron&#8208;ligand cooperation. We furthermore show that systems that operate via boron&#8208;ligand cooperation can complement the reactivity of classic intramolecular frustrated Lewis pairs and summarize applications of this new concept for metal&#8208;free catalysis.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Boron&#8208;Ligand Cooperation: The Concept and Applications</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004563</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-12-09T07:30:51-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004563</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004563</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202004781">
-      <title>Structural and electronic control of 1&#8208;(2&#8208;pyridyl)benzotriazole bidentate ligand in copper chemistry with application to catalysis in the A3 coupling reaction</title>
-      <dc:description>We introduce the hybrid bidentate 1&#8208;(2&#8208;pyridyl)benzotriazole (pyb) ligand in well&#8208;characterized 3d&#8208;transition metal catalysis. Specifically, [Cu(II)(OTf)  2  (pyb)  2  ]2(CH  3  CN) (  1  ) enables the synthesis of a wide range of propargylamines, via the A  3  coupling reaction, at room temperature, in the absence of additives. Experimental and high&#8208;level theoretical calculations suggest that the bridging N atom of the ligand imposes exclusive  trans  &#8208;coordination at Cu and allows ligand rotation, while the N atom of the pyridine group modulates charge distribution and flux, thus orchestrating structural and electronic pre&#8208;catalyst control permitting alkyne binding with simultaneous activation of the C&#8211;H bond via a transient Cu(I) species.</dc:description>
-      <dc:creator>
-Stavroula  I. Sampani, 
-Victor Zdorichenko, 
-Jack Devonport, 
-Gioia Rossini, 
-Matthew  C. Leech, 
-Kevin Lam, 
-Brian Cox, 
-Alaa Abdul-Sada, 
-Alfredo Vargas, 
-George  E. Kostakis
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202004781</link>
-      <content:encoded>&lt;p&gt;We introduce the hybrid bidentate 1&#8208;(2&#8208;pyridyl)benzotriazole (pyb) ligand in well&#8208;characterized 3d&#8208;transition metal catalysis. Specifically, [Cu(II)(OTf)  2  (pyb)  2  ]2(CH  3  CN) (  1  ) enables the synthesis of a wide range of propargylamines, via the A  3  coupling reaction, at room temperature, in the absence of additives. Experimental and high&#8208;level theoretical calculations suggest that the bridging N atom of the ligand imposes exclusive  trans  &#8208;coordination at Cu and allows ligand rotation, while the N atom of the pyridine group modulates charge distribution and flux, thus orchestrating structural and electronic pre&#8208;catalyst control permitting alkyne binding with simultaneous activation of the C&#8211;H bond via a transient Cu(I) species.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Structural and electronic control of 1&#8208;(2&#8208;pyridyl)benzotriazole bidentate ligand in copper chemistry with application to catalysis in the A3 coupling reaction</dc:title>
-      <dc:identifier>doi:10.1002/chem.202004781</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2020-12-09T06:31:35-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202004781</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004781</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
 </rdf:RDF>
