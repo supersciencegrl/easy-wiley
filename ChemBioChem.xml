@@ -9,6 +9,8 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000758" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000688" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000705" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000784" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000692" />
@@ -95,13 +97,11 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000611" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000738" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000677" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000688" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000791" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000642" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000650" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000704" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000530" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000758" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000600" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000660" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000670" />
@@ -116,8 +116,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000616" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000423" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000612" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000669" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000634" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000718" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000658" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000594" />
@@ -737,29 +735,6 @@ David Craik
       <prism:publicationName>ChemBioChem</prism:publicationName>
       <prism:doi>10.1002/cbic.202000716</prism:doi>
       <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000716</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000688">
-      <title>Release of soybean isoflavones using a &#946;&#8208;Glucosidase from Alicyclobacillus herbarius.</title>
-      <dc:description>&#946; &#8208;Glucosidases are used in the food industry to hydrolyse glycosidic bonds in complex sugars, with enzymes sourced from extremophiles better able to tolerate the process conditions. In this work, a novel &#946;&#8208;glycosidase from the acidophilic organism&#160;  Alicyclobacillus herbarius  &#160;was cloned and heterologously expressed in&#160;  E. coli  &#160;BL21 (DE3).&#160;  Ahe  GH1 was stable over a broad range of pH values (5&#8208;11) and temperatures (4 &#186;C&#8208;55 &#186;C). The enzyme exhibited excellent tolerance to fructose and good tolerance to glucose, retaining 65% activity in the presence of 10% (  w/v  ) glucose. It also tolerated organic solvents, some of which appeared to have a stimulating effect, in particular ethanol with a 1.7&#8208;fold increase in activity at 10% (  v/v  ). The enzyme was then applied for the cleavage of isoflavone from isoflavone glucosides in an ethanolic extract of soy flour, to produce soy isoflavones which constitute a valuable food supplement, achieving full conversion within 15 min at 30 &#176;C.</dc:description>
-      <dc:creator>
-Lidia Delgado, 
-Christian  M. Heckmann, 
-Flavio Di Pisa, 
-Louise Gourlay, 
-Francesca Paradisi
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000688</link>
-      <content:encoded>&lt;p&gt;&#946; &#8208;Glucosidases are used in the food industry to hydrolyse glycosidic bonds in complex sugars, with enzymes sourced from extremophiles better able to tolerate the process conditions. In this work, a novel &#946;&#8208;glycosidase from the acidophilic organism&#160;  Alicyclobacillus herbarius  &#160;was cloned and heterologously expressed in&#160;  E. coli  &#160;BL21 (DE3).&#160;  Ahe  GH1 was stable over a broad range of pH values (5&#8208;11) and temperatures (4 &#186;C&#8208;55 &#186;C). The enzyme exhibited excellent tolerance to fructose and good tolerance to glucose, retaining 65% activity in the presence of 10% (  w/v  ) glucose. It also tolerated organic solvents, some of which appeared to have a stimulating effect, in particular ethanol with a 1.7&#8208;fold increase in activity at 10% (  v/v  ). The enzyme was then applied for the cleavage of isoflavone from isoflavone glucosides in an ethanolic extract of soy flour, to produce soy isoflavones which constitute a valuable food supplement, achieving full conversion within 15 min at 30 &#176;C.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Release of soybean isoflavones using a &#946;&#8208;Glucosidase from Alicyclobacillus herbarius.</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000688</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-11-25T07:49:12-08:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000688</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000688</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
    </item>
