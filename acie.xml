@@ -9,6 +9,7 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015196" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013803" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008395" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014472" />
@@ -54,7 +55,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016156" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016225" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015216" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015680" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014729" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014329" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016077" />
@@ -67,6 +67,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017001" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015034" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015837" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015680" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014997" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013361" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016965" />
@@ -204,7 +205,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013105" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015179" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015907" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015060" />
          </rdf:Seq>
       </items>
    </channel>
@@ -213,6 +213,36 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202015196">
+      <title>Segmented Polyurethane Elastomers with Mechanochromic and Self&#8208;strengthening Functions</title>
+      <dc:description>Mechanochromic elastomers that exhibit force&#8208;induced cross&#8208;linking reactions in the bulk state are introduced. The synthesis of segmented polyurethanes (SPUs) that contain difluorenylsuccinonitrile (DFSN) moieties in the main chain and methacryloyl groups in the side chains was carried out. DFSN was selected as the mechanophore because it dissociates under mechanical stimuli to form pink cyanofluorene (CF) radicals, which can also initiate the radical polymerization of methacrylate monomers. The obtained elastomers generated CF radicals and changed color by compression or extension; they also became insoluble due to the mechanically induced cross&#8208;linking reactions. Additionally, an SPU containing diphenylmethane units also exhibited highly sensitive mechanofluorescence. To the best of our knowledge, this is the first report to demonstrate damage detection ability and changes in the mechanical properties of bulk elastomers induced by simple compression or extension.</dc:description>
+      <dc:creator>
+Kota Seshimo, 
+Hio Sakai, 
+Takuma Watabe, 
+Daisuke Aoki, 
+Hajime Sugita, 
+Koichiro Mikami, 
+Yuchen Mao, 
+Akira Ishigami, 
+Shotaro Nishitsuji, 
+Takashi Kurose, 
+Hiroshi Ito, 
+Hideyuki Otsuka
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202015196</link>
+      <content:encoded>&lt;p&gt;Mechanochromic elastomers that exhibit force&#8208;induced cross&#8208;linking reactions in the bulk state are introduced. The synthesis of segmented polyurethanes (SPUs) that contain difluorenylsuccinonitrile (DFSN) moieties in the main chain and methacryloyl groups in the side chains was carried out. DFSN was selected as the mechanophore because it dissociates under mechanical stimuli to form pink cyanofluorene (CF) radicals, which can also initiate the radical polymerization of methacrylate monomers. The obtained elastomers generated CF radicals and changed color by compression or extension; they also became insoluble due to the mechanically induced cross&#8208;linking reactions. Additionally, an SPU containing diphenylmethane units also exhibited highly sensitive mechanofluorescence. To the best of our knowledge, this is the first report to demonstrate damage detection ability and changes in the mechanical properties of bulk elastomers induced by simple compression or extension.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Segmented Polyurethane Elastomers with Mechanochromic and Self&#8208;strengthening Functions</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015196</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-08T05:47:42-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202015196</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015196</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014551">
       <title>Capturing Manganese Oxide Intermediates in Electrochemical Water Oxidation at Neutral pH by In Situ Raman Spectroscopy</title>
       <dc:description>
@@ -838,26 +868,6 @@ Ting Lei
       <prism:url>https://doi.org/10.1002/anie.202015216</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202015680">
-      <title>Activation of Di&#8208;tert&#8208;butyldiphosphatetrahedrane: Access to (tBuCP)n (n = 2, 4) Ligand Frameworks by P&#8210;C Bond Cleavage</title>
-      <dc:description>The first mixed phosphatetrahedranes were reported only recently and their reactivity is virtually unexplored. Here we present a reactivity study on di&#8208;  tert  &#8208;butyldiphosphatetrahedrane (  1  ), which is the dimer of  tert  &#8208;butylphosphaalkyne. The (  t  BuCP)  2  tetrahedron is activated selectively by N&#8208;heterocyclic carbene (NHC) nickel(I) and nickel(0) complexes, resulting in novel complexes featuring diverse (  t  BuCP)  n  &#8208;frameworks (  n  = 2, 4). Release of the (  t  BuCP)  4  framework from one of the complexes was achieved by addition of CO gas. Furthermore,  1  can be used as a source for P  2  units by elimination of bis&#8208;  tert  &#8208;butylacetylene in the coordination sphere of nickel.</dc:description>
-      <dc:creator>
-Gabriele Hierlmeier, 
-Robert Wolf
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202015680</link>
-      <content:encoded>&lt;p&gt;The first mixed phosphatetrahedranes were reported only recently and their reactivity is virtually unexplored. Here we present a reactivity study on di&#8208;  tert  &#8208;butyldiphosphatetrahedrane (  1  ), which is the dimer of  tert  &#8208;butylphosphaalkyne. The (  t  BuCP)  2  tetrahedron is activated selectively by N&#8208;heterocyclic carbene (NHC) nickel(I) and nickel(0) complexes, resulting in novel complexes featuring diverse (  t  BuCP)  n  &#8208;frameworks (  n  = 2, 4). Release of the (  t  BuCP)  4  framework from one of the complexes was achieved by addition of CO gas. Furthermore,  1  can be used as a source for P  2  units by elimination of bis&#8208;  tert  &#8208;butylacetylene in the coordination sphere of nickel.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Activation of Di&#8208;tert&#8208;butyldiphosphatetrahedrane: Access to (tBuCP)n (n = 2, 4) Ligand Frameworks by P&#8210;C Bond Cleavage</dc:title>
-      <dc:identifier>doi:10.1002/anie.202015680</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-05T11:12:51-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202015680</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202015680</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014729">
       <title>Auxetic Two&#8208;Dimensional Nanostructures from DNA</title>
@@ -2375,39 +2385,6 @@ Nanfeng Zheng
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202015907</prism:doi>
       <prism:url>https://doi.org/10.1002/anie.202015907</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202015060">
-      <title>Anodic Oxidation Enabled Cation Leaching for Promoting Surface Reconstruction in Water Oxidation</title>
-      <dc:description>A rational design on oxygen evolution reaction (OER) catalysts is pivotal to the overall efficiency of water electrolysis. Numerous works have been devoted to understanding the cation leaching and surface reconstruction of some very active electrocatalysts, while few have been on intentionally promoting the surface in a controlled fashion. In this work, we report controllable anodic leaching of Cr in CoCr  2  O  4  by activating the pristine material at high potential, which enables the transformation of inactive spinel CoCr  2  O  4  into a highly active catalyst. The depletion of Cr and consumption of lattice oxygen facilitate surface defects and oxygen vacancies, exposing Co species to reconstruct into active Co oxyhydroxides differ from CoOOH. A novel mechanism with the evolution of tetrahedrally coordinated surface cation into octahedral configuration via non&#8208;concerted proton&#8208;electron transfer is proposed. This work shows the importance of controlled anodic potential in modifying the surface chemistry of electrocatalysts.</dc:description>
-      <dc:creator>
-Yan Duan, 
-Jun Yan Lee, 
-Shibo Xi, 
-Yuanmiao Sun, 
-Jingjie Ge, 
-Samuel Jun Hoong Ong, 
-Yubo Chen, 
-Shuo Dou, 
-Fanxu Meng, 
-Caozheng Diao, 
-Adrian Fisher, 
-G&#252;nther  G. Scherer, 
-Xin Wang, 
-Alexis Grimaud, 
-Zhichuan Xu
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202015060</link>
-      <content:encoded>&lt;p&gt;A rational design on oxygen evolution reaction (OER) catalysts is pivotal to the overall efficiency of water electrolysis. Numerous works have been devoted to understanding the cation leaching and surface reconstruction of some very active electrocatalysts, while few have been on intentionally promoting the surface in a controlled fashion. In this work, we report controllable anodic leaching of Cr in CoCr  2  O  4  by activating the pristine material at high potential, which enables the transformation of inactive spinel CoCr  2  O  4  into a highly active catalyst. The depletion of Cr and consumption of lattice oxygen facilitate surface defects and oxygen vacancies, exposing Co species to reconstruct into active Co oxyhydroxides differ from CoOOH. A novel mechanism with the evolution of tetrahedrally coordinated surface cation into octahedral configuration via non&#8208;concerted proton&#8208;electron transfer is proposed. This work shows the importance of controlled anodic potential in modifying the surface chemistry of electrocatalysts.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Anodic Oxidation Enabled Cation Leaching for Promoting Surface Reconstruction in Water Oxidation</dc:title>
-      <dc:identifier>doi:10.1002/anie.202015060</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-28T11:44:09-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202015060</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202015060</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
