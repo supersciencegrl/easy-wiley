@@ -9,6 +9,16 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013921" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015553" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013731" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011548" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013020" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013045" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014946" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014027" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013725" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014425" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017303" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016089" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015217" />
@@ -17,7 +27,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014852" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015170" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014771" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014544" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016596" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016463" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016123" />
@@ -30,6 +39,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015177" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016048" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015390" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014544" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012023" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015946" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015196" />
@@ -91,7 +101,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015034" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015837" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015680" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014997" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013361" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016965" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014323" />
@@ -120,10 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013987" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011617" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016890" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011722" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012862" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006456" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011493" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010099" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010280" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006044" />
@@ -200,11 +205,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013061" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012335" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011157" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013275" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012469" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012216" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202009288" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013681" />
          </rdf:Seq>
       </items>
    </channel>
@@ -403,27 +403,6 @@ Gerard Roelfes
       <prism:url>https://doi.org/10.1002/anie.202014771</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202014544">
-      <title>Reproducibility in Electro&#8208;organic Synthesis &#8211; Myths and Misunderstandings</title>
-      <dc:description>The use of electric current as a traceless activator and reagent is experiencing a renaissance. This sustainable synthetic method is evolving into a hot topic in contemporary organic chemistry. Since researchers with various scientific backgrounds are entering this interdisciplinary field, different parameters and methods are reported to describe the experiments. The variation in the reported parameters can lead to problems with the reproducibility of the reported electro&#8208;organic synthesis. As an example, parameters such as current density or electrode distance are in some cases more significant than often anticipated. This Minireview provides guidelines on reporting of electro&#8208;synthetic data and dispels myths about this technique, thus streamlining the experimental parameters to facilitate reproducibility.</dc:description>
-      <dc:creator>
-Sebastian Beil, 
-Dennis Pollok, 
-Siegfried  R Waldvogel
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202014544</link>
-      <content:encoded>&lt;p&gt;The use of electric current as a traceless activator and reagent is experiencing a renaissance. This sustainable synthetic method is evolving into a hot topic in contemporary organic chemistry. Since researchers with various scientific backgrounds are entering this interdisciplinary field, different parameters and methods are reported to describe the experiments. The variation in the reported parameters can lead to problems with the reproducibility of the reported electro&#8208;organic synthesis. As an example, parameters such as current density or electrode distance are in some cases more significant than often anticipated. This Minireview provides guidelines on reporting of electro&#8208;synthetic data and dispels myths about this technique, thus streamlining the experimental parameters to facilitate reproducibility.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Reproducibility in Electro&#8208;organic Synthesis &#8211; Myths and Misunderstandings</dc:title>
-      <dc:identifier>doi:10.1002/anie.202014544</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-11T09:39:39-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202014544</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202014544</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202016596">
       <title>Complementary Syntheses Giving Access to a Full Suite of Differentially Substituted Phthalocyanine&#8208;Porphyrin Hybrids**</title>
@@ -2205,90 +2184,6 @@ Beata Nowicka
       <prism:url>https://doi.org/10.1002/anie.202016890</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202006456">
-      <title>Efficiency in Natural Product Total Synthesis. Edited by Pei&#8208;Qiang Huang, Zhu&#8208;Jun Yao, Richard&#8197;P. Hsung.</title>
-      <dc:description>
-Wiley, Hoboken 2018. 512&#8197;pp., hardcover, &#8364;&#8197;195.00.&#8212;ISBN&#8197; 978&#8208;1&#8208;118&#8208;60540&#8208;0
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Alexandros L. Zografos
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202006456</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/08061802-e7cc-4494-8ee1-f6a142b04d33/anie202006456-gra-0001-m.png"
-     alt="Efficiency in Natural Product Total Synthesis. Edited by Pei&#8208;Qiang Huang, Zhu&#8208;Jun Yao, Richard&#8197;P. Hsung."/&gt;
-&lt;p&gt;Wiley, Hoboken 2018. 512&#8197;pp., hardcover, &#8364;&#8197;195.00.&#8212;ISBN&#8197; 978&#8208;1&#8208;118&#8208;60540&#8208;0
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>Angewandte Chemie International Edition, EarlyView. </description>
-      <dc:title>Efficiency in Natural Product Total Synthesis. Edited by Pei&#8208;Qiang Huang, Zhu&#8208;Jun Yao, Richard&#8197;P. Hsung.</dc:title>
-      <dc:identifier>doi:10.1002/anie.202006456</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-04T10:27:31-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202006456</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202006456</prism:url>
-      <prism:copyright />
-      <prism:section>Book Review</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011493">
-      <title>Strain Engineering of a MXene/CNT Hierarchical Porous Hollow Microsphere Electrocatalyst for a High&#8208;Efficiency Lithium Polysulfide Conversion Process</title>
-      <dc:description>
-Strain engineering of Mxene/carbon nanotube microspheres as electrocatalyst for Li&#8208;S batteries is used to realize high&#8208;efficiency LiPS catalytic conversion.
-
-
-
-
-
-
-
-Abstract
-Tensile&#8208;strained Mxene/carbon nanotube (CNT) porous microspheres were developed as an electrocatalyst for the lithium polysulfide (LiPS) redox reaction. The internal stress on the surface results in lattice distortion with expanding Ti&#8722;Ti bonds, endowing the Mxene nanosheet with abundant active sites and regulating the d&#8208;band center of Ti atoms upshifted closer to the Fermi level, leading to strengthened LiPS adsorbability and accelerated catalytic conversion. The macroporous framework offers uniformed sulfur distribution, potent sulfur immobilization, and large surface area. The composite interwoven by CNT tentacle enhances conductivity and prevents the restacking of Mxene sheets. This combination of tensile strain effect and hierarchical architecture design results in smooth and favorable trapping&#8211;diffusion&#8211;conversion of LiPS on the interface. The Li&#8208;S battery exhibits an initial capacity of 1451&#8197;mAh&#8201;g&#8722;1 at 0.2&#8197;C, rate capability up to 8&#8197;C, and prolonged cycle life.
-</dc:description>
-      <dc:creator>
-Xin Wang, 
-Dan Luo, 
-Jiayi Wang, 
-Zhenghao Sun, 
-Guoliang Cui, 
-Yuxuan Chen, 
-Tong Wang, 
-Lirong Zheng, 
-Yan Zhao, 
-Lingling Shui, 
-Guofu Zhou, 
-Krzysztof Kempa, 
-Yongguang Zhang, 
-Zhongwei Chen
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202011493</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/7ee7124c-cb47-4788-bcaa-3e790bf851a1/anie202011493-toc-0001-m.png"
-     alt="Strain Engineering of a MXene/CNT Hierarchical Porous Hollow Microsphere Electrocatalyst for a High&#8208;Efficiency Lithium Polysulfide Conversion Process"/&gt;
-&lt;p&gt;Strain engineering of Mxene/carbon nanotube microspheres as electrocatalyst for Li&#8208;S batteries is used to realize high&#8208;efficiency LiPS catalytic conversion.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Tensile&#8208;strained Mxene/carbon nanotube (CNT) porous microspheres were developed as an electrocatalyst for the lithium polysulfide (LiPS) redox reaction. The internal stress on the surface results in lattice distortion with expanding Ti&#8722;Ti bonds, endowing the Mxene nanosheet with abundant active sites and regulating the d&#8208;band center of Ti atoms upshifted closer to the Fermi level, leading to strengthened LiPS adsorbability and accelerated catalytic conversion. The macroporous framework offers uniformed sulfur distribution, potent sulfur immobilization, and large surface area. The composite interwoven by CNT tentacle enhances conductivity and prevents the restacking of Mxene sheets. This combination of tensile strain effect and hierarchical architecture design results in smooth and favorable trapping&#8211;diffusion&#8211;conversion of LiPS on the interface. The Li&#8208;S battery exhibits an initial capacity of 1451&#8197;mAh&#8201;g&lt;sup&gt;&#8722;1&lt;/sup&gt; at 0.2&#8197;C, rate capability up to 8&#8197;C, and prolonged cycle life.&lt;/p&gt;
-</content:encoded>
-      <description>Angewandte Chemie International Edition, EarlyView. </description>
-      <dc:title>Strain Engineering of a MXene/CNT Hierarchical Porous Hollow Microsphere Electrocatalyst for a High&#8208;Efficiency Lithium Polysulfide Conversion Process</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011493</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-04T10:26:42-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011493</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202011493</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202015195">
       <title>Corrigendum: A General Approach to Site&#8208;Specific, Intramolecular C&#8722;H Functionalization Using Dithiocarbamates</title>
