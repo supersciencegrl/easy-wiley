@@ -9,6 +9,11 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016007" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015126" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017124" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011384" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016593" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013921" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015553" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013731" />
@@ -26,7 +31,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014900" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014852" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015170" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014771" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016596" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016463" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016123" />
@@ -42,6 +46,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014544" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012023" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015946" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014771" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015196" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013803" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008395" />
@@ -97,10 +102,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015760" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010231" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014968" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017001" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015034" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015837" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015680" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013361" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016965" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014323" />
@@ -128,7 +129,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011109" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013987" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011617" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016890" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010099" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202010280" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202006044" />
@@ -213,6 +213,106 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/anie.202016007">
+      <title>Advanced Real&#8208;Time Process Analytics for Multistep Synthesis in Continuous Flow</title>
+      <dc:description>In multistep continuous flow chemistry, studying complex reaction mixtures in real time is a significant challenge, but provides an opportunity to enhance reaction understanding and control. We report the integration of four complementary process analytical technology tools (NMR, UV/vis, IR and UHPLC) in the multistep synthesis of an active pharmaceutical ingredient, mesalazine. This synthetic route exploits flow processing for nitration, high temperature hydrolysis and hydrogenation reactions, as well as three inline separations. Advanced data analysis models were developed (indirect hard modelling, deep learning and partial least squares regression), to quantify the desired products, intermediates and impurities in real time, at multiple points along the synthetic pathway. The capabilities of the system have been demonstrated by operating both steady state and dynamic experiments and represents a significant step forward in data&#8208;driven continuous flow synthesis.</dc:description>
+      <dc:creator>
+Peter Sagmeister, 
+Ren&#233; Lebl, 
+Ismael Castillo, 
+Jakob Rehrl, 
+Julia Kruisz, 
+Martin Sipek, 
+Martin Horn, 
+Stephan Sacher, 
+David Cantillo, 
+Jason Williams, 
+C. Oliver Kappe
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202016007</link>
+      <content:encoded>&lt;p&gt;In multistep continuous flow chemistry, studying complex reaction mixtures in real time is a significant challenge, but provides an opportunity to enhance reaction understanding and control. We report the integration of four complementary process analytical technology tools (NMR, UV/vis, IR and UHPLC) in the multistep synthesis of an active pharmaceutical ingredient, mesalazine. This synthetic route exploits flow processing for nitration, high temperature hydrolysis and hydrogenation reactions, as well as three inline separations. Advanced data analysis models were developed (indirect hard modelling, deep learning and partial least squares regression), to quantify the desired products, intermediates and impurities in real time, at multiple points along the synthetic pathway. The capabilities of the system have been demonstrated by operating both steady state and dynamic experiments and represents a significant step forward in data&#8208;driven continuous flow synthesis.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Advanced Real&#8208;Time Process Analytics for Multistep Synthesis in Continuous Flow</dc:title>
+      <dc:identifier>doi:10.1002/anie.202016007</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-12T06:23:33-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202016007</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202016007</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202015126">
+      <title>Controllable Self&#8208;assembly of Peptide&#8208;cyanine Conjugates in Vivo as Fine&#8208;tunable Theranostics</title>
+      <dc:description>The fabrication of functional assemblies with defined structures through controllable molecular packing in the physiological conditions is of great challenge. Here, we modularly design peptide&#8208;cyanine conjugates that intracellularly self&#8208;assembly into 1D columnar superstructures with controlled cyanine aggregation, exhibiting distinct imaging or photothermal properties. Peptide backbone is cleaved by caspase&#8208;3/7 after entering cells. Then self&#8208;assembled residue with double cyanine substitution (Pr&#8208;2Cy) arranges into P helical column, in which H&#8208;aggregated cyanine dyes show 3.4&#8208;fold photothermal conversion efficiency compared to free ones. While self&#8208;assembled residue with single cyanine substitution (Pr&#8208;1Cy) forms loose column, in which cyanine dyes with undefined structure keeps fluorescence quantum yield up to 9.5 % (emission at 819 nm in H2O). This work provides a simple way to modify in vivo self&#8208;assembled peptide with functional molecules for achieving desired bio&#8208;applications.</dc:description>
+      <dc:creator>
+Hao Wang, 
+Yuliang Zhao, 
+Hong-Wei An, 
+Rui Zheng, 
+Jia Yang, 
+Muhetaerjiang Mamuti, 
+Dayong Hou
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202015126</link>
+      <content:encoded>&lt;p&gt;The fabrication of functional assemblies with defined structures through controllable molecular packing in the physiological conditions is of great challenge. Here, we modularly design peptide&#8208;cyanine conjugates that intracellularly self&#8208;assembly into 1D columnar superstructures with controlled cyanine aggregation, exhibiting distinct imaging or photothermal properties. Peptide backbone is cleaved by caspase&#8208;3/7 after entering cells. Then self&#8208;assembled residue with double cyanine substitution (Pr&#8208;2Cy) arranges into P helical column, in which H&#8208;aggregated cyanine dyes show 3.4&#8208;fold photothermal conversion efficiency compared to free ones. While self&#8208;assembled residue with single cyanine substitution (Pr&#8208;1Cy) forms loose column, in which cyanine dyes with undefined structure keeps fluorescence quantum yield up to 9.5 % (emission at 819 nm in H2O). This work provides a simple way to modify in vivo self&#8208;assembled peptide with functional molecules for achieving desired bio&#8208;applications.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Controllable Self&#8208;assembly of Peptide&#8208;cyanine Conjugates in Vivo as Fine&#8208;tunable Theranostics</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015126</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-12T06:06:58-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202015126</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015126</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202017124">
+      <title>The crucial role of local excess charges in dendrite growth on lithium electrodes</title>
+      <dc:description>The development of better batteries is of utmost importance for our economy. Batteries based on lithium metal promise a much higher energy density than the lithium ion batteries common today, where the ions are stored in graphite, which adds extra weight. However, lithium metal batteries are plagued by the formation&#160; of dendrites, which can short&#8208;circuit the battery and set it on fire. Much theoretical effort has been spent on the causes of dendrite formation, but a decisive factor has been overlooked: Lithium is deposited on an electrode which carries a sizable negative charge, and this charge is not distributed homogeneously on the surface. We show by explicit model calculations, that the excess charge accumulates on small protrusions and creates a strong electric field, which attracts the Li$^+$ ions, induces further growth on the tip and finally the formation of dendrites.&#160;&#160; Even a small tip consisting of a few atoms will carry an excess charge of a tenth of a unit charge or more. In addition, the negative charge on the tips locally&#160; reduces the surface tension, which further fosters dendrite growth. The same principles can also explain dendrite formation on other metals with deposition potentials below the potential of zero charge.</dc:description>
+      <dc:creator>
+Wolfgang Schmickler, 
+Elizabeth Santos
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202017124</link>
+      <content:encoded>&lt;p&gt;The development of better batteries is of utmost importance for our economy. Batteries based on lithium metal promise a much higher energy density than the lithium ion batteries common today, where the ions are stored in graphite, which adds extra weight. However, lithium metal batteries are plagued by the formation&#160; of dendrites, which can short&#8208;circuit the battery and set it on fire. Much theoretical effort has been spent on the causes of dendrite formation, but a decisive factor has been overlooked: Lithium is deposited on an electrode which carries a sizable negative charge, and this charge is not distributed homogeneously on the surface. We show by explicit model calculations, that the excess charge accumulates on small protrusions and creates a strong electric field, which attracts the Li$^+$ ions, induces further growth on the tip and finally the formation of dendrites.&#160;&#160; Even a small tip consisting of a few atoms will carry an excess charge of a tenth of a unit charge or more. In addition, the negative charge on the tips locally&#160; reduces the surface tension, which further fosters dendrite growth. The same principles can also explain dendrite formation on other metals with deposition potentials below the potential of zero charge.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>The crucial role of local excess charges in dendrite growth on lithium electrodes</dc:title>
+      <dc:identifier>doi:10.1002/anie.202017124</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-12T06:03:40-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202017124</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202017124</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202016593">
+      <title>Protic Ionic Liquids as Reagent, Catalyst, and Solvent: Triple Role of 1&#8208;Methylimidazolium Thiocyanate</title>
+      <dc:description>We propose a new concept of the triple role of protic ionic liquids with nucleophilic anions: a) a regenerable solvent, b) a Br&#248;nsted acid inducing diverse transformations  via  general acid catalysis, and c) a source of a nucleophile. The efficiency of this strategy was demonstrated using thiocyanate&#8208;based protic ionic liquids for the ring&#8208;opening of donor&#8211;acceptor cyclopropanes. A wide variety of activated cyclopropanes were found to react with 1&#8208;methylimidazolium thiocyanate under mild metal&#8208;free conditions  via  unusual nitrogen attack of the ambident thiocyanate ion on the electrophilic center of the three&#8208;membered ring affording pyrrolidine&#8208;2&#8208;thiones bearing donor and acceptor substituents at the C(5) and C(3) atoms, respectively, in a single time&#8208;efficient step. The ability of 1&#8208;methylimidazolium thiocyanate to serve as a triplex reagent was exemplarily illustrated by (4+2)&#8208;annulation with 1&#8208;acyl&#8208;2&#8208;(2&#8208;hydroxyphenyl)cyclopropane, epoxide ring opening and other organic transformations.</dc:description>
+      <dc:creator>
+Daniel B. Werz, 
+Ivan  A. Andreev, 
+Nina  K. Ratmanova, 
+Andr&#233;  U. Augustin, 
+Olga  A. Ivanova, 
+Irina  I. Levina, 
+Victor  N. Khrustalev, 
+Igor  V. Trushkov
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202016593</link>
+      <content:encoded>&lt;p&gt;We propose a new concept of the triple role of protic ionic liquids with nucleophilic anions: a) a regenerable solvent, b) a Br&#248;nsted acid inducing diverse transformations  via  general acid catalysis, and c) a source of a nucleophile. The efficiency of this strategy was demonstrated using thiocyanate&#8208;based protic ionic liquids for the ring&#8208;opening of donor&#8211;acceptor cyclopropanes. A wide variety of activated cyclopropanes were found to react with 1&#8208;methylimidazolium thiocyanate under mild metal&#8208;free conditions  via  unusual nitrogen attack of the ambident thiocyanate ion on the electrophilic center of the three&#8208;membered ring affording pyrrolidine&#8208;2&#8208;thiones bearing donor and acceptor substituents at the C(5) and C(3) atoms, respectively, in a single time&#8208;efficient step. The ability of 1&#8208;methylimidazolium thiocyanate to serve as a triplex reagent was exemplarily illustrated by (4+2)&#8208;annulation with 1&#8208;acyl&#8208;2&#8208;(2&#8208;hydroxyphenyl)cyclopropane, epoxide ring opening and other organic transformations.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Protic Ionic Liquids as Reagent, Catalyst, and Solvent: Triple Role of 1&#8208;Methylimidazolium Thiocyanate</dc:title>
+      <dc:identifier>doi:10.1002/anie.202016593</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-12T03:56:48-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202016593</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202016593</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202017303">
       <title>A Fast Room&#8208;Temperature Self&#8208;Healing Glassy Polyurethane</title>
       <dc:description>Glassy polymer can hardly self&#8208;heal at room temperature because of their frozen polymer chains under such a state. Now, we designed and synthesized a colorless and transparent glassy polyurethane assembled using low&#8208;molecular&#8208;weight oligomers carrying a large number of loosely packed weak hydrogen bonds (H&#8208;bonds), which has a glass transition temperature (T  g  ) up to 36.8 &#176;C and behaves unprecedentedly robust stiffness with a tensile Young&#8217;s modulus of 1.56&#177;0.03 GPa. Fast room&#8208;temperature self&#8208;healing was observed in this polymer network that the broken glassy polyurethane (GPU) specimen can recover to a tensile strength up 7.74&#177;0.76 MPa after healing for as little as 10 min, which is quite prominent compared to the reported room&#8208;temperature self&#8208;healing polymers. We revealed that the high density of loose&#8208;packed hydrogen bonds can reversibly dissociate/associate below T  g  of GPU (that is secondary relaxation), which enables the reconfiguration of the damaged network in the fractured interfaces, in spite of the extremely slow diffusion dynamics of molecular chains under room temperature. Based on these features, we demonstrate that our GPU shows potential application as an optical lens</dc:description>
@@ -380,29 +480,6 @@ Rein  V. Ulijn
       <prism:url>https://doi.org/10.1002/anie.202015170</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202014771">
-      <title>In vivo Assembly of Artificial Metalloenzymes and Application in Whole&#8208;Cell Biocatalysis</title>
-      <dc:description>We report the supramolecular assembly of artificial metalloenzymes (ArMs), based on the Lactococcal multidrug resistance regulator (LmrR) and an exogeneous copper(II)&#8208;phenanthroline complex, in the cytoplasm of  E. coli  cells. A combination of catalysis, cell&#8208;fractionation and inhibitor experiments, supplemented with in&#8208;cell solid&#8208;state NMR, confirmed the in&#8208;cell assembly. The ArM containing whole cells were active in the catalysis of the&#160; enantioselective Friedel&#8208;Crafts alkylation of indoles and the Diels&#8208;Alder reaction of azachalcone with cyclopentadiene. Directed evolution resulted in two different improved mutants for both reactions, LmrR_A92E_M8D and LmrR_A92E_V15A, respectively. The whole&#8208;cell ArM system requires no engineering of the microbial host, the protein scaffold or the cofactor to achieve ArM assembly and catalysis.&#160; We consider this a key step towards integrating abiological catalysis in biosynthesis, achieving a hybrid metabolism.</dc:description>
-      <dc:creator>
-Shreyans Chordia, 
-Siddarth Narasimhan, 
-Alessandra Lucini Paioni, 
-Marc Baldus, 
-Gerard Roelfes
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202014771</link>
-      <content:encoded>&lt;p&gt;We report the supramolecular assembly of artificial metalloenzymes (ArMs), based on the Lactococcal multidrug resistance regulator (LmrR) and an exogeneous copper(II)&#8208;phenanthroline complex, in the cytoplasm of  E. coli  cells. A combination of catalysis, cell&#8208;fractionation and inhibitor experiments, supplemented with in&#8208;cell solid&#8208;state NMR, confirmed the in&#8208;cell assembly. The ArM containing whole cells were active in the catalysis of the&#160; enantioselective Friedel&#8208;Crafts alkylation of indoles and the Diels&#8208;Alder reaction of azachalcone with cyclopentadiene. Directed evolution resulted in two different improved mutants for both reactions, LmrR_A92E_M8D and LmrR_A92E_V15A, respectively. The whole&#8208;cell ArM system requires no engineering of the microbial host, the protein scaffold or the cofactor to achieve ArM assembly and catalysis.&#160; We consider this a key step towards integrating abiological catalysis in biosynthesis, achieving a hybrid metabolism.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>In vivo Assembly of Artificial Metalloenzymes and Application in Whole&#8208;Cell Biocatalysis</dc:title>
-      <dc:identifier>doi:10.1002/anie.202014771</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-11T10:45:42-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202014771</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202014771</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202016596">
       <title>Complementary Syntheses Giving Access to a Full Suite of Differentially Substituted Phthalocyanine&#8208;Porphyrin Hybrids**</title>
@@ -1580,50 +1657,6 @@ Shiqiang Wei
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202017001">
-      <title>Photo&#8208;Controllable Catalysis and Chiral Monosaccharide Recognition Induced by Cyclodextrin Derivatives</title>
-      <dc:description>A supramolecular catalytic system was constructed by polycationic &#945;&#8208;cyclodextrin (  6&#8208;Iz&#8208;&#945;&#8208;CD  ), gold nanoparticles (  AuNP  ) based on supramolecular assembly strategy. The cavity of cyclodextrin is the channel which the substrate molecules contact with the catalytic center. Introduction of the azobenzene&#8208;modified diphenylalanine (  Azo&#8208;FF  ) guest molecule allowed for photo&#8208;control of the catalytic activity precisely owing to its sensitive response to irradiation. Importantly, as unique glucose oxidase, the  AuNP@6&#8208;Iz&#8208;&#945;&#8208;CD  realizes unprecedented chiral recognition catalysis for chiral monosaccharides. In combination with 3, 3, 5, 5&#8208;tetramethylbenzidine (TMB) color reaction, the  AuNP@6&#8208;Iz&#8208;&#945;&#8208;CD  exhibits the ability to recognize the chirality of various monosaccharides.</dc:description>
-      <dc:creator>
-Yu Liu, 
-Lei Chen, 
-Yong Chen, 
-Yi Zhang
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202017001</link>
-      <content:encoded>&lt;p&gt;A supramolecular catalytic system was constructed by polycationic &#945;&#8208;cyclodextrin (  6&#8208;Iz&#8208;&#945;&#8208;CD  ), gold nanoparticles (  AuNP  ) based on supramolecular assembly strategy. The cavity of cyclodextrin is the channel which the substrate molecules contact with the catalytic center. Introduction of the azobenzene&#8208;modified diphenylalanine (  Azo&#8208;FF  ) guest molecule allowed for photo&#8208;control of the catalytic activity precisely owing to its sensitive response to irradiation. Importantly, as unique glucose oxidase, the  AuNP@6&#8208;Iz&#8208;&#945;&#8208;CD  realizes unprecedented chiral recognition catalysis for chiral monosaccharides. In combination with 3, 3, 5, 5&#8208;tetramethylbenzidine (TMB) color reaction, the  AuNP@6&#8208;Iz&#8208;&#945;&#8208;CD  exhibits the ability to recognize the chirality of various monosaccharides.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Photo&#8208;Controllable Catalysis and Chiral Monosaccharide Recognition Induced by Cyclodextrin Derivatives</dc:title>
-      <dc:identifier>doi:10.1002/anie.202017001</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-05T06:03:21-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202017001</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202017001</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202015034">
-      <title>Amine&#8208;to&#8208;azide conversion on native RNA via metal&#8208;free diazo transfer opens new avenues&#160;for RNA manipulations</title>
-      <dc:description>A major challenge in the field of RNA chemistry is the identification of selective and quantitative conversion reactions on RNA that can be used for tagging and any other RNA tool development. Here, we introduce metal&#8208;free diazotransfer on native RNA containing an aliphatic primary amino group using the diazotizing reagent fluorosulfuryl azide (FSO  2  N  3  ). The reaction provides the corresponding azide&#8208;modified RNA in nearly quantitatively yields without affecting the nucleobase amino groups. The obtained azido&#8208;RNA can then be further processed utilizing well&#8208;established bioorthogonal reactions such as azide&#8208;alkyne cycloadditions (Click) or Staudinger ligations. We exemplify the robustness of this approach for the synthesis of peptidyl&#8208;tRNA mimics and for the pull&#8208;down of acp  3  U and k  2  C containing tRNAs of the&#160;  E.coli  tRNA pool isolated from cellular extracts. Our approach therefore adds a new dimension to the targeted chemical manipulation of diverse RNA species.</dc:description>
-      <dc:creator>
-Olga Krasheninina, 
-Julia Thaler, 
-Matthias Erlacher, 
-Ronald Micura
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202015034</link>
-      <content:encoded>&lt;p&gt;A major challenge in the field of RNA chemistry is the identification of selective and quantitative conversion reactions on RNA that can be used for tagging and any other RNA tool development. Here, we introduce metal&#8208;free diazotransfer on native RNA containing an aliphatic primary amino group using the diazotizing reagent fluorosulfuryl azide (FSO  2  N  3  ). The reaction provides the corresponding azide&#8208;modified RNA in nearly quantitatively yields without affecting the nucleobase amino groups. The obtained azido&#8208;RNA can then be further processed utilizing well&#8208;established bioorthogonal reactions such as azide&#8208;alkyne cycloadditions (Click) or Staudinger ligations. We exemplify the robustness of this approach for the synthesis of peptidyl&#8208;tRNA mimics and for the pull&#8208;down of acp  3  U and k  2  C containing tRNAs of the&#160;  E.coli  tRNA pool isolated from cellular extracts. Our approach therefore adds a new dimension to the targeted chemical manipulation of diverse RNA species.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Amine&#8208;to&#8208;azide conversion on native RNA via metal&#8208;free diazo transfer opens new avenues&#160;for RNA manipulations</dc:title>
-      <dc:identifier>doi:10.1002/anie.202015034</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-05T06:01:36-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202015034</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202015034</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/anie.202016965">
       <title>Self&#8208;Regeneration and Self&#8208;Healing in DNA Origami Nanostructures</title>
       <dc:description>
@@ -2140,48 +2173,6 @@ Stephen Z. D. Cheng
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202016554</prism:doi>
       <prism:url>https://doi.org/10.1002/anie.202016554</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202016890">
-      <title>Room&#8208;Temperature Bistability in a Ni&#8211;Fe Chain: Electron Transfer Controlled by Temperature, Pressure, Light, and Humidity</title>
-      <dc:description>
-Stimuli&#8208;responsive materials are important for the construction of molecular switches or sensors. In their Research Article (DOI: 10.1002/anie.202012876), Mateusz Reczy&#324;ski, Shin&#8208;ichi Ohkoshi, Beata Nowicka and co&#8208;workers present room temperature bistability in a CN&#8208;bridged Ni&#8211;Fe coordination chain, which exhibits multiresponsive behavior with electron&#8208;transfer transitions induced by temperature, light, pressure, and humidity. The material responds to these stimuli with measurable changes in magnetic properties and color.
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Mateusz Reczy&#324;ski, 
-Dawid Pinkowicz, 
-Koji Nakabayashi, 
-Christian N&#228;ther, 
-Jan Stanek, 
-Marcin Kozie&#322;, 
-Justyna Kalinowska&#8208;T&#322;u&#347;cik, 
-Barbara Sieklucka, 
-Shin&#8208;ichi Ohkoshi, 
-Beata Nowicka
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202016890</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1a06d26c-dc17-42c1-81e6-1d56d3f26aab/anie202016890-toc-0001-m.png"
-     alt="Room&#8208;Temperature Bistability in a Ni&#8211;Fe Chain: Electron Transfer Controlled by Temperature, Pressure, Light, and Humidity"/&gt;
-&lt;p&gt;Stimuli&#8208;responsive materials are important for the construction of molecular switches or sensors. In their Research Article (DOI: &lt;a href="https://doi.org/10.1002/anie.202012876"&gt;10.1002/anie.202012876&lt;/a&gt;), Mateusz Reczy&#324;ski, Shin&#8208;ichi Ohkoshi, Beata Nowicka and co&#8208;workers present room temperature bistability in a CN&#8208;bridged Ni&#8211;Fe coordination chain, which exhibits multiresponsive behavior with electron&#8208;transfer transitions induced by temperature, light, pressure, and humidity. The material responds to these stimuli with measurable changes in magnetic properties and color.
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>Angewandte Chemie International Edition, EarlyView. </description>
-      <dc:title>Room&#8208;Temperature Bistability in a Ni&#8211;Fe Chain: Electron Transfer Controlled by Temperature, Pressure, Light, and Humidity</dc:title>
-      <dc:identifier>doi:10.1002/anie.202016890</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-04T10:34:13-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202016890</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202016890</prism:url>
       <prism:copyright />
       <prism:section>Cover Picture</prism:section>
    </item>
