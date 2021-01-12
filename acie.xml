@@ -9,7 +9,10 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015946" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014771" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014544" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016596" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016463" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016123" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016930" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016647" />
@@ -21,6 +24,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016048" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015390" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012023" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015946" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015196" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013803" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202008395" />
@@ -196,10 +200,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016022" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016695" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015628" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013448" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015274" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013593" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013489" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013275" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012469" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202012216" />
@@ -213,29 +213,98 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/anie.202015946">
-      <title>A Chiral, Pentafluorinated Isopropyl Group via Iodine(I)/I(III) Catalysis</title>
-      <dc:description>An I(I)/I(III) catalysis strategy to construct an enantioenriched hybrid fluorinated analogue of the iPr and CF(CF3)2 groups is reported. The difluorination of readily accessible &#945;&#8208;CF3&#8208;styrenes is enabled by the in situ generation of a chiral ArIF2 species to forge a stereocentre with the substituents F, CH2F and CF3 (up to 95%, &gt;20:1 vicinal:geminal difluorination). The replacement of the metabolically labile benzylic proton results in a highly preorganised scaffold as was determined by X&#8208;ray crystallography (&#960;&#8594; s* and stereoelectronic gauche s&#8594; s* interactions). A process of catalyst editing is disclosed in which preliminary validation of enantioselectivity is &#160;placed on a structural foundation.</dc:description>
+   <item rdf:about="/doi/abs/10.1002/anie.202014771">
+      <title>In vivo Assembly of Artificial Metalloenzymes and Application in Whole&#8208;Cell Biocatalysis</title>
+      <dc:description>We report the supramolecular assembly of artificial metalloenzymes (ArMs), based on the Lactococcal multidrug resistance regulator (LmrR) and an exogeneous copper(II)&#8208;phenanthroline complex, in the cytoplasm of  E. coli  cells. A combination of catalysis, cell&#8208;fractionation and inhibitor experiments, supplemented with in&#8208;cell solid&#8208;state NMR, confirmed the in&#8208;cell assembly. The ArM containing whole cells were active in the catalysis of the&#160; enantioselective Friedel&#8208;Crafts alkylation of indoles and the Diels&#8208;Alder reaction of azachalcone with cyclopentadiene. Directed evolution resulted in two different improved mutants for both reactions, LmrR_A92E_M8D and LmrR_A92E_V15A, respectively. The whole&#8208;cell ArM system requires no engineering of the microbial host, the protein scaffold or the cofactor to achieve ArM assembly and catalysis.&#160; We consider this a key step towards integrating abiological catalysis in biosynthesis, achieving a hybrid metabolism.</dc:description>
       <dc:creator>
-Stephanie Meyer, 
-Joel H&#228;fliger, 
-Michael Sch&#228;fer, 
-John  James Molloy, 
-Constantin  G Daniliuc, 
-Ryan Gilmour
+Shreyans Chordia, 
+Siddarth Narasimhan, 
+Alessandra Lucini Paioni, 
+Marc Baldus, 
+Gerard Roelfes
 </dc:creator>
-      <link>https://doi.org/10.1002/anie.202015946</link>
-      <content:encoded>&lt;p&gt;An I(I)/I(III) catalysis strategy to construct an enantioenriched hybrid fluorinated analogue of the iPr and CF(CF3)2 groups is reported. The difluorination of readily accessible &#945;&#8208;CF3&#8208;styrenes is enabled by the in situ generation of a chiral ArIF2 species to forge a stereocentre with the substituents F, CH2F and CF3 (up to 95%, &amp;gt;20:1 vicinal:geminal difluorination). The replacement of the metabolically labile benzylic proton results in a highly preorganised scaffold as was determined by X&#8208;ray crystallography (&#960;&#8594; s* and stereoelectronic gauche s&#8594; s* interactions). A process of catalyst editing is disclosed in which preliminary validation of enantioselectivity is &#160;placed on a structural foundation.&lt;/p&gt;</content:encoded>
+      <link>https://doi.org/10.1002/anie.202014771</link>
+      <content:encoded>&lt;p&gt;We report the supramolecular assembly of artificial metalloenzymes (ArMs), based on the Lactococcal multidrug resistance regulator (LmrR) and an exogeneous copper(II)&#8208;phenanthroline complex, in the cytoplasm of  E. coli  cells. A combination of catalysis, cell&#8208;fractionation and inhibitor experiments, supplemented with in&#8208;cell solid&#8208;state NMR, confirmed the in&#8208;cell assembly. The ArM containing whole cells were active in the catalysis of the&#160; enantioselective Friedel&#8208;Crafts alkylation of indoles and the Diels&#8208;Alder reaction of azachalcone with cyclopentadiene. Directed evolution resulted in two different improved mutants for both reactions, LmrR_A92E_M8D and LmrR_A92E_V15A, respectively. The whole&#8208;cell ArM system requires no engineering of the microbial host, the protein scaffold or the cofactor to achieve ArM assembly and catalysis.&#160; We consider this a key step towards integrating abiological catalysis in biosynthesis, achieving a hybrid metabolism.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Chiral, Pentafluorinated Isopropyl Group via Iodine(I)/I(III) Catalysis</dc:title>
-      <dc:identifier>doi:10.1002/anie.202015946</dc:identifier>
+      <dc:title>In vivo Assembly of Artificial Metalloenzymes and Application in Whole&#8208;Cell Biocatalysis</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014771</dc:identifier>
       <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-11T03:27:31-08:00</dc:date>
+      <dc:date>2021-01-11T10:45:42-08:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202015946</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202015946</prism:url>
+      <prism:doi>10.1002/anie.202014771</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014771</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202014544">
+      <title>Reproducibility in Electro&#8208;organic Synthesis &#8211; Myths and Misunderstandings</title>
+      <dc:description>The use of electric current as a traceless activator and reagent is experiencing a renaissance. This sustainable synthetic method is evolving into a hot topic in contemporary organic chemistry. Since researchers with various scientific backgrounds are entering this interdisciplinary field, different parameters and methods are reported to describe the experiments. The variation in the reported parameters can lead to problems with the reproducibility of the reported electro&#8208;organic synthesis. As an example, parameters such as current density or electrode distance are in some cases more significant than often anticipated. This Minireview provides guidelines on reporting of electro&#8208;synthetic data and dispels myths about this technique, thus streamlining the experimental parameters to facilitate reproducibility.</dc:description>
+      <dc:creator>
+Sebastian Beil, 
+Dennis Pollok, 
+Siegfried  R Waldvogel
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014544</link>
+      <content:encoded>&lt;p&gt;The use of electric current as a traceless activator and reagent is experiencing a renaissance. This sustainable synthetic method is evolving into a hot topic in contemporary organic chemistry. Since researchers with various scientific backgrounds are entering this interdisciplinary field, different parameters and methods are reported to describe the experiments. The variation in the reported parameters can lead to problems with the reproducibility of the reported electro&#8208;organic synthesis. As an example, parameters such as current density or electrode distance are in some cases more significant than often anticipated. This Minireview provides guidelines on reporting of electro&#8208;synthetic data and dispels myths about this technique, thus streamlining the experimental parameters to facilitate reproducibility.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Reproducibility in Electro&#8208;organic Synthesis &#8211; Myths and Misunderstandings</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014544</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-11T09:39:39-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014544</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014544</prism:url>
+      <prism:copyright />
+      <prism:section>Minireview</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202016596">
+      <title>Complementary Syntheses Giving Access to a Full Suite of Differentially Substituted Phthalocyanine&#8208;Porphyrin Hybrids**</title>
+      <dc:description>Phthalocyanines and porphyrins are often the scaffolds of choice for use in widespread applications. Synthetic advances allow bespoke derivatives to be made, tailoring their properties. The selective synthesis of unsymmetrical systems, particularly phthalocyanines, has remained a significant unmet challenge. Porphyrin&#8208;phthalocyanine hybrids offer the potential to combine the favorable features of both parent structures, but again synthetic strategies are poorly developed. Here we demonstrate strategies that give straightforward, controlled access to differentially substituted meso&#8208;aryl&#8208;tetrabenzotriazaporphyrins by reaction between an aryl&#8208;aminoisoindolene (    A    ) initiator and a complementary phthalonitrile (    B    ). The choice of precursors and reaction conditions allows selective preparation of 1:3    Ar&#8208;ABBB    and, uniquely, 2:2    Ar&#8208;ABBA   functionalised hybrids.</dc:description>
+      <dc:creator>
+Andrew  Neil Cammidge, 
+Faeza Alkorbi, 
+Alejandro D&#237;az-Moscoso, 
+Jacob Gretton, 
+Isabelle Chambrier, 
+Graham  J. Tizzard, 
+Simon  J. Coles, 
+David  L. Hughes
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202016596</link>
+      <content:encoded>&lt;p&gt;Phthalocyanines and porphyrins are often the scaffolds of choice for use in widespread applications. Synthetic advances allow bespoke derivatives to be made, tailoring their properties. The selective synthesis of unsymmetrical systems, particularly phthalocyanines, has remained a significant unmet challenge. Porphyrin&#8208;phthalocyanine hybrids offer the potential to combine the favorable features of both parent structures, but again synthetic strategies are poorly developed. Here we demonstrate strategies that give straightforward, controlled access to differentially substituted meso&#8208;aryl&#8208;tetrabenzotriazaporphyrins by reaction between an aryl&#8208;aminoisoindolene (    A    ) initiator and a complementary phthalonitrile (    B    ). The choice of precursors and reaction conditions allows selective preparation of 1:3    Ar&#8208;ABBB    and, uniquely, 2:2    Ar&#8208;ABBA   functionalised hybrids.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Complementary Syntheses Giving Access to a Full Suite of Differentially Substituted Phthalocyanine&#8208;Porphyrin Hybrids**</dc:title>
+      <dc:identifier>doi:10.1002/anie.202016596</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-11T08:48:59-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202016596</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202016596</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202016463">
+      <title>Generation of elemental fluorine through the electrolysis of copper difluoride at room temperature</title>
+      <dc:description>The safe generation of F2  gas at room temperature using simple cell configurations has been the &#8216;holy grail&#8217; of fluorine research for centuries. Thus, to address this issue, we report F2  gas generation through the electrolysis of CuF2  in a CsF&#8208;2.45HF molten salt without the evolution of H2  gas. The CuF2  is selected through a series of thermodynamic and kinetic assessments of possible metal fluorides. Anode assessments on graphite and glass&#8208;like carbon demonstrate absence of the anode effect during F2  gas generation due to stabilized operations at room temperature. Although Ni anode dissolves during electrolysis in the conventional medium&#8208;temperature cell, herein, it facilitates stable electrolysis over 100 h, achieving the F2  gas purity over 99 % with potential operation using one&#8208;compartment electrolysis. This work presents a safe and propitious mechanism for high&#8208;purity fluorine gas generation for small&#8208;scale lab and industrial applications.</dc:description>
+      <dc:creator>
+Kazuhiko Matsumoto, 
+Keita Shima, 
+Takuya Sugimoto, 
+Takahiro Inoue, 
+Rika Hagiwara
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202016463</link>
+      <content:encoded>&lt;p&gt;The safe generation of F2  gas at room temperature using simple cell configurations has been the &#8216;holy grail&#8217; of fluorine research for centuries. Thus, to address this issue, we report F2  gas generation through the electrolysis of CuF2  in a CsF&#8208;2.45HF molten salt without the evolution of H2  gas. The CuF2  is selected through a series of thermodynamic and kinetic assessments of possible metal fluorides. Anode assessments on graphite and glass&#8208;like carbon demonstrate absence of the anode effect during F2  gas generation due to stabilized operations at room temperature. Although Ni anode dissolves during electrolysis in the conventional medium&#8208;temperature cell, herein, it facilitates stable electrolysis over 100 h, achieving the F2  gas purity over 99 % with potential operation using one&#8208;compartment electrolysis. This work presents a safe and propitious mechanism for high&#8208;purity fluorine gas generation for small&#8208;scale lab and industrial applications.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Generation of elemental fluorine through the electrolysis of copper difluoride at room temperature</dc:title>
+      <dc:identifier>doi:10.1002/anie.202016463</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-11T08:44:04-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202016463</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202016463</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202016123">
       <title>Synthesis and Characterization of Water Stable Uranyl(V) Complexes</title>
@@ -2294,98 +2363,5 @@ Chaoyong Yang
       <prism:url>https://doi.org/10.1002/anie.202015628</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013448">
-      <title>Tailoring the pore size and chemistry of ionic ultramicroporous polymers for trace sulfur dioxide capture with high capacity and selectivity</title>
-      <dc:description>The efficient separation of trace sulfur dioxide (SO2  ) is challenging and industrially important, but limited number of adsorbents have been reported with both desired selectivity and high capacity at the low concentration of SO2  . Here we demonstrate the deep removal of SO2  with high uptake capacity (1.55 mmol g&#8208;1 ) and record SO2  /CO2  selectivity (&gt;5000) at ultra&#8208;low pressure of 0.002 bar, using ionic ultramicroporous polymers (IUPs) with high density of basic anions.&#160; The successful construction of uniform ultramicropores via polymerizing ionic monomers into IUPs enables the fully exploitation of the selective anionic sites. Notably, the aperture size and surface chemistry of IUPs can be finely tuned by adjusting the branched structure of ionic monomers, which play critical roles in excluding CH  4  and N  2  , as well as reducing the coadsorption of CO2  .&#160;Further, the swelling property of IUPs with adsorption of SO2  contributed to the high SO2  uptake capacity and high separation selectivity.&#160;Systematic investigations including static gas adsorption, dynamic breakthrough experiments, stability tests and modeling studies confirmed the efficient performance of IUPs for trace SO2  capture.</dc:description>
-      <dc:creator>
-Xian Suo, 
-Ying Yu, 
-Siheng Qian, 
-Lin Zhou, 
-Xili Cui, 
-Huabin Xing
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013448</link>
-      <content:encoded>&lt;p&gt;The efficient separation of trace sulfur dioxide (SO2  ) is challenging and industrially important, but limited number of adsorbents have been reported with both desired selectivity and high capacity at the low concentration of SO2  . Here we demonstrate the deep removal of SO2  with high uptake capacity (1.55 mmol g&#8208;1 ) and record SO2  /CO2  selectivity (&amp;gt;5000) at ultra&#8208;low pressure of 0.002 bar, using ionic ultramicroporous polymers (IUPs) with high density of basic anions.&#160; The successful construction of uniform ultramicropores via polymerizing ionic monomers into IUPs enables the fully exploitation of the selective anionic sites. Notably, the aperture size and surface chemistry of IUPs can be finely tuned by adjusting the branched structure of ionic monomers, which play critical roles in excluding CH  4  and N  2  , as well as reducing the coadsorption of CO2  .&#160;Further, the swelling property of IUPs with adsorption of SO2  contributed to the high SO2  uptake capacity and high separation selectivity.&#160;Systematic investigations including static gas adsorption, dynamic breakthrough experiments, stability tests and modeling studies confirmed the efficient performance of IUPs for trace SO2  capture.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Tailoring the pore size and chemistry of ionic ultramicroporous polymers for trace sulfur dioxide capture with high capacity and selectivity</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013448</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-31T03:44:06-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013448</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013448</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202015274">
-      <title>Broadening the Horizon of the Bell&#8211;Evans&#8211;Polanyi Principle towards Optically Triggered Structure Planarization</title>
-      <dc:description>Finding a quantitative relationship between kinetics and thermodynamics may be difficult, as the chemical principles state that they are not directly related. However, semi&#8208;empirical rules exist to compensate for this shortcoming, among which the Bell&#8211;Evans&#8211;Polanyi (  B&#8208;E&#8208;P  ) principle is an example for reactions involving bond breakage and reformation. Here, we expand the  B&#8208;E&#8208;P  principle to a new territory by probing photoinduced structure planarization (  PISP  ) of a series of dibenz[  b,f  ]azepine derivatives incorporating bent&#8208;to&#8208;planar motion of azepine and rotation of  N  &#8208;phenyl moieties. The latter involves twisting of the partial double bond character, inducing a barrier that is substituent dependent at the  para N  &#8208;phenyl position. The transition&#8208;state structure and frequency data well satisfy and broaden the  B&#8208;E&#8208;P  principle to  PISP  reactions without bond rearrangement. Together with prominent dual emissions during  PISP  , this makes possible harnessing of the kinetics/thermodynamics relationship and hence ratiometric luminescence properties for excited&#8208;state structural transformation.</dc:description>
-      <dc:creator>
-Yi Chen, 
-Kai-Hsin Chang, 
-Fan-Yi Meng, 
-Sheng-Ming Tseng, 
-Pi-Tai Chou
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202015274</link>
-      <content:encoded>&lt;p&gt;Finding a quantitative relationship between kinetics and thermodynamics may be difficult, as the chemical principles state that they are not directly related. However, semi&#8208;empirical rules exist to compensate for this shortcoming, among which the Bell&#8211;Evans&#8211;Polanyi (  B&#8208;E&#8208;P  ) principle is an example for reactions involving bond breakage and reformation. Here, we expand the  B&#8208;E&#8208;P  principle to a new territory by probing photoinduced structure planarization (  PISP  ) of a series of dibenz[  b,f  ]azepine derivatives incorporating bent&#8208;to&#8208;planar motion of azepine and rotation of  N  &#8208;phenyl moieties. The latter involves twisting of the partial double bond character, inducing a barrier that is substituent dependent at the  para N  &#8208;phenyl position. The transition&#8208;state structure and frequency data well satisfy and broaden the  B&#8208;E&#8208;P  principle to  PISP  reactions without bond rearrangement. Together with prominent dual emissions during  PISP  , this makes possible harnessing of the kinetics/thermodynamics relationship and hence ratiometric luminescence properties for excited&#8208;state structural transformation.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Broadening the Horizon of the Bell&#8211;Evans&#8211;Polanyi Principle towards Optically Triggered Structure Planarization</dc:title>
-      <dc:identifier>doi:10.1002/anie.202015274</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-30T10:59:36-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202015274</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202015274</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013593">
-      <title>Synergetic lipid extraction with oxidative damage amplifies cell&#8208;membrane&#8208;destructive stresses and potentiates rapid microorganism sterilization</title>
-      <dc:description>New bacterial sterilization techniques are needed to protect human health. Here, we introduce an innovative disinfection approach that imitates the lethality principle of a poisoned arrowhead&#8212;an ancient weapon that employs physical injury and chemical damage synergistically toward hunted targets&#8212;in the design of a nanosheet bacterial inactivation system that acts synergistically to achieve sterilization rates of &gt;99.99% (  Escherichia coli  ) over an ultrashort time period (~0.5 min). The two&#8208;dimensional MoS  2  &#8220;arrowhead&#8221; configuration has a sharp edge structure that enables the vigorous extraction of lipids from cell membranes and subsequent membrane disruptions. In the presence of permonosulfate, a strong oxidant, sulfur vacancies containing MoS  2  activate the stable molecules, which in turn output reactive oxygen species (ROS) from edge sites to basal areas; this process not only scavenges some portion of the phospholipids to allow for MoS  2  surface refreshment, but also directly attacks proteins thereby inflicting further damage to &#8220;as&#8208;injured&#8221; cells and amplifying the cell&#8208;membrane&#8208;destructive stresses toward pathogenic microorganisms. With small amounts of the new material, we successfully disinfected natural water (~99.93% inactivation in terms of total bacteria) within 30 s.</dc:description>
-      <dc:creator>
-Yu Chen, 
-Qinghua Ji, 
-Gong Zhang, 
-Huijuan Liu, 
-Jiuhui Qu
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013593</link>
-      <content:encoded>&lt;p&gt;New bacterial sterilization techniques are needed to protect human health. Here, we introduce an innovative disinfection approach that imitates the lethality principle of a poisoned arrowhead&#8212;an ancient weapon that employs physical injury and chemical damage synergistically toward hunted targets&#8212;in the design of a nanosheet bacterial inactivation system that acts synergistically to achieve sterilization rates of &amp;gt;99.99% (  Escherichia coli  ) over an ultrashort time period (~0.5 min). The two&#8208;dimensional MoS  2  &#8220;arrowhead&#8221; configuration has a sharp edge structure that enables the vigorous extraction of lipids from cell membranes and subsequent membrane disruptions. In the presence of permonosulfate, a strong oxidant, sulfur vacancies containing MoS  2  activate the stable molecules, which in turn output reactive oxygen species (ROS) from edge sites to basal areas; this process not only scavenges some portion of the phospholipids to allow for MoS  2  surface refreshment, but also directly attacks proteins thereby inflicting further damage to &#8220;as&#8208;injured&#8221; cells and amplifying the cell&#8208;membrane&#8208;destructive stresses toward pathogenic microorganisms. With small amounts of the new material, we successfully disinfected natural water (~99.93% inactivation in terms of total bacteria) within 30 s.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Synergetic lipid extraction with oxidative damage amplifies cell&#8208;membrane&#8208;destructive stresses and potentiates rapid microorganism sterilization</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013593</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-30T08:48:50-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013593</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013593</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202013489">
-      <title>Stabilization of Undercooled State via Passivating Layers</title>
-      <dc:description>Advances in hybrid, high&#8208;density and flexible/wearable electronics demand low temperature metal processing. Undercooled metals have emerged as a solution to low temperature soldering and printing of conductive traces. The process of undercooling, however, relies on frustration of liquid&#8208;solid transition mainly through increase in activation energy by: i) elimination heterogeneous nucleants, or ii) frustrating homogeneous nucleation. We inferred that passivating oxide layers present an active platform that can isolate the core from heterogenous nucleants (physical barrier) while also raising the activation energy (thermodynamic/kinetic barrier) needed for solidification. The latter is due to composition gradients (speciation) that establishes a sharp chemical potential gradient across the thin (0.7&#8208;5 nm) oxide shell hence slows homogeneous nucleation. When this speciation is properly tuned, the oxide layer presents a previously unaccounted for interfacial tension in the overall energy landscape of the relaxing material. Herein, the role of surface oxide structure in enhancing and maintaining undercooling is demonstrated. We demonstrate that; i) the integrity of the passivation oxide is critical in stabilizing undercooled particle, a key tenet in developing heat&#8208;free solders, ii) that inductive effects play a critical role in undercooling, and iii) that magnitude of the effect of the passivating oxide can be larger that of size in undercooling.</dc:description>
-      <dc:creator>
-Andrew Martin, 
-Boyce  S. Chang, 
-Alana  M. Pauls, 
-Chuanshen Du, 
-Martin  M. Thuo
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202013489</link>
-      <content:encoded>&lt;p&gt;Advances in hybrid, high&#8208;density and flexible/wearable electronics demand low temperature metal processing. Undercooled metals have emerged as a solution to low temperature soldering and printing of conductive traces. The process of undercooling, however, relies on frustration of liquid&#8208;solid transition mainly through increase in activation energy by: i) elimination heterogeneous nucleants, or ii) frustrating homogeneous nucleation. We inferred that passivating oxide layers present an active platform that can isolate the core from heterogenous nucleants (physical barrier) while also raising the activation energy (thermodynamic/kinetic barrier) needed for solidification. The latter is due to composition gradients (speciation) that establishes a sharp chemical potential gradient across the thin (0.7&#8208;5 nm) oxide shell hence slows homogeneous nucleation. When this speciation is properly tuned, the oxide layer presents a previously unaccounted for interfacial tension in the overall energy landscape of the relaxing material. Herein, the role of surface oxide structure in enhancing and maintaining undercooling is demonstrated. We demonstrate that; i) the integrity of the passivation oxide is critical in stabilizing undercooled particle, a key tenet in developing heat&#8208;free solders, ii) that inductive effects play a critical role in undercooling, and iii) that magnitude of the effect of the passivating oxide can be larger that of size in undercooling.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Stabilization of Undercooled State via Passivating Layers</dc:title>
-      <dc:identifier>doi:10.1002/anie.202013489</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2020-12-30T07:31:31-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202013489</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202013489</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
    </item>
    </rdf:RDF>
