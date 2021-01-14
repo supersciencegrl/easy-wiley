@@ -9,10 +9,16 @@
       <prism:publicationName>Angewandte Chemie International Edition (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016561" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015250" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017098" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016531" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015552" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014341" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013988" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014144" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016582" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015725" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016561" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014991" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017102" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017016" />
@@ -182,12 +188,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014877" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202015030" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014621" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202011848" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016422" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014895" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016140" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202017238" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016156" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202013361" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202016965" />
             <rdf:li rdf:resource="/doi/abs/10.1002/anie.202014323" />
@@ -219,30 +219,155 @@
       <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
       <link>https://onlinelibrary.wiley.com/journal/15213773</link>
    </image>
-   <item rdf:about="/doi/abs/10.1002/anie.202016561">
-      <title>Silver&#8208;Catalyzed Enantioselective Sulfimidation Mediated by Hydrogen Bonding Interactions</title>
-      <dc:description>An enantioselective sulfimidation of 3&#8208;thiosubstituted 2&#8208;quinolones and 2&#8208;pyridones was achieved with a stoichiometric nitrene source (PhI=NNs) and a silver&#8208;based catalyst system. Key to the success of the reaction is the use of a chiral phenanthroline ligand with a hydrogen bonding site. The enantioselectivity does not depend on the size of the two substituents but only on the binding properties of the heterocyclic lactams. A total of 21 chiral sulfimides were obtained in high yields (44&#8208;99%) and with significant enantiomeric excess (70&#8208;99%  ee  ). The sulfimidation proceeds with high site&#8208;selectivity and can also be employed for the kinetic resolution of chiral sulfoxides. Mechanistic evidence suggests the intermediacy of a heteroleptic silver complex in which the silver atom is bound to one molecule of the chiral ligand and one molecule of an achiral 1,10&#8208;phenanthroline. Support for the suggested reaction course was obtained by ESI mass spectrometry, DFT calculations and a Hammett analysis.</dc:description>
+   <item rdf:about="/doi/abs/10.1002/anie.202015250">
+      <title>Effect of MOF Database Selection on the Assessment of Gas Storage and Separation Potentials of MOFs</title>
+      <dc:description>Development of computation&#8208;ready metal&#8208;organic framework databases (MOF DBs) has accelerated high&#8208;throughput computational screening (HTCS) of materials to identify the best candidates for gas storage and separation. These DBs were constructed using structural curations to make MOFs directly usable for molecular simulations , which caused the same MOF to be reported with different structural features in different DBs. We examined thousands of common materials of the two recently updated, very widely used MOF DBs to reveal how structural discrepancies affect simulated CH  4  , H  2  , CO  2  uptakes and CH  4  /H  2  separation performances of MOFs. Results showed that DB selection has a significant effect on the calculated gas uptakes and ideal selectivities of materials at low pressure. A detailed analysis on the curated structures was provided to isolate the critical elements of MOFs determining the gas uptakes. Identification of the top&#8208;performing materials for gas separation was shown to strongly depend on the DB used in simulations.</dc:description>
       <dc:creator>
-Rajasekar Annapureddy, 
-Finn Burg, 
-Johannes Gram&#252;ller, 
-Tino Golub, 
-Christian Merten, 
-Stefan Huber, 
-Thorsten Bach
+Hilal Daglar, 
+Hasan  Can Gulbalkan, 
+Gokay Avci, 
+Gokhan  Onder Aksu, 
+Omer  Faruk Altundal, 
+Cigdem Altintas, 
+Ilknur Erucar, 
+Seda Keskin
 </dc:creator>
-      <link>https://doi.org/10.1002/anie.202016561</link>
-      <content:encoded>&lt;p&gt;An enantioselective sulfimidation of 3&#8208;thiosubstituted 2&#8208;quinolones and 2&#8208;pyridones was achieved with a stoichiometric nitrene source (PhI=NNs) and a silver&#8208;based catalyst system. Key to the success of the reaction is the use of a chiral phenanthroline ligand with a hydrogen bonding site. The enantioselectivity does not depend on the size of the two substituents but only on the binding properties of the heterocyclic lactams. A total of 21 chiral sulfimides were obtained in high yields (44&#8208;99%) and with significant enantiomeric excess (70&#8208;99%  ee  ). The sulfimidation proceeds with high site&#8208;selectivity and can also be employed for the kinetic resolution of chiral sulfoxides. Mechanistic evidence suggests the intermediacy of a heteroleptic silver complex in which the silver atom is bound to one molecule of the chiral ligand and one molecule of an achiral 1,10&#8208;phenanthroline. Support for the suggested reaction course was obtained by ESI mass spectrometry, DFT calculations and a Hammett analysis.&lt;/p&gt;</content:encoded>
+      <link>https://doi.org/10.1002/anie.202015250</link>
+      <content:encoded>&lt;p&gt;Development of computation&#8208;ready metal&#8208;organic framework databases (MOF DBs) has accelerated high&#8208;throughput computational screening (HTCS) of materials to identify the best candidates for gas storage and separation. These DBs were constructed using structural curations to make MOFs directly usable for molecular simulations , which caused the same MOF to be reported with different structural features in different DBs. We examined thousands of common materials of the two recently updated, very widely used MOF DBs to reveal how structural discrepancies affect simulated CH  4  , H  2  , CO  2  uptakes and CH  4  /H  2  separation performances of MOFs. Results showed that DB selection has a significant effect on the calculated gas uptakes and ideal selectivities of materials at low pressure. A detailed analysis on the curated structures was provided to isolate the critical elements of MOFs determining the gas uptakes. Identification of the top&#8208;performing materials for gas separation was shown to strongly depend on the DB used in simulations.&lt;/p&gt;</content:encoded>
       <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Silver&#8208;Catalyzed Enantioselective Sulfimidation Mediated by Hydrogen Bonding Interactions</dc:title>
-      <dc:identifier>doi:10.1002/anie.202016561</dc:identifier>
+      <dc:title>Effect of MOF Database Selection on the Assessment of Gas Storage and Separation Potentials of MOFs</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015250</dc:identifier>
       <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-13T03:22:05-08:00</dc:date>
+      <dc:date>2021-01-14T03:28:57-08:00</dc:date>
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202016561</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202016561</prism:url>
+      <prism:doi>10.1002/anie.202015250</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015250</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202017098">
+      <title>Non&#8208;Metal Ion Co&#8208;Insertion Chemistry in Aqueous Zn/MnO2 Batteries</title>
+      <dc:description>The co&#8208;insertion of dual ions can often offer enhanced electrochemical performance for the aqueous zinc batteries. Although the insertion of non&#8208;metallic ions has been achieved in aqueous zinc batteries, the co&#8208;insertion chemistry of non&#8208;metallic cations is still a challenge. Here, a reversible H  +  /NH  4  +  co&#8208;insertion/extraction mechanism was developed in an aqueous Zn/MnO  2  battery system. The synergistic effect between the dual cations endows the aqueous batteries with the fast kinetics of ion diffusion and the reversible structure evolution of MnO  2  . As a result, the Zn/MnO  2  battery displays excellent rate capability and cycling performance. This work will pave the way toward the design of aqueous rechargeable batteries with non&#8208;metallic ions.</dc:description>
+      <dc:creator>
+Shuai Wang, 
+Zishun Yuan, 
+Xu Zhang, 
+Songshan Bi, 
+Zhen Zhou, 
+Jinlei Tian, 
+Qichun Zhang, 
+Zhiqiang Niu
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202017098</link>
+      <content:encoded>&lt;p&gt;The co&#8208;insertion of dual ions can often offer enhanced electrochemical performance for the aqueous zinc batteries. Although the insertion of non&#8208;metallic ions has been achieved in aqueous zinc batteries, the co&#8208;insertion chemistry of non&#8208;metallic cations is still a challenge. Here, a reversible H  +  /NH  4  +  co&#8208;insertion/extraction mechanism was developed in an aqueous Zn/MnO  2  battery system. The synergistic effect between the dual cations endows the aqueous batteries with the fast kinetics of ion diffusion and the reversible structure evolution of MnO  2  . As a result, the Zn/MnO  2  battery displays excellent rate capability and cycling performance. This work will pave the way toward the design of aqueous rechargeable batteries with non&#8208;metallic ions.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Non&#8208;Metal Ion Co&#8208;Insertion Chemistry in Aqueous Zn/MnO2 Batteries</dc:title>
+      <dc:identifier>doi:10.1002/anie.202017098</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-14T02:45:54-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202017098</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202017098</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202016531">
+      <title>Boosting Zn electrode reversibility in aqueous electrolyte using low&#8208;cost antisolvents</title>
+      <dc:description>Antisolvent addition has been widely studied in crystallization in the pharmaceutical industries by breaking the solvation balance of the original solution. Here we report a similar antisolvent strategy to boost Zn reversibility via regulation of the electrolyte on a molecular level. By adding for example methanol into ZnSO  4  electrolyte, the free water and coordinated water in Zn  2+  solvation sheath gradually interact with the antisolvent, which minimizes water activity and weakens Zn  2+  solvation. Concomitantly, dendrite&#8208;free Zn deposition occurs via change in the deposition orientation, as evidenced by in situ optical microscopy. Zn reversibility is significantly boosted in antisolvent electrolyte of 50% methanol by volume (Anti&#8208;M&#8208;50%) even under harsh environments of &#8722;20 &#176;C and 60 &#176;C. Additionally, the suppressed side reactions and dendrite&#8208;free Zn plating/stripping in Anti&#8208;M&#8208;50% electrolyte significantly enhance performance of Zn/polyaniline coin and pouch cells. We demonstrate this low&#8208;cost strategy can be readily generalized to other solvents, indicating its practical universality. Results will be of immediate interest and benefit to a range of researchers in electrochemistry and energy storage.</dc:description>
+      <dc:creator>
+Junnan Hao, 
+Libei Yuan, 
+Chao Ye, 
+Dongliang Chao, 
+Kenneth Davey, 
+Zaiping Guo, 
+Shizhang Qiao
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202016531</link>
+      <content:encoded>&lt;p&gt;Antisolvent addition has been widely studied in crystallization in the pharmaceutical industries by breaking the solvation balance of the original solution. Here we report a similar antisolvent strategy to boost Zn reversibility via regulation of the electrolyte on a molecular level. By adding for example methanol into ZnSO  4  electrolyte, the free water and coordinated water in Zn  2+  solvation sheath gradually interact with the antisolvent, which minimizes water activity and weakens Zn  2+  solvation. Concomitantly, dendrite&#8208;free Zn deposition occurs via change in the deposition orientation, as evidenced by in situ optical microscopy. Zn reversibility is significantly boosted in antisolvent electrolyte of 50% methanol by volume (Anti&#8208;M&#8208;50%) even under harsh environments of &#8722;20 &#176;C and 60 &#176;C. Additionally, the suppressed side reactions and dendrite&#8208;free Zn plating/stripping in Anti&#8208;M&#8208;50% electrolyte significantly enhance performance of Zn/polyaniline coin and pouch cells. We demonstrate this low&#8208;cost strategy can be readily generalized to other solvents, indicating its practical universality. Results will be of immediate interest and benefit to a range of researchers in electrochemistry and energy storage.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>Boosting Zn electrode reversibility in aqueous electrolyte using low&#8208;cost antisolvents</dc:title>
+      <dc:identifier>doi:10.1002/anie.202016531</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-13T10:20:50-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202016531</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202016531</prism:url>
+      <prism:copyright />
+      <prism:section>Research Article</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202015552">
+      <title>On&#8208;Surface Hydrogen/Deuterium Isotope Exchange in Polycyclic Aromatic Hydrocarbons</title>
+      <dc:description>Hydrogen plays important roles in the on&#8208;surface synthesis of carbon&#8208;based materials in ultra&#8208;high vacuum. The complex interplay between hydrogen and surface&#8208;adsorbed polycyclic aromatic hydrocarbons (PAHs) is tracked by  in&#8208;situ  time&#8208;of&#8208;flight secondary ion mass spectrometry (ToF&#8208;SIMS) combined with isotope labeling.  In&#8208;situ  deuterium labeling of the prototypical PAHs, coronene (CR) and of 7&#8208;armchair graphene nanoribbons (GNRs), on Au(111) is achieved by annealing either in D  2  gas or in the vapor of perdeuterio&#8208;acenaphthene. By tracking the mass spectra of in&#8208;situ deuterated CR mixed with hydrogen&#8208;CR, it is demonstrated that PAHs adsorbed at hot Au(111) surfaces continuously exchange hydrogen atoms. Also, D  2  present during the Ullmann coupling step leads to incorporation of deuterium and to shorter GNRs.</dc:description>
+      <dc:creator>
+Christian W&#228;ckerlin
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202015552</link>
+      <content:encoded>&lt;p&gt;Hydrogen plays important roles in the on&#8208;surface synthesis of carbon&#8208;based materials in ultra&#8208;high vacuum. The complex interplay between hydrogen and surface&#8208;adsorbed polycyclic aromatic hydrocarbons (PAHs) is tracked by  in&#8208;situ  time&#8208;of&#8208;flight secondary ion mass spectrometry (ToF&#8208;SIMS) combined with isotope labeling.  In&#8208;situ  deuterium labeling of the prototypical PAHs, coronene (CR) and of 7&#8208;armchair graphene nanoribbons (GNRs), on Au(111) is achieved by annealing either in D  2  gas or in the vapor of perdeuterio&#8208;acenaphthene. By tracking the mass spectra of in&#8208;situ deuterated CR mixed with hydrogen&#8208;CR, it is demonstrated that PAHs adsorbed at hot Au(111) surfaces continuously exchange hydrogen atoms. Also, D  2  present during the Ullmann coupling step leads to incorporation of deuterium and to shorter GNRs.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>On&#8208;Surface Hydrogen/Deuterium Isotope Exchange in Polycyclic Aromatic Hydrocarbons</dc:title>
+      <dc:identifier>doi:10.1002/anie.202015552</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-13T10:19:25-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202015552</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202015552</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202014341">
+      <title>BiPO4 Derived 2D Nanosheets for Efficient Electrocatalytic CO2 Reduction to Liquid Fuel</title>
+      <dc:description>Electrochemical reduction of carbon dioxide (CO  2  ) to high&#8208;value liquid fuel with high selectivity is appealing for energy conversion and storage. Here we report a bismuth phosphate (BiPO  4  ) derived 2D nanosheet&#8208;like electrocatalyst for efficiently converting CO  2  into liquid&#8208;phase formate. The catalyst presents a formate Faradaic efficiency over 90% and a cathodic energy efficiency of 73% at an industrially relevant current density of 200 mA cm  &#8722;2  in flow cell. The  in&#8208;situ  generation of the Bi&#8208;O active species on the catalyst surface is determined via  operando  Raman measurement. Morphological and X&#8208;ray photoelectron spectroscopy analyses reveal the origin of the high activity for formate electrosynthesis from CO  2  and water: the 2D structure together with the rich oxygen atoms insertion in the surface of the BiPO  4  derived nanosheets.</dc:description>
+      <dc:creator>
+Yating Wang, 
+Yuhang Li, 
+Jinze Liu, 
+Chunxiao Dong, 
+Chuqian Xiao, 
+Ling Cheng, 
+Hongliang Jiang, 
+Hao Jiang, 
+Chunzhong Li
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202014341</link>
+      <content:encoded>&lt;p&gt;Electrochemical reduction of carbon dioxide (CO  2  ) to high&#8208;value liquid fuel with high selectivity is appealing for energy conversion and storage. Here we report a bismuth phosphate (BiPO  4  ) derived 2D nanosheet&#8208;like electrocatalyst for efficiently converting CO  2  into liquid&#8208;phase formate. The catalyst presents a formate Faradaic efficiency over 90% and a cathodic energy efficiency of 73% at an industrially relevant current density of 200 mA cm  &#8722;2  in flow cell. The  in&#8208;situ  generation of the Bi&#8208;O active species on the catalyst surface is determined via  operando  Raman measurement. Morphological and X&#8208;ray photoelectron spectroscopy analyses reveal the origin of the high activity for formate electrosynthesis from CO  2  and water: the 2D structure together with the rich oxygen atoms insertion in the surface of the BiPO  4  derived nanosheets.&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>BiPO4 Derived 2D Nanosheets for Efficient Electrocatalytic CO2 Reduction to Liquid Fuel</dc:title>
+      <dc:identifier>doi:10.1002/anie.202014341</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-13T07:16:22-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202014341</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202014341</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/anie.202013988">
+      <title>An Unprecedented Pillar&#8208;cage Fluorinated Hybrid Porous Framework with Highly Efficient Acetylene Storage and Separation</title>
+      <dc:description>Despite much intense investigation on the C  2  H  2  /CO  2  separation, the trade&#8208;off between the adsorption capacity and separation selectivity is still tricky. To overcome the dilemma, we have rationally synthesized an ultra&#8208;stable fluorinated hybrid porous material SIFSIX&#8208;Cu&#8208;TPA with the  ith&#8208;d  topology. Completely differing from the famous pillar&#8208;layer fluorinated materials, SIFSIX&#8208;Cu&#8208;TPA possesses a unique pillar&#8208;cage structure, in which the SiF  6  2&#8208;  anions cross&#8208;link two adjacent metal nodes as pillars to stabilize the three&#8208;dimensional framework constructed by icosahedral and tetrahedral cages. As anticipated, SIFSIX&#8208;Cu&#8208;TPA has high BET surface area (1330 m  2  /g) as well as high C  2  H  2  uptake (185 cm  3  /g at 298 K and 1 bar). At the same time, due to the obvious difference in the adsorption performance of CO  2  and C  2  H  2  especially in the low pressure area, SIFSIX&#8208;Cu&#8208;TPA also exhibits an excellent C  2  H  2  /CO  2  separation   performance  (breakthrough time up to 68 min/g at 298K and 1 bar).</dc:description>
+      <dc:creator>
+Hao Li, 
+Caiping Liu, 
+Cheng Chen, 
+Zhengyi Di, 
+Daqiang Yuan, 
+Jiandong Pang, 
+Wei Wei, 
+Mingyan Wu, 
+Maochun Hong
+</dc:creator>
+      <link>https://doi.org/10.1002/anie.202013988</link>
+      <content:encoded>&lt;p&gt;Despite much intense investigation on the C  2  H  2  /CO  2  separation, the trade&#8208;off between the adsorption capacity and separation selectivity is still tricky. To overcome the dilemma, we have rationally synthesized an ultra&#8208;stable fluorinated hybrid porous material SIFSIX&#8208;Cu&#8208;TPA with the  ith&#8208;d  topology. Completely differing from the famous pillar&#8208;layer fluorinated materials, SIFSIX&#8208;Cu&#8208;TPA possesses a unique pillar&#8208;cage structure, in which the SiF  6  2&#8208;  anions cross&#8208;link two adjacent metal nodes as pillars to stabilize the three&#8208;dimensional framework constructed by icosahedral and tetrahedral cages. As anticipated, SIFSIX&#8208;Cu&#8208;TPA has high BET surface area (1330 m  2  /g) as well as high C  2  H  2  uptake (185 cm  3  /g at 298 K and 1 bar). At the same time, due to the obvious difference in the adsorption performance of CO  2  and C  2  H  2  especially in the low pressure area, SIFSIX&#8208;Cu&#8208;TPA also exhibits an excellent C  2  H  2  /CO  2  separation   performance  (breakthrough time up to 68 min/g at 298K and 1 bar).&lt;/p&gt;</content:encoded>
+      <description>Angewandte Chemie International Edition, Accepted Article. </description>
+      <dc:title>An Unprecedented Pillar&#8208;cage Fluorinated Hybrid Porous Framework with Highly Efficient Acetylene Storage and Separation</dc:title>
+      <dc:identifier>doi:10.1002/anie.202013988</dc:identifier>
+      <dc:source>Angewandte Chemie International Edition</dc:source>
+      <dc:date>2021-01-13T07:15:02-08:00</dc:date>
+      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+      <prism:doi>10.1002/anie.202013988</prism:doi>
+      <prism:url>https://doi.org/10.1002/anie.202013988</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/anie.202014144">
       <title>Synthesis of Core@Shell Cu&#8208;Ni@Pt&#8208;Cu Nano&#8208;Octahedra and Their Improved MOR Activity</title>
@@ -1542,145 +1667,6 @@ Jiaobing Wang
       <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
       <prism:doi>10.1002/anie.202014621</prism:doi>
       <prism:url>https://doi.org/10.1002/anie.202014621</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202011848">
-      <title>(Aza)Acenes Share the C2 Brink with (Anti)Aromatic Macrocycles &#8211; Local vs. Global Delocalization Paths</title>
-      <dc:description>A strong conjugation present in fused systems plays a crucial role in tuning of the properties that would be showing a dependence on the efficiency of p&#8208;electrons coupling. The p&#8208;cloud available in the final structure can be drastically influenced by a side&#8208; or linear fusion of unsaturated and conjugated hydrocarbons. The linear welding of naphthalene/anthracene or quinoxaline/benzo[g]&#8208; quinoxaline with triphyrin(2.1.1) gives structures where the competition between local and global delocalization is distinguished. The aromatic character observed in skeletons strongly depends on the oxidation state of the macrocyclic flanking and is either extended over the whole system or kept as a composition of local currents (diatropic and paratropic) of incorporated units. The hybrid systems show the properties derived from the p&#8208;conjugations that interlace one another but also show a significant independence of (aza)acene subunits reflected in the observed spectroscopic properties.</dc:description>
-      <dc:creator>
-Mi&#322;osz Pawlicki, 
-Krzysztof Bartkowski
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202011848</link>
-      <content:encoded>&lt;p&gt;A strong conjugation present in fused systems plays a crucial role in tuning of the properties that would be showing a dependence on the efficiency of p&#8208;electrons coupling. The p&#8208;cloud available in the final structure can be drastically influenced by a side&#8208; or linear fusion of unsaturated and conjugated hydrocarbons. The linear welding of naphthalene/anthracene or quinoxaline/benzo[g]&#8208; quinoxaline with triphyrin(2.1.1) gives structures where the competition between local and global delocalization is distinguished. The aromatic character observed in skeletons strongly depends on the oxidation state of the macrocyclic flanking and is either extended over the whole system or kept as a composition of local currents (diatropic and paratropic) of incorporated units. The hybrid systems show the properties derived from the p&#8208;conjugations that interlace one another but also show a significant independence of (aza)acene subunits reflected in the observed spectroscopic properties.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>(Aza)Acenes Share the C2 Brink with (Anti)Aromatic Macrocycles &#8211; Local vs. Global Delocalization Paths</dc:title>
-      <dc:identifier>doi:10.1002/anie.202011848</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-06T11:40:46-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202011848</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202011848</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202016422">
-      <title>Untangling the Complexity of Mixed Lithium/Magnesium Alkyl/Alkoxy Combinations Utilised in Br/Mg&#160;Exchange Reactions</title>
-      <dc:description>While it is known that the addition of Group 1 alkoxides to  s  &#8208;block organometallics can have an activating effect on reactivity, the exact nature of this effect is not that well understood. Here we describe the activation of  s  Bu  2  Mg towards substituted bromoarenes by adding one equivalent of LiOR (R = 2&#8208;ethylhexyl), where unusually both  s  Bu groups can undergo efficient Br/Mg exchange. Depending on the substitution pattern on the bromoarene two different types of organometallic intermediates have been isolated, either a mixed aryl/alkoxide [{LiMg(2&#8208;FG&#8208;C  6  H  4  )  2  (OR)}  2  ] (FG= OMe; NMe  2  ) or a homoaryl [(THF)  4  Li  2  Mg(4&#8208;FG&#8208;C  6  H  4  )  4  ] (FG= OMe, F). Detailed NMR spectroscopic studies have revealed that these exchange reactions and the formation of their intermediates are controlled by a new type of bimetallic Schlenk&#8208;type equilibrium between heteroleptic [LiMg  s  Bu  2  (OR)], alkyl rich [Li  2  Mg  s  Bu  4  ] and Mg(OR)  2  , with [Li  2  Mg  s  Bu  4  ] being the active species performing the Br/Mg exchange process.</dc:description>
-      <dc:creator>
-Eva Hevia, 
-Leonie Bole, 
-Neil Judge
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202016422</link>
-      <content:encoded>&lt;p&gt;While it is known that the addition of Group 1 alkoxides to  s  &#8208;block organometallics can have an activating effect on reactivity, the exact nature of this effect is not that well understood. Here we describe the activation of  s  Bu  2  Mg towards substituted bromoarenes by adding one equivalent of LiOR (R = 2&#8208;ethylhexyl), where unusually both  s  Bu groups can undergo efficient Br/Mg exchange. Depending on the substitution pattern on the bromoarene two different types of organometallic intermediates have been isolated, either a mixed aryl/alkoxide [{LiMg(2&#8208;FG&#8208;C  6  H  4  )  2  (OR)}  2  ] (FG= OMe; NMe  2  ) or a homoaryl [(THF)  4  Li  2  Mg(4&#8208;FG&#8208;C  6  H  4  )  4  ] (FG= OMe, F). Detailed NMR spectroscopic studies have revealed that these exchange reactions and the formation of their intermediates are controlled by a new type of bimetallic Schlenk&#8208;type equilibrium between heteroleptic [LiMg  s  Bu  2  (OR)], alkyl rich [Li  2  Mg  s  Bu  4  ] and Mg(OR)  2  , with [Li  2  Mg  s  Bu  4  ] being the active species performing the Br/Mg exchange process.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Untangling the Complexity of Mixed Lithium/Magnesium Alkyl/Alkoxy Combinations Utilised in Br/Mg&#160;Exchange Reactions</dc:title>
-      <dc:identifier>doi:10.1002/anie.202016422</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-06T04:30:07-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202016422</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202016422</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202014895">
-      <title>Solvent&#8208;Dependent Adsorption&#8208;Driven Mechanism for MOFs&#8208;Based Yolk&#8208;Shell Nanostructures</title>
-      <dc:description>Metal&#8211;organic frameworks (MOFs)&#8208;based yolk&#8208;shell nanostructures have drawn enormous attention recently due to their multifunctionality. However, the regulations of the size and morphology of yolk&#8208;shell nanostructures are still limited by the unclear formation mechanism. Herein, we first demonstrated a solvent&#8208;dependent adsorption&#8208;driven mechanism for synthesizing yolk&#8208;shelled MOFs&#8208;based nanostructures coated with mesoporous SiO2  shells (ZIF&#8208;8@mSiO2  ) with tunable size and morphology. The selective and competitive adsorption of methanol (CH3OH) and water (H2O) on ZIF&#8208;8 core were found to have decisive effects on inducing the morphology evolution of yolk&#8208;shell nanostructures. The obtained yolk&#8208;shelled ZIF&#8208;8@mSiO2  nanostructures show great promise in generating acoustic cavitation effect for sonodynamic cancer therapy  in vitro  . We believe that this work will not only help us to design novel MOFs&#8208;based yolk&#8208;shell nanostructures, but also promote the widespread application of MOFs materials.</dc:description>
-      <dc:creator>
-Weiwei Wang, 
-Bolong Xu, 
-Xueting Pan, 
-Junfeng Zhang, 
-Huiyu Liu
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202014895</link>
-      <content:encoded>&lt;p&gt;Metal&#8211;organic frameworks (MOFs)&#8208;based yolk&#8208;shell nanostructures have drawn enormous attention recently due to their multifunctionality. However, the regulations of the size and morphology of yolk&#8208;shell nanostructures are still limited by the unclear formation mechanism. Herein, we first demonstrated a solvent&#8208;dependent adsorption&#8208;driven mechanism for synthesizing yolk&#8208;shelled MOFs&#8208;based nanostructures coated with mesoporous SiO2  shells (ZIF&#8208;8@mSiO2  ) with tunable size and morphology. The selective and competitive adsorption of methanol (CH3OH) and water (H2O) on ZIF&#8208;8 core were found to have decisive effects on inducing the morphology evolution of yolk&#8208;shell nanostructures. The obtained yolk&#8208;shelled ZIF&#8208;8@mSiO2  nanostructures show great promise in generating acoustic cavitation effect for sonodynamic cancer therapy  in vitro  . We believe that this work will not only help us to design novel MOFs&#8208;based yolk&#8208;shell nanostructures, but also promote the widespread application of MOFs materials.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Solvent&#8208;Dependent Adsorption&#8208;Driven Mechanism for MOFs&#8208;Based Yolk&#8208;Shell Nanostructures</dc:title>
-      <dc:identifier>doi:10.1002/anie.202014895</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-06T04:29:08-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202014895</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202014895</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202016140">
-      <title>A Universal Approach for Controllable Synthesis of n&#8208;Specific Layer 2D Perovskite Nanoplates</title>
-      <dc:description>2D perovskites with chemical formula A&#8242;  2  A  n&#8722;1  B  n  X  3n+1  have recently attracted considerable attention due to their tunable optical and electronic properties by varying the chemical composition. While high color&#8208;purity emitting perovskite nanomaterials have been accomplished through changing the halide composition, the preparation of single&#8208;phase, specific n&#8208;layer 2D perovskite nanomaterials is still pending because of the fast nucleation process of nanoparticles. In this study, we demonstrated a facile, rational and efficacious approach to synthesize monodisperse 2D perovskite nanoplates with a designated n number for both lead&#8208; and tin&#8208;based perovskite through kinetic control. We found that casting carboxylic acid additives in the reaction medium would promote selective formation of the kinetic product, multi&#8208;layer 2D perovskite, in preference to the single layer thermodynamic one. The resulted n&#8208;specific layer 2D perovskites show a trend where decreasing the number of octahedral layers per inorganic sheet leads to an increase of photoluminescence energy, radiative decay rate, and a significant boost in photostability.</dc:description>
-      <dc:creator>
-Jin-Tai Lin, 
-Deng-Gao Chen, 
-Cheng-Ham Wu, 
-Chia-Shuo Hsu, 
-Chia-Ying Chien, 
-Hao Ming Chen, 
-Pi-Tai Chou, 
-Ching-Wen Chiu
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202016140</link>
-      <content:encoded>&lt;p&gt;2D perovskites with chemical formula A&#8242;  2  A  n&#8722;1  B  n  X  3n+1  have recently attracted considerable attention due to their tunable optical and electronic properties by varying the chemical composition. While high color&#8208;purity emitting perovskite nanomaterials have been accomplished through changing the halide composition, the preparation of single&#8208;phase, specific n&#8208;layer 2D perovskite nanomaterials is still pending because of the fast nucleation process of nanoparticles. In this study, we demonstrated a facile, rational and efficacious approach to synthesize monodisperse 2D perovskite nanoplates with a designated n number for both lead&#8208; and tin&#8208;based perovskite through kinetic control. We found that casting carboxylic acid additives in the reaction medium would promote selective formation of the kinetic product, multi&#8208;layer 2D perovskite, in preference to the single layer thermodynamic one. The resulted n&#8208;specific layer 2D perovskites show a trend where decreasing the number of octahedral layers per inorganic sheet leads to an increase of photoluminescence energy, radiative decay rate, and a significant boost in photostability.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A Universal Approach for Controllable Synthesis of n&#8208;Specific Layer 2D Perovskite Nanoplates</dc:title>
-      <dc:identifier>doi:10.1002/anie.202016140</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-06T12:54:51-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202016140</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202016140</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202017238">
-      <title>A General Approach for Monolayer Adsorption of High Weight Loadings of Uniform Nanocrystals on Oxide Supports</title>
-      <dc:description>Monodispersed metal and semiconductor nanocrystals have attracted great attention in fundamental and applied research due to their tunable size, morphology, and well&#8208;defined chemical composition. Utilizing these nanocrystals in a controllable way is highly desirable especially when using them as building blocks for the preparation of nanostructured materials. Their deposition onto oxide materials provide them with wide applicability in many areas, including catalysis. However, so far deposition methods are limited and do not provide control to achieve high particle loadings. This study demonstrates a general approach for the deposition of hydrophobic ligand&#8208;stabilized nanocrystals on hydrophilic oxide supports without ligand&#8208;exchange. Surface functionalization of the supports with primary amine groups either using an organosilane ((3&#8208;aminopropyl)trimethoxysilane) or bonding with aminoalcohols (3&#8208;amino&#8208;1,2&#8208;propanediol) were found to significantly improve the interaction between nanocrystals and supports achieving high loadings (&gt;10 wt. %). The bonding method with aminoalcohols guarantees the opportunity to remove the binding molecules thus allowing clean metal/oxide materials to be obtained, which is of great importance in the preparation of supported nanocrystals for heterogeneous catalysis.</dc:description>
-      <dc:creator>
-Kun-Che Kao, 
-An-Chih Yang, 
-Weixin Huang, 
-Chengshuang Zhou, 
-Emmett  D. Goodman, 
-Alexander Holm, 
-Curtis  W. Frank, 
-Matteo Cargnello
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202017238</link>
-      <content:encoded>&lt;p&gt;Monodispersed metal and semiconductor nanocrystals have attracted great attention in fundamental and applied research due to their tunable size, morphology, and well&#8208;defined chemical composition. Utilizing these nanocrystals in a controllable way is highly desirable especially when using them as building blocks for the preparation of nanostructured materials. Their deposition onto oxide materials provide them with wide applicability in many areas, including catalysis. However, so far deposition methods are limited and do not provide control to achieve high particle loadings. This study demonstrates a general approach for the deposition of hydrophobic ligand&#8208;stabilized nanocrystals on hydrophilic oxide supports without ligand&#8208;exchange. Surface functionalization of the supports with primary amine groups either using an organosilane ((3&#8208;aminopropyl)trimethoxysilane) or bonding with aminoalcohols (3&#8208;amino&#8208;1,2&#8208;propanediol) were found to significantly improve the interaction between nanocrystals and supports achieving high loadings (&amp;gt;10 wt. %). The bonding method with aminoalcohols guarantees the opportunity to remove the binding molecules thus allowing clean metal/oxide materials to be obtained, which is of great importance in the preparation of supported nanocrystals for heterogeneous catalysis.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>A General Approach for Monolayer Adsorption of High Weight Loadings of Uniform Nanocrystals on Oxide Supports</dc:title>
-      <dc:identifier>doi:10.1002/anie.202017238</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-06T12:54:17-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202017238</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202017238</prism:url>
-      <prism:copyright />
-      <prism:section>Research Article</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/anie.202016156">
-      <title>Visible&#8208;Light&#8208;Induced 1,3&#8208;Aminopyridylation of [1.1.1]Propellane with N&#8208;Aminopyridinium Salts</title>
-      <dc:description>With the aid of an electron donor&#8722;acceptor (EDA) complex, we have successfully achieved the strain&#8208;release aminopyridiylation of [1.1.1]propellane employing N&#8208;aminopyridinium salts as bifunctional reagents, which allows the direct installation of amino and pyridyl groups onto bicyclo[1.1.1]pentane (BCP) frameworks in the absence of an external photocatalyst. This approach exhibits a broad range of scope to afford 1,3&#8208;aminopyridylated BCPs under mild and metal&#8208;free conditions. The robustness of this method is highlighted by the late&#8208;stage modification of structurally complex biorelevant molecules. Moreover, this strategy could be extended to P&#8208; and CF 3  radicals for the unprecedented incorporation of these functional groups across the BCP core, offering the option of divergence via a three&#8208;component assembly. This practical method lays the foundation for the straightforward construction of new valuable C4&#8208;pyridine&#8208;containing BCP chemical entities, which significantly expand the scope of BCP&#8208;type bioisosteres for broad applications in drug discovery.</dc:description>
-      <dc:creator>
-Sanghoon Shin, 
-Seojin Lee, 
-Wonjun Choi, 
-Namhoon Kim, 
-Sungwoo Hong
-</dc:creator>
-      <link>https://doi.org/10.1002/anie.202016156</link>
-      <content:encoded>&lt;p&gt;With the aid of an electron donor&#8722;acceptor (EDA) complex, we have successfully achieved the strain&#8208;release aminopyridiylation of [1.1.1]propellane employing N&#8208;aminopyridinium salts as bifunctional reagents, which allows the direct installation of amino and pyridyl groups onto bicyclo[1.1.1]pentane (BCP) frameworks in the absence of an external photocatalyst. This approach exhibits a broad range of scope to afford 1,3&#8208;aminopyridylated BCPs under mild and metal&#8208;free conditions. The robustness of this method is highlighted by the late&#8208;stage modification of structurally complex biorelevant molecules. Moreover, this strategy could be extended to P&#8208; and CF 3  radicals for the unprecedented incorporation of these functional groups across the BCP core, offering the option of divergence via a three&#8208;component assembly. This practical method lays the foundation for the straightforward construction of new valuable C4&#8208;pyridine&#8208;containing BCP chemical entities, which significantly expand the scope of BCP&#8208;type bioisosteres for broad applications in drug discovery.&lt;/p&gt;</content:encoded>
-      <description>Angewandte Chemie International Edition, Accepted Article. </description>
-      <dc:title>Visible&#8208;Light&#8208;Induced 1,3&#8208;Aminopyridylation of [1.1.1]Propellane with N&#8208;Aminopyridinium Salts</dc:title>
-      <dc:identifier>doi:10.1002/anie.202016156</dc:identifier>
-      <dc:source>Angewandte Chemie International Edition</dc:source>
-      <dc:date>2021-01-06T12:53:25-08:00</dc:date>
-      <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-      <prism:doi>10.1002/anie.202016156</prism:doi>
-      <prism:url>https://doi.org/10.1002/anie.202016156</prism:url>
       <prism:copyright />
       <prism:section>Research Article</prism:section>
    </item>
