@@ -9,6 +9,9 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000870" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000805" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000848" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000767" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000723" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000769" />
@@ -16,8 +19,8 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000765" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000763" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000816" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000797" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000803" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000797" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000743" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000834" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000585" />
@@ -153,6 +156,72 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000870">
+      <title>SP3&#8208;FAIMS chemoproteomics for high coverage profiling of the human cysteinome</title>
+      <dc:description>Chemoproteomics has enabled the rapid and proteome&#8208;wide discovery of functional, redox&#8208;sensitive, and ligandable cysteine residues. Despite widespread adoption and considerable advances in both sample preparation workflows and MS instrumentation, chemoproteomics experiments still typically only identify a small fraction of all cysteines encoded by the human genome. Here, we develop an optimized sample preparation workflow that combines enhanced peptide labeling with single&#8208;pot, solid phase&#8208;enhanced sample&#8208;preparation (SP3) to improve the recovery of biotinylated peptides, including from small sample sizes. By combining this improved workflow with online high&#8208;field asymmetric waveform ion mobility spectrometry (FAIMS) separation of labelled peptides, we achieve unprecedented coverage of &gt;14,000 unique cysteines in a single shot 70 min experiment. Showcasing the wide utility of the SP3&#8208;FAIMS chemoproteomic method, we find that it is also compatible with competitive small molecule screening by isotopic tandem orthogonal activity&#8208;based protein profiling (isoTOP&#8208;ABPP). In aggregate our analysis of 18 samples from 7 cell lines identified 34,225 total unique cysteines using only ~28 h of instrument time. The comprehensive spectral library and improved coverage provided by the SP3&#8208;FAIMS chemoproteomics method will provide the technical foundation for future studies aimed at deciphering the functions and druggability of the human cysteineome.</dc:description>
+      <dc:creator>
+Tianyang Yan, 
+Heta  S. Desai, 
+Lisa  M. Boatner, 
+Stephanie  L. Yen, 
+Jian Cao, 
+Maria  F. Palafox, 
+Yasaman Jami-Alahmadi, 
+Keriann Backus
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000870</link>
+      <content:encoded>&lt;p&gt;Chemoproteomics has enabled the rapid and proteome&#8208;wide discovery of functional, redox&#8208;sensitive, and ligandable cysteine residues. Despite widespread adoption and considerable advances in both sample preparation workflows and MS instrumentation, chemoproteomics experiments still typically only identify a small fraction of all cysteines encoded by the human genome. Here, we develop an optimized sample preparation workflow that combines enhanced peptide labeling with single&#8208;pot, solid phase&#8208;enhanced sample&#8208;preparation (SP3) to improve the recovery of biotinylated peptides, including from small sample sizes. By combining this improved workflow with online high&#8208;field asymmetric waveform ion mobility spectrometry (FAIMS) separation of labelled peptides, we achieve unprecedented coverage of &amp;gt;14,000 unique cysteines in a single shot 70 min experiment. Showcasing the wide utility of the SP3&#8208;FAIMS chemoproteomic method, we find that it is also compatible with competitive small molecule screening by isotopic tandem orthogonal activity&#8208;based protein profiling (isoTOP&#8208;ABPP). In aggregate our analysis of 18 samples from 7 cell lines identified 34,225 total unique cysteines using only ~28 h of instrument time. The comprehensive spectral library and improved coverage provided by the SP3&#8208;FAIMS chemoproteomics method will provide the technical foundation for future studies aimed at deciphering the functions and druggability of the human cysteineome.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>SP3&#8208;FAIMS chemoproteomics for high coverage profiling of the human cysteinome</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000870</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-13T07:21:06-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000870</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000870</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000805">
+      <title>Co&#8208;occurring congeners reveal the position of enantiomeric amino acids in nonribosomal peptides</title>
+      <dc:description>The C&#945; absolute configuration of the constituent amino acids in microbial nonribosomal peptides is typically determined using Marfey&#8217;s method after total hydrolysis of the peptide. A structural elucidation challenge arises when both D/L&#8208; enantiomeric configurations of an amino acid are encountered. Determining the actual position of each amino acid enantiomer within the peptide sequence typically requires laborious approaches based on peptide partial hydrolysis or even the total synthesis of the possible diastereomers. Herein, an alternative solution is discussed based on the homogeneous backbone chirality which governs all peptides biosynthesized by a common nonribosomal peptide synthetase. The information on configuration provided by Marfey&#8217;s analysis of co&#8208;occurring minor congeners can reveal unequivocally the stereochemical sequence of the whole peptide family</dc:description>
+      <dc:creator>
+Ignacio P&#233;rez-Victoria
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000805</link>
+      <content:encoded>&lt;p&gt;The C&#945; absolute configuration of the constituent amino acids in microbial nonribosomal peptides is typically determined using Marfey&#8217;s method after total hydrolysis of the peptide. A structural elucidation challenge arises when both D/L&#8208; enantiomeric configurations of an amino acid are encountered. Determining the actual position of each amino acid enantiomer within the peptide sequence typically requires laborious approaches based on peptide partial hydrolysis or even the total synthesis of the possible diastereomers. Herein, an alternative solution is discussed based on the homogeneous backbone chirality which governs all peptides biosynthesized by a common nonribosomal peptide synthetase. The information on configuration provided by Marfey&#8217;s analysis of co&#8208;occurring minor congeners can reveal unequivocally the stereochemical sequence of the whole peptide family&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Co&#8208;occurring congeners reveal the position of enantiomeric amino acids in nonribosomal peptides</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000805</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-13T10:14:46-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000805</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000805</prism:url>
+      <prism:copyright />
+      <prism:section>Concept</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000848">
+      <title>Tagged benzoxazin&#8208;4&#8208;ones as novel activity&#8208;based probes for serine proteases</title>
+      <dc:description>Activity&#8208;based probes (ABPs) are valuable chemical tools for profiling enzymes. They have been particularly useful in the study of proteases. ABPs rely on electrophilic scaffolds that covalently modify the target enzymes. Ideally, these can be made in a fast and uncomplicated manner. We here explore alkyne substituted benzoxazin&#8208;4&#8208;ones as ABPs for serine proteases, because they are covalent inhibitors of serine proteases and their synthesis is very straightforward. We here show that alkyne&#8208;tagged benzoxazin&#8208;4&#8208;ones can be used in 2&#8208;step bioorthogonal tandem labeling procedures or prior functionalized with a biotin or fluorophore. We demonstrate that these reagents can be used for labeling and identifying various serine proteases. Therefore, we expect that tagged benzoxazin&#8208;4&#8208;ones will offer easy synthesizable tools for profiling of serine proteases.</dc:description>
+      <dc:creator>
+Jian Yang, 
+Rafal  J Mendowicz, 
+Steven Verhelst
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000848</link>
+      <content:encoded>&lt;p&gt;Activity&#8208;based probes (ABPs) are valuable chemical tools for profiling enzymes. They have been particularly useful in the study of proteases. ABPs rely on electrophilic scaffolds that covalently modify the target enzymes. Ideally, these can be made in a fast and uncomplicated manner. We here explore alkyne substituted benzoxazin&#8208;4&#8208;ones as ABPs for serine proteases, because they are covalent inhibitors of serine proteases and their synthesis is very straightforward. We here show that alkyne&#8208;tagged benzoxazin&#8208;4&#8208;ones can be used in 2&#8208;step bioorthogonal tandem labeling procedures or prior functionalized with a biotin or fluorophore. We demonstrate that these reagents can be used for labeling and identifying various serine proteases. Therefore, we expect that tagged benzoxazin&#8208;4&#8208;ones will offer easy synthesizable tools for profiling of serine proteases.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Tagged benzoxazin&#8208;4&#8208;ones as novel activity&#8208;based probes for serine proteases</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000848</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-13T04:45:41-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000848</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000848</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000767">
       <title>IsPETase represents a novel biocatalyst for poly (ethylene terephthalate) (PET) hydrolysis</title>
       <dc:description>Poly (ethylene terephthalate) (PET) is one of the most widely used synthetic polyesters but also a main cause of plastic pollution. Since the chemical degradation of PET would be uneconomical and rather burdensome, considerable efforts have been devoted to exploring enzymatic processes for the disposal of PET waste. Many PET hydrolyzing enzymes have been consecutively reported in recent decades, some of which demonstrate excellent potential for industrial applications. This review sets out to summarize the investigation status of  Is  PETase, a cutinase&#8208;like enzyme from  I. sakaiensis  possessing ability to degrade the crystalline PET, and to gain further insight into the structure&#8208;function relationship of  Is  PETase. Benefiting from the continuing identification of novel cutinase&#8208;like proteins and growing availability of the engineered  Is  PETase, we may anticipate future developments in this type of enzyme would generate suitable biocatalyst for industrial use.</dc:description>
@@ -263,28 +332,6 @@ Alfredo  Milton Angeles-Boza
       <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000816</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000797">
-      <title>Strategies for site&#8208;specific labeling of receptor proteins on surfaces of living cells using genetically encoded peptide tags</title>
-      <dc:description>Fluorescence microscopic imaging allows investigations of receptor proteins within their biological context. A key challenge is to enable site&#8208;specific incorporation of reporter moieties into proteins without interfering with biological functions or cellular networks. Small peptide tags offer the opportunity to combine inducible labeling with small tag sizes that avoid receptor perturbation. Herein, we review the current state of live cell labeling of peptide&#8208;tagged cell surface proteins. Considering the importance as targets in medicinal chemistry, we focus on important membrane receptors such as G protein&#8208;coupled receptors (GPCRs) and receptor tyrosine kinases (RTKs). We discuss peptide tags that i) are subject to enzyme&#8208;mediated modification reactions, ii) guide complementation of reporter proteins, iii) form coiled&#8208;coil complexes, iv) interact with metal complexes, and discuss methods relying on binding of ligands with the protein of interest. Given own contributions in the field, we place emphasis on peptide&#8208;templated labeling chemistry.</dc:description>
-      <dc:creator>
-Philip Wolf, 
-Georgina Gavins, 
-Annette Beck-Sickinger, 
-Oliver Seitz
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000797</link>
-      <content:encoded>&lt;p&gt;Fluorescence microscopic imaging allows investigations of receptor proteins within their biological context. A key challenge is to enable site&#8208;specific incorporation of reporter moieties into proteins without interfering with biological functions or cellular networks. Small peptide tags offer the opportunity to combine inducible labeling with small tag sizes that avoid receptor perturbation. Herein, we review the current state of live cell labeling of peptide&#8208;tagged cell surface proteins. Considering the importance as targets in medicinal chemistry, we focus on important membrane receptors such as G protein&#8208;coupled receptors (GPCRs) and receptor tyrosine kinases (RTKs). We discuss peptide tags that i) are subject to enzyme&#8208;mediated modification reactions, ii) guide complementation of reporter proteins, iii) form coiled&#8208;coil complexes, iv) interact with metal complexes, and discuss methods relying on binding of ligands with the protein of interest. Given own contributions in the field, we place emphasis on peptide&#8208;templated labeling chemistry.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Strategies for site&#8208;specific labeling of receptor proteins on surfaces of living cells using genetically encoded peptide tags</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000797</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2021-01-11T08:48:37-08:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000797</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000797</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000803">
       <title>Stable hairpin structures formed by xylose based nucleic acids</title>
@@ -1133,29 +1180,6 @@ Laura C. Cesa
       <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000532</prism:url>
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000718">
-      <title>Trypsiligase&#8208;catalyzed labeling of proteins on living cells</title>
-      <dc:description>Fluorescent fusion proteins are powerful tools for studying biological processes in living cells, but universal application is limited due to the voluminous size of those tags which may impact the folding, localization or even the biological function of the target protein. The designed biocatalyst Trypsiligase enables site&#8208;directed linkage of small&#8208;sized fluorescence dyes on the N&#8208;terminus of integral target proteins located in the outer membrane of living cells via a stable native peptide bond. The function of the approach was tested using the examples of covalent derivatization of the transmembrane proteins CD147 as well as the EGF receptor, both presented on human HeLa cells. Specific Trypsiligase recognition of the site of linkage was mediated by the dipeptide sequence Arg&#8208;His added to the proteins&#8217; native N&#8208;termini, pointing outside the cell membrane. The labeling procedure takes only about 5 minutes, as demonstrated for couplings of the fluorescence dye tetramethyl rhodamine and the affinity label biotin as well.</dc:description>
-      <dc:creator>
-Sandra Liebscher, 
-Sebastian Mathea, 
-Tobias Aum&#252;ller, 
-Andreas Pech, 
-Frank Bordusa
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000718</link>
-      <content:encoded>&lt;p&gt;Fluorescent fusion proteins are powerful tools for studying biological processes in living cells, but universal application is limited due to the voluminous size of those tags which may impact the folding, localization or even the biological function of the target protein. The designed biocatalyst Trypsiligase enables site&#8208;directed linkage of small&#8208;sized fluorescence dyes on the N&#8208;terminus of integral target proteins located in the outer membrane of living cells via a stable native peptide bond. The function of the approach was tested using the examples of covalent derivatization of the transmembrane proteins CD147 as well as the EGF receptor, both presented on human HeLa cells. Specific Trypsiligase recognition of the site of linkage was mediated by the dipeptide sequence Arg&#8208;His added to the proteins&#8217; native N&#8208;termini, pointing outside the cell membrane. The labeling procedure takes only about 5 minutes, as demonstrated for couplings of the fluorescence dye tetramethyl rhodamine and the affinity label biotin as well.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Trypsiligase&#8208;catalyzed labeling of proteins on living cells</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000718</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-11-11T05:21:23-08:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000718</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000718</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000372">
       <title>Self&#8208;assembled, programmable DNA nanodevices for biological and biomedical applications</title>
