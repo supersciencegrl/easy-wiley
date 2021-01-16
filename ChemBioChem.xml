@@ -9,6 +9,13 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000792" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000850" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000843" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000799" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000372" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000594" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000718" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000826" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000870" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000805" />
@@ -141,12 +148,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000730" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000455" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000678" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000591" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000532" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000661" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000718" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000594" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000372" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000460" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000340" />
          </rdf:Seq>
@@ -157,6 +158,93 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000792">
+      <title>Ligand binding to dynamically populated G&#8208;quadruplex DNA</title>
+      <dc:description>Several small molecule ligands specifically bind and stabilize G&#8208;quadruplex (G4) nucleic acid structures, which are considered as promising therapeutic targets. G4s are polymorphic structures with varying stability and their formation is dynamic. Here, we investigate the mechanisms of ligand binding to dynamically populated human telomere G4 DNA, using the bisquinolinium based ligand Phen&#8208;DC3 and a combination of single&#8208;molecule FRET microscopy, ensemble FRET and CD spectroscopy. Different cations are used to tune G4 polymorphism and folding dynamics. We find that ligand binding occurs to pre&#8208;folded G4 structures and that Phen&#8208;DC3 also induces G4 folding from unfolded single&#8208;strands. Following ligand binding to dynamically populated G4s, the DNA undergoes pronounced conformational redistributions, which do not involve direct ligand&#8208;induced G4 conformational interconversion. In contrast, the redistribution is driven by ligand&#8208;induced G4 folding and trapping of dynamically populated short&#8208;lived conformational states. Thus, ligand&#8208;induced stabilization does not necessarily require initial presence of stably folded G4s.</dc:description>
+      <dc:creator>
+Victoria Birkedal, 
+Mikayel Aznauryan, 
+Sofie  Louise Noer, 
+Camilla  W. Pedersen, 
+Jean-Louis Mergny, 
+Marie-Paule Teulade-Fichou
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000792</link>
+      <content:encoded>&lt;p&gt;Several small molecule ligands specifically bind and stabilize G&#8208;quadruplex (G4) nucleic acid structures, which are considered as promising therapeutic targets. G4s are polymorphic structures with varying stability and their formation is dynamic. Here, we investigate the mechanisms of ligand binding to dynamically populated human telomere G4 DNA, using the bisquinolinium based ligand Phen&#8208;DC3 and a combination of single&#8208;molecule FRET microscopy, ensemble FRET and CD spectroscopy. Different cations are used to tune G4 polymorphism and folding dynamics. We find that ligand binding occurs to pre&#8208;folded G4 structures and that Phen&#8208;DC3 also induces G4 folding from unfolded single&#8208;strands. Following ligand binding to dynamically populated G4s, the DNA undergoes pronounced conformational redistributions, which do not involve direct ligand&#8208;induced G4 conformational interconversion. In contrast, the redistribution is driven by ligand&#8208;induced G4 folding and trapping of dynamically populated short&#8208;lived conformational states. Thus, ligand&#8208;induced stabilization does not necessarily require initial presence of stably folded G4s.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Ligand binding to dynamically populated G&#8208;quadruplex DNA</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000792</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-15T10:30:40-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000792</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000792</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000850">
+      <title>Artificial organelles: towards adding or restoring intracellular activity</title>
+      <dc:description>Compartmentalization is one of the main characteristics that defines living systems. Creating a physically separated microenvironment allows nature a better control over biological processes, as is clearly specified by the role of organelles in living cells. Inspired by this phenomenon, researchers have developed a range of different approaches to create artificial organelles; compartments with catalytic activity that add new function to living cells.&#160; In this review we will discuss three complementary lines of investigation. First, orthogonal chemistry approaches are discussed which are based on the incorporation of catalytically active transition metal&#8208;containing nanoparticles in living cells. The second approach involves the usage of premade hybrid nanoreactors which show transient function when taken up by living cells. The third approach utilizes mostly genetic engineering methods to create bio&#8208;based structures that can be ultimately integrated with the cell&#8217;s genome to make them constitutively active. The current state of the art and the scope and limitations of the field will be highlighted with selected examples from the three approaches.</dc:description>
+      <dc:creator>
+Roy  A.J.F. Oerlemans, 
+Suzanne  B.P.E. Timmermans, 
+Jan van Hest
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000850</link>
+      <content:encoded>&lt;p&gt;Compartmentalization is one of the main characteristics that defines living systems. Creating a physically separated microenvironment allows nature a better control over biological processes, as is clearly specified by the role of organelles in living cells. Inspired by this phenomenon, researchers have developed a range of different approaches to create artificial organelles; compartments with catalytic activity that add new function to living cells.&#160; In this review we will discuss three complementary lines of investigation. First, orthogonal chemistry approaches are discussed which are based on the incorporation of catalytically active transition metal&#8208;containing nanoparticles in living cells. The second approach involves the usage of premade hybrid nanoreactors which show transient function when taken up by living cells. The third approach utilizes mostly genetic engineering methods to create bio&#8208;based structures that can be ultimately integrated with the cell&#8217;s genome to make them constitutively active. The current state of the art and the scope and limitations of the field will be highlighted with selected examples from the three approaches.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Artificial organelles: towards adding or restoring intracellular activity</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000850</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-15T10:30:16-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000850</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000850</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000843">
+      <title>Chemical Synthesis and Biological Applications of O&#8208;GlcNAcylated Peptides and Proteins</title>
+      <dc:description>All human cells use O&#8208;GlcNAc protein modifications (  O  &#8208;linked  N  &#8208;acetylglucosamine) to rapidly adapt to changing nutrient and stress conditions through signaling, epigenetic, and proteostasis mechanisms. A key challenge for biologists to define precise roles for specific  O  &#8208;GlcNAc sites is synthetic access to homogenous isoforms of  O  &#8208;GlcNAc proteins, a result of the non&#8208;genetically templated, transient, and heterogeneous nature of  O  &#8208;GlcNAc modifications. Toward a solution, this Review details the state of the art of two strategies for  O  &#8208;GlcNAc protein modification: advances in &#8220;bottom&#8208;up&#8221;  O  &#8208;GlcNAc peptide synthesis and direct &#8220;top&#8208;down&#8221; installation of  O  &#8208;GlcNAc on full proteins. We also describe key applications of synthetic  O  &#8208;GlcNAc peptide and protein tools as therapeutics, biophysical structure&#8208;function studies, biomarkers, and as disease mechanistic probes to advance translational  O  &#8208;GlcNAc biology.</dc:description>
+      <dc:creator>
+Jessica  M. Groenevelt, 
+Daniel  J. Corey, 
+Charlie Fehl
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000843</link>
+      <content:encoded>&lt;p&gt;All human cells use O&#8208;GlcNAc protein modifications (  O  &#8208;linked  N  &#8208;acetylglucosamine) to rapidly adapt to changing nutrient and stress conditions through signaling, epigenetic, and proteostasis mechanisms. A key challenge for biologists to define precise roles for specific  O  &#8208;GlcNAc sites is synthetic access to homogenous isoforms of  O  &#8208;GlcNAc proteins, a result of the non&#8208;genetically templated, transient, and heterogeneous nature of  O  &#8208;GlcNAc modifications. Toward a solution, this Review details the state of the art of two strategies for  O  &#8208;GlcNAc protein modification: advances in &#8220;bottom&#8208;up&#8221;  O  &#8208;GlcNAc peptide synthesis and direct &#8220;top&#8208;down&#8221; installation of  O  &#8208;GlcNAc on full proteins. We also describe key applications of synthetic  O  &#8208;GlcNAc peptide and protein tools as therapeutics, biophysical structure&#8208;function studies, biomarkers, and as disease mechanistic probes to advance translational  O  &#8208;GlcNAc biology.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Chemical Synthesis and Biological Applications of O&#8208;GlcNAcylated Peptides and Proteins</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000843</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-15T09:48:23-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000843</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000843</prism:url>
+      <prism:copyright />
+      <prism:section>Review</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/cbic.202000799">
+      <title>Cleavage of an RNA Model Compound by an Arylmercury Complex</title>
+      <dc:description>A water&#8208;soluble arylmercury complex has been synthesized and its ability to catalyze the cleavage of the phosphodiester linkage of the RNA model compound adenylyl&#8208;3&#180;,5&#180;&#8208;(2&#180;,3&#180;&#8208;O&#8208;methyleneadenosine) assessed over a pH range of 3&#8212;8.5 and a catalyst concentration range of 0&#8212;7 mM. In the presence of 1 mM catalyst, the observed pH&#8212;rate profile featured a new pH&#8208;independent region between pH 6 and 7, the catalyzed reaction being as much as 8&#8208;fold faster than the background reaction. At pH 7, the acceleration increased linearly from 3&#8208; to 17&#8208;fold on increasing the catalyst concentration from 1 to 7 mM. The linear dependence indicates a relatively low affinity of the catalyst for the substrate and, hence, potential for considerable improvement on tethering to an appropriate targeting group, such as an oligonucleotide.</dc:description>
+      <dc:creator>
+Lange  Yakubu Saleh, 
+Mikko Ora, 
+Tuomas L&#246;nnberg
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000799</link>
+      <content:encoded>&lt;p&gt;A water&#8208;soluble arylmercury complex has been synthesized and its ability to catalyze the cleavage of the phosphodiester linkage of the RNA model compound adenylyl&#8208;3&#180;,5&#180;&#8208;(2&#180;,3&#180;&#8208;O&#8208;methyleneadenosine) assessed over a pH range of 3&#8212;8.5 and a catalyst concentration range of 0&#8212;7 mM. In the presence of 1 mM catalyst, the observed pH&#8212;rate profile featured a new pH&#8208;independent region between pH 6 and 7, the catalyzed reaction being as much as 8&#8208;fold faster than the background reaction. At pH 7, the acceleration increased linearly from 3&#8208; to 17&#8208;fold on increasing the catalyst concentration from 1 to 7 mM. The linear dependence indicates a relatively low affinity of the catalyst for the substrate and, hence, potential for considerable improvement on tethering to an appropriate targeting group, such as an oligonucleotide.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Cleavage of an RNA Model Compound by an Arylmercury Complex</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202000799</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-15T04:52:16-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202000799</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000799</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000826">
       <title>High&#8208;performance reversed&#8208;phase flash chromatography purification of peptides and chemically modified insulins</title>
       <dc:description>Preparative reversed&#8208;phase HPLC is the established method for purification of peptides, but has significant limitations. We systematically investigated the use of high&#8208;performance reversed&#8208;phase flash chromatography (HPFC) to rapidly purify laboratory&#8208;scale quantities of crude, synthetic peptides and chemically modified insulins. We demonstrated these methods for a diverse set of peptides, including short, medium&#8208;length, and long peptides. Depending on the purity profile of the peptide, HPFC can be used either as the sole purification method, or as a pre&#8208;purification method prior to a final HPLC purification. Furthermore, HPFC is suitable for purification of peptides that are not fully in solution. We provide guidelines for the HPFC of synthetic peptides and small proteins, including choice of columns, eluents, and gradients. We believe that HPFC is a valuable alternative to HPLC purification of peptides and small proteins.</dc:description>
@@ -1166,65 +1254,6 @@ Xiaoguang Lei
       <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000530</prism:url>
       <prism:copyright />
       <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000532">
-      <title>Chemical Translational Biology: Redefining Druggability of Protein&#8208;Protein Interactions</title>
-      <dc:description>
-Protein&#8208;protein interactions are challenging targets for drug discovery. The field of chemical translational biology has made advances in making these once &#8220;undruggable&#8221; targets more amenable to ligand discovery and design. The development of peptide therapeutics and the discovery of adaptive and allosteric ligands show particular promise for difficult interactions.
-
-
-
-
-
-
-
-Abstract
-Chemical biologists use chemical tools to answer biological questions. The translational application of these principles has led to an explosion in the discovery and druggability of new protein targets, including protein&#8208;protein interactions (PPIs). Proteins tend to interact with other macromolecules using relatively large and featureless binding surfaces, which has hampered traditional drug discovery efforts, particularly for interactions with weaker affinity. In this article, I discuss several emerging strategies for targeting PPIs, including computational and structural methods and novel screening approaches. In particular, I focus on hijacking intrinsic protein allosteric pathways for the discovery and design of small&#8208;molecule and peptide ligands.
-</dc:description>
-      <dc:creator>
-Laura C. Cesa
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000532</link>
-      <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b68cd9dd-279b-48dd-b870-e7afbc194453/cbic202000532-toc-0001-m.png"
-     alt="Chemical Translational Biology: Redefining Druggability of Protein&#8208;Protein Interactions"/&gt;
-&lt;p&gt;Protein&#8208;protein interactions are challenging targets for drug discovery. The field of chemical translational biology has made advances in making these once &#8220;undruggable&#8221; targets more amenable to ligand discovery and design. The development of peptide therapeutics and the discovery of adaptive and allosteric ligands show particular promise for difficult interactions.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Chemical biologists use chemical tools to answer biological questions. The translational application of these principles has led to an explosion in the discovery and druggability of new protein targets, including protein&#8208;protein interactions (PPIs). &lt;i&gt;Proteins&lt;/i&gt; tend to interact with other macromolecules using relatively large and featureless binding surfaces, which has hampered traditional drug discovery efforts, particularly for interactions with weaker affinity. In this article, I discuss several emerging strategies for targeting PPIs, including computational and structural methods and novel screening approaches. In particular, I focus on hijacking intrinsic protein allosteric pathways for the discovery and design of small&#8208;molecule and peptide ligands.&lt;/p&gt;
-</content:encoded>
-      <description>ChemBioChem, EarlyView. </description>
-      <dc:title>Chemical Translational Biology: Redefining Druggability of Protein&#8208;Protein Interactions</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000532</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-11-18T12:11:52-08:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000532</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000532</prism:url>
-      <prism:copyright />
-      <prism:section>Viewpoint</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/cbic.202000372">
-      <title>Self&#8208;assembled, programmable DNA nanodevices for biological and biomedical applications</title>
-      <dc:description>The broad field of Structural DNA Nanotechnology has diverged into various areas of applications ranging from computing, photonics, synthetic biology, biosensing to in&#8208;vivo bioimaging and therapeutic delivery to name a few. Though the field began to exploit DNA to build various nanoscale architectures, it has now taken a new path to diverge from structural DNA nanotechnology to functional or applied DNA nanotechnology. More recently a third sub&#8208;branch has emerged &#8211; biologically oriented DNA nanotechnology, which seeks to explore the functionalities of combinatorial DNA devices in various biological systems. In this review, we summarize the key developments in DNA nanotechnology revealing a current trend, which merges the functionality of DNA devices with the specificity of biomolecules to access a range of functions in biological systems. This review seeks to provide a perspective on evolution and biological applications of DNA nanotechnology, where integration of DNA structures with biomolecules can now uncover phenomena of interests to biologists and biomedical scientists. Finally, we conclude with the challenges, limitations, and perspectives of DNA nanodevices in fundamental and applied research.</dc:description>
-      <dc:creator>
-Dhiraj  Devidas Bhatia, 
-Christian Wunder, 
-Ludger Johannes
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/cbic.202000372</link>
-      <content:encoded>&lt;p&gt;The broad field of Structural DNA Nanotechnology has diverged into various areas of applications ranging from computing, photonics, synthetic biology, biosensing to in&#8208;vivo bioimaging and therapeutic delivery to name a few. Though the field began to exploit DNA to build various nanoscale architectures, it has now taken a new path to diverge from structural DNA nanotechnology to functional or applied DNA nanotechnology. More recently a third sub&#8208;branch has emerged &#8211; biologically oriented DNA nanotechnology, which seeks to explore the functionalities of combinatorial DNA devices in various biological systems. In this review, we summarize the key developments in DNA nanotechnology revealing a current trend, which merges the functionality of DNA devices with the specificity of biomolecules to access a range of functions in biological systems. This review seeks to provide a perspective on evolution and biological applications of DNA nanotechnology, where integration of DNA structures with biomolecules can now uncover phenomena of interests to biologists and biomedical scientists. Finally, we conclude with the challenges, limitations, and perspectives of DNA nanodevices in fundamental and applied research.&lt;/p&gt;</content:encoded>
-      <description>ChemBioChem, Accepted Article. </description>
-      <dc:title>Self&#8208;assembled, programmable DNA nanodevices for biological and biomedical applications</dc:title>
-      <dc:identifier>doi:10.1002/cbic.202000372</dc:identifier>
-      <dc:source>ChemBioChem</dc:source>
-      <dc:date>2020-09-22T01:08:17-07:00</dc:date>
-      <prism:publicationName>ChemBioChem</prism:publicationName>
-      <prism:doi>10.1002/cbic.202000372</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202000372</prism:url>
-      <prism:copyright />
-      <prism:section>Review</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000460">
       <title>Genetic Incorporation of Selenotyrosine Significantly Improves Enzymatic Activity of Agrobacterium radiobacter Phosphotriesterase</title>
