@@ -9,6 +9,11 @@
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001569" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001523" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001554" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001455" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001193" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001428" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001591" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001577" />
@@ -102,14 +107,10 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001470" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001564" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001465" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001193" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001460" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001593" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001425" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001488" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001523" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001554" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001455" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001209" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001194" />
             <rdf:li rdf:resource="/doi/abs/10.1002/ejoc.202001261" />
@@ -129,6 +130,29 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/10990690.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/ejoc.202001569">
+      <title>Sulfonium Salts Enable the Direct Sulfenylation of Activated C(sp3)&#8208;H Bonds</title>
+      <dc:description>Herein a novel reaction has been developed for direct &#945;&#8208;sulfenylation of a series of &#946;&#8208;dicarbonyl, &#946;&#8208;ketophosphonate, &#946;&#8208;ketonitrile compounds via C&#8208;H functionalization. In this transformation, readily prepared sulfonium salts as sulfenylation reagents firstly achieved direct sulfenylation of activated C(sp  3  )&#8208;H bonds with formation of tetra&#8208;substituted carbon center.</dc:description>
+      <dc:creator>
+Liang Zhang, 
+Sakkani Nagaraju, 
+Banoth Paplal, 
+Yunliang Lin, 
+Shuhua Liu
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001569</link>
+      <content:encoded>&lt;p&gt;Herein a novel reaction has been developed for direct &#945;&#8208;sulfenylation of a series of &#946;&#8208;dicarbonyl, &#946;&#8208;ketophosphonate, &#946;&#8208;ketonitrile compounds via C&#8208;H functionalization. In this transformation, readily prepared sulfonium salts as sulfenylation reagents firstly achieved direct sulfenylation of activated C(sp  3  )&#8208;H bonds with formation of tetra&#8208;substituted carbon center.&lt;/p&gt;</content:encoded>
+      <description>European Journal of Organic Chemistry, Accepted Article. </description>
+      <dc:title>Sulfonium Salts Enable the Direct Sulfenylation of Activated C(sp3)&#8208;H Bonds</dc:title>
+      <dc:identifier>doi:10.1002/ejoc.202001569</dc:identifier>
+      <dc:source>European Journal of Organic Chemistry</dc:source>
+      <dc:date>2021-01-20T07:16:21-08:00</dc:date>
+      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
+      <prism:doi>10.1002/ejoc.202001569</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001569</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202001428">
       <title>Pd&#8208;Catalyzed Regio&#8208; and Stereoselective sp3 C&#8208;H Arylation of Primary Aliphatic Amines: Mechanistic Studies and Synthetic Applications</title>
       <dc:description>The Pd&#8208;catalyzed &#947;&#8208;position  sp  3  &#8208;C&#8208;H arylation of primary amines bearing an aliphatic chain or cycloalkyl substituent and related mechanistic studies are disclosed. 3&#8208;Bromo&#8208;2&#8208;hydroxybenzaldehyde plays a key role in &#947;&#8208;position  sp  3  &#8208;C&#8208;H arylation as a transient directing group (TDG) to assist the regio&#8208; and stereoselective C&#8211;H activation of a Pd catalyst, and the development of a tandem reaction to transform 1&#176;&#8208;amines into &#947;&#8208;aryl&#8208;substituted ketones demonstrates synthetic utility. Density functional theory (DFT)&#8208;based calculations revealed the detailed reaction mechanism and the origins of the high selectivity (&#947;&#8208;position and  cis  &#8208;only). The X&#8208;ray crystal structure of the isolated endo&#8208;palladacycle intermediate supported the DFT results, and a kinetic isotope experiment confirmed the results of DFT calculations indicating that the C&#8211;H activation step via simultaneous palladation and deprotonation is rate&#8208;determining.</dc:description>
@@ -1149,28 +1173,6 @@ Silvia Ortega-Gutierrez
       <prism:copyright />
       <prism:section>Review</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001193">
-      <title>Recent developments in deaminative functionalization of alkyl amines</title>
-      <dc:description>The amino group is one of the most prevalent functional groups present in a wide range of organic molecules, which has been widely applied in various organic synthesis and pharmaceuticals. Alkyl amines could be converted in a single step into Katritzky salts which could serve as alkyl radical precursors to construct C&#8208;C bonds and C&#8208;X bonds via C(sp  3  )&#8208;N cleavage. This deaminative functionalization could be carried out under transition&#8208;metal catalysis, photocatalysis, carbene catalysis or base. In this paper, recent developments in the deaminative functionalization of alkyl amines were covered. This review was categorized into four parts according to the nature of the bond formation. Some representative examples and corresponding reaction mechanisms were also summarized.</dc:description>
-      <dc:creator>
-Yi-Na Li, 
-Fang Xiao, 
-Yu Guo, 
-Yao-Fu Zeng
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001193</link>
-      <content:encoded>&lt;p&gt;The amino group is one of the most prevalent functional groups present in a wide range of organic molecules, which has been widely applied in various organic synthesis and pharmaceuticals. Alkyl amines could be converted in a single step into Katritzky salts which could serve as alkyl radical precursors to construct C&#8208;C bonds and C&#8208;X bonds via C(sp  3  )&#8208;N cleavage. This deaminative functionalization could be carried out under transition&#8208;metal catalysis, photocatalysis, carbene catalysis or base. In this paper, recent developments in the deaminative functionalization of alkyl amines were covered. This review was categorized into four parts according to the nature of the bond formation. Some representative examples and corresponding reaction mechanisms were also summarized.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Recent developments in deaminative functionalization of alkyl amines</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001193</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-12-21T07:29:32-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001193</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001193</prism:url>
-      <prism:copyright />
-      <prism:section>Minireview</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202001593">
       <title>Photochemical Reaction of N,N&#8208;Dimethylanilines with N&#8208;Substituted Maleimides Utilising Benzaldehyde as the Photoinitiator</title>
       <dc:description>Photoorganocatalysis constitutes a powerful domain of photochemistry and organic synthesis. The scaffold of pyrrolo[3,4&#8208;c]quinolinoles exhibits interesting and potent inhibition against various enzymes, making them really promising pharmaceutical targets. Herein, we describe a photochemical methodology for the reaction of  N  ,  N  &#8208;dimethylanilines with  N  &#8208;substituted maleimides, utilizing benzaldehyde as the photoinitiator. A variety of substituted  N  ,  N  &#8208;dimethylanilines and  N  &#8208;substituted maleimides were converted into the corresponding adducts in moderate to high yields.</dc:description>
@@ -1191,52 +1193,6 @@ Christoforos  G. Kokotos
       <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001593</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001554">
-      <title>Molecular Recognition by Chalcogen Bond: Selective Charge&#8208;transfer Crystal Formation of Dimethylnaphthalene with Selenadiazolotetracyanonaphthoquinodimethane</title>
-      <dc:description>The title nonplanar electron acceptor ( 1 ) fused with a selenadiazole ring selectively forms a crystalline charge&#8208;transfer complex (CT crystal) with 2,6&#8208;dimethylnaphthalene (2,6&#8208;DMN). On the other hand, the sulfur analogue ( 2 ) has less recognition ability and forms CT crystals with both 2,6&#8208; and 2,7&#8208;DMN. X&#8208;ray analyses of 1 , 2 , and their CT crystals revealed that the Se &#9679;&#9679;&#9679; N chalcogen bond (ChB) in 1 is strong enough to determine the crystal packing with the formation of a cavity suitable for 2,6&#8208;DMN. On the contrary, ChB through S &#9679;&#9679;&#9679; N contact in 2 competes with other weak interactions such as a C&#8208;H &#9679;&#9679;&#9679; N hydrogen bond. The stronger ChB involving Se is the key for 1 to separate 2,6&#8208;DMN (&gt;97 wt%) from a complex isomer mixture containing ca. 10 wt% each of 2,6&#8208; and 2,7&#8208;DMN by a simple, efficient and straightforward mixing&#8208;filtration&#8208;heating process.</dc:description>
-      <dc:creator>
-Yusuke Ishigaki, 
-Kota Asai, 
-Henri-Pierre Jacquot de Rouville, 
-Takuya Shimajiri, 
-Val&#233;rie Heitz, 
-Hiroshi Fujii-Shinomiya, 
-Takanori Suzuki
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001554</link>
-      <content:encoded>&lt;p&gt;The title nonplanar electron acceptor ( 1 ) fused with a selenadiazole ring selectively forms a crystalline charge&#8208;transfer complex (CT crystal) with 2,6&#8208;dimethylnaphthalene (2,6&#8208;DMN). On the other hand, the sulfur analogue ( 2 ) has less recognition ability and forms CT crystals with both 2,6&#8208; and 2,7&#8208;DMN. X&#8208;ray analyses of 1 , 2 , and their CT crystals revealed that the Se &#9679;&#9679;&#9679; N chalcogen bond (ChB) in 1 is strong enough to determine the crystal packing with the formation of a cavity suitable for 2,6&#8208;DMN. On the contrary, ChB through S &#9679;&#9679;&#9679; N contact in 2 competes with other weak interactions such as a C&#8208;H &#9679;&#9679;&#9679; N hydrogen bond. The stronger ChB involving Se is the key for 1 to separate 2,6&#8208;DMN (&amp;gt;97 wt%) from a complex isomer mixture containing ca. 10 wt% each of 2,6&#8208; and 2,7&#8208;DMN by a simple, efficient and straightforward mixing&#8208;filtration&#8208;heating process.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Molecular Recognition by Chalcogen Bond: Selective Charge&#8208;transfer Crystal Formation of Dimethylnaphthalene with Selenadiazolotetracyanonaphthoquinodimethane</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001554</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-12-10T07:21:03-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001554</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001554</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/ejoc.202001455">
-      <title>Synthesis of Quinoline&#8208;4&#8208;carboxamides and Quinoline&#8208;4&#8208;carboxylates via a Modified Pfitzinger Reaction of N&#8208;Vinylisatins</title>
-      <dc:description>A synthetic approach for the accelerated assembly of quinoline&#8208;4&#8208;carboxamide and quinoline&#8208;4&#8208;carboxylate nuclei is presented. The methodology is based on the rearrangement of  N  &#8208;vinylisatins promoted by different types of amines (or ethanol) in a Pfitzinger&#8208;type mechanism that in turn builds the quinoline ring system. The reaction took place only by heating the starting materials in ethanol, without any additive.</dc:description>
-      <dc:creator>
-Marco  V. Mijangos, 
-Yoarhy  A. Amador-S&#225;nchez, 
-Luis  D. Miranda
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/ejoc.202001455</link>
-      <content:encoded>&lt;p&gt;A synthetic approach for the accelerated assembly of quinoline&#8208;4&#8208;carboxamide and quinoline&#8208;4&#8208;carboxylate nuclei is presented. The methodology is based on the rearrangement of  N  &#8208;vinylisatins promoted by different types of amines (or ethanol) in a Pfitzinger&#8208;type mechanism that in turn builds the quinoline ring system. The reaction took place only by heating the starting materials in ethanol, without any additive.&lt;/p&gt;</content:encoded>
-      <description>European Journal of Organic Chemistry, Accepted Article. </description>
-      <dc:title>Synthesis of Quinoline&#8208;4&#8208;carboxamides and Quinoline&#8208;4&#8208;carboxylates via a Modified Pfitzinger Reaction of N&#8208;Vinylisatins</dc:title>
-      <dc:identifier>doi:10.1002/ejoc.202001455</dc:identifier>
-      <dc:source>European Journal of Organic Chemistry</dc:source>
-      <dc:date>2020-12-08T11:44:41-08:00</dc:date>
-      <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <prism:doi>10.1002/ejoc.202001455</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/ejoc.202001455</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
    </item>
    <item rdf:about="/doi/abs/10.1002/ejoc.202001104">
       <title>Reaction of N,N&#8208;Disubstituted Polyfluoroalkanethioamides with Diazomethane: Entry to New Thiirane Derivatives</title>
