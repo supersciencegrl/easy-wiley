@@ -9,6 +9,7 @@
       <prism:publicationName>ChemBioChem (no repeats)</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202100030" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000787" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000770" />
             <rdf:li rdf:resource="/doi/abs/10.1002/cbic.202000740" />
@@ -156,6 +157,25 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/cbic.202100030">
+      <title>Reversible Control of Gelatin Hydrogel Stiffness using DNA Crosslinkers</title>
+      <dc:description>Biomaterials with dynamically tunable properties are critical for a range of applications in regenerative medicine and basic biology. In this work, we show the reversible control of gelatin methacrylate (GelMA) hydrogel stiffness through the use of DNA crosslinkers. We replaced some of the inter&#8208;GelMA crosslinks with double&#8208;stranded DNA, allowing for their removal via toehold&#8208;mediated strand displacement. The crosslinks could be restored by adding fresh dsDNA with complementary handles to the hydrogel. The elastic modulus (G&#8217;) of the hydrogels could be tuned between 500 and 1000 Pa, reversibly, over two cycles without degradation of performance. By functionalizing the gels with a second DNA strand, it was possible to control the crosslink density and a model ligand in an orthogonal fashion with two different displacement strands. Our results demonstrate the potential for DNA to reversibly control both stiffness and ligand presentation in a protein&#8208;based hydrogel, and will be useful for teasing apart the spatiotemporal behavior of encapsulated cells.</dc:description>
+      <dc:creator>
+Nicholas Stephanopoulos
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/cbic.202100030</link>
+      <content:encoded>&lt;p&gt;Biomaterials with dynamically tunable properties are critical for a range of applications in regenerative medicine and basic biology. In this work, we show the reversible control of gelatin methacrylate (GelMA) hydrogel stiffness through the use of DNA crosslinkers. We replaced some of the inter&#8208;GelMA crosslinks with double&#8208;stranded DNA, allowing for their removal via toehold&#8208;mediated strand displacement. The crosslinks could be restored by adding fresh dsDNA with complementary handles to the hydrogel. The elastic modulus (G&#8217;) of the hydrogels could be tuned between 500 and 1000 Pa, reversibly, over two cycles without degradation of performance. By functionalizing the gels with a second DNA strand, it was possible to control the crosslink density and a model ligand in an orthogonal fashion with two different displacement strands. Our results demonstrate the potential for DNA to reversibly control both stiffness and ligand presentation in a protein&#8208;based hydrogel, and will be useful for teasing apart the spatiotemporal behavior of encapsulated cells.&lt;/p&gt;</content:encoded>
+      <description>ChemBioChem, Accepted Article. </description>
+      <dc:title>Reversible Control of Gelatin Hydrogel Stiffness using DNA Crosslinkers</dc:title>
+      <dc:identifier>doi:10.1002/cbic.202100030</dc:identifier>
+      <dc:source>ChemBioChem</dc:source>
+      <dc:date>2021-01-23T10:13:54-08:00</dc:date>
+      <prism:publicationName>ChemBioChem</prism:publicationName>
+      <prism:doi>10.1002/cbic.202100030</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/cbic.202100030</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/cbic.202000787">
       <title>Targeting TRIM Proteins: A quest towards drugging an emerging protein class</title>
       <dc:description>The ubiquitination machinery regulates several fundamental biological processes from protein homeostasis to a wide variety of cellular signalling pathways. As a consequence, its dysregulation is linked to diseases, including cancer, neurodegeneration, and autoimmunity. With this review, we aim to highlight the therapeutic potential of targeting E3 ligases with a special focus on an emerging class of RING ligases, named Tri&#8208;Partite Motif (TRIM) proteins, whose role as targets for drug development is currently gaining pharmaceutical attention. TRIM proteins exert their catalytic activity as scaffolds involved in many protein&#8208;protein interactions, whose multi&#8208;domains and adapter&#8208;like nature make their druggability very challenging. Here we report an overview of the current understanding of this class of single polypeptide RING E3 ligases and discuss potential targeting options.</dc:description>
