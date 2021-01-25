@@ -9,11 +9,26 @@
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <items>
          <rdf:Seq>
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005214" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004561" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004619" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003113" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004703" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004091" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004326" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004819" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004899" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005025" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003950" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004932" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004859" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005158" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005162" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100112" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100032" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005426" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005059" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100237" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100187" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100238" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005493" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100129" />
@@ -37,6 +52,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005085" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005086" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005351" />
+            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100187" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005012" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004951" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004045" />
@@ -128,20 +144,7 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004630" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005170" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100182" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003869" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004931" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003386" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004280" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004345" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005503" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005078" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003641" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202003987" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005502" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005344" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005392" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004930" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004797" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202004747" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202100041" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005014" />
@@ -168,9 +171,6 @@
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005401" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005397" />
             <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005421" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005474" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005248" />
-            <rdf:li rdf:resource="/doi/abs/10.1002/chem.202005157" />
          </rdf:Seq>
       </items>
    </channel>
@@ -179,6 +179,80 @@
       <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/15213765.jpg</url>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/15213765</link>
    </image>
+   <item rdf:about="/doi/abs/10.1002/chem.202005214">
+      <title>Rational molecular design of multifunctional blue material based on phenanthroimidazole derivatives</title>
+      <dc:description>High&#8208;performance deep&#8208;blue emitters with EQEs over 5% are still scarce in OLEDs. In this work, by introducing the [1,2,4] triazolo [1,5&#8208;a] pyridine (TP) unit to the N1 position of phenanthroimidazole, two luminescent materials, PTPTPA and PTPBTPA were obtained. Based on systematic photophysical analysis, we found that the TP block is suitable for constructing HLCT emitters. Its moderate electron withdrawing ability and rigid planar structure can enhance the CT component while ensuring the color purity. In addition, compared with PTPTPA, the increased phenyl ring of PTPBPTA not only increases the oscillator strength, but also shortens the stokes shift. TDDFT calculations point to facile RISC processes in PTPBTPA from high&#8208;lying triplet states to the singlet excited state. PTPBTPA presents impressive performances when serving as non&#8208;doped device (EQE  max  = 7.11%, CIE: (0.15, 0.09)), as well as a high&#8208;performance host for yellow and red PhOLEDs. By doping yellow (PPYBA) and red (BTPG) phosphorescent dye into PTPBTPA, a white OLED with a high EQE of 23.85% was achieved. The successful design of PTPBTPA not only provides an optimization choice for OLED emitters, but also demonstrates the empirical rules for the design of multifunctional deep&#8208;blue emitters.</dc:description>
+      <dc:creator>
+Xiang Chen, 
+Hao Zhang, 
+Hong-Ji Tan, 
+Liu Yang, 
+Peng Qin, 
+Xu-Hui Zheng, 
+Shan-Shun Tang, 
+Yu Liu, 
+Qing-Xiao Tong
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202005214</link>
+      <content:encoded>&lt;p&gt;High&#8208;performance deep&#8208;blue emitters with EQEs over 5% are still scarce in OLEDs. In this work, by introducing the [1,2,4] triazolo [1,5&#8208;a] pyridine (TP) unit to the N1 position of phenanthroimidazole, two luminescent materials, PTPTPA and PTPBTPA were obtained. Based on systematic photophysical analysis, we found that the TP block is suitable for constructing HLCT emitters. Its moderate electron withdrawing ability and rigid planar structure can enhance the CT component while ensuring the color purity. In addition, compared with PTPTPA, the increased phenyl ring of PTPBPTA not only increases the oscillator strength, but also shortens the stokes shift. TDDFT calculations point to facile RISC processes in PTPBTPA from high&#8208;lying triplet states to the singlet excited state. PTPBTPA presents impressive performances when serving as non&#8208;doped device (EQE  max  = 7.11%, CIE: (0.15, 0.09)), as well as a high&#8208;performance host for yellow and red PhOLEDs. By doping yellow (PPYBA) and red (BTPG) phosphorescent dye into PTPBTPA, a white OLED with a high EQE of 23.85% was achieved. The successful design of PTPBTPA not only provides an optimization choice for OLED emitters, but also demonstrates the empirical rules for the design of multifunctional deep&#8208;blue emitters.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Rational molecular design of multifunctional blue material based on phenanthroimidazole derivatives</dc:title>
+      <dc:identifier>doi:10.1002/chem.202005214</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2021-01-25T05:17:50-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202005214</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005214</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202004561">
+      <title>High temperature proton conduction in LaSbO4</title>
+      <dc:description>Lanthanum orthoantimonate was synthesized using a solid&#8208;state synthesis method. To enhance the possible protonic conductivity, samples with the addition of 1 mol% Ca in La&#8208;site, were also prepared. The structure was studied by the means of X&#8208;ray diffraction, which showed that both specimens were single phase. The materials crystallized in the space group P2  1  /n. Dilatometry revealed that material expands non&#8208;linearly with the temperature. The nature of this deviation is unknown, however, the calculated linear fraction thermal expansion coefficient was 9.56&#215;10  &#8208;6  1/K. Electrical properties studies showed that the material is a proton conductor in oxidizing conditions, which was confirmed both by temperature studies in wet in dry air, but also by the H/D isotope exchange experiment. The conductivity was rather modest, peaking at order 10  &#8208;6  S/cm at 800&#176;C, but this can be further improved by microstructure and doping optimization. This is the first time when protonic conductivity in lanthanum orthoantimonates is reported.</dc:description>
+      <dc:creator>
+Piotr Winiarz, 
+Kacper Dzierzgowski, 
+Aleksandra Mielewczyk&#8211;Gry&#324;, 
+Maria Gazda, 
+Sebastian Wachowski
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202004561</link>
+      <content:encoded>&lt;p&gt;Lanthanum orthoantimonate was synthesized using a solid&#8208;state synthesis method. To enhance the possible protonic conductivity, samples with the addition of 1 mol% Ca in La&#8208;site, were also prepared. The structure was studied by the means of X&#8208;ray diffraction, which showed that both specimens were single phase. The materials crystallized in the space group P2  1  /n. Dilatometry revealed that material expands non&#8208;linearly with the temperature. The nature of this deviation is unknown, however, the calculated linear fraction thermal expansion coefficient was 9.56&#215;10  &#8208;6  1/K. Electrical properties studies showed that the material is a proton conductor in oxidizing conditions, which was confirmed both by temperature studies in wet in dry air, but also by the H/D isotope exchange experiment. The conductivity was rather modest, peaking at order 10  &#8208;6  S/cm at 800&#176;C, but this can be further improved by microstructure and doping optimization. This is the first time when protonic conductivity in lanthanum orthoantimonates is reported.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>High temperature proton conduction in LaSbO4</dc:title>
+      <dc:identifier>doi:10.1002/chem.202004561</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2021-01-25T04:12:28-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202004561</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202004561</prism:url>
+      <prism:copyright />
+      <prism:section>Communication</prism:section>
+   </item>
+   <item rdf:about="/doi/abs/10.1002/chem.202100112">
+      <title>Dominant Pseudocapacitance Filling Charge&#8208;Discharge Voltage Gap of Flexible Hybrid Zinc&#8208;Based Batteries</title>
+      <dc:description>The high charge&#8208;discharge voltage gap is one of the main bottlenecks of zinc&#8208;air batteries (ZABs) because of kinetically sluggish rate of oxygen reduction/evolution reaction (ORR/OER) on the oxygen electrode side, and thus an efficient bifunctional catalyst for ORR and OER is highly pursued. Here, a honeycomb&#8208;like MnCo2O4.5 spheres, as an efficient bifunctional electrocatalyst, has been demonstrated that both ORR and OER catalytic activity are promoted by the Mn (IV) induced oxygen vacancy defects and multi&#8208;active sites. Importantly, the rich multivalent ion and defect structure endow stable pseudocapacitance within the inactive&#8208;region of ORR and OER, thus affording a low charge&#8208;discharge voltage gap (0.43 V at 10 mA cm&#8208;2) when it is employed in the flexible hybrid Zn&#8208;base battery. This mechanism provides unprecedented and valuable insights in the development of next&#8208;generation metal&#8208;air batteries.</dc:description>
+      <dc:creator>
+Ling Wang, 
+Xiao-Tong Wang, 
+Jia-Huan Zhong, 
+Kang Xiao, 
+Ting Ouyang, 
+Zhao-Qing Liu
+</dc:creator>
+      <link>https://chemistry-europe.doi.org/10.1002/chem.202100112</link>
+      <content:encoded>&lt;p&gt;The high charge&#8208;discharge voltage gap is one of the main bottlenecks of zinc&#8208;air batteries (ZABs) because of kinetically sluggish rate of oxygen reduction/evolution reaction (ORR/OER) on the oxygen electrode side, and thus an efficient bifunctional catalyst for ORR and OER is highly pursued. Here, a honeycomb&#8208;like MnCo2O4.5 spheres, as an efficient bifunctional electrocatalyst, has been demonstrated that both ORR and OER catalytic activity are promoted by the Mn (IV) induced oxygen vacancy defects and multi&#8208;active sites. Importantly, the rich multivalent ion and defect structure endow stable pseudocapacitance within the inactive&#8208;region of ORR and OER, thus affording a low charge&#8208;discharge voltage gap (0.43 V at 10 mA cm&#8208;2) when it is employed in the flexible hybrid Zn&#8208;base battery. This mechanism provides unprecedented and valuable insights in the development of next&#8208;generation metal&#8208;air batteries.&lt;/p&gt;</content:encoded>
+      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
+      <dc:title>Dominant Pseudocapacitance Filling Charge&#8208;Discharge Voltage Gap of Flexible Hybrid Zinc&#8208;Based Batteries</dc:title>
+      <dc:identifier>doi:10.1002/chem.202100112</dc:identifier>
+      <dc:source>Chemistry &#8211; A European Journal</dc:source>
+      <dc:date>2021-01-24T07:25:01-08:00</dc:date>
+      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
+      <prism:doi>10.1002/chem.202100112</prism:doi>
+      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202100112</prism:url>
+      <prism:copyright />
+      <prism:section>Full Paper</prism:section>
+   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202100032">
       <title>A Concise Total Synthesis of Dehydroantofine and the Antimalarial Activity against Chloroquine&#8208;Resistant P. falciparum</title>
       <dc:description>A total synthesis of dehydroantofine was achieved by employing a novel, regioselective azahetero Diels&#8208;Alder reaction of the easily accessible 3,5&#8208;dichloro&#8208;2  H  &#8208;1,4&#8208;oxazin&#8208;2&#8208;one with 4&#8208;ethynyl&#8208;1,2&#8208;dimethoxybenzene as a key step. Further, we demonstrated that dehydroantofine is a promising candidate as a new antimalarial agent in a biological assay with chloroquine&#8208;resistant  Plasmodium falciparum  .</dc:description>
@@ -278,26 +352,6 @@ Jun-Han Ma
       <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
       <prism:doi>10.1002/chem.202100237</prism:doi>
       <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202100237</prism:url>
-      <prism:copyright />
-      <prism:section>Communication</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202100187">
-      <title>2&#8208;Fluoro&#8208;5&#8208;nitrophenyldiazonium &#8211; a novel Sanger&#8208;type reagent for the versatile functionalization of alcohols</title>
-      <dc:description>As a novel Sanger&#8208;type reagent, 2&#8208;fluoro&#8208;5&#8208;nitrophenyl&#8208;diazonium tetrafluoroborate enables the versatile functionalization of primary and secondary aliphatic alcohols. Based on a mild nucleophilic aromatic substitution of the fluorine atom under unprecedented, base&#8208;free conditions, the diazonium unit on the aromatic core of the resulting aryl&#8208;alkyl ether can be employed for such diverse transformations as radical C&#8208;H activation and cyclization, as well as palladium catalysed cross&#8208;coupling reactions</dc:description>
-      <dc:creator>
-Oliver Fischer, 
-Markus  Rolf Heinrich
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202100187</link>
-      <content:encoded>&lt;p&gt;As a novel Sanger&#8208;type reagent, 2&#8208;fluoro&#8208;5&#8208;nitrophenyl&#8208;diazonium tetrafluoroborate enables the versatile functionalization of primary and secondary aliphatic alcohols. Based on a mild nucleophilic aromatic substitution of the fluorine atom under unprecedented, base&#8208;free conditions, the diazonium unit on the aromatic core of the resulting aryl&#8208;alkyl ether can be employed for such diverse transformations as radical C&#8208;H activation and cyclization, as well as palladium catalysed cross&#8208;coupling reactions&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>2&#8208;Fluoro&#8208;5&#8208;nitrophenyldiazonium &#8211; a novel Sanger&#8208;type reagent for the versatile functionalization of alcohols</dc:title>
-      <dc:identifier>doi:10.1002/chem.202100187</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-22T07:09:14-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202100187</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202100187</prism:url>
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
@@ -1583,125 +1637,6 @@ Inhye Kim
       <prism:copyright />
       <prism:section>Communication</prism:section>
    </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202005503">
-      <title>Donor&#8211;Acceptor Interactions Induced Interfacial Synthesis of an Ultrathin Fluoric 2D Polymer by Photochemical [2+2] Cycloaddition</title>
-      <dc:description>
-&#8220;In this study, we successfully prepared a crystalline ultrathin two&#8208;dimensional polymers (2DPs) film at the air/water interface through [2+2] photo&#8208;cycloaddition. In addition, the molecular structure of the 2DP was explicitly analyzed by a combination of SAED pattern and molecular&#8208;mechanics&#8208;based structural simulation.&#8221; Read more about the story behind the cover in the Cover Profile and about the research itself on page&#8197;&#9642;&#9642;&#8197;ff. (DOI: 10.1002/chem.202004797).
-
-
-
-
-
-
-
-Abstract
-Invited for the cover of this issue is the group of Prof.&#8197;Dr. Yingjie Zhao at Qingdao University of Science and Technology. The image depicts the ultrathin two&#8208;dimensional polymer reported in this work. Read the full text of the article at 10.1002/chem.202004797.
-</dc:description>
-      <dc:creator>
-Qingzhu Sun, 
-Qingyan Pan, 
-Yanqi Ban, 
-Hui Liu, 
-Chunyan Fan, 
-Lishui Sun, 
-Yingjie Zhao
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202005503</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ebcf8e83-af02-4543-ab34-b0cc0a05d199/chem202005503-toc-0001-m.png"
-     alt="Donor&#8211;Acceptor Interactions Induced Interfacial Synthesis of an Ultrathin Fluoric 2D Polymer by Photochemical [2+2] Cycloaddition"/&gt;
-&lt;p&gt;&#8220;&lt;i&gt;In this study, we successfully prepared a crystalline ultrathin two&#8208;dimensional polymers (2DPs) film at the air/water interface through [2+2] photo&#8208;cycloaddition. In addition, the molecular structure of the 2DP was explicitly analyzed by a combination of SAED pattern and molecular&#8208;mechanics&#8208;based structural simulation&lt;/i&gt;.&#8221; Read more about the story behind the cover in the Cover Profile and about the research itself on page&#8197;&#9642;&#9642;&#8197;ff. (DOI: &lt;a href="https://doi.org/10.1002/chem.202004797"&gt;10.1002/chem.202004797&lt;/a&gt;).
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Invited for the cover of this issue is the group of Prof.&#8197;Dr. Yingjie Zhao at Qingdao University of Science and Technology. The image depicts the ultrathin two&#8208;dimensional polymer reported in this work. Read the full text of the article at &lt;a href="https://doi.org/10.1002/chem.202004797"&gt;10.1002/chem.202004797&lt;/a&gt;.&lt;/p&gt;
-</content:encoded>
-      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
-      <dc:title>Donor&#8211;Acceptor Interactions Induced Interfacial Synthesis of an Ultrathin Fluoric 2D Polymer by Photochemical [2+2] Cycloaddition</dc:title>
-      <dc:identifier>doi:10.1002/chem.202005503</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-18T06:50:29-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202005503</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005503</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Profile</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202005502">
-      <title>Donor&#8211;Acceptor Interactions Induced Interfacial Synthesis of an Ultrathin Fluoric 2D Polymer by Photochemical [2+2] Cycloaddition</title>
-      <dc:description>
-A crystalline and ultrathin two&#8208;dimensional polymer (2DP) film was successfully synthesized at the air/water interface through [2+2] photo&#8208;cycloaddition. The self&#8208;assembly process induced from the strong donor&#8211;acceptor interactions realizes the pre&#8208;organization of the monomers which is the key role to keep the highly ordered structure in the subsequent photo&#8208;polymerization. Various microscopy techniques demonstrated the successful formation of the ultrathin, large&#8208;area, and free&#8208;standing 2DP film. TERS technology was applied to verify the successful polymerization. More importantly, the molecular structure of the 2DP was explicitly analyzed by a combination of SAED pattern and molecular&#8208;mechanics&#8208;based structural simulation. More information can be found in the Communication by L. Sun, Y. Zhao, et&#8197;al. (DOI: 10.1002/chem.202004797).
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Qingzhu Sun, 
-Qingyan Pan, 
-Yanqi Ban, 
-Hui Liu, 
-Chunyan Fan, 
-Lishui Sun, 
-Yingjie Zhao
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202005502</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/fa9e5f1b-dd2b-4a62-96c5-12c8301187af/chem202005502-toc-0001-m.png"
-     alt="Donor&#8211;Acceptor Interactions Induced Interfacial Synthesis of an Ultrathin Fluoric 2D Polymer by Photochemical [2+2] Cycloaddition"/&gt;
-&lt;p&gt;&lt;b&gt;A crystalline and ultrathin two&#8208;dimensional polymer (2DP) film&lt;/b&gt; was successfully synthesized at the air/water interface through [2+2] photo&#8208;cycloaddition. The self&#8208;assembly process induced from the strong donor&#8211;acceptor interactions realizes the pre&#8208;organization of the monomers which is the key role to keep the highly ordered structure in the subsequent photo&#8208;polymerization. Various microscopy techniques demonstrated the successful formation of the ultrathin, large&#8208;area, and free&#8208;standing 2DP film. TERS technology was applied to verify the successful polymerization. More importantly, the molecular structure of the 2DP was explicitly analyzed by a combination of SAED pattern and molecular&#8208;mechanics&#8208;based structural simulation. More information can be found in the Communication by L. Sun, Y. Zhao, et&#8197;al. (DOI: &lt;a href="https://doi.org/10.1002/chem.202004797"&gt;10.1002/chem.202004797&lt;/a&gt;).
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
-      <dc:title>Donor&#8211;Acceptor Interactions Induced Interfacial Synthesis of an Ultrathin Fluoric 2D Polymer by Photochemical [2+2] Cycloaddition</dc:title>
-      <dc:identifier>doi:10.1002/chem.202005502</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-18T06:40:19-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202005502</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005502</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202005344">
-      <title>Bifunctional Hydrogen Bond Donor&#8208;Catalyzed Diels&#8211;Alder Reactions: Origin of Stereoselectivity and Rate Enhancement</title>
-      <dc:description>
-(Thio)ureas have found numerous applications as organocatalysts, yet their mode of action, that is, the mechanism by which they accelerate reactions is still not fully understood. In this work, quantum chemical activation strain analyses reveal that these bifunctional hydrogen bond organocatalysts accelerate the Diels&#8211;Alder reaction between cyclopentadiene and acrolein by reducing the two&#8208;center four&#8208;electron (steric) Pauli repulsion between the occupied &#960;&#8208;orbitals of the reactants and not by enhancing the donor&#8211;acceptor orbital interactions, as is traditionally considered. More information can be found in the Full Paper by P. Vermeeren, T.&#8197;A. Hamlin, F.&#8197;M. Bickelhaupt, and I. Fern&#225;ndez. (DOI: 10.1002/chem.202004496).
-
-
-
-
-
-
-</dc:description>
-      <dc:creator>
-Pascal Vermeeren, 
-Trevor A. Hamlin, 
-F. Matthias Bickelhaupt, 
-Israel Fern&#225;ndez
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202005344</link>
-      <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/2f100d0a-f94e-4895-a25b-ac130094bbee/chem202005344-toc-0001-m.png"
-     alt="Bifunctional Hydrogen Bond Donor&#8208;Catalyzed Diels&#8211;Alder Reactions: Origin of Stereoselectivity and Rate Enhancement"/&gt;
-&lt;p&gt;&lt;b&gt;(Thio)ureas&lt;/b&gt; have found numerous applications as organocatalysts, yet their mode of action, that is, the mechanism by which they accelerate reactions is still not fully understood. In this work, quantum chemical activation strain analyses reveal that these bifunctional hydrogen bond organocatalysts accelerate the Diels&#8211;Alder reaction between cyclopentadiene and acrolein by reducing the two&#8208;center four&#8208;electron (steric) Pauli repulsion between the occupied &#960;&#8208;orbitals of the reactants and not by enhancing the donor&#8211;acceptor orbital interactions, as is traditionally considered. More information can be found in the Full Paper by P. Vermeeren, T.&#8197;A. Hamlin, F.&#8197;M. Bickelhaupt, and I. Fern&#225;ndez. (DOI: &lt;a href="https://doi.org/10.1002/chem.202004496"&gt;10.1002/chem.202004496&lt;/a&gt;).
-
-&lt;/p&gt;
-&lt;br/&gt;
-</content:encoded>
-      <description>Chemistry &#8211; A European Journal, EarlyView. </description>
-      <dc:title>Bifunctional Hydrogen Bond Donor&#8208;Catalyzed Diels&#8211;Alder Reactions: Origin of Stereoselectivity and Rate Enhancement</dc:title>
-      <dc:identifier>doi:10.1002/chem.202005344</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-18T06:36:04-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202005344</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005344</prism:url>
-      <prism:copyright />
-      <prism:section>Cover Picture</prism:section>
-   </item>
    <item rdf:about="/doi/abs/10.1002/chem.202005392">
       <title>Cationic zinc hydrides catalyzed CO2 reduction to formate: Deciphering elementary reactions, isolation of intermediates and computational investigations</title>
       <dc:description>Zinc has been an element of choice for carbon dioxide reduction in recent years. Zinc compounds have been showcased as catalysts for carbon dioxide hydrosilylation and hydroboration. The extent of carbon dioxide reduction can depend on various factors, including electrophilicity at the zinc centre and the denticity of the ancillary ligands. In a few cases, the addition of Lewis acids to zinc hydride catalysts markedly influences CO  2  reduction. We have investigated these factors by exploring elementary reactions of CO  2  hydrosilylation and hydroboration using cationic zinc hydrides bearing the tetradentate tris[2&#8208;(dimethylamino)ethyl]amine and the tridentate N,N,N&#8242;,N&#8242;&#8242;,N&#8242;&#8242;&#8208;pentamethyldiethylenetriamine in the presence of triphenylborane and tris(pentafluorophenyl)borane.</dc:description>
@@ -2187,72 +2122,5 @@ Xiao-Feng Wang
       <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005421</prism:url>
       <prism:copyright />
       <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202005474">
-      <title>Post&#8208;synthetic modified PANI/MOF composites with tunable thermoelectric and photoelectric properties</title>
-      <dc:description>We synthesized and characterized a three&#8208;dimensional (3D) Co&#8208;based metal&#8208;organic framework (  Co&#8208;MOF  ) with two kinds of large pores filled by free Co  2+  and ligands.   To expand the MOF's structure and conductivity, the free Co  2+  and ligands are exchanged by conductive ionic liquid   EtpyBr  and photosensitive AgNO  3  via  single&#8208;crystal to single&#8208;crystal (SC&#8208;SC) transformation,  producing two structure changed  3D MOFs  Co&#8208;MOF&#8208;Br  and  Co&#8208;Ag&#8208;MOF  , which are determined by single&#8208;crystal X&#8208;ray diffraction. Meanwhile, incorporating small quantities of doped polyaniline (PANI) with redox activity into the pores can further tune the three MOFs' stability and conductivity. The PANI/MOFs all show outstanding electrical conductivity (~10  &#8208;2  S cm  &#8208;1  ), and PANI/  Co&#8208;MOF&#8208;Br  displays the highest p&#8208;type Seebeck coefficient of 66.6 &#956;V K  &#8208;1  .  PANI/  Co&#8208;MOF&#8208;Br  and PANI/  Co&#8208;Ag&#8208;MOF  increase the photocurrent density by 4 and 15 times compared with PANI/  Co&#8208;MOF  , respectively. It would shed light on the research of designing advanced electrically conductive 3D MOFs.</dc:description>
-      <dc:creator>
-Hongwei Hou, 
-Wenjuan Xu, 
-Yujie Zhao, 
-Huarui Wang, 
-Hongfei Wang, 
-Fangfang Pan, 
-Ruixue Xu
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202005474</link>
-      <content:encoded>&lt;p&gt;We synthesized and characterized a three&#8208;dimensional (3D) Co&#8208;based metal&#8208;organic framework (  Co&#8208;MOF  ) with two kinds of large pores filled by free Co  2+  and ligands.   To expand the MOF's structure and conductivity, the free Co  2+  and ligands are exchanged by conductive ionic liquid   EtpyBr  and photosensitive AgNO  3  via  single&#8208;crystal to single&#8208;crystal (SC&#8208;SC) transformation,  producing two structure changed  3D MOFs  Co&#8208;MOF&#8208;Br  and  Co&#8208;Ag&#8208;MOF  , which are determined by single&#8208;crystal X&#8208;ray diffraction. Meanwhile, incorporating small quantities of doped polyaniline (PANI) with redox activity into the pores can further tune the three MOFs' stability and conductivity. The PANI/MOFs all show outstanding electrical conductivity (~10  &#8208;2  S cm  &#8208;1  ), and PANI/  Co&#8208;MOF&#8208;Br  displays the highest p&#8208;type Seebeck coefficient of 66.6 &#956;V K  &#8208;1  .  PANI/  Co&#8208;MOF&#8208;Br  and PANI/  Co&#8208;Ag&#8208;MOF  increase the photocurrent density by 4 and 15 times compared with PANI/  Co&#8208;MOF  , respectively. It would shed light on the research of designing advanced electrically conductive 3D MOFs.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Post&#8208;synthetic modified PANI/MOF composites with tunable thermoelectric and photoelectric properties</dc:title>
-      <dc:identifier>doi:10.1002/chem.202005474</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-13T03:33:25-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202005474</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005474</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202005248">
-      <title>Prediction of Spin Density, Baird&#8208;Antiaromaticity, and Singlet&#8208;Triplet Energy Gap in Triplet&#8208;State Polybenzenoid Systems from Simple Structural Motifs</title>
-      <dc:description>Triplet&#8208;state aromaticity has been recently proposed as a strategy for designing functional organic electronic compounds, many of which are polycyclic aromatic systems. However, in many cases, the aromatic nature of the triplet state cannot be easily predicted. Moreover, it is often unclear how specific structural manipulations affect the electronic properties of the excited state compounds. Herein, we study the relationship between the structure of polybenzenoid hydrocarbons (PBHs) and their spin density distribution and aromatic character in the first triplet excited state. Though a direct link is not immediately visible, classifying the PBHs according to their annulation sequence reveals regularities. Based on these, we define a set of guidelines to qualitatively predict the location of spin and paratropicity and the singlet&#8208;triplet energy gap in larger PBHs, using only their smaller tri&#8208; and tetracyclic components and subsequently test the validity of the guidelines on larger systems.</dc:description>
-      <dc:creator>
-Greta Markert, 
-Eno Paenurk, 
-Renana Gershoni-Poranne
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202005248</link>
-      <content:encoded>&lt;p&gt;Triplet&#8208;state aromaticity has been recently proposed as a strategy for designing functional organic electronic compounds, many of which are polycyclic aromatic systems. However, in many cases, the aromatic nature of the triplet state cannot be easily predicted. Moreover, it is often unclear how specific structural manipulations affect the electronic properties of the excited state compounds. Herein, we study the relationship between the structure of polybenzenoid hydrocarbons (PBHs) and their spin density distribution and aromatic character in the first triplet excited state. Though a direct link is not immediately visible, classifying the PBHs according to their annulation sequence reveals regularities. Based on these, we define a set of guidelines to qualitatively predict the location of spin and paratropicity and the singlet&#8208;triplet energy gap in larger PBHs, using only their smaller tri&#8208; and tetracyclic components and subsequently test the validity of the guidelines on larger systems.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Prediction of Spin Density, Baird&#8208;Antiaromaticity, and Singlet&#8208;Triplet Energy Gap in Triplet&#8208;State Polybenzenoid Systems from Simple Structural Motifs</dc:title>
-      <dc:identifier>doi:10.1002/chem.202005248</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-13T12:55:10-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202005248</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005248</prism:url>
-      <prism:copyright />
-      <prism:section>Full Paper</prism:section>
-   </item>
-   <item rdf:about="/doi/abs/10.1002/chem.202005157">
-      <title>Beyond the Isoprene Pattern: Bifunctional Polyene Cyclizations</title>
-      <dc:description>Polyene cyclizations are capable of producing molecular complexity in a single step. While classical systems are limited to simple alkyl substitution patterns only, bifunctional polyenes take advantage of the unique reactivity of higher&#8208;functionalized alkenes. Here, we highlight the potential of these variants for the synthesis of structurally complex polycycles involving unprecedented termination steps. We also want to provide a stimulus for the development of novel modes of cyclization that involve bifunctional units to enable efficient synthesis of yet inaccessible natural products.</dc:description>
-      <dc:creator>
-Julian  Maximilian Feilner, 
-Franz-Lucas Haut, 
-Thomas Magauer
-</dc:creator>
-      <link>https://chemistry-europe.doi.org/10.1002/chem.202005157</link>
-      <content:encoded>&lt;p&gt;Polyene cyclizations are capable of producing molecular complexity in a single step. While classical systems are limited to simple alkyl substitution patterns only, bifunctional polyenes take advantage of the unique reactivity of higher&#8208;functionalized alkenes. Here, we highlight the potential of these variants for the synthesis of structurally complex polycycles involving unprecedented termination steps. We also want to provide a stimulus for the development of novel modes of cyclization that involve bifunctional units to enable efficient synthesis of yet inaccessible natural products.&lt;/p&gt;</content:encoded>
-      <description>Chemistry &#8211; A European Journal, Accepted Article. </description>
-      <dc:title>Beyond the Isoprene Pattern: Bifunctional Polyene Cyclizations</dc:title>
-      <dc:identifier>doi:10.1002/chem.202005157</dc:identifier>
-      <dc:source>Chemistry &#8211; A European Journal</dc:source>
-      <dc:date>2021-01-13T12:00:00-08:00</dc:date>
-      <prism:publicationName>Chemistry &#8211; A European Journal</prism:publicationName>
-      <prism:doi>10.1002/chem.202005157</prism:doi>
-      <prism:url>https://chemistry-europe.doi.org/10.1002/chem.202005157</prism:url>
-      <prism:copyright />
-      <prism:section>Concept</prism:section>
    </item>
 </rdf:RDF>
