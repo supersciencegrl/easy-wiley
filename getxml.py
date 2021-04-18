@@ -6,9 +6,10 @@ import subprocess
 import csv
 
 ET.register_namespace('', 'http://purl.org/rss/1.0/')
+ET.register_namespace('atom', 'http://www.w3.org/2005/Atom')
+ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
 ET.register_namespace('dc', 'http://purl.org/dc/elements/1.1/')
 ET.register_namespace('prism', 'http://prismstandard.org/namespaces/basic/2.0/')
-ET.register_namespace('content', 'http://purl.org/rss/1.0/modules/content/')
 ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
 
 journallist = [ {'journal': 'Advanced Materials', 'shortname': 'AdvMater', 'url': 'https://onlinelibrary.wiley.com/feed/15214095/most-recent'},
@@ -16,7 +17,7 @@ journallist = [ {'journal': 'Advanced Materials', 'shortname': 'AdvMater', 'url'
                 {'journal': 'Angewandte Chemie International Edition', 'shortname': 'acie', 'url': 'https://onlinelibrary.wiley.com/feed/15213773/most-recent'},
                 {'journal': 'Chemistry — A European Journal', 'shortname': 'ChemEurJ', 'url': 'https://onlinelibrary.wiley.com/feed/15213765/most-recent'},
                 {'journal': 'ChemBioChem', 'shortname': 'ChemBioChem', 'url': 'https://onlinelibrary.wiley.com/feed/14397633/most-recent'},
-				{'journal': 'European Journal of Chemistry', 'shortname': 'ejoc', 'url': 'https://onlinelibrary.wiley.com/feed/10990690/most-recent'}
+		{'journal': 'European Journal of Chemistry', 'shortname': 'ejoc', 'url': 'https://onlinelibrary.wiley.com/feed/10990690/most-recent'}
                 ]
 
 def getxml(url):    
@@ -52,7 +53,7 @@ def updaterss(journal, shortname, url, cdate):
 
     # Read in RSS articles and remove newer duplicates
     rss_articles = old_articles[:]
-    for n, paper in enumerate(root[2:][::-1]):
+    for n, paper in enumerate(root[0][2:][::-1]):
         for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
             doi = doi.text
         if paper.findall('{http://purl.org/dc/elements/1.1/}date'):
@@ -74,12 +75,13 @@ def updaterss(journal, shortname, url, cdate):
                 rss_articles.append([doi, date])
 
     # Change feed title
-    if root[0][0].tag.endswith('title'):
-        root[0][0].text = f'{journal} (no repeats)'
-    if root[0][3].tag.endswith('title'):
-        root[0][3].text = f'{journal} (no repeats)'
-    if root[0][6].text == f'{journal}':
-        root[0][6].text = f'{journal} (no repeats)'
+    for i, elem in enumerate(root[0]):
+        if elem.tag == 'item':
+            break
+        elif elem.tag.endswith('title'):
+            root[0][i].text = f'{journal} (no repeats)'
+        elif elem.text == journal:
+            root[0][i].text = f'{journal} (no repeats)'
 
     # Create new RSS feed
     with open(f'{shortname}.xml', 'wb') as fout:
