@@ -58,13 +58,19 @@ def updaterss(journal, shortname, url, cdate):
             doi = doi.text
         if paper.findall('{http://purl.org/dc/elements/1.1/}date'):
             for date in paper.findall('{http://purl.org/dc/elements/1.1/}date'):
-                date = date.text
+                if 'T' in date.text:
+                    date = date.text[:10]
+                else:
+                    date = date.text
         else:
             date = 'none'
 
         if [doi, date] not in rss_articles:
             if doi in [i[0] for i in rss_articles]:
-                root.remove(paper)
+                try:
+                    root.remove(paper)
+                except ValueError: # paper not found in root
+                    pass
                 # Add date to journal_old.csv
                 if date == 'none':
                     date = cdate

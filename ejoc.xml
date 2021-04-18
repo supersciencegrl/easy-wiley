@@ -1,4 +1,4 @@
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://w3.org/2005/Atom" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" version="2.0">
+<rss xmlns:atom="http://w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" version="2.0">
    <channel>
       <title>European Journal of Chemistry (no repeats)</title>
       <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690</link>
@@ -11,10 +11,10 @@
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
-      <dc:title>Wiley: European Journal of Organic Chemistry: Table of Contents</dc:title>
+      <dc:title>European Journal of Chemistry (no repeats)</dc:title>
       <dc:publisher>Wiley</dc:publisher>
       <prism:publicationName>European Journal of Organic Chemistry</prism:publicationName>
-      <ns2:link href="https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690" rel="self" type="application/atom+xml" />
+      <atom:link href="https://chemistry-europe.onlinelibrary.wiley.com/journal/10990690" rel="self" type="application/atom+xml" />
       <image>
          <title>Wiley: European Journal of Organic Chemistry: Table of Contents</title>
          <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/10990690.jpg</url>

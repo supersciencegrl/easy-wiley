@@ -3,7 +3,7 @@ from datetime import date
 
 from updater import updatexml
 
-cdate = date.today().strftime('%Y-%b-%d')
+cdate = date.today().strftime('%Y-%m-%d')
 
 #try:
 #    os.chdir('C:\\Users\\Nessa\\Documents\\GitHub\\easy-wiley')
