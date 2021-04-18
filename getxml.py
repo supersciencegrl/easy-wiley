@@ -76,7 +76,12 @@ def updaterss(journal, shortname, url, cdate):
                     date = cdate
                     listposition = [i[0] for i in rss_articles].index(doi)
                     if cdate not in rss_articles[listposition]:
-                        rss_articles[listposition].append(date)
+                        try:
+                            existingdate = rss_articles[listposition][1]
+                            if existingdate.count('-') != 2:
+                                rss_articles[listposition][1] = date
+                        except IndexError:
+                            rss_articles[listposition].append(date)
             else:
                 rss_articles.append([doi, date])
 
