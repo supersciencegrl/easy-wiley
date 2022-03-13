@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
-      <pubDate>Sat, 12 Mar 2022 16:08:51 +0000</pubDate>
-      <lastBuildDate>Sat, 12 Mar 2022 16:08:51 +0000</lastBuildDate>
+      <pubDate>Sun, 13 Mar 2022 08:20:26 +0000</pubDate>
+      <lastBuildDate>Sun, 13 Mar 2022 08:20:26 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -21,38 +21,83 @@
          <link>https://onlinelibrary.wiley.com/journal/15214095</link>
       </image>
       <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202201081</link>
-         <pubDate>Sat, 12 Mar 2022 07:45:44 -0800</pubDate>
-         <dc:date>2022-03-12T07:45:44-08:00</dc:date>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202201345</link>
+         <pubDate>Sat, 12 Mar 2022 20:02:56 -0800</pubDate>
+         <dc:date>2022-03-12T08:02:56-08:00</dc:date>
          <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
          <prism:coverDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDate>
          <prism:coverDisplayDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/adma.202201081</guid>
-         <title>Thermally drawn highly conductive fibers with controlled elasticity</title>
+         <guid isPermaLink="false">10.1002/adma.202201345</guid>
+         <title>Hypothesis learning in automated experiment: application to combinatorial materials libraries</title>
          <description>Advanced Materials, Accepted Article. </description>
          <dc:description>
 Abstract
-Electronic fabrics necessitate both electrical conductivity and, like any textile, elastic recovery. Achieving both requirements on the scale of a single fiber remains an unmet need. Here, two approaches for achieving conductive fibers (107S/m) reaching 50% elongation while maintaining minimal change in resistance (&lt;0.5%) in embedded metallic electrodes are introduced. The first approach involves inducing a buckling instability in a metal microwire within a cavity of a thermally drawn elastomer fiber. The second approach relies on twisting an elastomer fiber to yield helical metal electrodes embedded in a stretchable yarn. The scalability of both approaches is illustrated in apparatuses for continuous buckling and twisting that yield tens of meters of elastic conducting fibers. Through experimental and analytical methods, we elucidate how geometric parameters, such as buckling pre&#8208;strain and helical angle, as well as materials choice, control not only the fiber's elasticity but also its Young's modulus. Links between mechanical and electrical properties are exposed. The resulting fibers are used to construct elastic fabrics that contain diodes, by weaving and knitting, thus demonstrating the scalable fabrication of conformable and stretchable antennas that support optical data transmission.
+Machine learning is rapidly becoming an integral part of experimental physical discovery via automated and high&#8208;throughput synthesis, and active experiments in scattering and electron/probe microscopy. This, in turn, necessitates the development of active learning methods capable of exploring relevant parameter spaces with the smallest number of steps. Here we introduce an active learning approach based on co&#8208;navigation of the hypothesis and experimental spaces. This is realized by combining the structured Gaussian Processes containing probabilistic models of the possible system's behaviors (hypotheses) with reinforcement learning policy refinement (discovery). This approach closely resembles classical human&#8208;driven physical discovery, when several alternative hypotheses realized via models with adjustable parameters are tested during an experiment. We demonstrate this approach for exploring concentration&#8208;induced phase transitions in combinatorial libraries of Sm&#8208;doped BiFeO3 using Piezoresponse Force Microscopy, but it is straightforward to extend it to higher&#8208;dimensional parameter spaces and more complex physical problems once the experimental workflow and hypothesis&#8208;generation are available.
 This article is protected by copyright. All rights reserved
 </dc:description>
          <content:encoded>
 &lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Electronic fabrics necessitate both electrical conductivity and, like any textile, elastic recovery. Achieving both requirements on the scale of a single fiber remains an unmet need. Here, two approaches for achieving conductive fibers (10&lt;sup&gt;7&lt;/sup&gt;S/m) reaching 50% elongation while maintaining minimal change in resistance (&amp;lt;0.5%) in embedded metallic electrodes are introduced. The first approach involves inducing a buckling instability in a metal microwire within a cavity of a thermally drawn elastomer fiber. The second approach relies on twisting an elastomer fiber to yield helical metal electrodes embedded in a stretchable yarn. The scalability of both approaches is illustrated in apparatuses for continuous buckling and twisting that yield tens of meters of elastic conducting fibers. Through experimental and analytical methods, we elucidate how geometric parameters, such as buckling pre-strain and helical angle, as well as materials choice, control not only the fiber's elasticity but also its Young's modulus. Links between mechanical and electrical properties are exposed. The resulting fibers are used to construct elastic fabrics that contain diodes, by weaving and knitting, thus demonstrating the scalable fabrication of conformable and stretchable antennas that support optical data transmission.&lt;/p&gt;
+&lt;p&gt;Machine learning is rapidly becoming an integral part of experimental physical discovery via automated and high-throughput synthesis, and active experiments in scattering and electron/probe microscopy. This, in turn, necessitates the development of active learning methods capable of exploring relevant parameter spaces with the smallest number of steps. Here we introduce an active learning approach based on co-navigation of the hypothesis and experimental spaces. This is realized by combining the structured Gaussian Processes containing probabilistic models of the possible system's behaviors (hypotheses) with reinforcement learning policy refinement (discovery). This approach closely resembles classical human-driven physical discovery, when several alternative hypotheses realized via models with adjustable parameters are tested during an experiment. We demonstrate this approach for exploring concentration-induced phase transitions in combinatorial libraries of Sm-doped BiFeO&lt;sub&gt;3&lt;/sub&gt; using Piezoresponse Force Microscopy, but it is straightforward to extend it to higher-dimensional parameter spaces and more complex physical problems once the experimental workflow and hypothesis-generation are available.&lt;/p&gt;
 &lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
          <dc:creator>
-Juliette S Marion, 
-Nikhil Gupta, 
-Henry Cheung, 
-Kirmina Monir, 
-Polina Anikeeva, 
-Yoel Fink
+Maxim Ziatdinov, 
+Yongtao Liu, 
+Anna N. Morozovska, 
+Eugene A. Eliseev, 
+Xiaohang Zhang, 
+Ichiro Takeuchi, 
+Sergei V. Kalinin
 </dc:creator>
          <category>Research Article</category>
-         <dc:title>Thermally drawn highly conductive fibers with controlled elasticity</dc:title>
-         <dc:identifier>10.1002/adma.202201081</dc:identifier>
+         <dc:title>Hypothesis learning in automated experiment: application to combinatorial materials libraries</dc:title>
+         <dc:identifier>10.1002/adma.202201345</dc:identifier>
          <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202201081</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202201081</prism:url>
+         <prism:doi>10.1002/adma.202201345</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202201345</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200270</link>
+         <pubDate>Sat, 12 Mar 2022 12:24:41 -0800</pubDate>
+         <dc:date>2022-03-12T12:24:41-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/adma.202200270</guid>
+         <title>Ligand Modulation of Active Sites to Promote Electrocatalytic Oxygen Evolution</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Rationally designed catalysts hold the key to address the sluggish kinetics of oxygen evolution reaction (OER). However, engineering the active sites of such catalysts still faces grand challenges. This study proposes a feasible ligand modulation strategy to boost the OER catalytic activity of cobalt&#8208;iron oxyhydroxide ((Fe,Co)OOH). The 2&#8208;methylimidazole (MI) ligand coordination on (Fe,Co)OOH reduces the orbital overlap between the Fe/Co 3d and O 2p, which weakens the adsorption to oxygen&#8208;containing intermediates and thus facilitates the unfavorable O2 desorption. As a result, the MI ligand modulated (Fe,Co)OOH achieves an excellent OER performance with low overpotentials (230/290&#160;mV at 10/100&#160;mA cm&#8211;2) and excellent durability (&gt;155 h). This study provides a novel ligand modulation strategy for the design of OER catalysts.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Rationally designed catalysts hold the key to address the sluggish kinetics of oxygen evolution reaction (OER). However, engineering the active sites of such catalysts still faces grand challenges. This study proposes a feasible ligand modulation strategy to boost the OER catalytic activity of cobalt-iron oxyhydroxide ((Fe,Co)OOH). The 2-methylimidazole (MI) ligand coordination on (Fe,Co)OOH reduces the orbital overlap between the Fe/Co 3d and O 2p, which weakens the adsorption to oxygen-containing intermediates and thus facilitates the unfavorable O&lt;sub&gt;2&lt;/sub&gt; desorption. As a result, the MI ligand modulated (Fe,Co)OOH achieves an excellent OER performance with low overpotentials (230/290&#160;mV at 10/100&#160;mA cm&lt;sup&gt;&#8211;2&lt;/sup&gt;) and excellent durability (&amp;gt;155 h). This study provides a novel ligand modulation strategy for the design of OER catalysts.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Wenzhong Huang, 
+Jiantao Li, 
+Xiaobin Liao, 
+Ruihu Lu, 
+Chaohong Ling, 
+Xiong Liu, 
+Jiashen Meng, 
+Longbing Qu, 
+Mengting Lin, 
+Xufeng Hong, 
+Xunbiao Zhou, 
+Shanlin Liu, 
+Yan Zhao, 
+Liang Zhou, 
+Liqiang Mai
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Ligand Modulation of Active Sites to Promote Electrocatalytic Oxygen Evolution</dc:title>
+         <dc:identifier>10.1002/adma.202200270</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202200270</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200270</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
@@ -141,6 +186,41 @@ Xusheng Zheng
          <prism:publicationName>Advanced Materials</prism:publicationName>
          <prism:doi>10.1002/adma.202200057</prism:doi>
          <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200057</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202201081</link>
+         <pubDate>Sat, 12 Mar 2022 00:00:00 -0800</pubDate>
+         <dc:date>2022-03-12T12:00:00-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/adma.202201081</guid>
+         <title>Thermally drawn highly conductive fibers with controlled elasticity</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Electronic fabrics necessitate both electrical conductivity and, like any textile, elastic recovery. Achieving both requirements on the scale of a single fiber remains an unmet need. Here, two approaches for achieving conductive fibers (107S/m) reaching 50% elongation while maintaining minimal change in resistance (&lt;0.5%) in embedded metallic electrodes are introduced. The first approach involves inducing a buckling instability in a metal microwire within a cavity of a thermally drawn elastomer fiber. The second approach relies on twisting an elastomer fiber to yield helical metal electrodes embedded in a stretchable yarn. The scalability of both approaches is illustrated in apparatuses for continuous buckling and twisting that yield tens of meters of elastic conducting fibers. Through experimental and analytical methods, we elucidate how geometric parameters, such as buckling pre&#8208;strain and helical angle, as well as materials choice, control not only the fiber's elasticity but also its Young's modulus. Links between mechanical and electrical properties are exposed. The resulting fibers are used to construct elastic fabrics that contain diodes, by weaving and knitting, thus demonstrating the scalable fabrication of conformable and stretchable antennas that support optical data transmission.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Electronic fabrics necessitate both electrical conductivity and, like any textile, elastic recovery. Achieving both requirements on the scale of a single fiber remains an unmet need. Here, two approaches for achieving conductive fibers (10&lt;sup&gt;7&lt;/sup&gt;S/m) reaching 50% elongation while maintaining minimal change in resistance (&amp;lt;0.5%) in embedded metallic electrodes are introduced. The first approach involves inducing a buckling instability in a metal microwire within a cavity of a thermally drawn elastomer fiber. The second approach relies on twisting an elastomer fiber to yield helical metal electrodes embedded in a stretchable yarn. The scalability of both approaches is illustrated in apparatuses for continuous buckling and twisting that yield tens of meters of elastic conducting fibers. Through experimental and analytical methods, we elucidate how geometric parameters, such as buckling pre-strain and helical angle, as well as materials choice, control not only the fiber's elasticity but also its Young's modulus. Links between mechanical and electrical properties are exposed. The resulting fibers are used to construct elastic fabrics that contain diodes, by weaving and knitting, thus demonstrating the scalable fabrication of conformable and stretchable antennas that support optical data transmission.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Juliette S Marion, 
+Nikhil Gupta, 
+Henry Cheung, 
+Kirmina Monir, 
+Polina Anikeeva, 
+Yoel Fink
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Thermally drawn highly conductive fibers with controlled elasticity</dc:title>
+         <dc:identifier>10.1002/adma.202201081</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202201081</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202201081</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
@@ -9752,91 +9832,6 @@ Hongzheng Chen
          <prism:publicationName>Advanced Materials</prism:publicationName>
          <prism:doi>10.1002/adma.202200044</prism:doi>
          <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200044</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200117</link>
-         <pubDate>Wed, 02 Mar 2022 15:33:24 -0800</pubDate>
-         <dc:date>2022-03-02T03:33:24-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/adma.202200117</guid>
-         <title>Dative epitaxy of commensurate monocrystalline covalent&#8208;van der Waals moir&#233; supercrystal</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Realizing van der Waals (vdW) epitaxy in the 80's represents a breakthrough that circumvents the stringent lattice matching and processing compatibility requirements in conventional covalent heteroepitaxy. However, due to the weak vdW interactions, there is little control over film qualities by the substrate. Typically, discrete domains with a spread of misorientation angles are formed, limiting the applicability of vdW epitaxy. Here we report the epitaxial growth of monocrystalline, covalent Cr5Te8 2D crystals on monolayer vdW WSe2 by chemical vapor deposition, driven by interfacial dative bond formation. The lattice of Cr5Te8, with a lateral dimension of a few ten microns, is fully commensurate with that of WSe2 via 3 &#215; 3 (Cr5Te8)/7 &#215; 7 (WSe2) supercell matching, forming a single&#8208;crystalline moir&#233; superlattice. Our work has established a conceptually distinct paradigm of thin film epitaxy termed &#8220;dative epitaxy&#8221;, which takes full advantage of covalent epitaxy with chemical bonding for fixing the atomic registry and crystal orientation, while circumventing its stringent lattice matching and processing compatibility requirements; conversely, it ensures the full flexibility of vdW epitaxy, while avoiding its poor orientation control. Cr5Te8 2D crystals grown by dative epitaxy exhibit square magnetic hysteresis, suggesting minimized interfacial defects that can serve as pinning sites.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Realizing van der Waals (vdW) epitaxy in the 80's represents a breakthrough that circumvents the stringent lattice matching and processing compatibility requirements in conventional covalent heteroepitaxy. However, due to the weak vdW interactions, there is little control over film qualities by the substrate. Typically, discrete domains with a spread of misorientation angles are formed, limiting the applicability of vdW epitaxy. Here we report the epitaxial growth of monocrystalline, covalent Cr&lt;sub&gt;5&lt;/sub&gt;Te&lt;sub&gt;8&lt;/sub&gt; 2D crystals on monolayer vdW WSe&lt;sub&gt;2&lt;/sub&gt; by chemical vapor deposition, driven by interfacial dative bond formation. The lattice of Cr&lt;sub&gt;5&lt;/sub&gt;Te&lt;sub&gt;8&lt;/sub&gt;, with a lateral dimension of a few ten microns, is fully commensurate with that of WSe&lt;sub&gt;2&lt;/sub&gt; via 3 &#215; 3 (Cr&lt;sub&gt;5&lt;/sub&gt;Te&lt;sub&gt;8&lt;/sub&gt;)/7 &#215; 7 (WSe&lt;sub&gt;2&lt;/sub&gt;) supercell matching, forming a single-crystalline moir&#233; superlattice. Our work has established a conceptually distinct paradigm of thin film epitaxy termed &#8220;dative epitaxy&#8221;, which takes full advantage of covalent epitaxy with chemical bonding for fixing the atomic registry and crystal orientation, while circumventing its stringent lattice matching and processing compatibility requirements; conversely, it ensures the full flexibility of vdW epitaxy, while avoiding its poor orientation control. Cr&lt;sub&gt;5&lt;/sub&gt;Te&lt;sub&gt;8&lt;/sub&gt; 2D crystals grown by dative epitaxy exhibit square magnetic hysteresis, suggesting minimized interfacial defects that can serve as pinning sites.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Mengying Bian, 
-Liang Zhu, 
-Xiao Wang, 
-Junho Choi, 
-Rajesh V. Chopdekar, 
-Sichen Wei, 
-Lishu Wu, 
-Chang Huai, 
-Austin Marga, 
-Qishuo Yang, 
-Yuguang C. Li, 
-Fei Yao, 
-Ting Yu, 
-Scott A. Crooker, 
-Xuemei M Cheng, 
-Renat F. Sabirianov, 
-Shengbai Zhang, 
-Junhao Lin, 
-Yanglong Hou, 
-Hao Zeng
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Dative epitaxy of commensurate monocrystalline covalent&#8208;van der Waals moir&#233; supercrystal</dc:title>
-         <dc:identifier>10.1002/adma.202200117</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202200117</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200117</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200337</link>
-         <pubDate>Wed, 02 Mar 2022 15:19:21 -0800</pubDate>
-         <dc:date>2022-03-02T03:19:21-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Sat, 02 Oct 2021 07:19:08 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/adma.202200337</guid>
-         <title>Theory&#8208;Guided Material Design Enabling High&#8208;Performance Multifunctional Semitransparent Organic Photovoltaics without Optical Modulations</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Semitransparent organic photovoltaics (ST&#8208;OPVs) have drawn great attention for promising applications in building&#8208;integrated photovoltaics, providing additional power generation for daily uses. The strategy we proposed previously, &#8220;complementary NIR absorption,&#8221; has been widely applied for high&#8208;performance ST&#8208;OPVs. However, rational material design towards high performance has never been achieved. In this work, an EQE model describing this strategy is developed to explore the full potential of material design on ST&#8208;OPV performance. Guided by the model, we design and synthesize a novel nonfullerene acceptor (NFA), ATT&#8208;9, which possesses optimal bandgap for ST&#8208;OPVs, achieving a record short&#8208;circuit current density of 30&#160;mA cm&#8211;2 and a power conversion efficiency of 13.40%, the highest value among devices based on NFAs with bandgaps lower than 1.2&#160;eV. It is noted that at such a low bandgap, the energy loss of the device is only 0.58&#160;eV, which is attributed to the low energetic disorder confirmed by an ultralow Urbach energy of 21.6 meV. Benefiting from the optimal bandgap and low energy loss, ATT&#8208;9&#8208;based ST&#8208;OPV achieves a high light utilization efficiency of 3.33% without optical modulations, and meanwhile shows excellent thermal insulation, exceeding the commercial 3M heat&#8208;insulating window film, demonstrating the outstanding application prospects of multifunctional ST&#8208;OPVs.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Semitransparent organic photovoltaics (ST-OPVs) have drawn great attention for promising applications in building-integrated photovoltaics, providing additional power generation for daily uses. The strategy we proposed previously, &#8220;complementary NIR absorption,&#8221; has been widely applied for high-performance ST-OPVs. However, rational material design towards high performance has never been achieved. In this work, an EQE model describing this strategy is developed to explore the full potential of material design on ST-OPV performance. Guided by the model, we design and synthesize a novel nonfullerene acceptor (NFA), &lt;b&gt;ATT-9&lt;/b&gt;, which possesses optimal bandgap for ST-OPVs, achieving a record short-circuit current density of 30&#160;mA cm&lt;sup&gt;&#8211;2&lt;/sup&gt; and a power conversion efficiency of 13.40%, the highest value among devices based on NFAs with bandgaps lower than 1.2&#160;eV. It is noted that at such a low bandgap, the energy loss of the device is only 0.58&#160;eV, which is attributed to the low energetic disorder confirmed by an ultralow Urbach energy of 21.6 meV. Benefiting from the optimal bandgap and low energy loss, &lt;b&gt;ATT-9&lt;/b&gt;-based ST-OPV achieves a high light utilization efficiency of 3.33% without optical modulations, and meanwhile shows excellent thermal insulation, exceeding the commercial 3M heat-insulating window film, demonstrating the outstanding application prospects of multifunctional ST-OPVs.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Wuyue Liu, 
-Shaoming Sun, 
-Shengjie Xu, 
-Hao Zhang, 
-Yingqi Zheng, 
-Zhixiang Wei, 
-Xiaozhang Zhu
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Theory&#8208;Guided Material Design Enabling High&#8208;Performance Multifunctional Semitransparent Organic Photovoltaics without Optical Modulations</dc:title>
-         <dc:identifier>10.1002/adma.202200337</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202200337</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202200337</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
