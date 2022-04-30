@@ -1,12 +1,12 @@
 # easy-wiley
 
-#### Clean feeds
+### Clean feeds
 Wiley journals have had issues with their RSS feeds for a while, with articles being repeated several times due to moves between publication stages. To avoid an overly busy feed reader and save chemists' time, please use easy-wiley! 
 
-#### Provide feedback
+### Provide feedback
 Every so often, the source feeds change, which causes mine to start repeating again (but never more than the originals!). If you see this, please let me know. Please also contact me if you need another Wiley journal feed that's free of repeats: they are easy to add! 
 
-#### User-friendly
+### User-friendly
 An shareable list of the RSS feeds is available on my webpage <a href="https://supersciencegrl.co.uk/wiley">SuperScienceGrl.co.uk/wiley</a>. So far, this includes _Angew Chem Int Ed_, _Adv Mater_, _Adv Synth Catal_, _ChemBioChem_, _Chem Eur J_, and _Eur J Org Chem_, all of which can be copied and pasted into your RSS reader: 
 <figure>Angew Chem Int Ed:<pre><code contenteditable="true" spellcheck="false">https://github.com/supersciencegrl/easy-wiley/raw/master/acie.xml</code></pre></figure>
 <figure>Adv Mater:<pre><code contenteditable="true" spellcheck="false">https://github.com/supersciencegrl/easy-wiley/raw/master/AdvMater.xml</code></pre></figure>
