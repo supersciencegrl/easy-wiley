@@ -1,8 +1,7 @@
 # easy-wiley
-easy-wiley: _Non-repeating Wiley RSS feeds_
 
 #### Clean feeds
-Wiley journals have had issues for a while, with articles being repeated several times. To avoid an overly busy feed reader and save chemists' time, please use easy-wiley! 
+Wiley journals have had issues with their RSS feeds for a while, with articles being repeated several times due to moves between publication stages. To avoid an overly busy feed reader and save chemists' time, please use easy-wiley! 
 
 #### Provide feedback
 Every so often, the source feeds change, which causes mine to start repeating again (but never more than the originals!). If you see this, please let me know. Please also contact me if you need another Wiley journal feed that's free of repeats: they are easy to add! 
