@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Chemistry Europe)</managingEditor>
-      <pubDate>Wed, 10 Aug 2022 20:12:54 +0000</pubDate>
-      <lastBuildDate>Wed, 10 Aug 2022 20:12:54 +0000</lastBuildDate>
+      <pubDate>Fri, 12 Aug 2022 13:59:27 +0000</pubDate>
+      <lastBuildDate>Fri, 12 Aug 2022 13:59:27 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -20,6 +20,224 @@
          <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
       </image>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200295</link>
+         <pubDate>Fri, 12 Aug 2022 00:10:34 -0700</pubDate>
+         <dc:date>2022-08-12T12:10:34-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200295</guid>
+         <title>Enzymatic Synthesis of the Unnatural Nucleotide 2&#8242;&#8208;Deoxyisoguanosine 5&#8242;&#8208;Monophosphate</title>
+         <description>ChemBioChem, Accepted Article. </description>
+         <dc:description>Naturally occurring DNA contains four canonical bases, forming two Watson&#8208;Crick base pairs (adenine&#8208;thymine, guanine&#8208;cytosine). Efforts over the past decades have led to the development of several unnatural base pairs, enabling the synthesis of unnatural DNA with an expanded genetic alphabet. The engineering of organisms capable of  de novo  biosynthesis of unnatural DNA would have significant technological and philosophical implications, but remains a challenge. Here we report the enzymatic conversion of 2&#8217;&#8208;deoxyxanthosine 5&#8242;&#8208;monophosphate (dXMP) into deoxyisoguanosine monophosphate (dBMP), a precursor of the unnatural isoguanine&#8208;isocytosine base pair. The reaction is catalyzed by the bacteriophage enzyme PurZ and bacterial PurB, and is a key addition to the toolbox for  de novo  biosynthesis of unnatural DNA.</dc:description>
+         <content:encoded>&lt;p&gt;Naturally occurring DNA contains four canonical bases, forming two Watson-Crick base pairs (adenine-thymine, guanine-cytosine). Efforts over the past decades have led to the development of several unnatural base pairs, enabling the synthesis of unnatural DNA with an expanded genetic alphabet. The engineering of organisms capable of  de novo  biosynthesis of unnatural DNA would have significant technological and philosophical implications, but remains a challenge. Here we report the enzymatic conversion of 2&#8217;-deoxyxanthosine 5&#8242;-monophosphate (dXMP) into deoxyisoguanosine monophosphate (dBMP), a precursor of the unnatural isoguanine-isocytosine base pair. The reaction is catalyzed by the bacteriophage enzyme PurZ and bacterial PurB, and is a key addition to the toolbox for  de novo  biosynthesis of unnatural DNA.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Fuping Zhao, 
+Yifeng Wei, 
+Xinyu Wang, 
+Yan Zhou, 
+Yang Tong, 
+Ee  Lui Ang, 
+Shengnan Liu, 
+Huimin Zhao, 
+Yan Zhang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Enzymatic Synthesis of the Unnatural Nucleotide 2&#8242;&#8208;Deoxyisoguanosine 5&#8242;&#8208;Monophosphate</dc:title>
+         <dc:identifier>10.1002/cbic.202200295</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200295</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200295</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200303</link>
+         <pubDate>Thu, 11 Aug 2022 22:25:35 -0700</pubDate>
+         <dc:date>2022-08-11T10:25:35-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200303</guid>
+         <title>Improved Antibody&#8208;Specific Epitope Prediction Using AlphaFold and AbAdapt
+</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Integration of AlphaFold2 with AbAdapt (AbAdapt&#8208;AF) resulted in improved docking, paratope and epitope prediction compared with AbAdapt alone.
+
+
+
+
+
+
+
+Abstract
+Antibodies recognize their cognate antigens with high affinity and specificity, but the prediction of binding sites on the antigen (epitope) corresponding to a specific antibody remains a challenging problem. To address this problem, we developed AbAdapt, a pipeline that integrates antibody and antigen structural modeling with rigid docking in order to derive antibody&#8208;antigen specific features for epitope prediction. In this study, we systematically assessed the impact of integrating the state&#8208;of&#8208;the&#8208;art protein modeling method AlphaFold with the AbAdapt pipeline. By incorporating more accurate antibody models, we observed improvement in docking, paratope prediction, and prediction of antibody&#8208;specific epitopes. We further applied AbAdapt&#8208;AF in an anti&#8208;receptor binding domain (RBD) antibody complex benchmark and found AbAdapt&#8208;AF outperformed three alternative docking methods. Also, AbAdapt&#8208;AF demonstrated higher epitope prediction accuracy than other tested epitope prediction tools in the anti&#8208;RBD antibody complex benchmark. We anticipate that AbAdapt&#8208;AF will facilitate prediction of antigen&#8208;antibody interactions in a wide range of applications.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/537bc6d9-a43f-4360-bfaf-fda300a0506c/cbic202200303-toc-0001-m.png"
+     alt="Improved Antibody-Specific Epitope Prediction Using AlphaFold and AbAdapt**&amp;#xA;"/&gt;
+&lt;p&gt;&lt;b&gt;Integration of AlphaFold2&lt;/b&gt; with AbAdapt (AbAdapt-AF) resulted in improved docking, paratope and epitope prediction compared with AbAdapt alone.
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Antibodies recognize their cognate antigens with high affinity and specificity, but the prediction of binding sites on the antigen (epitope) corresponding to a specific antibody remains a challenging problem. To address this problem, we developed AbAdapt, a pipeline that integrates antibody and antigen structural modeling with rigid docking in order to derive antibody-antigen specific features for epitope prediction. In this study, we systematically assessed the impact of integrating the state-of-the-art protein modeling method AlphaFold with the AbAdapt pipeline. By incorporating more accurate antibody models, we observed improvement in docking, paratope prediction, and prediction of antibody-specific epitopes. We further applied AbAdapt-AF in an anti-receptor binding domain (RBD) antibody complex benchmark and found AbAdapt-AF outperformed three alternative docking methods. Also, AbAdapt-AF demonstrated higher epitope prediction accuracy than other tested epitope prediction tools in the anti-RBD antibody complex benchmark. We anticipate that AbAdapt-AF will facilitate prediction of antigen-antibody interactions in a wide range of applications.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Zichang Xu, 
+Ana Davila, 
+Jan Wilamowski, 
+Shunsuke Teraguchi, 
+Daron M. Standley
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Improved Antibody&#8208;Specific Epitope Prediction Using AlphaFold and AbAdapt
+</dc:title>
+         <dc:identifier>10.1002/cbic.202200303</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200303</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200303</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200344</link>
+         <pubDate>Thu, 11 Aug 2022 22:25:11 -0700</pubDate>
+         <dc:date>2022-08-11T10:25:11-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200344</guid>
+         <title>Framework Nucleic Acids Enabled Pulmonary Artery Endothelial Cell Growth Inhibition by Targeting microRNA&#8208;152</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+One of the images was subsititued during revision. This is the final version of TOC.
+
+
+
+
+
+
+
+Abstract
+Pulmonary artery vascular endothelial dysfunction plays a pivotal role in the occurrence and progression of pulmonary vascular remodeling (PVR). To address this, aberrantly expressed non&#8208;coding microRNAs (miRNAs) are excellent therapeutic targets in human pulmonary artery endothelial cells (HPAECs). Here, we discovered and validated the overexpression of miRNA&#8208;152 in HPAECs under hypoxia and its role in endothelial cell dysfunction. We constructed a framework nucleic acid nanostructure that harbors six protruding single&#8208;stranded DNA segments that can fully hybridize with miRNA&#8208;152 (DNT&#8208;152). DNT&#8208;152 was efficiently taken up by HPAECs with increasing time and concentration; it markedly induced apoptosis, and inhibited HPAEC growth under hypoxic conditions. Mechanistically, DNT&#8208;152 silenced miRNA&#8208;152 expression and upregulated its target gene Meox2, which subsequently inhibited the AKT/mTOR signaling pathway. These results indicate that miRNA&#8208;152 in HPAECs may be an excellent therapeutic target against PVR, and that framework nucleic acids with carefully designed sequences are promising nanomedicines for noncancerous cells and diseases.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e7041b60-868e-4d72-beb4-8468e4ce3029/cbic202200344-toc-0001-m.png"
+     alt="Framework Nucleic Acids Enabled Pulmonary Artery Endothelial Cell Growth Inhibition by Targeting microRNA-152"/&gt;
+&lt;p&gt;One of the images was subsititued during revision. This is the final version of TOC.
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Pulmonary artery vascular endothelial dysfunction plays a pivotal role in the occurrence and progression of pulmonary vascular remodeling (PVR). To address this, aberrantly expressed non-coding microRNAs (miRNAs) are excellent therapeutic targets in human pulmonary artery endothelial cells (HPAECs). Here, we discovered and validated the overexpression of miRNA-152 in HPAECs under hypoxia and its role in endothelial cell dysfunction. We constructed a framework nucleic acid nanostructure that harbors six protruding single-stranded DNA segments that can fully hybridize with miRNA-152 (DNT-152). DNT-152 was efficiently taken up by HPAECs with increasing time and concentration; it markedly induced apoptosis, and inhibited HPAEC growth under hypoxic conditions. Mechanistically, DNT-152 silenced miRNA-152 expression and upregulated its target gene Meox2, which subsequently inhibited the AKT/mTOR signaling pathway. These results indicate that miRNA-152 in HPAECs may be an excellent therapeutic target against PVR, and that framework nucleic acids with carefully designed sequences are promising nanomedicines for noncancerous cells and diseases.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Zaichun You, 
+Qiuhong Huang, 
+Lilin Xu, 
+Xueping Liu, 
+Juan Fu, 
+Boxuan Li, 
+Yi Yang, 
+Shuyi Li, 
+Hang Qian, 
+Guansong Wang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Framework Nucleic Acids Enabled Pulmonary Artery Endothelial Cell Growth Inhibition by Targeting microRNA&#8208;152</dc:title>
+         <dc:identifier>10.1002/cbic.202200344</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200344</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200344</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200351</link>
+         <pubDate>Thu, 11 Aug 2022 09:35:13 -0700</pubDate>
+         <dc:date>2022-08-11T09:35:13-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200351</guid>
+         <title>Initial recognition and attachment of the Zika virus to host cells: A molecular dynamics and quantum interaction approach</title>
+         <description>ChemBioChem, Accepted Article. </description>
+         <dc:description>The zika virus (ZIKV), transmitted to humans from the bites of  Aedes Aegypti  and  Aedes Albopictus  mosquitoes produces Zika fever and neurodegenerative disorders that despite affecting millions of people, most recently in Africa and the Americas, has been declared a neglected tropical disease by the World Health Organization. In this work, atomistic molecular dynamics simulations followed by rigorous analysis of the intermolecular interactions reveal crucial aspects of the initial virus&#183;&#183;&#183;cell molecular recognition and attachment, events that trigger the infectious cycle. Previous experimental studies have shown that Dermatan Sulphate (DS) and Chondroitin Sulphate A (CSA), two glycosaminoglycans which are actually epimers to each other and that are structural constituents of receptors expressed in cell membranes, are the preferred anchorage sites, with a marked preference for DS. Our calculations rationalize this preference from a molecular perspective as follows: when free of the virus, DS has one sulfate group that does not participate in intramolecular strong hydrogen bonds, thus, it is readily available to interact with the envelope protein of the virus (Zika&#8211;E), then, after formation of the complexes, Zika&#8211;E&#183;&#183;&#183;DS exhibits ten strong salt brides connecting the two fragments against only six salt bridges and two hydrogen bonds in Zika&#8211;E&#183;&#183;&#183;CSA.</dc:description>
+         <content:encoded>&lt;p&gt;The zika virus (ZIKV), transmitted to humans from the bites of  Aedes Aegypti  and  Aedes Albopictus  mosquitoes produces Zika fever and neurodegenerative disorders that despite affecting millions of people, most recently in Africa and the Americas, has been declared a neglected tropical disease by the World Health Organization. In this work, atomistic molecular dynamics simulations followed by rigorous analysis of the intermolecular interactions reveal crucial aspects of the initial virus&#183;&#183;&#183;cell molecular recognition and attachment, events that trigger the infectious cycle. Previous experimental studies have shown that Dermatan Sulphate (DS) and Chondroitin Sulphate A (CSA), two glycosaminoglycans which are actually epimers to each other and that are structural constituents of receptors expressed in cell membranes, are the preferred anchorage sites, with a marked preference for DS. Our calculations rationalize this preference from a molecular perspective as follows: when free of the virus, DS has one sulfate group that does not participate in intramolecular strong hydrogen bonds, thus, it is readily available to interact with the envelope protein of the virus (Zika&#8211;E), then, after formation of the complexes, Zika&#8211;E&#183;&#183;&#183;DS exhibits ten strong salt brides connecting the two fragments against only six salt bridges and two hydrogen bonds in Zika&#8211;E&#183;&#183;&#183;CSA.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Santiago  A. Gomez, 
+Natalia Rojas-Valencia, 
+Sara Gomez, 
+Isaias Lans, 
+Albeiro Restrepo
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Initial recognition and attachment of the Zika virus to host cells: A molecular dynamics and quantum interaction approach</dc:title>
+         <dc:identifier>10.1002/cbic.202200351</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200351</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200351</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200390</link>
+         <pubDate>Thu, 11 Aug 2022 03:37:22 -0700</pubDate>
+         <dc:date>2022-08-11T03:37:22-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200390</guid>
+         <title>Epitope fine mapping by mass spectrometry: Investigations of immune complexes consisting of monoclonal anti&#8208;HpTGEKP antibody and zinc finger protein linker phospho&#8208;hexapeptides</title>
+         <description>ChemBioChem, Accepted Article. </description>
+         <dc:description>Accurate formation of antibody &#8211; antigen complexes has been relied on in both, multitudes of scientific projects and ample therapeutic and diagnostic applications. Mass spectrometrically&#8208;determined dissociation behavior of immune complexes with the antiHpTGEKP antibody revealed that the ten most frequently occur&#173;ring phospho&#8208;hexapeptide linker sequences from C2H2 zinc finger proteins could be divided into two classes: orthodox binders, where strong non&#8208;covalent interactions developed as anticipated, and unorthodox binders with deviating structures and weaker binding. Phosphorylation of threonine was compulsory for antibody binding in an orthodox manner. Gas phase dissociation energy determinations of seven C2H2 zinc finger protein linker phospho&#8208;hexapeptides with orthodox binding properties revealed a bipolar binding motif of the antibody&#180;s paratope. Epitope peptides, which in addition to the negatively charged phospho&#8208;threonin residue were C&#8208;terminally flanked by positively charged residues provided stronger binding, i.e. dissociation was endothermic, than peptides with acidic amino acid residues at these positions, for which dissociation was exothermic.</dc:description>
+         <content:encoded>&lt;p&gt;Accurate formation of antibody &#8211; antigen complexes has been relied on in both, multitudes of scientific projects and ample therapeutic and diagnostic applications. Mass spectrometrically-determined dissociation behavior of immune complexes with the antiHpTGEKP antibody revealed that the ten most frequently occur&#173;ring phospho-hexapeptide linker sequences from C2H2 zinc finger proteins could be divided into two classes: orthodox binders, where strong non-covalent interactions developed as anticipated, and unorthodox binders with deviating structures and weaker binding. Phosphorylation of threonine was compulsory for antibody binding in an orthodox manner. Gas phase dissociation energy determinations of seven C2H2 zinc finger protein linker phospho-hexapeptides with orthodox binding properties revealed a bipolar binding motif of the antibody&#180;s paratope. Epitope peptides, which in addition to the negatively charged phospho-threonin residue were C-terminally flanked by positively charged residues provided stronger binding, i.e. dissociation was endothermic, than peptides with acidic amino acid residues at these positions, for which dissociation was exothermic.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Maximilian Scherf, 
+Bright  D. Danquah, 
+Cornelia Koy, 
+Peter Lorenz, 
+Felix Steinbeck, 
+Andrei Neamtu, 
+Hans-J&#252;rgen Thiesen, 
+Michael  O. Glocker
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Epitope fine mapping by mass spectrometry: Investigations of immune complexes consisting of monoclonal anti&#8208;HpTGEKP antibody and zinc finger protein linker phospho&#8208;hexapeptides</dc:title>
+         <dc:identifier>10.1002/cbic.202200390</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200390</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200390</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200332</link>
+         <pubDate>Thu, 11 Aug 2022 00:00:00 -0700</pubDate>
+         <dc:date>2022-08-11T12:00:00-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200332</guid>
+         <title>Post&#8208;assembly modification of protein cages by Ubc9&#8208;mediated&#160;lysine acylation</title>
+         <description>ChemBioChem, Accepted Article. </description>
+         <dc:description>Although viruses have been successfully repurposed as&#160;vaccines, antibiotics, and anticancer therapeutics, they also raise&#160;concerns regarding genome integration and immunogenicity. Viruslike&#160;particles and non&#8208;viral protein cages represent a potentially safer&#160;alternative but often lack desired functionality. Here, we investigated
+the utility of a new enzymatic bioconjugation method, called lysine&#160;acylation using conjugating enzymes (LACE), to chemoenzymatically&#160;modify protein cages. We equipped two structurally distinct protein&#160;capsules with a LACE&#8208;reactive peptide tag and demonstrated their&#160;modification with diverse ligands. This modular approach combines
+the advantages of chemical conjugation and genetic fusion and allows&#160;for site&#8208;specific modification with recombinant proteins as well as&#160;synthetic peptides with facile control of the extent of labeling. This&#160;strategy has the potential to fine&#8208;tune protein containers of different&#160;shape and size, to provide them with new properties that go beyond
+their biologically native functions.</dc:description>
+         <content:encoded>&lt;p&gt;Although viruses have been successfully repurposed as&#160;vaccines, antibiotics, and anticancer therapeutics, they also raise&#160;concerns regarding genome integration and immunogenicity. Viruslike&#160;particles and non-viral protein cages represent a potentially safer&#160;alternative but often lack desired functionality. Here, we investigated
+the utility of a new enzymatic bioconjugation method, called lysine&#160;acylation using conjugating enzymes (LACE), to chemoenzymatically&#160;modify protein cages. We equipped two structurally distinct protein&#160;capsules with a LACE-reactive peptide tag and demonstrated their&#160;modification with diverse ligands. This modular approach combines
+the advantages of chemical conjugation and genetic fusion and allows&#160;for site-specific modification with recombinant proteins as well as&#160;synthetic peptides with facile control of the extent of labeling. This&#160;strategy has the potential to fine-tune protein containers of different&#160;shape and size, to provide them with new properties that go beyond
+their biologically native functions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Mikail  Daniel Levasseur, 
+Raphael Hofmann, 
+Thomas Edwardson, 
+Svenja Hehn, 
+Manutsawee Thanaburakorn, 
+Jeffrey Bode, 
+Donald Hilvert
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Post&#8208;assembly modification of protein cages by Ubc9&#8208;mediated&#160;lysine acylation</dc:title>
+         <dc:identifier>10.1002/cbic.202200332</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200332</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200332</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
       <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200358</link>
          <pubDate>Wed, 10 Aug 2022 06:05:47 -0700</pubDate>
@@ -600,7 +818,7 @@ A screening approach for azoreductases was developed, including cell&#8208;free 
 Abstract
 Azoreductases are potent biocatalysts for the cleavage of azo bonds. Various gene sequences coding for potential azoreductases are available in databases, but many of their gene products are still uncharacterized. To avoid the laborious heterologous expression in a host organism, we developed a screening approach involving cell&#8208;free protein synthesis (CFPS) combined with a colorimetric activity assay, which allows the parallel screening of putative azoreductases in a short time. First, we evaluated different CFPS systems and optimized the synthesis conditions of a model azoreductase. With the findings obtained, 10 azoreductases, half of them undescribed so far, were screened for their ability to degrade the azo dye methyl red. All novel enzymes catalyzed the degradation of methyl red and can therefore be referred to as azoreductases. In addition, all enzymes degraded the more complex and bulkier azo dye Brilliant Black and four of them also showed the ability to reduce p&#8208;benzoquinone. NADH was the preferred electron donor for the most enzymes, although the synthetic nicotinamide co&#8208;substrate analogue 1&#8208;benzyl&#8208;1,4&#8208;dihydronicotinamide (BNAH) was also accepted by all active azoreductases. This screening approach allows accelerated identification of potential biocatalysts for various applications.
 </dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/0d058ed5-183a-40a7-923f-eaf205dcab58/cbic202200121-toc-0001-m.png"
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/0d058ed5-183a-40a7-923f-eaf205dcab58/cbic202200121-toc-0001-m.png"
      alt="Cell-Free Protein Synthesis for the Screening of Novel Azoreductases and Their Preferred Electron Donor"/&gt;
 &lt;p&gt;&lt;b&gt;A screening approach&lt;/b&gt; for azoreductases was developed, including cell-free protein synthesis of an enzyme library and a multi-well microplate assay. Applicability to known and novel enzymes was demonstrated, and preferred co-substrates for each enzyme were evaluated. Five new and yet uncharacterized azoreductases were identified. Furthermore, it was shown that all azoreductases accept the co-substrate BNAH as an electron donor.
 &lt;/p&gt;
@@ -854,7 +1072,7 @@ The zinc&#8208;dependent MDR&#8722;ADH (medium chain dehydrogenase/reductase&#87
 Abstract
 The asymmetric reduction of ketones to chiral hydroxyl compounds by alcohol dehydrogenases (ADHs) is an established strategy for the provision of valuable precursors for fine chemicals and pharmaceutics. However, most ADHs favor linear aliphatic and aromatic carbonyl compounds, and suitable biocatalysts with preference for cyclic ketones and diketones are still scarce. Among the few candidates, the alcohol dehydrogenase from Thauera aromatica (ThaADH) stands out with a high activity for the reduction of the cyclic &#945;&#8208;diketone 1,2&#8208;cyclohexanedione to the corresponding &#945;&#8208;hydroxy ketone. This study elucidates catalytic and structural features of the enzyme. ThaADH showed a remarkable thermal and pH stability as well as stability in the presence of polar solvents. A thorough description of the substrate scope combined with the resolution and description of the crystal structure, demonstrated a strong preference of ThaADH for cyclic &#945;&#8208;substituted cyclohexanones, and indicated structural determinants responsible for the unique substrate acceptance.
 </dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/149c367d-90fa-4c31-98b3-1233906c9778/cbic202200149-toc-0001-m.png"
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/149c367d-90fa-4c31-98b3-1233906c9778/cbic202200149-toc-0001-m.png"
      alt="Advanced Insights into Catalytic and Structural Features of the Zinc-Dependent Alcohol Dehydrogenase from Thauera aromatica"/&gt;
 &lt;p&gt;&lt;b&gt;The zinc-dependent MDR&#8722;ADH&lt;/b&gt; (medium chain dehydrogenase/reductase&#8722;alcohol dehydrogenase) from &lt;i&gt;Thauera aromatic&lt;/i&gt;a has a unique substrate preference for sterically demanding &#945;-substituted linear cyclic carbonyl compounds and a remarkable thermal, pH and solvent stability. Based on high-resolution structures from X-ray analysis, structural determinants for the enzyme's special features are introduced.
 &lt;/p&gt;
@@ -1172,49 +1390,6 @@ Julian Alexander Tanner
          <prism:number>15</prism:number>
       </item>
       <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200323</link>
-         <pubDate>Wed, 03 Aug 2022 12:49:20 -0700</pubDate>
-         <dc:date>2022-08-03T12:49:20-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/cbic.202200323</guid>
-         <title>Bioconjugation Strategies for Tobacco Mild Green Mosaic Virus</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-Using the plant virus nanoparticle TMGMV, we systematically assessed which amino acids are solvent exposed and addressable by bioconjugation strategies. We determined that glutamic acids on the exterior and interior surfaces, tyrosines on the exterior surface as well as the exterior and solvent&#8208;exposed N&#8208;terminus are reactive but to varying degrees (Tyr&gt;Glu&gt;N&#8208;term). Bioconjugation reactions and proteomics paired with structural analysis of TMGMV provided rationale for the underlying reactivity of target sites. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.
-
-
-
-
-
-
-
-Abstract
-Tobacco mild green mosaic virus (TMGMV) is a plant virus closely related to Tobacco mosaic virus (TMV), sharing many of its structural and chemical features. These rod&#8208;shaped viruses, comprised of 2130 identical coat protein subunits, have been utilized as nanotechnological platforms for a myriad of applications, ranging from drug delivery to precision agriculture. This versatility for functionalization is due to their chemically active external and internal surfaces. While both viruses are similar, they do exhibit some key differences in their surface chemistry, suggesting the reactive residue distribution on TMGMV should not overlap with TMV. In this work, we focused on the establishment and refinement of chemical bioconjugation strategies to load molecules into or onto TMGMV for targeted delivery. A combination of NHS, EDC, and diazo coupling reactions in combination with click chemistry were used to modify the N&#8208;terminus, glutamic/aspartic acid residues, and tyrosines in TMGMV. We report loading with over 600 moieties per TMGMV via diazo&#8208;coupling, which is a &gt;3&#8208;fold increase compared to previous studies. We also report that cargo can be loaded to the solvent&#8208;exposed N&#8208;terminus and carboxylates on the exterior/interior surfaces. Mass spectrometry revealed the most reactive sites to be Y12 and Y72, both tyrosine side chains are located on the exterior surface. For the carboxylates, interior E106 (66.53&#8201;%) was the most reactive for EDC&#8208;propargylamine coupled reactions, with the exterior E145 accounting for &gt;15&#8201;% reactivity, overturning previous assumptions that only interior glutamic acid residues are accessible. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.
-</dc:description>
-         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/a48febc1-88e3-4901-876e-9a4794102670/cbic202200323-toc-0001-m.png"
-     alt="Bioconjugation Strategies for Tobacco Mild Green Mosaic Virus"/&gt;
-&lt;p&gt;&lt;b&gt;Using the plant virus&lt;/b&gt; nanoparticle TMGMV, we systematically assessed which amino acids are solvent exposed and addressable by bioconjugation strategies. We determined that glutamic acids on the exterior and interior surfaces, tyrosines on the exterior surface as well as the exterior and solvent-exposed &lt;i&gt;N&lt;/i&gt;-terminus are reactive but to varying degrees (Tyr&amp;gt;Glu&amp;gt;&lt;i&gt;N&lt;/i&gt;-term). Bioconjugation reactions and proteomics paired with structural analysis of TMGMV provided rationale for the underlying reactivity of target sites. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Tobacco mild green mosaic virus (TMGMV) is a plant virus closely related to Tobacco mosaic virus (TMV), sharing many of its structural and chemical features. These rod-shaped viruses, comprised of 2130 identical coat protein subunits, have been utilized as nanotechnological platforms for a myriad of applications, ranging from drug delivery to precision agriculture. This versatility for functionalization is due to their chemically active external and internal surfaces. While both viruses are similar, they do exhibit some key differences in their surface chemistry, suggesting the reactive residue distribution on TMGMV should not overlap with TMV. In this work, we focused on the establishment and refinement of chemical bioconjugation strategies to load molecules into or onto TMGMV for targeted delivery. A combination of NHS, EDC, and diazo coupling reactions in combination with click chemistry were used to modify the &lt;i&gt;N&lt;/i&gt;-terminus, glutamic/aspartic acid residues, and tyrosines in TMGMV. We report loading with over 600 moieties per TMGMV via diazo-coupling, which is a &amp;gt;3-fold increase compared to previous studies. We also report that cargo can be loaded to the solvent-exposed &lt;i&gt;N&lt;/i&gt;-terminus and carboxylates on the exterior/interior surfaces. Mass spectrometry revealed the most reactive sites to be Y12 and Y72, both tyrosine side chains are located on the exterior surface. For the carboxylates, interior E106 (66.53&#8201;%) was the most reactive for EDC-propargylamine coupled reactions, with the exterior E145 accounting for &amp;gt;15&#8201;% reactivity, overturning previous assumptions that only interior glutamic acid residues are accessible. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Ivonne Gonz&#225;lez&#8208;Gamboa, 
-Adam A. Caparco, 
-Justin M. McCaskill, 
-Nicole F. Steinmetz
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Bioconjugation Strategies for Tobacco Mild Green Mosaic Virus</dc:title>
-         <dc:identifier>10.1002/cbic.202200323</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202200323</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200323</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200259</link>
          <pubDate>Wed, 03 Aug 2022 12:49:19 -0700</pubDate>
          <dc:date>2022-08-03T12:49:19-07:00</dc:date>
@@ -1297,6 +1472,49 @@ Subhabrata Maiti
          <prism:doi>10.1002/cbic.202200424</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200424</prism:url>
          <prism:section>Cover Picture</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200323</link>
+         <pubDate>Wed, 03 Aug 2022 00:00:00 -0700</pubDate>
+         <dc:date>2022-08-03T12:00:00-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDate>
+         <prism:coverDisplayDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/cbic.202200323</guid>
+         <title>Bioconjugation Strategies for Tobacco Mild Green Mosaic Virus</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Using the plant virus nanoparticle TMGMV, we systematically assessed which amino acids are solvent exposed and addressable by bioconjugation strategies. We determined that glutamic acids on the exterior and interior surfaces, tyrosines on the exterior surface as well as the exterior and solvent&#8208;exposed N&#8208;terminus are reactive but to varying degrees (Tyr&gt;Glu&gt;N&#8208;term). Bioconjugation reactions and proteomics paired with structural analysis of TMGMV provided rationale for the underlying reactivity of target sites. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.
+
+
+
+
+
+
+
+Abstract
+Tobacco mild green mosaic virus (TMGMV) is a plant virus closely related to Tobacco mosaic virus (TMV), sharing many of its structural and chemical features. These rod&#8208;shaped viruses, comprised of 2130 identical coat protein subunits, have been utilized as nanotechnological platforms for a myriad of applications, ranging from drug delivery to precision agriculture. This versatility for functionalization is due to their chemically active external and internal surfaces. While both viruses are similar, they do exhibit some key differences in their surface chemistry, suggesting the reactive residue distribution on TMGMV should not overlap with TMV. In this work, we focused on the establishment and refinement of chemical bioconjugation strategies to load molecules into or onto TMGMV for targeted delivery. A combination of NHS, EDC, and diazo coupling reactions in combination with click chemistry were used to modify the N&#8208;terminus, glutamic/aspartic acid residues, and tyrosines in TMGMV. We report loading with over 600 moieties per TMGMV via diazo&#8208;coupling, which is a &gt;3&#8208;fold increase compared to previous studies. We also report that cargo can be loaded to the solvent&#8208;exposed N&#8208;terminus and carboxylates on the exterior/interior surfaces. Mass spectrometry revealed the most reactive sites to be Y12 and Y72, both tyrosine side chains are located on the exterior surface. For the carboxylates, interior E106 (66.53&#8201;%) was the most reactive for EDC&#8208;propargylamine coupled reactions, with the exterior E145 accounting for &gt;15&#8201;% reactivity, overturning previous assumptions that only interior glutamic acid residues are accessible. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/543f75ea-62d8-4103-97c8-aebbf98bf895/cbic202200323-toc-0001-m.png"
+     alt="Bioconjugation Strategies for Tobacco Mild Green Mosaic Virus"/&gt;
+&lt;p&gt;&lt;b&gt;Using the plant virus&lt;/b&gt; nanoparticle TMGMV, we systematically assessed which amino acids are solvent exposed and addressable by bioconjugation strategies. We determined that glutamic acids on the exterior and interior surfaces, tyrosines on the exterior surface as well as the exterior and solvent-exposed &lt;i&gt;N&lt;/i&gt;-terminus are reactive but to varying degrees (Tyr&amp;gt;Glu&amp;gt;&lt;i&gt;N&lt;/i&gt;-term). Bioconjugation reactions and proteomics paired with structural analysis of TMGMV provided rationale for the underlying reactivity of target sites. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Tobacco mild green mosaic virus (TMGMV) is a plant virus closely related to Tobacco mosaic virus (TMV), sharing many of its structural and chemical features. These rod-shaped viruses, comprised of 2130 identical coat protein subunits, have been utilized as nanotechnological platforms for a myriad of applications, ranging from drug delivery to precision agriculture. This versatility for functionalization is due to their chemically active external and internal surfaces. While both viruses are similar, they do exhibit some key differences in their surface chemistry, suggesting the reactive residue distribution on TMGMV should not overlap with TMV. In this work, we focused on the establishment and refinement of chemical bioconjugation strategies to load molecules into or onto TMGMV for targeted delivery. A combination of NHS, EDC, and diazo coupling reactions in combination with click chemistry were used to modify the &lt;i&gt;N&lt;/i&gt;-terminus, glutamic/aspartic acid residues, and tyrosines in TMGMV. We report loading with over 600 moieties per TMGMV via diazo-coupling, which is a &amp;gt;3-fold increase compared to previous studies. We also report that cargo can be loaded to the solvent-exposed &lt;i&gt;N&lt;/i&gt;-terminus and carboxylates on the exterior/interior surfaces. Mass spectrometry revealed the most reactive sites to be Y12 and Y72, both tyrosine side chains are located on the exterior surface. For the carboxylates, interior E106 (66.53&#8201;%) was the most reactive for EDC-propargylamine coupled reactions, with the exterior E145 accounting for &amp;gt;15&#8201;% reactivity, overturning previous assumptions that only interior glutamic acid residues are accessible. A deeper understanding of the chemical properties of TMGMV further enables its functionalization and use as a multifunctional nanocarrier platform for applications in medicine and precision farming.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Ivonne Gonz&#225;lez&#8208;Gamboa, 
+Adam A. Caparco, 
+Justin M. McCaskill, 
+Nicole F. Steinmetz
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Bioconjugation Strategies for Tobacco Mild Green Mosaic Virus</dc:title>
+         <dc:identifier>10.1002/cbic.202200323</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202200323</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200323</prism:url>
+         <prism:section>Research Article</prism:section>
       </item>
       <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200304</link>
@@ -1529,38 +1747,6 @@ Kirsten Jung
          <prism:publicationName>ChemBioChem</prism:publicationName>
          <prism:doi>10.1002/cbic.202200270</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200270</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200344</link>
-         <pubDate>Fri, 29 Jul 2022 01:44:12 -0700</pubDate>
-         <dc:date>2022-07-29T01:44:12-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/cbic.202200344</guid>
-         <title>Framework nucleic acids enabled pulmonary artery endothelial cell growth inhibition by targeting microRNA&#8208;152</title>
-         <description>ChemBioChem, Accepted Article. </description>
-         <dc:description>Pulmonary artery vascular endothelial dysfunction plays a pivotal role in the occurrence and progression of pulmonary vascular remodeling (PVR). To address this, aberrantly expressed non&#8208;coding microRNAs (miRNAs) are excellent therapeutic targets in human pulmonary artery endothelial cells (HPAECs). Here, we discovered and validated the overexpression of miRNA&#8208;152 in HPAECs under hypoxia and its role in endothelial cell dysfunction. We constructed a framework nucleic acids nanostructure that harbors six protruding single&#8208;stranded DNA segments that can fully hybridize with miRNA&#8208;152 (DNT&#8208;152). DNT&#8208;152 was efficiently taken up by HPAECs with increasing time and concentration; it markedly induced apoptosis, and inhibited HPAEC growth under hypoxic conditions. Mechanistically, DNT&#8208;152 silenced miRNA&#8208;152 expression and upregulated its target gene Meox2, which subsequently inhibited the AKT/mTOR signaling pathway. These results indicate that miRNA&#8208;152 in HPAECs may be an excellent therapeutic target against PVR, and that framework nucleic acids with carefully designed sequences are promising nanomedicines for noncancerous cells and diseases.</dc:description>
-         <content:encoded>&lt;p&gt;Pulmonary artery vascular endothelial dysfunction plays a pivotal role in the occurrence and progression of pulmonary vascular remodeling (PVR). To address this, aberrantly expressed non-coding microRNAs (miRNAs) are excellent therapeutic targets in human pulmonary artery endothelial cells (HPAECs). Here, we discovered and validated the overexpression of miRNA-152 in HPAECs under hypoxia and its role in endothelial cell dysfunction. We constructed a framework nucleic acids nanostructure that harbors six protruding single-stranded DNA segments that can fully hybridize with miRNA-152 (DNT-152). DNT-152 was efficiently taken up by HPAECs with increasing time and concentration; it markedly induced apoptosis, and inhibited HPAEC growth under hypoxic conditions. Mechanistically, DNT-152 silenced miRNA-152 expression and upregulated its target gene Meox2, which subsequently inhibited the AKT/mTOR signaling pathway. These results indicate that miRNA-152 in HPAECs may be an excellent therapeutic target against PVR, and that framework nucleic acids with carefully designed sequences are promising nanomedicines for noncancerous cells and diseases.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Zaichun You, 
-Qiuhong Huang, 
-Lilin Xu, 
-Xueping Liu, 
-Juan Fu, 
-Boxuan Li, 
-Yi Yang, 
-Shuyi Li, 
-Hang Qian, 
-Guansong Wang
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Framework nucleic acids enabled pulmonary artery endothelial cell growth inhibition by targeting microRNA&#8208;152</dc:title>
-         <dc:identifier>10.1002/cbic.202200344</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202200344</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200344</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
@@ -1923,33 +2109,6 @@ Mark P. Farrell
          <prism:publicationName>ChemBioChem</prism:publicationName>
          <prism:doi>10.1002/cbic.202200266</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200266</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200303</link>
-         <pubDate>Wed, 27 Jul 2022 01:48:57 -0700</pubDate>
-         <dc:date>2022-07-27T01:48:57-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Mon, 13 Sep 2021 05:24:48 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/cbic.202200303</guid>
-         <title>Improved antibody&#8208;specific epitope prediction using AlphaFold and AbAdapt</title>
-         <description>ChemBioChem, Accepted Article. </description>
-         <dc:description>&lt;p class="Abstract" style="margin: 0cm 0cm 30pt; text&#8208;align: justify; line&#8208;height: 11.25pt; font&#8208;size: 8pt; font&#8208;family: Arial, sans&#8208;serif; color: rgb(0, 0, 0);"&gt;&lt;span lang="EN&#8208;US"&gt;Antibodies recognize their cognate antigens with high affinity and specificity, but the prediction of binding sites on the antigen (epitope) corresponding to a specific antibody remains a challenging problem. To address this problem, we developed AbAdapt, a pipeline that integrates antibody and antigen structural modeling with rigid docking in order to derive antibody&#8208;antigen specific features for epitope prediction. In this study, we &lt;span style="color: red;"&gt;systematically&lt;/span&gt; assess&lt;span style="color: red;"&gt;ed&lt;/span&gt; the impact of integrating the state&#8208;of&#8208;the&#8208;art protein modeling method AlphaFold with the AbAdapt pipeline. &lt;span style="color: red;"&gt;By incorporating more accurate antibody models, we observed improvement in docking, paratope prediction, and prediction of antibody&#8208;specific epitopes. We further applied AbAdapt&#8208;AF in an anti&#8208;RBD antibody complex benchmark and found AbAdapt&#8208;AF outperformed three alternative docking methods. Also, AbAdapt&#8208;AF demonstrated higher epitope prediction accuracy than other tested epitope prediction tools in the anti&#8208;RBD antibody complex benchmark. We anticipate that AbAdapt&#8208;AF will facilitate prediction of antigen&#8208;antibody interactions in a wide range of applications. &lt;/span&gt;&amp;nbsp;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/p&gt;</dc:description>
-         <content:encoded>&lt;p&gt;&amp;lt;p class="Abstract" style="margin: 0cm 0cm 30pt; text-align: justify; line-height: 11.25pt; font-size: 8pt; font-family: Arial, sans-serif; color: rgb(0, 0, 0);"&amp;gt;&amp;lt;span lang="EN-US"&amp;gt;Antibodies recognize their cognate antigens with high affinity and specificity, but the prediction of binding sites on the antigen (epitope) corresponding to a specific antibody remains a challenging problem. To address this problem, we developed AbAdapt, a pipeline that integrates antibody and antigen structural modeling with rigid docking in order to derive antibody-antigen specific features for epitope prediction. In this study, we &amp;lt;span style="color: red;"&amp;gt;systematically&amp;lt;/span&amp;gt; assess&amp;lt;span style="color: red;"&amp;gt;ed&amp;lt;/span&amp;gt; the impact of integrating the state-of-the-art protein modeling method AlphaFold with the AbAdapt pipeline. &amp;lt;span style="color: red;"&amp;gt;By incorporating more accurate antibody models, we observed improvement in docking, paratope prediction, and prediction of antibody-specific epitopes. We further applied AbAdapt-AF in an anti-RBD antibody complex benchmark and found AbAdapt-AF outperformed three alternative docking methods. Also, AbAdapt-AF demonstrated higher epitope prediction accuracy than other tested epitope prediction tools in the anti-RBD antibody complex benchmark. We anticipate that AbAdapt-AF will facilitate prediction of antigen-antibody interactions in a wide range of applications. &amp;lt;/span&amp;gt;&amp;nbsp;&amp;lt;o:p&amp;gt;&amp;lt;/o:p&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Zichang Xu, 
-Ana Davila, 
-Jan Wiamowski, 
-Shunsuke Teraguchi, 
-Daron  M Standley
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Improved antibody&#8208;specific epitope prediction using AlphaFold and AbAdapt</dc:title>
-         <dc:identifier>10.1002/cbic.202200303</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202200303</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200303</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
@@ -3902,92 +4061,6 @@ Geert&#8208;Jan Boons
          <prism:publicationName>ChemBioChem</prism:publicationName>
          <prism:doi>10.1002/cbic.202200236</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200236</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200209</link>
-         <pubDate>Thu, 16 Jun 2022 02:44:18 -0700</pubDate>
-         <dc:date>2022-06-16T02:44:18-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/cbic.202200209</guid>
-         <title>A General Strategy for the Design and Evaluation of Heterobifunctional Tools: Applications to Protein Localization and Phase Separation</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-Linkerology 101: This work presents a quantitative method for the rational design of tools to control protein&#8208;protein interactions. A library of probes based on the Trimethoprim&#8208;HaloTag system was synthesized and evaluated. The top&#8208;performing probe was used to control protein localization to various organelles within a cell and to initiate both local and global phase separation.
-
-
-
-
-
-
-
-Abstract
-To mimic the levels of spatiotemporal control that exist in nature, tools for chemically induced dimerization (CID) are employed to manipulate protein&#8208;protein interactions. Although linker composition is known to influence speed and efficiency of heterobifunctional compounds, modeling or in&#8197;vitro experiments are often insufficient to predict optimal linker structure. This can be attributed to the complexity of ternary complex formation and the overlapping factors that impact the effective concentration of probe within the cell, such as efflux and passive permeability. Herein, we synthesize a library of modular chemical tools with varying linker structures and perform quantitative microscopy in live cells to visualize dimerization in real&#8208;time. We use our optimized probe to demonstrate our ability to recruit a protein of interest (POI) to the mitochondria, cell membrane, and nucleus. Finally, we induce and monitor local and global phase separation. We highlight the importance of quantitative approaches to linker optimization for dynamic systems and introduce new, synthetically accessible tools for the rapid control of protein localization.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4a5c86be-bb33-4c07-b31b-b7b056171022/cbic202200209-toc-0001-m.png"
-     alt="A General Strategy for the Design and Evaluation of Heterobifunctional Tools: Applications to Protein Localization and Phase Separation"/&gt;
-&lt;p&gt;&lt;b&gt;Linkerology 101&lt;/b&gt;: This work presents a quantitative method for the rational design of tools to control protein-protein interactions. A library of probes based on the Trimethoprim-HaloTag system was synthesized and evaluated. The top-performing probe was used to control protein localization to various organelles within a cell and to initiate both local and global phase separation.
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;To mimic the levels of spatiotemporal control that exist in nature, tools for chemically induced dimerization (CID) are employed to manipulate protein-protein interactions. Although linker composition is known to influence speed and efficiency of heterobifunctional compounds, modeling or &lt;i&gt;in&#8197;vitro&lt;/i&gt; experiments are often insufficient to predict optimal linker structure. This can be attributed to the complexity of ternary complex formation and the overlapping factors that impact the effective concentration of probe within the cell, such as efflux and passive permeability. Herein, we synthesize a library of modular chemical tools with varying linker structures and perform quantitative microscopy in live cells to visualize dimerization in real-time. We use our optimized probe to demonstrate our ability to recruit a protein of interest (POI) to the mitochondria, cell membrane, and nucleus. Finally, we induce and monitor local and global phase separation. We highlight the importance of quantitative approaches to linker optimization for dynamic systems and introduce new, synthetically accessible tools for the rapid control of protein localization.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Rachel M. Lackner, 
-Will O'Connell, 
-Huaiying Zhang, 
-David M. Chenoweth
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>A General Strategy for the Design and Evaluation of Heterobifunctional Tools: Applications to Protein Localization and Phase Separation</dc:title>
-         <dc:identifier>10.1002/cbic.202200209</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202200209</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200209</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200210</link>
-         <pubDate>Tue, 14 Jun 2022 04:24:21 -0700</pubDate>
-         <dc:date>2022-06-14T04:24:21-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDate>
-         <prism:coverDisplayDate>Sun, 12 Sep 2021 10:10:07 -0700</prism:coverDisplayDate>
-         <guid isPermaLink="false">10.1002/cbic.202200210</guid>
-         <title>One&#8208;Step Preparation of Cell&#8208;Free ATP Regeneration Module Based on Non&#8208;Oxidative Glycolysis Using Thermophilic Enzymes</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-ATP regeneration made simple! We have developed an in&#8197;vitro system for ATP regeneration in a single&#8208;expression strain powered by starch and orthophosphate as the phosphate carrier. This system does not produce harmful byproducts, use costly substrates, or require expression of multiple enzymes. In addition, only heat&#8208;treatment is required for the preparation of this system.
-
-
-
-
-
-
-
-Abstract
-Adenosine triphosphate (ATP) is an essential cofactor for energy&#8208;dependent enzymatic reactions that occur during in&#8197;vitro biochemical conversion. Recently, an enzyme cascade based on non&#8208;oxidative glycolysis, which uses starch and orthophosphate as energy and phosphate sources, respectively, for the regeneration of ATP from adenosine diphosphate, has been developed (Wei et&#8197;al., ChemCatChem 2018, 10, 5597&#8211;5601). However, the 12 enzymes required for this system hampered its practical usability and further testing potential. Here, we addressed this issue by constructing co&#8208;expression vectors for the simultaneous gene expression of the 12 enzymes in a single expression strain. All enzymes were sourced from (hyper)thermophiles, which enabled a one&#8208;step purification via a heat&#8208;treatment process. We showed that the combination of the two enabled the ATP regeneration system to function in a single recombinant Escherichia coli strain. Additionally, this work provides a strategy to rationally design and control proteins expression levels in the co&#8208;expression vectors.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/6b15bf30-ec04-4a27-9f11-5247e298b931/cbic202200210-toc-0001-m.png"
-     alt="One-Step Preparation of Cell-Free ATP Regeneration Module Based on Non-Oxidative Glycolysis Using Thermophilic Enzymes"/&gt;
-&lt;p&gt;&lt;b&gt;ATP regeneration made simple&lt;/b&gt;! We have developed an &lt;i&gt;in&#8197;vitro&lt;/i&gt; system for ATP regeneration in a single-expression strain powered by starch and orthophosphate as the phosphate carrier. This system does not produce harmful byproducts, use costly substrates, or require expression of multiple enzymes. In addition, only heat-treatment is required for the preparation of this system.
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Adenosine triphosphate (ATP) is an essential cofactor for energy-dependent enzymatic reactions that occur during &lt;i&gt;in&#8197;vitro&lt;/i&gt; biochemical conversion. Recently, an enzyme cascade based on non-oxidative glycolysis, which uses starch and orthophosphate as energy and phosphate sources, respectively, for the regeneration of ATP from adenosine diphosphate, has been developed (Wei et&#8197;al., &lt;i&gt;ChemCatChem&lt;/i&gt;
-&lt;b&gt;2018&lt;/b&gt;, &lt;i&gt;10&lt;/i&gt;, 5597&#8211;5601). However, the 12 enzymes required for this system hampered its practical usability and further testing potential. Here, we addressed this issue by constructing co-expression vectors for the simultaneous gene expression of the 12 enzymes in a single expression strain. All enzymes were sourced from (hyper)thermophiles, which enabled a one-step purification via a heat-treatment process. We showed that the combination of the two enabled the ATP regeneration system to function in a single recombinant &lt;i&gt;Escherichia coli&lt;/i&gt; strain. Additionally, this work provides a strategy to rationally design and control proteins expression levels in the co-expression vectors.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Gladwin Suryatin Alim, 
-Kenji Okano, 
-Kohsuke Honda
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>One&#8208;Step Preparation of Cell&#8208;Free ATP Regeneration Module Based on Non&#8208;Oxidative Glycolysis Using Thermophilic Enzymes</dc:title>
-         <dc:identifier>10.1002/cbic.202200210</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202200210</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202200210</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
    </channel>
