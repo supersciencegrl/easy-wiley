@@ -1,13 +1,10 @@
-#import os
 from datetime import date
 
-from updater import updatexml
+from getxml import update_journals, github_push
+
+def update_xml(cdate):
+    update_journals(cdate)
+    #github_push(cdate)
 
 cdate = date.today().strftime('%Y-%m-%d')
-
-#try:
-#    os.chdir('C:\\Users\\Nessa\\Documents\\GitHub\\easy-wiley')
-#except FileNotFoundError:
-#    os.chdir('C:\\Users\\CARSOL02\\Documents\\GitHub\\easy-wiley\\easy-wiley')
-
-updatexml(cdate)
+update_xml(cdate)
