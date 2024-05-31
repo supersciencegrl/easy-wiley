@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; Wiley-VCH GmbH, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
-      <pubDate>Thu, 30 May 2024 07:22:41 +0000</pubDate>
-      <lastBuildDate>Thu, 30 May 2024 07:22:41 +0000</lastBuildDate>
+      <pubDate>Fri, 31 May 2024 07:27:35 +0000</pubDate>
+      <lastBuildDate>Fri, 31 May 2024 07:27:35 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -20,6 +20,797 @@
          <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
          <link>https://onlinelibrary.wiley.com/journal/15214095</link>
       </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402751</link>
+         <pubDate>Thu, 30 May 2024 20:48:52 -0700</pubDate>
+         <dc:date>2024-05-30T08:48:52-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202402751</guid>
+         <title>Eagle&#8208;Eye Inspired Meta&#8208;Device for Phase Imaging</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+The dual&#8208;focus vision observed in eagles' eyes is an intriguing phenomenon that has long captivated scientists. Inspired by this natural occurrence, our research introduces a novel bifocal meta&#8208;device incorporating a polarized camera capable of simultaneously capturing images for two different polarizations with slightly different focal distances. This innovative approach facilitates the concurrent acquisition of underfocused and overfocused images in a single snapshot, enabling the effective extraction of quantitative phase information from the object using the transport of intensity equation. Experimental demonstrations showcase the application of quantitative phase imaging to artificial objects and human embryonic kidney cells, particularly emphasizing the meta&#8208;device's relevance in dynamic scenarios such as laser&#8208;induced ablation in human embryonic kidney cells. Moreover, it provides a solution for the quantification during the dynamic process at the cellular level. Notably, the proposed eagle&#8208;eye inspired meta&#8208;device for phase imaging (EIMPI), due to its simplicity and compact nature, holds promise for significant applications in fields such as endoscopy and headsets, where a lightweight and compact setup is essential.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The dual-focus vision observed in eagles' eyes is an intriguing phenomenon that has long captivated scientists. Inspired by this natural occurrence, our research introduces a novel bifocal meta-device incorporating a polarized camera capable of simultaneously capturing images for two different polarizations with slightly different focal distances. This innovative approach facilitates the concurrent acquisition of underfocused and overfocused images in a single snapshot, enabling the effective extraction of quantitative phase information from the object using the transport of intensity equation. Experimental demonstrations showcase the application of quantitative phase imaging to artificial objects and human embryonic kidney cells, particularly emphasizing the meta-device's relevance in dynamic scenarios such as laser-induced ablation in human embryonic kidney cells. Moreover, it provides a solution for the quantification during the dynamic process at the cellular level. Notably, the proposed eagle-eye inspired meta-device for phase imaging (EIMPI), due to its simplicity and compact nature, holds promise for significant applications in fields such as endoscopy and headsets, where a lightweight and compact setup is essential.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Junxiao Zhou, 
+Fanglin Tian, 
+Jie Hu, 
+Zhixia(Linda) Shi, 
+Veronica Gomez Godinez, 
+Din Ping Tsai, 
+Zhaowei Liu
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Eagle&#8208;Eye Inspired Meta&#8208;Device for Phase Imaging</dc:title>
+         <dc:identifier>10.1002/adma.202402751</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202402751</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402751</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405163</link>
+         <pubDate>Thu, 30 May 2024 17:38:50 -0700</pubDate>
+         <dc:date>2024-05-30T05:38:50-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202405163</guid>
+         <title>Large Language Model&#8208;Based AI Agent for Organic Semiconductor Devices Research</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Large language models (LLMs) have attracted widespread attention recently, however, their application in specialized scientific fields still requires deep adaptation. In this work, we designed an artificial intelligence (AI) agent for organic field effect transistors (OFETs) by integrating the GPT&#8208;4 model with well&#8208;trained machine learning (ML) algorithms. It can efficiently extract the experimental parameters of OFETs from scientific literature and reshape them into a structured database, achieving precision and recall rates both exceeding 92%. Combined with well&#8208;trained ML models, this AI agent can further provide targeted guidance and suggestions for device design. With prompt engineering and human&#8208;in&#8208;loop strategies, the agent extracted sufficient information of 709 OFETs from 277 research articles across different publishers and gathered them into a standardized database containing more than 10000 device parameters. Using this database, we trained a ML model based on XGBoost for device performance judgment. Combined with the interpretation of the high&#8208;precision model, the agent has provided a feasible optimization scheme that has tripled the charge transport properties of DP&#8208;DTT OFETs. Our work is an effective practice of LLMs in the field of organic optoelectronic devices and expands the research paradigm of organic optoelectronic materials and devices.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Large language models (LLMs) have attracted widespread attention recently, however, their application in specialized scientific fields still requires deep adaptation. In this work, we designed an artificial intelligence (AI) agent for organic field effect transistors (OFETs) by integrating the GPT-4 model with well-trained machine learning (ML) algorithms. It can efficiently extract the experimental parameters of OFETs from scientific literature and reshape them into a structured database, achieving precision and recall rates both exceeding 92%. Combined with well-trained ML models, this AI agent can further provide targeted guidance and suggestions for device design. With prompt engineering and human-in-loop strategies, the agent extracted sufficient information of 709 OFETs from 277 research articles across different publishers and gathered them into a standardized database containing more than 10000 device parameters. Using this database, we trained a ML model based on XGBoost for device performance judgment. Combined with the interpretation of the high-precision model, the agent has provided a feasible optimization scheme that has tripled the charge transport properties of DP-DTT OFETs. Our work is an effective practice of LLMs in the field of organic optoelectronic devices and expands the research paradigm of organic optoelectronic materials and devices.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Qian Zhang, 
+Yongxu Hu, 
+Jiaxin Yan, 
+Hengyue Zhang, 
+Xinyi Xie, 
+Jie Zhu, 
+Huchao Li, 
+Xinxin Niu, 
+Liqiang Li, 
+Yajing Sun, 
+Wenping Hu
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Large Language Model&#8208;Based AI Agent for Organic Semiconductor Devices Research</dc:title>
+         <dc:identifier>10.1002/adma.202405163</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202405163</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405163</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404688</link>
+         <pubDate>Thu, 30 May 2024 16:54:50 -0700</pubDate>
+         <dc:date>2024-05-30T04:54:50-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202404688</guid>
+         <title>Synergistic Machine Learning Accelerated Discovery of Nanoporous Inorganic Crystals as Non&#8208;Absorbable Oral Drugs</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Machine learning (ML) has taken drug discovery to new heights, where effective ML training requires vast quantities of high&#8208;quality experimental data as input. Non&#8208;absorbable oral drugs (NODs) have unique safety advantage for chronic diseases due to their zero systemic exposure, but their empirical discovery is still time&#8208;consuming and costly. Here, a synergistic ML method, integrating small data&#8208;driven multi&#8208;layer unsupervised learning, in silico quantum&#8208;mechanical computations, and minimal wet&#8208;lab experiments was devised to identify the finest NODs from massive inorganic materials to achieve multi&#8208;objective function (high selectivity, large capacity and stability). Based on this method, a NH4&#8208;form nanoporous zeolite with MER framework (NH4&#8208;MER) was discovered for the treatment of hyperkalemia. In 3 different animal models, NH4&#8208;MER showed a superior safety and efficacy profile in reducing blood K+ without Na+ release, which is an unmet clinical need in chronic kidney disease and Gordon's syndrome. Our work provides a synergistic ML method to accelerate the discovery of NODs and other shape&#8208;selective materials.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Machine learning (ML) has taken drug discovery to new heights, where effective ML training requires vast quantities of high-quality experimental data as input. Non-absorbable oral drugs (NODs) have unique safety advantage for chronic diseases due to their zero systemic exposure, but their empirical discovery is still time-consuming and costly. Here, a synergistic ML method, integrating small data-driven multi-layer unsupervised learning, in silico quantum-mechanical computations, and minimal wet-lab experiments was devised to identify the finest NODs from massive inorganic materials to achieve multi-objective function (high selectivity, large capacity and stability). Based on this method, a NH&lt;sub&gt;4&lt;/sub&gt;-form nanoporous zeolite with MER framework (NH&lt;sub&gt;4&lt;/sub&gt;-MER) was discovered for the treatment of hyperkalemia. In 3 different animal models, NH&lt;sub&gt;4&lt;/sub&gt;-MER showed a superior safety and efficacy profile in reducing blood K&lt;sup&gt;+&lt;/sup&gt; without Na&lt;sup&gt;+&lt;/sup&gt; release, which is an unmet clinical need in chronic kidney disease and Gordon's syndrome. Our work provides a synergistic ML method to accelerate the discovery of NODs and other shape-selective materials.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Liang Xiang, 
+Jiangzhi Chen, 
+Xin Zhao, 
+Jinbin Hu, 
+Jia Yu, 
+Xiaodong Zeng, 
+Tianzhi Liu, 
+Jie Ren, 
+Shiyi Zhang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Synergistic Machine Learning Accelerated Discovery of Nanoporous Inorganic Crystals as Non&#8208;Absorbable Oral Drugs</dc:title>
+         <dc:identifier>10.1002/adma.202404688</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202404688</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404688</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404160</link>
+         <pubDate>Thu, 30 May 2024 14:14:34 -0700</pubDate>
+         <dc:date>2024-05-30T02:14:34-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202404160</guid>
+         <title>Dual&#8208;adaptive Heterojunction Synaptic Transistors for Efficient Machine Vision in Harsh Lighting Conditions</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Photo&#8208;adaptive synaptic devices enable in&#8208;sensor processing of complex illumination scenes, while second&#8208;order adaptive synaptic plasticity improves learning efficiency by modifying the learning rate in a given environment. The integration of above adaptations in one phototransistor device will provide opportunities for developing high&#8208;efficient machine vision system. Here, we report a dually adaptable organic heterojunction transistor as a working unit in the system, which facilitates precise contrast enhancement and improves convergence rate under harsh lighting conditions. The photo&#8208;adaptive threshold sliding originated from the bidirectional photoconductivity caused by the light intensity&#8208;dependent photogating effect. Metaplasticity is successfully implemented owing to the combination of ambipolar behavior and charge trapping effect. By utilizing the transistor array in a machine vision system, the details and edges can be highlighted in the 0.4% low&#8208;contrast images, and a high recognition accuracy of 93.8% with a significantly promoted convergence rate by about 5 times were also achieved. These results open a strategy to fully implement metaplasticity in optoelectronic devices and suggest their vision processing applications in complex lighting scences.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Photo-adaptive synaptic devices enable in-sensor processing of complex illumination scenes, while second-order adaptive synaptic plasticity improves learning efficiency by modifying the learning rate in a given environment. The integration of above adaptations in one phototransistor device will provide opportunities for developing high-efficient machine vision system. Here, we report a dually adaptable organic heterojunction transistor as a working unit in the system, which facilitates precise contrast enhancement and improves convergence rate under harsh lighting conditions. The photo-adaptive threshold sliding originated from the bidirectional photoconductivity caused by the light intensity-dependent photogating effect. Metaplasticity is successfully implemented owing to the combination of ambipolar behavior and charge trapping effect. By utilizing the transistor array in a machine vision system, the details and edges can be highlighted in the 0.4% low-contrast images, and a high recognition accuracy of 93.8% with a significantly promoted convergence rate by about 5 times were also achieved. These results open a strategy to fully implement metaplasticity in optoelectronic devices and suggest their vision processing applications in complex lighting scences.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Yiru Wang, 
+Shimiao Nie, 
+Shanshuo Liu, 
+Yunfei Hu, 
+Jingwei Fu, 
+Jianyu Ming, 
+Jing Liu, 
+Yueqing Li, 
+Xiang He, 
+Le Wang, 
+Wen Li, 
+Mingdong Yi, 
+Haifeng Ling, 
+Linghai Xie, 
+Wei Huang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Dual&#8208;adaptive Heterojunction Synaptic Transistors for Efficient Machine Vision in Harsh Lighting Conditions</dc:title>
+         <dc:identifier>10.1002/adma.202404160</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202404160</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404160</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401745</link>
+         <pubDate>Thu, 30 May 2024 12:18:39 -0700</pubDate>
+         <dc:date>2024-05-30T12:18:39-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202401745</guid>
+         <title>Mucus&#8208;Inspired Self&#8208;Healing Hydrogels: A Protective Barrier for Cells against Viral Infection</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Mucus is a dynamic biological hydrogel, composed primarily of the glycoprotein mucin, exhibits unique biophysical properties and forms a barrier protecting cells against a broad spectrum of viruses. Here we developed a polyglycerol sulfate&#8208;based dendronized mucin&#8208;inspired copolymer (MICP&#8208;1) with &#8764;10% repeating units of activated disulfide as cross&#8208;linking sites. Cryo&#8208;EM analysis of MICP&#8208;1 reveals an elongated single&#8208;chain fiber morphology. MICP&#8208;1 shows potential inhibitory activity against many viruses such as HSV&#8208;1 and SARS&#8208;CoV&#8208;2 (including variants such as Delta and Omicron). MICP&#8208;1 produces hydrogels with viscoelastic properties similar to healthy human sputum and with tuneable microstructures using linear and branched PEG&#8208;thiol as cross&#8208;linkers. Single particle tracking microrheology, EPR and Cryo&#8208;SEM were used to characterize the network structures. The synthesized hydrogels exhibit self&#8208;healing properties, along with viscoelastic properties that are tuneable through reduction. A transwell assay was used to investigate the hydrogel's protective properties against viral infection against HSV&#8208;1. Live&#8208;cell microscopy confirmed that these hydrogels can protect underlying cells from infection by trapping the virus, due to both network morphology and anionic multivalent effects. Overall, our novel mucin&#8208;inspired copolymer generates mucus&#8208;mimetic hydrogels on a multi&#8208;gram scale. These hydrogels can be used as a models for disulfide&#8208;rich airway mucus research, and as biomaterials.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Mucus is a dynamic biological hydrogel, composed primarily of the glycoprotein mucin, exhibits unique biophysical properties and forms a barrier protecting cells against a broad spectrum of viruses. Here we developed a polyglycerol sulfate-based dendronized mucin-inspired copolymer (&lt;b&gt;MICP-1&lt;/b&gt;) with &#8764;10% repeating units of activated disulfide as cross-linking sites. Cryo-EM analysis of &lt;b&gt;MICP-1&lt;/b&gt; reveals an elongated single-chain fiber morphology. &lt;b&gt;MICP-1&lt;/b&gt; shows potential inhibitory activity against many viruses such as HSV-1 and SARS-CoV-2 (including variants such as Delta and Omicron). &lt;b&gt;MICP-1&lt;/b&gt; produces hydrogels with viscoelastic properties similar to healthy human sputum and with tuneable microstructures using linear and branched PEG-thiol as cross-linkers. Single particle tracking microrheology, EPR and Cryo-SEM were used to characterize the network structures. The synthesized hydrogels exhibit self-healing properties, along with viscoelastic properties that are tuneable through reduction. A transwell assay was used to investigate the hydrogel's protective properties against viral infection against HSV-1. Live-cell microscopy confirmed that these hydrogels can protect underlying cells from infection by trapping the virus, due to both network morphology and anionic multivalent effects. Overall, our novel mucin-inspired copolymer generates mucus-mimetic hydrogels on a multi-gram scale. These hydrogels can be used as a models for disulfide-rich airway mucus research, and as biomaterials.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Raju Bej, 
+Corey Alfred Stevens, 
+Chuanxiong Nie, 
+Kai Ludwig, 
+George Degen, 
+Yannic Kerkhoff, 
+Marina Pigaleva, 
+Julia M. Adler, 
+Nicole A. Bustos, 
+Taylor M. Page, 
+Jakob Trimpert, 
+Stephan Block, 
+Benedikt B. Kaufer, 
+Katharina Ribbeck, 
+Rainer Haag
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Mucus&#8208;Inspired Self&#8208;Healing Hydrogels: A Protective Barrier for Cells against Viral Infection</dc:title>
+         <dc:identifier>10.1002/adma.202401745</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202401745</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401745</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402069</link>
+         <pubDate>Thu, 30 May 2024 11:28:46 -0700</pubDate>
+         <dc:date>2024-05-30T11:28:46-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202402069</guid>
+         <title>Electromechanically Reconfigurable Terahertz Stereo Metasurfaces</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Dynamic terahertz devices are vital for the next generation of wireless communication, sensing and non&#8208;destructive imaging technologies. Metasurfaces have emerged as a paradigm&#8208;shifting platform, offering varied functionalities, miniaturization and simplified fabrication compared to their three&#8208;dimensional counterparts. However, the presence of in&#8208;plane mirror symmetry and reduced degree of freedom imposes fundamental limitations on achieving advanced chiral response, beamforming, and reconfiguration capabilities. In this work, we demonstrate a platform composed of electrically actuated resonators that can be colossally reconfigured between planar and 3D geometries. To illustrate the platform, metadevices with 3D Split Ring Resonators have been fabricated wherein we combine two counteracting driving forces &#8211; (i) folding induced by stress mismatch which enables non&#8208;volatile state design, and (ii) unfolding triggered by the strain associated with insulator&#8208;to&#8208;metal transition in VO2, which facilitates volatile structural reconfiguration. This large structural reconfiguration space allows for resonance mode switching, widely tunable magnetic and electric polarizabilities, and increased frequency agility. Moreover, the unique properties of VO2 such as the hysteretic nature of its phase transition is harnessed to demonstrate a multi&#8208;state memory. Therefore, these VO2 integrated metadevices are highly attractive for the realization of 6G communication devices such as reconfigurable intelligent surfaces, holographic beam formers, and spatial light modulators.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Dynamic terahertz devices are vital for the next generation of wireless communication, sensing and non-destructive imaging technologies. Metasurfaces have emerged as a paradigm-shifting platform, offering varied functionalities, miniaturization and simplified fabrication compared to their three-dimensional counterparts. However, the presence of in-plane mirror symmetry and reduced degree of freedom imposes fundamental limitations on achieving advanced chiral response, beamforming, and reconfiguration capabilities. In this work, we demonstrate a platform composed of electrically actuated resonators that can be colossally reconfigured between planar and 3D geometries. To illustrate the platform, metadevices with 3D Split Ring Resonators have been fabricated wherein we combine two counteracting driving forces &#8211; (i) folding induced by stress mismatch which enables non-volatile state design, and (ii) unfolding triggered by the strain associated with insulator-to-metal transition in VO&lt;sub&gt;2&lt;/sub&gt;, which facilitates volatile structural reconfiguration. This large structural reconfiguration space allows for resonance mode switching, widely tunable magnetic and electric polarizabilities, and increased frequency agility. Moreover, the unique properties of VO&lt;sub&gt;2&lt;/sub&gt; such as the hysteretic nature of its phase transition is harnessed to demonstrate a multi-state memory. Therefore, these VO&lt;sub&gt;2&lt;/sub&gt; integrated metadevices are highly attractive for the realization of 6G communication devices such as reconfigurable intelligent surfaces, holographic beam formers, and spatial light modulators.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Saurav Prakash, 
+Prakash Pitchappa, 
+Piyush Agrawal, 
+Hariom Jani, 
+Yunshan Zhao, 
+Abhishek Kumar, 
+John Thong, 
+Jian Linke, 
+Ariando Ariando, 
+Ranjan Singh, 
+Thirumalai Venkatesan
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Electromechanically Reconfigurable Terahertz Stereo Metasurfaces</dc:title>
+         <dc:identifier>10.1002/adma.202402069</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202402069</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402069</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403568</link>
+         <pubDate>Thu, 30 May 2024 08:46:00 -0700</pubDate>
+         <dc:date>2024-05-30T08:46:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202403568</guid>
+         <title>Millifluidic Nanogenerator Lab&#8208;on&#8208;a&#8208;Chip Device for Blood Electrical Conductivity Monitoring at Low Frequency</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+The electrical conductivity of blood is a crucial physiological parameter with diverse applications in medical diagnostics. Here, we introduce a novel approach utilizing a portable millifluidic nanogenerator lab&#8208;on&#8208;a&#8208;chip device for measuring blood conductivity at low frequencies. The proposed device employs blood as a conductive substance within its built&#8208;in triboelectric nanogenerator system. Voltage generated by this blood&#8208;based nanogenerator device is analyzed to determine the electrical conductivity of the blood sample. The self&#8208;powering functionality of the device eliminates the need for complex embedded electronics and external electrodes. Experimental results using simulated body fluid and human blood plasma demonstrate the device's efficacy in detecting variations in conductivity related to changes in electrolyte concentrations. Furthermore, we use artificial intelligence models to analyze the generated voltage patterns and to estimate the blood electrical conductivity. The models exhibit high accuracy in predicting conductivity based solely on the device&#8208;generated voltage. The 3D&#8208;printed, disposable design of the device enhances portability and usability, providing a point&#8208;of&#8208;care solution for rapid blood conductivity assessment. A comparative analysis with traditional conductivity measurement methods highlights the advantages of the proposed device in terms of simplicity, portability, and adaptability for various applications beyond blood analysis. Finally, we underscore the importance of overcoming the challenge of measuring blood conductivity at frequencies below 100&#160;Hz using the proposed device for the exploration of fundamental biological processes and the advancement of medical treatments reliant on electrical fields.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The electrical conductivity of blood is a crucial physiological parameter with diverse applications in medical diagnostics. Here, we introduce a novel approach utilizing a portable millifluidic nanogenerator lab-on-a-chip device for measuring blood conductivity at low frequencies. The proposed device employs blood as a conductive substance within its built-in triboelectric nanogenerator system. Voltage generated by this blood-based nanogenerator device is analyzed to determine the electrical conductivity of the blood sample. The self-powering functionality of the device eliminates the need for complex embedded electronics and external electrodes. Experimental results using simulated body fluid and human blood plasma demonstrate the device's efficacy in detecting variations in conductivity related to changes in electrolyte concentrations. Furthermore, we use artificial intelligence models to analyze the generated voltage patterns and to estimate the blood electrical conductivity. The models exhibit high accuracy in predicting conductivity based solely on the device-generated voltage. The 3D-printed, disposable design of the device enhances portability and usability, providing a point-of-care solution for rapid blood conductivity assessment. A comparative analysis with traditional conductivity measurement methods highlights the advantages of the proposed device in terms of simplicity, portability, and adaptability for various applications beyond blood analysis. Finally, we underscore the importance of overcoming the challenge of measuring blood conductivity at frequencies below 100&#160;Hz using the proposed device for the exploration of fundamental biological processes and the advancement of medical treatments reliant on electrical fields.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jianzhe Luo, 
+Wenyun Lu, 
+Daeik Jang, 
+Qianyun Zhang, 
+Wenxuan Meng, 
+Alan Wells, 
+Amir H. Alavi
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Millifluidic Nanogenerator Lab&#8208;on&#8208;a&#8208;Chip Device for Blood Electrical Conductivity Monitoring at Low Frequency</dc:title>
+         <dc:identifier>10.1002/adma.202403568</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202403568</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403568</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202406009</link>
+         <pubDate>Thu, 30 May 2024 08:27:02 -0700</pubDate>
+         <dc:date>2024-05-30T08:27:02-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202406009</guid>
+         <title>Interstitials in Thermoelectrics</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Defect structure is pivotal in advancing thermoelectric performance with interstitials being widely recognized for their remarkable roles in optimizing both phonon and electron transport properties. Diverse interstitial atoms have been identified in previous works according to their distinct roles and can be classified into rattling interstitial, decoupling interstitial, interlayer interstitial, dynamic interstitial and liquid interstitial. Specifically, rattling interstitial can cause phonon resonance in cage compound to scatter phonon transport; decoupling interstitial can contribute to phonon blocking and electron transport due to their significantly different mean free paths; interlayer interstitial can facilitate out&#8208;of&#8208;layer electron transport in layered compounds; dynamic interstitial can tune temperature&#8208;dependent carrier density and optimize electrical transport properties at wide temperatures; liquid interstitial could improve the carrier mobility at homogeneous dispersion state. All of these interstitials have positive impact on thermoelectric performance by adjusting transport parameters. This perspective therefore intends to provide a thorough overview of advances in interstitial strategy and highlight their significance for optimizing thermoelectric parameters. Finally, the profound potential for extending interstitial strategy to various other thermoelectric systems is discussed and some future directions in thermoelectric material are also outlined.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Defect structure is pivotal in advancing thermoelectric performance with interstitials being widely recognized for their remarkable roles in optimizing both phonon and electron transport properties. Diverse interstitial atoms have been identified in previous works according to their distinct roles and can be classified into rattling interstitial, decoupling interstitial, interlayer interstitial, dynamic interstitial and liquid interstitial. Specifically, rattling interstitial can cause phonon resonance in cage compound to scatter phonon transport; decoupling interstitial can contribute to phonon blocking and electron transport due to their significantly different mean free paths; interlayer interstitial can facilitate out-of-layer electron transport in layered compounds; dynamic interstitial can tune temperature-dependent carrier density and optimize electrical transport properties at wide temperatures; liquid interstitial could improve the carrier mobility at homogeneous dispersion state. All of these interstitials have positive impact on thermoelectric performance by adjusting transport parameters. This perspective therefore intends to provide a thorough overview of advances in interstitial strategy and highlight their significance for optimizing thermoelectric parameters. Finally, the profound potential for extending interstitial strategy to various other thermoelectric systems is discussed and some future directions in thermoelectric material are also outlined.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Liqing Xu, 
+Zhanxiang Yin, 
+Yu Xiao, 
+Li&#8208;Dong Zhao
+</dc:creator>
+         <category>Review</category>
+         <dc:title>Interstitials in Thermoelectrics</dc:title>
+         <dc:identifier>10.1002/adma.202406009</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202406009</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202406009</prism:url>
+         <prism:section>Review</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403835</link>
+         <pubDate>Thu, 30 May 2024 08:26:51 -0700</pubDate>
+         <dc:date>2024-05-30T08:26:51-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202403835</guid>
+         <title>Carbon&#8208;based Flame Retardants for Polymers: A Bottom&#8208;up Review</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+This state&#8208;of&#8208;the&#8208;art review is geared towards elucidating the molecular understanding of the carbon&#8208;based flame&#8208;retardant mechanisms for polymers via holistic characterisation combining detailed analytical assessments and computational material science. The use of carbon&#8208;based flame retardants, which include graphite, graphene, carbon nanotubes (CNTs), carbon dots (CDs) and fullerenes, in their pure and functionalised forms are initially reviewed to evaluate their flame retardancy performance and to determine their elevation of the flammability resistance on various types of polymers. The early transition metal carbides such as MXenes, regarded as next generation carbon&#8208;based flame retardants, are discussed with respect to their superior flame retardancy and multifunctional applications. At the core of this review is the utilisation of cutting&#8208;edge molecular dynamics (MD) simulations which sets a precedence of an alternative bottom&#8208;up approach to fill the knowledge gap through insights into the thermal resisting process of the carbon&#8208;based flame retardants, such as the formation of carbonaceous char and intermediate chemical reactions offered by the unique carbon bonding arrangements and microscopic in&#8208;situ architectures. Combining MD simulations with detailed experimental assessments and characterisation, a more targeted development as well as a systematic material synthesis framework can be realised for the future development of advanced flame&#8208;retardant polymers.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This state-of-the-art review is geared towards elucidating the molecular understanding of the carbon-based flame-retardant mechanisms for polymers via holistic characterisation combining detailed analytical assessments and computational material science. The use of carbon-based flame retardants, which include graphite, graphene, carbon nanotubes (CNTs), carbon dots (CDs) and fullerenes, in their pure and functionalised forms are initially reviewed to evaluate their flame retardancy performance and to determine their elevation of the flammability resistance on various types of polymers. The early transition metal carbides such as MXenes, regarded as next generation carbon-based flame retardants, are discussed with respect to their superior flame retardancy and multifunctional applications. At the core of this review is the utilisation of cutting-edge molecular dynamics (MD) simulations which sets a precedence of an alternative bottom-up approach to fill the knowledge gap through insights into the thermal resisting process of the carbon-based flame retardants, such as the formation of carbonaceous char and intermediate chemical reactions offered by the unique carbon bonding arrangements and microscopic in-situ architectures. Combining MD simulations with detailed experimental assessments and characterisation, a more targeted development as well as a systematic material synthesis framework can be realised for the future development of advanced flame-retardant polymers.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Guan Heng Yeoh, 
+Ivan Miguel De Cachinho Cordeiro, 
+Wei Wang, 
+Cheng Wang, 
+Anthony Chun Yin Yuen, 
+Timothy Bo Yuan Chen, 
+Juan Baena Vargas, 
+Guangzhao Mao, 
+Ulf Garbe, 
+Hui Tong Chua
+</dc:creator>
+         <category>Review</category>
+         <dc:title>Carbon&#8208;based Flame Retardants for Polymers: A Bottom&#8208;up Review</dc:title>
+         <dc:identifier>10.1002/adma.202403835</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202403835</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403835</prism:url>
+         <prism:section>Review</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405533</link>
+         <pubDate>Thu, 30 May 2024 08:26:50 -0700</pubDate>
+         <dc:date>2024-05-30T08:26:50-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202405533</guid>
+         <title>Precisely Constructing Orbital&#8208;Coupled Fe&#8208;Co Dual&#8208;atom Sites for High&#8208;Energy&#8208;Efficiency Zn&#8208;Air/Iodide Hybrid Batteries</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Rechargeable Zn&#8208;air batteries (ZABs) are promising for energy storage and conversion. However, the high charging voltage and low energy efficiency hinder their commercialization. Herein, we address these challenges by employing precisely constructed multifunctional Fe&#8208;Co diatomic site catalyst (FeCo&#8208;DACs) and integrating iodide/iodate redox into ZABs to create Zinc&#8208;air/iodide hybrid batteries (ZAIHBs) with highly efficient multifunctional catalyst. The strong coupling between the 3d orbitals of Fe and Co weakens the excessively strong binding strength between active sites and intermediates, enhancing the catalytic activities for oxygen reduction/evolution reaction and iodide/iodate redox. Consequently, FeCo&#8208;DACs exhibits outstanding bifunctional oxygen catalytic activity with a small potential gap (&#916;E = 0.66&#160;V) and outstanding stability. Moreover, an outstanding catalytic performance towards iodide/iodate redox is obtained. Therefore, FeCo&#8208;DAC&#8208;based ZAIHBs exhibit high energy efficiency of up to 75% at 10&#160;mA cm&#8208;2 and excellent cycling stability (72% after 500 hours). This research offers critical insights into the rational design of DACs, and paves the way for high&#8208;energy efficiency energy storage devices.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Rechargeable Zn-air batteries (ZABs) are promising for energy storage and conversion. However, the high charging voltage and low energy efficiency hinder their commercialization. Herein, we address these challenges by employing precisely constructed multifunctional Fe-Co diatomic site catalyst (FeCo-DACs) and integrating iodide/iodate redox into ZABs to create Zinc-air/iodide hybrid batteries (ZAIHBs) with highly efficient multifunctional catalyst. The strong coupling between the 3d orbitals of Fe and Co weakens the excessively strong binding strength between active sites and intermediates, enhancing the catalytic activities for oxygen reduction/evolution reaction and iodide/iodate redox. Consequently, FeCo-DACs exhibits outstanding bifunctional oxygen catalytic activity with a small potential gap (&#916;E = 0.66&#160;V) and outstanding stability. Moreover, an outstanding catalytic performance towards iodide/iodate redox is obtained. Therefore, FeCo-DAC-based ZAIHBs exhibit high energy efficiency of up to 75% at 10&#160;mA cm&lt;sup&gt;-2&lt;/sup&gt; and excellent cycling stability (72% after 500 hours). This research offers critical insights into the rational design of DACs, and paves the way for high-energy efficiency energy storage devices.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jingyuan Qiao, 
+Yurong You, 
+Lingqiao Kong, 
+Weihang Feng, 
+Heshuang Zhang, 
+Haibin Huang, 
+Caifang Li, 
+Wei He, 
+ZhengMing Sun
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Precisely Constructing Orbital&#8208;Coupled Fe&#8208;Co Dual&#8208;atom Sites for High&#8208;Energy&#8208;Efficiency Zn&#8208;Air/Iodide Hybrid Batteries</dc:title>
+         <dc:identifier>10.1002/adma.202405533</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202405533</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405533</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401115</link>
+         <pubDate>Thu, 30 May 2024 07:59:38 -0700</pubDate>
+         <dc:date>2024-05-30T07:59:38-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202401115</guid>
+         <title>Optically Actuated soft Microrobot Family for Single&#8208;cell Manipulation</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Precisely controlled manipulation of non&#8208;adherent single cells is often a pre&#8208;requisite for their detailed investigation. Optical trapping provides a versatile means for positioning cells with sub&#8208;micrometer precision or measuring forces with femto&#8208;Newton resolution. A variant of the technique, called indirect optical trapping, enables single&#8208;cell manipulation with no photodamage and superior spatial control and stability by relying on optically trapped microtools biochemically bound to the cell. High&#8208;resolution 3D lithography enables us to prepare such cell manipulators with any pre&#8208;defined shape, greatly extending the number of achievable manipulation tasks. Here, we present for the first time a novel family of cell manipulators that are deformable by optical tweezers and rely on their elasticity to hold cells. This provides a more straightforward approach to indirect optical trapping by avoiding biochemical functionalization for cell attachment, and consequently by enabling the manipulated cells to be released at any time. Using the photoresist Ormocomp, we characterize the deformations achievable with optical forces in the tens of pN range and present three modes of single&#8208;cell manipulation as examples to showcase the possible applications such soft microrobotic tools can offer. The applications described here include cell collection, 3D cell imaging and spatially and temporally controlled cell&#8208;cell interaction.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Precisely controlled manipulation of non-adherent single cells is often a pre-requisite for their detailed investigation. Optical trapping provides a versatile means for positioning cells with sub-micrometer precision or measuring forces with femto-Newton resolution. A variant of the technique, called indirect optical trapping, enables single-cell manipulation with no photodamage and superior spatial control and stability by relying on optically trapped microtools biochemically bound to the cell. High-resolution 3D lithography enables us to prepare such cell manipulators with any pre-defined shape, greatly extending the number of achievable manipulation tasks. Here, we present for the first time a novel family of cell manipulators that are deformable by optical tweezers and rely on their elasticity to hold cells. This provides a more straightforward approach to indirect optical trapping by avoiding biochemical functionalization for cell attachment, and consequently by enabling the manipulated cells to be released at any time. Using the photoresist Ormocomp, we characterize the deformations achievable with optical forces in the tens of pN range and present three modes of single-cell manipulation as examples to showcase the possible applications such soft microrobotic tools can offer. The applications described here include cell collection, 3D cell imaging and spatially and temporally controlled cell-cell interaction.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Gergely T. Iv&#225;nyi, 
+Botond Nemes, 
+Ilona Gr&#243;f, 
+Tam&#225;s Fekete, 
+Jana Kubackov&#225;, 
+Zolt&#225;n Tomori, 
+Gregor B&#225;n&#243;, 
+Gaszton Vizsnyiczai, 
+L&#243;r&#225;nd Kelemen
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Optically Actuated soft Microrobot Family for Single&#8208;cell Manipulation</dc:title>
+         <dc:identifier>10.1002/adma.202401115</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202401115</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401115</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202311170</link>
+         <pubDate>Thu, 30 May 2024 04:09:06 -0700</pubDate>
+         <dc:date>2024-05-30T04:09:06-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202311170</guid>
+         <title>Advances in Stretchable Organic Photovoltaics: Flexible Transparent Electrodes and Deformable Active Layer Design</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Stretchable organic photovoltaics (OPVs) have attracted significant attention as promising power sources for wearable electronic systems owing to their superior robustness under repetitive tensile strains and their good compatibility. However, reconciling a high power&#8208;conversion efficiency and a reasonable flexibility is a tremendous challenge. In addition, the development of stretchable OPVs must be accelerated to satisfy the increasing requirements of niche markets for mechanical robustness. Stretchable OPV devices can be classified as either structurally or intrinsically stretchable. This paper reviews recent advances in stretchable OPVs, including the design of mechanically robust transparent electrodes, photovoltaic materials, and devices. Initially, we provide an overview of the characteristics and recent research progress in the areas of structurally and intrinsically stretchable OPVs. Subsequently, research into flexible and stretchable transparent electrodes that directly affect the performances of stretchable OPVs is summarized and analyzed. Overall, this review aims to provide an in&#8208;depth understanding of the intrinsic properties of highly efficient and deformable active materials, whilst also emphasizing advanced strategies for simultaneously improving the photovoltaic performance and mechanical flexibility of the active layer, including material design, multi&#8208;component settings, and structural optimization.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Stretchable organic photovoltaics (OPVs) have attracted significant attention as promising power sources for wearable electronic systems owing to their superior robustness under repetitive tensile strains and their good compatibility. However, reconciling a high power-conversion efficiency and a reasonable flexibility is a tremendous challenge. In addition, the development of stretchable OPVs must be accelerated to satisfy the increasing requirements of niche markets for mechanical robustness. Stretchable OPV devices can be classified as either structurally or intrinsically stretchable. This paper reviews recent advances in stretchable OPVs, including the design of mechanically robust transparent electrodes, photovoltaic materials, and devices. Initially, we provide an overview of the characteristics and recent research progress in the areas of structurally and intrinsically stretchable OPVs. Subsequently, research into flexible and stretchable transparent electrodes that directly affect the performances of stretchable OPVs is summarized and analyzed. Overall, this review aims to provide an in-depth understanding of the intrinsic properties of highly efficient and deformable active materials, whilst also emphasizing advanced strategies for simultaneously improving the photovoltaic performance and mechanical flexibility of the active layer, including material design, multi-component settings, and structural optimization.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Wei Song, 
+Qinrui Ye, 
+Zhenyu Chen, 
+Jinfeng Ge, 
+Lin Xie, 
+Ziyi Ge
+</dc:creator>
+         <category>Review</category>
+         <dc:title>Advances in Stretchable Organic Photovoltaics: Flexible Transparent Electrodes and Deformable Active Layer Design</dc:title>
+         <dc:identifier>10.1002/adma.202311170</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202311170</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202311170</prism:url>
+         <prism:section>Review</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202312948</link>
+         <pubDate>Thu, 30 May 2024 03:22:46 -0700</pubDate>
+         <dc:date>2024-05-30T03:22:46-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202312948</guid>
+         <title>Recent Progress of Quantum Dots Light&#8208;Emitting Diodes: Materials, Device Structures, and Display Applications</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+Colloidal quantum dots (QDs), as a class of zero&#8208;dimensional semiconductor materials, have generated widespread interest due to their adjustable band gap, exceptional color purity, near&#8208;unity quantum yield, and solution&#8208;processability. With decades of dedicated research, the potential applications of quantum dots have garnered significant recognition in both the academic and industrial communities. Furthermore, the related quantum dot light&#8208;emitting diodes (QLEDs) stand out as one of the most promising contenders for the next&#8208;generation display technologies. Although QD&#8208;based color conversion films have been applied to improve the color gamut of existing display technologies, the broader application of QLED devices remains in its nascent stages, facing many challenges on the path to commercialization. This review encapsulates the historical discovery and subsequent research advancements in QD materials and their synthesis methods. Additionally, the working mechanisms and architectural design of QLED prototype devices are discussed. Furthermore, the review surveys the latest advancements of QLED devices within the display industry. The narrative concludes with an examination of the challenges and perspectives for QLED technology in the foreseeable future.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Colloidal quantum dots (QDs), as a class of zero-dimensional semiconductor materials, have generated widespread interest due to their adjustable band gap, exceptional color purity, near-unity quantum yield, and solution-processability. With decades of dedicated research, the potential applications of quantum dots have garnered significant recognition in both the academic and industrial communities. Furthermore, the related quantum dot light-emitting diodes (QLEDs) stand out as one of the most promising contenders for the next-generation display technologies. Although QD-based color conversion films have been applied to improve the color gamut of existing display technologies, the broader application of QLED devices remains in its nascent stages, facing many challenges on the path to commercialization. This review encapsulates the historical discovery and subsequent research advancements in QD materials and their synthesis methods. Additionally, the working mechanisms and architectural design of QLED prototype devices are discussed. Furthermore, the review surveys the latest advancements of QLED devices within the display industry. The narrative concludes with an examination of the challenges and perspectives for QLED technology in the foreseeable future.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Junpeng Fan, 
+Changfeng Han, 
+Guojian Yang, 
+Bin Song, 
+Rui Xu, 
+Chaoyu Xiang, 
+Ting Zhang, 
+Lei Qian
+</dc:creator>
+         <category>Review</category>
+         <dc:title>Recent Progress of Quantum Dots Light&#8208;Emitting Diodes: Materials, Device Structures, and Display Applications</dc:title>
+         <dc:identifier>10.1002/adma.202312948</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202312948</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202312948</prism:url>
+         <prism:section>Review</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401735</link>
+         <pubDate>Thu, 30 May 2024 02:34:37 -0700</pubDate>
+         <dc:date>2024-05-30T02:34:37-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202401735</guid>
+         <title>Quasi&#8208;&#8220;In&#8208;Situ&#8221; Analysis of the Reactive Liquid&#8208;Solid Interface during Magnesium Corrosion using Cryo&#8208;Atom Probe Tomography</title>
+         <description>Advanced Materials, Accepted Article. </description>
+         <dc:description>
+Abstract
+The early stages of corrosion occurring at liquid&#8208;solid interfaces controls the evolution of the material's degradation process, yet due to their transient state, their analysis remains a formidable challenge. Here we perform corrosion tests on a MgCa alloy, a candidate material for biodegradable implants using pure water as a model system. The corrosion reaction was suspended by plunge freezing into liquid nitrogen. We studied the evolution of the early&#8208;stage corrosion process on the nanoscale by correlating cryo&#8208;atom probe tomography with transmission&#8208;electron microscopy and spectroscopy. We observed the outward growth of Mg hydroxide and the inward growth of an intermediate corrosion layer consisting of hydroxides of different compositions, mostly monohydroxide Mg(OH) instead of the expected MgO layer. In addition, Ca partitions to these newly formed hydroxides and oxides. Density&#8208;functional theory calculations suggest a domain of stability for this previously experimental unreported Mg(OH) phase. These new approach and findings advance the understanding of the early stages of magnesium corrosion, and in general reactions and processes at liquid&#8208;solid interfaces, which can further facilitate the development of corrosion&#8208;resistant materials or better control of the biodegradation rate of future implants.
+This article is protected by copyright. All rights reserved
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The early stages of corrosion occurring at liquid-solid interfaces controls the evolution of the material's degradation process, yet due to their transient state, their analysis remains a formidable challenge. Here we perform corrosion tests on a MgCa alloy, a candidate material for biodegradable implants using pure water as a model system. The corrosion reaction was suspended by plunge freezing into liquid nitrogen. We studied the evolution of the early-stage corrosion process on the nanoscale by correlating cryo-atom probe tomography with transmission-electron microscopy and spectroscopy. We observed the outward growth of Mg hydroxide and the inward growth of an intermediate corrosion layer consisting of hydroxides of different compositions, mostly monohydroxide Mg(OH) instead of the expected MgO layer. In addition, Ca partitions to these newly formed hydroxides and oxides. Density-functional theory calculations suggest a domain of stability for this previously experimental unreported Mg(OH) phase. These new approach and findings advance the understanding of the early stages of magnesium corrosion, and in general reactions and processes at liquid-solid interfaces, which can further facilitate the development of corrosion-resistant materials or better control of the biodegradation rate of future implants.&lt;/p&gt;
+&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Tim M. Schwarz, 
+Jing Yang, 
+Leonardo S. Aota, 
+Eric Woods, 
+Xuyang Zhou, 
+J&#246;rg Neugebauer, 
+Mira Todorova, 
+Ingrid McCarroll, 
+Baptiste Gault
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Quasi&#8208;&#8220;In&#8208;Situ&#8221; Analysis of the Reactive Liquid&#8208;Solid Interface during Magnesium Corrosion using Cryo&#8208;Atom Probe Tomography</dc:title>
+         <dc:identifier>10.1002/adma.202401735</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202401735</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401735</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405299</link>
+         <pubDate>Thu, 30 May 2024 02:08:55 -0700</pubDate>
+         <dc:date>2024-05-30T02:08:55-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202405299</guid>
+         <title>Gradient Doping Enables an Extraordinary Efficiency in Thermoelectric PbTe1&#8722;xIx</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+Gradient doping is realized in PbTe1&#8722;xIx using a vertical gradient solidification technique, enabling a spatial gradient in carrier concentration that optimizes zT at each portion of the device under its operating temperature. Such a gradient doping results in an extraordinary device efficiency of &#8776;14% at a &#916;T of &#8776;500&#160;K, corresponding to a &#8776;40% improvement as compared to homogeneous doping.
+
+
+
+
+
+
+
+
+Abstract
+The conversion efficiency of thermoelectric generators that have to be operated under a temperature difference (&#916;T) is mainly determined by material's dimensionless figure of merit (zT). However, maximization of zT at each temperature requires an optimization of carrier concentration (nopt) which strongly depends on the temperature and band parameters. Commonly utilized strategy of chemical doping usually enables a homogeneous carrier concentration throughout the material, leading the maximal zT to be achievable only within a narrow temperature range. In this work, a gradiently doping is successfully realized in PbTe1&#8722;xIx using a vertical gradient solidification technique, enabling a spatial gradient in carrier concentration that correspondingly optimizes zT at each portion of the material under its operating temperature. Such a gradient doping results in an extraordinary device efficiency of &#8776;14% at a &#916;T of &#8776;500&#160;K, corresponding to a &#8776;40% improvement as compared to that of homogeneous doping. Since directional solidification technique commonly enables gradient dopant concentrations in semiconductors, the resultant gradient carrier concentration is illustrated here as an effective approach for advancing thermoelectrics.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/724d6f26-208f-42cf-a3f8-8ae103ef1f39/adma202405299-gra-0001-m.png"
+     alt="Gradient Doping Enables an Extraordinary Efficiency in Thermoelectric PbTe1&#8722;xIx"/&gt;
+&lt;p&gt;Gradient doping is realized in PbTe&lt;sub&gt;1&#8722;x&lt;/sub&gt;I&lt;sub&gt;x&lt;/sub&gt; using a vertical gradient solidification technique, enabling a spatial gradient in carrier concentration that optimizes &lt;i&gt;zT&lt;/i&gt; at each portion of the device under its operating temperature. Such a gradient doping results in an extraordinary device efficiency of &#8776;14% at a &#916;&lt;i&gt;T&lt;/i&gt; of &#8776;500&#160;K, corresponding to a &#8776;40% improvement as compared to homogeneous doping.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The conversion efficiency of thermoelectric generators that have to be operated under a temperature difference (&#916;&lt;i&gt;T&lt;/i&gt;) is mainly determined by material's dimensionless figure of merit (&lt;i&gt;zT&lt;/i&gt;). However, maximization of &lt;i&gt;zT&lt;/i&gt; at each temperature requires an optimization of carrier concentration (&lt;i&gt;n&lt;/i&gt;
+&lt;sub&gt;opt&lt;/sub&gt;) which strongly depends on the temperature and band parameters. Commonly utilized strategy of chemical doping usually enables a homogeneous carrier concentration throughout the material, leading the maximal &lt;i&gt;zT&lt;/i&gt; to be achievable only within a narrow temperature range. In this work, a gradiently doping is successfully realized in PbTe&lt;sub&gt;1&#8722;x&lt;/sub&gt;I&lt;sub&gt;x&lt;/sub&gt; using a vertical gradient solidification technique, enabling a spatial gradient in carrier concentration that correspondingly optimizes &lt;i&gt;zT&lt;/i&gt; at each portion of the material under its operating temperature. Such a gradient doping results in an extraordinary device efficiency of &#8776;14% at a &#916;&lt;i&gt;T&lt;/i&gt; of &#8776;500&#160;K, corresponding to a &#8776;40% improvement as compared to that of homogeneous doping. Since directional solidification technique commonly enables gradient dopant concentrations in semiconductors, the resultant gradient carrier concentration is illustrated here as an effective approach for advancing thermoelectrics.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jiayu Zhou, 
+Zhiwei Chen, 
+Jun Luo, 
+Wen Li, 
+Yanzhong Pei
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Gradient Doping Enables an Extraordinary Efficiency in Thermoelectric PbTe1&#8722;xIx</dc:title>
+         <dc:identifier>10.1002/adma.202405299</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202405299</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405299</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403164</link>
+         <pubDate>Thu, 30 May 2024 02:08:49 -0700</pubDate>
+         <dc:date>2024-05-30T02:08:49-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202403164</guid>
+         <title>Rapid Surface Reconstruction of In2S3 Photoanode via Flame Treatment for Enhanced Photoelectrochemical Performance</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+A rapid surface reconstruction strategy is proposed to enhance the charge collection efficiency and stability of indium sulfide (In2S3) photoanode via a high&#8208;temperature flame treatment. This method selectively transforms the In2S3 surface into a diffusionless In2O3 and generates bulk sulfur vacancies, resulting in surface&#8208;reconstructed In2S3 (sr&#8208;In2S3). The sr&#8208;In2S3 exhibits an impressive photocurrent density of 8.5 mA cm&#8722;2, outperforming previously reported sulfide&#8208;based photoanodes.
+
+
+
+
+
+
+
+
+Abstract
+Surface reconstruction, reorganizing the surface atoms or structure, is a promising strategy to manipulate materials' electrical, electrochemical, and surface catalytic properties. Herein, a rapid surface reconstruction of indium sulfide (In2S3) is demonstrated via a high&#8208;temperature flame treatment to improve its charge collection properties. The flame process selectively transforms the In2S3 surface into a diffusionless In2O3 layer with high crystallinity. Additionally, it controllably generates bulk sulfur vacancies within a few seconds, leading to surface&#8208;reconstructed In2S3 (sr&#8208;In2S3). When using those sr&#8208;In2S3 as photoanode for photoelectrochemical water splitting devices, these dual functions of surface In2O3/bulk In2S3 reduce the charge recombination in the surface and bulk region, thus improving photocurrent density and stability. With optimized surface reconstruction, the sr&#8208;In2S3 photoanode demonstrates a significant photocurrent density of 8.5&#160;mA cm&#8722;2 at 1.23&#160;V versus a reversible hydrogen electrode (RHE), marking a 2.5&#8208;fold increase compared to pristine In2S3 (3.5&#160;mA cm&#8722;2). More importantly, the sr&#8208;In2S3 photoanode exhibits an impressive photocurrent density of 7.3&#160;mA cm&#8722;2 at 0.6&#160;V versus RHE for iodide oxidation reaction. A practical and scalable surface reconstruction is also showcased via flame treatment. This work provides new insights for surface reconstruction engineering in sulfide&#8208;based semiconductors, making a breakthrough in developing efficient solar&#8208;fuel energy devices.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/2035aaca-fbf5-42e8-9435-4fde42abfe06/adma202403164-gra-0001-m.png"
+     alt="Rapid Surface Reconstruction of In2S3 Photoanode via Flame Treatment for Enhanced Photoelectrochemical Performance"/&gt;
+&lt;p&gt;A rapid surface reconstruction strategy is proposed to enhance the charge collection efficiency and stability of indium sulfide (In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;) photoanode via a high-temperature flame treatment. This method selectively transforms the In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; surface into a diffusionless In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; and generates bulk sulfur vacancies, resulting in surface-reconstructed In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; (sr-In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;). The sr-In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; exhibits an impressive photocurrent density of 8.5 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;, outperforming previously reported sulfide-based photoanodes.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Surface reconstruction, reorganizing the surface atoms or structure, is a promising strategy to manipulate materials' electrical, electrochemical, and surface catalytic properties. Herein, a rapid surface reconstruction of indium sulfide (In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;) is demonstrated via a high-temperature flame treatment to improve its charge collection properties. The flame process selectively transforms the In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; surface into a diffusionless In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; layer with high crystallinity. Additionally, it controllably generates bulk sulfur vacancies within a few seconds, leading to surface-reconstructed In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; (sr-In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;). When using those sr-In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; as photoanode for photoelectrochemical water splitting devices, these dual functions of surface In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt;/bulk In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; reduce the charge recombination in the surface and bulk region, thus improving photocurrent density and stability. With optimized surface reconstruction, the sr-In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; photoanode demonstrates a significant photocurrent density of 8.5&#160;mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; at 1.23&#160;V versus a reversible hydrogen electrode (RHE), marking a 2.5-fold increase compared to pristine In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; (3.5&#160;mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;). More importantly, the sr-In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt; photoanode exhibits an impressive photocurrent density of 7.3&#160;mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt; at 0.6&#160;V versus RHE for iodide oxidation reaction. A practical and scalable surface reconstruction is also showcased via flame treatment. This work provides new insights for surface reconstruction engineering in sulfide-based semiconductors, making a breakthrough in developing efficient solar-fuel energy devices.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Yoo Jae Jeong, 
+Runfa Tan, 
+Seongsik Nam, 
+Jong Ho Lee, 
+Sung Kyu Kim, 
+Tae Gyu Lee, 
+Seong Sik Shin, 
+Xiaolin Zheng, 
+In Sun Cho
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Rapid Surface Reconstruction of In2S3 Photoanode via Flame Treatment for Enhanced Photoelectrochemical Performance</dc:title>
+         <dc:identifier>10.1002/adma.202403164</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202403164</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403164</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402024</link>
+         <pubDate>Thu, 30 May 2024 02:08:48 -0700</pubDate>
+         <dc:date>2024-05-30T02:08:48-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202402024</guid>
+         <title>Thermal Runaway Mechanism in Ni&#8208;Rich Cathode Full Cells of Lithium&#8208;Ion Batteries: The Role of Multidirectional Crosstalk</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+This work addresses the fundamental causes of thermal runaway in lithium&#8208;ion batteries, particularly in LiNi0.88Co0.1Al0.02O2/graphite full cells, a significant challenge for the electric vehicle industry. By employing synchrotron&#8208;based high&#8208;temperature X&#8208;ray diffraction, mass spectrometry, and calorimetry, the intermediates that establish a self&#8208;amplifying positive feedback loop are comprehensively identified through multidirectional crosstalk.
+
+
+
+
+
+
+
+
+Abstract
+Crosstalk, the exchange of chemical species between battery electrodes, significantly accelerates thermal runaway (TR) of lithium&#8208;ion batteries. To date, the understanding of their main mechanisms has centered on single&#8208;directional crosstalk of oxygen (O2) gas from the cathode to the anode, underestimating the exothermic reactions during TR. However, the role of multidirectional crosstalk in steering additional exothermic reactions is yet to be elucidated due to the difficulties of correlative in situ analyses of full cells. Herein, the way in which such crosstalk triggers self&#8208;amplifying feedback is elucidated that dramatically exacerbates TR within enclosed full cells, by employing synchrotron&#8208;based high&#8208;temperature X&#8208;ray diffraction, mass spectrometry, and calorimetry. These findings reveal that ethylene (C2H4) gas generated at the anode promotes O2 evolution at the cathode. This O2 then returns to the anode, further promoting additional C2H4 formation and creating a self&#8208;amplifying loop, thereby intensifying TR. Furthermore, CO2, traditionally viewed as an extinguishing gas, engages in the crosstalk by interacting with lithium at the anode to form Li2CO3, thereby accelerating TR beyond prior expectations. These insights have led to develop an anode coating that impedes the formation of C2H4 and O2, to effectively mitigate TR.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/3e1df032-f9fa-4298-980c-6b00f0723918/adma202402024-gra-0001-m.png"
+     alt="Thermal Runaway Mechanism in Ni-Rich Cathode Full Cells of Lithium-Ion Batteries: The Role of Multidirectional Crosstalk"/&gt;
+&lt;p&gt;This work addresses the fundamental causes of thermal runaway in lithium-ion batteries, particularly in LiNi&lt;sub&gt;0.88&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Al&lt;sub&gt;0.02&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;/graphite full cells, a significant challenge for the electric vehicle industry. By employing synchrotron-based high-temperature X-ray diffraction, mass spectrometry, and calorimetry, the intermediates that establish a self-amplifying positive feedback loop are comprehensively identified through multidirectional crosstalk.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Crosstalk, the exchange of chemical species between battery electrodes, significantly accelerates thermal runaway (TR) of lithium-ion batteries. To date, the understanding of their main mechanisms has centered on single-directional crosstalk of oxygen (O&lt;sub&gt;2&lt;/sub&gt;) gas from the cathode to the anode, underestimating the exothermic reactions during TR. However, the role of multidirectional crosstalk in steering additional exothermic reactions is yet to be elucidated due to the difficulties of correlative in situ analyses of full cells. Herein, the way in which such crosstalk triggers self-amplifying feedback is elucidated that dramatically exacerbates TR within enclosed full cells, by employing synchrotron-based high-temperature X-ray diffraction, mass spectrometry, and calorimetry. These findings reveal that ethylene (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt;) gas generated at the anode promotes O&lt;sub&gt;2&lt;/sub&gt; evolution at the cathode. This O&lt;sub&gt;2&lt;/sub&gt; then returns to the anode, further promoting additional C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; formation and creating a self-amplifying loop, thereby intensifying TR. Furthermore, CO&lt;sub&gt;2&lt;/sub&gt;, traditionally viewed as an extinguishing gas, engages in the crosstalk by interacting with lithium at the anode to form Li&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;3&lt;/sub&gt;, thereby accelerating TR beyond prior expectations. These insights have led to develop an anode coating that impedes the formation of C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; and O&lt;sub&gt;2&lt;/sub&gt;, to effectively mitigate TR.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sugeun Jo, 
+Sungjae Seo, 
+Song Kyu Kang, 
+Ikcheon Na, 
+Sebastian Kunze, 
+Munsoo Song, 
+Hwang San, 
+Sung Pil Woo, 
+SoHee Kim, 
+Won Bae Kim, 
+Jongwoo Lim
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Thermal Runaway Mechanism in Ni&#8208;Rich Cathode Full Cells of Lithium&#8208;Ion Batteries: The Role of Multidirectional Crosstalk</dc:title>
+         <dc:identifier>10.1002/adma.202402024</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202402024</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402024</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403813</link>
+         <pubDate>Thu, 30 May 2024 02:08:42 -0700</pubDate>
+         <dc:date>2024-05-30T02:08:42-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202403813</guid>
+         <title>Metal&#8211;Organic Framework&#8208;Based Antimicrobial Touch Surfaces to Prevent Cross&#8208;Contamination</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+A MOF&#8208;based antimicrobial door handle cover is developed. It completely inhibits the cross&#8208;contamination of Gram&#8208;positive bacterial species (Staphylococcus aureus, and Enterococcus faecalis), Gram&#8208;negative bacterial species (Escherichia coli, Pseudomonas aeruginosa, and Acinetobacter baumannii), and fungi (Candida albicans).
+
+
+
+
+
+
+
+
+Abstract
+Infection diseases are a major threat to global public health, with nosocomial infections being of particular concern. In this context, antimicrobial coatings emerge as a promising prophylactic strategy to reduce the transmission of pathogens and control infections. Here, antimicrobial door handle covers to prevent cross&#8208;contamination are prepared by incorporating iodine&#8208;loaded UiO&#8208;66 microparticles into a potentially biodegradable polyurethane polymer (Baycusan eco E 1000). These covers incorporate MOF particles that serve as both storage reservoirs and delivery systems for the biocidal iodine. Under realistic touching conditions, the door handle covers completely inhibit the transmission of Gram&#8208;positive bacterial species (Staphylococcus aureus, and Enterococcus faecalis), Gram&#8208;negative bacterial species (Escherichia coli, Pseudomonas aeruginosa, and Acinetobacter baumannii), and fungi (Candida albicans). The covers remain effective even after undergoing multiple contamination cycles, after being cleaned, and when tinted to improve discretion and usability. Furthermore, as the release of iodine from the door handle covers follow hindered Fickian diffusion, their antimicrobial lifetime is calculated to be as long as approximately two years. Together, these results demonstrate the potential of these antimicrobial door handle covers to prevent cross&#8208;contamination, and underline the efficacy of integrating MOFs into innovative technologies.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/236cc8dc-a080-4c48-8c77-0f244a60262a/adma202403813-gra-0001-m.png"
+     alt="Metal&#8211;Organic Framework-Based Antimicrobial Touch Surfaces to Prevent Cross-Contamination"/&gt;
+&lt;p&gt;A MOF-based antimicrobial door handle cover is developed. It completely inhibits the cross-contamination of Gram-positive bacterial species (&lt;i&gt;Staphylococcus aureus&lt;/i&gt;, and &lt;i&gt;Enterococcus faecalis&lt;/i&gt;), Gram-negative bacterial species (&lt;i&gt;Escherichia coli&lt;/i&gt;, &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt;, and &lt;i&gt;Acinetobacter baumannii&lt;/i&gt;), and fungi (&lt;i&gt;Candida albicans&lt;/i&gt;).
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Infection diseases are a major threat to global public health, with nosocomial infections being of particular concern. In this context, antimicrobial coatings emerge as a promising prophylactic strategy to reduce the transmission of pathogens and control infections. Here, antimicrobial door handle covers to prevent cross-contamination are prepared by incorporating iodine-loaded UiO-66 microparticles into a potentially biodegradable polyurethane polymer (Baycusan eco E 1000). These covers incorporate MOF particles that serve as both storage reservoirs and delivery systems for the biocidal iodine. Under realistic touching conditions, the door handle covers completely inhibit the transmission of Gram-positive bacterial species (&lt;i&gt;Staphylococcus aureus&lt;/i&gt;, and &lt;i&gt;Enterococcus faecalis&lt;/i&gt;), Gram-negative bacterial species (&lt;i&gt;Escherichia coli&lt;/i&gt;, &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt;, and &lt;i&gt;Acinetobacter baumannii&lt;/i&gt;), and fungi (&lt;i&gt;Candida albicans&lt;/i&gt;). The covers remain effective even after undergoing multiple contamination cycles, after being cleaned, and when tinted to improve discretion and usability. Furthermore, as the release of iodine from the door handle covers follow hindered Fickian diffusion, their antimicrobial lifetime is calculated to be as long as approximately two years. Together, these results demonstrate the potential of these antimicrobial door handle covers to prevent cross-contamination, and underline the efficacy of integrating MOFs into innovative technologies.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Javier Fonseca, 
+Mary Cano&#8208;Sarabia, 
+Pilar Cort&#233;s, 
+Jordi Saldo, 
+David Montpey&#243;, 
+Julia Lorenzo, 
+Montserrat Llagostera, 
+Inhar Imaz, 
+Daniel Maspoch
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Metal&#8211;Organic Framework&#8208;Based Antimicrobial Touch Surfaces to Prevent Cross&#8208;Contamination</dc:title>
+         <dc:identifier>10.1002/adma.202403813</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202403813</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403813</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400658</link>
+         <pubDate>Thu, 30 May 2024 02:08:35 -0700</pubDate>
+         <dc:date>2024-05-30T02:08:35-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202400658</guid>
+         <title>Elevating Charge Transport Layer for Stable Perovskite Light&#8208;Emitting Diodes</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+A unique nanostructure of elevated hole transport layer between the perovskite grains is introduced to effectively inhibit ion migration in perovskite light&#8208;emitting diodes, achieving a record operational half&#8208;lifetime of 256 and 1774 h under current densities of 100 and 20&#160;mA&#160;cm&#8722;2&#65292; respectively.
+
+
+
+
+
+
+
+
+Abstract
+Ion migration is a major factor affecting the long term stability of perovskite light&#8208;emitting diodes (LEDs), which limits their commercialization potential. The accumulation of excess halide ions at the grain boundaries of perovskite films is a primary cause of ion migration in these devices. Here, it is demonstrated that the channels of ion migrations can be effectively impeded by elevating the hole transport layer between the perovskite grain boundaries, resulting in highly stable perovskite LEDs. The unique structure is achieved by reducing the wettability of the perovskites, which prevents infiltration of the upper hole&#8208;transporting layer into the spaces of perovskite grain boundaries. Consequently, nanosized gaps are formed between the excess halide ions and the hole transport layer, effectively suppressing ion migration. With this structure, perovskite LEDs with operational half&#8208;lifetimes of 256 and 1774 h under current densities of 100 and 20&#160;mA&#160;cm&#8722;2 respectively are achieved. These lifetimes surpass those of organic LEDs at high brightness. It is further found that this approach can be extended to various perovskite LEDs, showing great promise for promoting perovskite LEDs toward commercial applications.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/74c551bb-2362-4050-ba17-6eab7e3bd41b/adma202400658-gra-0001-m.png"
+     alt="Elevating Charge Transport Layer for Stable Perovskite Light-Emitting Diodes"/&gt;
+&lt;p&gt;A unique nanostructure of elevated hole transport layer between the perovskite grains is introduced to effectively inhibit ion migration in perovskite light-emitting diodes, achieving a record operational half-lifetime of 256 and 1774 h under current densities of 100 and 20&#160;mA&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt;&#65292; respectively.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ion migration is a major factor affecting the long term stability of perovskite light-emitting diodes (LEDs), which limits their commercialization potential. The accumulation of excess halide ions at the grain boundaries of perovskite films is a primary cause of ion migration in these devices. Here, it is demonstrated that the channels of ion migrations can be effectively impeded by elevating the hole transport layer between the perovskite grain boundaries, resulting in highly stable perovskite LEDs. The unique structure is achieved by reducing the wettability of the perovskites, which prevents infiltration of the upper hole-transporting layer into the spaces of perovskite grain boundaries. Consequently, nanosized gaps are formed between the excess halide ions and the hole transport layer, effectively suppressing ion migration. With this structure, perovskite LEDs with operational half-lifetimes of 256 and 1774 h under current densities of 100 and 20&#160;mA&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt; respectively are achieved. These lifetimes surpass those of organic LEDs at high brightness. It is further found that this approach can be extended to various perovskite LEDs, showing great promise for promoting perovskite LEDs toward commercial applications.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Chang Yi, 
+Airu Wang, 
+Chensi Cao, 
+Zhiyuan Kuang, 
+Xiangru Tao, 
+Zekun Wang, 
+Fuyi Zhou, 
+Guolin Zhang, 
+Ziping Liu, 
+Heyong Huang, 
+Yu Cao, 
+Renzhi Li, 
+Nana Wang, 
+Wei Huang, 
+Jianpu Wang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Elevating Charge Transport Layer for Stable Perovskite Light&#8208;Emitting Diodes</dc:title>
+         <dc:identifier>10.1002/adma.202400658</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202400658</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400658</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
       <item>
          <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402527</link>
          <pubDate>Wed, 29 May 2024 23:57:51 -0700</pubDate>
@@ -3619,54 +4410,6 @@ Christian Serre
          <prism:section>Research Article</prism:section>
       </item>
       <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402739</link>
-         <pubDate>Tue, 28 May 2024 00:34:19 -0700</pubDate>
-         <dc:date>2024-05-28T12:34:19-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202402739</guid>
-         <title>Carbonated Beverage Chemistry for High&#8208;Voltage Battery Cathodes</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-A transformative approach using Cola&#8208;like supersaturated CO2 for interface upgrading is proposed to stabilize 4.8&#160;V polycrystalline LiNi0.8Co0.1Mn0.1O2 cathodes, and it is also generalized to high&#8208;voltage single&#8208;crystal LiCoO2. 4.8 V NCM811 delivers an ultra&#8208;high capacity over 235&#160;mAh&#160;g&#8722;1 and cathode energy over 900 W h kg&#8722;1 and retains &#8776;90% capacity over 100 cycles.
-
-
-
-
-
-
-
-
-Abstract
-Advanced lithium&#8208;ion batteries utilize high upper cut&#8208;off voltages up to 4.8&#160;V versus lithium metal to reach extraordinary energy densities. Such a harsh environment challenges the cathode stability and requires the construction of robust cathode electrolyte interphases at their electrochemical interface. Inspired by carbonated beverages with supersaturated CO2, here, a surface modification strategy that produces effective passivation layer of low modulus from the weakest link, is proposed CO2 bubbles preferentially nucleate and grow at rough surfaces, which in oxide cathodes, are also the local regions offering fast degradation pathway. Metal ion exchange on carbonated layer assists the construction of highly elastic interface under the guidance of packing factor. This method enables surface reconstruction at both primary and secondary particle levels for various cathodes exemplified by high&#8208;voltage LiNi0.8Co0.1Mn0.1O2 (NCM811) and LiCoO2 (LCO). Remarkably, with ultra&#8208;high upper cut&#8208;off voltage of 4.8&#160;V versus Li+/Li, over 235 mAh g&#8722;1 discharge capacity, and over 900&#160;W h kg&#8722;1 discharge energy at cathode level, &#8776;90% capacity retention can be obtained for LiNi0.8Co0.1Mn0.1O2 over 100 cycles at 0.5 C with commercial carbonate electrolytes. This carbonated beverage chemistry is promising for constructing high&#8208;quality surface passivation in many extreme&#8208;condition applications beyond battery cathodes.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ebb1cf0c-ba29-40ea-9c30-852ba5a1582a/adma202402739-gra-0001-m.png"
-     alt="Carbonated Beverage Chemistry for High-Voltage Battery Cathodes"/&gt;
-&lt;p&gt;A transformative approach using Cola-like supersaturated CO&lt;sub&gt;2&lt;/sub&gt; for interface upgrading is proposed to stabilize 4.8&#160;V polycrystalline LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; cathodes, and it is also generalized to high-voltage single-crystal LiCoO&lt;sub&gt;2&lt;/sub&gt;. 4.8 V NCM811 delivers an ultra-high capacity over 235&#160;mAh&#160;g&lt;sup&gt;&#8722;1&lt;/sup&gt; and cathode energy over 900 W h kg&lt;sup&gt;&#8722;1&lt;/sup&gt; and retains &#8776;90% capacity over 100 cycles.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Advanced lithium-ion batteries utilize high upper cut-off voltages up to 4.8&#160;V versus lithium metal to reach extraordinary energy densities. Such a harsh environment challenges the cathode stability and requires the construction of robust cathode electrolyte interphases at their electrochemical interface. Inspired by carbonated beverages with supersaturated CO&lt;sub&gt;2&lt;/sub&gt;, here, a surface modification strategy that produces effective passivation layer of low modulus from the weakest link, is proposed CO&lt;sub&gt;2&lt;/sub&gt; bubbles preferentially nucleate and grow at rough surfaces, which in oxide cathodes, are also the local regions offering fast degradation pathway. Metal ion exchange on carbonated layer assists the construction of highly elastic interface under the guidance of packing factor. This method enables surface reconstruction at both primary and secondary particle levels for various cathodes exemplified by high-voltage LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; (NCM811) and LiCoO&lt;sub&gt;2&lt;/sub&gt; (LCO). Remarkably, with ultra-high upper cut-off voltage of 4.8&#160;V versus Li&lt;sup&gt;+&lt;/sup&gt;/Li, over 235 mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; discharge capacity, and over 900&#160;W h kg&lt;sup&gt;&#8722;1&lt;/sup&gt; discharge energy at cathode level, &#8776;90% capacity retention can be obtained for LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; over 100 cycles at 0.5 C with commercial carbonate electrolytes. This carbonated beverage chemistry is promising for constructing high-quality surface passivation in many extreme-condition applications beyond battery cathodes.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Hengyi Liao, 
-Mingzhi Cai, 
-Wenqin Ma, 
-Yuge Cao, 
-Siwei Zhao, 
-Yanhao Dong, 
-Fuqiang Huang
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Carbonated Beverage Chemistry for High&#8208;Voltage Battery Cathodes</dc:title>
-         <dc:identifier>10.1002/adma.202402739</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202402739</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402739</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
          <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404553</link>
          <pubDate>Tue, 28 May 2024 00:30:14 -0700</pubDate>
          <dc:date>2024-05-28T12:30:14-07:00</dc:date>
@@ -3716,6 +4459,54 @@ Leslie M. Schoop
          <prism:publicationName>Advanced Materials</prism:publicationName>
          <prism:doi>10.1002/adma.202404553</prism:doi>
          <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404553</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402739</link>
+         <pubDate>Tue, 28 May 2024 00:00:00 -0700</pubDate>
+         <dc:date>2024-05-28T12:00:00-07:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202402739</guid>
+         <title>Carbonated Beverage Chemistry for High&#8208;Voltage Battery Cathodes</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+A transformative approach using Cola&#8208;like supersaturated CO2 for interface upgrading is proposed to stabilize 4.8&#160;V polycrystalline LiNi0.8Co0.1Mn0.1O2 cathodes, and it is also generalized to high&#8208;voltage single&#8208;crystal LiCoO2. 4.8 V NCM811 delivers an ultra&#8208;high capacity over 235&#160;mAh&#160;g&#8722;1 and cathode energy over 900 W h kg&#8722;1 and retains &#8776;90% capacity over 100 cycles.
+
+
+
+
+
+
+
+
+Abstract
+Advanced lithium&#8208;ion batteries utilize high upper cut&#8208;off voltages up to 4.8&#160;V versus lithium metal to reach extraordinary energy densities. Such a harsh environment challenges the cathode stability and requires the construction of robust cathode electrolyte interphases at their electrochemical interface. Inspired by carbonated beverages with supersaturated CO2, here, a surface modification strategy that produces effective passivation layer of low modulus from the weakest link, is proposed CO2 bubbles preferentially nucleate and grow at rough surfaces, which in oxide cathodes, are also the local regions offering fast degradation pathway. Metal ion exchange on carbonated layer assists the construction of highly elastic interface under the guidance of packing factor. This method enables surface reconstruction at both primary and secondary particle levels for various cathodes exemplified by high&#8208;voltage LiNi0.8Co0.1Mn0.1O2 (NCM811) and LiCoO2 (LCO). Remarkably, with ultra&#8208;high upper cut&#8208;off voltage of 4.8&#160;V versus Li+/Li, over 235 mAh g&#8722;1 discharge capacity, and over 900&#160;W h kg&#8722;1 discharge energy at cathode level, &#8776;90% capacity retention can be obtained for LiNi0.8Co0.1Mn0.1O2 over 100 cycles at 0.5 C with commercial carbonate electrolytes. This carbonated beverage chemistry is promising for constructing high&#8208;quality surface passivation in many extreme&#8208;condition applications beyond battery cathodes.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4332e97f-a6cb-400a-b7ac-bb059e9c4409/adma202402739-gra-0001-m.png"
+     alt="Carbonated Beverage Chemistry for High-Voltage Battery Cathodes"/&gt;
+&lt;p&gt;A transformative approach using Cola-like supersaturated CO&lt;sub&gt;2&lt;/sub&gt; for interface upgrading is proposed to stabilize 4.8&#160;V polycrystalline LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; cathodes, and it is also generalized to high-voltage single-crystal LiCoO&lt;sub&gt;2&lt;/sub&gt;. 4.8 V NCM811 delivers an ultra-high capacity over 235&#160;mAh&#160;g&lt;sup&gt;&#8722;1&lt;/sup&gt; and cathode energy over 900 W h kg&lt;sup&gt;&#8722;1&lt;/sup&gt; and retains &#8776;90% capacity over 100 cycles.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Advanced lithium-ion batteries utilize high upper cut-off voltages up to 4.8&#160;V versus lithium metal to reach extraordinary energy densities. Such a harsh environment challenges the cathode stability and requires the construction of robust cathode electrolyte interphases at their electrochemical interface. Inspired by carbonated beverages with supersaturated CO&lt;sub&gt;2&lt;/sub&gt;, here, a surface modification strategy that produces effective passivation layer of low modulus from the weakest link, is proposed CO&lt;sub&gt;2&lt;/sub&gt; bubbles preferentially nucleate and grow at rough surfaces, which in oxide cathodes, are also the local regions offering fast degradation pathway. Metal ion exchange on carbonated layer assists the construction of highly elastic interface under the guidance of packing factor. This method enables surface reconstruction at both primary and secondary particle levels for various cathodes exemplified by high-voltage LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; (NCM811) and LiCoO&lt;sub&gt;2&lt;/sub&gt; (LCO). Remarkably, with ultra-high upper cut-off voltage of 4.8&#160;V versus Li&lt;sup&gt;+&lt;/sup&gt;/Li, over 235 mAh g&lt;sup&gt;&#8722;1&lt;/sup&gt; discharge capacity, and over 900&#160;W h kg&lt;sup&gt;&#8722;1&lt;/sup&gt; discharge energy at cathode level, &#8776;90% capacity retention can be obtained for LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; over 100 cycles at 0.5 C with commercial carbonate electrolytes. This carbonated beverage chemistry is promising for constructing high-quality surface passivation in many extreme-condition applications beyond battery cathodes.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Hengyi Liao, 
+Mingzhi Cai, 
+Wenqin Ma, 
+Yuge Cao, 
+Siwei Zhao, 
+Yanhao Dong, 
+Fuqiang Huang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Carbonated Beverage Chemistry for High&#8208;Voltage Battery Cathodes</dc:title>
+         <dc:identifier>10.1002/adma.202402739</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202402739</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402739</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
@@ -5661,54 +6452,6 @@ Al&#225;n Aspuru&#8208;Guzik
          <prism:doi>10.1002/adma.202402369</prism:doi>
          <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402369</prism:url>
          <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202406359</link>
-         <pubDate>Sat, 25 May 2024 00:05:39 -0700</pubDate>
-         <dc:date>2024-05-25T12:05:39-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202406359</guid>
-         <title>Dipole Moment Influences the Reversibility and Corrosion of Lithium Metal Anodes</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-The dipole moment influences the distribution and orientation of solvent molecules in the electric double layer on lithium metal surface. And these parameters have significant impacts on lithium metal reversibility and corrosion. Solvents with high dipole moments are more likely to adsorb onto lithium metal surfaces, which also influence the solid electrolyte interphase.
-
-
-
-
-
-
-
-
-Abstract
-Lithium metal batteries (LMBs) must have both long cycle life and calendar life to be commercially viable. However, &#8220;trial and error&#8221; methodologies remain prevalent in contemporary research endeavors to identify favorable electrolytes. Here, a guiding principle for the selection of solvents for LMBs is proposed, which aims to achieve high Coulombic efficiency while minimizing the corrosion. For the first time, this study reveals that the dipole moment and orientation of solvent molecules have significant impacts on lithium metal reversibility and corrosion. Solvents with high dipole moments are more likely to adsorb onto lithium metal surfaces, which also influence the solid electrolyte interphase. Using this principle, the use of LiNO3 is demonstrated as the sole salt in LiNi0.8Co0.1Mn0.1O2/Li cells can achieve excellent cycling stability. Overall, this work bridges the molecular structure of solvents to the reversibility and corrosion of lithium metal, and these concepts can be extended to other metal&#8208;based batteries.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/2b06ff83-e018-440a-981f-9534efe53fef/adma202406359-gra-0001-m.png"
-     alt="Dipole Moment Influences the Reversibility and Corrosion of Lithium Metal Anodes"/&gt;
-&lt;p&gt;The dipole moment influences the distribution and orientation of solvent molecules in the electric double layer on lithium metal surface. And these parameters have significant impacts on lithium metal reversibility and corrosion. Solvents with high dipole moments are more likely to adsorb onto lithium metal surfaces, which also influence the solid electrolyte interphase.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Lithium metal batteries (LMBs) must have both long cycle life and calendar life to be commercially viable. However, &#8220;trial and error&#8221; methodologies remain prevalent in contemporary research endeavors to identify favorable electrolytes. Here, a guiding principle for the selection of solvents for LMBs is proposed, which aims to achieve high Coulombic efficiency while minimizing the corrosion. For the first time, this study reveals that the dipole moment and orientation of solvent molecules have significant impacts on lithium metal reversibility and corrosion. Solvents with high dipole moments are more likely to adsorb onto lithium metal surfaces, which also influence the solid electrolyte interphase. Using this principle, the use of LiNO&lt;sub&gt;3&lt;/sub&gt; is demonstrated as the sole salt in LiNi&lt;sub&gt;0.8&lt;/sub&gt;Co&lt;sub&gt;0.1&lt;/sub&gt;Mn&lt;sub&gt;0.1&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;/Li cells can achieve excellent cycling stability. Overall, this work bridges the molecular structure of solvents to the reversibility and corrosion of lithium metal, and these concepts can be extended to other metal-based batteries.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Peng&#8208;Cheng Li, 
-Zhi&#8208;Qing Zhang, 
-Zi&#8208;Wei Zhao, 
-Jing&#8208;Qiao Li, 
-Zhi&#8208;Xiao Xu, 
-Hao Zhang, 
-Ge Li
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Dipole Moment Influences the Reversibility and Corrosion of Lithium Metal Anodes</dc:title>
-         <dc:identifier>10.1002/adma.202406359</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202406359</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202406359</prism:url>
-         <prism:section>Research Article</prism:section>
       </item>
       <item>
          <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400572</link>
@@ -11641,90 +12384,6 @@ Dun Zhang
          <prism:section>Research Article</prism:section>
       </item>
       <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400658</link>
-         <pubDate>Thu, 23 May 2024 17:28:26 -0700</pubDate>
-         <dc:date>2024-05-23T05:28:26-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202400658</guid>
-         <title>Elevating Charge Transport Layer for Stable Perovskite Light&#8208;Emitting Diodes</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Ion migration is a major factor affecting the long term stability of perovskite light&#8208;emitting diodes (LEDs), which limits their commercialization potential. The accumulation of excess halide ions at the grain boundaries of perovskite films is a primary cause of ion migration in these devices. Here, we demonstrate that the channels of ion migrations can be effectively impeded by elevating the hole transport layer between the perovskite grain boundaries, resulting in highly stable perovskite LEDs. The unique structure is achieved by reducing the wettability of the perovskites, which prevents infiltration of the upper hole&#8208;transporting layer into the spaces of perovskite grain boundaries. Consequently, nanosized gaps are formed between the excess halide ions and the hole transport layer, effectively suppressing ion migration. With this structure, we achieve perovskite LEDs with operational half&#8208;lifetimes of 256 and 1774 hours under current densities of 100 and 20&#160;mA&#160;cm&#8722;2 respectively. These lifetimes surpass those of organic LEDs at high brightness. We further find that this approach can be extended to various perovskite&#8208;based light&#8208;emitting diodes, showing great promise for promoting perovskite LEDs toward commercial applications.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Ion migration is a major factor affecting the long term stability of perovskite light-emitting diodes (LEDs), which limits their commercialization potential. The accumulation of excess halide ions at the grain boundaries of perovskite films is a primary cause of ion migration in these devices. Here, we demonstrate that the channels of ion migrations can be effectively impeded by elevating the hole transport layer between the perovskite grain boundaries, resulting in highly stable perovskite LEDs. The unique structure is achieved by reducing the wettability of the perovskites, which prevents infiltration of the upper hole-transporting layer into the spaces of perovskite grain boundaries. Consequently, nanosized gaps are formed between the excess halide ions and the hole transport layer, effectively suppressing ion migration. With this structure, we achieve perovskite LEDs with operational half-lifetimes of 256 and 1774 hours under current densities of 100 and 20&#160;mA&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt; respectively. These lifetimes surpass those of organic LEDs at high brightness. We further find that this approach can be extended to various perovskite-based light-emitting diodes, showing great promise for promoting perovskite LEDs toward commercial applications.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Chang Yi, 
-Airu Wang, 
-Chensi Cao, 
-Zhiyuan Kuang, 
-Xiangru Tao, 
-Zekun Wang, 
-Fuyi Zhou, 
-Guolin Zhang, 
-Ziping Liu, 
-Heyong Huang, 
-Yu Cao, 
-Renzhi Li, 
-Nana Wang, 
-Wei Huang, 
-Jianpu Wang
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Elevating Charge Transport Layer for Stable Perovskite Light&#8208;Emitting Diodes</dc:title>
-         <dc:identifier>10.1002/adma.202400658</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202400658</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400658</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405299</link>
-         <pubDate>Thu, 23 May 2024 16:30:25 -0700</pubDate>
-         <dc:date>2024-05-23T04:30:25-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202405299</guid>
-         <title>Gradient Dopzing enables an Extraordinary Efficiency in Thermoelectric PbTe1&#8208;xIx</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-The conversion efficiency of thermoelectric generators that have to be operated under a temperature difference (&#916;T), is mainly determined by material's dimensionless figure of merit (zT). However, maximization of zT at each temperature requires an optimization of carrier concentration (nopt) which strongly depends on the temperature and band parameters. Commonly utilized strategy of chemical doping usually enables a homogeneous carrier concentration throughout the material, leading the maximal zT to be achievable only within a narrow temperature range. In this work, a gradiently doping is successfully realized in PbTe1&#8208;xIx using a vertical gradient solidification technique, enabling a spatial gradient in carrier concentration that correspondingly optimizes zT at each portion of the material under its operating temperature. Such a gradient doping results in an extraordinary device efficiency of &#8764;14% at a &#916;T of &#8764;500 K, corresponding to a &#8764;40% improvement as compared to that of homogeneous doping. Since directional solidification technique commonly enables gradient dopant concentrations in semiconductors, the resultant gradient carrier concentration is illustrated here as an effective approach for advancing thermoelectrics.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;The conversion efficiency of thermoelectric generators that have to be operated under a temperature difference (&#916;&lt;i&gt;T&lt;/i&gt;), is mainly determined by material's dimensionless figure of merit (&lt;i&gt;zT&lt;/i&gt;). However, maximization of &lt;i&gt;zT&lt;/i&gt; at each temperature requires an optimization of carrier concentration (&lt;i&gt;n&lt;/i&gt;
-&lt;sub&gt;opt&lt;/sub&gt;) which strongly depends on the temperature and band parameters. Commonly utilized strategy of chemical doping usually enables a homogeneous carrier concentration throughout the material, leading the maximal &lt;i&gt;zT&lt;/i&gt; to be achievable only within a narrow temperature range. In this work, a gradiently doping is successfully realized in PbTe&lt;sub&gt;1-&lt;/sub&gt;
-&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt;I&lt;i&gt;
-   &lt;sub&gt;x&lt;/sub&gt;
-&lt;/i&gt; using a vertical gradient solidification technique, enabling a spatial gradient in carrier concentration that correspondingly optimizes &lt;i&gt;zT&lt;/i&gt; at each portion of the material under its operating temperature. Such a gradient doping results in an extraordinary device efficiency of &#8764;14% at a &#916;&lt;i&gt;T&lt;/i&gt; of &#8764;500 K, corresponding to a &#8764;40% improvement as compared to that of homogeneous doping. Since directional solidification technique commonly enables gradient dopant concentrations in semiconductors, the resultant gradient carrier concentration is illustrated here as an effective approach for advancing thermoelectrics.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Jiayu Zhou, 
-Zhiwei Chen, 
-Jun Luo, 
-Wen Li, 
-Yanzhong Pei
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Gradient Dopzing enables an Extraordinary Efficiency in Thermoelectric PbTe1&#8208;xIx</dc:title>
-         <dc:identifier>10.1002/adma.202405299</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202405299</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405299</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
          <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403061</link>
          <pubDate>Thu, 23 May 2024 16:26:05 -0700</pubDate>
          <dc:date>2024-05-23T04:26:05-07:00</dc:date>
@@ -11912,645 +12571,6 @@ Bartlomiej Graczykowski
          <prism:publicationName>Advanced Materials</prism:publicationName>
          <prism:doi>10.1002/adma.202403114</prism:doi>
          <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403114</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403791</link>
-         <pubDate>Thu, 23 May 2024 06:39:05 -0700</pubDate>
-         <dc:date>2024-05-23T06:39:05-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202403791</guid>
-         <title>Multi&#8208;interface Engineering of MXenes for Self&#8208;Powered Wearable Devices</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Self&#8208;powered wearable devices with integrated energy supply module and sensitive sensors have significantly blossomed for continuous monitoring of human activity and the surrounding environment in healthcare sectors. The emerging of MXene&#8208;based materials has brought research upsurge in the fields of energy and electronics, owing to their excellent electrochemical performance, large surface area, superior mechanical performance, and tuneable interfacial properties, where their performance can be further boosted via multi&#8208;interface engineering. Herein, a comprehensive review of recent progress in MXenes for self&#8208;powered wearable devices is discussed from the aspects of multi&#8208;interface engineering. The fundamental properties of MXenes including electronic, mechanical, optical, and thermal characteristics are discussed in detail. Different from previous review works on MXenes, multi&#8208;interface engineering of MXenes from termination regulation to surface modification and their impact on the performance of materials and energy storage/conversion devices are summarized. Based on the interfacial manipulation strategies, potential applications of MXene&#8208;based self&#8208;powered wearable devices are outlined. Finally, proposals and perspectives are provided on the current challenges and future directions in MXene&#8208;based self&#8208;powered wearable devices.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Self-powered wearable devices with integrated energy supply module and sensitive sensors have significantly blossomed for continuous monitoring of human activity and the surrounding environment in healthcare sectors. The emerging of MXene-based materials has brought research upsurge in the fields of energy and electronics, owing to their excellent electrochemical performance, large surface area, superior mechanical performance, and tuneable interfacial properties, where their performance can be further boosted via multi-interface engineering. Herein, a comprehensive review of recent progress in MXenes for self-powered wearable devices is discussed from the aspects of multi-interface engineering. The fundamental properties of MXenes including electronic, mechanical, optical, and thermal characteristics are discussed in detail. Different from previous review works on MXenes, multi-interface engineering of MXenes from termination regulation to surface modification and their impact on the performance of materials and energy storage/conversion devices are summarized. Based on the interfacial manipulation strategies, potential applications of MXene-based self-powered wearable devices are outlined. Finally, proposals and perspectives are provided on the current challenges and future directions in MXene-based self-powered wearable devices.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Chao Liu, 
-Ziheng Feng, 
-Tao Yin, 
-Tao Wan, 
-Peiyuan Guan, 
-Mengyao Li, 
-Long Hu, 
-Chun&#8208;Ho Lin, 
-Zhaojun Han, 
-Haolan Xu, 
-Wenlong Chen, 
-Tom Wu, 
-Guozhen Liu, 
-Yang Zhou, 
-Shuhua Peng, 
-Chun Wang, 
-Dewei Chu
-</dc:creator>
-         <category>Review</category>
-         <dc:title>Multi&#8208;interface Engineering of MXenes for Self&#8208;Powered Wearable Devices</dc:title>
-         <dc:identifier>10.1002/adma.202403791</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202403791</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403791</prism:url>
-         <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202314004</link>
-         <pubDate>Thu, 23 May 2024 06:15:10 -0700</pubDate>
-         <dc:date>2024-05-23T06:15:10-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202314004</guid>
-         <title>Tunable and Reversible Adhesive of Liquid Metal Ferrofluid Pillars for Magnetically Actuated Noncontact Transfer Printing</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-Novel tunable liquid metal ferrofluid pillars enable efficient magnetically actuated noncontact transfer printing, with gentle contact force and shape adaptability. Rapid stiffness increase and shape change generate an ejection force for receiver&#8208;independent printing, ensuring reliable, damage&#8208;free pickup.
-
-
-
-
-
-
-
-
-Abstract
-Transfer printing techniques based on tunable and reversible adhesives enable the heterogeneous integration of materials in desired layouts and are essential for developing both existing and envisioned electronic systems. Here, a novel tunable and reversible adhesive of liquid metal ferrofluid pillars for developing an efficient magnetically actuated noncontact transfer printing is reported. The liquid metal ferrofluid pillars offer the appealing advantages of gentle contact force by minimizing the preload effect and exceptional shape adaptability by maximizing the interfacial contact area due to their inherent fluidity, thus enabling a reliable damage&#8208;free pickup. Moreover, the liquid metal ferrofluid pillars harness the rapid stiffness increase and shape change with the magnetic field, generating an instantaneous ejection force to achieve a receiver&#8208;independent noncontact printing. Demonstrations of the adhesive of liquid metal ferrofluid pillars in transfer printing of diverse objects with different shapes, materials and dimensions onto various substrates illustrate its great potential in deterministic assembly.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e6e364f9-e3d8-4bfc-b2df-f81fd6cabb42/adma202314004-gra-0001-m.png"
-     alt="Tunable and Reversible Adhesive of Liquid Metal Ferrofluid Pillars for Magnetically Actuated Noncontact Transfer Printing"/&gt;
-&lt;p&gt;Novel tunable liquid metal ferrofluid pillars enable efficient magnetically actuated noncontact transfer printing, with gentle contact force and shape adaptability. Rapid stiffness increase and shape change generate an ejection force for receiver-independent printing, ensuring reliable, damage-free pickup.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Transfer printing techniques based on tunable and reversible adhesives enable the heterogeneous integration of materials in desired layouts and are essential for developing both existing and envisioned electronic systems. Here, a novel tunable and reversible adhesive of liquid metal ferrofluid pillars for developing an efficient magnetically actuated noncontact transfer printing is reported. The liquid metal ferrofluid pillars offer the appealing advantages of gentle contact force by minimizing the preload effect and exceptional shape adaptability by maximizing the interfacial contact area due to their inherent fluidity, thus enabling a reliable damage-free pickup. Moreover, the liquid metal ferrofluid pillars harness the rapid stiffness increase and shape change with the magnetic field, generating an instantaneous ejection force to achieve a receiver-independent noncontact printing. Demonstrations of the adhesive of liquid metal ferrofluid pillars in transfer printing of diverse objects with different shapes, materials and dimensions onto various substrates illustrate its great potential in deterministic assembly.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Jing Jiang, 
-Chenglong Li, 
-Chenhong Chen, 
-Chuanqian Shi, 
-Jizhou Song
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Tunable and Reversible Adhesive of Liquid Metal Ferrofluid Pillars for Magnetically Actuated Noncontact Transfer Printing</dc:title>
-         <dc:identifier>10.1002/adma.202314004</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202314004</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202314004</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400241</link>
-         <pubDate>Thu, 23 May 2024 05:15:12 -0700</pubDate>
-         <dc:date>2024-05-23T05:15:12-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202400241</guid>
-         <title>Self&#8208;Amputating and Interfusing Machines</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Biological organisms exhibit phenomenal adaptation through morphology&#8208;shifting mechanisms including self&#8208;amputation, regeneration, and collective behavior. For example, reptiles, crustaceans, and insects amputate their own appendages in response to threats. Temporary fusion between individuals enables collective behaviors, such as in ants that temporarily fuse to build bridges. The concept of morphological editing, involving the addition and subtraction of mass can be linked to modular robotics, wherein synthetic body morphology may be revised by rearranging parts. In this work, we&#160; introduce a reversible cohesive interface made of thermoplastic elastomer that allows for strong attachment and easy detachment of distributed soft robot modules without direct human handling. The reversible joint boasts a modulus similar to materials commonly used in soft robotics, and can thus be distributed throughout soft robot bodies without introducing mechanical incongruities. To demonstrate utility, we&#160; exploit the reversible joint in two embodiments: a soft quadruped robot that self&#8208;amputates a limb when stuck, and a cluster of three soft&#8208;crawling robots that fuse to cross a land&#8208;gap. This work points toward future robots capable of radical shape&#8208;shifting via changes in mass through autotomy and interfusion, as well as highlighting the crucial role that interfacial stiffness change plays in autotomizable biological and artificial systems.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Biological organisms exhibit phenomenal adaptation through morphology-shifting mechanisms including self-amputation, regeneration, and collective behavior. For example, reptiles, crustaceans, and insects amputate their own appendages in response to threats. Temporary fusion between individuals enables collective behaviors, such as in ants that temporarily fuse to build bridges. The concept of morphological editing, involving the addition and subtraction of mass can be linked to modular robotics, wherein synthetic body morphology may be revised by rearranging parts. In this work, we&#160; introduce a reversible cohesive interface made of thermoplastic elastomer that allows for strong attachment and easy detachment of distributed soft robot modules without direct human handling. The reversible joint boasts a modulus similar to materials commonly used in soft robotics, and can thus be distributed throughout soft robot bodies without introducing mechanical incongruities. To demonstrate utility, we&#160; exploit the reversible joint in two embodiments: a soft quadruped robot that self-amputates a limb when stuck, and a cluster of three soft-crawling robots that fuse to cross a land-gap. This work points toward future robots capable of radical shape-shifting via changes in mass through autotomy and interfusion, as well as highlighting the crucial role that interfacial stiffness change plays in autotomizable biological and artificial systems.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Bilige Yang, 
-Amir Mohammadi Nasab, 
-Stephanie Woodman, 
-Eugene Thomas, 
-Liana Tilton, 
-Michael Levin, 
-Rebecca Kramer&#8208;Bottiglio
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Self&#8208;Amputating and Interfusing Machines</dc:title>
-         <dc:identifier>10.1002/adma.202400241</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202400241</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202400241</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403766</link>
-         <pubDate>Thu, 23 May 2024 05:08:45 -0700</pubDate>
-         <dc:date>2024-05-23T05:08:45-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202403766</guid>
-         <title>Bioinspired Mechanochromic Liquid Crystal Materials: from Fundamentals to Functionalities and Applications</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Inspired by intriguing color changeable ability of natural animals, the design and fabrication of artificial mechanochromic materials capable of changing colors upon stretching or pressing have attracted intense scientific interest. Liquid crystal (LC) is a self&#8208;organized soft matter with anisotropic molecular alignment. Due to the sensitivity to various external stimulations, LC has been considered as an emerging and appealing responsive building block to construct intelligent materials and advanced devices. Recently, mechanochromic LC materials have becoming a hot topic in multi fields from flexible artificial skins to visualized sensors and smart biomimetic devices. In this review, the recent progress of mechanochromic LCs is comprehensively summarized. Firstly, the mechanism and functionalities of mechanochromic LC is introduced, followed by preparation of various functional materials based on mechanochromic LCs. Then the applications of mechanochromic LCs are provided. Finally, the conclusion and outlooks of this field is given. This overview is hoped to provide inspiration in fabrication of advanced functional soft materials for scientists and engineers from multidisciplines including materials science, elastomers, chemistry and physical science.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Inspired by intriguing color changeable ability of natural animals, the design and fabrication of artificial mechanochromic materials capable of changing colors upon stretching or pressing have attracted intense scientific interest. Liquid crystal (LC) is a self-organized soft matter with anisotropic molecular alignment. Due to the sensitivity to various external stimulations, LC has been considered as an emerging and appealing responsive building block to construct intelligent materials and advanced devices. Recently, mechanochromic LC materials have becoming a hot topic in multi fields from flexible artificial skins to visualized sensors and smart biomimetic devices. In this review, the recent progress of mechanochromic LCs is comprehensively summarized. Firstly, the mechanism and functionalities of mechanochromic LC is introduced, followed by preparation of various functional materials based on mechanochromic LCs. Then the applications of mechanochromic LCs are provided. Finally, the conclusion and outlooks of this field is given. This overview is hoped to provide inspiration in fabrication of advanced functional soft materials for scientists and engineers from multidisciplines including materials science, elastomers, chemistry and physical science.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Xinyu Chen, 
-Jingyu Chen, 
-Xinyue Song, 
-Tongji Du, 
-Xinrui Deng, 
-Zhaoping Deng, 
-Xiang&#8208;Guo Hu, 
-Xingping Zeng, 
-Zhen Yang, 
-Huai Yang, 
-Ruochen Lan
-</dc:creator>
-         <category>Review</category>
-         <dc:title>Bioinspired Mechanochromic Liquid Crystal Materials: from Fundamentals to Functionalities and Applications</dc:title>
-         <dc:identifier>10.1002/adma.202403766</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202403766</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403766</prism:url>
-         <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403071</link>
-         <pubDate>Thu, 23 May 2024 03:14:09 -0700</pubDate>
-         <dc:date>2024-05-23T03:14:09-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202403071</guid>
-         <title>Information Density Enhancement Using Lossy Compression in DNA Data Storage</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-This study develops two DNA lossy compression models, Models A and B, to encode grayscale images into DNA sequences, enhance information density, and enable high&#8208;fidelity image recovery. These models, distinguished by their handling of pixel domains and interpolation methods, offer a novel approach to data storage for DNA. Model A processes pixels in overlapped domains using linear interpolation, whereas Model B uses non&#8208;overlapped domains with nearest&#8208;neighbor interpolation. Through a comparative analysis with JPEG compression, the DNA lossy compression models demonstrated competitive advantages in terms of information density and image quality restoration. The application of these models to the MNIST dataset reveals their efficiency and the recognizability of decompressed images, which is validated by convolutional neural network performance. In particular, Model B2, a version of Model B, emerges as an effective method for balancing high information density (surpassing over 20 times the typical densities of 2 bits per nucleotide) with reasonably good image quality. These findings highlight the potential of DNA&#8208;based data storage systems for high&#8208;density and efficient compression, indicating a promising future for biological data storage solutions.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;This study develops two DNA lossy compression models, Models A and B, to encode grayscale images into DNA sequences, enhance information density, and enable high-fidelity image recovery. These models, distinguished by their handling of pixel domains and interpolation methods, offer a novel approach to data storage for DNA. Model A processes pixels in overlapped domains using linear interpolation, whereas Model B uses non-overlapped domains with nearest-neighbor interpolation. Through a comparative analysis with JPEG compression, the DNA lossy compression models demonstrated competitive advantages in terms of information density and image quality restoration. The application of these models to the MNIST dataset reveals their efficiency and the recognizability of decompressed images, which is validated by convolutional neural network performance. In particular, Model B2, a version of Model B, emerges as an effective method for balancing high information density (surpassing over 20 times the typical densities of 2 bits per nucleotide) with reasonably good image quality. These findings highlight the potential of DNA-based data storage systems for high-density and efficient compression, indicating a promising future for biological data storage solutions.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Seongjun Seo, 
-Anshula Tandon, 
-Keun Woo Lee, 
-Jee&#8208;Hyong Lee, 
-Sung Ha Park
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Information Density Enhancement Using Lossy Compression in DNA Data Storage</dc:title>
-         <dc:identifier>10.1002/adma.202403071</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202403071</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403071</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202314341</link>
-         <pubDate>Thu, 23 May 2024 02:38:12 -0700</pubDate>
-         <dc:date>2024-05-23T02:38:12-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202314341</guid>
-         <title>Advances in Mixed Tin&#8208;Lead Narrow&#8208;Bandgap Perovskites for Single&#8208;Junction and All&#8208;Perovskite Tandem Solar Cells</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Organic&#8208;inorganic metal&#8208;halide perovskites have received great attention for photovoltaic (PV) applications owing to their superior optoelectronic properties and the unprecedented performance development. For single&#8208;junction PV devices, although lead (Pb)&#8208;based perovskite solar cells (PSCs) have achieved 26.1% efficiency, the mixed tin&#8208;lead (Sn&#8208;Pb) perovskites offer more ideal bandgap tuning capability to enable an even higher performance. The Sn&#8208;Pb perovskite (with a bandgap tuned to approximately 1.2&#160;eV) is also attractive as the bottom subcell for a tandem configuration to further surpass the Shockley&#8211;Queisser radiative limit for the single&#8208;junction devices. The performance of the all&#8208;perovskite tandem solar cells has gained rapid development and achieved a certified efficiency up to 29.1%. In this article, we review the properties and recent development of state&#8208;of&#8208;the&#8208;art mixed Sn&#8208;Pb perovskites and their application in single&#8208;junction and all&#8208;perovskite tandem solar cells. We highlight recent advances in various approaches covering additives, solvents, interfaces, and perovskite growth. We also provide our perspective and outlook on the challenges and strategies for further development of mixed Sn&#8208;Pb perovskites in both efficiency and stability for PV applications.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Organic-inorganic metal-halide perovskites have received great attention for photovoltaic (PV) applications owing to their superior optoelectronic properties and the unprecedented performance development. For single-junction PV devices, although lead (Pb)-based perovskite solar cells (PSCs) have achieved 26.1% efficiency, the mixed tin-lead (Sn-Pb) perovskites offer more ideal bandgap tuning capability to enable an even higher performance. The Sn-Pb perovskite (with a bandgap tuned to approximately 1.2&#160;eV) is also attractive as the bottom subcell for a tandem configuration to further surpass the Shockley&#8211;Queisser radiative limit for the single-junction devices. The performance of the all-perovskite tandem solar cells has gained rapid development and achieved a certified efficiency up to 29.1%. In this article, we review the properties and recent development of state-of-the-art mixed Sn-Pb perovskites and their application in single-junction and all-perovskite tandem solar cells. We highlight recent advances in various approaches covering additives, solvents, interfaces, and perovskite growth. We also provide our perspective and outlook on the challenges and strategies for further development of mixed Sn-Pb perovskites in both efficiency and stability for PV applications.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Fengjiu Yang, 
-Kai Zhu
-</dc:creator>
-         <category>Review</category>
-         <dc:title>Advances in Mixed Tin&#8208;Lead Narrow&#8208;Bandgap Perovskites for Single&#8208;Junction and All&#8208;Perovskite Tandem Solar Cells</dc:title>
-         <dc:identifier>10.1002/adma.202314341</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202314341</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202314341</prism:url>
-         <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404517</link>
-         <pubDate>Thu, 23 May 2024 01:44:07 -0700</pubDate>
-         <dc:date>2024-05-23T01:44:07-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202404517</guid>
-         <title>What Matters for the Charge Transport of Two&#8208;Dimensional Perovskites?</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Compared to three&#8208;dimensional (3D) perovskites, two&#8208;dimensional (2D) perovskites exhibit excellent stability, structural diversity, and tunable bandgaps, making them highly promising for applications in solar cells, light&#8208;emitting diodes and photodetectors. However, the trade&#8208;off for worse charge transport is a critical issue that needs to be addressed. This comprehensive review first discusses the structure of 3D and 2D metal halide perovskites, then summarizes the significant factors influencing charge transport in detail and provides a brief overview of the testing methods. Subsequently, various strategies to improve the charge transport are presented, including tuning A'&#8208;site organic spacer cations, A&#8208;site cations, B&#8208;site metal cations, and X&#8208;site halide ions. Finally, an outlook on the future development of improving the 2D perovskites&#8217; charge transport is discussed.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Compared to three-dimensional (3D) perovskites, two-dimensional (2D) perovskites exhibit excellent stability, structural diversity, and tunable bandgaps, making them highly promising for applications in solar cells, light-emitting diodes and photodetectors. However, the trade-off for worse charge transport is a critical issue that needs to be addressed. This comprehensive review first discusses the structure of 3D and 2D metal halide perovskites, then summarizes the significant factors influencing charge transport in detail and provides a brief overview of the testing methods. Subsequently, various strategies to improve the charge transport are presented, including tuning A'-site organic spacer cations, A-site cations, B-site metal cations, and X-site halide ions. Finally, an outlook on the future development of improving the 2D perovskites&#8217; charge transport is discussed.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Yixin Zhang, 
-Mojtaba Abdi&#8208;Jalebi, 
-Bryon W. Larson, 
-Fei Zhang
-</dc:creator>
-         <category>Review</category>
-         <dc:title>What Matters for the Charge Transport of Two&#8208;Dimensional Perovskites?</dc:title>
-         <dc:identifier>10.1002/adma.202404517</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202404517</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202404517</prism:url>
-         <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405832</link>
-         <pubDate>Thu, 23 May 2024 00:50:55 -0700</pubDate>
-         <dc:date>2024-05-23T12:50:55-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202405832</guid>
-         <title>Directional Formation of Reactive Oxygen Species Via a Non&#8208;Redox Catalysis Strategy That Bypasses Electron Transfer Process</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-Dual active centers (Fe/B) motivate the directional conversion of PMS into valuable 1O2 solely dependent on the inherent structural properties of catalyst, bypassing the need of conventional electron transfer between the two, which effectively alleviates the unevitable redox cycling limitations of catalyst.
-
-
-
-
-
-
-
-
-Abstract
-A broad range of chemical transformations driven by catalytic processes necessitates the electron transfer between catalyst and substrate. The redox cycle limitation arising from the inequivalent electron donation and acceptance of the involved catalysts, however, generally leads to their deactivation, causing substantial economic losses and environmental risks. Here, a &#8220;non&#8208;redox catalysis&#8221; strategy is provided, wherein the catalytic units are constructed by atomic Fe and B as dual active sites to create tensile force and electric field, which allows directional self&#8208;decomposition of peroxymonosulfate (PMS) molecules through internal electron transfer to form singlet oxygen, bypassing the need of electron transfer between catalyst and PMS. The proposed catalytic approach with non&#8208;redox cycling of catalyst contributes to excellent stability of the active centers while the generated reactive oxygen species find high efficiency in long&#8208;term catalytic pollutant degradation and selective organic oxidation synthesis in aqueous phase. This work offers a new avenue for directional substrate conversion, which holds promise to advance the design of alternative catalytic pathways for sustainable energy conversion and valuable chemical production.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/4332e17a-64f5-44d2-b39a-ffe0db27d2bb/adma202405832-gra-0001-m.png"
-     alt="Directional Formation of Reactive Oxygen Species Via a Non-Redox Catalysis Strategy That Bypasses Electron Transfer Process"/&gt;
-&lt;p&gt;Dual active centers (Fe/B) motivate the directional conversion of PMS into valuable &lt;sup&gt;1&lt;/sup&gt;O&lt;sub&gt;2&lt;/sub&gt; solely dependent on the inherent structural properties of catalyst, bypassing the need of conventional electron transfer between the two, which effectively alleviates the unevitable redox cycling limitations of catalyst.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;A broad range of chemical transformations driven by catalytic processes necessitates the electron transfer between catalyst and substrate. The redox cycle limitation arising from the inequivalent electron donation and acceptance of the involved catalysts, however, generally leads to their deactivation, causing substantial economic losses and environmental risks. Here, a &#8220;non-redox catalysis&#8221; strategy is provided, wherein the catalytic units are constructed by atomic Fe and B as dual active sites to create tensile force and electric field, which allows directional self-decomposition of peroxymonosulfate (PMS) molecules through internal electron transfer to form singlet oxygen, bypassing the need of electron transfer between catalyst and PMS. The proposed catalytic approach with non-redox cycling of catalyst contributes to excellent stability of the active centers while the generated reactive oxygen species find high efficiency in long-term catalytic pollutant degradation and selective organic oxidation synthesis in aqueous phase. This work offers a new avenue for directional substrate conversion, which holds promise to advance the design of alternative catalytic pathways for sustainable energy conversion and valuable chemical production.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Junsheng Song, 
-Nannan Hou, 
-Xiaocheng Liu, 
-Guangyu Bi, 
-Yang Wang, 
-Yang Mu
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Directional Formation of Reactive Oxygen Species Via a Non&#8208;Redox Catalysis Strategy That Bypasses Electron Transfer Process</dc:title>
-         <dc:identifier>10.1002/adma.202405832</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202405832</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405832</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403017</link>
-         <pubDate>Thu, 23 May 2024 00:50:52 -0700</pubDate>
-         <dc:date>2024-05-23T12:50:52-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202403017</guid>
-         <title>Linearly Polarized Broadband Emission and Multiwavelength Lasing in Solution&#8208;Processed Quantum Dots</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-Here, by adjusting the structural polarization and energy transfer in quantum dots, linearly polarized broadband emission and multiwavelength lasers in the visible and near&#8208;infrared wavelength ranges are demonstrated by incorporating Er3+&#8208;doped Cs2Ag0.4Na0.6In0.98Bi0.02Cl6 double perovskite quantum dots into solution&#8208;processable silica structure. This work offers a promising light source for future photonic integrated circuits targeted at high&#8208;capacity optical applications.
-
-
-
-
-
-
-
-
-Abstract
-A miniature laser with linear polarization is a long sought&#8208;after component of photonic integrated circuits. In particular, for multiwavelength polarization lasers, it supports simultaneous access to multiple, widely varying laser wavelengths in a small spatial region, which is of great significance for advancing applications such as optical computing, optical storage, and optical sensing. However, there is a trade&#8208;off between the size of small&#8208;scale lasers and laser performance, and multiwavelength co&#8208;gain of laser media and multicavity micromachining in the process of laser miniaturization remain as significant challenges. Herein, room&#8208;temperature linearly polarized multiwavelength lasers in the visible and near&#8208;infrared wavelength ranges are demonstrated, by fabricating random cavities scattered with silica in an Er&#8208;doped Cs2Ag0.4Na0.6In0.98Bi0.02Cl6 double&#8208;perovskite quantum dots gain membrane. By regulating the local symmetry and enabling effective energy transfer in nanocrystals, multiwavelength lasers with ultralow thresholds are achieved at room temperature. The maximum degree of polarization reaches 0.89. With their advantages in terms of miniaturization, ultralow power consumption, and adaptability for integration, these lasers offer a prospective light source for future photonic integrated circuits aimed at high&#8208;capacity optical applications.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/c6edc60c-bdfd-45d2-997a-105e65c7ab3f/adma202403017-gra-0001-m.png"
-     alt="Linearly Polarized Broadband Emission and Multiwavelength Lasing in Solution-Processed Quantum Dots"/&gt;
-&lt;p&gt;Here, by adjusting the structural polarization and energy transfer in quantum dots, linearly polarized broadband emission and multiwavelength lasers in the visible and near-infrared wavelength ranges are demonstrated by incorporating Er&lt;sup&gt;3+&lt;/sup&gt;-doped Cs&lt;sub&gt;2&lt;/sub&gt;Ag&lt;sub&gt;0.4&lt;/sub&gt;Na&lt;sub&gt;0.6&lt;/sub&gt;In&lt;sub&gt;0.98&lt;/sub&gt;Bi&lt;sub&gt;0.02&lt;/sub&gt;Cl&lt;sub&gt;6&lt;/sub&gt; double perovskite quantum dots into solution-processable silica structure. This work offers a promising light source for future photonic integrated circuits targeted at high-capacity optical applications.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;A miniature laser with linear polarization is a long sought-after component of photonic integrated circuits. In particular, for multiwavelength polarization lasers, it supports simultaneous access to multiple, widely varying laser wavelengths in a small spatial region, which is of great significance for advancing applications such as optical computing, optical storage, and optical sensing. However, there is a trade-off between the size of small-scale lasers and laser performance, and multiwavelength co-gain of laser media and multicavity micromachining in the process of laser miniaturization remain as significant challenges. Herein, room-temperature linearly polarized multiwavelength lasers in the visible and near-infrared wavelength ranges are demonstrated, by fabricating random cavities scattered with silica in an Er-doped Cs&lt;sub&gt;2&lt;/sub&gt;Ag&lt;sub&gt;0.4&lt;/sub&gt;Na&lt;sub&gt;0.6&lt;/sub&gt;In&lt;sub&gt;0.98&lt;/sub&gt;Bi&lt;sub&gt;0.02&lt;/sub&gt;Cl&lt;sub&gt;6&lt;/sub&gt; double-perovskite quantum dots gain membrane. By regulating the local symmetry and enabling effective energy transfer in nanocrystals, multiwavelength lasers with ultralow thresholds are achieved at room temperature. The maximum degree of polarization reaches 0.89. With their advantages in terms of miniaturization, ultralow power consumption, and adaptability for integration, these lasers offer a prospective light source for future photonic integrated circuits aimed at high-capacity optical applications.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Jiaxuan Wang, 
-Yifei Zhou, 
-Dapeng Huang, 
-Chuan Liao, 
-Haifeng Zhou, 
-Peng Guo, 
-Zexin Li, 
-Guangjun Zhou, 
-Xiaoqiang Yu, 
-Jifan Hu
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Linearly Polarized Broadband Emission and Multiwavelength Lasing in Solution&#8208;Processed Quantum Dots</dc:title>
-         <dc:identifier>10.1002/adma.202403017</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202403017</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202403017</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401137</link>
-         <pubDate>Thu, 23 May 2024 00:50:51 -0700</pubDate>
-         <dc:date>2024-05-23T12:50:51-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202401137</guid>
-         <title>Ion and Molecular Sieving With Ultrathin Polydopamine Nanomembranes</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-The first free&#8208;standing, ultrathin (10&#8211;17&#160;nm) nanomembranes composed entirely of polydopamine for efficient ion and molecular sieving via an easily scalable electropolymerization strategy are reported. These nanomembranes feature well&#8208;defined nanochannels and abundant amine and catechol groups, which provide a favorable chemical environment for ion&#8208;channel electrostatic and hydrogen bond interactions, emulating the analogous function of biological ion channels.
-
-
-
-
-
-
-
-
-
-Abstract
-In contrast to biological cell membranes, it is still a major challenge for synthetic membranes to efficiently separate ions and small molecules due to their similar sizes in the sub&#8208;nanometer range. Inspired by biological ion channels with their unique channel wall chemistry that facilitates ion sieving by ion&#8208;channel interactions, the first free&#8208;standing, ultrathin (10&#8211;17&#160;nm) nanomembranes composed entirely of polydopamine (PDA) are reported here as ion and molecular sieves. These nanomembranes are obtained via an easily scalable electropolymerization strategy and provide nanochannels with various amine and phenolic hydroxyl groups that offer a favorable chemical environment for ion&#8208;channel electrostatic and hydrogen bond interactions. They exhibit remarkable selectivity for monovalent ions over multivalent ions and larger species with K+/Mg2+ of &#8776;4.2, K+/[Fe(CN)6]3&#8722; of &#8776;10.3, and K+/Rhodamine B of &#8776;273.0 in a pressure&#8208;driven process, as well as cyclic reversible pH&#8208;responsive gating properties. Infrared spectra reveal hydrogen bond formation between hydrated multivalent ions and PDA, which prevents the transport of multivalent ions and facilitates high selectivity. Chemically rich, free&#8208;standing, and pH&#8208;responsive PDA nanomembranes with specific interaction sites are proposed as customizable high&#8208;performance sieves for a wide range of challenging separation requirements.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/edd837f8-a5e1-4755-8c07-d3d75ee5667a/adma202401137-gra-0001-m.png"
-     alt="Ion and Molecular Sieving With Ultrathin Polydopamine Nanomembranes"/&gt;
-&lt;p&gt;The first free-standing, ultrathin (10&#8211;17&#160;nm) nanomembranes composed entirely of polydopamine for efficient ion and molecular sieving via an easily scalable electropolymerization strategy are reported. These nanomembranes feature well-defined nanochannels and abundant amine and catechol groups, which provide a favorable chemical environment for ion-channel electrostatic and hydrogen bond interactions, emulating the analogous function of biological ion channels.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;In contrast to biological cell membranes, it is still a major challenge for synthetic membranes to efficiently separate ions and small molecules due to their similar sizes in the sub-nanometer range. Inspired by biological ion channels with their unique channel wall chemistry that facilitates ion sieving by ion-channel interactions, the first free-standing, ultrathin (10&#8211;17&#160;nm) nanomembranes composed entirely of polydopamine (PDA) are reported here as ion and molecular sieves. These nanomembranes are obtained via an easily scalable electropolymerization strategy and provide nanochannels with various amine and phenolic hydroxyl groups that offer a favorable chemical environment for ion-channel electrostatic and hydrogen bond interactions. They exhibit remarkable selectivity for monovalent ions over multivalent ions and larger species with K&lt;sup&gt;+&lt;/sup&gt;/Mg&lt;sup&gt;2+&lt;/sup&gt; of &#8776;4.2, K&lt;sup&gt;+&lt;/sup&gt;/[Fe(CN)&lt;sub&gt;6&lt;/sub&gt;]&lt;sup&gt;3&#8722;&lt;/sup&gt; of &#8776;10.3, and K&lt;sup&gt;+&lt;/sup&gt;/Rhodamine B of &#8776;273.0 in a pressure-driven process, as well as cyclic reversible pH-responsive gating properties. Infrared spectra reveal hydrogen bond formation between hydrated multivalent ions and PDA, which prevents the transport of multivalent ions and facilitates high selectivity. Chemically rich, free-standing, and pH-responsive PDA nanomembranes with specific interaction sites are proposed as customizable high-performance sieves for a wide range of challenging separation requirements.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Jiyao Yu, 
-Tommaso Marchesi D'Alvise, 
-Iain Harley, 
-Adam Krysztofik, 
-Ingo Lieberwirth, 
-Przemyslaw Pula, 
-Pawel W. Majewski, 
-Bartlomiej Graczykowski, 
-Johannes Hunger, 
-Katharina Landfester, 
-Seah Ling Kuan, 
-Rachel Shi, 
-Christopher V. Synatschke, 
-Tanja Weil
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Ion and Molecular Sieving With Ultrathin Polydopamine Nanomembranes</dc:title>
-         <dc:identifier>10.1002/adma.202401137</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202401137</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202401137</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202301738</link>
-         <pubDate>Thu, 23 May 2024 00:00:00 -0700</pubDate>
-         <dc:date>2024-05-23T12:00:00-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202301738</guid>
-         <title>Reprogramming Clots for in Vivo Chemical Targeting in Traumatic Brain Injury</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Traumatic brain injury (TBI) is a critical public health concern, yet there are no therapeutics available to improve long&#8208;term outcomes. Drug delivery to TBI remains a challenge due to the blood&#8208;brain barrier and increased intracranial pressure. In this work, we developed a chemical targeting approach to improve delivery of materials to the injured brain. We hypothesized that the provisional fibrin matrix could be harnessed as an injury&#8208;specific scaffold that can be targeted by materials via click chemistry. To accomplish this, we engineered the brain clot in situ by delivering fibrinogen modified with strained cyclooctyne (SCO) moieties, which incorporated into the injury lesion and was retained there for days. We subsequently observed improved intra&#8208;injury capture and retention of diverse, clickable azide&#8208;materials including a small molecule azide&#8208;dye, 40&#160;kDa azide&#8208;PEG nanomaterial, and a therapeutic azide&#8208;protein in multiple dosing regimens. To demonstrate therapeutic translation of this approach, we achieved a reduction in reactive oxygen species levels in the injured brain after the delivery of the antioxidant catalase. Further, colocalization between azide and SCO&#8208;fibrinogen was specific to the brain over off&#8208;target organs. Taken together, we established a chemical targeting strategy leveraging endogenous clot forma which can be applied to improve therapeutic delivery after TBI.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Traumatic brain injury (TBI) is a critical public health concern, yet there are no therapeutics available to improve long-term outcomes. Drug delivery to TBI remains a challenge due to the blood-brain barrier and increased intracranial pressure. In this work, we developed a chemical targeting approach to improve delivery of materials to the injured brain. We hypothesized that the provisional fibrin matrix could be harnessed as an injury-specific scaffold that can be targeted by materials via click chemistry. To accomplish this, we engineered the brain clot in situ by delivering fibrinogen modified with strained cyclooctyne (SCO) moieties, which incorporated into the injury lesion and was retained there for days. We subsequently observed improved intra-injury capture and retention of diverse, clickable azide-materials including a small molecule azide-dye, 40&#160;kDa azide-PEG nanomaterial, and a therapeutic azide-protein in multiple dosing regimens. To demonstrate therapeutic translation of this approach, we achieved a reduction in reactive oxygen species levels in the injured brain after the delivery of the antioxidant catalase. Further, colocalization between azide and SCO-fibrinogen was specific to the brain over off-target organs. Taken together, we established a chemical targeting strategy leveraging endogenous clot forma which can be applied to improve therapeutic delivery after TBI.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Rebecca M. Kandell, 
-Jason R. Wu, 
-Ester J. Kwon
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Reprogramming Clots for in Vivo Chemical Targeting in Traumatic Brain Injury</dc:title>
-         <dc:identifier>10.1002/adma.202301738</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202301738</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202301738</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402309</link>
-         <pubDate>Thu, 23 May 2024 00:00:00 -0700</pubDate>
-         <dc:date>2024-05-23T12:00:00-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202402309</guid>
-         <title>A Naturally Inspired Extrusion&#8208;based Microfluidic Approach for Manufacturing Tailorable Magnetic Soft Continuum Microrobotic Devices</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Soft materials play a crucial role in small&#8208;scale robotic applications by closely mimicking the complex motion and morphing behavior of organisms. However, conventional fabrication methods face challenges in creating highly integrated small&#8208;scale soft devices. In this study, we leverage microfluidics to precisely control reaction&#8208;diffusion (RD) processes to generate multifunctional and compartmentalized calcium&#8208;cross&#8208;linkable alginate&#8208;based microfibers. Under RD conditions, we produce sophisticated alginate&#8208;based fibers for magnetic soft continuum robotics (mSCR) applications with customizable features, such as geometry (compact or hollow), degree of cross&#8208;linking, and the precise localization of magnetic nanoparticles (inside the core, surrounding the fiber, or on one side). This fine control allows for tuning the stiffness and magnetic responsiveness of the microfibers. Additionally, chemically cleavable regions within the fibers enable disassembly into smaller robotic units or roll&#8208;up structures under a rotating magnetic field. These findings demonstrate the versatility of microfluidics in processing highly integrated small&#8208;scale devices.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Soft materials play a crucial role in small-scale robotic applications by closely mimicking the complex motion and morphing behavior of organisms. However, conventional fabrication methods face challenges in creating highly integrated small-scale soft devices. In this study, we leverage microfluidics to precisely control reaction-diffusion (RD) processes to generate multifunctional and compartmentalized calcium-cross-linkable alginate-based microfibers. Under RD conditions, we produce sophisticated alginate-based fibers for magnetic soft continuum robotics (mSCR) applications with customizable features, such as geometry (compact or hollow), degree of cross-linking, and the precise localization of magnetic nanoparticles (inside the core, surrounding the fiber, or on one side). This fine control allows for tuning the stiffness and magnetic responsiveness of the microfibers. Additionally, chemically cleavable regions within the fibers enable disassembly into smaller robotic units or roll-up structures under a rotating magnetic field. These findings demonstrate the versatility of microfluidics in processing highly integrated small-scale devices.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Lukas Hertle, 
-Semih Sevim, 
-Jiawei Zhu, 
-Vitaly Pustovalov, 
-Andrea Veciana, 
-Joaquin Llacer&#8208;Wintle, 
-Fabian C. Landers, 
-Hao Ye, 
-Xiang&#8208;Zhong Chen, 
-Hannes Vogler, 
-Ueli Grossniklaus, 
-Josep Puigmart&#237;&#8208;Luis, 
-Bradley J. Nelson, 
-Salvador Pan&#233;
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>A Naturally Inspired Extrusion&#8208;based Microfluidic Approach for Manufacturing Tailorable Magnetic Soft Continuum Microrobotic Devices</dc:title>
-         <dc:identifier>10.1002/adma.202402309</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202402309</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402309</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405184</link>
-         <pubDate>Wed, 22 May 2024 17:54:27 -0700</pubDate>
-         <dc:date>2024-05-22T05:54:27-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202405184</guid>
-         <title>Highly&#8208;solvating Electrolyte Enables Mechanically Stable and Inorganic&#8208;rich Cathode Electrolyte Interphase for High&#8208;performing Potassium&#8208;ion Batteries</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Cathode&#8211;electrolyte interphase (CEI) is crucial for the reversibility of rechargeable batteries, yet receives less attention compared to solid&#8211;electrolyte interphase (SEI). The prevalent weakly&#8208;solvating electrolyte is usually proposed from the standing point of obtaining robust SEI, however, the resultant weak ion&#8208;solvent interaction gives rise to excessive free solvents and forms thick CEI with high kinetic barriers, which is disadvantageous for interfacial stability at the high working voltage. Herein, we report a highly&#8208;solvating electrolyte to immobilize free solvents by generating stable ternary complexes and facilitate the growth of homogeneous and ultrathin CEI to boost the electrochemical performances of potassium&#8208;ion batteries (PIBs). Through time&#8208;of&#8208;flight secondary ion mass spectrometry and cryogenic transmission electron microscopy, we reveal that the deliberately coordinated complexes are the key to forming mechanically stable and inorganic&#8208;rich CEI with superior diffusion kinetics for high&#8208;performing PIBs. Coupling with a K0.5MnO2 cathode and a soft carbon (SC) anode, we achieve a high energy density (202.3&#160;Wh kg&#8722;1) with an exceptional cycle lifespan (92.5% capacity retention after 500 cycles) in a SC||K0.5MnO2 full cell, setting new performance benchmarks for PIBs.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Cathode&#8211;electrolyte interphase (CEI) is crucial for the reversibility of rechargeable batteries, &lt;i&gt;yet&lt;/i&gt; receives less attention compared to solid&#8211;electrolyte interphase (SEI). The prevalent weakly-solvating electrolyte is usually proposed from the standing point of obtaining robust SEI, however, the resultant weak ion-solvent interaction gives rise to excessive free solvents and forms thick CEI with high kinetic barriers, which is disadvantageous for interfacial stability at the high working voltage. Herein, we report a highly-solvating electrolyte to immobilize free solvents by generating stable ternary complexes and facilitate the growth of homogeneous and ultrathin CEI to boost the electrochemical performances of potassium-ion batteries (PIBs). Through time-of-flight secondary ion mass spectrometry and cryogenic transmission electron microscopy, we reveal that the deliberately coordinated complexes are the key to forming mechanically stable and inorganic-rich CEI with superior diffusion kinetics for high-performing PIBs. Coupling with a K&lt;sub&gt;0.5&lt;/sub&gt;MnO&lt;sub&gt;2&lt;/sub&gt; cathode and a soft carbon (SC) anode, we achieve a high energy density (202.3&#160;Wh kg&lt;sup&gt;&#8722;1&lt;/sup&gt;) with an exceptional cycle lifespan (92.5% capacity retention after 500 cycles) in a SC||K&lt;sub&gt;0.5&lt;/sub&gt;MnO&lt;sub&gt;2&lt;/sub&gt; full cell, setting new performance benchmarks for PIBs.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Shuoqing Zhao, 
-Guohao Li, 
-Bohan Zhang, 
-Shipeng Zhang, 
-Youxing Liu, 
-Jinhui Zhou, 
-Mingchuan Luo, 
-Shaojun Guo
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Highly&#8208;solvating Electrolyte Enables Mechanically Stable and Inorganic&#8208;rich Cathode Electrolyte Interphase for High&#8208;performing Potassium&#8208;ion Batteries</dc:title>
-         <dc:identifier>10.1002/adma.202405184</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202405184</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202405184</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402785</link>
-         <pubDate>Wed, 22 May 2024 15:54:03 -0700</pubDate>
-         <dc:date>2024-05-22T03:54:03-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202402785</guid>
-         <title>Air&#8208;Processed Perovskite Solar Cells with &gt;25% Efficiency and High Stability Enabled by Crystallization Modulation and Holistic Passivation</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Organic semiconductors (e.g., PCBM and IDIC) frequently serve as interface passivants for perovskite solar cells (PSCs) due to their beneficial passivation effects on perovskite interfaces. However, their passivation to the interiors of perovskite films is greatly limited by their poor solubility in polar solvents and compatibility issues. Here we report the facile synthesis of organic semiconductor nanoparticle (NP) passivants that readily disperse in perovskite inks. Adding these NPs into perovskite inks not only modulates perovskite crystallization, improves film quality and conductivity, but also achieves holistic bulk film passivation. Consequently, blade&#8208;coated p&#8208;i&#8208;n PSCs with ICBA NPs achieved an impressive efficiency of 25.1% (independently certified as 25.0%), the highest reported value for air&#8208;processed PSCs irrespective of fabrication methods or device structures. This work develops a novel approach for effective and holistic perovskite passivation by converting conventional passivants to perovskite&#8208;compatible NPs, paving the way for more efficient and stable perovskite solar devices.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Organic semiconductors (e.g., PCBM and IDIC) frequently serve as interface passivants for perovskite solar cells (PSCs) due to their beneficial passivation effects on perovskite interfaces. However, their passivation to the interiors of perovskite films is greatly limited by their poor solubility in polar solvents and compatibility issues. Here we report the facile synthesis of organic semiconductor nanoparticle (NP) passivants that readily disperse in perovskite inks. Adding these NPs into perovskite inks not only modulates perovskite crystallization, improves film quality and conductivity, but also achieves holistic bulk film passivation. Consequently, blade-coated p-i-n PSCs with ICBA NPs achieved an impressive efficiency of 25.1% (independently certified as 25.0%), the highest reported value for air-processed PSCs irrespective of fabrication methods or device structures. This work develops a novel approach for effective and holistic perovskite passivation by converting conventional passivants to perovskite-compatible NPs, paving the way for more efficient and stable perovskite solar devices.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Xiaoyu Shi, 
-Tianxiao Liu, 
-Yunjie Dou, 
-Xiaodong Hu, 
-Yangyang Liu, 
-Feifei Wang, 
-Lingyuan Wang, 
-Zhijun Ren, 
-Shangshang Chen
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Air&#8208;Processed Perovskite Solar Cells with &gt;25% Efficiency and High Stability Enabled by Crystallization Modulation and Holistic Passivation</dc:title>
-         <dc:identifier>10.1002/adma.202402785</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202402785</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202402785</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202314204</link>
-         <pubDate>Wed, 22 May 2024 07:59:27 -0700</pubDate>
-         <dc:date>2024-05-22T07:59:27-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202314204</guid>
-         <title>Toward Multiscale, Multimaterial 3D Printing</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Biological materials and organisms possess the fundamental ability to self&#8208;organize, through which different components are assembled from the molecular level up to hierarchical structures with superior mechanical properties and multifunctionalities. These complex composites inspire material scientists to design new engineered materials by integrating multiple ingredients and structures over a wide range. Additive manufacturing, also known as 3D printing, has advantages with respect to fabricating multiscale, and multi&#8208;material structures. The need for multifunctional materials is driving 3D printing techniques toward arbitrary 3D architectures with the next level of complexity. In this paper, we aim to highlight key features of those 3D printing techniques that can produce either multiscale or multimaterial structures, including innovations in printing methods, materials processing approaches, and hardware improvements. Several issues and challenges related to current methods are discussed. Ultimately, we also provide our perspective on how to realize the combination of multiscale and multimaterial capabilities in 3D printing processes and future directions based on emerging research.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Biological materials and organisms possess the fundamental ability to self-organize, through which different components are assembled from the molecular level up to hierarchical structures with superior mechanical properties and multifunctionalities. These complex composites inspire material scientists to design new engineered materials by integrating multiple ingredients and structures over a wide range. Additive manufacturing, also known as 3D printing, has advantages with respect to fabricating multiscale, and multi-material structures. The need for multifunctional materials is driving 3D printing techniques toward arbitrary 3D architectures with the next level of complexity. In this paper, we aim to highlight key features of those 3D printing techniques that can produce either multiscale or multimaterial structures, including innovations in printing methods, materials processing approaches, and hardware improvements. Several issues and challenges related to current methods are discussed. Ultimately, we also provide our perspective on how to realize the combination of multiscale and multimaterial capabilities in 3D printing processes and future directions based on emerging research.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Cheng Zhu, 
-Hawi B. Gemeda, 
-Eric B. Duoss, 
-Christopher M. Spadaccini
-</dc:creator>
-         <category>Review</category>
-         <dc:title>Toward Multiscale, Multimaterial 3D Printing</dc:title>
-         <dc:identifier>10.1002/adma.202314204</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202314204</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202314204</prism:url>
-         <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/adma.202312856</link>
-         <pubDate>Wed, 22 May 2024 06:33:36 -0700</pubDate>
-         <dc:date>2024-05-22T06:33:36-07:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202312856</guid>
-         <title>Antiferroelectric Ceramics for Energy&#8208;Efficient Capacitors by Theory&#8208;Guided Discovery</title>
-         <description>Advanced Materials, Accepted Article. </description>
-         <dc:description>
-Abstract
-Antiferroelectric ceramics, via the electric&#8208;field&#8208;induced antiferroelectric (AFE) &#8211; ferroelectric (FE) phase transitions, show great promise for high&#8208;energy&#8208;density capacitors. Yet, currently, only 70&#8764;80% energy release is found during a charge&#8208;discharge cycle. Here, for PbZrO3&#8208;based oxides, we apply geometric nonlinear theory of martensitic phase transitions (first used to guide supercompatible shape&#8208;memory alloys) to predict the reversibility of the AFE&#8211;FE transition by using density&#8208;functional theory to assess AFE/FE interfacial lattice&#8208;mismatch strain that assures ultralow electric hysteresis and extended fatigue lifetime. We observe a good correlation of mismatch strain with electric hysteresis, hence, with energy efficiency of AFE capacitors. Guided by theory, we conduct high&#8208;throughput materials search and discover AFE compositions with a near&#8208;perfect charge&#8208;discharge energy efficiency (98.2%), i.e., near&#8208;zero hysteresis. And the fatigue life of the capacitor reaches 79.5 million charge&#8208;discharge cycles, a factor of 80 enhancement over AFE ceramics with large electric hysteresis.
-This article is protected by copyright. All rights reserved
-</dc:description>
-         <content:encoded>
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Antiferroelectric ceramics, via the electric-field-induced antiferroelectric (AFE) &#8211; ferroelectric (FE) phase transitions, show great promise for high-energy-density capacitors. Yet, currently, only 70&#8764;80% energy release is found during a charge-discharge cycle. Here, for PbZrO&lt;sub&gt;3&lt;/sub&gt;-based oxides, we apply geometric nonlinear theory of martensitic phase transitions (first used to guide supercompatible shape-memory alloys) to predict the reversibility of the AFE&#8211;FE transition by using density-functional theory to assess AFE/FE interfacial lattice-mismatch strain that assures ultralow electric hysteresis and extended fatigue lifetime. We observe a good correlation of mismatch strain with electric hysteresis, hence, with energy efficiency of AFE capacitors. Guided by theory, we conduct high-throughput materials search and discover AFE compositions with a near-perfect charge-discharge energy efficiency (98.2%), i.e., near-zero hysteresis. And the fatigue life of the capacitor reaches 79.5 million charge-discharge cycles, a factor of 80 enhancement over AFE ceramics with large electric hysteresis.&lt;/p&gt;
-&lt;p&gt;This article is protected by copyright. All rights reserved&lt;/p&gt;</content:encoded>
-         <dc:creator>
-AnandP.S. Gaur1, 
-Renu Choudhary1, 
-Binzhi Liu1, 
-Yaroslav Mudryk2, 
-DuaneD. Johnson1, 
-Jun Cui1, 
-Xiaoli Tan1
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Antiferroelectric Ceramics for Energy&#8208;Efficient Capacitors by Theory&#8208;Guided Discovery</dc:title>
-         <dc:identifier>10.1002/adma.202312856</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202312856</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/adma.202312856</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
