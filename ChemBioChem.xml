@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; Wiley-VCH GmbH, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Chemistry Europe)</managingEditor>
-      <pubDate>Mon, 08 Jul 2024 07:11:30 +0000</pubDate>
-      <lastBuildDate>Mon, 08 Jul 2024 07:11:30 +0000</lastBuildDate>
+      <pubDate>Tue, 09 Jul 2024 07:32:21 +0000</pubDate>
+      <lastBuildDate>Tue, 09 Jul 2024 07:32:21 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -2707,52 +2707,6 @@ Shogo Mori
          <prism:section>Research Article</prism:section>
       </item>
       <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400095</link>
-         <pubDate>Tue, 18 Jun 2024 08:39:45 -0700</pubDate>
-         <dc:date>2024-06-18T08:39:45-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202400095</guid>
-         <title>Task&#8208;Similarity is a Crucial Factor for Few&#8208;Shot Meta&#8208;Learning of Structure&#8208;Activity Relationships</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-Meta&#8208;learning has emerged as a promising strategy to facilitate efficient few&#8208;shot model training for a specific target of interest. Here, we show that the performance of the meta&#8208;learned model critically depends on the correlation &#8211; captured in terms of molecular similarity and target activity &#8211; between the specific target of interest and the training data used to meta&#8208;learn the model.
-
-
-
-
-
-
-
-Abstract
-Machine learning models support computer&#8208;aided molecular design and compound optimization. However, the initial phases of drug discovery often face a scarcity of training data for these models. Meta&#8208;learning has emerged as a potentially promising strategy, harnessing the wealth of structure&#8208;activity data available for known targets to facilitate efficient few&#8208;shot model training for the specific target of interest. In this study, we assessed the effectiveness of two different meta&#8208;learning methods, namely model&#8208;agnostic meta&#8208;learning (MAML) and adaptive deep kernel fitting (ADKF), specifically in the regression setting. We investigated how factors such as dataset size and the similarity of training tasks impact predictability. The results indicate that ADKF significantly outperformed both MAML and a single&#8208;task baseline model on the inhibition data. However, the performance of ADKF varied across different test tasks. Our findings suggest that considerable enhancements in performance can be anticipated primarily when the task of interest is similar to the tasks incorporated in the meta&#8208;learning process.
-</dc:description>
-         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/a682c084-ec81-4b84-86c2-07d217ea4d88/cbic202400095-toc-0001-m.png"
-     alt="Task-Similarity is a Crucial Factor for Few-Shot Meta-Learning of Structure-Activity Relationships"/&gt;
-&lt;p&gt;Meta-learning has emerged as a promising strategy to facilitate efficient few-shot model training for a specific target of interest. Here, we show that the performance of the meta-learned model critically depends on the correlation &#8211; captured in terms of molecular similarity and target activity &#8211; between the specific target of interest and the training data used to meta-learn the model.
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;Abstract&lt;/h2&gt;
-&lt;p&gt;Machine learning models support computer-aided molecular design and compound optimization. However, the initial phases of drug discovery often face a scarcity of training data for these models. Meta-learning has emerged as a potentially promising strategy, harnessing the wealth of structure-activity data available for known targets to facilitate efficient few-shot model training for the specific target of interest. In this study, we assessed the effectiveness of two different meta-learning methods, namely model-agnostic meta-learning (MAML) and adaptive deep kernel fitting (ADKF), specifically in the regression setting. We investigated how factors such as dataset size and the similarity of training tasks impact predictability. The results indicate that ADKF significantly outperformed both MAML and a single-task baseline model on the inhibition data. However, the performance of ADKF varied across different test tasks. Our findings suggest that considerable enhancements in performance can be anticipated primarily when the task of interest is similar to the tasks incorporated in the meta-learning process.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Alex K&#246;tter, 
-Stephan Allenspach, 
-Christoph Grebner, 
-Hans Matter, 
-Jan A. Hiss, 
-Gisbert Schneider, 
-Gerhard Hessler
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Task&#8208;Similarity is a Crucial Factor for Few&#8208;Shot Meta&#8208;Learning of Structure&#8208;Activity Relationships</dc:title>
-         <dc:identifier>10.1002/cbic.202400095</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202400095</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400095</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202300853</link>
          <pubDate>Tue, 18 Jun 2024 08:26:21 -0700</pubDate>
          <dc:date>2024-06-18T08:26:21-07:00</dc:date>
@@ -2844,6 +2798,52 @@ Candice Botuha
          <prism:publicationName>ChemBioChem</prism:publicationName>
          <prism:doi>10.1002/cbic.202400093</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400093</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400095</link>
+         <pubDate>Tue, 18 Jun 2024 00:00:00 -0700</pubDate>
+         <dc:date>2024-06-18T12:00:00-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202400095</guid>
+         <title>Task&#8208;Similarity is a Crucial Factor for Few&#8208;Shot Meta&#8208;Learning of Structure&#8208;Activity Relationships</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Meta&#8208;learning has emerged as a promising strategy to facilitate efficient few&#8208;shot model training for a specific target of interest. Here, we show that the performance of the meta&#8208;learned model critically depends on the correlation &#8211; captured in terms of molecular similarity and target activity &#8211; between the specific target of interest and the training data used to meta&#8208;learn the model.
+
+
+
+
+
+
+
+Abstract
+Machine learning models support computer&#8208;aided molecular design and compound optimization. However, the initial phases of drug discovery often face a scarcity of training data for these models. Meta&#8208;learning has emerged as a potentially promising strategy, harnessing the wealth of structure&#8208;activity data available for known targets to facilitate efficient few&#8208;shot model training for the specific target of interest. In this study, we assessed the effectiveness of two different meta&#8208;learning methods, namely model&#8208;agnostic meta&#8208;learning (MAML) and adaptive deep kernel fitting (ADKF), specifically in the regression setting. We investigated how factors such as dataset size and the similarity of training tasks impact predictability. The results indicate that ADKF significantly outperformed both MAML and a single&#8208;task baseline model on the inhibition data. However, the performance of ADKF varied across different test tasks. Our findings suggest that considerable enhancements in performance can be anticipated primarily when the task of interest is similar to the tasks incorporated in the meta&#8208;learning process.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/41404ab3-869f-4759-aa4f-bf623d16737c/cbic202400095-toc-0001-m.png"
+     alt="Task-Similarity is a Crucial Factor for Few-Shot Meta-Learning of Structure-Activity Relationships"/&gt;
+&lt;p&gt;Meta-learning has emerged as a promising strategy to facilitate efficient few-shot model training for a specific target of interest. Here, we show that the performance of the meta-learned model critically depends on the correlation &#8211; captured in terms of molecular similarity and target activity &#8211; between the specific target of interest and the training data used to meta-learn the model.
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Machine learning models support computer-aided molecular design and compound optimization. However, the initial phases of drug discovery often face a scarcity of training data for these models. Meta-learning has emerged as a potentially promising strategy, harnessing the wealth of structure-activity data available for known targets to facilitate efficient few-shot model training for the specific target of interest. In this study, we assessed the effectiveness of two different meta-learning methods, namely model-agnostic meta-learning (MAML) and adaptive deep kernel fitting (ADKF), specifically in the regression setting. We investigated how factors such as dataset size and the similarity of training tasks impact predictability. The results indicate that ADKF significantly outperformed both MAML and a single-task baseline model on the inhibition data. However, the performance of ADKF varied across different test tasks. Our findings suggest that considerable enhancements in performance can be anticipated primarily when the task of interest is similar to the tasks incorporated in the meta-learning process.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Alex K&#246;tter, 
+Stephan Allenspach, 
+Christoph Grebner, 
+Hans Matter, 
+Jan A. Hiss, 
+Gisbert Schneider, 
+Gerhard Hessler
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Task&#8208;Similarity is a Crucial Factor for Few&#8208;Shot Meta&#8208;Learning of Structure&#8208;Activity Relationships</dc:title>
+         <dc:identifier>10.1002/cbic.202400095</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202400095</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400095</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
