@@ -12,17 +12,16 @@ def scheduled_job():
 
 sched.start()
 
-""" from apscheduler.schedulers.background import BackgroundScheduler
+# from apscheduler.schedulers.background import BackgroundScheduler
 
-from updater import getxml
+# from updater import getxml
 
-jobid = 'Wiley-update'
+# jobid = 'Wiley-update'
 
-def canceljob(jobid):
-    sched.remove_job(jobid)
+# def canceljob(jobid):
+#     sched.remove_job(jobid)
 
-sched = BackgroundScheduler()
-sched.start()
+# sched = BackgroundScheduler()
+# sched.start()
 
-job = sched.add_job(getxml, 'interval', minutes = 86400, id = jobid)
- """
+# job = sched.add_job(getxml, 'interval', minutes = 86400, id = jobid)

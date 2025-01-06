@@ -17,7 +17,6 @@ def getxml(url: str):
 
     Raises:
         requests.HTTPError: If the request to the URL fails.
-
     """ 
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -33,92 +32,141 @@ def getxml(url: str):
     else:
         response.raise_for_status()
 
-def read_old_articles(filename: Path):
+def read_old_articles(filename: Path) -> list[list[str, str]]:
     """
-    Read in old articles as doi's and datetimes from a CSV file.
+    Read in old articles as doi's and datetimes from a CSV file and return them 
+    as a list of lists. 
 
     Args:
         filename (Path): The path to the CSV file.
 
     Returns:
-        list: List of old article doi-datetime pairs read from the CSV file.
-
+        list[list[str, str]]: A list of lists, where each inner list represents a 
+                              doi-datetime pair read from the csv file.
     """
     with open(filename, 'rt') as fin:
         reader = csv.reader(fin)
         old_articles = list(reader)
     return old_articles
 
-def update_rss_articles(root, old_articles, cdate):
+def extract_doi_and_date(paper: ET.Element, cdate: str) -> tuple[str, str]:
     """
-    Update the RSS articles and remove duplicates.
-
+    Extracts the DOI and publication date from an XML element representing a paper.
+    
     Args:
-        root (xml.etree.ElementTree.Element): The root element of the XML.
-        old_articles (list): List of old articles as doi-datetime pairs.
-        cdate (str): Current date.
+        paper (ET.Element): The XML element representing a paper.
+        cdate (str): The current date in 'YYYY-MM-DD' format to use if no date is found.
 
     Returns:
-        list: Updated list of RSS articles.
-
+        tuple[str, str]: A tuple containing the DOI and the date.
     """
-    rss_articles = old_articles[:]
-    for n, paper in enumerate(root[0][2:][::-1]):
-        for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
-            doi = doi.text
+    # Extract DOI
+    for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
+        doi = doi.text
+        # Extract article date, or default to 'none' if not found
         if paper.findall('{http://purl.org/dc/elements/1.1/}date'):
             for date in paper.findall('{http://purl.org/dc/elements/1.1/}date'):
-                if 'T' in date.text:
-                    date = date.text[:10]
-                else:
-                    date = date.text
+                # Trim time portion of datetime if present
+                date = date.text[:10] if 'T' in date.text else date.text
         else:
             date = 'none'
+    
+    return doi, date
 
+def update_with_new_date(rss_articles: list[list[str, str]], doi: str, date: str):
+    """
+    Updates an RSS article's date if the specified DOI is found and the date needs to be changed.
+
+    This function searches for the specified DOI in the list of RSS articles. If the DOI is found
+    and the new date is not already present, it updates the existing date if it's not in the 'YYYY-MM-DD'
+    format. If no date exists for the DOI, it appends the new date.
+
+    Args:
+        rss_articles (list[list[str, str]]): A list of articles, where each article is represented by 
+                                             a list containing a DOI and a date.
+        doi (str): The DOI of the article to update.
+        date (str): The new date to be set for the article.
+    """
+    idx = [i[0] for i in rss_articles].index(doi) # Indices where doi appears
+    if date not in rss_articles[idx]:
+        try:
+            existing_date = rss_articles[idx][1]
+            # If existing date not in standard format, update it
+            if existing_date.count('-') != 2: 
+                rss_articles[idx][1] = date
+        except IndexError:
+            rss_articles[idx].append(date)
+
+def update_rss_articles(root: ET.Element, old_articles: list[list[str, str]], cdate: str) -> list[list[str, str]]:
+    """
+    Updates the list of RSS articles by adding new articles from the XML root element and 
+    removing duplicates.
+
+    Args:
+        root (xml.etree.ElementTree.Element): The root element of the XML document 
+                                              containing RSS articles.
+        old_articles (list[list[str, str]]): A list of lists, where each inner list 
+                                             represents a doi-datetime pair 
+                                             corresponding to an old article. 
+        cdate (str): The current date in 'YYYY-MM-DD' format. 
+
+    Returns:
+        list[list[str, str]]: Updated list of RSS articles.
+    """
+    # Create copy of old articles list to return later
+    rss_articles = old_articles[:]
+
+    # Iterate over the XML articles in reverse order
+    for paper in root[0][2:][::-1]: 
+        doi, date = extract_doi_and_date(paper, cdate)
+
+        # Check the doi-date pair isn't already in the list
         if [doi, date] not in rss_articles:
+            # If the doi is in the list but with a different date, update the entry
             if doi in [i[0] for i in rss_articles]:
                 try:
-                    root.remove(paper)
+                    root.remove(paper) # Remove duplicate paper from xml
                 except ValueError:
                     pass
+                # Use today's date if none available
                 if date == 'none':
-                    date = cdate
-                    listposition = [i[0] for i in rss_articles].index(doi)
-                    if cdate not in rss_articles[listposition]:
-                        try:
-                            existingdate = rss_articles[listposition][1]
-                            if existingdate.count('-') != 2:
-                                rss_articles[listposition][1] = date
-                        except IndexError:
-                            rss_articles[listposition].append(date)
+                    update_with_new_date(rss_articles, doi, cdate)
             else:
+                # Add new [doi, date] pair to the article list
                 rss_articles.append([doi, date])
 
     return rss_articles
 
-def update_feed_title(root, journal):
+def update_feed_title(root: ET.Element, journal: str):
     """
-    Change the feed title in the XML.
+    Updates the feed title in an XML document to reflect the journal's name with a suffix.
+
+    This function iterates over the elements of the XML document's root and changes the text
+    of the first title element or any element with text matching the journal name to 
+    f"{journal} (no repeats)" until it encounters an 'item' element.
 
     Args:
-        root (xml.etree.ElementTree.Element): The root element of the XML.
-        journal (str): Journal name.
-
+        root (ET.Element): The root element of the XML document.
+        journal (str): The name of the journal to be reflected in the updated feed title.
     """
     for i, elem in enumerate(root[0]):
-        if elem.tag == 'item':
+        if elem.tag == 'item': # We've gone beyond the title section: stop looking
             break
-        elif elem.tag.endswith('title') or elem.text == journal:
+        elif elem.tag.endswith('title') or elem.text == journal: # Update the title
             root[0][i].text = f'{journal} (no repeats)'
 
-def create_new_rss_feed(root, shortname):
+def create_new_rss_feed(root: ET.Element, shortname: str):
     """
-    Create a new RSS feed by writing the XML to a file.
+    Generates a new RSS feed XML file with modified URLs.
+
+    This function serializes the provided XML root element to a string, modifies specific URL patterns,
+    and writes the resulting XML content to a file named after the provided shortname.
 
     Args:
-        root (xml.etree.ElementTree.Element): The root element of the XML.
-        shortname (str): The shortname used for the filename.
-
+        root (xml.etree.ElementTree.Element): The root element of the XML document to be processed 
+                                              and saved.
+        shortname (str): The shortname used for naming the output file (e.g., 'example' results in 
+                         'example.xml').
     """
     with open(f'{shortname}.xml', 'wb') as fout:
         newstring = ET.tostring(root).replace(b'pericles.pericles-prod.literatumonline.com', b'onlinelibrary.wiley.com')
@@ -126,14 +174,17 @@ def create_new_rss_feed(root, shortname):
         newstring = newstring.replace(b'www.', b'').replace(b'?af=R', b'')
         fout.write(newstring)
 
-def update_old_article_list(filename: Path, rss_articles: list):
+def update_old_article_list(filename: Path, rss_articles: list[list[str, str]]):
     """
-    Update the old article list by writing it to a CSV file.
+    Writes the list of RSS articles to a CSV file, updating the old article list.
+
+    This function takes a list of RSS articles, each represented as a list or tuple, and writes them
+    to a specified CSV file, with each article occupying a separate row in the CSV.
 
     Args:
-        filename (Path): The path to the CSV file.
-        rss_articles (list): List of RSS articles.
-
+        filename (Path): The path to the CSV file where the article list will be written.
+        rss_articles (list[list[str, str]]): A list of RSS articles, where each article is a list of 
+                                             data to be written.
     """
     with open(filename, 'wt', newline='') as fout:
         writer = csv.writer(fout, quoting=csv.QUOTE_ALL)
@@ -142,14 +193,17 @@ def update_old_article_list(filename: Path, rss_articles: list):
 
 def updaterss(journal: str, shortname: str, url: str, cdate: str):
     """
-    Update the RSS feed for a journal with new articles.
+    Updates the RSS feed for a specified journal by integrating new articles and managing existing 
+    ones.
+
+    This function fetches XML data from a given URL, processes the articles to remove duplicates,
+    updates the feed title, and saves the updated feed and article list to files.
 
     Args:
-        journal (str): The name of the journal.
-        shortname (str): The shortname used for filenames.
-        url (str): The URL to fetch the XML data from.
-        cdate (str): The current date.
-
+        journal (str): The name of the journal for which the RSS feed is being updated.
+        shortname (str): A short identifier used for generating filenames.
+        url (str): The URL from which the XML data is retrieved.
+        cdate (str): The current date used for date handling in the articles.
     """
     root = getxml(url)
 
@@ -162,11 +216,14 @@ def updaterss(journal: str, shortname: str, url: str, cdate: str):
 
 def update_journals(cdate: str):
     """
-    Update the RSS feeds for multiple journals.
+    Updates the RSS feeds for a list of journals.
+
+    This function iterates over a predefined list of journals, calling the `updaterss` function
+    for each journal to fetch, process, and save updated RSS feed information.
 
     Args:
-        cdate (str): The current date.
-
+        cdate (str): The current date, used for processing article data within each journal's 
+                     RSS feed.
     """
     for j in journal_list:
         journal = j['journal']
@@ -174,13 +231,13 @@ def update_journals(cdate: str):
         url = j['url']
         updaterss(journal, shortname, url, cdate)
 
-## Debugging functions
+''' Debugging functions '''
 def get_xml_from_file(filepath: Path=Path('acie.xml')):
     """
     Retrieve XML data from the given file and parse it into an ElementTree.
 
     Args:
-        filename (Path): The path to the XML file. Default is Path('acie.xml')
+        filename (Path): The path to the XML file. Default is Path('acie.xml'). 
 
     Returns:
         xml.etree.ElementTree.Element: The root element of the parsed XML.
@@ -238,10 +295,10 @@ ET.register_namespace('dc', 'http://purl.org/dc/elements/1.1/')
 ET.register_namespace('prism', 'http://prismstandard.org/namespaces/basic/2.0/')
 ET.register_namespace('rdf', 'http://www.w3.org/1999/02/22-rdf-syntax-ns#')
 
-journal_list = [ {'journal': 'Advanced Materials', 'shortname': 'AdvMater', 'url': 'https://onlinelibrary.wiley.com/feed/15214095/most-recent'},
+journal_list = [{'journal': 'Advanced Materials', 'shortname': 'AdvMater', 'url': 'https://onlinelibrary.wiley.com/feed/15214095/most-recent'},
                 {'journal': 'Advanced Synthesis & Catalysis', 'shortname': 'AdvSynthCatal', 'url': 'https://onlinelibrary.wiley.com/feed/16154169/most-recent'},
                 {'journal': 'Angewandte Chemie International Edition', 'shortname': 'acie', 'url': 'https://onlinelibrary.wiley.com/feed/15213773/most-recent'},
                 {'journal': 'Chemistry — A European Journal', 'shortname': 'ChemEurJ', 'url': 'https://onlinelibrary.wiley.com/feed/15213765/most-recent'},
                 {'journal': 'ChemBioChem', 'shortname': 'ChemBioChem', 'url': 'https://onlinelibrary.wiley.com/feed/14397633/most-recent'},
-		{'journal': 'European Journal of Chemistry', 'shortname': 'ejoc', 'url': 'https://onlinelibrary.wiley.com/feed/10990690/most-recent'}
+		        {'journal': 'European Journal of Chemistry', 'shortname': 'ejoc', 'url': 'https://onlinelibrary.wiley.com/feed/10990690/most-recent'}
                 ]
