@@ -71,9 +71,10 @@ def extract_doi_and_date(paper: ET.Element, cdate: str) -> tuple[str, str]:
         else:
             date = 'none'
     
-    return doi, date
+        return doi, date
+    return None, None
 
-def update_with_new_date(rss_articles: list[list[str, str]], doi: str, date: str):
+def update_with_new_date(rss_articles: list[list[str, str]], doi: str, date: str, cdate: str):
     """
     Updates an RSS article's date if the specified DOI is found and the date needs to be changed.
 
@@ -85,19 +86,22 @@ def update_with_new_date(rss_articles: list[list[str, str]], doi: str, date: str
         rss_articles (list[list[str, str]]): A list of articles, where each article is represented by 
                                              a list containing a DOI and a date.
         doi (str): The DOI of the article to update.
-        date (str): The new date to be set for the article.
+        date(str): The original date of the article, or 'none' if not known. 
+        cdate (str): The new date (today's date) to be set for the article.
     """
-    idx = [i[0] for i in rss_articles].index(doi) # Indices where doi appears
-    if date not in rss_articles[idx]:
-        try:
-            existing_date = rss_articles[idx][1]
-            # If existing date not in standard format, update it
-            if existing_date.count('-') != 2: 
-                rss_articles[idx][1] = date
-        except IndexError:
-            rss_articles[idx].append(date)
+    if date == 'none': # Only need to update if date is 'none'
+        idx = [i[0] for i in rss_articles].index(doi) # Indices where doi appears
+        if cdate not in rss_articles[idx]:
+            try:
+                existing_date = rss_articles[idx][1]
+                # If existing date not in standard format, update it
+                if existing_date.count('-') != 2: 
+                    rss_articles[idx][1] = date
+            except IndexError:
+                rss_articles[idx].append(date)
 
-def update_rss_articles(root: ET.Element, old_articles: list[list[str, str]], cdate: str) -> list[list[str, str]]:
+def update_rss_articles(root: ET.Element, old_articles: list[list[str, str]], cdate: str
+                        ) -> list[list[str, str]]:
     """
     Updates the list of RSS articles by adding new articles from the XML root element and 
     removing duplicates.
@@ -121,16 +125,14 @@ def update_rss_articles(root: ET.Element, old_articles: list[list[str, str]], cd
         doi, date = extract_doi_and_date(paper, cdate)
 
         # Check the doi-date pair isn't already in the list
-        if [doi, date] not in rss_articles:
+        if doi is not None and [doi, date] not in rss_articles:
             # If the doi is in the list but with a different date, update the entry
-            if doi in [i[0] for i in rss_articles]:
+            if doi in (article[0] for article in rss_articles):
                 try:
                     root.remove(paper) # Remove duplicate paper from xml
                 except ValueError:
                     pass
-                # Use today's date if none available
-                if date == 'none':
-                    update_with_new_date(rss_articles, doi, cdate)
+                update_with_new_date(rss_articles, doi, date, cdate)
             else:
                 # Add new [doi, date] pair to the article list
                 rss_articles.append([doi, date])
