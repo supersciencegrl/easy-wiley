@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; Wiley-VCH GmbH, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Chemistry Europe)</managingEditor>
-      <pubDate>Mon, 14 Jul 2025 07:30:57 +0000</pubDate>
-      <lastBuildDate>Mon, 14 Jul 2025 07:30:57 +0000</lastBuildDate>
+      <pubDate>Tue, 15 Jul 2025 07:20:25 +0000</pubDate>
+      <lastBuildDate>Tue, 15 Jul 2025 07:20:25 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -20,6 +20,236 @@
          <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
       </image>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500194</link>
+         <pubDate>Mon, 14 Jul 2025 01:55:56 -0700</pubDate>
+         <dc:date>2025-07-14T01:55:56-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500194</guid>
+         <title>A Browser&#8208;Based Tool for Assessing Accuracy of Isothermal Titration Calorimetry&#8208;Derived Parameters: Kd, &#916;H&#176;, and n</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Accurate Kd determination is crucial for drug discovery and diagnostics. Accuracy confidence intervals (ACI)&#8208;ITC, a browser&#8208;based tool, calculates ACI for isothermal titration calorimetry (ITC)&#8208;derived parameters, considering systematic errors in concentration and heat measurements. By offering probabilistic ranges for true Kd, &#916;H&#176;, and stoichiometry value n, ACI&#8208;ITC enhances experimental reliability, guiding better decisions, streamlining cross&#8208;platform accuracy assessments, and improving trust in ITC&#8208;based findings.
+
+Accurate determination of equilibrium dissociation constants (Kd) is essential for decision&#8208;making in drug discovery and diagnostics development. Isothermal titration calorimetry (ITC), which requires no reactant labeling or immobilization, is commonly used to validate Kd values from high&#8208;throughput screens. Yet, like other methods, ITC results can be skewed by systematic errors in reactant concentrations, a fact that is often overlooked, potentially leading to misinformed decisions. To address this, accuracy confidence intervals (ACI)&#8208;ITC is developed, a browser&#8208;based tool that calculates ACI for ITC&#8208;derived parameters, offering probabilistic ranges for the true values of Kd, enthalpy change (&#916;H&#176;), and binding stoichiometry (n). Unlike traditional confidence intervals that consider only random errors, ACI&#8208;ITC explicitly accounts for systematic errors, providing a more accurate framework to assess experimental reliability. Alongside a user&#8208;friendly interface, it offers detailed guidance for determining uncertainties in concentrations and heat, which are critical inputs for assessing measurement accuracy. The tool's browser&#8208;based accessibility (https://aci.sci.yorku.ca) eliminates the need for specialized installation, enabling cross&#8208;platform compatibility and streamlining accuracy assessments. By highlighting the importance of systematic errors and providing a structured approach for their evaluation, ACI&#8208;ITC supports more robust conclusions, fosters better&#8208;informed decisions based on ITC measurements, and enhances the reliability of research findings.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/abac647d-f181-4aaf-9503-ce13913aa2b4/cbic202500194-blkfxd-0001-m.png"
+     alt="A Browser-Based Tool for Assessing Accuracy of Isothermal Titration Calorimetry-Derived Parameters: Kd, &#916;H&#176;, and n"/&gt;
+&lt;p&gt;Accurate &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;d&lt;/sub&gt; determination is crucial for drug discovery and diagnostics. Accuracy confidence intervals (ACI)-ITC, a browser-based tool, calculates ACI for isothermal titration calorimetry (ITC)-derived parameters, considering systematic errors in concentration and heat measurements. By offering probabilistic ranges for true &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;d&lt;/sub&gt;, &#916;&lt;i&gt;H&lt;/i&gt;&#176;, and stoichiometry value &lt;i&gt;n&lt;/i&gt;, ACI-ITC enhances experimental reliability, guiding better decisions, streamlining cross-platform accuracy assessments, and improving trust in ITC-based findings.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Accurate determination of equilibrium dissociation constants (&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;d&lt;/sub&gt;) is essential for decision-making in drug discovery and diagnostics development. Isothermal titration calorimetry (ITC), which requires no reactant labeling or immobilization, is commonly used to validate &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;d&lt;/sub&gt; values from high-throughput screens. Yet, like other methods, ITC results can be skewed by systematic errors in reactant concentrations, a fact that is often overlooked, potentially leading to misinformed decisions. To address this, accuracy confidence intervals (ACI)-ITC is developed, a browser-based tool that calculates ACI for ITC-derived parameters, offering probabilistic ranges for the true values of &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;d&lt;/sub&gt;, enthalpy change (&#916;&lt;i&gt;H&lt;/i&gt;&#176;), and binding stoichiometry (&lt;i&gt;n&lt;/i&gt;). Unlike traditional confidence intervals that consider only random errors, ACI-ITC explicitly accounts for systematic errors, providing a more accurate framework to assess experimental reliability. Alongside a user-friendly interface, it offers detailed guidance for determining uncertainties in concentrations and heat, which are critical inputs for assessing measurement accuracy. The tool's browser-based accessibility (https://aci.sci.yorku.ca) eliminates the need for specialized installation, enabling cross-platform compatibility and streamlining accuracy assessments. By highlighting the importance of systematic errors and providing a structured approach for their evaluation, ACI-ITC supports more robust conclusions, fosters better-informed decisions based on ITC measurements, and enhances the reliability of research findings.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Tong Ye Wang, 
+Amit Bijlani, 
+Emily Hoi Pui Chao, 
+Philip E. Johnson, 
+Sergey N. Krylov
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>A Browser&#8208;Based Tool for Assessing Accuracy of Isothermal Titration Calorimetry&#8208;Derived Parameters: Kd, &#916;H&#176;, and n</dc:title>
+         <dc:identifier>10.1002/cbic.202500194</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500194</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500194</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500352</link>
+         <pubDate>Mon, 14 Jul 2025 01:54:11 -0700</pubDate>
+         <dc:date>2025-07-14T01:54:11-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500352</guid>
+         <title>Isomerized and Racemized Aspartyl and Deamidated Asparagine Residues Identified in &#611;S&#8208;Crystallin</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+The lens contains some of the oldest proteins in the body that undergo deamidation, isomerization, and racemization at asparagine and aspartic acids during cataract. This study identifies these modifications in a major lens protein called &#611;S&#8208;crystallin using stable isotope&#8208;labeled peptides, and confidently assigns deamidation status using high&#8208;resolution mass spectrometry.
+
+&#611;S&#8208;crystallin is a major protein of the human lens and is highly modified with age and cataract due to a lack of lens protein turnover. Previous studies identify some sites of isomerization and racemization of deamidated asparaginyl and aspartyl residues in &#611;S but have been limited due to the complexity of isoforms and difficulty in characterizing deamidation posttranslational modifications. A total of 32 stable isotope&#8208;labeled peptides are created for &#611;S residues 7&#8211;18, 72&#8211;78, and 131&#8211;145, containing L&#8208;Asp, D&#8208;Asp, L&#8208;isoAsp, and D&#8208;isoAsp at D12, N14, N76, D77, and N143 to act as internal chromatography standards spiked into tryptic digests of nuclear insoluble protein of a cataractous human lens. High&#8208;resolution mass spectrometry is used to accurately assign deamidation status using the 19&#8201;mDa mass defect between isotopic peaks of deamidated and nondeamidated peptides. While peptides containing D&#8208;forms of Asp and isoAsp were assigned, the predominant isoforms contained L&#8208;isoAsp. High&#8208;resolution mass spectrometry using wide single ion monitoring data&#8208;independent acquisition also greatly improved the reliable identification of peptide deamidation states. These results will aid creation of &#611;S using native chemical ligation to examine the role of isoAsp in crystallin aggregation and cataract.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d2f272cd-7baa-4ecd-be32-1ecbfe829560/cbic202500352-blkfxd-0001-m.png"
+     alt="Isomerized and Racemized Aspartyl and Deamidated Asparagine Residues Identified in &#611;S-Crystallin"/&gt;
+&lt;p&gt;The lens contains some of the oldest proteins in the body that undergo deamidation, isomerization, and racemization at asparagine and aspartic acids during cataract. This study identifies these modifications in a major lens protein called &#611;S-crystallin using stable isotope-labeled peptides, and confidently assigns deamidation status using high-resolution mass spectrometry.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&#611;S-crystallin is a major protein of the human lens and is highly modified with age and cataract due to a lack of lens protein turnover. Previous studies identify some sites of isomerization and racemization of deamidated asparaginyl and aspartyl residues in &#611;S but have been limited due to the complexity of isoforms and difficulty in characterizing deamidation posttranslational modifications. A total of 32 stable isotope-labeled peptides are created for &#611;S residues 7&#8211;18, 72&#8211;78, and 131&#8211;145, containing L-Asp, D-Asp, L-isoAsp, and D-isoAsp at D12, N14, N76, D77, and N143 to act as internal chromatography standards spiked into tryptic digests of nuclear insoluble protein of a cataractous human lens. High-resolution mass spectrometry is used to accurately assign deamidation status using the 19&#8201;mDa mass defect between isotopic peaks of deamidated and nondeamidated peptides. While peptides containing D-forms of Asp and isoAsp were assigned, the predominant isoforms contained L-isoAsp. High-resolution mass spectrometry using wide single ion monitoring data-independent acquisition also greatly improved the reliable identification of peptide deamidation states. These results will aid creation of &#611;S using native chemical ligation to examine the role of isoAsp in crystallin aggregation and cataract.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Victoria S. Halls, 
+Larry L. David, 
+Keith D. Zientek, 
+Kirsten J. Lampi
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Isomerized and Racemized Aspartyl and Deamidated Asparagine Residues Identified in &#611;S&#8208;Crystallin</dc:title>
+         <dc:identifier>10.1002/cbic.202500352</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500352</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500352</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500368</link>
+         <pubDate>Mon, 14 Jul 2025 01:50:35 -0700</pubDate>
+         <dc:date>2025-07-14T01:50:35-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500368</guid>
+         <title>Boosting Antibiotic Efficacy of Azole Drugs against Methicillin&#8208;Resistant Staphylococcus Aureus by Coordination to Rhenium Carbonyl Complexes</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Coordination of antifungal azoles to rhenium di&#8208; and tricarbonyl complexes results in compounds with enhanced antimicrobial efficacy&#8212;up to 32&#8208;fold minimum inhibitory concentration improvement&#8212;against methicillin&#8208;sensitive and methicillin&#8208;resistant Staphylococcus aureus over parent azoles. Cationic fac&#8208;[Re(CO)3]+ complexes are consistently more potent than cis&#8208;[Re(CO)2]+ species, with a ketoconazole derivative acting by disrupting membrane integrity.
+
+Herein, a library of rhenium di&#8208; and tricarbonyl complexes featuring various antimicrobial azoles as monodentate ligands is synthesized and characterized. Their antimicrobial activity is evaluated against both methicillin&#8208;sensitive (MSSA) and methicillin&#8208;resistant Staphylococcus aureus (MRSA), and selected compounds are also assessed for cytotoxicity, yielding promising therapeutic indices. Notably, the complexation of antifungal azoles to the rhenium core enhances antimicrobial efficacy, with a compound exhibiting up to a 32&#8208;fold improvement in minimum inhibitory concentration (MIC) values relative to the parent azole. Structure&#8211;activity relationships indicate that cationic fac&#8208;[Re(CO)3]+ complexes consistently outperform their cis&#8208;[Re(CO)2]+ counterparts, and mechanistic studies suggest that active complexes disrupt bacterial membrane integrity and interfere with the electron transport chain. Complementary small&#8208;angle X&#8208;ray scattering and in silico analysis corroborate these findings, offering insights into the mechanism of action of this family of complexes.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/bc2c3d92-525a-4051-b174-06652f141ff5/cbic202500368-blkfxd-0001-m.png"
+     alt="Boosting Antibiotic Efficacy of Azole Drugs against Methicillin-Resistant Staphylococcus Aureus by Coordination to Rhenium Carbonyl Complexes"/&gt;
+&lt;p&gt;Coordination of antifungal azoles to rhenium di- and tricarbonyl complexes results in compounds with enhanced antimicrobial efficacy&#8212;up to 32-fold minimum inhibitory concentration improvement&#8212;against methicillin-sensitive and methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; over parent azoles. Cationic fac-[Re(CO)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;+&lt;/sup&gt; complexes are consistently more potent than &lt;i&gt;cis&lt;/i&gt;-[Re(CO)&lt;sub&gt;2&lt;/sub&gt;]&lt;sup&gt;+&lt;/sup&gt; species, with a ketoconazole derivative acting by disrupting membrane integrity.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Herein, a library of rhenium di- and tricarbonyl complexes featuring various antimicrobial azoles as monodentate ligands is synthesized and characterized. Their antimicrobial activity is evaluated against both methicillin-sensitive (MSSA) and methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; (MRSA), and selected compounds are also assessed for cytotoxicity, yielding promising therapeutic indices. Notably, the complexation of antifungal azoles to the rhenium core enhances antimicrobial efficacy, with a compound exhibiting up to a 32-fold improvement in minimum inhibitory concentration (MIC) values relative to the parent azole. Structure&#8211;activity relationships indicate that cationic &lt;i&gt;fac&lt;/i&gt;-[Re(CO)&lt;sub&gt;3&lt;/sub&gt;]&lt;sup&gt;+&lt;/sup&gt; complexes consistently outperform their &lt;i&gt;cis&lt;/i&gt;-[Re(CO)&lt;sub&gt;2&lt;/sub&gt;]&lt;sup&gt;+&lt;/sup&gt; counterparts, and mechanistic studies suggest that active complexes disrupt bacterial membrane integrity and interfere with the electron transport chain. Complementary small-angle X-ray scattering and &lt;i&gt;in silico&lt;/i&gt; analysis corroborate these findings, offering insights into the mechanism of action of this family of complexes.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Kevin Schindler, 
+Gozde Demirci, 
+Bettina Tran, 
+Sara Nasiri Sovari, 
+Youri Cortat, 
+Nicolas F. Rosa De Sousa, 
+Carola Velti, 
+Baptiste Chapuis, 
+Aur&#233;lien Crochet, 
+Aleksandar Pavic, 
+Jelena Djuris, 
+Stefan Salentinig, 
+Fabio Zobi
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Boosting Antibiotic Efficacy of Azole Drugs against Methicillin&#8208;Resistant Staphylococcus Aureus by Coordination to Rhenium Carbonyl Complexes</dc:title>
+         <dc:identifier>10.1002/cbic.202500368</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500368</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500368</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500253</link>
+         <pubDate>Mon, 14 Jul 2025 01:49:12 -0700</pubDate>
+         <dc:date>2025-07-14T01:49:12-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500253</guid>
+         <title>Fucose&#8208;Based Glycopolymeric Nanomicelles for Activated Platelet&#8208;Targeted Photothermal Thrombolysis</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Glycopolymeric nanomicelles are designed with hydrophilic fucose segments for activated platelet&#8208;mediated targeting of thrombus, and dimethylaminoethyl methacrylate core structure that enables the encapsulation of indocyanine green, thus, achieving precision photothermal thrombolysis.
+
+Thrombotic disorders represent a significant global health burden, with conventional thrombolytic therapies often limited by systemic bleeding risks and inadequate thrombus specificity. To address these challenges, a biomimetic glycopolymer&#8208;based nanomicelle system is developed for precision thrombosis management. Utilizing reversible addition&#8211;fragmentation chain&#8208;transfer polymerization, a type of cationic glycopolymer is synthesized from dimethylaminoethyl methacrylate and fucose monomers, which self&#8208;assembles into core&#8208;shell nanomicelles. The hydrophilic corona features multivalent fucose clusters that selectively bind to P&#8208;selectin on activated platelets within the thrombi, enabling targeted accumulation, while the hydrophobic core encapsulates the photothermal agent indocyanine green (ICG), enhancing its aqueous solubility and photostability. Upon near&#8208;infrared (NIR) laser irradiation, the ICG&#8208;loaded glycopolymeric nanomicelle, ICG@D20F20 exhibits efficient photothermal conversion, generating localized hyperthermia to disrupt fibrin networks. This platform offers several advantages, including precise targeting, synergistic thrombolysis, and enhanced biocompatibility, thereby overcoming the limitations of traditional thrombolytics and providing a novel approach for minimally invasive, image&#8208;guided cardiovascular interventions.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/82167eab-d929-4baa-966f-1909b8108e33/cbic202500253-blkfxd-0001-m.png"
+     alt="Fucose-Based Glycopolymeric Nanomicelles for Activated Platelet-Targeted Photothermal Thrombolysis"/&gt;
+&lt;p&gt;Glycopolymeric nanomicelles are designed with hydrophilic fucose segments for activated platelet-mediated targeting of thrombus, and dimethylaminoethyl methacrylate core structure that enables the encapsulation of indocyanine green, thus, achieving precision photothermal thrombolysis.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Thrombotic disorders represent a significant global health burden, with conventional thrombolytic therapies often limited by systemic bleeding risks and inadequate thrombus specificity. To address these challenges, a biomimetic glycopolymer-based nanomicelle system is developed for precision thrombosis management. Utilizing reversible addition&#8211;fragmentation chain-transfer polymerization, a type of cationic glycopolymer is synthesized from dimethylaminoethyl methacrylate and fucose monomers, which self-assembles into core-shell nanomicelles. The hydrophilic corona features multivalent fucose clusters that selectively bind to P-selectin on activated platelets within the thrombi, enabling targeted accumulation, while the hydrophobic core encapsulates the photothermal agent indocyanine green (ICG), enhancing its aqueous solubility and photostability. Upon near-infrared (NIR) laser irradiation, the ICG-loaded glycopolymeric nanomicelle, &lt;b&gt;ICG@D&lt;/b&gt;
+&lt;sub&gt;
+   &lt;b&gt;20&lt;/b&gt;
+&lt;/sub&gt;
+&lt;b&gt;F&lt;/b&gt;
+&lt;sub&gt;
+   &lt;b&gt;20&lt;/b&gt;
+&lt;/sub&gt; exhibits efficient photothermal conversion, generating localized hyperthermia to disrupt fibrin networks. This platform offers several advantages, including precise targeting, synergistic thrombolysis, and enhanced biocompatibility, thereby overcoming the limitations of traditional thrombolytics and providing a novel approach for minimally invasive, image-guided cardiovascular interventions.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Minzhi Song, 
+Wenxi Yang, 
+Lingxin Peng, 
+Changan Ren, 
+Jinghua Chen, 
+Yan Zhang
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Fucose&#8208;Based Glycopolymeric Nanomicelles for Activated Platelet&#8208;Targeted Photothermal Thrombolysis</dc:title>
+         <dc:identifier>10.1002/cbic.202500253</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500253</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500253</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500298</link>
+         <pubDate>Mon, 14 Jul 2025 01:48:21 -0700</pubDate>
+         <dc:date>2025-07-14T01:48:21-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500298</guid>
+         <title>Identification of a l&#8208;Threonine&#8208;Utilizing Hydrazine Synthetase for Thrazarine Biosynthesis in Streptomyces coerulescens MH802&#8208;fF5</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+A putative thrazarine biosynthetic gene cluster is discovered in the genome sequence of Streptomyces coerulescens MH802&#8208;fF5. In&#8201;vivo and in&#8201;vitro analyses of ThzN, a hydrazine synthetase with cupin and methionyl&#8208;tRNA synthetase&#8208;like domains encoded in the cluster, showed that it synthesizes a key intermediate of thrazarine by catalyzing condensation between l&#8208;threonine and N6&#8208;hydroxylysine, followed by intramolecular rearrangement.
+
+Hydrazine synthetases (HSs), consisting of cupin and methionyl&#8208;tRNA synthetase (MetRS)&#8208;like domains, catalyze hydrazine formation in the biosynthesis of various nitrogen&#63743;nitrogen (N&#63743;N) bond&#8208;containing secondary metabolites. The structural diversity of the N&#63743;N bond&#8208;containing secondary metabolites synthesized using this system is attributed to the diversity of amino acids (e.g., l&#8208;Glu, d&#8208;Glu, l&#8208;Ala, l&#8208;Tyr, l&#8208;Ser, and Gly) that are recognized by the MetRS domain. However, there are still many HS genes in the genome database whose substrates are unknown. This study identifies a putative biosynthetic gene cluster (BGC) for thrazarine, a diazo group&#8208;containing secondary metabolite with antitumor activity, by whole&#8208;genome sequencing of the thrazarine producer Streptomyces coerulescens MH802&#8208;fF5. In&#8201;vivo and in&#8201;vitro analyses showed that ThzN, an HS encoded by this BGC, synthesizes N&#8208;((5&#8208;carboxy&#8208;5&#8208;(amino)pentyl)amino)threonine from l&#8208;Thr and N6&#8208;hydroxylysine. This is the first example of l&#8208;Thr&#8208;utilizing HS. Sequence alignment analysis and structure prediction using Boltz&#8208;1 indicated that the space near Gly417 is important for the accommodation of the threonine side chain. The comparison of thrazarine BGC with azaserine BGC indicated that the biosynthetic mechanism of the diazo group of thrazarine is different from that of azaserine. This study expands the diversity of HSs and provides new insights into the biosynthesis of diazo groups.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/c3664e91-ee1f-41c3-b90c-98ef6d79b300/cbic202500298-blkfxd-0001-m.png"
+     alt="Identification of a l-Threonine-Utilizing Hydrazine Synthetase for Thrazarine Biosynthesis in Streptomyces coerulescens MH802-fF5"/&gt;
+&lt;p&gt;A putative thrazarine biosynthetic gene cluster is discovered in the genome sequence of &lt;i&gt;Streptomyces coerulescens&lt;/i&gt; MH802-fF5. In&#8201;vivo and in&#8201;vitro analyses of ThzN, a hydrazine synthetase with cupin and methionyl-tRNA synthetase-like domains encoded in the cluster, showed that it synthesizes a key intermediate of thrazarine by catalyzing condensation between &lt;span class="smallCaps"&gt;l&lt;/span&gt;-threonine and &lt;i&gt;N&lt;/i&gt;
+&lt;sup&gt;6&lt;/sup&gt;-hydroxylysine, followed by intramolecular rearrangement.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Hydrazine synthetases (HSs), consisting of cupin and methionyl-tRNA synthetase (MetRS)-like domains, catalyze hydrazine formation in the biosynthesis of various nitrogen&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;nitrogen (N&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N) bond-containing secondary metabolites. The structural diversity of the N&lt;span class='icomoon'&gt;&#63743;&lt;/span&gt;N bond-containing secondary metabolites synthesized using this system is attributed to the diversity of amino acids (e.g., &lt;span class="smallCaps"&gt;l&lt;/span&gt;-Glu, &lt;span class="smallCaps"&gt;d&lt;/span&gt;-Glu, &lt;span class="smallCaps"&gt;l&lt;/span&gt;-Ala, &lt;span class="smallCaps"&gt;l&lt;/span&gt;-Tyr, &lt;span class="smallCaps"&gt;l&lt;/span&gt;-Ser, and Gly) that are recognized by the MetRS domain. However, there are still many HS genes in the genome database whose substrates are unknown. This study identifies a putative biosynthetic gene cluster (BGC) for thrazarine, a diazo group-containing secondary metabolite with antitumor activity, by whole-genome sequencing of the thrazarine producer &lt;i&gt;Streptomyces coerulescens&lt;/i&gt; MH802-fF5. In&#8201;vivo and in&#8201;vitro analyses showed that ThzN, an HS encoded by this BGC, synthesizes &lt;i&gt;N&lt;/i&gt;-((5-carboxy-5-(amino)pentyl)amino)threonine from &lt;span class="smallCaps"&gt;l&lt;/span&gt;-Thr and &lt;i&gt;N&lt;/i&gt;
+&lt;sup&gt;6&lt;/sup&gt;-hydroxylysine. This is the first example of &lt;span class="smallCaps"&gt;l&lt;/span&gt;-Thr-utilizing HS. Sequence alignment analysis and structure prediction using Boltz-1 indicated that the space near Gly417 is important for the accommodation of the threonine side chain. The comparison of thrazarine BGC with azaserine BGC indicated that the biosynthetic mechanism of the diazo group of thrazarine is different from that of azaserine. This study expands the diversity of HSs and provides new insights into the biosynthesis of diazo groups.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Yusuke Shikai, 
+Hideyuki Muramatsu, 
+Masayuki Igarashi, 
+Yohei Katsuyama, 
+Yasuo Ohnishi
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Identification of a l&#8208;Threonine&#8208;Utilizing Hydrazine Synthetase for Thrazarine Biosynthesis in Streptomyces coerulescens MH802&#8208;fF5</dc:title>
+         <dc:identifier>10.1002/cbic.202500298</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500298</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500298</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500440</link>
+         <pubDate>Mon, 14 Jul 2025 01:44:53 -0700</pubDate>
+         <dc:date>2025-07-14T01:44:53-07:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500440</guid>
+         <title>Pancatalytic Tumor Therapy by Ultrasound Activation of Inorganic Sonosensitizers</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Ultrasound (US)&#8208;activated pancatalytic therapy mediated by sonosensitizers represents a paradigm shift, offering unprecedented spatial specificity and depth penetration capabilities. Herein, the state of US&#8208;activated pancatalytic tumor therapy is summarized, focusing on the classification and design principles of inorganic sonosensitizers, the cancer therapeutic efficacy enabled by sonocatalytic effect, and biosafety considerations for clinical use.
+
+Pancatalytic therapy (PCT) is a comprehensive framework for disease management through the holistic control of catalytic and quasi&#8208;catalytic processes, including preparation (P) of catalysts, activation (A) of specific bio&#8208;effects, and nontoxic treatment (N) of different diseases. Ultrasound (US)&#8208;activated inorganic sonosensitizers have emerged as a powerful platform for pancatalytic tumor therapy, enabling precise and noninvasive cancer treatment through localized reactive oxygen species (ROS) generation by the specific sonocatalytic mechanism. Upon exposure to US activation, inorganic sonosensitizers generate electron&#8211;hole pairs that produce sonocatalytic effect, generating cytotoxic ROS to induce oxidative damage in tumor cells. With ongoing advances in nanomaterial design and US technology, inorganic sonosensitizers represent a transformative approach for precision oncology, offering a versatile and clinically translatable solution for the emerging pancatalytic tumor eradication. This comprehensive review summarizes and highlights recent developments in different kinds of inorganic sonosensitizers and their specific application for pancatalytic tumor therapy. This review begins with providing an overview of inorganic sonosensitizers. The focus is then shifted to US&#8208;activated pancatalytic tumor therapy with high therapeutic efficacy. The biosafety and biospecificity of US&#8208;activated sonosensitizers in combating tumor are further discussed. Finally, the critical challenges and perspectives on potential directions for future clinical translation of this technology are presented.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ba4558d8-95c1-417d-9015-5a95a2bbbe10/cbic202500440-blkfxd-0001-m.png"
+     alt="Pancatalytic Tumor Therapy by Ultrasound Activation of Inorganic Sonosensitizers"/&gt;
+&lt;p&gt;Ultrasound (US)-activated pancatalytic therapy mediated by sonosensitizers represents a paradigm shift, offering unprecedented spatial specificity and depth penetration capabilities. Herein, the state of US-activated pancatalytic tumor therapy is summarized, focusing on the classification and design principles of inorganic sonosensitizers, the cancer therapeutic efficacy enabled by sonocatalytic effect, and biosafety considerations for clinical use.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Pancatalytic therapy (PCT) is a comprehensive framework for disease management through the holistic control of catalytic and quasi-catalytic processes, including preparation (P) of catalysts, activation (A) of specific bio-effects, and nontoxic treatment (N) of different diseases. Ultrasound (US)-activated inorganic sonosensitizers have emerged as a powerful platform for pancatalytic tumor therapy, enabling precise and noninvasive cancer treatment through localized reactive oxygen species (ROS) generation by the specific sonocatalytic mechanism. Upon exposure to US activation, inorganic sonosensitizers generate electron&#8211;hole pairs that produce sonocatalytic effect, generating cytotoxic ROS to induce oxidative damage in tumor cells. With ongoing advances in nanomaterial design and US technology, inorganic sonosensitizers represent a transformative approach for precision oncology, offering a versatile and clinically translatable solution for the emerging pancatalytic tumor eradication. This comprehensive review summarizes and highlights recent developments in different kinds of inorganic sonosensitizers and their specific application for pancatalytic tumor therapy. This review begins with providing an overview of inorganic sonosensitizers. The focus is then shifted to US-activated pancatalytic tumor therapy with high therapeutic efficacy. The biosafety and biospecificity of US-activated sonosensitizers in combating tumor are further discussed. Finally, the critical challenges and perspectives on potential directions for future clinical translation of this technology are presented.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Furong Cheng, 
+Yu Tian, 
+Yu Chen
+</dc:creator>
+         <category>Review</category>
+         <dc:title>Pancatalytic Tumor Therapy by Ultrasound Activation of Inorganic Sonosensitizers</dc:title>
+         <dc:identifier>10.1002/cbic.202500440</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500440</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500440</prism:url>
+         <prism:section>Review</prism:section>
+      </item>
       <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500156</link>
          <pubDate>Fri, 11 Jul 2025 02:36:37 -0700</pubDate>
@@ -2191,34 +2421,6 @@ Sungsu Lim
          <prism:section>Review</prism:section>
       </item>
       <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500253</link>
-         <pubDate>Thu, 26 Jun 2025 19:34:06 -0700</pubDate>
-         <dc:date>2025-06-26T07:34:06-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500253</guid>
-         <title>Fucose&#8208;based glycopolymeric nanomicelles for activated platelet&#8208;targeted photothermal thrombolysis</title>
-         <description>ChemBioChem, Accepted Article. </description>
-         <dc:description>Thrombotic disorders represent a significant global health burden, with conventional thrombolytic therapies often limited by systemic bleeding risks and inadequate thrombus specificity. To address these challenges, a biomimetic glycopolymer&#8208;based nanomicelle system was developed for precision thrombosis management. Utilizing reversible addition&#8208;fragmentation chain&#8208;transfer (RAFT) polymerization, a type of cationic glycopolymers was synthesized from dimethylaminoethyl methacrylate (DMAEMA) and fucose monomers, which self&#8208;assembles into core&#8208;shell nanomicelles. The hydrophilic corona features multivalent fucose clusters that selectively bind to P&#8208;selectin on activated platelets within thrombi, enabling targeted accumulation, while the hydrophobic core encapsulates the photothermal agent indocyanine green (ICG), enhancing its aqueous solubility and photostability. Upon near&#8208;infrared (NIR) laser irradiation, the ICG&#8208;loaded glycopolymeric nanomicelle ICG@D20F20 exhibited efficient photothermal conversion, generating localized hyperthermia to disrupt fibrin networks. This platform offers several advantages, including precise targeting, synergistic thrombolysis, and enhanced biocompatibility, thereby overcoming the limitations of traditional thrombolytics, providing a novel approach for minimally invasive, image&#8208;guided cardiovascular interventions.</dc:description>
-         <content:encoded>&lt;p&gt;Thrombotic disorders represent a significant global health burden, with conventional thrombolytic therapies often limited by systemic bleeding risks and inadequate thrombus specificity. To address these challenges, a biomimetic glycopolymer-based nanomicelle system was developed for precision thrombosis management. Utilizing reversible addition-fragmentation chain-transfer (RAFT) polymerization, a type of cationic glycopolymers was synthesized from dimethylaminoethyl methacrylate (DMAEMA) and fucose monomers, which self-assembles into core-shell nanomicelles. The hydrophilic corona features multivalent fucose clusters that selectively bind to P-selectin on activated platelets within thrombi, enabling targeted accumulation, while the hydrophobic core encapsulates the photothermal agent indocyanine green (ICG), enhancing its aqueous solubility and photostability. Upon near-infrared (NIR) laser irradiation, the ICG-loaded glycopolymeric nanomicelle ICG@D20F20 exhibited efficient photothermal conversion, generating localized hyperthermia to disrupt fibrin networks. This platform offers several advantages, including precise targeting, synergistic thrombolysis, and enhanced biocompatibility, thereby overcoming the limitations of traditional thrombolytics, providing a novel approach for minimally invasive, image-guided cardiovascular interventions.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Minzhi Song, 
-Wenxi Yang, 
-Lingxin Peng, 
-Changan Ren, 
-Jinghua Chen, 
-Yan Zhang
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Fucose&#8208;based glycopolymeric nanomicelles for activated platelet&#8208;targeted photothermal thrombolysis</dc:title>
-         <dc:identifier>10.1002/cbic.202500253</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500253</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500253</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400439</link>
          <pubDate>Thu, 26 Jun 2025 00:00:00 -0700</pubDate>
          <dc:date>2025-06-26T12:00:00-07:00</dc:date>
@@ -2243,93 +2445,6 @@ Florian  P. Seebeck
          <prism:doi>10.1002/cbic.202400439</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202400439</prism:url>
          <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500298</link>
-         <pubDate>Thu, 26 Jun 2025 00:00:00 -0700</pubDate>
-         <dc:date>2025-06-26T12:00:00-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500298</guid>
-         <title>Identification of a L&#8208;threonine&#8208;utilizing hydrazine synthetase for thrazarine biosynthesis in Streptomyces coerulescens MH802&#8208;fF5</title>
-         <description>ChemBioChem, Accepted Article. </description>
-         <dc:description>Hydrazine synthetases (HSs), consisting of cupin and methionyl&#8208;tRNA synthetase (MetRS)&#8208;like domains, catalyze hydrazine formation in the biosynthesis of various nitrogen&#8208;nitrogen (N&#8208;N) bond&#8208;containing secondary metabolites. The structural diversity of the N&#8208;N bond&#8208;containing secondary metabolites synthesized using this system is attributed to the diversity of amino acids (e.g., L&#8208;Glu, L&#8208;Ala, L&#8208;Tyr, L&#8208;Ser, and Gly) that are recognized by the MetRS domain. However, there are still many HS genes in the genome database whose substrates are unknown. In this study, we discovered a putative biosynthetic gene cluster (BGC) for thrazarine, a diazo group&#8208;containing secondary metabolite with antitumor activity, by whole&#8208;genome sequencing of the thrazarine producer Streptomyces coerulescens MH802&#8208;fF5. In vivo and in vitro analyses showed that ThzN, an HS encoded by this BGC, synthesizes N&#8208;((5&#8208;carboxy&#8208;5&#8208;(amino)pentyl)amino)threonine from L&#8208;Thr and N6&#8208;hydroxylysine. This is the first example of L&#8208;Thr&#8208;utilizing HS. Sequence alignment analysis and structure prediction using Boltz&#8208;1 indicated that the space near Gly417 is important for accommodation of the threonine side chain. The comparison of thrazarine BGC with azaserine BGC indicated that the biosynthetic mechanism of the diazo group of thrazarine is different from that of azaserine. This study expands the diversity of HSs and provides new insights into the biosynthesis of diazo groups.</dc:description>
-         <content:encoded>&lt;p&gt;Hydrazine synthetases (HSs), consisting of cupin and methionyl-tRNA synthetase (MetRS)-like domains, catalyze hydrazine formation in the biosynthesis of various nitrogen-nitrogen (N-N) bond-containing secondary metabolites. The structural diversity of the N-N bond-containing secondary metabolites synthesized using this system is attributed to the diversity of amino acids (e.g., L-Glu, L-Ala, L-Tyr, L-Ser, and Gly) that are recognized by the MetRS domain. However, there are still many HS genes in the genome database whose substrates are unknown. In this study, we discovered a putative biosynthetic gene cluster (BGC) for thrazarine, a diazo group-containing secondary metabolite with antitumor activity, by whole-genome sequencing of the thrazarine producer Streptomyces coerulescens MH802-fF5. In vivo and in vitro analyses showed that ThzN, an HS encoded by this BGC, synthesizes N-((5-carboxy-5-(amino)pentyl)amino)threonine from L-Thr and N6-hydroxylysine. This is the first example of L-Thr-utilizing HS. Sequence alignment analysis and structure prediction using Boltz-1 indicated that the space near Gly417 is important for accommodation of the threonine side chain. The comparison of thrazarine BGC with azaserine BGC indicated that the biosynthetic mechanism of the diazo group of thrazarine is different from that of azaserine. This study expands the diversity of HSs and provides new insights into the biosynthesis of diazo groups.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Yusuke Shikai, 
-Hideyuki Muramatsu, 
-Masayuki Igarashi, 
-Yohei Katsuyama, 
-Yasuo Ohnishi
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Identification of a L&#8208;threonine&#8208;utilizing hydrazine synthetase for thrazarine biosynthesis in Streptomyces coerulescens MH802&#8208;fF5</dc:title>
-         <dc:identifier>10.1002/cbic.202500298</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500298</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500298</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500368</link>
-         <pubDate>Wed, 25 Jun 2025 00:00:00 -0700</pubDate>
-         <dc:date>2025-06-25T12:00:00-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500368</guid>
-         <title>Boosting Antibiotic Efficacy of Azole Drugs against Methicillin&#8208;Resistant Staphylococcus aureus by Coordination to Rhenium Carbonyl Complexes</title>
-         <description>ChemBioChem, Accepted Article. </description>
-         <dc:description>In this study, a library of rhenium di&#8208; and tricarbonyl complexes featuring various antimicrobial azoles as monodentate ligands was synthesized and characterized. Their antimicrobial activity was evaluated against both methicillin&#8208;sensitive (MSSA) and methicillin&#8208;resistant (MRSA) Staphylococcus aureus, and selected compounds were also assessed for cytotoxicity, yielding promising therapeutic indices. Notably, the complexation of antifungal azoles to the rhenium core enhanced antimicrobial efficacy, with a compound exhibiting up to a 32&#8208;fold improvement in MIC values relative to the parent azole. Structure&#8208;activity relationships indicated that cationic fac&#8208;[Re(CO)3]+ complexes consistently outperformed their cis&#8208;[Re(CO)2]+ counterparts, and mechanistic studies suggest that active complexes disrupt bacterial membrane integrity and interfere with the electron transport chain. Complementary small&#8208;angle X&#8208;ray scattering and in silico analysis corroborate these findings, offering insights into the mechanism of action of this family of complexes.</dc:description>
-         <content:encoded>&lt;p&gt;In this study, a library of rhenium di- and tricarbonyl complexes featuring various antimicrobial azoles as monodentate ligands was synthesized and characterized. Their antimicrobial activity was evaluated against both methicillin-sensitive (MSSA) and methicillin-resistant (MRSA) Staphylococcus aureus, and selected compounds were also assessed for cytotoxicity, yielding promising therapeutic indices. Notably, the complexation of antifungal azoles to the rhenium core enhanced antimicrobial efficacy, with a compound exhibiting up to a 32-fold improvement in MIC values relative to the parent azole. Structure-activity relationships indicated that cationic fac-[Re(CO)3]+ complexes consistently outperformed their cis-[Re(CO)2]+ counterparts, and mechanistic studies suggest that active complexes disrupt bacterial membrane integrity and interfere with the electron transport chain. Complementary small-angle X-ray scattering and in silico analysis corroborate these findings, offering insights into the mechanism of action of this family of complexes.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Kevin Schindler, 
-Gozde Demirci, 
-Bettina Tran, 
-Sara  Nasiri Sovari, 
-Youri Cortat, 
-Nicolas  F. Rosa De Sousa, 
-Carola Velti, 
-Baptiste Chapuis, 
-Aur&#233;lien Crochet, 
-Aleksandar Pavic, 
-Jelena Djuris, 
-Stefan Salentinig, 
-Fabio Zobi
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Boosting Antibiotic Efficacy of Azole Drugs against Methicillin&#8208;Resistant Staphylococcus aureus by Coordination to Rhenium Carbonyl Complexes</dc:title>
-         <dc:identifier>10.1002/cbic.202500368</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500368</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500368</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500440</link>
-         <pubDate>Tue, 24 Jun 2025 19:49:03 -0700</pubDate>
-         <dc:date>2025-06-24T07:49:03-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500440</guid>
-         <title>Pancatalytic tumor therapy by ultrasound activation of inorganic sonosensitizers</title>
-         <description>ChemBioChem, Accepted Article. </description>
-         <dc:description>Pancatalytic therapy (PCT) is a comprehensive framework for disease management through the holistic control of catalytic and quasi&#8208;catalytic processes, including preparation (P) of catalysts, activation (A) of specific bio&#8208;effects and nontoxic&#8208;treatment (N) of different diseases. Ultrasound (US)&#8208;activated inorganic sonosensitizers have emerged as a powerful platform for pancatalytic tumor therapy, enabling precise and non&#8208;invasive cancer treatment through localized reactive oxygen species (ROS) generation by the specific sonocatalytic mechanism. Upon exposure to US activation, inorganic sonosensitizers generate electron&#8208;hole pairs that produce sonocatalytic effect, generating cytotoxic ROS to induce oxidative damage in tumor cells. With ongoing advances in nanomaterial design and US technology, inorganic sonosensitizers represent a transformative approach for precision oncology, offering a versatile and clinically translatable solution for the emerging pancatalytic tumor eradication. This comprehensive review summarizes and highlights recent developments in different kinds of inorganic sonosensitizers and their specific application for pancatalytic tumor therapy. This review begins with providing an overview of inorganic sonosensitizers. The focus is then shifted to US&#8208;activated pancatalytic tumor therapy with high therapeutic efficacy. The biosafety and biospecificity of US&#8208;activated sonosensitizers on combating tumor were further discussed. Finally, the critical challenges and perspectives on potential directions for future clinical translation of this technology are presented.</dc:description>
-         <content:encoded>&lt;p&gt;Pancatalytic therapy (PCT) is a comprehensive framework for disease management through the holistic control of catalytic and quasi-catalytic processes, including preparation (P) of catalysts, activation (A) of specific bio-effects and nontoxic-treatment (N) of different diseases. Ultrasound (US)-activated inorganic sonosensitizers have emerged as a powerful platform for pancatalytic tumor therapy, enabling precise and non-invasive cancer treatment through localized reactive oxygen species (ROS) generation by the specific sonocatalytic mechanism. Upon exposure to US activation, inorganic sonosensitizers generate electron-hole pairs that produce sonocatalytic effect, generating cytotoxic ROS to induce oxidative damage in tumor cells. With ongoing advances in nanomaterial design and US technology, inorganic sonosensitizers represent a transformative approach for precision oncology, offering a versatile and clinically translatable solution for the emerging pancatalytic tumor eradication. This comprehensive review summarizes and highlights recent developments in different kinds of inorganic sonosensitizers and their specific application for pancatalytic tumor therapy. This review begins with providing an overview of inorganic sonosensitizers. The focus is then shifted to US-activated pancatalytic tumor therapy with high therapeutic efficacy. The biosafety and biospecificity of US-activated sonosensitizers on combating tumor were further discussed. Finally, the critical challenges and perspectives on potential directions for future clinical translation of this technology are presented.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Furong Cheng, 
-Yu Tian, 
-Yu Chen
-</dc:creator>
-         <category>Review</category>
-         <dc:title>Pancatalytic tumor therapy by ultrasound activation of inorganic sonosensitizers</dc:title>
-         <dc:identifier>10.1002/cbic.202500440</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500440</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500440</prism:url>
-         <prism:section>Review</prism:section>
       </item>
       <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500282</link>
