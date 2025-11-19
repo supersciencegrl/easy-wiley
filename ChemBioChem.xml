@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; Wiley-VCH GmbH, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Chemistry Europe)</managingEditor>
-      <pubDate>Tue, 18 Nov 2025 08:17:17 +0000</pubDate>
-      <lastBuildDate>Tue, 18 Nov 2025 08:17:17 +0000</lastBuildDate>
+      <pubDate>Wed, 19 Nov 2025 08:30:02 +0000</pubDate>
+      <lastBuildDate>Wed, 19 Nov 2025 08:30:02 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -20,6 +20,185 @@
          <url>https://chemistry-europe.onlinelibrary.wiley.com/pb-assets/journal-banners/14397633.jpg</url>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633</link>
       </image>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500660</link>
+         <pubDate>Tue, 18 Nov 2025 20:15:22 -0800</pubDate>
+         <dc:date>2025-11-18T08:15:22-08:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500660</guid>
+         <title>Introducing Quantitative Assessment of Michaelis Constant (Km) Accuracy</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+The Michaelis constant (Km) is often reported with misleading confidence when only standard errors are considered. The accuracy confidence interval (ACI) framework is adapted to Km by recasting velocity&#8211;substrate data as a binding isotherm, propagating systematic uncertainties in enzyme and substrate concentrations. A free web tool (https://aci.sci.yorku.ca) implements ACI&#8208;Km for more reliable Km determination.
+
+The Michaelis constant (Km) is central to enzyme kinetics, guiding variant selection, inhibitor screening, and metabolic modeling. However, Km obtained by nonlinear regression can be substantially inaccurate even when the reported standard error (SE) appears small. Common software reports SE but provides no accuracy metric. This gap is addressed by extending the accuracy confidence interval (ACI) framework to Km (ACI&#8208;Km) through a binding&#8208;isotherm formulation of the velocity&#8211;substrate fit. Given confidence intervals for concentration accuracy, the method quantifies how residual systematic uncertainties in enzyme and substrate concentrations ( E0 and S0) propagate into the determined Km values and provides a probabilistic interval expected to enclose the accurate value. The approach requires no additional kinetic experiments and is directly applicable to existing datasets. Concentration&#8208;accuracy intervals can be estimated from calibration data, reagent specifications, or quality&#8208;control records. ACI&#8208;Km is valid across a wide range of E0/Km conditions, including relatively high E0. A free web application (https://aci.sci.yorku.ca) implements ACI&#8208;Km. Tests on synthetic and experimental datasets show that Km &#177; SE can severely underestimate uncertainty, whereas ACI provides more reliable accuracy bounds for decision&#8208;making, complementing rather than replacing traditional precision metrics by providing quantitative diagnostic bounds for concentration&#8208;related uncertainties in Km determination.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/4612416d-a823-45f5-9376-5abbf3d9a79b/cbic70155-blkfxd-0001-m.png"
+     alt="Introducing Quantitative Assessment of Michaelis Constant (Km) Accuracy"/&gt;
+&lt;p&gt;The Michaelis constant (&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt;) is often reported with misleading confidence when only standard errors are considered. The accuracy confidence interval (ACI) framework is adapted to &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; by recasting velocity&#8211;substrate data as a binding isotherm, propagating systematic uncertainties in enzyme and substrate concentrations. A free web tool (&lt;a target="_blank"
+   title="Link to external resource"
+   href="https://aci.sci.yorku.ca"&gt;https://aci.sci.yorku.ca&lt;/a&gt;) implements ACI-Km for more reliable &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; determination.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;The Michaelis constant (&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt;) is central to enzyme kinetics, guiding variant selection, inhibitor screening, and metabolic modeling. However, &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; obtained by nonlinear regression can be substantially inaccurate even when the reported standard error (SE) appears small. Common software reports SE but provides no accuracy metric. This gap is addressed by extending the accuracy confidence interval (ACI) framework to &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; (ACI-&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt;) through a binding-isotherm formulation of the velocity&#8211;substrate fit. Given confidence intervals for concentration accuracy, the method quantifies how residual systematic uncertainties in enzyme and substrate concentrations ( &lt;i&gt;E&lt;/i&gt;
+&lt;sub&gt;0&lt;/sub&gt; and &lt;i&gt;S&lt;/i&gt;
+&lt;sub&gt;0&lt;/sub&gt;) propagate into the determined &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; values and provides a probabilistic interval expected to enclose the accurate value. The approach requires no additional kinetic experiments and is directly applicable to existing datasets. Concentration-accuracy intervals can be estimated from calibration data, reagent specifications, or quality-control records. ACI-&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; is valid across a wide range of &lt;i&gt;E&lt;/i&gt;
+&lt;sub&gt;0&lt;/sub&gt;/&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; conditions, including relatively high &lt;i&gt;E&lt;/i&gt;
+&lt;sub&gt;0&lt;/sub&gt;. A free web application (&lt;a target="_blank"
+   title="Link to external resource"
+   href="https://aci.sci.yorku.ca"&gt;https://aci.sci.yorku.ca&lt;/a&gt;) implements ACI-&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt;. Tests on synthetic and experimental datasets show that &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; &#177; SE can severely underestimate uncertainty, whereas ACI provides more reliable accuracy bounds for decision-making, complementing rather than replacing traditional precision metrics by providing quantitative diagnostic bounds for concentration-related uncertainties in &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;m&lt;/sub&gt; determination.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Tong Ye Wang, 
+Parmeetpal Dhillon, 
+Svetlana M. Krylova, 
+Amit Bijlani, 
+Sebastian Schreiber, 
+Dasantila Golemi&#8208;Kotra, 
+Joachim Jose, 
+Sergey N. Krylov
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Introducing Quantitative Assessment of Michaelis Constant (Km) Accuracy</dc:title>
+         <dc:identifier>10.1002/cbic.202500660</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500660</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500660</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500739</link>
+         <pubDate>Tue, 18 Nov 2025 20:01:36 -0800</pubDate>
+         <dc:date>2025-11-18T08:01:36-08:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500739</guid>
+         <title>Development of a Genetically Encoded and Potent PDE6D Inhibitor</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+PDE6D is a trafficking chaperone of prenylated proteins. Current small molecule PDE6D inhibitors target its hydrophobic pocket, rendering them typically poorly water soluble. Herein, PDE6D binders are generated by combining parts of the K&#8208;Ras4B and INPP5E C&#8208;termini. The genetically encoded high&#8208;affinity PDE6D inhibitor SNAP&#8208;STI is thus generated. Like in natural PDE6D cargo, high affinity is achieved at the entrance of the hydrophobic pocket.
+
+PDE6D is a trafficking chaperone of prenylated proteins, such as small GTPases. Several small molecule inhibitors have been developed against it, given that the oncogene K&#8208;Ras is one of the cargo proteins. Inhibitor development suffers from the fact that inhibitors against the hydrophobic pocket of PDE6D are typically poorly water&#8208;soluble. Herein, the development of genetically encoded inhibitors that are inspired by high&#8208;affinity natural cargo of PDE6D is described. The most potent inhibitor, SNAP&#8208;STI, encodes merely a farnesylated tetra&#8208;peptide, which efficiently blocks PDE6D binding of farnesylated cargo. Direct comparison with small molecule PDE6D inhibitors suggests its higher potency. It is shown that inhibition of K&#8208;Ras membrane anchorage and K&#8208;RasG12C&#8208;dependent MAPK signaling by SNAP&#8208;STI is weak, consistent with what is observed after PDE6D knockdown. The data therefore further support that PDE6D is not a suitable surrogate target for efficient inhibition of K&#8208;Ras membrane anchorage and MAPK&#8208;activity. Nonetheless, by exploiting contacts at the pocket entry, a generalizable strategy to design high&#8208;affinity PDE6D inhibitors is established, providing powerful tools for PDE6D biology and target validation.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/8cd024c6-77e0-43ed-8b76-660018b16884/cbic70152-blkfxd-0001-m.png"
+     alt="Development of a Genetically Encoded and Potent PDE6D Inhibitor"/&gt;
+&lt;p&gt;PDE6D is a trafficking chaperone of prenylated proteins. Current small molecule PDE6D inhibitors target its hydrophobic pocket, rendering them typically poorly water soluble. Herein, PDE6D binders are generated by combining parts of the K-Ras4B and INPP5E C-termini. The genetically encoded high-affinity PDE6D inhibitor SNAP-STI is thus generated. Like in natural PDE6D cargo, high affinity is achieved at the entrance of the hydrophobic pocket.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;PDE6D is a trafficking chaperone of prenylated proteins, such as small GTPases. Several small molecule inhibitors have been developed against it, given that the oncogene K-Ras is one of the cargo proteins. Inhibitor development suffers from the fact that inhibitors against the hydrophobic pocket of PDE6D are typically poorly water-soluble. Herein, the development of genetically encoded inhibitors that are inspired by high-affinity natural cargo of PDE6D is described. The most potent inhibitor, SNAP-STI, encodes merely a farnesylated tetra-peptide, which efficiently blocks PDE6D binding of farnesylated cargo. Direct comparison with small molecule PDE6D inhibitors suggests its higher potency. It is shown that inhibition of K-Ras membrane anchorage and K-RasG12C-dependent MAPK signaling by SNAP-STI is weak, consistent with what is observed after PDE6D knockdown. The data therefore further support that PDE6D is not a suitable surrogate target for efficient inhibition of K-Ras membrane anchorage and MAPK-activity. Nonetheless, by exploiting contacts at the pocket entry, a generalizable strategy to design high-affinity PDE6D inhibitors is established, providing powerful tools for PDE6D biology and target validation.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Atanasio G&#243;mez&#8208;Mulas, 
+Elisabeth Schaffner&#8208;Reckinger, 
+Hanne Peeters, 
+Rohan Chippalkatti, 
+Arnela Dautbasic, 
+Matthew James Smith, 
+Shehab Ismail, 
+Daniel Kwaku Abankwa
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Development of a Genetically Encoded and Potent PDE6D Inhibitor</dc:title>
+         <dc:identifier>10.1002/cbic.202500739</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500739</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500739</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500837</link>
+         <pubDate>Tue, 18 Nov 2025 02:46:46 -0800</pubDate>
+         <dc:date>2025-11-18T02:46:46-08:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500837</guid>
+         <title>
+DNA&#8208;Based Ultrasensitive Cu(II) Sensor: Troponyl&#8208;Thymidine Oligo (T*4T) Forms Copper&#8208;Mediated Duplex Structure</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+This report describes the development of a novel DNA&#8208;based Cu(II) sensor utilizing naturally occurring nonbenzenoid aromatic scaffold Tropolone. Biophysical studies confirmed the formation of self&#8208;assembled duplex&#8208;like dimer structure of the synthesized troponyl&#8208;DNA T*4T with Cu(II) ion, which is further utilized to develop a conductometric&#8208;based Cu(II) sensing device.
+
+DNA&#8208;metal complexes provide new dimensions in synthesizing DNA&#8208;based conducting biomaterials such as aptamers, DNAzymes, and their metal base pairing duplex structure. Structural modifications in the native DNA generate metal&#8208;specific binding sites in addition to phosphate backbone and nucleobase sites. One of the natural nonbenzenoid aromatic molecules, Tropolone, exhibits ion&#8208;specific binding with Cu(II) ion. In the repertoire of DNA metal sensors, troponyl&#8208;DNA can be explored for developing DNA&#8208;based Cu&#8208;sensors owing to the excellent Cu2+ binding affinity of Tropolone ligand. This report describes the synthesis of DNA penta&#8208;oligomer containing the repeated sequence of tr&#8208;dTnucleoside (T*) as (5&#8242;&#8208;T*T*T*T*T&#8208;3&#8242;) and its binding affinity with Cu(II) ions. Its Cu(II) mediated duplex&#8208;like dimer structure shows promising electrical conductivity at pico&#8208;molar [Cu2+] in acetonitrile. Hence, troponyl&#8208;DNA can be applied for making Cu(II) ion sensing devices.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/777ad50c-32e7-4f81-ba1a-35965375d93e/cbic70151-blkfxd-0001-m.png"
+     alt="&amp;#xA;DNA-Based Ultrasensitive Cu(II) Sensor: Troponyl-Thymidine Oligo (T*4T) Forms Copper-Mediated Duplex Structure"/&gt;
+&lt;p&gt;This report describes the development of a novel DNA-based Cu(II) sensor utilizing naturally occurring nonbenzenoid aromatic scaffold Tropolone. Biophysical studies confirmed the formation of self-assembled duplex-like dimer structure of the synthesized troponyl-DNA &lt;b&gt;T&lt;sup&gt;*&lt;/sup&gt;
+&lt;/b&gt;
+&lt;sub&gt;
+   &lt;b&gt;4&lt;/b&gt;
+&lt;/sub&gt;
+&lt;b&gt;T&lt;/b&gt; with Cu(II) ion, which is further utilized to develop a conductometric-based Cu(II) sensing device.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;DNA-metal complexes provide new dimensions in synthesizing DNA-based conducting biomaterials such as aptamers, DNAzymes, and their metal base pairing duplex structure. Structural modifications in the native DNA generate metal-specific binding sites in addition to phosphate backbone and nucleobase sites. One of the natural nonbenzenoid aromatic molecules, Tropolone, exhibits ion-specific binding with Cu(II) ion. In the repertoire of DNA metal sensors, &lt;i&gt;troponyl&lt;/i&gt;-DNA can be explored for developing DNA-based Cu-sensors owing to the excellent Cu&lt;sup&gt;2+&lt;/sup&gt; binding affinity of Tropolone ligand. This report describes the synthesis of DNA penta-oligomer containing the repeated sequence of &lt;b&gt;
+   &lt;i&gt;tr&lt;/i&gt;-dT&lt;/b&gt;nucleoside (T&lt;sup&gt;*&lt;/sup&gt;) as (5&#8242;-&lt;b&gt;T&lt;sup&gt;*&lt;/sup&gt;T&lt;sup&gt;*&lt;/sup&gt;T&lt;sup&gt;*&lt;/sup&gt;T&lt;sup&gt;*&lt;/sup&gt;T&lt;/b&gt;-3&#8242;) and its binding affinity with Cu(II) ions. Its Cu(II) mediated duplex-like dimer structure shows promising electrical conductivity at pico-molar [Cu&lt;sup&gt;2+&lt;/sup&gt;] in acetonitrile. Hence, &lt;i&gt;troponyl&lt;/i&gt;-DNA can be applied for making Cu(II) ion sensing devices.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Ankita Panda, 
+Amarnath Bollu, 
+Avani A, 
+Sagarika Meher, 
+Satyaprasad P. Senanayak, 
+Nagendra K. Sharma
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>
+DNA&#8208;Based Ultrasensitive Cu(II) Sensor: Troponyl&#8208;Thymidine Oligo (T*4T) Forms Copper&#8208;Mediated Duplex Structure</dc:title>
+         <dc:identifier>10.1002/cbic.202500837</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500837</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500837</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500675</link>
+         <pubDate>Tue, 18 Nov 2025 02:37:37 -0800</pubDate>
+         <dc:date>2025-11-18T02:37:37-08:00</dc:date>
+         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/cbic.202500675</guid>
+         <title>Synthesis of the Abiraterone Derivatives 5&#945;&#8208; and 5&#946;&#8208;&#916;1&#8208;Abiraterone and Structural Determination of an Unknown Metabolite in Human Serum Derived from Oral Abiraterone Acetate</title>
+         <description>ChemBioChem, EarlyView. </description>
+         <dc:description>
+Abiraterone (Abi) acetate, a prostate cancer treatment, is orally administered and hydrolyzed, and multiple metabolites are produced in serum by various enzymes. Two novel Abi derivatives, 5&#945;&#8208; and 5&#946;&#8208;&#916;1&#8208;abiraterone, are synthesized. Then, an unknown metabolite in serum is identified to be 5&#946;&#8208;&#916;1&#8208;abiraterone based on its extracted ion chromatogram retention time.
+
+Abiraterone (Abi) acetate, an anticancer drug, produces metabolites in the serum of patients with prostate cancer. Three unknown metabolites of Abi are previously discovered and the structures of two of these compounds are determined by comparing their LC&#8208;based retention times with those of synthesized compounds. However, the structure of the third metabolite is not identified. Herein, two new Abi derivatives, 5&#945;&#8208;&#916;1&#8208;abiraterone (5&#945;&#8208;D1A) and 5&#946;&#8208;&#916;1&#8208;abiraterone (5&#946;&#8208;D1A), with a molecular weight of 348, are successfully synthesized as candidates for the third unknown metabolite. 5&#946;&#8208;D1A is confirmed as this third metabolite based on its retention time in the extracted ion chromatogram. The metabolic pathway may have formed 5&#946;&#8208;D1A rather than 5&#945;&#8208;D1A because of the higher activity of steroid 5&#946;&#8208;reductase compared with that of 5&#945;&#8208;reductase. These findings are expected to lead to the discovery of new metabolic pathways.
+</dc:description>
+         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d23c088e-6f63-4945-9d31-40bb9e67dc9f/cbic70149-blkfxd-0001-m.png"
+     alt="Synthesis of the Abiraterone Derivatives 5&#945;- and 5&#946;-&#916;1-Abiraterone and Structural Determination of an Unknown Metabolite in Human Serum Derived from Oral Abiraterone Acetate"/&gt;
+&lt;p&gt;Abiraterone (Abi) acetate, a prostate cancer treatment, is orally administered and hydrolyzed, and multiple metabolites are produced in serum by various enzymes. Two novel Abi derivatives, 5&#945;- and 5&#946;-&#916;&lt;sup&gt;1&lt;/sup&gt;-abiraterone, are synthesized. Then, an unknown metabolite in serum is identified to be 5&#946;-&#916;&lt;sup&gt;1&lt;/sup&gt;-abiraterone based on its extracted ion chromatogram retention time.&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;Abiraterone (Abi) acetate, an anticancer drug, produces metabolites in the serum of patients with prostate cancer. Three unknown metabolites of Abi are previously discovered and the structures of two of these compounds are determined by comparing their LC-based retention times with those of synthesized compounds. However, the structure of the third metabolite is not identified. Herein, two new Abi derivatives, 5&#945;-&#916;&lt;sup&gt;1&lt;/sup&gt;-abiraterone (5&#945;-D1A) and 5&#946;-&#916;&lt;sup&gt;1&lt;/sup&gt;-abiraterone (5&#946;-D1A), with a molecular weight of 348, are successfully synthesized as candidates for the third unknown metabolite. 5&#946;-D1A is confirmed as this third metabolite based on its retention time in the extracted ion chromatogram. The metabolic pathway may have formed 5&#946;-D1A rather than 5&#945;-D1A because of the higher activity of steroid 5&#946;-reductase compared with that of 5&#945;-reductase. These findings are expected to lead to the discovery of new metabolic pathways.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Noboru Hayama, 
+Shizuyo Horiyama, 
+Ryoma Okamoto, 
+Yukina Nishi, 
+Manae Yada, 
+Ryuji Higashida, 
+Jun Haginaka, 
+Yoshihide Usami
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Synthesis of the Abiraterone Derivatives 5&#945;&#8208; and 5&#946;&#8208;&#916;1&#8208;Abiraterone and Structural Determination of an Unknown Metabolite in Human Serum Derived from Oral Abiraterone Acetate</dc:title>
+         <dc:identifier>10.1002/cbic.202500675</dc:identifier>
+         <prism:publicationName>ChemBioChem</prism:publicationName>
+         <prism:doi>10.1002/cbic.202500675</prism:doi>
+         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500675</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
       <item>
          <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500615</link>
          <pubDate>Mon, 17 Nov 2025 22:59:16 -0800</pubDate>
@@ -2846,150 +3025,6 @@ Luca Ronconi
          <prism:publicationName>ChemBioChem</prism:publicationName>
          <prism:doi>10.1002/cbic.202500447</prism:doi>
          <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500447</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500421</link>
-         <pubDate>Tue, 26 Aug 2025 12:20:03 -0700</pubDate>
-         <dc:date>2025-08-26T12:20:03-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500421</guid>
-         <title>Docking and Molecular Dynamics Simulation&#8208;Based Analysis of Advanced Small&#8208;Molecule Kinase Inhibitors Identified pre&#8208;let&#8208;7 miRNA Binders</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-An integrated computational approach evaluating the binding between pre&#8208;let&#8208;7 microRNA and small&#8208;molecule kinase inhibitors (SMKIs) revealed varied pre&#8208;let&#8208;7 binding affinities among the advanced SMKIs. The results justified the characterization of potential RNA targets for kinase inhibitors and small molecules with protein targets in general.
-
-RNAs play crucial roles in various cellular actions, and the uncontrolled expression or improper folding of RNAs is a cause of many diseases. Certain oncogenic phenotypes stem from the overexpression of regulatory microRNAs that contain secondary structural elements. Thus, targeting disease&#8208;related microRNAs with small molecules is a potential therapeutic&#160;strategy that has attracted growing interest. To probe the RNA&#8208;binding chemical space held in advanced small&#8208;molecule therapeutics, in this work, we screened the 78 FDA&#8208;approved small&#8208;molecule kinase inhibitors (SMKIs) as representatives of the most advanced kinase inhibitors for their binding affinity with pre&#8208;let&#8208;7 miRNA via a combination of computational methods and biophysical measurement. The best&#8208;ranked SMKIs based on docking scores were subjected to molecular dynamics simulation studies, followed by analysis of different computational parameters. Collectively, it provided reliable information on the binding affinity for the top&#8208;performed SMKI in the formation of SMKI&#8211;miRNA complexes with pre&#8208;let&#8208;7. Furthermore, the identification of the predicted most promising SMKI&#8211;miRNA interactions was validated by microscale thermophoresis, measuring direct binding affinities. This study evaluating the binding landscapes of the 78 FDA&#8208;approved SMKIs with pre&#8208;let&#8208;7 miRNA served as an example highlighting the necessity to characterize the biological targets of SMKIs, many of which are FDA&#8208;approved cancer agents, at the transcriptomic level with RNAs. The study also illustrates the possibility that the interaction with RNA targets may contribute to the observed biological and clinical performance of these approved SMKIs.
-</dc:description>
-         <content:encoded>&lt;img src="https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/d43b962f-fe59-41cd-9ddd-51d43770fae6/cbic202500421-blkfxd-0001-m.png"
-     alt="Docking and Molecular Dynamics Simulation-Based Analysis of Advanced Small-Molecule Kinase Inhibitors Identified pre-let-7 miRNA Binders"/&gt;
-&lt;p&gt;An integrated computational approach evaluating the binding between pre-&lt;i&gt;let&lt;/i&gt;-&lt;i&gt;7&lt;/i&gt; microRNA and small-molecule kinase inhibitors (SMKIs) revealed varied pre-&lt;i&gt;let&lt;/i&gt;-&lt;i&gt;7&lt;/i&gt; binding affinities among the advanced SMKIs. The results justified the characterization of potential RNA targets for kinase inhibitors and small molecules with protein targets in general.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;RNAs play crucial roles in various cellular actions, and the uncontrolled expression or improper folding of RNAs is a cause of many diseases. Certain oncogenic phenotypes stem from the overexpression of regulatory microRNAs that contain secondary structural elements. Thus, targeting disease-related microRNAs with small molecules is a potential therapeutic&#160;strategy that has attracted growing interest. To probe the RNA-binding chemical space held in advanced small-molecule therapeutics, in this work, we screened the 78 FDA-approved small-molecule kinase inhibitors (SMKIs) as representatives of the most advanced kinase inhibitors for their binding affinity with pre-&lt;i&gt;let-7&lt;/i&gt; miRNA via a combination of computational methods and biophysical measurement. The best-ranked SMKIs based on docking scores were subjected to molecular dynamics simulation studies, followed by analysis of different computational parameters. Collectively, it provided reliable information on the binding affinity for the top-performed SMKI in the formation of SMKI&#8211;miRNA complexes with pre-&lt;i&gt;let-7.&lt;/i&gt; Furthermore, the identification of the predicted most promising SMKI&#8211;miRNA interactions was validated by microscale thermophoresis, measuring direct binding affinities. This study evaluating the binding landscapes of the 78 FDA-approved SMKIs with pre-&lt;i&gt;let-7&lt;/i&gt; miRNA served as an example highlighting the necessity to characterize the biological targets of SMKIs, many of which are FDA-approved cancer agents, at the transcriptomic level with RNAs. The study also illustrates the possibility that the interaction with RNA targets may contribute to the observed biological and clinical performance of these approved SMKIs.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Soma Roy, 
-Yang Liu, 
-Peng Wu
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Docking and Molecular Dynamics Simulation&#8208;Based Analysis of Advanced Small&#8208;Molecule Kinase Inhibitors Identified pre&#8208;let&#8208;7 miRNA Binders</dc:title>
-         <dc:identifier>10.1002/cbic.202500421</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500421</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500421</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500318</link>
-         <pubDate>Thu, 14 Aug 2025 13:45:11 -0700</pubDate>
-         <dc:date>2025-08-14T01:45:11-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500318</guid>
-         <title>Internal Ubiquitin Electrophiles for Covalent Trapping and Inhibition of Deubiquitinases</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-GA: Genetically encoded internal electrophiles in ubiquitin (Ub) enable the profiling of multivalent interaction interfaces, addressing a key limitation of current Ub&#8208;based activity&#8208;based probes. In this study, these probes capture a Ub&#8211;deubiquitinase interaction with minimal structural perturbation and serve as selective diUb probes that covalently target the catalytic cysteines of Met1&#8208;specific Dubs. 
-
-The ubiquitin (Ub) system governs vital cellular processes in eukaryotic biology through an intricate network of Ub&#8211;protein interactions. While semisynthetic C&#8208;terminal Ub electrophiles (UbEs) are widely used to study Ub transfer and deubiquitinase (Dub) activity, they are limited to probing the active site while leaving other functionally important sites unexplored. Building on previously identified multivalent interaction interfaces and potential allosteric sites which are key to understanding their dynamic nature, here we report the development of genetically encoded Ub&#8208;based probes to covalently tether Ub&#8208;protein interactions in a proximity&#8208;driven manner at distal locations away from the active site. This study demonstrates that UbEs with internal electrophiles maintain conformational changes observed with their C&#8208;terminal counterparts while circumventing their limitations in capturing distal binding&#8208;site complexes, an emerging feature in Ub&#8208;mediated regulation. Genetically encoding these electrophiles further demonstrate rational variation as activity&#8208;based probes (ABP), leading to a Met1&#8208;diUb ABP showing preference for OTULIN over other Met1 cleaving Dubs. Taken together, our study introduces genetically encoded Ub&#8208;based probes to explore the structural and biochemical significance of Ub&#8208;Dub interactions beyond the canonical S1 site, overcoming some limitations of traditional Ub C&#8208;terminal electrophiles.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/122d24c2-a8e6-486b-b727-26a5fd5a4eb5/cbic202500318-blkfxd-0001-m.png"
-     alt="Internal Ubiquitin Electrophiles for Covalent Trapping and Inhibition of Deubiquitinases"/&gt;
-&lt;p&gt;GA: Genetically encoded internal electrophiles in ubiquitin (Ub) enable the profiling of multivalent interaction interfaces, addressing a key limitation of current Ub-based activity-based probes. In this study, these probes capture a Ub&#8211;deubiquitinase interaction with minimal structural perturbation and serve as selective diUb probes that covalently target the catalytic cysteines of Met1-specific Dubs. &lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;The ubiquitin (Ub) system governs vital cellular processes in eukaryotic biology through an intricate network of Ub&#8211;protein interactions. While semisynthetic C-terminal Ub electrophiles (UbEs) are widely used to study Ub transfer and deubiquitinase (Dub) activity, they are limited to probing the active site while leaving other functionally important sites unexplored. Building on previously identified multivalent interaction interfaces and potential allosteric sites which are key to understanding their dynamic nature, here we report the development of genetically encoded Ub-based probes to covalently tether Ub-protein interactions in a proximity-driven manner at distal locations away from the active site. This study demonstrates that UbEs with internal electrophiles maintain conformational changes observed with their C-terminal counterparts while circumventing their limitations in capturing distal binding-site complexes, an emerging feature in Ub-mediated regulation. Genetically encoding these electrophiles further demonstrate rational variation as activity-based probes (ABP), leading to a Met1-diUb ABP showing preference for OTULIN over other Met1 cleaving Dubs. Taken together, our study introduces genetically encoded Ub-based probes to explore the structural and biochemical significance of Ub-Dub interactions beyond the canonical S1 site, overcoming some limitations of traditional Ub C-terminal electrophiles.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Nipuni M. Pannala, 
-Rishi S. Patel, 
-Abhijith Saseendran Anit, 
-Debapriya Bhattacharya, 
-Kristos Negron Teron, 
-Bryon Drown, 
-Rudi Fasan, 
-Chittaranjan Das
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Internal Ubiquitin Electrophiles for Covalent Trapping and Inhibition of Deubiquitinases</dc:title>
-         <dc:identifier>10.1002/cbic.202500318</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500318</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500318</prism:url>
-         <prism:section>Research Article</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500357</link>
-         <pubDate>Wed, 13 Aug 2025 12:13:36 -0700</pubDate>
-         <dc:date>2025-08-13T12:13:36-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500357</guid>
-         <title>Precision Delivery of CRISPR/Cas Systems via DNA Nanostructures for Gene Therapy and Intracellular Detection</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-The emergence of gene editing technology has catalyzed a paradigm shift in life science research, with the CRISPR/Cas system emerging as a cornerstone tool in modern biology due to its transformative capabilities. This review systematically examines current delivery modalities for CRISPR/Cas systems (Cas9, Cas12, Cas13), with particular emphasis on the implementation of DNA&#8208;based functional materials as advanced delivery vehicles.
-
-The CRISPR/Cas system represents a transformative breakthrough in genome editing technology, featuring three principal effector proteins with distinct functionalities: Cas9, which induces site&#8208;specific double&#8208;strand breaks guided by a single guide RNA, enabling precise gene knockout and knock&#8208;in modifications; Cas12, which mediates targeted DNA cleavage through cis&#8208;activity while exhibiting nonspecific trans&#8208;cleavage of single&#8208;stranded DNA, a property exploited for ultrasensitive nucleic acid detection in molecular diagnostics; and Cas13, an RNA&#8208;guided RNase that specifically degrades complementary RNA transcripts, demonstrating significant potential for antiviral therapies and transcriptome regulation. Despite these advances, the clinical translation of CRISPR/Cas systems faces substantial challenges, particularly in achieving efficient and controllable delivery. This reviewsystematically examines current delivery modalities for CRISPR/Cas systems, with particular emphasis on the implementation of DNA&#8208;based functional materials as advanced delivery vehicles. The integration of multifunctional DNA nanostructures with diverse CRISPR/Cas systems may facilitate the development of integrated theranostic platforms, thereby advancing precision medicine through synergistic bioengineering approaches.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/82b0560f-6991-4039-851a-6aed0a2b27b1/cbic202500357-blkfxd-0001-m.png"
-     alt="Precision Delivery of CRISPR/Cas Systems via DNA Nanostructures for Gene Therapy and Intracellular Detection"/&gt;
-&lt;p&gt;The emergence of gene editing technology has catalyzed a paradigm shift in life science research, with the CRISPR/Cas system emerging as a cornerstone tool in modern biology due to its transformative capabilities. This review systematically examines current delivery modalities for CRISPR/Cas systems (Cas9, Cas12, Cas13), with particular emphasis on the implementation of DNA-based functional materials as advanced delivery vehicles.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;The CRISPR/Cas system represents a transformative breakthrough in genome editing technology, featuring three principal effector proteins with distinct functionalities: Cas9, which induces site-specific double-strand breaks guided by a single guide RNA, enabling precise gene knockout and knock-in modifications; Cas12, which mediates targeted DNA cleavage through cis-activity while exhibiting nonspecific trans-cleavage of single-stranded DNA, a property exploited for ultrasensitive nucleic acid detection in molecular diagnostics; and Cas13, an RNA-guided RNase that specifically degrades complementary RNA transcripts, demonstrating significant potential for antiviral therapies and transcriptome regulation. Despite these advances, the clinical translation of CRISPR/Cas systems faces substantial challenges, particularly in achieving efficient and controllable delivery. This reviewsystematically examines current delivery modalities for CRISPR/Cas systems, with particular emphasis on the implementation of DNA-based functional materials as advanced delivery vehicles. The integration of multifunctional DNA nanostructures with diverse CRISPR/Cas systems may facilitate the development of integrated theranostic platforms, thereby advancing precision medicine through synergistic bioengineering approaches.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Nachuan Song, 
-Lijun Wang, 
-Le Zhang, 
-Gengqi Tian, 
-Chi Yao, 
-Dayong Yang
-</dc:creator>
-         <category>Review</category>
-         <dc:title>Precision Delivery of CRISPR/Cas Systems via DNA Nanostructures for Gene Therapy and Intracellular Detection</dc:title>
-         <dc:identifier>10.1002/cbic.202500357</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500357</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500357</prism:url>
-         <prism:section>Review</prism:section>
-      </item>
-      <item>
-         <link>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500323</link>
-         <pubDate>Tue, 29 Jul 2025 02:47:59 -0700</pubDate>
-         <dc:date>2025-07-29T02:47:59-07:00</dc:date>
-         <source url="https://chemistry-europe.onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/cbic.202500323</guid>
-         <title>Regulation of Gene Expression of Mouse D&#8208;Amino Acid Oxidase</title>
-         <description>ChemBioChem, EarlyView. </description>
-         <dc:description>
-The front cover illustration shows the transcriptional regulation of the mouse D&#8208;amino acid oxidase (DAO) gene. Key TFs act on the core promoter to stimulate DAO expression, leading to D&#8208;serine metabolism and influencing neurotransmission. This reflects the study's discovery of conserved regulatory elements in DAO gene control.
-
-D&#8208;amino acid oxidase (DAO) catalyzes oxidative deamination of D&#8208;amino acids, producing 2&#8208;oxo acids, hydrogen peroxide, and ammonia. In mammals, DAO is essential for metabolizing both endogenous and exogenous D&#8208;amino acids. Previous studies on human DAO identify two promoter regions (P1 and P2), a negative regulatory element in intron 1, and several transcription factor (TF) binding sites. In this study, the regulatory mechanism of mouse DAO gene expression is investigated to compare with the human system. To determine the promoter activity in the upstream region of the initiation site, plasmids containing mouse DAO gene fragments inserted into the pGL4 [luc2P/Hygro] vector and assessed luciferase activity in LLC&#8208;PK1 cells are constructed. A series of deletion constructs is analyzed, revealing promoter activity in all tested fragments. The highest promoter activity is detected in the &#8722;333/&#8722;87 subregion, with residual activities in the &#8722;87/&#8201;+&#8201;111 region. Bioinformatics analysis identifies TFs, including NEUR, EGRF, ZF07, ZF11, KLFS, SP1F, and ZF02, which bind to both the human and mouse DAO genes at conserved positions, suggesting their critical role in regulating DAO promoter activity.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/18c814cd-b78b-4c3b-92e3-cec9a182f1d7/cbic202500323-blkfxd-0001-m.png"
-     alt="Regulation of Gene Expression of Mouse D-Amino Acid Oxidase"/&gt;
-&lt;p&gt;The front cover illustration shows the transcriptional regulation of the mouse D-amino acid oxidase (&lt;i&gt;DAO&lt;/i&gt;) gene. Key TFs act on the core promoter to stimulate &lt;i&gt;DAO&lt;/i&gt; expression, leading to D-serine metabolism and influencing neurotransmission. This reflects the study's discovery of conserved regulatory elements in &lt;i&gt;DAO&lt;/i&gt; gene control.&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;D-amino acid oxidase (&lt;i&gt;DAO&lt;/i&gt;) catalyzes oxidative deamination of D-amino acids, producing 2-oxo acids, hydrogen peroxide, and ammonia. In mammals, &lt;i&gt;DAO&lt;/i&gt; is essential for metabolizing both endogenous and exogenous D-amino acids. Previous studies on human &lt;i&gt;DAO&lt;/i&gt; identify two promoter regions (P1 and P2), a negative regulatory element in intron 1, and several transcription factor (TF) binding sites. In this study, the regulatory mechanism of mouse &lt;i&gt;DAO&lt;/i&gt; gene expression is investigated to compare with the human system. To determine the promoter activity in the upstream region of the initiation site, plasmids containing mouse &lt;i&gt;DAO&lt;/i&gt; gene fragments inserted into the pGL4 [luc2P/Hygro] vector and assessed luciferase activity in LLC-PK1 cells are constructed. A series of deletion constructs is analyzed, revealing promoter activity in all tested fragments. The highest promoter activity is detected in the &#8722;333/&#8722;87 subregion, with residual activities in the &#8722;87/&#8201;+&#8201;111 region. Bioinformatics analysis identifies TFs, including NEUR, EGRF, ZF07, ZF11, KLFS, SP1F, and ZF02, which bind to both the human and mouse &lt;i&gt;DAO&lt;/i&gt; genes at conserved positions, suggesting their critical role in regulating &lt;i&gt;DAO&lt;/i&gt; promoter activity.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Huong Thi Thanh Trinh, 
-Yuji Shishido, 
-Nam Hoang Tran, 
-Diem Hong Tran, 
-Soo Hyeon Kim, 
-Hirofumi Sogabe, 
-Kiyoshi Fukui
-</dc:creator>
-         <category>Research Article</category>
-         <dc:title>Regulation of Gene Expression of Mouse D&#8208;Amino Acid Oxidase</dc:title>
-         <dc:identifier>10.1002/cbic.202500323</dc:identifier>
-         <prism:publicationName>ChemBioChem</prism:publicationName>
-         <prism:doi>10.1002/cbic.202500323</prism:doi>
-         <prism:url>https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500323</prism:url>
          <prism:section>Research Article</prism:section>
       </item>
       <item>
