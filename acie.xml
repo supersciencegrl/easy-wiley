@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; Wiley-VCH GmbH, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
-      <pubDate>Sat, 21 Feb 2026 08:21:11 +0000</pubDate>
-      <lastBuildDate>Sat, 21 Feb 2026 08:21:11 +0000</lastBuildDate>
+      <pubDate>Sun, 22 Feb 2026 08:27:57 +0000</pubDate>
+      <lastBuildDate>Sun, 22 Feb 2026 08:27:57 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -20,6 +20,455 @@
          <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15213773.jpg</url>
          <link>https://onlinelibrary.wiley.com/journal/15213773</link>
       </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524655</link>
+         <pubDate>Sat, 21 Feb 2026 05:04:12 -0800</pubDate>
+         <dc:date>2026-02-21T05:04:12-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202524655</guid>
+         <title>Hybrid Computational Strategy for Predicting Complex Ligand&#8211;Metal Architectures</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+An accurate &#8220;hybrid&#8221; model&#8212;combining elements of knowledge&#8208;based and Machine Learning approaches&#8212;is designed to predict metal&#8208;ligand coordination modes in a metal&#8208;aware fashion and for structurally complex ligands, including hemilabile and haptic ones as well as those with denticity &gt; 6. The model uses coordination rules derived from the X&#8208;ray structures derived from the Cambridge Structural Database, applies these rules to create candidate structures, and ranks these candidates using a neural&#8208;network&#8208;based scoring function.
+
+
+
+
+
+
+
+
+ABSTRACT
+Understanding how metals coordinate to organic ligands is a precondition for the rational design of metal complexes and catalysts. Whereas certain types of ligands are capable of just one easy&#8208;to&#8208;predict coordination modality, others may present tens and sometimes even hundreds of coordination options (mono&#8208;, bi&#8208;, or polydentate), and predicting the correct one may be a challenge even to seasoned chemists. The current paper describes a &#8220;hybrid&#8221; computational approach in which a Machine Learning, ML, algorithm learns to predict complex coordination patterns using knowledge&#8208;based &#8220;rules&#8221; derived from the Cambridge Structural Database, CSD. This model is applicable to a broad scope of ligands (including hemilabile and haptic ones as well as those with denticity &gt; 6) and different metals at different oxidation states. The algorithm's code is disclosed and can be readily deployed in RDKit via our RDMetallics python&#8208;wrapper. It is also deployed as a publicly accessible web portal for demonstration and use.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f125c417-14ae-4656-b1f6-64a88f6c0e82/anie71312-gra-0001-m.png"
+     alt="Hybrid Computational Strategy for Predicting Complex Ligand&#8211;Metal Architectures"/&gt;
+&lt;p&gt;An accurate &#8220;hybrid&#8221; model&#8212;combining elements of knowledge-based and Machine Learning approaches&#8212;is designed to predict metal-ligand coordination modes in a metal-aware fashion and for structurally complex ligands, including hemilabile and haptic ones as well as those with denticity &amp;gt; 6. The model uses coordination rules derived from the X-ray structures derived from the Cambridge Structural Database, applies these rules to create candidate structures, and ranks these candidates using a neural-network-based scoring function.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Understanding how metals coordinate to organic ligands is a precondition for the rational design of metal complexes and catalysts. Whereas certain types of ligands are capable of just one easy-to-predict coordination modality, others may present tens and sometimes even hundreds of coordination options (mono-, bi-, or polydentate), and predicting the correct one may be a challenge even to seasoned chemists. The current paper describes a &#8220;hybrid&#8221; computational approach in which a Machine Learning, ML, algorithm learns to predict complex coordination patterns using knowledge-based &#8220;rules&#8221; derived from the Cambridge Structural Database, CSD. This model is applicable to a broad scope of ligands (including hemilabile and haptic ones as well as those with denticity &amp;gt; 6) and different metals at different oxidation states. The algorithm's code is disclosed and can be readily deployed in RDKit via our RDMetallics python-wrapper. It is also deployed as a publicly accessible web portal for demonstration and use.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Galymzhan Moldagulov, 
+Kisung Lee, 
+Sanzhar Nurgaliyev, 
+Assanali Salem, 
+Anatolii Kuznietsov, 
+Bartosz A. Grzybowski
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Hybrid Computational Strategy for Predicting Complex Ligand&#8211;Metal Architectures</dc:title>
+         <dc:identifier>10.1002/anie.202524655</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202524655</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524655</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524299</link>
+         <pubDate>Sat, 21 Feb 2026 01:15:24 -0800</pubDate>
+         <dc:date>2026-02-21T01:15:24-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202524299</guid>
+         <title>Tailoring Electronic Properties of Precision Graphene Nanoribbons via Nanopore Engineering</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+Novel porous graphene nanoribbons incorporating [18]annulene nanopores, together with a nonporous GNR of identical width, have been synthesized. Spectroscopic and theoretical analyses reveal that nanopore incorporation effectively tunes their electronic properties by enlarging the bandgap, reducing charge&#8208;carrier mobility, and modulating exciton dynamics, thereby establishing a versatile strategy for the design of porous graphene nanostructures with tailored optoelectronic characteristics.
+
+
+
+
+
+
+
+
+ABSTRACT
+The precise incorporation of nanopores into graphene nanoribbons (GNRs) offers a complementary strategy for modulating their opto&#8208;electronic properties beyond conventional width and edge engineering. However, a systematic understanding of the relationship between the structure and electronic properties of porous GNRs (pGNRs) remains experimentally unexplored due to the lack of rational synthetic strategies. Herein, we report two novel porous GNRs (pGNR 1 and pGNR 2) synthesized via solution&#8208;phase methods, featuring periodically arranged [18]annulene nanopores and gulf&#8208;edged architectures, along with a nonporous GNR (npGNR) as a counterpart. Utilizing efficient Diels&#8208;Alder polymerization and Scholl&#8208;type cyclization, these GNRs attain average lengths of up to 60&#160;nm. The chemical identities of the synthesized GNRs were comprehensively characterized by IR, Raman, and solid&#8208;state NMR spectroscopy, complemented by theoretical calculations. To further elucidate the structural features underlying the observed properties, three representative model compounds (1, 2, and 3) corresponding to segments of the respective GNRs were synthesized and analyzed. UV&#8211;vis and THz spectroscopic analyses demonstrate that npGNR exhibits a relatively narrow optical bandgap of 1.63&#160;eV and a high intrinsic charge carrier mobility of &#8764;40 cm2&#160;V&#8722;1&#160;s&#8722;1, whereas pGNR 2 displays a wider bandgap of 1.91&#160;eV with a reduced mobility of &#8764;27 cm2&#160;V&#8722;1&#160;s&#8722;1. This study systematically elucidates the effects of nanopore incorporation on the electronic structure and charge transport properties of GNRs, offering a rational design framework for the design of nanopore&#8208;engineered carbon&#8208;based electronic materials.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/cfae26c2-c376-4c02-bfba-9a1b97e15c64/anie71508-gra-0001-m.png"
+     alt="Tailoring Electronic Properties of Precision Graphene Nanoribbons via Nanopore Engineering"/&gt;
+&lt;p&gt;Novel porous graphene nanoribbons incorporating [18]annulene nanopores, together with a nonporous GNR of identical width, have been synthesized. Spectroscopic and theoretical analyses reveal that nanopore incorporation effectively tunes their electronic properties by enlarging the bandgap, reducing charge-carrier mobility, and modulating exciton dynamics, thereby establishing a versatile strategy for the design of porous graphene nanostructures with tailored optoelectronic characteristics.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;The precise incorporation of nanopores into graphene nanoribbons (GNRs) offers a complementary strategy for modulating their opto-electronic properties beyond conventional width and edge engineering. However, a systematic understanding of the relationship between the structure and electronic properties of porous GNRs (&lt;b&gt;pGNRs&lt;/b&gt;) remains experimentally unexplored due to the lack of rational synthetic strategies. Herein, we report two novel porous GNRs (&lt;b&gt;pGNR 1&lt;/b&gt; and &lt;b&gt;pGNR 2&lt;/b&gt;) synthesized via solution-phase methods, featuring periodically arranged [18]annulene nanopores and gulf-edged architectures, along with a nonporous GNR (&lt;b&gt;npGNR&lt;/b&gt;) as a counterpart. Utilizing efficient Diels-Alder polymerization and Scholl-type cyclization, these GNRs attain average lengths of up to 60&#160;nm. The chemical identities of the synthesized GNRs were comprehensively characterized by IR, Raman, and solid-state NMR spectroscopy, complemented by theoretical calculations. To further elucidate the structural features underlying the observed properties, three representative model compounds (&lt;b&gt;1&lt;/b&gt;, &lt;b&gt;2&lt;/b&gt;, and &lt;b&gt;3&lt;/b&gt;) corresponding to segments of the respective GNRs were synthesized and analyzed. UV&#8211;vis and THz spectroscopic analyses demonstrate that &lt;b&gt;npGNR&lt;/b&gt; exhibits a relatively narrow optical bandgap of 1.63&#160;eV and a high intrinsic charge carrier mobility of &#8764;40 cm&lt;sup&gt;2&lt;/sup&gt;&#160;V&lt;sup&gt;&#8722;1&lt;/sup&gt;&#160;s&lt;sup&gt;&#8722;1&lt;/sup&gt;, whereas &lt;b&gt;pGNR 2&lt;/b&gt; displays a wider bandgap of 1.91&#160;eV with a reduced mobility of &#8764;27 cm&lt;sup&gt;2&lt;/sup&gt;&#160;V&lt;sup&gt;&#8722;1&lt;/sup&gt;&#160;s&lt;sup&gt;&#8722;1&lt;/sup&gt;. This study systematically elucidates the effects of nanopore incorporation on the electronic structure and charge transport properties of GNRs, offering a rational design framework for the design of nanopore-engineered carbon-based electronic materials.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Kun Liu, 
+Guanzhao Wen, 
+Gianluca Serra, 
+Nicol&#225;s Arisnabarreta, 
+Hongde Yu, 
+Andrea Lucotti, 
+Yarden Peleg Walg, 
+Hartmut Komber, 
+Zhen&#8208;Lin Qiu, 
+Qing&#8208;Song Deng, 
+Ran He, 
+Wenhui Niu, 
+Thomas Heine, 
+Eike Brunner, 
+Mischa Bonn, 
+Steven De Feyter, 
+Matteo Tommasini, 
+Hai I. Wang, 
+Ji Ma, 
+Xinliang Feng
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Tailoring Electronic Properties of Precision Graphene Nanoribbons via Nanopore Engineering</dc:title>
+         <dc:identifier>10.1002/anie.202524299</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202524299</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524299</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525780</link>
+         <pubDate>Sat, 21 Feb 2026 01:11:53 -0800</pubDate>
+         <dc:date>2026-02-21T01:11:53-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202525780</guid>
+         <title>Interlayer Covalent Reinforcement&#8208;Enabled Lattice Reprogramming for Durable Capacitive Deionization</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+An innovative MoS2&#8208;BDO layer material was constructed using a targeted ligand intercalation strategy, significantly enhancing the desalination capacity and stability of capacitive deionization systems compared to conventional MoS2.
+
+
+
+
+
+
+
+
+ABSTRACT
+Capacitive deionization (CDI) offers a low&#8208;energy route for desalination but is hindered by electrodes lacking both high ion storage and durability. Here we present a covalently supported interlayer engineering strategy that transforms layered molybdenum sulfide (MoS2) into a high&#8208;performance electrode with exceptional capacity and stability. By precisely intercalating butane&#8208;1,4&#8208;diol, we replace weak van der Waals interactions with rigid covalent linkages, simultaneously expanding interlayer spacing and inducing local 2H&#8208;to&#8208;1T lattice reconstruction. This dual structural reprogramming fundamentally reconfigures Mo&#8208;S orbital hybridization, generating high&#8208;energy antibonding states that promote strong Na+ chemisorption while preventing framework collapse. Consequently, the engineered electrode delivers an ultrahigh salt removal capacity of 77.4&#160;mg g&#8722;1, over threefold higher than pristine MoS2, without measurable decay over 50 cycles, and demonstrates scalable brine treatment outperforming state&#8208;of&#8208;the&#8208;art 2D electrodes. This work establishes a generalized paradigm for covalently reinforced 2D frameworks, resolving the long&#8208;standing performance&#8208;stability paradox in CDI and advancing practical, high&#8208;capacity desalination.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/857872c2-a28a-4727-8aa7-48ebd24778fb/anie71599-gra-0001-m.png"
+     alt="Interlayer Covalent Reinforcement-Enabled Lattice Reprogramming for Durable Capacitive Deionization"/&gt;
+&lt;p&gt;An innovative MoS&lt;sub&gt;2&lt;/sub&gt;-BDO layer material was constructed using a targeted ligand intercalation strategy, significantly enhancing the desalination capacity and stability of capacitive deionization systems compared to conventional MoS&lt;sub&gt;2&lt;/sub&gt;.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Capacitive deionization (CDI) offers a low-energy route for desalination but is hindered by electrodes lacking both high ion storage and durability. Here we present a covalently supported interlayer engineering strategy that transforms layered molybdenum sulfide (MoS&lt;sub&gt;2&lt;/sub&gt;) into a high-performance electrode with exceptional capacity and stability. By precisely intercalating butane-1,4-diol, we replace weak van der Waals interactions with rigid covalent linkages, simultaneously expanding interlayer spacing and inducing local 2H-to-1T lattice reconstruction. This dual structural reprogramming fundamentally reconfigures Mo-S orbital hybridization, generating high-energy antibonding states that promote strong Na&lt;sup&gt;+&lt;/sup&gt; chemisorption while preventing framework collapse. Consequently, the engineered electrode delivers an ultrahigh salt removal capacity of 77.4&#160;mg g&lt;sup&gt;&#8722;1&lt;/sup&gt;, over threefold higher than pristine MoS&lt;sub&gt;2&lt;/sub&gt;, without measurable decay over 50 cycles, and demonstrates scalable brine treatment outperforming state-of-the-art 2D electrodes. This work establishes a generalized paradigm for covalently reinforced 2D frameworks, resolving the long-standing performance-stability paradox in CDI and advancing practical, high-capacity desalination.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Zewei Hao, 
+Jiabin Chen, 
+Qipeng Zhao, 
+Xiaoqian Liu, 
+Mingchao Yang, 
+Xuefei Zhou, 
+Yalei Zhang
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Interlayer Covalent Reinforcement&#8208;Enabled Lattice Reprogramming for Durable Capacitive Deionization</dc:title>
+         <dc:identifier>10.1002/anie.202525780</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202525780</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525780</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.3901082</link>
+         <pubDate>Sat, 21 Feb 2026 01:07:43 -0800</pubDate>
+         <dc:date>2026-02-21T01:07:43-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.3901082</guid>
+         <title>Lewis Base&#8208;Catalyzed DYKAT of Racemic Chlorohydrosilanes With Grignard Reagents En Route to Si&#8208;Stereogenic Hydrosilanes</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+(S, R)&#8208;Benzotetramisole&#8208;catalyzed dynamic kinetic asymmetric transformation (DYKAT) of racemic chlorohydrosilanes with Grignard reagents enables enantioconvergent Si*&#9472;C bond formation, giving Si&#8208;stereogenic hydrosilanes in high yields and with high enantioselectivity.
+
+
+
+
+
+
+
+
+ABSTRACT
+Enantioenriched hydrosilanes bearing a Si&#8208;stereogenic center have garnered considerable attention due to the relevance in diverse areas of organic chemistry. Their synthesis has predominantly been limited to stereospecific reduction of chiral silylethers or silazanes, or catalytic desymmetrization of prochiral dihydrosilanes. Herein, we disclose a mechanistically distinct strategy: a (S, R)&#8208;benzotetramisole&#8208;catalyzed dynamic kinetic asymmetric transformation (DYKAT) of racemic chlorohydrosilanes with Grignard reagents. The method enables enantioconvergent Si*&#9472;C bond formation, giving Si&#8208;stereogenic hydrosilanes&#8212;many of which are challenging to access via desymmetrization&#8212;in high yields and with high enantioselectivity (34 examples, up to 99% yield, 99:1 er).
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8e5171c9-2295-457a-8efd-3246c2b4bb1e/anie71594-gra-0001-m.png"
+     alt="Lewis Base-Catalyzed DYKAT of Racemic Chlorohydrosilanes With Grignard Reagents En Route to Si-Stereogenic Hydrosilanes"/&gt;
+&lt;p&gt;(S, R)-Benzotetramisole-catalyzed dynamic kinetic asymmetric transformation (DYKAT) of racemic chlorohydrosilanes with Grignard reagents enables enantioconvergent Si*&#9472;C bond formation, giving Si-stereogenic hydrosilanes in high yields and with high enantioselectivity.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Enantioenriched hydrosilanes bearing a &lt;i&gt;Si&lt;/i&gt;-stereogenic center have garnered considerable attention due to the relevance in diverse areas of organic chemistry. Their synthesis has predominantly been limited to stereospecific reduction of chiral silylethers or silazanes, or catalytic desymmetrization of prochiral dihydrosilanes. Herein, we disclose a mechanistically distinct strategy: a (&lt;i&gt;S&lt;/i&gt;, &lt;i&gt;R&lt;/i&gt;)-benzotetramisole-catalyzed dynamic kinetic asymmetric transformation (DYKAT) of racemic chlorohydrosilanes with Grignard reagents. The method enables enantioconvergent Si*&#9472;C bond formation, giving &lt;i&gt;Si&lt;/i&gt;-stereogenic hydrosilanes&#8212;many of which are challenging to access &lt;i&gt;via&lt;/i&gt; desymmetrization&#8212;in high yields and with high enantioselectivity (34 examples, up to 99% yield, 99:1 &lt;i&gt;er&lt;/i&gt;).&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Yulang Tang, 
+Qi Zhou, 
+Shuya Li, 
+Tianbao Hu, 
+Yuzhong Kuang, 
+Qin Li, 
+Yanqian Xie, 
+Mingyuan Yin, 
+Lu Gao, 
+Wanshu Wang, 
+Zhishan Su, 
+Zhenlei Song
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Lewis Base&#8208;Catalyzed DYKAT of Racemic Chlorohydrosilanes With Grignard Reagents En Route to Si&#8208;Stereogenic Hydrosilanes</dc:title>
+         <dc:identifier>10.1002/anie.3901082</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.3901082</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.3901082</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202522431</link>
+         <pubDate>Sat, 21 Feb 2026 01:04:10 -0800</pubDate>
+         <dc:date>2026-02-21T01:04:10-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202522431</guid>
+         <title>Modular and Direct Synthesis of &#947;&#8208;Sultines From Simple Unactivated Alkenes</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+A visible&#8208;light&#8208;driven cascade provides the first direct access to &#947;&#8208;sultines from simple, unactivated alkenes. Using sulfoxonium ylides and DABSO, the transformation exploits bifunctional distonic radical cations, highly electrophilic radicals with an intrinsic leaving group, that initiate radical addition to unactivated alkenes, enabling seamless radical relay and cyclization under mild conditions.
+
+
+
+
+
+
+
+
+ABSTRACT
+Despite long&#8208;standing interest in sultines, their efficient and general synthesis remains elusive. Existing methods typically rely on oxidative or rearrangement pathways or on prefunctionalized homoallylic substrates, thus limiting practicality and scope. For the first time, we demonstrate a visible&#8208;light&#8208;driven relay that directly converts simple unactivated alkenes into &#947;&#8208;sultines using sulfoxonium ylides and DABSO as an SO2 source. The reaction involves a highly electrophilic distonic radical cation, generated through polarity inversion, which initiates addition to unactivated alkenes and, acting as an intrinsic leaving&#8208;group precursor, orchestrates radical relay and cyclization in a single photochemical sequence. This modular and operationally simple strategy exhibits broad substrate scope and excellent functional&#8208;group tolerance and is applicable to late&#8208;stage functionalization of complex molecules, opening new avenues for &#947;&#8208;sultine synthesis and diversification.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/95ecc670-f5fe-4a11-95f8-55a33358a713/anie71534-gra-0001-m.png"
+     alt="Modular and Direct Synthesis of &#947;-Sultines From Simple Unactivated Alkenes"/&gt;
+&lt;p&gt;A visible-light-driven cascade provides the first direct access to &#947;-sultines from simple, unactivated alkenes. Using sulfoxonium ylides and DABSO, the transformation exploits bifunctional distonic radical cations, highly electrophilic radicals with an intrinsic leaving group, that initiate radical addition to unactivated alkenes, enabling seamless radical relay and cyclization under mild conditions.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Despite long-standing interest in sultines, their efficient and general synthesis remains elusive. Existing methods typically rely on oxidative or rearrangement pathways or on prefunctionalized homoallylic substrates, thus limiting practicality and scope. For the first time, we demonstrate a visible-light-driven relay that directly converts simple unactivated alkenes into &#947;-sultines using sulfoxonium ylides and DABSO as an SO&lt;sub&gt;2&lt;/sub&gt; source. The reaction involves a highly electrophilic distonic radical cation, generated through polarity inversion, which initiates addition to unactivated alkenes and, acting as an intrinsic leaving-group precursor, orchestrates radical relay and cyclization in a single photochemical sequence. This modular and operationally simple strategy exhibits broad substrate scope and excellent functional-group tolerance and is applicable to late-stage functionalization of complex molecules, opening new avenues for &#947;-sultine synthesis and diversification.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Hongyin Huang, 
+Mengqi Gui, 
+Guoqiang Zhang, 
+Huaifeng Li
+</dc:creator>
+         <category>COMMUNICATION</category>
+         <dc:title>Modular and Direct Synthesis of &#947;&#8208;Sultines From Simple Unactivated Alkenes</dc:title>
+         <dc:identifier>10.1002/anie.202522431</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202522431</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202522431</prism:url>
+         <prism:section>COMMUNICATION</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524237</link>
+         <pubDate>Sat, 21 Feb 2026 01:03:28 -0800</pubDate>
+         <dc:date>2026-02-21T01:03:28-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202524237</guid>
+         <title>Simultaneous Imaging of Cu+ and Cu2+ in Neural Cells Using DNAzyme Probes Reveals Mechanistic Link Between Copper Redox Imbalance and Amyloid Pathology</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+We develop Cu+&#8208; and Cu2+&#8208;specific DNAzyme fluorescent probes to visualize both copper redox states in living neurons. A&#946; oligomers cause intracellular copper overload, triggering FDX1 dependent cuproptosis and generating ROS. This work links copper redox imbalance with A&#946; pathology and offers a selective, sensitive way to monitor copper homeostasis in neurodegenerative disease.
+
+
+
+
+
+
+
+
+ABSTRACT
+Copper dysregulation is implicated in neurodegenerative diseases such as Alzheimer's disease (AD), yet its precise role in neuronal death remains unclear. To address this issue, here, we introduce a pair of Cu+ and Cu2+ specific DNAzymes&#8208;based fluorescent probes, for the first time, enabling simultaneous visualization of both redox states of copper in single living neurons. Using this dual&#8208;color system, we found that amyloid&#8208;beta (A&#946;) oligomerization promotes intracellular copper accumulation, distinct from that induced by artificial ionophore loading. Elevated Cu+ drives reactive oxygen species (ROS) generation, lipoylated protein aggregation, and FDX1&#8208;dependent cuproptosis, while Cu+ chelation or FDX1 knockdown completely prevents cell death. In contrast, ROS scavengers only partially rescue viability, demonstrating that neuronal death is driven by copper overload, not oxidative stress itself. These findings redefine the mechanistic framework linking copper redox imbalance to A&#946; pathology and neuronal vulnerability and demonstrate a selective, sensitive approach for monitoring copper homeostasis and its disruption in neurodegenerative disease.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/b3323807-4b67-4700-a6cb-3d7641a33927/anie71548-gra-0001-m.png"
+     alt="Simultaneous Imaging of Cu+ and Cu2+ in Neural Cells Using DNAzyme Probes Reveals Mechanistic Link Between Copper Redox Imbalance and Amyloid Pathology"/&gt;
+&lt;p&gt;We develop Cu&lt;sup&gt;+&lt;/sup&gt;- and Cu&lt;sup&gt;2&lt;/sup&gt;
+&lt;sup&gt;+&lt;/sup&gt;-specific DNAzyme fluorescent probes to visualize both copper redox states in living neurons. A&#946; oligomers cause intracellular copper overload, triggering FDX1 dependent cuproptosis and generating ROS. This work links copper redox imbalance with A&#946; pathology and offers a selective, sensitive way to monitor copper homeostasis in neurodegenerative disease.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Copper dysregulation is implicated in neurodegenerative diseases such as Alzheimer's disease (AD), yet its precise role in neuronal death remains unclear. To address this issue, here, we introduce a pair of Cu&lt;sup&gt;+&lt;/sup&gt; and Cu&lt;sup&gt;2&lt;/sup&gt;
+&lt;sup&gt;+&lt;/sup&gt; specific DNAzymes-based fluorescent probes, for the first time, enabling simultaneous visualization of both redox states of copper in single living neurons. Using this dual-color system, we found that amyloid-beta (A&#946;) oligomerization promotes intracellular copper accumulation, distinct from that induced by artificial ionophore loading. Elevated Cu&lt;sup&gt;+&lt;/sup&gt; drives reactive oxygen species (ROS) generation, lipoylated protein aggregation, and FDX1-dependent cuproptosis, while Cu&lt;sup&gt;+&lt;/sup&gt; chelation or FDX1 knockdown completely prevents cell death. In contrast, ROS scavengers only partially rescue viability, demonstrating that neuronal death is driven by copper overload, not oxidative stress itself. These findings redefine the mechanistic framework linking copper redox imbalance to A&#946; pathology and neuronal vulnerability and demonstrate a selective, sensitive approach for monitoring copper homeostasis and its disruption in neurodegenerative disease.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Xiangli Shao, 
+Zhenglin Yang, 
+Zhihao Xu, 
+Weijie Guo, 
+Whitney Lewis, 
+Boyi Gan, 
+Yi Lu
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Simultaneous Imaging of Cu+ and Cu2+ in Neural Cells Using DNAzyme Probes Reveals Mechanistic Link Between Copper Redox Imbalance and Amyloid Pathology</dc:title>
+         <dc:identifier>10.1002/anie.202524237</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202524237</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524237</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.3145716</link>
+         <pubDate>Sat, 21 Feb 2026 01:01:24 -0800</pubDate>
+         <dc:date>2026-02-21T01:01:24-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.3145716</guid>
+         <title>Low&#8208;Power&#8208;Activated Afterglow Nanoprobes With Naked&#8208;Eye Visibility for High&#8208;Contrast Imaging of Brain Inflammation</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+By integrating D&#8211;A&#8211;D molecules into photochemical afterglow systems, we developed nanoprobes exhibiting naked&#8208;eye&#8208;detectable afterglow under low&#8208;power excitation (0.73&#160;mW&#160;cm&#8722;2). Their brightness is 1305 times higher than that of common afterglow nanoparticles such as MEHPPV&#8208;NPs, enabling naked&#8208;eye tracking of freely moving mice and high&#8208;contrast imaging of brain inflammation. 
+
+
+
+
+
+
+
+
+ABSTRACT
+Afterglow luminescence imaging ingeniously circumvents the need for real&#8208;time excitation, thereby substantially eliminating background interference. Nevertheless, its application in brain imaging has been hindered by low afterglow brightness under aqueous conditions. Here, we present naked&#8208;eye&#8208;visible afterglow nanoprobes excited by low&#8208;power light for high&#8208;contrast imaging of brain inflammation. By strategically integrating highly efficient donor&#8211;acceptor&#8211;donor (D&#8211;A&#8211;D) luminescent molecules into photochemical afterglow systems, we developed a series of ultrabright afterglow materials emitting in the yellow, orange, and red spectral regions. The resulting afterglow nanoparticles remain naked&#8208;eye detectable even under ultralow excitation power (0.73&#160;mW&#160;cm&#8722;2). Their afterglow brightness is over 1300 times higher than that of commonly used afterglow nanoparticles, and they still maintain a 3&#8208;fold advantage compared to previously developed blue&#8208;emitting nanoparticles based on molecular fusion strategies. Leveraging this exceptional performance, we accomplished real&#8208;time naked&#8208;eye observation of freely moving mice. Moreover, macrophage&#8208;encapsulated nanoparticles enabled blood&#8211;brain barrier (BBB) penetration and high&#8208;contrast imaging of brain inflammation. This work introduces a new paradigm for constructing high&#8208;brightness afterglow materials and opens transformative avenues for real&#8208;time visualization of brain disorders.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e636bf5a-51bf-4684-b8cb-266884b150d1/anie71587-gra-0001-m.png"
+     alt="Low-Power-Activated Afterglow Nanoprobes With Naked-Eye Visibility for High-Contrast Imaging of Brain Inflammation"/&gt;
+&lt;p&gt;By integrating D&#8211;A&#8211;D molecules into photochemical afterglow systems, we developed nanoprobes exhibiting naked-eye-detectable afterglow under low-power excitation (0.73&#160;mW&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt;). Their brightness is 1305 times higher than that of common afterglow nanoparticles such as MEHPPV-NPs, enabling naked-eye tracking of freely moving mice and high-contrast imaging of brain inflammation. 
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Afterglow luminescence imaging ingeniously circumvents the need for real-time excitation, thereby substantially eliminating background interference. Nevertheless, its application in brain imaging has been hindered by low afterglow brightness under aqueous conditions. Here, we present naked-eye-visible afterglow nanoprobes excited by low-power light for high-contrast imaging of brain inflammation. By strategically integrating highly efficient donor&#8211;acceptor&#8211;donor (D&#8211;A&#8211;D) luminescent molecules into photochemical afterglow systems, we developed a series of ultrabright afterglow materials emitting in the yellow, orange, and red spectral regions. The resulting afterglow nanoparticles remain naked-eye detectable even under ultralow excitation power (0.73&#160;mW&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt;). Their afterglow brightness is over 1300 times higher than that of commonly used afterglow nanoparticles, and they still maintain a 3-fold advantage compared to previously developed blue-emitting nanoparticles based on molecular fusion strategies. Leveraging this exceptional performance, we accomplished real-time naked-eye observation of freely moving mice. Moreover, macrophage-encapsulated nanoparticles enabled blood&#8211;brain barrier (BBB) penetration and high-contrast imaging of brain inflammation. This work introduces a new paradigm for constructing high-brightness afterglow materials and opens transformative avenues for real-time visualization of brain disorders.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jiangnan Ouyang, 
+Yanqiu Li, 
+Rui Chen, 
+Xianlong Su, 
+Zhihong Liu
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Low&#8208;Power&#8208;Activated Afterglow Nanoprobes With Naked&#8208;Eye Visibility for High&#8208;Contrast Imaging of Brain Inflammation</dc:title>
+         <dc:identifier>10.1002/anie.3145716</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.3145716</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.3145716</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524753</link>
+         <pubDate>Sat, 21 Feb 2026 00:59:11 -0800</pubDate>
+         <dc:date>2026-02-21T12:59:11-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202524753</guid>
+         <title>Initial Iron&#8208;Phthalocyanine Covalent Organic Polymer Based Three&#8208;Dimensional Porous Cathode Catalysts Layer Directly for Proton&#8208;Exchange Membrane Fuel Cells</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+A 3D interconnected porous architectures with initial iron&#8208;phthalocyanine covalent organic polymer was constructed to facilitate oxygen diffusion, which enhances around 2.7&#8208;fold increase of peak power density for PEMFC device compared to the conventional 2D counterpart. 
+
+
+
+
+
+
+
+
+ABSTRACT
+Covalent organic polymers (COPs), with their well&#8208;defined and tunable structures, show promising prospects as molecular electrocatalysts for the oxygen reduction reaction (ORR). However, the conjugated two&#8208;dimensional structures assemble&#160;through direct &#960;&#8211;&#960; stacking into molecularly dense layers that severely obstruct the multidimensional oxygen transport pathways, thus compromising performance in proton exchange membrane fuel cells (PEMFCs). Herein, we constructed a three&#8208;dimensional nitrogen&#8208;doped graphene scaffold for the in situ growth of an iron&#8208;phthalocyanine&#8208;based covalent organic polymer, yielding the composite material denoted as COPFe@3D&#8208;NG. By leveraging nondestructive x&#8208;ray computed tomography and Avizo processing, we reconstructed their realistic porous structures. The further pore&#8208;scale multiphysics simulations demonstrated that the 3D porous network significantly enhances mass transport with an increase of oxygen diffusion coefficient compared to the 2D structure. As a result, the PEMFCs fabricated with COPFe@3D&#8208;NG as the cathode catalyst demonstrated a &#8764;2.7&#8208;fold increase of higher peak power density than the 2D analogue. These findings highlight a fundamental principle for next&#8208;generation cathode design that engineering 3D porosity to create multidimensional mass transport pathways is crucial for accelerating oxygen transfer and achieving high&#8208;performance PEMFCs.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/73b45410-4e57-4467-b400-3ed62e607675/anie71527-gra-0001-m.png"
+     alt="Initial Iron-Phthalocyanine Covalent Organic Polymer Based Three-Dimensional Porous Cathode Catalysts Layer Directly for Proton-Exchange Membrane Fuel Cells"/&gt;
+&lt;p&gt;A 3D interconnected porous architectures with initial iron-phthalocyanine covalent organic polymer was constructed to facilitate oxygen diffusion, which enhances around 2.7-fold increase of peak power density for PEMFC device compared to the conventional 2D counterpart. 
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Covalent organic polymers (COPs), with their well-defined and tunable structures, show promising prospects as molecular electrocatalysts for the oxygen reduction reaction (ORR). However, the conjugated two-dimensional structures assemble&#160;through direct &#960;&#8211;&#960; stacking into molecularly dense layers that severely obstruct the multidimensional oxygen transport pathways, thus compromising performance in proton exchange membrane fuel cells (PEMFCs). Herein, we constructed a three-dimensional nitrogen-doped graphene scaffold for the in situ growth of an iron-phthalocyanine-based covalent organic polymer, yielding the composite material denoted as COP&lt;sub&gt;Fe&lt;/sub&gt;@3D-NG. By leveraging nondestructive x-ray computed tomography and Avizo processing, we reconstructed their realistic porous structures. The further pore-scale multiphysics simulations demonstrated that the 3D porous network significantly enhances mass transport with an increase of oxygen diffusion coefficient compared to the 2D structure. As a result, the PEMFCs fabricated with COP&lt;sub&gt;Fe&lt;/sub&gt;@3D-NG as the cathode catalyst demonstrated a &#8764;2.7-fold increase of higher peak power density than the 2D analogue. These findings highlight a fundamental principle for next-generation cathode design that engineering 3D porosity to create multidimensional mass transport pathways is crucial for accelerating oxygen transfer and achieving high-performance PEMFCs.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Xinxin Lin, 
+Zhichao Liu, 
+Mengqing Shi, 
+Tengge Chen, 
+Bin Ling, 
+Xiaofeng Wu, 
+Xuemin Cao, 
+Peng He, 
+Zhonghua Xiang
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Initial Iron&#8208;Phthalocyanine Covalent Organic Polymer Based Three&#8208;Dimensional Porous Cathode Catalysts Layer Directly for Proton&#8208;Exchange Membrane Fuel Cells</dc:title>
+         <dc:identifier>10.1002/anie.202524753</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202524753</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524753</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525030</link>
+         <pubDate>Sat, 21 Feb 2026 00:57:50 -0800</pubDate>
+         <dc:date>2026-02-21T12:57:50-08:00</dc:date>
+         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/anie.202525030</guid>
+         <title>Spin&#8208;Orbit Coupling of Ln3+ Induces and Modulates Thermally Activated Delayed Fluorescence in Heterometallic LnAgP3 Clusters</title>
+         <description>Angewandte Chemie International Edition, EarlyView. </description>
+         <dc:description>
+This work reports a novel crystal&#8208;engineering approach to induce the TADF behavior of Ag(I) centers by harnessing the SOC of Ln3+ ions and regulate energy transfer between Ag(I) and Ln3+ ions through controlled Ln3+ doping within the crystal lattice, thereby effectively balancing the contradiction between &#916;E(S1&#8208;T1) and k(S1&#8594;S0).
+
+
+
+
+
+
+
+
+ABSTRACT
+The rational design of Ag(I)&#8208;based thermally activated delayed fluorescence (TADF) materials requires fundamental understanding of structure&#8211;property relationship governing their emission characteristics. In this work, coordination with Ln3+ ions endows the resulting compounds LnAgP3 (Ln = Gd/Eu/Y) with pronounced photoluminescence. Temperature&#8208;dependent emission spectra and decay lifetime measurements reveal that Y3+ and Gd3+ incorporation induces distinct TADF activity in the [AgP3] moiety. In EuAgP3, combined the experimental results supports efficient energy transfer from [AgP3] to Eu3+ via both singlet energy transfer (SET) and triplet energy transfer (TET) pathways. Modulating the Eu:Gd molar ratio within a lattice enables precise control over the TADF performance of the [AgP3] unit. At a Eu:Gd ratio of 0.5:0.5, optimal TADF performance of the [AgP3] moiety is observed with a larger k(S1&#8594;S0) value of 1.05 &#215; 107 s&#8722;1 and a shorter TADF decay time of 6.45 &#181;s. Theoretical calculations further reveal that the SOC of the 4f orbitals perturbs the electronic structure of [AgP3], compressing &#916;E(S1&#8208;T1) to &lt;0.2&#160;eV, which enables reverse intersystem crossing (RISC) and thus TADF. Consequently, varying the Eu:Gd ratio provides an indirect handle over the SOC&#8208;mediated Ag&#8596;Eu energy&#8208;transfer pathway, offering an effective route to regulate the TADF performance of the [AgP3] moiety.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/f4308dd4-ae91-448c-9c1d-c07107d0faef/anie71568-gra-0001-m.png"
+     alt="Spin-Orbit Coupling of Ln3+ Induces and Modulates Thermally Activated Delayed Fluorescence in Heterometallic LnAgP3 Clusters"/&gt;
+&lt;p&gt;This work reports a novel crystal-engineering approach to induce the TADF behavior of Ag(I) centers by harnessing the SOC of Ln&lt;sup&gt;3+&lt;/sup&gt; ions and regulate energy transfer between Ag(I) and Ln&lt;sup&gt;3+&lt;/sup&gt; ions through controlled Ln&lt;sup&gt;3+&lt;/sup&gt; doping within the crystal lattice, thereby effectively balancing the contradiction between &#916;&lt;i&gt;E&lt;/i&gt;(S&lt;sub&gt;1&lt;/sub&gt;-T&lt;sub&gt;1&lt;/sub&gt;) and &lt;i&gt;k&lt;/i&gt;(S&lt;sub&gt;1&lt;/sub&gt;&#8594;S&lt;sub&gt;0&lt;/sub&gt;).
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;The rational design of Ag(I)-based thermally activated delayed fluorescence (TADF) materials requires fundamental understanding of structure&#8211;property relationship governing their emission characteristics. In this work, coordination with Ln&lt;sup&gt;3+&lt;/sup&gt; ions endows the resulting compounds &lt;b&gt;LnAgP&lt;sub&gt;3&lt;/sub&gt;
+&lt;/b&gt; (Ln = Gd/Eu/Y) with pronounced photoluminescence. Temperature-dependent emission spectra and decay lifetime measurements reveal that Y&lt;sup&gt;3+&lt;/sup&gt; and Gd&lt;sup&gt;3+&lt;/sup&gt; incorporation induces distinct TADF activity in the [AgP&lt;sub&gt;3&lt;/sub&gt;] moiety. In &lt;b&gt;EuAgP&lt;sub&gt;3&lt;/sub&gt;
+&lt;/b&gt;, combined the experimental results supports efficient energy transfer from [AgP&lt;sub&gt;3&lt;/sub&gt;] to Eu&lt;sup&gt;3+&lt;/sup&gt; via both singlet energy transfer (SET) and triplet energy transfer (TET) pathways. Modulating the Eu:Gd molar ratio within a lattice enables precise control over the TADF performance of the [AgP&lt;sub&gt;3&lt;/sub&gt;] unit. At a Eu:Gd ratio of 0.5:0.5, optimal TADF performance of the [AgP&lt;sub&gt;3&lt;/sub&gt;] moiety is observed with a larger &lt;i&gt;k&lt;/i&gt;(S&lt;sub&gt;1&lt;/sub&gt;&#8594;S&lt;sub&gt;0&lt;/sub&gt;) value of 1.05 &#215; 10&lt;sup&gt;7&lt;/sup&gt; s&lt;sup&gt;&#8722;1&lt;/sup&gt; and a shorter TADF decay time of 6.45 &#181;s. Theoretical calculations further reveal that the SOC of the 4&lt;i&gt;f&lt;/i&gt; orbitals perturbs the electronic structure of [AgP&lt;sub&gt;3&lt;/sub&gt;], compressing &#916;&lt;i&gt;E&lt;/i&gt;(S&lt;sub&gt;1&lt;/sub&gt;-T&lt;sub&gt;1&lt;/sub&gt;) to &amp;lt;0.2&#160;eV, which enables reverse intersystem crossing (RISC) and thus TADF. Consequently, varying the Eu:Gd ratio provides an indirect handle over the SOC-mediated Ag&#8596;Eu energy-transfer pathway, offering an effective route to regulate the TADF performance of the [AgP&lt;sub&gt;3&lt;/sub&gt;] moiety.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Sheng&#8208;Rong He, 
+Xue&#8208;Ting Wang, 
+Fang&#8208;Wen Lv, 
+Lingyun Cao, 
+Gui&#8208;Lin Zhuang, 
+Xiu&#8208;Ying Zheng
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Spin&#8208;Orbit Coupling of Ln3+ Induces and Modulates Thermally Activated Delayed Fluorescence in Heterometallic LnAgP3 Clusters</dc:title>
+         <dc:identifier>10.1002/anie.202525030</dc:identifier>
+         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
+         <prism:doi>10.1002/anie.202525030</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525030</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
       <item>
          <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.6873420</link>
          <pubDate>Fri, 20 Feb 2026 05:56:00 -0800</pubDate>
@@ -6964,440 +7413,6 @@ Mark T. Hamann
          <prism:doi>10.1002/anie.7864883</prism:doi>
          <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.7864883</prism:url>
          <prism:section>COMMUNICATION</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525801</link>
-         <pubDate>Sun, 15 Feb 2026 21:34:05 -0800</pubDate>
-         <dc:date>2026-02-15T09:34:05-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.202525801</guid>
-         <title>A Dithio Vinylthio C2 Synthon Enabling Crystalline and Luminescent Sulfur&#8208;Decorated Polymers</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-Transforming CaC2 into a modular C2 building block enables the synthesis of &#945;,&#969;&#8208;bis(vinylthio) monomer and its conversion into crystalline, sequence&#8208;defined sulfur&#8208;decorated polymers. Their dense thioether clustering induces nonconventional luminescence and provides structure&#8211;function control in a more&#8208;sustainable polymer platform.
-
-
-
-
-
-
-
-
-ABSTRACT
-While thioether linkages are commonly associated with soft and amorphous polymer backbones, herein, we show that a calcium carbide&#8208;derived &#945;,&#969;&#8208;bis(vinylthio) synthon enables crystalline, sequence&#8208;defined sulfur polymers with nonconventional luminescence. A single&#8208;step thiol&#8211;yne addition reaction uses acetylene generated in situ from industrial calcium carbide (CaC2) to produce a modular C2 vinyl sulfide (also known as vinylthio) monomer that undergoes quantitative, light&#8208;induced thiol&#8208;ene step&#8208;growth polymerization with aliphatic dithiols. Type I photoinitiation ensures complete anti&#8208;Markovnikov addition to give C2 &#8208;segmented poly(thioether)s, while thermal and base&#8208;mediated conditions generate hybrid poly(thioether)/polydisulfide structures. The resulting sulfur&#8208;rich backbones display sharp melting transitions, spherulitic crystallization, one&#8208;step thermal decomposition up to about 316&#176;C, and pronounced cluster&#8208;triggered emission arising from dense thioether clustering and through&#8208;space conjugation. Green metric analysis reveals high Atom Economy and essentially waste&#8208;free polymer formation, thereby linking efficient use of an established C2 synthon to precision sulfur polymer design. This C2 vinylthio platform provides a general strategy to convert classically soft thioether motifs into structurally ordered and luminescent materials, and establishes vinyl sulfides as powerful, yet underutilized, building blocks in sustainable polymer chemistry.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/afa1b235-04fb-4ee9-a304-709b8fb6a816/anie71212-gra-0001-m.png"
-     alt="A Dithio Vinylthio C2 Synthon Enabling Crystalline and Luminescent Sulfur-Decorated Polymers"/&gt;
-&lt;p&gt;Transforming CaC&lt;sub&gt;2&lt;/sub&gt; into a modular C&lt;sub&gt;2&lt;/sub&gt; building block enables the synthesis of &#945;,&#969;-bis(vinylthio) monomer and its conversion into crystalline, sequence-defined sulfur-decorated polymers. Their dense thioether clustering induces nonconventional luminescence and provides structure&#8211;function control in a more-sustainable polymer platform.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;While thioether linkages are commonly associated with soft and amorphous polymer backbones, herein, we show that a calcium carbide-derived &#945;,&#969;-bis(vinylthio) synthon enables crystalline, sequence-defined sulfur polymers with nonconventional luminescence. A single-step thiol&#8211;yne addition reaction uses acetylene generated in situ from industrial calcium carbide (CaC&lt;sub&gt;2&lt;/sub&gt;) to produce a modular C&lt;sub&gt;2&lt;/sub&gt; vinyl sulfide (also known as vinylthio) monomer that undergoes quantitative, light-induced thiol-ene step-growth polymerization with aliphatic dithiols. Type I photoinitiation ensures complete anti-Markovnikov addition to give C&lt;sub&gt;2&lt;/sub&gt; -segmented poly(thioether)s, while thermal and base-mediated conditions generate hybrid poly(thioether)/polydisulfide structures. The resulting sulfur-rich backbones display sharp melting transitions, spherulitic crystallization, one-step thermal decomposition up to about 316&#176;C, and pronounced cluster-triggered emission arising from dense thioether clustering and through-space conjugation. Green metric analysis reveals high Atom Economy and essentially waste-free polymer formation, thereby linking efficient use of an established C&lt;sub&gt;2&lt;/sub&gt; synthon to precision sulfur polymer design. This C&lt;sub&gt;2&lt;/sub&gt; vinylthio platform provides a general strategy to convert classically soft thioether motifs into structurally ordered and luminescent materials, and establishes vinyl sulfides as powerful, yet underutilized, building blocks in sustainable polymer chemistry.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Bercis Pektas, 
-Cuong M. Q. Le, 
-Samar Hajjar&#8208;Garreau, 
-Simon Gree, 
-Hatice Mutlu
-</dc:creator>
-         <category>COMMUNICATION</category>
-         <dc:title>A Dithio Vinylthio C2 Synthon Enabling Crystalline and Luminescent Sulfur&#8208;Decorated Polymers</dc:title>
-         <dc:identifier>10.1002/anie.202525801</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.202525801</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525801</prism:url>
-         <prism:section>COMMUNICATION</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.2306338</link>
-         <pubDate>Sun, 15 Feb 2026 21:33:30 -0800</pubDate>
-         <dc:date>2026-02-15T09:33:30-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.2306338</guid>
-         <title>Corrigendum to &#8220;Cascade in Situ Self&#8208;Assembly and Bioorthogonal Reaction Enable the Enrichment of Photosensitizers and Carbonic Anhydrase Inhibitors for Pretargeted Cancer Theranostics&#8221;</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description />
-         <content:encoded />
-         <dc:creator />
-         <category>CORRECTION</category>
-         <dc:title>Corrigendum to &#8220;Cascade in Situ Self&#8208;Assembly and Bioorthogonal Reaction Enable the Enrichment of Photosensitizers and Carbonic Anhydrase Inhibitors for Pretargeted Cancer Theranostics&#8221;</dc:title>
-         <dc:identifier>10.1002/anie.2306338</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.2306338</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.2306338</prism:url>
-         <prism:section>CORRECTION</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524282</link>
-         <pubDate>Sun, 15 Feb 2026 21:32:37 -0800</pubDate>
-         <dc:date>2026-02-15T09:32:37-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.202524282</guid>
-         <title>Controlled Synthesis of a New Class of Heterostructured Metal Oxides (Cerium, Thorium, Uranium)/Calcium Fluoride Core&#8208;Shell Nanocrystals With Atomically Coherent Interfaces</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-Precisely engineered heterostructured metal oxide&#8208;based MO2&#160;/&#160;CaF2 (M = Ce, Th, U) core&#8208;shell nanocrystals are synthesized with atomic&#8208;level control over size, shell thickness, and interface coherence, expanding heterostructure design principles to cerium oxide and actinide oxide systems for the first time.
-
-
-
-
-
-
-
-
-ABSTRACT
-Heterostructured nanocrystals (NCs) integrating chemically and/or structurally distinct materials are of significant interest due to their potential to exhibit multiple functionalities or unconventional properties. However, the development of such materials remains limited, primarily due to crystallographic incompatibilities and synthesis challenges. Here, we report the synthesis and structural characterization of a new class of metal oxide&#8208;based (Ce, Th, or U) heterostructures with calcium fluoride featuring core&#8208;shell architectures with precise control over both morphology and shell thickness. Powder x&#8208;ray diffraction (PXRD) and high&#8208;resolution scanning/transmission electron microscopy techniques confirm the formation of high&#8208;quality single&#8208;crystalline particles coupling metal oxide (Ce, Th, or U) and calcium fluoride domains through a structurally coherent but chemically complex intermixed oxide&#8208;fluoride interface&#8212;an unprecedented observation in cerium and actinide nanochemistry. These novel materials have been designed to anticipate their future doping with therapeutic alpha particle&#8208;emitting radionuclides (&#945;&#8208;emitters) such as 227Th or 230U for locoregional targeted alpha therapy (TAT). It is anticipated that the reported heterostructured core&#8208;shell NCs will offer a promising platform for preclinical investigations to determine the full potential and interest of inorganic core&#8208;shell NCs, especially CeO2&#160;/&#160;CaF2, for TAT application.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/aa8c65c0-1f09-4905-93fb-76731f61a40c/anie71458-gra-0001-m.png"
-     alt="Controlled Synthesis of a New Class of Heterostructured Metal Oxides (Cerium, Thorium, Uranium)/Calcium Fluoride Core-Shell Nanocrystals With Atomically Coherent Interfaces"/&gt;
-&lt;p&gt;Precisely engineered heterostructured metal oxide-based MO&lt;sub&gt;2&#160;&lt;/sub&gt;/&lt;sub&gt;&#160;&lt;/sub&gt;CaF&lt;sub&gt;2&lt;/sub&gt; (M = Ce, Th, U) core-shell nanocrystals are synthesized with atomic-level control over size, shell thickness, and interface coherence, expanding heterostructure design principles to cerium oxide and actinide oxide systems for the first time.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Heterostructured nanocrystals (NCs) integrating chemically and/or structurally distinct materials are of significant interest due to their potential to exhibit multiple functionalities or unconventional properties. However, the development of such materials remains limited, primarily due to crystallographic incompatibilities and synthesis challenges. Here, we report the synthesis and structural characterization of a new class of metal oxide-based (Ce, Th, or U) heterostructures with calcium fluoride featuring core-shell architectures with precise control over both morphology and shell thickness. Powder x-ray diffraction (PXRD) and high-resolution scanning/transmission electron microscopy techniques confirm the formation of high-quality single-crystalline particles coupling metal oxide (Ce, Th, or U) and calcium fluoride domains through a structurally coherent but chemically complex intermixed oxide-fluoride interface&#8212;an unprecedented observation in cerium and actinide nanochemistry. These novel materials have been designed to anticipate their future doping with therapeutic alpha particle-emitting radionuclides (&#945;-emitters) such as &lt;sup&gt;227&lt;/sup&gt;Th or &lt;sup&gt;230&lt;/sup&gt;U for locoregional targeted alpha therapy (TAT). It is anticipated that the reported heterostructured core-shell NCs will offer a promising platform for preclinical investigations to determine the full potential and interest of inorganic core-shell NCs, especially CeO&lt;sub&gt;2&#160;&lt;/sub&gt;/&lt;sub&gt;&#160;&lt;/sub&gt;CaF&lt;sub&gt;2&lt;/sub&gt;, for TAT application.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Dejing Meng, 
-Radian Popescu, 
-Carmen M. Andrei, 
-J&#233;r&#244;me Himbert, 
-Eduard Madirov, 
-Jacob A. Branson, 
-Emily M. Reynolds, 
-Tim Pr&#252;&#223;mann, 
-J&#246;rg G&#246;ttlicher, 
-Tonya Vitova, 
-Niko Hildebrandt, 
-Yolita Eggeler, 
-Bryce S. Richards, 
-Olaf Walter, 
-Damien Hudry
-</dc:creator>
-         <category>COMMUNICATION</category>
-         <dc:title>Controlled Synthesis of a New Class of Heterostructured Metal Oxides (Cerium, Thorium, Uranium)/Calcium Fluoride Core&#8208;Shell Nanocrystals With Atomically Coherent Interfaces</dc:title>
-         <dc:identifier>10.1002/anie.202524282</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.202524282</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202524282</prism:url>
-         <prism:section>COMMUNICATION</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202519635</link>
-         <pubDate>Sun, 15 Feb 2026 21:31:13 -0800</pubDate>
-         <dc:date>2026-02-15T09:31:13-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.202519635</guid>
-         <title>The Precise Modulation of Probe Effective Charges by Debye Length for Enhancing Performance of Aptamer&#8211;FET Biosensors</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-A precise modulation of Debye length on the probe effective charge quantity of aptamer&#8208;FET biosensors was developed to regulate the electrostatic interaction for the signal&#8211;on and signal&#8211;off detection of biomolecules with a wide range and low limit of detection, showing practical utility in enhancing the dopamine secretion detection from living PC12 cells. This methodology provides a novel guideline for fabricating high&#8211;performance FET biosensors.
-
-
-
-
-
-
-
-
-ABSTRACT
-Field&#8211;effect transistor (FET) biosensors have garnered significant interests in disease diagnosis. The electrostatic interaction between channel materials and probes/targets is important to the performance. However, the modulation of electrostatic interaction is difficult because it was severely attenuated in real environment, which is common in practical bioanalytical detection. With small size, aptamer possesses programmable base composition, which is unlimited by the binding sites. Herein, we systematically investigate the precise modulation of Debye length (&#955;D) on the effective charge quantity of aptamer probe to regulate electrostatic interaction. We discovered that the performance achieves the optimum due to the largest quantity difference of aptamer probe effective charges when &#955;D approaches the minimum between aptamer probe lengths before and after binding with targets. This precise modulation is highly effective for both signal&#8211;on and signal&#8211;off detection of biomolecules such as serotonin and dopamine, exhibiting a wide linear detection range, spanning from 10 fM to 1.0&#160;nM (105), and an ultra&#8211;low limit of detection (&lt;10 fM). Importantly, this precise modulation exhibits practical detection improvement of dopamine secretion from living PC12 cells. Our findings provide a pioneering guideline for enhancing performance of aptamer&#8211;FET biosensors and offer in&#8211;depth understanding of probe molecular structure.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/262eb91c-5bd7-4b7e-8519-a93b75cb6247/anie71514-gra-0001-m.png"
-     alt="The Precise Modulation of Probe Effective Charges by Debye Length for Enhancing Performance of Aptamer&#8211;FET Biosensors"/&gt;
-&lt;p&gt;A precise modulation of Debye length on the probe effective charge quantity of aptamer-FET biosensors was developed to regulate the electrostatic interaction for the signal&#8211;on and signal&#8211;off detection of biomolecules with a wide range and low limit of detection, showing practical utility in enhancing the dopamine secretion detection from living PC12 cells. This methodology provides a novel guideline for fabricating high&#8211;performance FET biosensors.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Field&#8211;effect transistor (FET) biosensors have garnered significant interests in disease diagnosis. The electrostatic interaction between channel materials and probes/targets is important to the performance. However, the modulation of electrostatic interaction is difficult because it was severely attenuated in real environment, which is common in practical bioanalytical detection. With small size, aptamer possesses programmable base composition, which is unlimited by the binding sites. Herein, we systematically investigate the precise modulation of Debye length (&#955;&lt;sub&gt;D&lt;/sub&gt;) on the effective charge quantity of aptamer probe to regulate electrostatic interaction. We discovered that the performance achieves the optimum due to the largest quantity difference of aptamer probe effective charges when &#955;&lt;sub&gt;D&lt;/sub&gt; approaches the minimum between aptamer probe lengths before and after binding with targets. This precise modulation is highly effective for both signal&#8211;on and signal&#8211;off detection of biomolecules such as serotonin and dopamine, exhibiting a wide linear detection range, spanning from 10 fM to 1.0&#160;nM (10&lt;sup&gt;5&lt;/sup&gt;), and an ultra&#8211;low limit of detection (&amp;lt;10 fM). Importantly, this precise modulation exhibits practical detection improvement of dopamine secretion from living PC12 cells. Our findings provide a pioneering guideline for enhancing performance of aptamer&#8211;FET biosensors and offer in&#8211;depth understanding of probe molecular structure.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Zhi Zheng, 
-Hongyuan Zhang, 
-Ning Zhou, 
-Jifa Fu, 
-Haiyang Li, 
-Xiaoyu He, 
-Yong Cheng, 
-Fuwei Zhuge, 
-Xiaoding Lou, 
-Tianyou Zhai, 
-Fan Xia
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>The Precise Modulation of Probe Effective Charges by Debye Length for Enhancing Performance of Aptamer&#8211;FET Biosensors</dc:title>
-         <dc:identifier>10.1002/anie.202519635</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.202519635</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202519635</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.1061158</link>
-         <pubDate>Sun, 15 Feb 2026 21:30:01 -0800</pubDate>
-         <dc:date>2026-02-15T09:30:01-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.1061158</guid>
-         <title>Enhancing Memory of Chirality in Phosphorus&#8208;Centered Radicals by Inductive Deceleration of Pyramidal Inversion</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-A general strategy to boost memory of chirality (MOC) in P&#8208;radicals using substituent inductive effect was developed. Stereospecific phosphoryl radical reactions, including alkene hydrophosphonylation, intramolecular arylphosphonylation, isocyanate phosphorylation&#8211;cyclization, and aryl migration, were achieved. These provide diverse P(V)&#8208;stereogenic compounds with high yield (up to 99%) and excellent stereospecificity (up to &gt;99% es).
-
-
-
-
-
-
-
-
-ABSTRACT
-The realization of stereospecific radical reactions&#8212;particularly those involving heteroatom&#8208;centered radicals&#8212;remains a formidable challenge due to the rapid configurational inversion (racemization) of transient radical intermediates. This study presents a general strategy to enhance the memory of chirality (MOC) in radicals by exploiting the inductive effect of substituents. Through DFT calculations, we demonstrate that the pyramidal inversion barrier of phosphorus&#8208;centered radicals can be dramatically increased by substitution with highly electronegative atoms. This deceleration of inversion enables stereoretentive transformations of enantiopure H&#8208;phosphinates under mild, radical conditions. A series of stereospecific phosphoryl radical reactions, including alkene hydrophosphonylation, intramolecular arylphosphonylation, phosphorylation&#8211;cyclization of isocyanates, and aryl migration reactions, were successfully developed, providing access to diverse P(V)&#8208;stereogenic compounds with high efficiency (up to 99% yield) and excellent stereospecificity (up to &gt;99% es). The utility of this approach is highlighted by the late&#8208;stage functionalization of densely functionalized pharmaceuticals, bioactive molecules, and a liquid crystal. This work establishes a foundational principle for achieving stereochemical control in radical reactions via rational tuning of the radical intermediate's configurational stability.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/65cba6e3-59d0-4a4e-8c1c-875b67d6ba5e/anie71464-gra-0001-m.png"
-     alt="Enhancing Memory of Chirality in Phosphorus-Centered Radicals by Inductive Deceleration of Pyramidal Inversion"/&gt;
-&lt;p&gt;A general strategy to boost memory of chirality (MOC) in P-radicals using substituent inductive effect was developed. Stereospecific phosphoryl radical reactions, including alkene hydrophosphonylation, intramolecular arylphosphonylation, isocyanate phosphorylation&#8211;cyclization, and aryl migration, were achieved. These provide diverse P(V)-stereogenic compounds with high yield (up to 99%) and excellent stereospecificity (up to &amp;gt;99% &lt;i&gt;es&lt;/i&gt;).
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;The realization of stereospecific radical reactions&#8212;particularly those involving heteroatom-centered radicals&#8212;remains a formidable challenge due to the rapid configurational inversion (racemization) of transient radical intermediates. This study presents a general strategy to enhance the memory of chirality (MOC) in radicals by exploiting the inductive effect of substituents. Through DFT calculations, we demonstrate that the pyramidal inversion barrier of phosphorus-centered radicals can be dramatically increased by substitution with highly electronegative atoms. This deceleration of inversion enables stereoretentive transformations of enantiopure H-phosphinates under mild, radical conditions. A series of stereospecific phosphoryl radical reactions, including alkene hydrophosphonylation, intramolecular arylphosphonylation, phosphorylation&#8211;cyclization of isocyanates, and aryl migration reactions, were successfully developed, providing access to diverse P(V)-stereogenic compounds with high efficiency (up to 99% yield) and excellent stereospecificity (up to &amp;gt;99% &lt;i&gt;es&lt;/i&gt;). The utility of this approach is highlighted by the late-stage functionalization of densely functionalized pharmaceuticals, bioactive molecules, and a liquid crystal. This work establishes a foundational principle for achieving stereochemical control in radical reactions via rational tuning of the radical intermediate's configurational stability.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Guangqi Hu, 
-Chang Liu, 
-Yixuan Yang, 
-Kaihui Liu, 
-Ruina Wan, 
-Lewu Zhan, 
-Jing Hou, 
-Bin&#8208;dong Li, 
-Dinghai Wang
-</dc:creator>
-         <category>COMMUNICATION</category>
-         <dc:title>Enhancing Memory of Chirality in Phosphorus&#8208;Centered Radicals by Inductive Deceleration of Pyramidal Inversion</dc:title>
-         <dc:identifier>10.1002/anie.1061158</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.1061158</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.1061158</prism:url>
-         <prism:section>COMMUNICATION</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202521140</link>
-         <pubDate>Sun, 15 Feb 2026 21:29:31 -0800</pubDate>
-         <dc:date>2026-02-15T09:29:31-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.202521140</guid>
-         <title>Enzyme&#8208;Inspired Molecular Design Unlocks Efficient and Selective Ammonia Electrosynthesis From Nitrate in Water</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-The inclusion of bio&#8208;inspired outer&#8208;coordination&#8208;sphere features into cobalt&#8208;based synthetic catalysts enables facile and exclusive conversion of nitrate to ammonium ions in near&#8208;neutral aqueous media. This ammonium can be utilized for fertilizer value&#8208;added chemicals, along with its application as an energy vector. Thus, this unique synthetic catalyst design strategy enables a closed loop of the nitrogen cycle in a sustainable fashion.
-
-
-
-
-
-
-
-
-ABSTRACT
-Ammonia is a vital feedstock and emerging carbon&#8208;free energy carrier, yet its industrial synthesis via Haber&#8211;Bosch process remains highly energy&#8208; and carbon&#8208;intensive. Electrochemical nitrate reduction (eNO3RR) offers a sustainable alternative; however, achieving high selectivity via this pathway necessitates efficient proton management at the catalytic site. Here, we report a family of cobaloxime complexes (C1&#8211;C14) incorporating diverse outer coordination sphere (OCS) functionalities that act as enzyme&#8208;inspired proton relays. These electrocatalysts enable complete 8e&#8722;/10H+ conversion of nitrate (NO3&#8722;${\mathrm{NO}}_3^ - $) exclusively to ammonium (NH4+${\mathrm{NH}}_4^ + $) under near&#8208;neutral aqueous conditions, with the adenosine&#8208;functionalized derivative (C13) achieving a rate of 22.5&#160;mmol.cm&#8722;2.hr&#8722;1. mmolcat&#8722;1 with &#8764;83% Faradaic efficiency. Mechanistic studies combining in situ Raman spectroscopy, isotopic labelling, 2D NMR, and buffer&#8208;dependent kinetics reveal a stepwise nitrate&#8208;to&#8208;ammonia conversion via metal&#8208;bound intermediates, directed by cooperative intra&#8208; and intermolecular proton relays. The catalysts operate homogeneously, without electrode deposition or molecular structure decomposition, during eNO3RR. These results establish OCS engineering as a powerful strategy for functionally mimicking enzymatic architectures in selective ammonia electrosynthesis via a sustainable eNO3RR pathway.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/ad0cc437-a094-4150-9014-e8dbe48f8fe6/anie71531-gra-0001-m.png"
-     alt="Enzyme-Inspired Molecular Design Unlocks Efficient and Selective Ammonia Electrosynthesis From Nitrate in Water"/&gt;
-&lt;p&gt;The inclusion of bio-inspired outer-coordination-sphere features into cobalt-based synthetic catalysts enables facile and exclusive conversion of nitrate to ammonium ions in near-neutral aqueous media. This ammonium can be utilized for fertilizer value-added chemicals, along with its application as an energy vector. Thus, this unique synthetic catalyst design strategy enables a closed loop of the nitrogen cycle in a sustainable fashion.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Ammonia is a vital feedstock and emerging carbon-free energy carrier, yet its industrial synthesis via Haber&#8211;Bosch process remains highly energy- and carbon-intensive. Electrochemical nitrate reduction (eNO&lt;sub&gt;3&lt;/sub&gt;RR) offers a sustainable alternative; however, achieving high selectivity via this pathway necessitates efficient proton management at the catalytic site. Here, we report a family of cobaloxime complexes (&lt;b&gt;C1&#8211;C14&lt;/b&gt;) incorporating diverse outer coordination sphere (OCS) functionalities that act as enzyme-inspired proton relays. These electrocatalysts enable complete 8e&lt;sup&gt;&#8722;&lt;/sup&gt;/10H&lt;sup&gt;+&lt;/sup&gt; conversion of nitrate (NO3&#8722;${\mathrm{NO}}_3^ - $) exclusively to ammonium (NH4+${\mathrm{NH}}_4^ + $) under near-neutral aqueous conditions, with the adenosine-functionalized derivative (&lt;b&gt;C13&lt;/b&gt;) achieving a rate of 22.5&#160;mmol.cm&lt;sup&gt;&#8722;2&lt;/sup&gt;.hr&lt;sup&gt;&#8722;1&lt;/sup&gt;. mmol&lt;sub&gt;cat&lt;/sub&gt;
-&lt;sup&gt;&#8722;&lt;/sup&gt;
-&lt;sup&gt;1&lt;/sup&gt; with &#8764;83% Faradaic efficiency. Mechanistic studies combining in situ Raman spectroscopy, isotopic labelling, 2D NMR, and buffer-dependent kinetics reveal a stepwise nitrate-to-ammonia conversion via metal-bound intermediates, directed by cooperative intra- and intermolecular proton relays. The catalysts operate homogeneously, without electrode deposition or molecular structure decomposition, during eNO&lt;sub&gt;3&lt;/sub&gt;RR. These results establish OCS engineering as a powerful strategy for functionally mimicking enzymatic architectures in selective ammonia electrosynthesis via a sustainable eNO&lt;sub&gt;3&lt;/sub&gt;RR pathway.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Santanu Ghorai, 
-Sukanta Saha, 
-Rathindranath Biswas, 
-Abhishek Saini, 
-Saktipada Barik, 
-Somnath Guria, 
-Ajay Kumar, 
-Debendra Tewary, 
-Arnab Dutta
-</dc:creator>
-         <category>COMMUNICATION</category>
-         <dc:title>Enzyme&#8208;Inspired Molecular Design Unlocks Efficient and Selective Ammonia Electrosynthesis From Nitrate in Water</dc:title>
-         <dc:identifier>10.1002/anie.202521140</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.202521140</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202521140</prism:url>
-         <prism:section>COMMUNICATION</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525894</link>
-         <pubDate>Sun, 15 Feb 2026 21:27:42 -0800</pubDate>
-         <dc:date>2026-02-15T09:27:42-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.202525894</guid>
-         <title>Remote Molecule Activation in Living Mice Triggered by Therapeutic Ultrasound</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-A deboronative hydroxylation reaction triggered by therapeutic ultrasound, termed dBus, enables remote, noninvasive activation of boronic&#8208;acid&#8208;protected functional molecules, achieving spatiotemporally precise prodrug activation in living systems.
-
-
-
-
-
-
-
-
-ABSTRACT
-Remote, noninvasive chemical activation of bioactive molecules holds transformative potential for both biomedical research and therapeutic applications. Here, we report a deboronative hydroxylation reaction triggered by therapeutic ultrasound (termed dBus), in which boronic acid moieties are selectively converted into hydroxyl groups under clinically relevant, biocompatible conditions. We demonstrate that dBus enables spatiotemporally precise activation of diverse functional molecules, including fluorophores, bioactive small molecules, covalent labeling probes, peptides, and proteins, in both cellular systems and living animals. Mechanistic studies identify hydroxyl radicals, generated via ultrasound&#8208;induced acoustic cavitation, as the reactive species driving this transformation. Notably, dBus facilitates ultrasound&#8208;controlled prodrug activation in tumor&#8208;bearing mice, resulting in significant tumor growth inhibition without systemic toxicity. With its simplicity, compatibility with existing ultrasound platforms, and broad molecular scope, dBus establishes a generalizable chemical foundation for noninvasive therapeutic intervention, precision diagnostics, and spatially resolved biological modulation.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/72883556-27f1-44ee-a38d-67a3b0284431/anie71538-gra-0001-m.png"
-     alt="Remote Molecule Activation in Living Mice Triggered by Therapeutic Ultrasound"/&gt;
-&lt;p&gt;A deboronative hydroxylation reaction triggered by therapeutic ultrasound, termed dBus, enables remote, noninvasive activation of boronic-acid-protected functional molecules, achieving spatiotemporally precise prodrug activation in living systems.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Remote, noninvasive chemical activation of bioactive molecules holds transformative potential for both biomedical research and therapeutic applications. Here, we report a deboronative hydroxylation reaction triggered by therapeutic ultrasound (termed dBus), in which boronic acid moieties are selectively converted into hydroxyl groups under clinically relevant, biocompatible conditions. We demonstrate that dBus enables spatiotemporally precise activation of diverse functional molecules, including fluorophores, bioactive small molecules, covalent labeling probes, peptides, and proteins, in both cellular systems and living animals. Mechanistic studies identify hydroxyl radicals, generated via ultrasound-induced acoustic cavitation, as the reactive species driving this transformation. Notably, dBus facilitates ultrasound-controlled prodrug activation in tumor-bearing mice, resulting in significant tumor growth inhibition without systemic toxicity. With its simplicity, compatibility with existing ultrasound platforms, and broad molecular scope, dBus establishes a generalizable chemical foundation for noninvasive therapeutic intervention, precision diagnostics, and spatially resolved biological modulation.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Shengnan Qin, 
-Xuan Liang, 
-Yufei Di, 
-Ziqi Liu, 
-Zhizheng Lou, 
-Xinyue Chen, 
-Peng R. Chen, 
-Xinyuan Fan
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Remote Molecule Activation in Living Mice Triggered by Therapeutic Ultrasound</dc:title>
-         <dc:identifier>10.1002/anie.202525894</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.202525894</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202525894</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.4862058</link>
-         <pubDate>Sun, 15 Feb 2026 21:26:28 -0800</pubDate>
-         <dc:date>2026-02-15T09:26:28-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.4862058</guid>
-         <title>Remotely Tuning the Electronic Structures of Cu Site Over N&#8208;Heterocyclic Carbene&#8208;Protected Cu7 Nanocluster for Steering CO2 Electroreduction to Hydrocarbons</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-This study presents two NHC&#8208;stabilized Cu clusters, NHCH&#8208;Cu7 and NHCMe&#8208;Cu7, featuring &#8208;H or &#8208;CH3 groups on the NHC ligand. The remote substituent exerts a significant electronic effect on Cu core, and increases population of active electrons in the highest occupied d orbital. This electronic modulation promotes the stabilization and activation of the *CO, switching the product selectivity from CO&#8208;to&#8208;hydrocarbons.
-
-
-
-
-
-
-
-
-ABSTRACT
-In this study, a remote&#8208;control strategy for tuning the electronic structures of atomically precise Cu nanoclusters (Cu NCs) was developed, aiming to enhance the selectivity of the CO2RR toward high&#8208;value hydrocarbons. Two Cu7 NCs protected by tridentate N&#8208;heterocyclic carbene (NHC) ligands with distinct functional groups on the remote benzimidazole ring, NHCH&#8208;Cu7 and NHCMe&#8208;Cu7, were synthesized via a green and efficient ball&#8208;milling approach. The main product obtained with NHCMe&#8208;Cu7 is CO, with a selectivity of 82.8%, whereas the Faradaic efficiency (FE) for hydrocarbon production using NHCH&#8208;Cu7 is 74.0%, affording 50.4% CH4 and 23.6% C2H4 at &#8722;1.5&#160;V versus the reversible hydrogen electrode (RHE). Comprehensive theoretical calculations and operando spectroscopic analyses demonstrate that the effect of the remote substituent on the NHC ligand provides a greater population of active electrons in the highest occupied d&#8208;orbital of NHCH&#8208;Cu7 compared to that in NHCMe&#8208;Cu7, thus effectively regulating the binding strength of the *CO intermediate. This in turn promotes stabilization and further activation of the intermediate, ultimately steering the product selectivity from CO toward targeted hydrocarbons. This study establishes an atomic&#8208;level paradigm for ligand engineering of Cu NCs, enabling remote tuning of the electronic structure of the active sites to realize highly selective hydrocarbon generation.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/691560ad-66ec-45f1-a689-90993aadfc16/anie71492-gra-0001-m.png"
-     alt="Remotely Tuning the Electronic Structures of Cu Site Over N-Heterocyclic Carbene-Protected Cu7 Nanocluster for Steering CO2 Electroreduction to Hydrocarbons"/&gt;
-&lt;p&gt;This study presents two NHC-stabilized Cu clusters, &lt;b&gt;NHC&lt;sup&gt;H&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt; and &lt;b&gt;NHC&lt;sup&gt;Me&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt;, featuring -H or -CH&lt;sub&gt;3&lt;/sub&gt; groups on the NHC ligand. The remote substituent exerts a significant electronic effect on Cu core, and increases population of active electrons in the highest occupied d orbital. This electronic modulation promotes the stabilization and activation of the *CO, switching the product selectivity from CO-to-hydrocarbons.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;In this study, a remote-control strategy for tuning the electronic structures of atomically precise Cu nanoclusters (Cu NCs) was developed, aiming to enhance the selectivity of the CO&lt;sub&gt;2&lt;/sub&gt;RR toward high-value hydrocarbons. Two Cu&lt;sub&gt;7&lt;/sub&gt; NCs protected by tridentate N-heterocyclic carbene (NHC) ligands with distinct functional groups on the remote benzimidazole ring, &lt;b&gt;NHC&lt;sup&gt;H&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt; and &lt;b&gt;NHC&lt;sup&gt;Me&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt;, were synthesized via a green and efficient ball-milling approach. The main product obtained with &lt;b&gt;NHC&lt;sup&gt;Me&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt; is CO, with a selectivity of 82.8%, whereas the Faradaic efficiency (FE) for hydrocarbon production using &lt;b&gt;NHC&lt;sup&gt;H&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt; is 74.0%, affording 50.4% CH&lt;sub&gt;4&lt;/sub&gt; and 23.6% C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;4&lt;/sub&gt; at &#8722;1.5&#160;V versus the reversible hydrogen electrode (RHE). Comprehensive theoretical calculations and operando spectroscopic analyses demonstrate that the effect of the remote substituent on the NHC ligand provides a greater population of active electrons in the highest occupied d-orbital of &lt;b&gt;NHC&lt;sup&gt;H&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt; compared to that in &lt;b&gt;NHC&lt;sup&gt;Me&lt;/sup&gt;-Cu&lt;sub&gt;7&lt;/sub&gt;
-&lt;/b&gt;, thus effectively regulating the binding strength of the *CO intermediate. This in turn promotes stabilization and further activation of the intermediate, ultimately steering the product selectivity from CO toward targeted hydrocarbons. This study establishes an atomic-level paradigm for ligand engineering of Cu NCs, enabling remote tuning of the electronic structure of the active sites to realize highly selective hydrocarbon generation.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Li&#8208;Juan Gong, 
-Duan&#8208;Hui Si, 
-Sha Bai, 
-Li&#8208;Yao Liu, 
-Le Zhang, 
-Yuan&#8208;Biao Huang, 
-Ying&#8208;Feng Han
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Remotely Tuning the Electronic Structures of Cu Site Over N&#8208;Heterocyclic Carbene&#8208;Protected Cu7 Nanocluster for Steering CO2 Electroreduction to Hydrocarbons</dc:title>
-         <dc:identifier>10.1002/anie.4862058</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.4862058</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.4862058</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://onlinelibrary.wiley.com/doi/10.1002/anie.202523838</link>
-         <pubDate>Sun, 15 Feb 2026 21:25:53 -0800</pubDate>
-         <dc:date>2026-02-15T09:25:53-08:00</dc:date>
-         <source url="https://onlinelibrary.wiley.com/journal/15213773">Wiley: Angewandte Chemie International Edition: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/anie.202523838</guid>
-         <title>Low&#8208;Temperature Hydrogen Production From Liquefied Petroleum Gas via Mechanochemistry</title>
-         <description>Angewandte Chemie International Edition, EarlyView. </description>
-         <dc:description>
-A mechanochemical strategy enables low&#8208;temperature (37&#176;C) conversion of liquified petroleum gas (LPG) into hydrogen (H2) with chromium (Cr) powder. The process achieves 97.2&#160;vol% H2 selectivity and 94.6% yield ratio, with no carbon emissions. Stronger metal&#8208;carbon and weaker metal&#8208;hydrogen interactions are identified as the key factors, highlighting mechanochemistry as a sustainable alternative to steam reforming.
-
-
-
-
-
-
-
-
-ABSTRACT
-Steam reforming of hydrocarbons is currently the dominant method for hydrogen (H2) production. As a petroleum refining byproduct rich in butane and propane, liquefied petroleum gas (LPG) offers a more accessible and easily transportable alternative feedstock of hydrocarbons relative to methane&#8208;enriched natural gas. However, conventional steam reforming of LPG requires high temperatures to cleave stable C&#9472;H bonds, and the inevitable release of carbon oxides as byproducts limits H2 selectivity (&#160;&lt;&#160;76 vol%). To overcome these limitations, we report a low&#8208;temperature (37&#176;C) mechanochemical strategy for converting LPG into high&#8208;purity H2 with chromium (Cr) powder. The reaction proceeds without carbon emissions and achieves a high H2 selectivity of 97.2&#160;vol%, far surpasses that of the thermochemical route (21.3&#160;vol% at 800&#176;C). The H2 yield rate exhibits at least 50 times enhancement compared to thermochemistry. The H2 yield ratio reaches 94.6%, nearly 13 times greater than thermochemistry (7.3%). Mechanistically, strong metal&#8208;carbon interactions promote dehydrogenation and C&#9472;C bond cleavage, and metal&#8208;hydrogen interactions determine H2 selectivity. These findings highlight mechanochemistry as a promising low&#8208;temperature, carbon&#8208;free approach for sustainable H2 generation.
-</dc:description>
-         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e410772b-f3ab-4aca-897b-2db943ab3c05/anie71561-gra-0001-m.png"
-     alt="Low-Temperature Hydrogen Production From Liquefied Petroleum Gas via Mechanochemistry"/&gt;
-&lt;p&gt;A mechanochemical strategy enables low-temperature (37&#176;C) conversion of liquified petroleum gas (LPG) into hydrogen (H&lt;sub&gt;2&lt;/sub&gt;) with chromium (Cr) powder. The process achieves 97.2&#160;vol% H&lt;sub&gt;2&lt;/sub&gt; selectivity and 94.6% yield ratio, with no carbon emissions. Stronger metal-carbon and weaker metal-hydrogen interactions are identified as the key factors, highlighting mechanochemistry as a sustainable alternative to steam reforming.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Steam reforming of hydrocarbons is currently the dominant method for hydrogen (H&lt;sub&gt;2&lt;/sub&gt;) production. As a petroleum refining byproduct rich in butane and propane, liquefied petroleum gas (LPG) offers a more accessible and easily transportable alternative feedstock of hydrocarbons relative to methane-enriched natural gas. However, conventional steam reforming of LPG requires high temperatures to cleave stable C&#9472;H bonds, and the inevitable release of carbon oxides as byproducts limits H&lt;sub&gt;2&lt;/sub&gt; selectivity (&#160;&amp;lt;&#160;76 vol%). To overcome these limitations, we report a low-temperature (37&#176;C) mechanochemical strategy for converting LPG into high-purity H&lt;sub&gt;2&lt;/sub&gt; with chromium (Cr) powder. The reaction proceeds without carbon emissions and achieves a high H&lt;sub&gt;2&lt;/sub&gt; selectivity of 97.2&#160;vol%, far surpasses that of the thermochemical route (21.3&#160;vol% at 800&#176;C). The H&lt;sub&gt;2&lt;/sub&gt; yield rate exhibits at least 50 times enhancement compared to thermochemistry. The H&lt;sub&gt;2&lt;/sub&gt; yield ratio reaches 94.6%, nearly 13 times greater than thermochemistry (7.3%). Mechanistically, strong metal-carbon interactions promote dehydrogenation and C&#9472;C bond cleavage, and metal-hydrogen interactions determine H&lt;sub&gt;2&lt;/sub&gt; selectivity. These findings highlight mechanochemistry as a promising low-temperature, carbon-free approach for sustainable H&lt;sub&gt;2&lt;/sub&gt; generation.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Ruiqian Gu, 
-Lixin Chen, 
-Yingnan Zhao, 
-Yue Ma, 
-Tong&#8208;Xing Wang, 
-Rui&#8208;Qi Yao, 
-Tonghui Wang, 
-Zi Wen, 
-Gao&#8208;Feng Han, 
-Xing&#8208;You Lang, 
-Qing Jiang
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Low&#8208;Temperature Hydrogen Production From Liquefied Petroleum Gas via Mechanochemistry</dc:title>
-         <dc:identifier>10.1002/anie.202523838</dc:identifier>
-         <prism:publicationName>Angewandte Chemie International Edition</prism:publicationName>
-         <prism:doi>10.1002/anie.202523838</prism:doi>
-         <prism:url>https://onlinelibrary.wiley.com/doi/10.1002/anie.202523838</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
       </item>
    </channel>
 </rss>
