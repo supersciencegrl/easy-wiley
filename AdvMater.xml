@@ -6,8 +6,8 @@
       <language>en-US</language>
       <copyright>&#169; Wiley-VCH GmbH, Weinheim</copyright>
       <managingEditor>wileyonlinelibrary@wiley.com (The Advanced Portfolio)</managingEditor>
-      <pubDate>Wed, 25 Feb 2026 08:29:49 +0000</pubDate>
-      <lastBuildDate>Wed, 25 Feb 2026 08:29:49 +0000</lastBuildDate>
+      <pubDate>Thu, 26 Feb 2026 08:33:06 +0000</pubDate>
+      <lastBuildDate>Thu, 26 Feb 2026 08:33:06 +0000</lastBuildDate>
       <generator>Atypon&#174; Literatum&#8482;</generator>
       <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
       <ttl>10080</ttl>
@@ -20,6 +20,482 @@
          <url>https://advanced.onlinelibrary.wiley.com/pb-assets/journal-banners/15214095.jpg</url>
          <link>https://advanced.onlinelibrary.wiley.com/journal/15214095</link>
       </image>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521410</link>
+         <pubDate>Wed, 25 Feb 2026 22:16:45 -0800</pubDate>
+         <dc:date>2026-02-25T10:16:45-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202521410</guid>
+         <title>Receptor&#8208;Mimetic Stereo Olfaction for Simultaneous Odor Recognition and Spatial Localization</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+AROMA (Artificial Receptor&#8208;Olfaction Mimetic Array) enables simultaneous odor&#8208;mixture recognition and 3D source localization from time&#8208;varying plume signals in air. Mixed&#8208;ligand gold&#8208;nanoparticle chemiresistors provide receptor&#8208;mimetic kinetics, and a multi&#8208;task Transformer learns end&#8208;to&#8208;end mappings from spatiotemporal responses to chemical composition and coordinates. The framework supports real&#8208;room robotic source finding and scalable environmental monitoring.
+
+
+
+
+
+
+
+
+ABSTRACT
+Odor plumes are chemophysical fields where molecular identity is coupled to transport phenomena including diffusion and turbulence. In animals, decoding this joint information underlies navigation and social behavior. However, artificial systems treat identity and location as independent problems, solved by distinct modalities. Here we present AROMA (Artificial Receptor&#8208;Olfaction Mimetic Array), a stereo olfaction strategy in which receptor&#8208;mimetic sensors capture plume dynamics, enabling concurrent decoding of mixture composition and 3D source location from analyte&#8208;dependent kinetic patterns. AROMA is built on mixed&#8208;ligand gold nanoparticles whose phase&#8208;separated monolayers and non&#8208;additive interfacial energetics emulate the promiscuous selectivity of olfactory GPCRs. Deployed in an antenna&#8208;like, spatially separated configuration, these sensors convert evolving concentration fields into disparities in onset, rise, and amplitude that encode geometric information. Trained on 50 plume trials of six&#8208;odorant mixtures sampled by a 30&#8208;channel array in an 18&#160;cm cubic chamber, a multi&#8208;task Transformer achieves 86.7% mixture identification accuracy and a 3D localization error of 2.84 &#177; 0.87&#160;cm. We demonstrate room&#8208;scale source tracking with a mobile robot indoors under natural airflow. By translating plume dynamics into a unified latent representation, AROMA advances artificial olfaction from static molecular discrimination toward spatial intelligence, offering a general framework for environmental monitoring and autonomous navigation.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/beefab14-15fd-48dd-9d50-12c5f97c667d/adma72645-gra-0001-m.png"
+     alt="Receptor-Mimetic Stereo Olfaction for Simultaneous Odor Recognition and Spatial Localization"/&gt;
+&lt;p&gt;AROMA (Artificial Receptor-Olfaction Mimetic Array) enables simultaneous odor-mixture recognition and 3D source localization from time-varying plume signals in air. Mixed-ligand gold-nanoparticle chemiresistors provide receptor-mimetic kinetics, and a multi-task Transformer learns end-to-end mappings from spatiotemporal responses to chemical composition and coordinates. The framework supports real-room robotic source finding and scalable environmental monitoring.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Odor plumes are chemophysical fields where molecular identity is coupled to transport phenomena including diffusion and turbulence. In animals, decoding this joint information underlies navigation and social behavior. However, artificial systems treat identity and location as independent problems, solved by distinct modalities. Here we present AROMA (Artificial Receptor-Olfaction Mimetic Array), a stereo olfaction strategy in which receptor-mimetic sensors capture plume dynamics, enabling concurrent decoding of mixture composition and 3D source location from analyte-dependent kinetic patterns. AROMA is built on mixed-ligand gold nanoparticles whose phase-separated monolayers and non-additive interfacial energetics emulate the promiscuous selectivity of olfactory GPCRs. Deployed in an antenna-like, spatially separated configuration, these sensors convert evolving concentration fields into disparities in onset, rise, and amplitude that encode geometric information. Trained on 50 plume trials of six-odorant mixtures sampled by a 30-channel array in an 18&#160;cm cubic chamber, a multi-task Transformer achieves 86.7% mixture identification accuracy and a 3D localization error of 2.84 &#177; 0.87&#160;cm. We demonstrate room-scale source tracking with a mobile robot indoors under natural airflow. By translating plume dynamics into a unified latent representation, AROMA advances artificial olfaction from static molecular discrimination toward spatial intelligence, offering a general framework for environmental monitoring and autonomous navigation.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Liyuan Zhang, 
+Yujie Wu, 
+Zhuocheng Gong, 
+Jiamu Yuan, 
+Wenhui Wang, 
+Yanming Xia, 
+Yunpeng Yang, 
+Yuchun Lin, 
+Zhi Luo, 
+Xiaobao Cao
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Receptor&#8208;Mimetic Stereo Olfaction for Simultaneous Odor Recognition and Spatial Localization</dc:title>
+         <dc:identifier>10.1002/adma.202521410</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202521410</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521410</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.72638</link>
+         <pubDate>Wed, 25 Feb 2026 06:25:23 -0800</pubDate>
+         <dc:date>2026-02-25T06:25:23-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.72638</guid>
+         <title>Robust Adsorption of Self&#8208;Assembled Monolayer on NiOx via Multiple Hydrogen Bonds for Stable Inverted Perovskite Solar Cells</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+This study enhances the stability and performance of inverted perovskite solar cells by incorporating HM into MeO&#8208;4PACz to tailor its adsorption on NiOx. The modified SAM adopts a &#8764;60&#176; inclined orientation, improves substrate coverage to 1.236, and effectively passivates interfacial defects. The optimized devices achieve a champion PCE of 26.99% and retain high efficiency under prolonged operational and thermal stress.
+
+
+
+
+
+
+
+
+ABSTRACT
+In inverted perovskite solar cells, self&#8208;assembled molecules (SAMs) employed as hole&#8208;transport layers can significantly improve device performance, with power conversion efficiencies currently exceeding 27%. However, the non&#8208;uniform and weak adsorption of SAMs on metal oxide substrates leads to severe non&#8208;radiative recombination at the buried interface, which remains a critical bottleneck for long&#8208;term operational and thermal stability. In this study, heptafluorobutyramide (HA) or heptafluorobutylimidamide (HM) is introduced into MeO&#8209;4PACz to tailor its adsorption on the NiOx surface. Leveraging multiple hydrogen&#8209;bonding interactions between HM and MeO&#8209;4PACz, the resulting SAMs adopt an inclined orientation of approximately 60&#176; relative to the NiOx surface. This configuration increases the proportion of Ni3+ on the substrate and raises the surface coverage from 0.912 to 1.236. It also effectively passivates undercoordinated Pb defects at the buried interface, enhances interfacial uniformity, and suppresses non&#8209;radiative recombination. Using a vacuum&#8209;flash processing method, HM&#8209;optimized devices achieve a champion efficiency of 26.99% (certified steady&#8209;state efficiency 26.62%) and reach 20.36% on a large&#8209;area module with an active area of 809.69&#160;cm2. Moreover, small&#8208;area devices retained 92% and 87% of their initial efficiency after 1500&#160;h of maximum power point tracking at 25&#176;C and 60&#176;C, respectively.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/a315b853-4362-4845-a604-3b104629f4ba/adma72638-gra-0001-m.png"
+     alt="Robust Adsorption of Self-Assembled Monolayer on NiOx via Multiple Hydrogen Bonds for Stable Inverted Perovskite Solar Cells"/&gt;
+&lt;p&gt;This study enhances the stability and performance of inverted perovskite solar cells by incorporating HM into MeO-4PACz to tailor its adsorption on NiOx. The modified SAM adopts a &#8764;60&#176; inclined orientation, improves substrate coverage to 1.236, and effectively passivates interfacial defects. The optimized devices achieve a champion PCE of 26.99% and retain high efficiency under prolonged operational and thermal stress.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;In inverted perovskite solar cells, self-assembled molecules (SAMs) employed as hole-transport layers can significantly improve device performance, with power conversion efficiencies currently exceeding 27%. However, the non-uniform and weak adsorption of SAMs on metal oxide substrates leads to severe non-radiative recombination at the buried interface, which remains a critical bottleneck for long-term operational and thermal stability. In this study, heptafluorobutyramide (HA) or heptafluorobutylimidamide (HM) is introduced into MeO&#8209;4PACz to tailor its adsorption on the NiO&lt;sub&gt;x&lt;/sub&gt; surface. Leveraging multiple hydrogen&#8209;bonding interactions between HM and MeO&#8209;4PACz, the resulting SAMs adopt an inclined orientation of approximately 60&#176; relative to the NiO&lt;sub&gt;x&lt;/sub&gt; surface. This configuration increases the proportion of Ni&lt;sup&gt;3&lt;/sup&gt;
+&lt;sup&gt;+&lt;/sup&gt; on the substrate and raises the surface coverage from 0.912 to 1.236. It also effectively passivates undercoordinated Pb defects at the buried interface, enhances interfacial uniformity, and suppresses non&#8209;radiative recombination. Using a vacuum&#8209;flash processing method, HM&#8209;optimized devices achieve a champion efficiency of 26.99% (certified steady&#8209;state efficiency 26.62%) and reach 20.36% on a large&#8209;area module with an active area of 809.69&#160;cm&lt;sup&gt;2&lt;/sup&gt;. Moreover, small-area devices retained 92% and 87% of their initial efficiency after 1500&#160;h of maximum power point tracking at 25&#176;C and 60&#176;C, respectively.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Kunpeng Li, 
+Zuolin Zhang, 
+Shichao Sun, 
+Shuang Dong, 
+Xue Lu, 
+Yunkun Liu, 
+Mei Dai, 
+Linrong Li, 
+Fashe Li, 
+Zhishan Li, 
+Huicong Zhang, 
+Yuling Zhai, 
+Shaoyuan Li, 
+Hua Wang, 
+Xing Zhu, 
+Cong Chen, 
+Jiangzhao Chen, 
+Tao Zhu
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Robust Adsorption of Self&#8208;Assembled Monolayer on NiOx via Multiple Hydrogen Bonds for Stable Inverted Perovskite Solar Cells</dc:title>
+         <dc:identifier>10.1002/adma.72638</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.72638</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.72638</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521163</link>
+         <pubDate>Wed, 25 Feb 2026 05:34:38 -0800</pubDate>
+         <dc:date>2026-02-25T05:34:38-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202521163</guid>
+         <title>Local Hollandite Phase Inducing Oxygen Path Mechanism Enables Durable PEM Electrolysis</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+A porous amorphous (La)IrOx catalyst featuring local hollandite phase, shortened Ir&#8211;Iredge distance and operando&#8208;formed Ir&#8805;5+ species was reported to activate OPM pathway for enhanced OER catalysis, whose PEMWE delivers a 500&#8208;h stable operation at industry&#8208;level current density, and even suggests durability under variable load condition with 0.1 mgIr&#160;cm&#8722;2.
+
+
+
+
+
+
+
+
+ABSTRACT
+Large&#8208;scale proton&#8208;exchange&#8208;membrane water electrolyzers (PEMWEs) are urgently needed for green hydrogen production, however, their development is largely hindered by the use of high&#8208;loading iridium in the anode. While amorphous IrOx catalysts with high activity exist, they typically follow either the lattice oxygen mechanism compromising stability, or the adsorbate evolution mechanism suffering from a high overpotential limit. Oxide path mechanism (OPM) offers a promising alternative by enabling direct *O&#9472;*O coupling, but its activation in the pure IrOx system remains challenging given the long distance between adjacent Ir atoms. Herein, we report a class of (La)IrOx porous amorphous catalyst with OPM pathway, featuring local unconventional hollandite phase and abundant water molecules inside its lattice tunnels. We demonstrate that such a unique short&#8208;range ordered structure can induce shortened Ir&#8211;Iredge distance and highly&#8208;active Ir&#8805;5+ species, both contributing to desirable OPM for greatly enhanced catalytic performances. The as&#8208;assembled PEMWE achieves a cell voltage of 1.62&#160;V at 1 A&#160;cm&#8722;2 with a low loading of 0.2 mgIr&#160;cm&#8722;2, and can operate stably over 500&#160;h at industry&#8208;level current density. The accelerated stress test further validates its durability advantage at even lower 0.1 mgIr&#160;cm&#8722;2 loading, which validates its potential as a viable anode solution for durable low&#8208;iridium PEMWEs.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/85294994-00c6-4e88-be67-78eb413357ea/adma72639-gra-0001-m.png"
+     alt="Local Hollandite Phase Inducing Oxygen Path Mechanism Enables Durable PEM Electrolysis"/&gt;
+&lt;p&gt;A porous amorphous (La)IrO&lt;sub&gt;x&lt;/sub&gt; catalyst featuring local hollandite phase, shortened Ir&#8211;Ir&lt;sub&gt;edge&lt;/sub&gt; distance and operando-formed Ir&lt;sup&gt;&#8805;5+&lt;/sup&gt; species was reported to activate OPM pathway for enhanced OER catalysis, whose PEMWE delivers a 500-h stable operation at industry-level current density, and even suggests durability under variable load condition with 0.1 mg&lt;sub&gt;Ir&lt;/sub&gt;&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt;.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Large-scale proton-exchange-membrane water electrolyzers (PEMWEs) are urgently needed for green hydrogen production, however, their development is largely hindered by the use of high-loading iridium in the anode. While amorphous IrO&lt;sub&gt;x&lt;/sub&gt; catalysts with high activity exist, they typically follow either the lattice oxygen mechanism compromising stability, or the adsorbate evolution mechanism suffering from a high overpotential limit. Oxide path mechanism (OPM) offers a promising alternative by enabling direct &lt;sup&gt;*&lt;/sup&gt;O&#9472;&lt;sup&gt;*&lt;/sup&gt;O coupling, but its activation in the pure IrO&lt;sub&gt;x&lt;/sub&gt; system remains challenging given the long distance between adjacent Ir atoms. Herein, we report a class of (La)IrO&lt;sub&gt;x&lt;/sub&gt; porous amorphous catalyst with OPM pathway, featuring local unconventional hollandite phase and abundant water molecules inside its lattice tunnels. We demonstrate that such a unique short-range ordered structure can induce shortened Ir&#8211;Ir&lt;sub&gt;edge&lt;/sub&gt; distance and highly-active Ir&lt;sup&gt;&#8805;5+&lt;/sup&gt; species, both contributing to desirable OPM for greatly enhanced catalytic performances. The as-assembled PEMWE achieves a cell voltage of 1.62&#160;V at 1 A&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt; with a low loading of 0.2 mg&lt;sub&gt;Ir&lt;/sub&gt;&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt;, and can operate stably over 500&#160;h at industry-level current density. The accelerated stress test further validates its durability advantage at even lower 0.1 mg&lt;sub&gt;Ir&lt;/sub&gt;&#160;cm&lt;sup&gt;&#8722;2&lt;/sup&gt; loading, which validates its potential as a viable anode solution for durable low-iridium PEMWEs.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Dawei Wang, 
+Heng Luo, 
+Fangxu Lin, 
+Saichao Cao, 
+Yueshuai Wang, 
+Daliang Zhang, 
+Ning He, 
+Lu Li, 
+Yujiao Wang, 
+Bohan Zhang, 
+Yu Wang, 
+Mingchuan Luo, 
+Fan Lv, 
+Shaojun Guo
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Local Hollandite Phase Inducing Oxygen Path Mechanism Enables Durable PEM Electrolysis</dc:title>
+         <dc:identifier>10.1002/adma.202521163</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202521163</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521163</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202522776</link>
+         <pubDate>Wed, 25 Feb 2026 05:30:28 -0800</pubDate>
+         <dc:date>2026-02-25T05:30:28-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202522776</guid>
+         <title>Photovoltage&#8208;Driven Two&#8208;Transistor&#8211;One&#8208;Diode Perovskite Pixels for In&#8208;Cell Optical Sensing Displays</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+Integrating active&#8208;matrix driving, photovoltage storage, and in&#8208;sensor amplification, the two&#8208;transistor&#8208;one&#8208;diode (2T1D) &#8220;opto&#8208;DRAM&#8221; pixel enables in&#8208;pixel optical sensing and display. This performance, which delivers high radiative efficiency and simultaneously high responsivity, is achieved through a fluorinated acid passivator, a heterojunction dissociation interface, and a photovoltage&#8208;driven sensing mechanism. This synergy paves the way for compact, self&#8208;sensing, and energy&#8208;efficient optoelectronics.
+
+
+
+
+
+
+
+
+ABSTRACT
+In&#8208;cell optical sensing displays are essential for next&#8208;generation interactive electronics, yet conventional architectures rely on separate light&#8208;emitting diodes (LEDs) and photodetectors (PDs), limiting pixel density and efficiency. Achieving both functions within a single diode is intrinsically difficult because electroluminescence requires strong excitonic recombination, whereas photodetection benefits from efficient carrier separation. Here, we realize stable dual&#8208;mode operation by stabilizing intermediate&#8208;n quasi&#8208;2D phases and suppressing non&#8208;radiative losses with a fluorinated acid passivator, and by engineering high&#8208;mobility transport layers with a dissociative (type&#8208;II) perovskite/electron transport layer heterojunction to assist exciton dissociation under photovoltaic operation. The resulting bifunctional diode enables an opto&#8208;dynamic random&#8208;access memory (opto&#8208;DRAM) pixel, a two&#8208;transistor&#8211;one&#8208;diode (2T1D) architecture conceptually analogous to a two&#8208;transistor&#8211;one&#8208;capacitor (2T1C) DRAM gain&#8208;cell, where photovoltage&#8208;driven rather than photocurrent&#8208;driven detection enables self&#8208;amplified sensing when coupled to thin&#8208;film transistors. The sky&#8208;blue PeLED achieves an external quantum efficiency of 20.4% at 100 cd m&#8722;2 and a record power efficiency of 41.8 lm W&#8722;1, while as the coupled sensing pixel it exhibits a maximum responsivity of 4.17&#160;&#215;&#160;104 A W&#8722;1 and a specific detectivity of 6.46&#160;&#215;&#160;1013 Jones. Monolithic integration yields an active&#8208;matrix display capable of switchable emission and imaging functions offering a scalable platform for compact, energy&#8208;efficient, and multifunctional optoelectronics.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/31741ee5-5ddc-4fca-ad12-0516ee2754f8/adma72648-gra-0001-m.png"
+     alt="Photovoltage-Driven Two-Transistor&#8211;One-Diode Perovskite Pixels for In-Cell Optical Sensing Displays"/&gt;
+&lt;p&gt;&lt;b&gt;Integrating active-matrix driving, photovoltage storage, and in-sensor amplification, the two-transistor-one-diode (2T1D) &#8220;opto-DRAM&#8221; pixel enables in-pixel optical sensing and display&lt;/b&gt;. This performance, which delivers high radiative efficiency and simultaneously high responsivity, is achieved through a fluorinated acid passivator, a heterojunction dissociation interface, and a photovoltage-driven sensing mechanism. This synergy paves the way for compact, self-sensing, and energy-efficient optoelectronics.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;In-cell optical sensing displays are essential for next-generation interactive electronics, yet conventional architectures rely on separate light-emitting diodes (LEDs) and photodetectors (PDs), limiting pixel density and efficiency. Achieving both functions within a single diode is intrinsically difficult because electroluminescence requires strong excitonic recombination, whereas photodetection benefits from efficient carrier separation. Here, we realize stable dual-mode operation by stabilizing intermediate-n quasi-2D phases and suppressing non-radiative losses with a fluorinated acid passivator, and by engineering high-mobility transport layers with a dissociative (type-II) perovskite/electron transport layer heterojunction to assist exciton dissociation under photovoltaic operation. The resulting bifunctional diode enables an opto-dynamic random-access memory (opto-DRAM) pixel, a two-transistor&#8211;one-diode (2T1D) architecture conceptually analogous to a two-transistor&#8211;one-capacitor (2T1C) DRAM gain-cell, where photovoltage-driven rather than photocurrent-driven detection enables self-amplified sensing when coupled to thin-film transistors. The sky-blue PeLED achieves an external quantum efficiency of 20.4% at 100 cd m&lt;sup&gt;&#8722;2&lt;/sup&gt; and a record power efficiency of 41.8 lm W&lt;sup&gt;&#8722;1&lt;/sup&gt;, while as the coupled sensing pixel it exhibits a maximum responsivity of 4.17&#160;&#215;&#160;10&lt;sup&gt;4&lt;/sup&gt; A W&lt;sup&gt;&#8722;1&lt;/sup&gt; and a specific detectivity of 6.46&#160;&#215;&#160;10&lt;sup&gt;13&lt;/sup&gt; Jones. Monolithic integration yields an active-matrix display capable of switchable emission and imaging functions offering a scalable platform for compact, energy-efficient, and multifunctional optoelectronics.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Lingjiao Zhang, 
+Baiquan Liu, 
+Xinyang Lv, 
+Genghui Zhang, 
+Chenglin Li, 
+Wenjing Zhang, 
+Yunfei Ren, 
+Ziming Chen, 
+Meiyu Zhang, 
+Qifan Xue, 
+Zhenyu Yang, 
+Baodan Zhao, 
+Dongfang Yang, 
+Hang Zhou, 
+Feng Gao, 
+Dawei Di, 
+Chuan Liu
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Photovoltage&#8208;Driven Two&#8208;Transistor&#8211;One&#8208;Diode Perovskite Pixels for In&#8208;Cell Optical Sensing Displays</dc:title>
+         <dc:identifier>10.1002/adma.202522776</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202522776</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202522776</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521003</link>
+         <pubDate>Wed, 25 Feb 2026 05:16:58 -0800</pubDate>
+         <dc:date>2026-02-25T05:16:58-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202521003</guid>
+         <title>Realization of Iodinene with Tunable Topological Edge States and Flat Bands</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+Monolayer iodinene is realized on Au(111) and exhibits remarkable stability in air. Angle&#8208;resolved photoemission spectroscopy together with scanning tunneling microscopy and spectroscopy reveals strain&#8208;tunable flat bands and robust topological edge states. First&#8208;principles calculations confirm that iodinene hosts a two&#8208;dimensional topological crystalline insulator phase with a mirror Chern number of two.
+
+
+
+
+
+
+
+
+ABSTRACT
+Halogens, known for their diatomic molecular structures, typically do not form extended covalent materials. The development of 2D elemental materials from halogens is therefore significant for both fundamental research and practical applications. Here, we report the realization of a monolayer iodine sheet, namely iodinene, with multiple exotic properties. Using angle&#8208;resolved photoemission spectroscopy, scanning tunneling microscopy, and first&#8208;principles calculations, we show that iodinene hosts 2D topological crystalline insulator states, a long&#8208;sought topological state previously observed only in 3D materials. Moreover, iodinene is exceptionally stable under ambient conditions. By applying a tensile strain of 48%, we realize two nearly flat bands with robust topological edge states in between, paving the way for the design and fabrication of tunable topological and spintronic devices.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/4a2d5cf6-6dbf-461e-ab65-c4e0cbb7ad07/adma72637-gra-0001-m.png"
+     alt="Realization of Iodinene with Tunable Topological Edge States and Flat Bands"/&gt;
+&lt;p&gt;Monolayer iodinene is realized on Au(111) and exhibits remarkable stability in air. Angle-resolved photoemission spectroscopy together with scanning tunneling microscopy and spectroscopy reveals strain-tunable flat bands and robust topological edge states. First-principles calculations confirm that iodinene hosts a two-dimensional topological crystalline insulator phase with a mirror Chern number of two.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Halogens, known for their diatomic molecular structures, typically do not form extended covalent materials. The development of 2D elemental materials from halogens is therefore significant for both fundamental research and practical applications. Here, we report the realization of a monolayer iodine sheet, namely iodinene, with multiple exotic properties. Using angle-resolved photoemission spectroscopy, scanning tunneling microscopy, and first-principles calculations, we show that iodinene hosts 2D topological crystalline insulator states, a long-sought topological state previously observed only in 3D materials. Moreover, iodinene is exceptionally stable under ambient conditions. By applying a tensile strain of 48%, we realize two nearly flat bands with robust topological edge states in between, paving the way for the design and fabrication of tunable topological and spintronic devices.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Dong Li, 
+Yu Wang, 
+Xinlei Zhao, 
+Jisong Gao, 
+Zhicheng Gao, 
+Yudian Zhou, 
+Yogendra Kumar, 
+Chenmin Liu, 
+Xuegao Hu, 
+Qiaoxiao Zhao, 
+Peng Cheng, 
+Masashi Arita, 
+Shin&#8208;ichiro Ideta, 
+Kenya Shimada, 
+Kehui Wu, 
+Yong Xu, 
+Lan Chen, 
+Baojie Feng
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Realization of Iodinene with Tunable Topological Edge States and Flat Bands</dc:title>
+         <dc:identifier>10.1002/adma.202521003</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202521003</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202521003</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202513458</link>
+         <pubDate>Wed, 25 Feb 2026 04:32:40 -0800</pubDate>
+         <dc:date>2026-02-25T04:32:40-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202513458</guid>
+         <title>Engineering Unequal Antipolar Displacement in Ferromagnetic Layered Oxide Heterostructures</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+Atomically precise superlattices of the double perovskites La2NiMnO6 and Sm2NiMnO6 are grown to engineer an unequal antipolar displacement of the La and Sm ions. These structural motifs are confirmed by the scanning transmission electron microscopy and first&#8208;principles calculations. Combined with their robust ferromagnetism, these heterostructures demonstrate a promising pathway toward hybrid improper ferroelectricity in artificially layered oxide systems.
+
+
+
+
+
+
+
+
+Abstract
+Heterostructure engineering provides a versatile route for tailoring emergent functionalities that are often difficult to realize in single&#8208;phase materials. In this work, the focus is on superlattices composed of the insulating and ferromagnetic double perovskites La2NiMnO6 and Sm2NiMnO6, which constitute an intriguing model system. These layered structures are predicted to feature unequal antipolar displacements of the La and Sm ions; when combined with odd periodicity stacking, this structural motif is expected to give rise to polar behavior. The respective superlattices are grown with atomic precision and display robust ferromagnetism, as confirmed by in&#8208;house magnetometry and synchrotron measurements. Scanning transmission electron microscopy combined with first&#8208;principles calculations confirms the presence of the predicted unequal antipolar displacements, paving the way for the realization of hybrid improper ferroelectricity in such oxide&#160;heterostructures.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/56da3e82-1092-43c3-be5c-c14619c954bc/adma71651-gra-0001-m.png"
+     alt="Engineering Unequal Antipolar Displacement in Ferromagnetic Layered Oxide Heterostructures"/&gt;
+&lt;p&gt;Atomically precise superlattices of the double perovskites La&lt;sub&gt;2&lt;/sub&gt;NiMnO&lt;sub&gt;6&lt;/sub&gt; and Sm&lt;sub&gt;2&lt;/sub&gt;NiMnO&lt;sub&gt;6&lt;/sub&gt; are grown to engineer an unequal antipolar displacement of the La and Sm ions. These structural motifs are confirmed by the scanning transmission electron microscopy and first-principles calculations. Combined with their robust ferromagnetism, these heterostructures demonstrate a promising pathway toward hybrid improper ferroelectricity in artificially layered oxide systems.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Heterostructure engineering provides a versatile route for tailoring emergent functionalities that are often difficult to realize in single-phase materials. In this work, the focus is on superlattices composed of the insulating and ferromagnetic double perovskites La&lt;sub&gt;2&lt;/sub&gt;NiMnO&lt;sub&gt;6&lt;/sub&gt; and Sm&lt;sub&gt;2&lt;/sub&gt;NiMnO&lt;sub&gt;6&lt;/sub&gt;, which constitute an intriguing model system. These layered structures are predicted to feature unequal antipolar displacements of the La and Sm ions; when combined with odd periodicity stacking, this structural motif is expected to give rise to polar behavior. The respective superlattices are grown with atomic precision and display robust ferromagnetism, as confirmed by in-house magnetometry and synchrotron measurements. Scanning transmission electron microscopy combined with first-principles calculations confirms the presence of the predicted unequal antipolar displacements, paving the way for the realization of hybrid improper ferroelectricity in such oxide&#160;heterostructures.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jonathan Spring, 
+Natalya S. Fedorova, 
+Alexander Vogel, 
+Javier Herrero&#8208;Mart&#237;n, 
+Evgenios Stylianidis, 
+Pavlo Zubko, 
+Jorge &#205;&#241;iguez&#8208;Gonz&#225;lez, 
+Marta D. Rossell, 
+Marta Gibert
+</dc:creator>
+         <category>Research Article</category>
+         <dc:title>Engineering Unequal Antipolar Displacement in Ferromagnetic Layered Oxide Heterostructures</dc:title>
+         <dc:identifier>10.1002/adma.202513458</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202513458</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202513458</prism:url>
+         <prism:section>Research Article</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202522938</link>
+         <pubDate>Wed, 25 Feb 2026 04:28:13 -0800</pubDate>
+         <dc:date>2026-02-25T04:28:13-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202522938</guid>
+         <title>Broadband Nanocavity Imaging with Machine Vision for Multiplex miRNA Assays</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+This work presents a DBR&#8208;coupled silver nanoparticle nanocavity platform for amplification&#8208;free, multiplexed miRNA assays. Spectrally encoded quantum dot probes enable broadband imaging readout, while Mask R&#8208;CNN&#8211;based machine vision automatically segments and counts emitters across large fields of view. The integrated workflow provides scalable, sensitive, and low cross&#8208;reactivity quantification.
+
+
+
+
+
+
+
+
+ABSTRACT
+Sensitive and multiplexed quantification of microRNAs (miRNAs) remains challenging due to their short length, low abundance, and sequence homology, particularly in complex biological matrices. This paper presents an approach that combines a distributed Bragg reflector (DBR)&#8208;coupled silver nanoparticle (AgNP) gap nanocavity with deep learning instance segmentation for automated image readout. Applied to A549 lung cancer cell extracts, the assay directly quantifies endogenous miR&#8208;191, miR&#8208;25, and miR&#8208;130a without enrichment or amplification. The nanocavity concentrates fields and favors radiative decay, enhancing collection and suppressing quantum dot (QD) blinking, while Mask R&#8208;CNN enables robust, high&#8208;throughput counting and classification. The system achieves an attomolar LOD (&#8764;10&#8722;17&#160;mol/L), a linear dynamic range spanning five orders of magnitude, and &gt;99% correct identification across spectrally encoded channels. These results establish an AI&#8208;enabled nanophotonic biosensing platform that is sensitive, specific, robust, and scalable for multiplexed miRNA analysis in research and clinically relevant matrices.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/133ce982-543a-4bc6-9f14-f0438406fc19/adma72517-gra-0001-m.png"
+     alt="Broadband Nanocavity Imaging with Machine Vision for Multiplex miRNA Assays"/&gt;
+&lt;p&gt;This work presents a DBR-coupled silver nanoparticle nanocavity platform for amplification-free, multiplexed miRNA assays. Spectrally encoded quantum dot probes enable broadband imaging readout, while Mask R-CNN&#8211;based machine vision automatically segments and counts emitters across large fields of view. The integrated workflow provides scalable, sensitive, and low cross-reactivity quantification.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Sensitive and multiplexed quantification of microRNAs (miRNAs) remains challenging due to their short length, low abundance, and sequence homology, particularly in complex biological matrices. This paper presents an approach that combines a distributed Bragg reflector (DBR)-coupled silver nanoparticle (AgNP) gap nanocavity with deep learning instance segmentation for automated image readout. Applied to A549 lung cancer cell extracts, the assay directly quantifies endogenous miR-191, miR-25, and miR-130a without enrichment or amplification. The nanocavity concentrates fields and favors radiative decay, enhancing collection and suppressing quantum dot (QD) blinking, while Mask R-CNN enables robust, high-throughput counting and classification. The system achieves an attomolar LOD (&#8764;10&lt;sup&gt;&#8722;17&lt;/sup&gt;&#160;mol/L), a linear dynamic range spanning five orders of magnitude, and &amp;gt;99% correct identification across spectrally encoded channels. These results establish an AI-enabled nanophotonic biosensing platform that is sensitive, specific, robust, and scalable for multiplexed miRNA analysis in research and clinically relevant matrices.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Bowen Fu, 
+Dong Yang, 
+Zhiyi Yuan, 
+Zhongshu Xiong, 
+Guocheng Fang, 
+Tian Zhou, 
+Xiyu Sun, 
+Ningyuan Nie, 
+Po&#8208;Hao Tseng, 
+Yu&#8208;Cheng Chen
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Broadband Nanocavity Imaging with Machine Vision for Multiplex miRNA Assays</dc:title>
+         <dc:identifier>10.1002/adma.202522938</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202522938</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202522938</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520184</link>
+         <pubDate>Wed, 25 Feb 2026 04:03:46 -0800</pubDate>
+         <dc:date>2026-02-25T04:03:46-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202520184</guid>
+         <title>Guest&#8208;Induced Activation of Multicolor Photoluminescence in Naphthalene Bisimide Liquid Crystals</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+Supramolecular host&#8211;guest design in naphthalene bisimide liquid crystals activates charge&#8208;transfer emission and enables continuous tuning of color (511&#8211;685&#160;nm) and lifetime, spanning prompt fluorescence, TADF, and RTP. Electron&#8208;rich guests and Pt(II) complexes modulate emissive states, while co&#8208;assembled NBI complexes create an energy&#8208;transfer cascade for dual emission. The processable LC platform targets advanced optical encoding and security labeling.
+
+
+
+
+
+
+
+
+ABSTRACT
+Achieving color&#8208; and lifetime&#8208;tunable emission in processable materials remains challenging, as most of the available advanced materials systems exist only in impractical solutions or hard&#8208;to&#8208;process crystals. Liquid crystals (LCs) represent a promising platform due to their processability, though previous work has mainly controlled emission color by external fluorophore doping. In this work, we present a supramolecular strategy to activate and tune both photoluminescence (PL) color and lifetime in naphthalene bisimide (NBI) LCs by embedding electron&#8208;rich guests. The electron&#8208;deficient NBIs form columnar hexagonal mesophases stabilized by nanosegregation of aromatic cores and aliphatic side chains, providing a suitable environment for charge&#8208;transfer (CT) interactions. Incorporating electron&#8208;rich polycyclic aromatics, carbazole derivatives, or square&#8208;planar Pt(II) complexes yields emissive CT states with tunable emission from visible to near&#8208;infrared (511&#8211;685&#160;nm), covering short&#8208;lived fluorescence to long&#8208;lived delayed luminescence of coexisting thermally activated delayed fluorescence (TADF) and room&#8208;temperature phosphorescence (RTP). Co&#8208;assembling two complementary NBI hosts with one guest enables an energy&#8208;transfer cascade that simultaneously supports green and red dual emission of fluorescence and TADF. This additive&#8208;induced activation and host&#8208;mixing approach greatly broadens the luminescence range accessible in LCs, combining tunable photophysical properties with intrinsic processability for next&#8208;generation optical encoding and security labeling technologies.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/f4a40afb-77a7-45e1-ade5-6defb5cd99e7/adma72579-gra-0001-m.png"
+     alt="Guest-Induced Activation of Multicolor Photoluminescence in Naphthalene Bisimide Liquid Crystals"/&gt;
+&lt;p&gt;Supramolecular host&#8211;guest design in naphthalene bisimide liquid crystals activates charge-transfer emission and enables continuous tuning of color (511&#8211;685&#160;nm) and lifetime, spanning prompt fluorescence, TADF, and RTP. Electron-rich guests and Pt(II) complexes modulate emissive states, while co-assembled NBI complexes create an energy-transfer cascade for dual emission. The processable LC platform targets advanced optical encoding and security labeling.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Achieving color- and lifetime-tunable emission in processable materials remains challenging, as most of the available advanced materials systems exist only in impractical solutions or hard-to-process crystals. Liquid crystals (LCs) represent a promising platform due to their processability, though previous work has mainly controlled emission color by external fluorophore doping. In this work, we present a supramolecular strategy to activate and tune both photoluminescence (PL) color and lifetime in naphthalene bisimide (NBI) LCs by embedding electron-rich guests. The electron-deficient NBIs form columnar hexagonal mesophases stabilized by nanosegregation of aromatic cores and aliphatic side chains, providing a suitable environment for charge-transfer (CT) interactions. Incorporating electron-rich polycyclic aromatics, carbazole derivatives, or square-planar Pt(II) complexes yields emissive CT states with tunable emission from visible to near-infrared (511&#8211;685&#160;nm), covering short-lived fluorescence to long-lived delayed luminescence of coexisting thermally activated delayed fluorescence (TADF) and room-temperature phosphorescence (RTP). Co-assembling two complementary NBI hosts with one guest enables an energy-transfer cascade that simultaneously supports green and red dual emission of fluorescence and TADF. This additive-induced activation and host-mixing approach greatly broadens the luminescence range accessible in LCs, combining tunable photophysical properties with intrinsic processability for next-generation optical encoding and security labeling technologies.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Johannes Nowarra, 
+Swadhin Garain, 
+Matthias Stolte, 
+Frank W&#252;rthner
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Guest&#8208;Induced Activation of Multicolor Photoluminescence in Naphthalene Bisimide Liquid Crystals</dc:title>
+         <dc:identifier>10.1002/adma.202520184</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202520184</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520184</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520519</link>
+         <pubDate>Wed, 25 Feb 2026 03:59:14 -0800</pubDate>
+         <dc:date>2026-02-25T03:59:14-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202520519</guid>
+         <title>Building like a Coral&#8212;Parallelized, Multiscale Biofabrication</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+Corals build stiff, strong, and inherently circular skeletal materials under resource&#8208; and energy&#8208;limited conditions&#8212;offering blueprints for transformative materials. We synthesize the current understanding of coral biomineralization and reframe coral growth as a multiscale, parallelized biofabrication process. We outline pathways to sustainable, self&#8208;organising, energy&#8208;efficient manufacturing with relevance to structural materials, biomaterials, and regenerative engineering.
+
+
+
+
+
+
+
+
+ABSTRACT
+Visible from space or residing in the depths of the ocean, scleractinian corals engineer vast ecosystems supporting high biodiversity and providing essential ecosystem services. By creating these ecosystems, corals address significant challenges in material science, generating skeletal materials that are stiff, strong, and inherently circular&#8212;even in conditions where energy and building resources can be scarce or energetically expensive to synthesize. Understanding coral skeletal materials has progressed due to their exceptional mechanical properties, potential biocompatibility, and, in case of cold&#8208;water corals, their ability to be synthesized in darkness, at low temperature, and with limited energy resources. These natural, sustainable processes offer inspiring blueprints for the development of transformative new materials, which may drive radical innovations across biomedical and engineering applications. In this perspective, we synthesize the current state of knowledge on the biomineralization process of corals, including the two prevailing viewpoints&#8212;biologically controlled vs. physicochemical controlled biomineralization. We then recast coral growth as a multiscale, parallelized biofabrication process, that can catalyse the development of next&#8208;generation materials technologies. These insights outline pathways to sustainable, self&#8208;organising, and energy&#8208;efficient manufacturing with broad relevance to structural materials, biomaterials, and regenerative engineering. Ultimately, we strive to answer: &#8220;How to build like a coral?&#8221;
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/d47bd220-7c74-4b83-bd45-17dfb8be26ef/adma72565-gra-0001-m.png"
+     alt="Building like a Coral&#8212;Parallelized, Multiscale Biofabrication"/&gt;
+&lt;p&gt;Corals build stiff, strong, and inherently circular skeletal materials under resource- and energy-limited conditions&#8212;offering blueprints for transformative materials. We synthesize the current understanding of coral biomineralization and reframe coral growth as a multiscale, parallelized biofabrication process. We outline pathways to sustainable, self-organising, energy-efficient manufacturing with relevance to structural materials, biomaterials, and regenerative engineering.
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Visible from space or residing in the depths of the ocean, scleractinian corals engineer vast ecosystems supporting high biodiversity and providing essential ecosystem services. By creating these ecosystems, corals address significant challenges in material science, generating skeletal materials that are stiff, strong, and inherently circular&#8212;even in conditions where energy and building resources can be scarce or energetically expensive to synthesize. Understanding coral skeletal materials has progressed due to their exceptional mechanical properties, potential biocompatibility, and, in case of cold-water corals, their ability to be synthesized in darkness, at low temperature, and with limited energy resources. These natural, sustainable processes offer inspiring blueprints for the development of transformative new materials, which may drive radical innovations across biomedical and engineering applications. In this perspective, we synthesize the current state of knowledge on the biomineralization process of corals, including the two prevailing viewpoints&#8212;biologically controlled vs. physicochemical controlled biomineralization. We then recast coral growth as a multiscale, parallelized biofabrication process, that can catalyse the development of next-generation materials technologies. These insights outline pathways to sustainable, self-organising, and energy-efficient manufacturing with broad relevance to structural materials, biomaterials, and regenerative engineering. Ultimately, we strive to answer: &#8220;How to build like a coral?&#8221;&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Asma Rehman, 
+Marta Pe&#241;a Fern&#225;ndez, 
+Kristina K. Beck, 
+Gavin L. Foster, 
+Sebastian J. Hennige, 
+Uwe Wolfram
+</dc:creator>
+         <category>PERSPECTIVE</category>
+         <dc:title>Building like a Coral&#8212;Parallelized, Multiscale Biofabrication</dc:title>
+         <dc:identifier>10.1002/adma.202520519</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202520519</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520519</prism:url>
+         <prism:section>PERSPECTIVE</prism:section>
+      </item>
       <item>
          <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.72468</link>
          <pubDate>Tue, 24 Feb 2026 22:33:39 -0800</pubDate>
@@ -4866,64 +5342,6 @@ Kuan Sun
          <prism:section>RESEARCH ARTICLE</prism:section>
       </item>
       <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202519118</link>
-         <pubDate>Mon, 23 Feb 2026 03:21:57 -0800</pubDate>
-         <dc:date>2026-02-23T03:21:57-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202519118</guid>
-         <title>Gapless Superconductivity From Extremely Dilute Magnetic Disorder in 2H&#8208;NbSe2&#8208;xSx</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-We demonstrate that 2H&#8208;NbSe2&#8208;xSx hosts gapless superconductivity at unexpectedly low magnetic impurity concentrations. Combining STM, Bogoliubovde Gennes simulations, DFT, and quasiparticle interference, we comprehensively study the development of gapless behavior and show that SeS substitution reshapes the band structure, enhances nesting, and drives in&#8208;gap scattering. Our results reveal an unusual disorder response, emphasizing the decisive role of material&#8208;specific electronic structure. 
-
-
-
-
-
-
-
-
-ABSTRACT
-Most superconducting materials exhibit a vanishing density of states at the Fermi level and Anderson's theorem posits that the superconducting gap is robust against nonmagnetic disorder. Although dilute magnetic impurities lead to localized in&#8208;gap states, these states typically have no bearing on the material's bulk superconducting properties. However, numerous experiments reveal a finite density of states at the Fermi level in systems with an apparently negligible number of magnetic impurities. Here, using scanning tunneling microscopy and self&#8208;consistent Bogoliubov&#8208;de Gennes calculations, we find that gapless superconductivity emerges in 2H&#8208;NbSe2&#8722;xS${\rm NbSe}_{2-x}{\rm S}$x$_x$ at remarkably low magnetic impurity concentrations. Furthermore, our density functional theory calculations and in&#8208;gap quasiparticle interference measurements demonstrate that the Se&#8208;S substitution significantly modifies the band structure. This modification favours nesting and dictates the in&#8208;gap scattering for x&gt;0$x&gt;0$, in stark contrast to the dominant charge density wave interactions in pure 2H&#8208;NbSe2${\rm NbSe}_2$. Our findings reveal an unusual superconducting response to disorder and highlight the importance of incorporating material&#8208;specific band structures in the understanding of a superconductor's response to even very low concentrations of magnetic&#160;impurities.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/03cf791f-6f1e-4dab-ba11-8fd64154a257/adma72494-gra-0001-m.png"
-     alt="Gapless Superconductivity From Extremely Dilute Magnetic Disorder in 2H-NbSe2-xSx"/&gt;
-&lt;p&gt;We demonstrate that 2H-NbSe2-xSx hosts gapless superconductivity at unexpectedly low magnetic impurity concentrations. Combining STM, Bogoliubovde Gennes simulations, DFT, and quasiparticle interference, we comprehensively study the development of gapless behavior and show that SeS substitution reshapes the band structure, enhances nesting, and drives in-gap scattering. Our results reveal an unusual disorder response, emphasizing the decisive role of material-specific electronic structure. 
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Most superconducting materials exhibit a vanishing density of states at the Fermi level and Anderson's theorem posits that the superconducting gap is robust against nonmagnetic disorder. Although dilute magnetic impurities lead to localized in-gap states, these states typically have no bearing on the material's bulk superconducting properties. However, numerous experiments reveal a finite density of states at the Fermi level in systems with an apparently negligible number of magnetic impurities. Here, using scanning tunneling microscopy and self-consistent Bogoliubov-de Gennes calculations, we find that gapless superconductivity emerges in 2H-NbSe2&#8722;xS${\rm NbSe}_{2-x}{\rm S}$x$_x$ at remarkably low magnetic impurity concentrations. Furthermore, our density functional theory calculations and in-gap quasiparticle interference measurements demonstrate that the Se-S substitution significantly modifies the band structure. This modification favours nesting and dictates the in-gap scattering for x&amp;gt;0$x&amp;gt;0$, in stark contrast to the dominant charge density wave interactions in pure 2H-NbSe2${\rm NbSe}_2$. Our findings reveal an unusual superconducting response to disorder and highlight the importance of incorporating material-specific band structures in the understanding of a superconductor's response to even very low concentrations of magnetic&#160;impurities.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Jose Antonio Moreno, 
-Merc&#232; Roig, 
-V&#237;ctor Barrena, 
-Edwin Herrera, 
-Alberto M. Ruiz, 
-Samuel Ma&#241;as&#8208;Valero, 
-Ant&#243;n Fente, 
-Anita Smeets, 
-Jazm&#237;n Arag&#243;n, 
-Yanina Fasano, 
-Beilun Wu, 
-Maria N. Gastiasoro, 
-Eugenio Coronado, 
-Jos&#233; J. Baldov&#237;, 
-Brian M. Andersen, 
-Isabel Guillam&#243;n, 
-Hermann Suderow
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Gapless Superconductivity From Extremely Dilute Magnetic Disorder in 2H&#8208;NbSe2&#8208;xSx</dc:title>
-         <dc:identifier>10.1002/adma.202519118</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202519118</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202519118</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
          <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202518217</link>
          <pubDate>Mon, 23 Feb 2026 03:21:00 -0800</pubDate>
          <dc:date>2026-02-23T03:21:00-08:00</dc:date>
@@ -5020,6 +5438,64 @@ Hai&#8208;Bo Zhao
          <prism:publicationName>Advanced Materials</prism:publicationName>
          <prism:doi>10.1002/adma.202523607</prism:doi>
          <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523607</prism:url>
+         <prism:section>RESEARCH ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202519118</link>
+         <pubDate>Mon, 23 Feb 2026 00:00:00 -0800</pubDate>
+         <dc:date>2026-02-23T12:00:00-08:00</dc:date>
+         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
+         <prism:coverDate />
+         <prism:coverDisplayDate />
+         <guid isPermaLink="false">10.1002/adma.202519118</guid>
+         <title>Gapless Superconductivity From Extremely Dilute Magnetic Disorder in 2H&#8208;NbSe2&#8208;xSx</title>
+         <description>Advanced Materials, EarlyView. </description>
+         <dc:description>
+We demonstrate that 2H&#8208;NbSe2&#8208;xSx hosts gapless superconductivity at unexpectedly low magnetic impurity concentrations. Combining STM, Bogoliubovde Gennes simulations, DFT, and quasiparticle interference, we comprehensively study the development of gapless behavior and show that SeS substitution reshapes the band structure, enhances nesting, and drives in&#8208;gap scattering. Our results reveal an unusual disorder response, emphasizing the decisive role of material&#8208;specific electronic structure. 
+
+
+
+
+
+
+
+
+ABSTRACT
+Most superconducting materials exhibit a vanishing density of states at the Fermi level and Anderson's theorem posits that the superconducting gap is robust against nonmagnetic disorder. Although dilute magnetic impurities lead to localized in&#8208;gap states, these states typically have no bearing on the material's bulk superconducting properties. However, numerous experiments reveal a finite density of states at the Fermi level in systems with an apparently negligible number of magnetic impurities. Here, using scanning tunneling microscopy and self&#8208;consistent Bogoliubov&#8208;de Gennes calculations, we find that gapless superconductivity emerges in 2H&#8208;NbSe2&#8722;xS${\rm NbSe}_{2-x}{\rm S}$x$_x$ at remarkably low magnetic impurity concentrations. Furthermore, our density functional theory calculations and in&#8208;gap quasiparticle interference measurements demonstrate that the Se&#8208;S substitution significantly modifies the band structure. This modification favours nesting and dictates the in&#8208;gap scattering for x&gt;0$x&gt;0$, in stark contrast to the dominant charge density wave interactions in pure 2H&#8208;NbSe2${\rm NbSe}_2$. Our findings reveal an unusual superconducting response to disorder and highlight the importance of incorporating material&#8208;specific band structures in the understanding of a superconductor's response to even very low concentrations of magnetic&#160;impurities.
+</dc:description>
+         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/f076d6e7-2b8f-4632-aa6a-deec44f14f39/adma72494-gra-0001-m.png"
+     alt="Gapless Superconductivity From Extremely Dilute Magnetic Disorder in 2H-NbSe2-xSx"/&gt;
+&lt;p&gt;We demonstrate that 2H-NbSe2-xSx hosts gapless superconductivity at unexpectedly low magnetic impurity concentrations. Combining STM, Bogoliubovde Gennes simulations, DFT, and quasiparticle interference, we comprehensively study the development of gapless behavior and show that SeS substitution reshapes the band structure, enhances nesting, and drives in-gap scattering. Our results reveal an unusual disorder response, emphasizing the decisive role of material-specific electronic structure. 
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;ABSTRACT&lt;/h2&gt;
+&lt;p&gt;Most superconducting materials exhibit a vanishing density of states at the Fermi level and Anderson's theorem posits that the superconducting gap is robust against nonmagnetic disorder. Although dilute magnetic impurities lead to localized in-gap states, these states typically have no bearing on the material's bulk superconducting properties. However, numerous experiments reveal a finite density of states at the Fermi level in systems with an apparently negligible number of magnetic impurities. Here, using scanning tunneling microscopy and self-consistent Bogoliubov-de Gennes calculations, we find that gapless superconductivity emerges in 2H-NbSe2&#8722;xS${\rm NbSe}_{2-x}{\rm S}$x$_x$ at remarkably low magnetic impurity concentrations. Furthermore, our density functional theory calculations and in-gap quasiparticle interference measurements demonstrate that the Se-S substitution significantly modifies the band structure. This modification favours nesting and dictates the in-gap scattering for x&amp;gt;0$x&amp;gt;0$, in stark contrast to the dominant charge density wave interactions in pure 2H-NbSe2${\rm NbSe}_2$. Our findings reveal an unusual superconducting response to disorder and highlight the importance of incorporating material-specific band structures in the understanding of a superconductor's response to even very low concentrations of magnetic&#160;impurities.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Jose Antonio Moreno, 
+Merc&#232; Roig, 
+V&#237;ctor Barrena, 
+Edwin Herrera, 
+Alberto M. Ruiz, 
+Samuel Ma&#241;as&#8208;Valero, 
+Ant&#243;n Fente, 
+Anita Smeets, 
+Jazm&#237;n Arag&#243;n, 
+Yanina Fasano, 
+Beilun Wu, 
+Maria N. Gastiasoro, 
+Eugenio Coronado, 
+Jos&#233; J. Baldov&#237;, 
+Brian M. Andersen, 
+Isabel Guillam&#243;n, 
+Hermann Suderow
+</dc:creator>
+         <category>RESEARCH ARTICLE</category>
+         <dc:title>Gapless Superconductivity From Extremely Dilute Magnetic Disorder in 2H&#8208;NbSe2&#8208;xSx</dc:title>
+         <dc:identifier>10.1002/adma.202519118</dc:identifier>
+         <prism:publicationName>Advanced Materials</prism:publicationName>
+         <prism:doi>10.1002/adma.202519118</prism:doi>
+         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202519118</prism:url>
          <prism:section>RESEARCH ARTICLE</prism:section>
       </item>
       <item>
@@ -12315,446 +12791,6 @@ Guozhen Shen
          <prism:doi>10.1002/adma.202516945</prism:doi>
          <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202516945</prism:url>
          <prism:section>REVIEW</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202518655</link>
-         <pubDate>Wed, 18 Feb 2026 09:01:20 -0800</pubDate>
-         <dc:date>2026-02-18T09:01:20-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202518655</guid>
-         <title>Chemo&#8208;Mechanical Failure and Reinforcement of Solid Electrolyte Films for Practical All&#8208;Solid&#8208;State Li Metal Pouch Cells</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-The inherent incompatibility of sulfide solid electrolyte films with Li metal during high&#8208;pressure pouch cell assembly is revealed and resolved through post engineering reinforcement, which strengthens the interaction between nitrile butadiene rubber binders and Li6PS5Cl. This strategy enables single&#8208;step isostatic pressurization at 450 MPa, ultimately demonstrating bipolar&#8208;stacked all&#8208;solid&#8208;state Li metal batteries.
-
-
-
-
-
-
-
-
-ABSTRACT
-All&#8208;solid&#8208;state Li metal batteries (ASLMBs) are the key to achieving high energy densities; however, studies on practically relevant pouch&#8208;type cells remain scarce. A critical challenge lies in integrating thin solid electrolyte films, particularly under the high pressures required for cell assembly, which has been largely overlooked. Here, we reveal the inherent incompatibility of conventional sulfide solid electrolyte films with Li metal during pouch cell assembly. To address this challenge, we introduce a simple yet effective post&#8208;engineering strategy that modifies the chemical interactions between Li6PS5Cl and nitrile butadiene rubber binders, significantly enhancing the mechanical robustness and Li metal compatibility, even under 450 MPa isostatic pressing. Complementary experimental analyses and finite element method simulations identify the underlying enhancement mechanism as the improvement of mechanical properties, which increases the interfacial friction. Leveraging these advancements, we successfully assemble LiNi0.70Co0.15Mn||Li ASLMB pouch cells without any interlayers through single&#8208;step pressurization, achieving remarkable performance at 3 MPa, with 400&#8208;cycle stability at 60&#176;C and reliable operation at 30&#176;C. Finally, we demonstrate a proof&#8208;of&#8208;concept bipolar&#8208;stacked ASLMB pouch cell, showcasing its scalability and practicality. These findings establish a new benchmark for ASLMBs and provide key design principles for advancing practical high&#8208;energy all&#8208;solid&#8208;state technologies.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/c703dd7c-8d18-47ab-8018-89d8e6684f1f/adma72574-gra-0001-m.png"
-     alt="Chemo-Mechanical Failure and Reinforcement of Solid Electrolyte Films for Practical All-Solid-State Li Metal Pouch Cells"/&gt;
-&lt;p&gt;&lt;b&gt;The inherent incompatibility of sulfide solid electrolyte films with Li metal during high-pressure pouch cell assembly&lt;/b&gt; is revealed and resolved through post engineering reinforcement, which strengthens the interaction between nitrile butadiene rubber binders and Li&lt;sub&gt;6&lt;/sub&gt;PS&lt;sub&gt;5&lt;/sub&gt;Cl. This strategy enables single-step isostatic pressurization at 450 MPa, ultimately demonstrating bipolar-stacked all-solid-state Li metal batteries.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;All-solid-state Li metal batteries (ASLMBs) are the key to achieving high energy densities; however, studies on practically relevant pouch-type cells remain scarce. A critical challenge lies in integrating thin solid electrolyte films, particularly under the high pressures required for cell assembly, which has been largely overlooked. Here, we reveal the inherent incompatibility of conventional sulfide solid electrolyte films with Li metal during pouch cell assembly. To address this challenge, we introduce a simple yet effective post-engineering strategy that modifies the chemical interactions between Li&lt;sub&gt;6&lt;/sub&gt;PS&lt;sub&gt;5&lt;/sub&gt;Cl and nitrile butadiene rubber binders, significantly enhancing the mechanical robustness and Li metal compatibility, even under 450 MPa isostatic pressing. Complementary experimental analyses and finite element method simulations identify the underlying enhancement mechanism as the improvement of mechanical properties, which increases the interfacial friction. Leveraging these advancements, we successfully assemble LiNi&lt;sub&gt;0.70&lt;/sub&gt;Co&lt;sub&gt;0.15&lt;/sub&gt;Mn||Li ASLMB pouch cells without any interlayers through single-step pressurization, achieving remarkable performance at 3 MPa, with 400-cycle stability at 60&#176;C and reliable operation at 30&#176;C. Finally, we demonstrate a proof-of-concept bipolar-stacked ASLMB pouch cell, showcasing its scalability and practicality. These findings establish a new benchmark for ASLMBs and provide key design principles for advancing practical high-energy all-solid-state technologies.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Ki Heon Baeck, 
-Yong Bae Song, 
-Dalyu Kim, 
-Seunggoo Jun, 
-Haechannara Lim, 
-Eugene Choi, 
-Gakyung Kwon, 
-Hae&#8208;Yong Kim, 
-Kyeong&#8208;Seok Oh, 
-Sun&#8208;Phil Han, 
-Sang&#8208;Young Lee, 
-Hana Yoon, 
-Kyung&#8208;Wan Nam, 
-Yun Seog Lee, 
-Yoon Seok Jung
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Chemo&#8208;Mechanical Failure and Reinforcement of Solid Electrolyte Films for Practical All&#8208;Solid&#8208;State Li Metal Pouch Cells</dc:title>
-         <dc:identifier>10.1002/adma.202518655</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202518655</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202518655</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.72577</link>
-         <pubDate>Wed, 18 Feb 2026 04:04:18 -0800</pubDate>
-         <dc:date>2026-02-18T04:04:18-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.72577</guid>
-         <title>Correction to &#8220;Living Artificial Skin: Photosensitizer and Cell Sandwiched Bacterial Cellulose for Chronic Wound Healing&#8221;</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description />
-         <content:encoded />
-         <dc:creator />
-         <category>CORRECTION</category>
-         <dc:title>Correction to &#8220;Living Artificial Skin: Photosensitizer and Cell Sandwiched Bacterial Cellulose for Chronic Wound Healing&#8221;</dc:title>
-         <dc:identifier>10.1002/adma.72577</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.72577</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.72577</prism:url>
-         <prism:section>CORRECTION</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520951</link>
-         <pubDate>Wed, 18 Feb 2026 04:02:03 -0800</pubDate>
-         <dc:date>2026-02-18T04:02:03-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202520951</guid>
-         <title>Engineering Asymmetric and Highly Exposed Fe Single&#8208;Atom Nanozymes for siMMP13 Delivery and Ferroptosis Inhibition in Osteoarthritis Therapy</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-This study reports&#160;a Fe single&#8208;atom nanozyme constructed on 2D N&#8208;doped graphene&#8208;like nanonetwork, It features an asymmetric and highly exposed Fe&#8208;N4&#8208;Cl active site and is functionalized with a cartilage&#8208;targeting peptide and siMMP13. It exhibits multi&#8208;enzyme (SOD/CAT/GPx) activities, enabling potent ROS scavenging, ferroptosis inhibition, and modulation of inflammation via GPX4 upregulation/MMP13 downregulation for precise osteoarthritis (OA) therapy.
-
-
-
-
-
-
-
-
-ABSTRACT
-Ferroptosis, driven by redox imbalance, plays a critical role in osteoarthritis (OA) progression. Although antioxidant nanozymes hold therapeutic potential, designing highly efficient and targeted systems to inhibit ferroptosis remains challenging. Here, we developed a 2D nitrogen&#8208;doped graphene&#8208;like nanomesh (NGM) loaded with asymmetric and highly exposed Fe single atoms, carried with the cartilage&#8208;targeting WYRGRL peptide and siRNA (siMMP13) to form Fe SAzymes (si&#8208;FeSA/NGM&#8208;W) as ferroptosis inhibitors to alleviate OA. By mixed molten salt and Zn removal, exfoliating Zn&#8208;ZIF into an ultrathin 2D hierarchical porous NGM with topological defects and hierarchical structure, we created a scaffold for anchoring asymmetric and highly exposed Fe single atoms. The abundant Fe&#8208;N4&#8208;Cl coordination active sites then introduce strain and defects, which facilitate electron transfer, enhance radical adsorption, and lower reaction barriers, thereby augmenting multi&#8208;enzyme (SOD/CAT/GPx) activities. This enables the functionalized si&#8208;FeSA/NGM&#8208;W to target cartilage, where it inhibits ferroptosis by downregulating MMP13, upregulating GPX4, restoring mitochondrial function, and modulating inflammation, ultimately achieving targeted OA therapy. Mechanistically, this process involves suppression of the IL&#8208;17 pathway and enhancement of glutathione metabolism. This work presents a targeted nanozyme platform for precise OA therapy via ferroptosis inhibition.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/bd833f54-c09e-4dc6-807f-0059f737a963/adma72581-gra-0001-m.png"
-     alt="Engineering Asymmetric and Highly Exposed Fe Single-Atom Nanozymes for siMMP13 Delivery and Ferroptosis Inhibition in Osteoarthritis Therapy"/&gt;
-&lt;p&gt;This study reports&#160;a Fe single-atom nanozyme constructed on 2D N-doped graphene-like nanonetwork, It features an asymmetric and highly exposed Fe-N&lt;sub&gt;4&lt;/sub&gt;-Cl active site and is functionalized with a cartilage-targeting peptide and siMMP13. It exhibits multi-enzyme (SOD/CAT/GPx) activities, enabling potent ROS scavenging, ferroptosis inhibition, and modulation of inflammation via GPX4 upregulation/MMP13 downregulation for precise osteoarthritis (OA) therapy.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Ferroptosis, driven by redox imbalance, plays a critical role in osteoarthritis (OA) progression. Although antioxidant nanozymes hold therapeutic potential, designing highly efficient and targeted systems to inhibit ferroptosis remains challenging. Here, we developed a 2D nitrogen-doped graphene-like nanomesh (NGM) loaded with asymmetric and highly exposed Fe single atoms, carried with the cartilage-targeting WYRGRL peptide and siRNA (siMMP13) to form Fe SAzymes (si-FeSA/NGM-W) as ferroptosis inhibitors to alleviate OA. By mixed molten salt and Zn removal, exfoliating Zn-ZIF into an ultrathin 2D hierarchical porous NGM with topological defects and hierarchical structure, we created a scaffold for anchoring asymmetric and highly exposed Fe single atoms. The abundant Fe-N&lt;sub&gt;4&lt;/sub&gt;-Cl coordination active sites then introduce strain and defects, which facilitate electron transfer, enhance radical adsorption, and lower reaction barriers, thereby augmenting multi-enzyme (SOD/CAT/GPx) activities. This enables the functionalized si-FeSA/NGM-W to target cartilage, where it inhibits ferroptosis by downregulating MMP13, upregulating GPX4, restoring mitochondrial function, and modulating inflammation, ultimately achieving targeted OA therapy. Mechanistically, this process involves suppression of the IL-17 pathway and enhancement of glutathione metabolism. This work presents a targeted nanozyme platform for precise OA therapy via ferroptosis inhibition.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Ji Luo, 
-Feiying Yin, 
-Yuan Liang, 
-Yuting Ye, 
-Shihui Xiao, 
-Jianfeng Guo, 
-Jianhui Xiang, 
-Guanhua Li, 
-Xin Yang, 
-Jiejia Deng, 
-Junxu Yang, 
-Zhengtian Li, 
-Jinmin Zhao, 
-Li Zheng, 
-Kelong Fan, 
-Jingping Zhong
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Engineering Asymmetric and Highly Exposed Fe Single&#8208;Atom Nanozymes for siMMP13 Delivery and Ferroptosis Inhibition in Osteoarthritis Therapy</dc:title>
-         <dc:identifier>10.1002/adma.202520951</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202520951</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202520951</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523570</link>
-         <pubDate>Wed, 18 Feb 2026 04:01:14 -0800</pubDate>
-         <dc:date>2026-02-18T04:01:14-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202523570</guid>
-         <title>Decoding High&#8208;voltage LiCoO2: From Degradation to Stabilization Toward Durable Li&#8208;ion Batteries</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-This review systematically addresses the degradation mechanisms and stabilization strategies for high&#8208;voltage LiCoO2 cathodes. Key enhancement approaches including foreign&#8208;ion doping, surface modifications, structural design, and electrolyte optimization are critically assessed. Emphasis is placed on practical full&#8208;cell integration and scalable manufacturing, bridging material advances with commercial high&#8208;energy&#8208;density battery development. Remaining challenges and future perspectives of high&#8208;energy&#8208;density battery are also outlined.
-
-
-
-
-
-
-
-
-ABSTRACT
-Li&#8208;ion batteries (LIBs) employing the commercially established LiCoO2 (LCO) cathode continue to dominate the market for portable electronic devices. Enhancing their volumetric energy density is crucial for extending the operational duration of advanced smart devices. One direct approach to increasing both specific capacity and energy density involves elevating the cut&#8208;off charging voltage to above 4.6&#160;V (vs Li/Li+). However, high&#8208;voltage operation induces severe material degradation and battery failure, impeding further development of high&#8208;voltage LCO technologies. This review first emphasizes the growing necessity for high&#8208;voltage cathodes in contemporary LIBs, followed by a detailed exploration of the failure mechanisms of LCO at voltages up to 4.6&#160;V. A systematic evaluation of emerging stabilization strategies is provided, covering foreign&#8208;ion (co&#8208;)doping, surface modifications, structural design, and electrolyte additives, all aimed at enhancing their structural integrity and electrochemical performance. Innovative battery design approaches and modification strategies for LCO&#8208;based full cells are also discussed. Finally, the review concludes by identifying key scientific challenges and proposing targeted research avenues to enable high&#8208;energy and durable LIBs using high&#8208;voltage LCO. This review aims to offer guiding principles with significant implications for the rational design and development of high&#8208;voltage cathode materials for advanced LIBs.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/3c674079-7576-495a-8f67-e98bd10f095f/adma72573-gra-0001-m.png"
-     alt="Decoding High-voltage LiCoO2: From Degradation to Stabilization Toward Durable Li-ion Batteries"/&gt;
-&lt;p&gt;This review systematically addresses the degradation mechanisms and stabilization strategies for high-voltage LiCoO&lt;sub&gt;2&lt;/sub&gt; cathodes. Key enhancement approaches including foreign-ion doping, surface modifications, structural design, and electrolyte optimization are critically assessed. Emphasis is placed on practical full-cell integration and scalable manufacturing, bridging material advances with commercial high-energy-density battery development. Remaining challenges and future perspectives of high-energy-density battery are also outlined.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Li-ion batteries (LIBs) employing the commercially established LiCoO&lt;sub&gt;2&lt;/sub&gt; (LCO) cathode continue to dominate the market for portable electronic devices. Enhancing their volumetric energy density is crucial for extending the operational duration of advanced smart devices. One direct approach to increasing both specific capacity and energy density involves elevating the cut-off charging voltage to above 4.6&#160;V (vs Li/Li&lt;sup&gt;+&lt;/sup&gt;). However, high-voltage operation induces severe material degradation and battery failure, impeding further development of high-voltage LCO technologies. This review first emphasizes the growing necessity for high-voltage cathodes in contemporary LIBs, followed by a detailed exploration of the failure mechanisms of LCO at voltages up to 4.6&#160;V. A systematic evaluation of emerging stabilization strategies is provided, covering foreign-ion (co-)doping, surface modifications, structural design, and electrolyte additives, all aimed at enhancing their structural integrity and electrochemical performance. Innovative battery design approaches and modification strategies for LCO-based full cells are also discussed. Finally, the review concludes by identifying key scientific challenges and proposing targeted research avenues to enable high-energy and durable LIBs using high-voltage LCO. This review aims to offer guiding principles with significant implications for the rational design and development of high-voltage cathode materials for advanced LIBs.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Zezhou Lin, 
-Yiran Ying, 
-Huangxu Li, 
-Yanhao Ren, 
-Tiancheng Liu, 
-Peiyu Hou, 
-Haitao Huang
-</dc:creator>
-         <category>REVIEW</category>
-         <dc:title>Decoding High&#8208;voltage LiCoO2: From Degradation to Stabilization Toward Durable Li&#8208;ion Batteries</dc:title>
-         <dc:identifier>10.1002/adma.202523570</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202523570</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523570</prism:url>
-         <prism:section>REVIEW</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523526</link>
-         <pubDate>Wed, 18 Feb 2026 03:51:36 -0800</pubDate>
-         <dc:date>2026-02-18T03:51:36-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202523526</guid>
-         <title>Uncovering Electrochemical&#8208;Mechanical Interplay of Stable Ultrahigh&#8208;Nickel Cathode via Fine Structure Regulation</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-Differences in the interfacial kinetic response between conventional equiaxed grains and nano rod&#8208;shaped grains. The uniform spatial distribution of Mo effectively refines the primary grains and enhances grain toughness, while the deeply penetrating ordered superlattice stabilizes the layered structure, reducing the risk of structural reconstruction on the cathode surface. Furthermore, the finely structured cathode mitigates electrolyte penetration into secondary particles due to the minimal lattice breathing induced by repeated lithium extraction and insertion, thereby curbing the tendency for early kinetic reaction activation.
-
-
-
-
-
-
-
-
-ABSTRACT
-Ni&#8208;rich layered oxides with optimized primary particle structures are crucial for developing lithium&#8208;ion batteries with high energy density. Although conventional high&#8208;valence elements doping effectively refines grains for columnar alignment, the industrial understanding of the processing&#8208;structure&#8208;performance relationship is lacking, and thus limits large&#8208;scale production. Herein, we investigate how molybdenum incorporation routes alter microstructure and performance, revealing a link between early structural evolution and capacity increase trends. Unlike the solid&#8208;phase gradient, the co&#8208;precipitation strategy achieves ultra&#8208;dispersed Mo doping, leading to super&#8208;refined primary particles and a dense structure that reduces microcracking through internal stress dissipation. Notably, it also limits electrolyte penetration, thereby influencing the initial Li+ transport kinetics. Moreover, this process induces a Li/TM cation&#8208;ordered structure that permeates the entire bulk phase of LiNi0.95Co0.04Mo0.01O2, suppressing Li+/Ni2+ cation disorder and mitigating intragranular/intergranular strain. These combined effects significantly enhance the structural robustness, resulting in a high discharge capacity of 204.9 mAh g&#8722;1 at 5C. This work offers a straightforward and scalable industrial solution for enhancing the overall electrochemical performance of Ni&#8208;rich cathodes.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/76b3fad6-5b04-4c84-b0eb-0017de5a2683/adma72604-gra-0001-m.png"
-     alt="Uncovering Electrochemical-Mechanical Interplay of Stable Ultrahigh-Nickel Cathode via Fine Structure Regulation"/&gt;
-&lt;p&gt;Differences in the interfacial kinetic response between conventional equiaxed grains and nano rod-shaped grains. The uniform spatial distribution of Mo effectively refines the primary grains and enhances grain toughness, while the deeply penetrating ordered superlattice stabilizes the layered structure, reducing the risk of structural reconstruction on the cathode surface. Furthermore, the finely structured cathode mitigates electrolyte penetration into secondary particles due to the minimal lattice breathing induced by repeated lithium extraction and insertion, thereby curbing the tendency for early kinetic reaction activation.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Ni-rich layered oxides with optimized primary particle structures are crucial for developing lithium-ion batteries with high energy density. Although conventional high-valence elements doping effectively refines grains for columnar alignment, the industrial understanding of the processing-structure-performance relationship is lacking, and thus limits large-scale production. Herein, we investigate how molybdenum incorporation routes alter microstructure and performance, revealing a link between early structural evolution and capacity increase trends. Unlike the solid-phase gradient, the co-precipitation strategy achieves ultra-dispersed Mo doping, leading to super-refined primary particles and a dense structure that reduces microcracking through internal stress dissipation. Notably, it also limits electrolyte penetration, thereby influencing the initial Li&lt;sup&gt;+&lt;/sup&gt; transport kinetics. Moreover, this process induces a Li/TM cation-ordered structure that permeates the entire bulk phase of LiNi&lt;sub&gt;0.95&lt;/sub&gt;Co&lt;sub&gt;0.04&lt;/sub&gt;Mo&lt;sub&gt;0.01&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;, suppressing Li&lt;sup&gt;+&lt;/sup&gt;/Ni&lt;sup&gt;2+&lt;/sup&gt; cation disorder and mitigating intragranular/intergranular strain. These combined effects significantly enhance the structural robustness, resulting in a high discharge capacity of 204.9 mAh g&lt;sup&gt;&#8722;&lt;/sup&gt;
-&lt;sup&gt;1&lt;/sup&gt; at 5C. This work offers a straightforward and scalable industrial solution for enhancing the overall electrochemical performance of Ni-rich cathodes.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Guiquan Zhao, 
-Yongjiang Sun, 
-Xin Wang, 
-Pujia Cheng, 
-Futong Ren, 
-Qing Liu, 
-Yunchun Zha, 
-Qi An, 
-Li Yang, 
-Xilin Liang, 
-Lu Liu, 
-Bohuai Pang, 
-Huaiyu Shao, 
-Hong Guo
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Uncovering Electrochemical&#8208;Mechanical Interplay of Stable Ultrahigh&#8208;Nickel Cathode via Fine Structure Regulation</dc:title>
-         <dc:identifier>10.1002/adma.202523526</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202523526</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523526</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202515271</link>
-         <pubDate>Tue, 17 Feb 2026 21:36:50 -0800</pubDate>
-         <dc:date>2026-02-17T09:36:50-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202515271</guid>
-         <title>Wavelength&#8208;Multiplexed PUFs Through Single&#8208;Host Multicolor Switching in Cs2NaTbCl6: Eu3+ Double Perovskites</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-We developed wavelength&#8208;multiplexed physical unclonable functions (PUFs) through single&#8208;host multicolor switching in Cs2NaTbCl6: Eu3+ double perovskites, featuring simplified information carriers, unprecedented encoding dimensions, and a near&#8208;zero false negative rate.
-
-
-
-
-
-
-
-
-ABSTRACT
-Physical unclonable functions (PUFs) based on multi&#8208;wavelength emission hold significant promise for advancing high&#8208;capacity hardware security by harnessing intrinsic physical randomness. However, achieving spectrally isolated multi&#8208;channel emission within a single matrix remains a daunting challenge. Herein, we demonstrate a single matrix platform using Cs2NaTbCl6: Eu3+ double perovskite that enables excitation&#8208;programmable multicolor switching through orthogonal optical activation of Tb3+ and Eu3+ centers. This monolithic system exhibits dominant green emission (Tb3+: 5D4&#8594;7F5, 6) under 275 nm excitation, while selective red emission (Eu3+: 5D0&#8594;7F1, 2) under 310 nm excitation, and distinct yellow emission under 275/310 nm co&#8208;stimulation. This unique behavior arises from well&#8208;separated excitation pathways, weak interionic interactions, and suppressed concentration quenching via the large Spacing of rare earth ions and low phonon energy. Leveraging this unique single&#8208;host multiplexing capability, we develop a wavelength&#8208;division multiplexing PUF (WDM&#8208;PUF) featuring simplified information carriers, unprecedented encoding dimensions, and a near&#8208;zero false negative rate through RGY/octal spectral&#8208;channel encoding. Its flexible encoding method and operational simplicity enable its application in color image encryption and programmable information transmission, along with smartphone&#8208;compatible authentication functionality. Our work establishes a new paradigm in optical encryption with wavelength&#8208;multiplexed capacity in a single emissive platform, opening avenues for ultra&#8208;secure anti&#8208;counterfeiting technologies.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/b9f2a087-fb37-44aa-a462-1023f324e225/adma72599-gra-0001-m.png"
-     alt="Wavelength-Multiplexed PUFs Through Single-Host Multicolor Switching in Cs2NaTbCl6: Eu3+ Double Perovskites"/&gt;
-&lt;p&gt;We developed wavelength-multiplexed physical unclonable functions (PUFs) through single-host multicolor switching in Cs&lt;sub&gt;2&lt;/sub&gt;NaTbCl&lt;sub&gt;6&lt;/sub&gt;: Eu&lt;sup&gt;3+&lt;/sup&gt; double perovskites, featuring simplified information carriers, unprecedented encoding dimensions, and a near-zero false negative rate.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Physical unclonable functions (PUFs) based on multi-wavelength emission hold significant promise for advancing high-capacity hardware security by harnessing intrinsic physical randomness. However, achieving spectrally isolated multi-channel emission within a single matrix remains a daunting challenge. Herein, we demonstrate a single matrix platform using Cs&lt;sub&gt;2&lt;/sub&gt;NaTbCl&lt;sub&gt;6&lt;/sub&gt;: Eu&lt;sup&gt;3+&lt;/sup&gt; double perovskite that enables excitation-programmable multicolor switching through orthogonal optical activation of Tb&lt;sup&gt;3+&lt;/sup&gt; and Eu&lt;sup&gt;3+&lt;/sup&gt; centers. This monolithic system exhibits dominant green emission (Tb&lt;sup&gt;3+&lt;/sup&gt;: &lt;sup&gt;5&lt;/sup&gt;D&lt;sub&gt;4&lt;/sub&gt;&#8594;&lt;sup&gt;7&lt;/sup&gt;F&lt;sub&gt;5, 6&lt;/sub&gt;) under 275 nm excitation, while selective red emission (Eu&lt;sup&gt;3+&lt;/sup&gt;: &lt;sup&gt;5&lt;/sup&gt;D&lt;sub&gt;0&lt;/sub&gt;&#8594;&lt;sup&gt;7&lt;/sup&gt;F&lt;sub&gt;1, 2&lt;/sub&gt;) under 310 nm excitation, and distinct yellow emission under 275/310 nm co-stimulation. This unique behavior arises from well-separated excitation pathways, weak interionic interactions, and suppressed concentration quenching via the large Spacing of rare earth ions and low phonon energy. Leveraging this unique single-host multiplexing capability, we develop a wavelength-division multiplexing PUF (WDM-PUF) featuring simplified information carriers, unprecedented encoding dimensions, and a near-zero false negative rate through RGY/octal spectral-channel encoding. Its flexible encoding method and operational simplicity enable its application in color image encryption and programmable information transmission, along with smartphone-compatible authentication functionality. Our work establishes a new paradigm in optical encryption with wavelength-multiplexed capacity in a single emissive platform, opening avenues for ultra-secure anti-counterfeiting technologies.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Yuhan Jing, 
-Fuhang Jiao, 
-Zewen Wang, 
-Jingyu Shang, 
-Xinyao Dong, 
-Ge Zhu, 
-Yanan Ji, 
-Nan Ding, 
-He Wang, 
-Wen Xu, 
-Lin Dong, 
-Bin Dong
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Wavelength&#8208;Multiplexed PUFs Through Single&#8208;Host Multicolor Switching in Cs2NaTbCl6: Eu3+ Double Perovskites</dc:title>
-         <dc:identifier>10.1002/adma.202515271</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202515271</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202515271</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517706</link>
-         <pubDate>Tue, 17 Feb 2026 04:05:13 -0800</pubDate>
-         <dc:date>2026-02-17T04:05:13-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202517706</guid>
-         <title>High&#8208;Throughput In Vivo Subcellular Analysis of Gold Nanoparticles for Tumor Mitochondrial Targeting</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-A DNA barcoding system enables high&#8208;throughput in vivo screening of mitochondrial&#8208;targeting gold nanoparticles. Thirty nanoparticle types with varied shapes, sizes, and ligands are individually barcoded and pooled. The pooled library is administered to tumor&#8208;bearing mice, and barcodes retrieved from tumor mitochondria are amplified and sequenced to quantify each nanoparticle's relative enrichment.
-
-
-
-
-
-
-
-
-ABSTRACT
-Mitochondrial targeting is a powerful strategy for cancer precision therapy. This study presents a subcellular DNA barcoding system for high&#8208;throughput in vivo screening of mitochondrial&#8208;targeting gold nanoparticles (NPs). After validating the robustness of the barcode system with six PEG/TPP&#8209;modified NPs in vitro, the materials library expands to 30 NP species differing in shape, size, and ligand. Their biodistributions are systematically evaluated across subcutaneous, orthotopic, and contralateral tumor models at organ, cell&#8208;subtype, and mitochondrial levels. This multiplexed approach yields more than 1000 data points on in vivo nanoparticle uptake and targeting behaviors, while requiring 30&#8208;fold fewer mice than conventional approaches. The data reveal a strong correlation between tumor accumulation and mitochondrial delivery, indicating that effective tumor accumulation is a prerequisite for mitochondrial targeting. 80 nm cube (CL&#8209;FA) and sphere (PL&#8209;FA) nanoparticles tagged with folic acid (FA) emerge as top performers, with CL&#8209;FA achieving 99% tumor regression when combined with mild photothermal therapy and mitochondria&#8208;targeted siRNA delivery. Underlying mechanisms are attributed to geometry&#8208;dependent protein corona formation patterns and cellular uptake via clathrin&#8209;mediated endocytosis and specific curvature&#8209;sensing protein interactions. Overall, this subcellular high&#8208;throughput barcoding platform offers a rational framework to select inorganic nanomaterials for precision subcellular drug delivery.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/f2f89eb0-cc56-494c-83ea-9cb6855786c2/adma72538-gra-0001-m.png"
-     alt="High-Throughput In Vivo Subcellular Analysis of Gold Nanoparticles for Tumor Mitochondrial Targeting"/&gt;
-&lt;p&gt;A DNA barcoding system enables high-throughput in vivo screening of mitochondrial-targeting gold nanoparticles. Thirty nanoparticle types with varied shapes, sizes, and ligands are individually barcoded and pooled. The pooled library is administered to tumor-bearing mice, and barcodes retrieved from tumor mitochondria are amplified and sequenced to quantify each nanoparticle's relative enrichment.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Mitochondrial targeting is a powerful strategy for cancer precision therapy. This study presents a subcellular DNA barcoding system for high-throughput in vivo screening of mitochondrial-targeting gold nanoparticles (NPs). After validating the robustness of the barcode system with six PEG/TPP&#8209;modified NPs in vitro, the materials library expands to 30 NP species differing in shape, size, and ligand. Their biodistributions are systematically evaluated across subcutaneous, orthotopic, and contralateral tumor models at organ, cell-subtype, and mitochondrial levels. This multiplexed approach yields more than 1000 data points on in vivo nanoparticle uptake and targeting behaviors, while requiring 30-fold fewer mice than conventional approaches. The data reveal a strong correlation between tumor accumulation and mitochondrial delivery, indicating that effective tumor accumulation is a prerequisite for mitochondrial targeting. 80 nm cube (CL&#8209;FA) and sphere (PL&#8209;FA) nanoparticles tagged with folic acid (FA) emerge as top performers, with CL&#8209;FA achieving 99% tumor regression when combined with mild photothermal therapy and mitochondria-targeted siRNA delivery. Underlying mechanisms are attributed to geometry-dependent protein corona formation patterns and cellular uptake via clathrin&#8209;mediated endocytosis and specific curvature&#8209;sensing protein interactions. Overall, this subcellular high-throughput barcoding platform offers a rational framework to select inorganic nanomaterials for precision subcellular drug delivery.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Xingyue Huang, 
-Xuehao Tian, 
-Kuei Chen, 
-Yang Wu, 
-ChenCheng Xue, 
-Yingjie Quek, 
-Jessalyn Low, 
-Arun Kumar, 
-Andy Tay
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>High&#8208;Throughput In Vivo Subcellular Analysis of Gold Nanoparticles for Tumor Mitochondrial Targeting</dc:title>
-         <dc:identifier>10.1002/adma.202517706</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202517706</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517706</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523625</link>
-         <pubDate>Tue, 17 Feb 2026 03:23:49 -0800</pubDate>
-         <dc:date>2026-02-17T03:23:49-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202523625</guid>
-         <title>Phase Tailoring in Ruthenium&#8208;Based Nanomaterials: Strategies, Structures, and Catalytic Applications</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-This review systematically summarizes the recent progress in phase tailoring of Ru&#8208;based nanomaterials. It aims to provide a comprehensive overview of this emerging field, encompassing diverse phase types, underlying thermodynamic and kinetic synthetic principles, key synthetic methods, and representative catalytic applications. Finally, current challenges and future perspectives in this area are outlined to guide further research.
-
-
-
-
-
-
-
-
-ABSTRACT
-Ru&#8208;based nanomaterials are highly promising catalysts for energy storage and conversion due to their high intrinsic activity and cost&#8208;effectiveness among platinum&#8208;group metals. Phase tailoring, which directly controls the atomic arrangement, has emerged as a powerful strategy for precisely tailoring their physicochemical properties. This review provides a comprehensive overview of recent advances in phase tailoring of Ru&#8208;based nanomaterials. It starts with cataloging the newly developed phases of Ru&#8208;based nanomaterials from unconventional crystalline and amorphous structures to intermetallic and chalcogenide compounds, and discusses their synthetic principles from the thermodynamic and kinetic perspectives. We then summarize the representative synthetic methodologies that enable these novel phases and highlight the resulting Ru&#8208;based nanomaterials with novel phases. Furthermore, we review their electrocatalytic applications in water splitting and fuel cells, with the establishment of structure&#8208;performance relationships. Finally, the review concludes by pointing out the potential challenges and presenting a perspective on future research, aiming to guide the rational design of next&#8208;generation Ru&#8208;based catalysts.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/96557acb-885b-415c-961f-55d19a81e43d/adma72578-gra-0001-m.png"
-     alt="Phase Tailoring in Ruthenium-Based Nanomaterials: Strategies, Structures, and Catalytic Applications"/&gt;
-&lt;p&gt;This review systematically summarizes the recent progress in phase tailoring of Ru-based nanomaterials. It aims to provide a comprehensive overview of this emerging field, encompassing diverse phase types, underlying thermodynamic and kinetic synthetic principles, key synthetic methods, and representative catalytic applications. Finally, current challenges and future perspectives in this area are outlined to guide further research.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Ru-based nanomaterials are highly promising catalysts for energy storage and conversion due to their high intrinsic activity and cost-effectiveness among platinum-group metals. Phase tailoring, which directly controls the atomic arrangement, has emerged as a powerful strategy for precisely tailoring their physicochemical properties. This review provides a comprehensive overview of recent advances in phase tailoring of Ru-based nanomaterials. It starts with cataloging the newly developed phases of Ru-based nanomaterials from unconventional crystalline and amorphous structures to intermetallic and chalcogenide compounds, and discusses their synthetic principles from the thermodynamic and kinetic perspectives. We then summarize the representative synthetic methodologies that enable these novel phases and highlight the resulting Ru-based nanomaterials with novel phases. Furthermore, we review their electrocatalytic applications in water splitting and fuel cells, with the establishment of structure-performance relationships. Finally, the review concludes by pointing out the potential challenges and presenting a perspective on future research, aiming to guide the rational design of next-generation Ru-based catalysts.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Qing Yao, 
-Zhiyong Yu, 
-Nanjun Chen, 
-Xiaoqing Huang
-</dc:creator>
-         <category>REVIEW</category>
-         <dc:title>Phase Tailoring in Ruthenium&#8208;Based Nanomaterials: Strategies, Structures, and Catalytic Applications</dc:title>
-         <dc:identifier>10.1002/adma.202523625</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202523625</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523625</prism:url>
-         <prism:section>REVIEW</prism:section>
-      </item>
-      <item>
-         <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523381</link>
-         <pubDate>Tue, 17 Feb 2026 03:20:17 -0800</pubDate>
-         <dc:date>2026-02-17T03:20:17-08:00</dc:date>
-         <source url="https://advanced.onlinelibrary.wiley.com/journal/15214095">Wiley: Advanced Materials: Table of Contents</source>
-         <prism:coverDate />
-         <prism:coverDisplayDate />
-         <guid isPermaLink="false">10.1002/adma.202523381</guid>
-         <title>Accelerated CRISPR/Cas12a&#8208;Based Point&#8208;of&#8208;Care Diagnostics Through Critical Coupling Distance Control</title>
-         <description>Advanced Materials, EarlyView. </description>
-         <dc:description>
-Triblock DNA&#8208;mediated spherical nucleic acids (tSNA) have been developed as a precisely spatially confined reporter that organizes substrates at optimal distances to enhance CRISPR/Cas12a trans&#8208;cleavage activity. This adaptable &#8220;size&#8208;matching&#8221; strategy enables ultrafast and highly sensitive detection of pathogen nucleic acids, opening new avenues for rapid, low&#8208;cost point&#8208;of&#8208;care (POC) diagnostics and biocatalytic systems.
-
-
-
-
-
-
-
-
-ABSTRACT
-Prompt pathogen detection in resource&#8208;limited settings remains constrained by energy&#8208;intensive instrumentation and a shortage of trained personnel. The CRISPR/Cas12a&#8208;based diagnostic technology, despite its robustness as a promising tool, is constrained by suboptimal detection speed and sensitivity. Here we designed triblock DNA&#8208;mediated spherical nucleic acids (tSNA) that acts as a spatially confined reporter with critical coupling distances between substrates, enabling Cas12a protein to rapidly identify concentrated and stretched single&#8208;stranded substrates with size&#8208;matching intervals. Precise control of distances on tSNA of varying sizes revealed a direct correlation between trans&#8208;cleavage efficiency and coupling distance, indicating that only when the distance exceeds the protein size can it offer an appropriate reaction space. It demonstrates a rapid &#8220;scooting&#8221; reaction model on tSNA, resulting in a trans&#8208;cleavage rate of 10&#160;nm A30&#8208;tSNA 12 times faster and a sensitivity that is two orders of magnitude higher than that in bulk solution. Furthermore, tSNA can serve as a novel recognition and colorimetric element in lateral&#8208;flow strips, thereby reducing the detection time for pathogen nucleic acids to just 3 min. This &#8220;size&#8208;matching&#8221; model of tSNA offers a new perspective on the regulation of Cas12a enzymatic activity, establishing a versatile platform to advance diagnostic development through ultrafast, CRISPR&#8208;powered POC systems.
-</dc:description>
-         <content:encoded>&lt;img src="https://advanced.onlinelibrary.wiley.com/cms/asset/c93d8bfb-e5a0-40a3-a4a4-726ea8f46350/adma72442-gra-0001-m.png"
-     alt="Accelerated CRISPR/Cas12a-Based Point-of-Care Diagnostics Through Critical Coupling Distance Control"/&gt;
-&lt;p&gt;Triblock DNA-mediated spherical nucleic acids (tSNA) have been developed as a precisely spatially confined reporter that organizes substrates at optimal distances to enhance CRISPR/Cas12a trans-cleavage activity. This adaptable &#8220;size-matching&#8221; strategy enables ultrafast and highly sensitive detection of pathogen nucleic acids, opening new avenues for rapid, low-cost point-of-care (POC) diagnostics and biocatalytic systems.
-
-&lt;/p&gt;
-&lt;br/&gt;
-&lt;h2&gt;ABSTRACT&lt;/h2&gt;
-&lt;p&gt;Prompt pathogen detection in resource-limited settings remains constrained by energy-intensive instrumentation and a shortage of trained personnel. The CRISPR/Cas12a-based diagnostic technology, despite its robustness as a promising tool, is constrained by suboptimal detection speed and sensitivity. Here we designed triblock DNA-mediated spherical nucleic acids (tSNA) that acts as a spatially confined reporter with critical coupling distances between substrates, enabling Cas12a protein to rapidly identify concentrated and stretched single-stranded substrates with size-matching intervals. Precise control of distances on tSNA of varying sizes revealed a direct correlation between trans-cleavage efficiency and coupling distance, indicating that only when the distance exceeds the protein size can it offer an appropriate reaction space. It demonstrates a rapid &#8220;scooting&#8221; reaction model on tSNA, resulting in a trans-cleavage rate of 10&#160;nm A30-tSNA 12 times faster and a sensitivity that is two orders of magnitude higher than that in bulk solution. Furthermore, tSNA can serve as a novel recognition and colorimetric element in lateral-flow strips, thereby reducing the detection time for pathogen nucleic acids to just 3 min. This &#8220;size-matching&#8221; model of tSNA offers a new perspective on the regulation of Cas12a enzymatic activity, establishing a versatile platform to advance diagnostic development through ultrafast, CRISPR-powered POC systems.&lt;/p&gt;</content:encoded>
-         <dc:creator>
-Tong Su, 
-Dan Zhu, 
-Xiaojian Li, 
-Zhibei Qu, 
-Fang Li, 
-Dongming Zhao, 
-Guoqing Shao, 
-Zhixin Feng, 
-Shao Su, 
-Jie Chao, 
-Xiaolei Zuo, 
-Chunhai Fan, 
-Lianhui Wang
-</dc:creator>
-         <category>RESEARCH ARTICLE</category>
-         <dc:title>Accelerated CRISPR/Cas12a&#8208;Based Point&#8208;of&#8208;Care Diagnostics Through Critical Coupling Distance Control</dc:title>
-         <dc:identifier>10.1002/adma.202523381</dc:identifier>
-         <prism:publicationName>Advanced Materials</prism:publicationName>
-         <prism:doi>10.1002/adma.202523381</prism:doi>
-         <prism:url>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202523381</prism:url>
-         <prism:section>RESEARCH ARTICLE</prism:section>
       </item>
       <item>
          <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517938</link>
