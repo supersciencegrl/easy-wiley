@@ -33,6 +33,7 @@ def getxml(url: str):
         print("Status:", response.status_code)
         print("Final URL:", response.url)
         print("Server:", response.headers.get("Server"))
+        print(response.text[:5000])
         response.raise_for_status()
 
 def read_old_articles(filename: Path) -> list[list[str, str]]:
