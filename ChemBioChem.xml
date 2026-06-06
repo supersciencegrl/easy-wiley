@@ -385,5 +385,28 @@ Thorsten Dieckmann
          <prism:volume>27</prism:volume>
          <prism:number>11</prism:number>
       </item>
+      <item>
+    <link>https://onlinelibrary.wiley.com/journal/14397633</link>
+    <pubDate>Sat, 06 Jun 2026 18:35:00 +0000</pubDate>
+    <dc:date>2026-06-06T18:35:00+00:00</dc:date>
+    <source url="https://onlinelibrary.wiley.com/journal/14397633">Wiley: ChemBioChem</source>
+    <guid isPermaLink="false">easy-wiley-shutdown-notice</guid>
+    <title>Service notice: This feed is no longer available</title>
+    <description>Service notice: The maintainers of this feed regret to inform readers that automated access has become increasingly unreliable due to upstream restrictions.</description>
+
+    <dc:description><![CDATA[
+Apologies, but this feed is closing. Wiley has now decided to block the mechanism that easy-wiley works by, as GitHub Actions is no longer allowed to access its "most recent" content. I have no idea whether Wiley journals have stopped repeating articles in their feeds as I have only used these feeds for years, but given their insistence a few years ago that it was necessary for readers to see the manuscript repeatedly when it gets upgraded between hot off the press, early view, final article, super final mega-evolution, or whatever it is journals like to do, I'm not super optimistic.
+
+I looked into a few possibilities to fix it, but I'm not about to start running my own server for all this, so goodbye easy-wiley!
+
+You can find Wiley's <i>ChemBioChem</i> most recent feed here:
+<a href="https://onlinelibrary.wiley.com/feed/14397633/most-recent">https://onlinelibrary.wiley.com/feed/14397633/most-recent</a>
+
+Check out any of my other chemistry links and resources at <a href="https://supersciencegrl.co.uk/">my personal website</a>.
+    ]]></dc:description>
+
+    <prism:publicationName>ChemBioChem</prism:publicationName>
+    <prism:section>NOTICE</prism:section>
+</item>
    </channel>
 </rss>
