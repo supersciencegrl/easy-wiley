@@ -1,40 +1,98 @@
 import csv
+# from logging import root
 from pathlib import Path
+import re
 import subprocess
+import time
 import xml.etree.ElementTree as ET
 
 import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
 
-def getxml(url: str):   
-    """
-    Retrieve XML data from the given URL and parse it into an ElementTree.
+# def getxml(url: str):   
+#     """
+#     Retrieve XML data from the given URL and parse it into an ElementTree.
 
-    Args:
-        url (str): The URL of the XML data.
+#     Args:
+#         url (str): The URL of the XML data.
 
-    Returns:
-        xml.etree.ElementTree.Element: The root element of the parsed XML.
+#     Returns:
+#         xml.etree.ElementTree.Element: The root element of the parsed XML.
 
-    Raises:
-        requests.HTTPError: If the request to the URL fails.
-    """ 
-    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
-           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-           'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-           'Accept-Encoding': 'none',
-           'Accept-Language': 'en-US,en;q=0.8',
-           'Connection': 'keep-alive'}
+#     Raises:
+#         requests.HTTPError: If the request to the URL fails.
+#     """ 
+#     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
+#            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+#            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+#            'Accept-Encoding': 'none',
+#            'Accept-Language': 'en-US,en;q=0.8',
+#            'Connection': 'keep-alive'}
 
-    response = requests.get(url, headers = headers)
-    if response.status_code == 200:
-        root = ET.fromstring(response.content)
-        return root
-    else:
-        print("Status:", response.status_code)
-        print("Final URL:", response.url)
-        print("Server:", response.headers.get("Server"))
-        print(response.text[:5000])
-        response.raise_for_status()
+#     response = requests.get(url, headers = headers)
+#     if response.status_code == 200:
+#         root = ET.fromstring(response.content)
+#         return root
+#     else:
+#         print("Status:", response.status_code)
+#         print("Final URL:", response.url)
+#         print("Server:", response.headers.get("Server"))
+#         print(response.text[:5000])
+#         response.raise_for_status()
+
+def get_cookies_from_browser(url: str):
+    options = Options()
+    options.add_argument("--headless=new")
+
+    driver = webdriver.Chrome(
+        service=Service(ChromeDriverManager().install()),
+        options=options
+    )
+
+    try:
+        driver.get(url)
+        cookies = driver.get_cookies()
+        return cookies
+
+    finally:
+        driver.quit()
+
+
+def getxml(url: str):
+
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+        )
+    }
+
+    # 1. try normal request first
+    r = requests.get(url, headers=headers)
+
+    if r.status_code == 200 and "<rss" in r.text:
+        return ET.fromstring(r.content)
+
+    # 2. fallback: use selenium cookies
+    cookies = get_cookies_from_browser(url)
+
+    session = requests.Session()
+    for c in cookies:
+        session.cookies.set(c["name"], c["value"])
+
+    r2 = session.get(url, headers=headers)
+
+    if "<rss" in r2.text:
+        return ET.fromstring(r2.content)
+
+    # 3. final debug output
+    print("FAILED RESPONSE START:")
+    print(r2.text[:2000])
+
+    raise ValueError("Could not retrieve RSS feed as XML")
 
 def read_old_articles(filename: Path) -> list[list[str, str]]:
     """
