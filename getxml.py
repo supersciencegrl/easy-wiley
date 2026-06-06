@@ -30,6 +30,9 @@ def getxml(url: str):
         root = ET.fromstring(response.content)
         return root
     else:
+        print("Status:", response.status_code)
+        print("Final URL:", response.url)
+        print("Server:", response.headers.get("Server"))
         response.raise_for_status()
 
 def read_old_articles(filename: Path) -> list[list[str, str]]:
