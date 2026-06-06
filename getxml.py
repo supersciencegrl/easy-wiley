@@ -1,9 +1,6 @@
 import csv
-# from logging import root
 from pathlib import Path
-import re
 import subprocess
-import time
 import xml.etree.ElementTree as ET
 
 import requests
@@ -12,38 +9,59 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
-# def getxml(url: str):   
-#     """
-#     Retrieve XML data from the given URL and parse it into an ElementTree.
+def old_getxml(url: str):   
+    """
+    Retrieve XML data from the given URL and parse it into an ElementTree.
 
-#     Args:
-#         url (str): The URL of the XML data.
+    Args:
+        url (str): The URL of the XML data.
 
-#     Returns:
-#         xml.etree.ElementTree.Element: The root element of the parsed XML.
+    Returns:
+        xml.etree.ElementTree.Element: The root element of the parsed XML.
 
-#     Raises:
-#         requests.HTTPError: If the request to the URL fails.
-#     """ 
-#     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
-#            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-#            'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-#            'Accept-Encoding': 'none',
-#            'Accept-Language': 'en-US,en;q=0.8',
-#            'Connection': 'keep-alive'}
+    Raises:
+        requests.HTTPError: If the request to the URL fails.
+    """ 
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36',
+           'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+           'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
+           'Accept-Encoding': 'none',
+           'Accept-Language': 'en-US,en;q=0.8',
+           'Connection': 'keep-alive'
+           }
 
-#     response = requests.get(url, headers = headers)
-#     if response.status_code == 200:
-#         root = ET.fromstring(response.content)
-#         return root
-#     else:
-#         print("Status:", response.status_code)
-#         print("Final URL:", response.url)
-#         print("Server:", response.headers.get("Server"))
-#         print(response.text[:5000])
-#         response.raise_for_status()
+    response = requests.get(url, headers = headers)
+    if response.status_code == 200:
+        root = ET.fromstring(response.content)
 
-def get_cookies_from_browser(url: str):
+        return root
+    else:
+        print("Status:", response.status_code)
+        print("Final URL:", response.url)
+        print("Server:", response.headers.get("Server"))
+        print(response.text[:5000])
+        response.raise_for_status()
+
+def get_cookies_from_browser(url: str) -> list[dict[str, str]]:
+    """
+    Launches a headless Chrome browser to retrieve cookies from a given URL.
+
+    This function uses Selenium to open the specified URL in a headless Chrome
+    session and extracts all cookies set by the page. It is typically used to
+    capture session or authentication cookies for subsequent HTTP requests.
+
+    Args:
+        url (str): The target URL to load in the browser.
+
+    Returns:
+        list[dict[str, str]]: A list of cookies, where each cookie is represented as a
+            dictionary containing fields such as 'name', 'value', 'domain',
+            'path', and other standard cookie attributes.
+
+    Raises:
+        WebDriverException: If the Selenium WebDriver fails to start or
+        navigate to the URL.
+    """
     options = Options()
     options.add_argument("--headless=new")
 
@@ -60,9 +78,33 @@ def get_cookies_from_browser(url: str):
     finally:
         driver.quit()
 
+def getxml(url: str) -> ET.Element:
+    """
+    Retrieves and parses an RSS XML feed from a given URL, with fallback mechanisms
+    for handling Cloudflare-protected responses.
 
-def getxml(url: str):
+    The function first attempts a direct HTTP GET request using the `requests`
+    library with a browser-like User-Agent header. If this succeeds and the
+    response contains RSS XML content, it is parsed and returned.
 
+    If the direct request fails or does not return valid RSS content, the function
+    falls back to using Selenium to obtain browser cookies. These cookies are then
+    attached to a new `requests.Session()` request in an attempt to bypass
+    protection mechanisms such as Cloudflare challenges.
+
+    If both approaches fail, a debug preview of the response is printed and a
+    ValueError is raised.
+
+    Args:
+        url (str): The URL of the RSS feed to retrieve.
+
+    Returns:
+        xml.etree.ElementTree.Element: The root element of the parsed RSS XML tree.
+
+    Raises:
+        ValueError: If the RSS feed cannot be retrieved or parsed as valid XML.
+        requests.RequestException: If HTTP requests fail during retrieval.
+    """
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -111,7 +153,7 @@ def read_old_articles(filename: Path) -> list[list[str, str]]:
         old_articles = list(reader)
     return old_articles
 
-def extract_doi_and_date(paper: ET.Element, cdate: str) -> tuple[str, str]:
+def extract_doi_and_date(paper: ET.Element, cdate: str) -> tuple[str|None, str|None]:
     """
     Extracts the DOI and publication date from an XML element representing a paper.
     
@@ -120,7 +162,8 @@ def extract_doi_and_date(paper: ET.Element, cdate: str) -> tuple[str, str]:
         cdate (str): The current date in 'YYYY-MM-DD' format to use if no date is found.
 
     Returns:
-        tuple[str, str]: A tuple containing the DOI and the date.
+        tuple[str, str]: A tuple containing the DOI and the date. Or, 
+        tuple[None, None] if no DOI is found. If no date is found, the date will be 'none'.
     """
     # Extract DOI
     for doi in paper.findall('{http://prismstandard.org/namespaces/basic/2.0/}doi'):
@@ -308,7 +351,6 @@ def get_xml_from_file(filepath: Path=Path('acie.xml')):
 
     Raises:
         FileNotFoundError: If the file is not found.
-
     """
     try:
         tree = ET.parse(filepath)
@@ -327,7 +369,6 @@ def github_push(commitmsg: str):
 
     Raises:
         subprocess.CalledProcessError: If any of the Git commands fail.
-
     """
     print(subprocess.check_output('git init'))
     print(subprocess.check_output('git add .'))
